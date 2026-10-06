@@ -3,14 +3,18 @@
 YGU Rehberi (ygurehberi.com) tanıtım sitesi: Yangın Güvenlik Uzmanlığı rehberi + ücretsiz periyodik yangın kontrolü ön değerlendirme aracı.
 
 ## Tasarım (onaylı, birebir uygulanır)
-- `design/Main.dc.html`: landing. `design/kontrol/*.dc.html`: ücretsiz kontrol aracı ekranları. `design/canvas.json`: tasarım dizini (Claude Design tuvali "YGU Rehberi Landing").
-- Görseller: `/_blob/c08b224b8e6a483624f038079a216de0` = `design/assets/logo.png`, `/_blob/c74208a754d180c56627ccb7b20ba66e` = `design/assets/bina-yukseklik.svg`.
-- `.dc.html` tasarım aracının biçimidir (`<x-dc>`, `{{…}}`); Vue bileşenlerine çevrilir, olduğu gibi kopyalanmaz.
+- **Landing:** `design/ygurehberi-landing.html` (4 videolu hero slider'lı son sürüm; Claude'da hazırlanan `ygurehberi-landing_8.html`). Uygulaması `pages/index.vue` + `components/HeroSlider.vue` + `assets/css/main.css`.
+- **Kontrol aracı (henüz yapılmadı):** `design/kontrol/*.dc.html` ekranları, `design/canvas.json` (Claude Design tuvali "YGU Rehberi Landing"). Tuvalin eski landing'i (Main.dc.html) kullanılmıyor, depodan çıkarıldı.
+- Görseller: `public/logo.png` (koyu zemin logosu, tasarımdaki gömülü PNG), `design/assets/logo.png` (açık zemin), `design/assets/bina-yukseklik.svg` (kontrol aracı).
+- Videolar mixkit.co'dan doğrudan yükleniyor (tasarımdaki gibi).
 - Metin, bölüm sırası, renk ve yazı tipi değiştirilmez; değişiklik gerekirse önce sorulur.
-- Yazı tipleri: Archivo (başlık), IBM Plex Sans (metin). Renkler: #141414 koyu zemin, #F6F4F1 açık zemin, #1A1A1A metin, #4A4640 ikincil metin, #E2DDD5 çizgi, #F5B400 vurgu (sarı), #8A5F00 sarı üstü koyu metin/bağlantı.
+- Yazı tipleri: Archivo (başlık), IBM Plex Sans (metin). Renkler `assets/css/main.css` başındaki değişkenlerde.
 
 ## Teknik
-- Nuxt, `nuxt generate` ile statik çıktı. Yeni npm paketi ancak sorarak.
+- Nuxt 4, `nuxt generate` ile statik çıktı. Hero slider: Swiper (kullanıcı hazır bileşen istedi). Yeni npm paketi ancak sorarak.
+- Yayın: `npm run build:deploy` → `deploy/` (depoda tutulur) → GitHub → cPanel › Git Version Control › Update from Remote + Deploy HEAD Commit → `.cpanel.yml` `deploy/`'u public_html'e kopyalar.
+- `NUXT_PUBLIC_ARAC_URL`: kontrol aracının adresi (tasarımda [ARAC-LINKI]); boşsa düğme #bulten'e gider.
+- Bülten formu henüz bir yere kaydetmiyor (tasarımdaki TODO).
 - Telefon genişliğinde (≈400 px) düzgün çalışır; SEO metinleri Türkçe.
 
 ## İçerik
@@ -18,4 +22,4 @@ YGU Rehberi (ygurehberi.com) tanıtım sitesi: Yangın Güvenlik Uzmanlığı re
 - Yer tutucular ([İLETİŞİM E-POSTASI] vb.) bilgi gelene kadar olduğu gibi kalır.
 
 ## Çalışma biçimi
-- Commit/push kullanıcıda.
+- Commit/push kullanıcıda (kullanıcı istediğinde yapılır).
