@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Bina bilgilerini oluşturun</title>
+<script src="../support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&amp;family=IBM+Plex+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;background:#F6F4F1}
+a{color:#8A5F00}a:hover{color:#5E4100}
+</style>
+</helmet>
+<div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; color: #1A1A1A; background: #F6F4F1; min-height: 100vh;">
+<main style="max-width: 1520px; margin: 0 auto; padding: 24px; display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; box-sizing: border-box;">
+
+<div style="flex: 999 1 640px; min-width: 0; display: flex; flex-direction: column; gap: 24px;">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<h1 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: clamp(30px, 3.2vw, 42px); letter-spacing: -0.01em;">Bina bilgilerini oluşturun</h1>
+<p style="margin: 0; font-size: 18px; color: #4A4640;">Binadaki tüm kullanımları tek seferde girin; sonucu anlık olarak bina görünümünde izleyin.</p>
+</div>
+
+
+<sc-if value="{{stageTip}}" hint-placeholder-val="{{ true }}">
+<section style="background: #FFFFFF; border: 1px solid #EDE8E1; border-radius: 14px; padding: 24px 22px; display: flex; flex-direction: column; gap: 16px;">
+<div style="display: flex; flex-direction: column; gap: 4px;">
+<h2 style="margin: 0; font-size: 22px; font-weight: 700;">Yapı düzeni</h2>
+<span style="font-size: 15px; color: #4A4640;">BYKHY Madde 8 · Binanın esas kullanımına en uygun olanı seçin. Diğer kullanımları sonraki adımda ekleyeceksiniz.</span>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px;">
+<sc-for list="{{mainCards}}" as="m" hint-placeholder-count="9">
+<button onClick="{{m.pick}}" style="{{m.style}}"><span style="display: flex; justify-content: space-between; align-items: center; gap: 8px;"><span style="display: flex; align-items: center; gap: 10px;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="{{m.icon}}"></path></svg><strong style="font-size: 16px;">{{m.label}}</strong></span><span style="font-size: 12px; font-weight: 600; background: #EDE8E1; color: #4A4640; padding: 2px 7px; border-radius: 4px;">{{m.madde}}</span></span><span style="font-size: 13px; line-height: 1.45; color: #4A4640;">{{m.desc}}</span></button>
+</sc-for>
+</div>
+</section>
+<div style="display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap;">
+<a href="Giris.dc.html" style="text-decoration: none; color: #1A1A1A; font-size: 18px; font-weight: 700; background: #FFFFFF; border: 1px solid #D9D4CC; border-radius: 10px; padding: 0 26px; min-height: 58px; display: inline-flex; align-items: center;">← Geri</a>
+<button onClick="{{toDetay}}" style="{{nextStyle}}">İleri: Kullanımlar →</button>
+</div>
+</sc-if>
+<sc-if value="{{stageDetay}}" hint-placeholder-val="{{ false }}">
+<section style="background: #FFFFFF; border: 1px solid #EDE8E1; border-radius: 14px; padding: 24px 22px; display: flex; flex-direction: column; gap: 14px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 12px;">
+<h2 style="margin: 0; font-size: 22px; font-weight: 700;">Binadaki kullanımlar</h2>
+<span style="font-size: 14px; color: #5E5850;">Yapı düzeni: <strong style="color: #1A1A1A;">{{mainLabel}}</strong> · {{count}} kayıt</span>
+</div>
+<div style="overflow-x: auto;">
+<div style="min-width: 680px; display: flex; flex-direction: column; gap: 12px;">
+<div style="display: grid; grid-template-columns: minmax(0, 2.3fr) 130px minmax(150px, 1.2fr) 40px; gap: 14px; padding: 0 10px; font-size: 13px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4A4640;"><span>Kullanım</span><span>Alan (m²)</span><span>Durum</span><span></span></div>
+<sc-for list="{{rows}}" as="r" hint-placeholder-count="4">
+<div style="display: grid; grid-template-columns: minmax(0, 2.3fr) 130px minmax(150px, 1.2fr) 40px; gap: 14px; align-items: center; background: #F6F4F1; border-radius: 10px; padding: 14px 10px;">
+<div style="display: flex; gap: 14px; align-items: center; min-width: 0;">
+<span style="width: 40px; flex: none; display: inline-flex; justify-content: center; color: #1A1A1A;"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="{{r.icon}}"></path></svg></span>
+<span style="display: flex; flex-direction: column; gap: 3px; min-width: 0;"><span style="font-size: 17px;"><strong>{{r.label}}</strong> <span style="color: #4A4640;">· {{r.madde}}</span></span><span style="font-size: 14px; color: #4A4640;">{{r.detail}}</span></span>
+</div>
+<sc-if value="{{r.isAna}}" hint-placeholder-val="{{ false }}"><span style="font-size: 18px; color: #4A4640; padding-left: 4px;">—</span></sc-if>
+<sc-if value="{{r.notAna}}" hint-placeholder-val="{{ true }}"><input aria-label="Alan (m²)" type="text" value="{{r.alan}}" onInput="{{r.setAlan}}" style="font: inherit; font-size: 16px; width: 100%; box-sizing: border-box; padding: 10px 12px; min-height: 44px; border: 1px solid #D9D4CC; border-radius: 8px; background: #FFFFFF;"></sc-if>
+<span style="{{r.badge}}">{{r.durum}}</span>
+<button aria-label="Kullanımı sil" onClick="{{r.remove}}" style="width: 40px; height: 40px; border: 0; background: transparent; color: #4A4640; cursor: pointer; display: inline-flex; align-items: center; justify-content: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"></path></svg></button>
+</div>
+</sc-for>
+</div>
+</div>
+
+<sc-if value="{{adding}}" hint-placeholder-val="{{ false }}">
+<div style="border: 2px solid #141414; border-radius: 10px; padding: 16px; display: flex; flex-direction: column; gap: 12px;">
+<strong style="font-size: 16px;">Binaya kullanım ekle</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<sc-for list="{{classChips}}" as="c" hint-placeholder-count="9"><button onClick="{{c.pick}}" style="{{c.style}}">{{c.label}} <span style="opacity: 0.7;">{{c.madde}}</span></button></sc-for>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-end;">
+<label style="flex: 1 1 200px; display: flex; flex-direction: column; gap: 6px; font-size: 14px; font-weight: 600;">Açıklama<input type="text" placeholder="Örn. Restoran" value="{{dDetail}}" onInput="{{setDetail}}" style="font: inherit; font-weight: 400; font-size: 15px; padding: 10px 12px; min-height: 44px; border: 1px solid #B9B2A7; border-radius: 8px; box-sizing: border-box;"></label>
+<button onClick="{{save}}" style="{{saveStyle}}">Ekle</button>
+<button onClick="{{cancel}}" style="font: inherit; font-size: 15px; font-weight: 600; background: #FFFFFF; border: 1px solid #D9D4CC; border-radius: 8px; padding: 0 16px; min-height: 44px; cursor: pointer;">Vazgeç</button>
+</div>
+</div>
+</sc-if>
+<sc-if value="{{notAdding}}" hint-placeholder-val="{{ true }}">
+<button onClick="{{startAdd}}" style="align-self: flex-start; font: inherit; font-size: 18px; font-weight: 700; color: #8A5F00; background: #FFFFFF; border: 1.5px dashed #C99400; border-radius: 8px; padding: 14px 24px; min-height: 52px; cursor: pointer;">+ Kullanım ekle</button>
+</sc-if>
+
+<div style="height: 1px; background: #EDE8E1; margin: 10px 0;"></div>
+<h3 style="margin: 0; font-size: 19px; font-weight: 700;">Bina genel bilgileri</h3>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px;">
+<label style="display: flex; flex-direction: column; gap: 8px; font-size: 15px; color: #4A4640;">Bina yüksekliği
+<span style="display: flex; border: 1px solid #D9D4CC; border-radius: 8px; overflow: hidden; background: #FFFFFF;"><input type="text" value="{{height}}" onInput="{{setHeight}}" style="font: inherit; font-size: 16px; color: #1A1A1A; flex: 1; min-width: 0; border: 0; padding: 12px 14px; min-height: 44px;"><span style="border-left: 1px solid #D9D4CC; padding: 0 16px; display: flex; align-items: center; color: #4A4640;">m</span></span></label>
+</div>
+</section>
+
+<div style="display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap;">
+<button onClick="{{toTip}}" style="font: inherit; color: #1A1A1A; font-size: 18px; font-weight: 700; background: #FFFFFF; border: 1px solid #D9D4CC; border-radius: 10px; padding: 0 26px; min-height: 58px; cursor: pointer;">← Geri</button>
+<a href="BinaSonuc.dc.html" style="text-decoration: none; color: #FFFFFF; font-size: 19px; font-weight: 700; background: #141414; border-radius: 10px; padding: 0 26px; min-height: 58px; display: inline-flex; align-items: center;">İleri: Kontrol ve sonuç →</a>
+</div>
+</sc-if>
+</div>
+
+<aside style="flex: 1 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 22px;">
+<section style="background: #141414; border-radius: 14px; overflow: hidden; display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 18px 20px 8px;">
+<span style="font-size: 16px; font-weight: 700; letter-spacing: 0.06em; color: #F6F4F1;"><span style="color: #F5B400;">BİNA GÖRÜNÜMÜ</span></span>
+<button aria-label="Tam ekran" style="width: 40px; height: 40px; border: 1px solid #5A554E; border-radius: 8px; background: transparent; color: #F6F4F1; display: inline-flex; align-items: center; justify-content: center; cursor: pointer;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M14 4h6v6M10 20H4v-6M20 4l-7 7M4 20l7-7"></path></svg></button>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; padding: 8px 20px 22px;">
+<div style="position: relative; flex: 1 1 280px; max-width: 340px;">
+<svg width="340" height="380" viewBox="0 0 340 380" role="img" aria-label="Bina görünümü" style="width: 100%; height: auto; display: block;">
+<circle cx="250" cy="90" r="52" fill="#F5B400" opacity="0.14"></circle>
+<rect x="190" y="{{fb.towerY}}" width="110" height="{{fb.towerH}}" fill="#2A2724"></rect>
+<sc-for list="{{fb.towerWins}}" as="w" hint-placeholder-count="8"><rect x="{{w.x}}" y="{{w.y}}" width="16" height="10" fill="#3A3631"></rect></sc-for>
+<rect x="66" y="{{fb.roofY}}" width="168" height="8" fill="#D9D4CC"></rect>
+<rect x="70" y="{{fb.anaY}}" width="160" height="{{fb.anaH}}" fill="{{fb.anaFill}}"></rect>
+<sc-for list="{{fb.wins}}" as="w" hint-placeholder-count="12"><rect x="{{w.x}}" y="{{w.y}}" width="22" height="16" rx="1" fill="{{w.f}}"></rect></sc-for>
+<sc-for list="{{fb.bands}}" as="bd" hint-placeholder-count="2">
+<g>
+<rect x="70" y="{{bd.y}}" width="160" height="{{bd.h}}" fill="{{bd.f}}"></rect>
+<rect x="70" y="{{bd.y}}" width="160" height="4" fill="{{bd.edge}}"></rect>
+<rect x="80" y="{{bd.gy}}" width="92" height="{{bd.gh}}" fill="{{bd.glass}}"></rect>
+<rect x="182" y="{{bd.gy}}" width="38" height="{{bd.gh}}" fill="#141414" opacity="0.8"></rect>
+</g>
+</sc-for>
+<line x1="30" y1="352" x2="320" y2="352" stroke="#3A3631" stroke-width="3"></line>
+<rect x="244" y="316" width="16" height="34" rx="4" fill="#F5B400"></rect>
+<rect x="248" y="309" width="8" height="8" rx="2" fill="#F5B400"></rect>
+<path d="M290 290c3 12 16 19 16 34a16 16 0 0 1-32 0c0-10 6-13 6-21 6 3 10 9 10 15" fill="none" stroke="#F5B400" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+<sc-if value="{{fb.showDim}}" hint-placeholder-val="{{ true }}">
+<g>
+<line x1="44" y1="{{fb.roofY}}" x2="44" y2="350" stroke="#F5B400" stroke-width="2"></line>
+<line x1="36" y1="{{fb.roofY}}" x2="52" y2="{{fb.roofY}}" stroke="#F5B400" stroke-width="2"></line>
+<line x1="36" y1="350" x2="52" y2="350" stroke="#F5B400" stroke-width="2"></line>
+</g>
+</sc-if>
+</svg>
+<span style="{{fb.pillStyle}}">{{fb.hLabel}}</span>
+</div>
+<div style="flex: 1 1 180px; display: flex; flex-direction: column; gap: 10px; max-height: 380px; overflow-y: auto;">
+<sc-for list="{{callouts}}" as="co" hint-placeholder-count="3">
+<div style="{{co.style}}"><span style="font-size: 12px; color: #CFC9BF; text-transform: uppercase; letter-spacing: 0.06em;">{{co.kat}}</span><span style="font-weight: 700;">{{co.name}}</span><span style="font-size: 14px; color: #CFC9BF;">{{co.area}}</span></div>
+</sc-for>
+</div>
+</div>
+</section>
+
+<section style="background: #FFFFFF; border: 1px solid #EDE8E1; border-radius: 14px; padding: 20px; display: flex; flex-direction: column; gap: 16px;">
+<h2 style="margin: 0; font-size: 20px; font-weight: 700;">Bina Özeti</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px;">
+<div style="border: 1px solid #EDE8E1; border-radius: 10px; padding: 14px; display: flex; gap: 12px; align-items: center;"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z M3 13l9 5 9-5 M3 17l9 5 9-5"></path></svg><span style="display: flex; flex-direction: column;"><span style="font-size: 12px; color: #4A4640;">Toplam kullanım alanı</span><strong style="font-size: 20px;">{{totalArea}} m²</strong></span></div>
+<div style="border: 1px solid #EDE8E1; border-radius: 10px; padding: 14px; display: flex; gap: 12px; align-items: center;"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M12 3v18M8 7l4-4 4 4M8 17l4 4 4-4"></path></svg><span style="display: flex; flex-direction: column;"><span style="font-size: 12px; color: #4A4640;">Bina yüksekliği</span><strong style="font-size: 20px;">{{heightLabel}}</strong></span></div>
+<div style="border: 1px solid #EDE8E1; border-radius: 10px; padding: 14px; display: flex; gap: 12px; align-items: center;"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.8" aria-hidden="true"><rect x="4" y="4" width="7" height="7"></rect><rect x="13" y="4" width="7" height="7"></rect><rect x="4" y="13" width="7" height="7"></rect><rect x="13" y="13" width="7" height="7"></rect></svg><span style="display: flex; flex-direction: column;"><span style="font-size: 12px; color: #4A4640;">Farklı kullanım</span><strong style="font-size: 20px;">{{diffCount}}</strong></span></div>
+</div>
+</section>
+</aside>
+</main>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1536,"height":1024}}'>
+var CLASSES = [
+  { id: 'konut', label: 'Konut', madde: 'Md. 9', icon: 'M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z' },
+  { id: 'konaklama', label: 'Konaklama', madde: 'Md. 10', icon: 'M7 3v8M5 3v4a2 2 0 0 0 4 0V3M7 11v10M16 3c-2 1-3 4-3 7h3v11' },
+  { id: 'kurumsal', label: 'Kurumsal', madde: 'Md. 11', icon: 'M3 21h18M5 21V10M19 21V10M9 21v-6h6v6M2 10l10-6 10 6' },
+  { id: 'buro', label: 'Büro', madde: 'Md. 12', icon: 'M4 7h16v13H4zM9 7V4h6v3M4 12h16' },
+  { id: 'ticaret', label: 'Ticaret', madde: 'Md. 13', icon: 'M4 9l1-5h14l1 5M4 9h16v11H4zM9 20v-6h6v6' },
+  { id: 'endustri', label: 'Endüstriyel', madde: 'Md. 14', icon: 'M3 21V10l6 4V10l6 4V5h6v16z' },
+  { id: 'toplanma', label: 'Toplanma', madde: 'Md. 15', icon: 'M5 3h14v18H5zM9 7h2M13 7h2M9 11h2M13 11h2M9 15h2M13 15h2' },
+  { id: 'depolama', label: 'Depolama', madde: 'Md. 16', icon: 'M12 3l8 4.5v9L12 21l-8-4.5v-9zM12 12l8-4.5M12 12L4 7.5M12 12v9' },
+  { id: 'yuksek', label: 'Yüksek tehlikeli', madde: 'Md. 17', icon: 'M12 3l10 18H2zM12 10v5M12 18v.01' }
+];
+var DESC = {
+  konut: '1–2 bağımsız bölümlü evler, apartmanlar, rezidanslar, siteler.',
+  konaklama: 'Otel, motel, pansiyon, yurt, tatil köyü, kamp.',
+  kurumsal: 'Eğitim ve sağlık tesisleri, ceza infaz kurumları.',
+  buro: 'Banka, kamu binası, genel büro, muayenehane.',
+  ticaret: 'Mağaza, market, AVM, pasaj, hal, tamirhane.',
+  endustri: 'Üretim, işleme, montaj, paketleme, onarım tesisleri.',
+  toplanma: '50+ kişilik ibadet, eğlence, yeme-içme, bekleme yerleri.',
+  depolama: 'Depolar, antrepolar ve otoparklar.',
+  yuksek: 'Parlayıcı, patlayıcı, yanıcı madde ve akaryakıt yerleri.'
+};
+var KATS = [{ v: 'all', t: 'Tüm katlar' }, { v: '0', t: 'Zemin kat' }, { v: '1', t: '1. kat' }, { v: '2', t: '2. kat' }, { v: '3', t: '3. kat' }];
+var FCOL = { '0': '#F5B400', '1': '#F28C28', '2': '#3B9BE6' };
+var IMG = { '0': '/_blob/35f7599b999da59b79b71f10226d9981', '1': '/_blob/4aad7ade39106ef5477baa06fe0a608e', '2': '/_blob/740c21a82d65b376111b0bca2139acb5', roof: '/_blob/7e54ee531786300d74a1c4ef4f2c76de' };
+var PILL = 'justify-self: start; white-space: nowrap; font-size: 15px; font-weight: 700; padding: 7px 14px; border-radius: 999px; ';
+function find(id) { for (var i = 0; i < CLASSES.length; i++) if (CLASSES[i].id === id) return CLASSES[i]; return null; }
+function num(v) { var n = parseFloat(String(v || '').replace(/\./g, '').replace(',', '.')); return isNaN(n) ? 0 : n; }
+class Component extends DCLogic {
+  constructor(p) {
+    super(p);
+    this.nextId = 5;
+    this.state = {
+      stage: 'tip', main: null, height: '', floors: '', view: 'kat', selKat: '0',
+      adding: false, dCls: null, dDetail: '',
+      uses: []
+    };
+  }
+  upd(id, patch) { this.setState({ uses: this.state.uses.map(function (u) { return u.id === id ? Object.assign({}, u, patch) : u; }) }); }
+  renderVals() {
+    var s = this.state, self = this;
+    var rows = s.uses.map(function (u) {
+      var c = find(u.cls) || CLASSES[0];
+      var diff = !u.ana && u.cls !== s.main;
+      return {
+        label: c.label, madde: c.madde, icon: c.icon, detail: u.detail || (u.ana ? 'Ana kullanım' : ''),
+        isAna: !!u.ana, notAna: !u.ana, alan: u.alan,
+        setAlan: function (e) { self.upd(u.id, { alan: e.target.value }); },
+        durum: u.ana ? 'Ana kullanım' : diff ? 'Farklı kullanım' : 'Ana kullanım bölümü',
+        badge: PILL + (u.ana ? 'background: #141414; color: #FFFFFF;' : diff ? 'background: #F5B400; color: #141414;' : 'background: #FFFFFF; color: #141414; border: 1.5px solid #141414;'),
+        remove: function () { self.setState({ uses: self.state.uses.filter(function (x) { return x.id !== u.id; }) }); }
+      };
+    });
+    var byKat = {};
+    s.uses.forEach(function (u) { if (u.ana || u.kat === 'all') return; (byKat[u.kat] = byKat[u.kat] || []).push(u); });
+    function katName(k) { return k === '0' ? 'Zemin Kat' : k + '. Kat'; }
+    // sağdaki kutular: ana kullanımdan başlayarak her kullanım bir kutu
+    var UCOL = { konut: '#D9D4CC', konaklama: '#F28C28', kurumsal: '#8E7CC3', buro: '#4FA3B8', ticaret: '#F5B400', endustri: '#7D8B6A', toplanma: '#3B9BE6', depolama: '#C97B3A', yuksek: '#E05252' };
+    var callouts = s.uses.slice().sort(function (a, b) { return (b.ana ? 1 : 0) - (a.ana ? 1 : 0); }).map(function (u) {
+      var c = find(u.cls) || CLASSES[0], col = UCOL[u.cls] || '#F5B400';
+      return { kat: u.ana ? 'Ana kullanım' : (u.cls === s.main ? 'Bölüm' : 'Farklı kullanım'), name: c.label + (u.detail && !u.ana ? ' · ' + u.detail : ''), area: num(u.alan) ? num(u.alan) + ' m²' : '',
+        style: 'display: flex; flex-direction: column; gap: 2px; width: 100%; box-sizing: border-box; background: rgba(20,20,20,0.92); color: #F6F4F1; border: 1.5px solid ' + col + '; border-left: 6px solid ' + col + '; border-radius: 8px; padding: 8px 12px; font-size: 14px; line-height: 1.35;' };
+    });
+    // düz (2D) bina: ana gövde + eklenen her kullanım altta renkli bir bant
+    var nonAna = s.uses.filter(function (u) { return !u.ana; });
+    var BH = 30, bandsH = nonAna.length * BH;
+    var anaH = Math.max(110, Math.min(250, 290 - bandsH));
+    var groundY = 350, anaBottom = groundY - bandsH, anaY = Math.max(40, anaBottom - anaH); anaH = anaBottom - anaY;
+    var wins = [], r = 0;
+    for (var wy = anaY + 14; wy + 16 <= anaBottom - 10; wy += 30, r++) for (var ci = 0; ci < 3; ci++) wins.push({ x: 88 + ci * 50, y: wy, f: ((r * 3 + ci) % 5 === 1) ? '#F5B400' : '#B9B2A7' });
+    var bands = nonAna.map(function (u, i) {
+      var y = anaBottom + i * BH, col = UCOL[u.cls] || '#F5B400';
+      return { y: y, h: BH, f: col, edge: 'rgba(20,20,20,0.35)', gy: y + 8, gh: BH - 8, glass: 'rgba(255,255,255,0.45)' };
+    });
+    var towerY = 120, towerWins = [];
+    for (var ty = towerY + 14; ty < groundY - 20; ty += 24) { towerWins.push({ x: 244, y: ty }); towerWins.push({ x: 272, y: ty }); }
+    var hv = String(s.height || '').trim();
+    var fb = { anaY: anaY, anaH: anaH, roofY: anaY - 8, anaFill: s.main ? '#F6F4F1' : '#3A3631', wins: s.main ? wins : [], bands: bands,
+      towerY: towerY, towerH: groundY - towerY, towerWins: towerWins,
+      showDim: true, hLabel: (hv || '—') + ' m', pillStyle: 'position: absolute; left: ' + (44 / 340 * 100).toFixed(2) + '%; top: ' + (((anaY - 8 + groundY) / 2) / 380 * 100).toFixed(2) + '%; transform: translate(-50%, -50%); background: #F5B400; color: #141414; font-size: 14px; font-weight: 700; line-height: 1; white-space: nowrap; padding: 7px 12px; border-radius: 999px;', pillW: Math.max(56, Math.min(84, ((hv || '—').length + 2) * 8 + 16)), pillX: 44 - Math.max(56, Math.min(84, ((hv || '—').length + 2) * 8 + 16)) / 2, pillY: (anaY - 8 + groundY) / 2 - 13, pillTy: (anaY - 8 + groundY) / 2 + 5 };
+    var cards = ['0', '1', '2', 'roof'].map(function (k) {
+      var list = byKat[k] || [], area = 0; list.forEach(function (u) { area += num(u.alan); });
+      var on = s.selKat === k;
+      return { img: IMG[k], t: k === 'roof' ? 'Çatı' : katName(k), area: k === 'roof' ? '' : (area ? area + ' m²' : '—'),
+        c: k === 'roof' ? '#A39D94' : '#F6F4F1',
+        pick: function () { self.setState({ selKat: k, view: 'kat' }); },
+        style: 'font: inherit; text-align: left; cursor: pointer; background: #1E1C1A; border-radius: 10px; padding: 10px 12px 14px; display: flex; flex-direction: column; gap: 4px; min-height: 140px; ' + (on ? 'border: 2px solid #F5B400;' : 'border: 1px solid #3A3631;') };
+    });
+    var total = 0, diffCls = {};
+    s.uses.forEach(function (u) { total += num(u.alan); if (!u.ana && u.cls !== s.main) diffCls[u.id] = 1; });
+    var TAB = 'font: inherit; font-size: 16px; font-weight: 600; border: 0; padding: 0 20px; min-height: 44px; cursor: pointer; ';
+    var canSave = !!s.dCls;
+    return {
+      stageTip: s.stage === 'tip', stageDetay: s.stage === 'detay',
+      mainLabel: s.main ? find(s.main).label : '—',
+      mainCards: CLASSES.map(function (c) {
+        var on = s.main === c.id;
+        return { label: c.label, madde: c.madde, icon: c.icon, desc: DESC[c.id],
+          style: 'font: inherit; text-align: left; cursor: pointer; border-radius: 10px; padding: 14px; display: flex; flex-direction: column; gap: 8px; min-height: 100px; color: #1A1A1A; ' + (on ? 'background: #FFF4D1; border: 2px solid #F5B400;' : 'background: #FFFFFF; border: 1px solid #D9D4CC;'),
+          pick: function () {
+            var rest = self.state.uses.filter(function (u) { return !u.ana; });
+            self.setState({ main: c.id, uses: [{ id: 0, cls: c.id, detail: 'Ana kullanım', alan: '', kat: 'all', ana: true }].concat(rest) });
+          } };
+      }),
+      toDetay: function () { if (self.state.main) self.setState({ stage: 'detay' }); },
+      toTip: function () { self.setState({ stage: 'tip', adding: false }); },
+      nextStyle: 'font: inherit; font-size: 19px; font-weight: 700; border: 0; border-radius: 10px; padding: 0 26px; min-height: 58px; cursor: pointer; ' + (s.main ? 'background: #141414; color: #FFFFFF;' : 'background: #E2DDD5; color: #5E5850; cursor: not-allowed;'),
+      heightLabel: String(s.height || '').trim() ? String(s.height).trim() + ' m' : '—',
+      rows: rows, count: s.uses.length, callouts: callouts, floorCards: cards, fb: fb,
+      totalArea: total.toLocaleString('tr-TR'), floors: s.floors, height: s.height, diffCount: Object.keys(diffCls).length,
+      selKatLabel: s.view === 'all' ? 'Tümü' : (s.selKat === 'roof' ? 'Çatı' : katName(s.selKat)),
+      viewKat: function () { self.setState({ view: 'kat' }); }, viewAll: function () { self.setState({ view: 'all' }); },
+      tabKat: TAB + (s.view === 'kat' ? 'background: #F5B400; color: #141414;' : 'background: transparent; color: #F6F4F1;'),
+      tabAll: TAB + (s.view === 'all' ? 'background: #F5B400; color: #141414;' : 'background: transparent; color: #F6F4F1;'),
+      mainOpts: CLASSES.map(function (c) { return { v: c.id, t: c.label, sel: c.id === s.main }; }),
+      setMain: function (e) { var v = e.target.value; self.setState({ main: v, uses: self.state.uses.map(function (u) { return u.ana ? Object.assign({}, u, { cls: v }) : u; }) }); },
+      setHeight: function (e) { self.setState({ height: e.target.value }); },
+      setFloors: function (e) { self.setState({ floors: e.target.value }); },
+      adding: s.adding, notAdding: !s.adding, dDetail: s.dDetail,
+      startAdd: function () { self.setState({ adding: true }); },
+      cancel: function () { self.setState({ adding: false, dCls: null, dDetail: '' }); },
+      setDetail: function (e) { self.setState({ dDetail: e.target.value }); },
+      classChips: CLASSES.map(function (c) {
+        var on = s.dCls === c.id;
+        return { label: c.label, madde: c.madde, pick: function () { self.setState({ dCls: c.id }); },
+          style: 'font: inherit; font-size: 14px; border-radius: 6px; padding: 8px 12px; min-height: 44px; cursor: pointer; ' + (on ? 'background: #141414; color: #FFFFFF; border: 1px solid #141414;' : 'background: #FFFFFF; color: #1A1A1A; border: 1px solid #D9D4CC;') };
+      }),
+      saveStyle: 'font: inherit; font-size: 15px; font-weight: 700; border: 0; border-radius: 8px; padding: 0 22px; min-height: 44px; cursor: pointer; ' + (canSave ? 'background: #F5B400; color: #141414;' : 'background: #E2DDD5; color: #5E5850; cursor: not-allowed;'),
+      save: function () {
+        if (!canSave) return;
+        var u = { id: self.nextId++, cls: s.dCls, detail: s.dDetail, alan: '', kat: '0' };
+        self.setState({ uses: self.state.uses.concat([u]), adding: false, dCls: null, dDetail: '' });
+      }
+    };
+  }
+}
+</script>
+</body>
+</html>
