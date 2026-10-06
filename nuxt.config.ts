@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   runtimeConfig: {
     public: {
-      // Ücretsiz kontrol aracının adresi; boşsa "Ücretsiz kontrol et" düğmesi bülten bölümüne gider.
+      // Ücretsiz kontrol aracının adresi; boşsa sitedeki /kontrol sayfası.
       aracUrl: process.env.NUXT_PUBLIC_ARAC_URL || ''
     }
   },

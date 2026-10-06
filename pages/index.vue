@@ -2,8 +2,8 @@
 // YGU Rehberi landing (design/ygurehberi-landing.html birebir). Hero video slider: HeroSlider (Swiper).
 // Kaydırma efektleri (hero küçülmesi, sayaçlar, yapışkan hikâye videosu, kelime kelime yanan cümle, yatay rehber şeridi,
 // paralaks video bandı, üst ilerleme çizgisi) tasarımın kendi kodundan taşındı; sayfadan çıkınca temizlenir.
-// Kontrol aracının adresi (tasarımda [ARAC-LINKI]); araç yayına girene kadar bülten / erken erişim bölümüne gider.
-const aracUrl = String(useRuntimeConfig().public.aracUrl || '#bulten')
+// Kontrol aracının adresi (tasarımda [ARAC-LINKI]): varsayılan sitedeki /kontrol sayfası.
+const aracUrl = String(useRuntimeConfig().public.aracUrl || '/kontrol')
 const mixkit = (id: number, q: number) => `https://assets.mixkit.co/videos/${id}/${id}-${q}.mp4`
 
 const facts = [
@@ -152,7 +152,7 @@ onBeforeUnmount(() => cleanups.forEach((fn) => fn()))
           <a href="#kimler">Kimler için</a>
           <a href="#bulten">Bülten</a>
         </nav>
-        <a class="btn btn-amber" href="#arac">Ücretsiz kontrol et</a>
+        <a class="btn btn-amber" :href="aracUrl">Ücretsiz kontrol et</a>
       </div>
     </header>
 
@@ -166,7 +166,7 @@ onBeforeUnmount(() => cleanups.forEach((fn) => fn()))
             <h1>Yangın güvenliğinde <em>tek</em> rehber.</h1>
             <p>Mevzuat, ekipman, tasarım ve denetim — Yangın Güvenlik Uzmanları ve bu mesleğe hazırlananlar için sade, güncel ve uygulamaya dönük bilgi.</p>
             <div class="hero-ctas">
-              <a class="btn btn-amber" href="#arac">Binanızı ücretsiz kontrol edin
+              <a class="btn btn-amber" :href="aracUrl">Binanızı ücretsiz kontrol edin
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" /></svg></a>
               <a class="btn btn-ghost" href="#rehber">Rehberi keşfedin</a>
             </div>

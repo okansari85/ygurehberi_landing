@@ -13,7 +13,7 @@ YGU Rehberi (ygurehberi.com) tanıtım sitesi: Yangın Güvenlik Uzmanlığı re
 ## Teknik
 - Nuxt 4, `nuxt generate` ile statik çıktı. Hero slider: Swiper (kullanıcı hazır bileşen istedi). Yeni npm paketi ancak sorarak.
 - Yayın: `npm run build:deploy` → `deploy/` (depoda tutulur) → GitHub → cPanel › Git Version Control › Update from Remote + Deploy HEAD Commit → `.cpanel.yml` `deploy/`'u public_html'e kopyalar.
-- `NUXT_PUBLIC_ARAC_URL`: kontrol aracının adresi (tasarımda [ARAC-LINKI]); boşsa düğme #bulten'e gider.
+- Kontrol aracı: `pages/kontrol.vue` (design/kontrol/BinaBilgileri.dc.html; sonuç ekranı BinaSonuc henüz yok). "Ücretsiz kontrol et" düğmeleri `/kontrol`'e gider (`NUXT_PUBLIC_ARAC_URL` ile değiştirilebilir).
 - Bülten formu henüz bir yere kaydetmiyor (tasarımdaki TODO).
 - Telefon genişliğinde (≈400 px) düzgün çalışır; SEO metinleri Türkçe.
 
