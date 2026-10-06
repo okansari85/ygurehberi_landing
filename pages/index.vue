@@ -145,7 +145,7 @@ onBeforeUnmount(() => cleanups.forEach((fn) => fn()))
 
     <header id="hdr" class="hdr">
       <div class="wrap">
-        <a class="logo" href="#top" aria-label="YGU Rehberi ana sayfa"><img src="/logo.png" alt="YGU Rehberi — Yangın Güvenlik Uzmanlığı"></a>
+        <a class="logo" href="#top" aria-label="YGU Rehberi ana sayfa"><BrandLogo /></a>
         <nav class="nav" aria-label="Ana menü">
           <a href="#nasil">Ücretsiz kontrol</a>
           <a href="#rehber">Rehber</a>
@@ -307,7 +307,7 @@ onBeforeUnmount(() => cleanups.forEach((fn) => fn()))
 
     <footer class="ftr">
       <div class="wrap">
-        <span style="display: flex; align-items: center; gap: 14px"><img src="/logo.png" alt="YGU Rehberi" style="height: 34px; width: auto">© {{ year }} ygurehberi.com</span>
+        <span style="display: flex; align-items: center; gap: 14px"><a href="#top" aria-label="YGU Rehberi ana sayfa" style="display: flex"><BrandLogo height="34px" /></a>© {{ year }} ygurehberi.com</span>
         <span>[İLETİŞİM E-POSTASI]</span>
       </div>
     </footer>

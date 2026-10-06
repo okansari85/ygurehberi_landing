@@ -28,10 +28,10 @@ h1,h2,h3{font-family:var(--display);margin:0;letter-spacing:-.02em;line-height:1
 /* header */
 .hdr{position:fixed;inset:0 0 auto 0;z-index:50;transition:background .3s ease, backdrop-filter .3s ease}
 .hdr.solid{background:rgba(20,20,20,.86);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-.hdr .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;min-height:76px}
+.hdr .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;min-height:92px}
 .logo{display:flex;align-items:center}
-.logo img{height:54px;width:auto}
-@media (max-width:560px){.logo img{height:44px}}
+.logo .brand-logo{height:72px}
+@media (max-width:560px){.logo .brand-logo{height:54px}}
 .nav{display:flex;gap:28px;font-weight:500;font-size:15px}
 .nav a{text-decoration:none;color:#D9D4CC}
 .nav a:hover{color:#fff}

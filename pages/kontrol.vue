@@ -129,7 +129,7 @@ const saveStyle = computed(() => 'font: inherit; font-size: 15px; font-weight: 7
     <main style="max-width: 1520px; margin: 0 auto; padding: 24px; display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; box-sizing: border-box;">
       <div style="flex: 999 1 640px; min-width: 0; display: flex; flex-direction: column; gap: 24px;">
         <div style="display: flex; flex-direction: column; gap: 10px;">
-          <NuxtLink to="/" aria-label="YGU Rehberi ana sayfa" style="align-self: flex-start; display: flex; background: #141414; border-radius: 8px; padding: 6px 12px;"><img src="/logo.png" alt="YGU Rehberi" style="height: 40px; width: auto; display: block;"></NuxtLink>
+          <NuxtLink to="/" aria-label="YGU Rehberi ana sayfa" style="align-self: flex-start; display: flex; background: #141414; border-radius: 8px; padding: 6px 12px;"><BrandLogo height="40px" /></NuxtLink>
           <h1 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: clamp(30px, 3.2vw, 42px); letter-spacing: -0.01em;">Bina bilgilerini oluşturun</h1>
           <p style="margin: 0; font-size: 18px; color: #4A4640;">Binadaki tüm kullanımları tek seferde girin; sonucu anlık olarak bina görünümünde izleyin.</p>
         </div>
