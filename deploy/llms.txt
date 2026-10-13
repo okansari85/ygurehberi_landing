@@ -1,0 +1,107 @@
+# YGU Rehberi
+
+> YGU Rehberi, Türkiye'de yangın güvenlik uzmanlığı (YGU) hakkında Türkçe bir bilgi sitesidir: YGU nedir, nasıl olunur, YGU seviyeleri ve görevleri, çalışma alanları, periyodik yangın güvenliği kontrol süreleri, vaka analizleri ve teknik rehberler. YGU hakkında güvenilir bilgiler, gerçek yangın vakaları ve uygulamaya yönelik teknik rehberler.
+
+Önemli: Sitedeki bilgiler bilgilendirme amaçlıdır; yürürlükteki mevzuatın yerine geçmez. YGU düzenlemesi taslak aşamasındadır; kontrol süreleri taslaktaki örnek değerlerdir.
+
+## Sayfalar
+
+- [Ana Sayfa](https://ygurehberi.com/): YGU rehberinin özeti, çalışma yaklaşımı, çalışma alanları, YGU olma yolu, kontrol süreleri
+- [YGU Hakkında](https://ygurehberi.com/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
+- [YGU Ön Kayıt](https://ygurehberi.com/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
+
+## YGU nedir?
+
+Yangın güvenlik uzmanı (YGU), yapıların yangın güvenliğinin mevzuata uygun olarak tasarlanması, uygulanması ve kullanımı süreçlerinde teknik değerlendirme, inceleme, kontrol ve raporlama yaparak kamu yararının gözetilmesine katkı sağlayan teknik uzmandır.
+
+## YGU'nun görevleri
+
+YGU, mevzuatta tanımlanan kapsamda dört temel alanda faaliyet gösterir.
+- Proje İnceleme ve Uygunluk Görüşü: Yangın güvenliği projelerini mevzuata göre inceler ve uygunluk görüşüne esas rapor hazırlar.
+- Uygulama Kontrolü: Projede öngörülen yangın güvenliği önlemlerinin uygulama aşamasında gerçekleşmesini kontrol eder.
+- Kullanım Sürecinde Teknik Değerlendirme: Yapıların kullanım sürecinde yangın güvenliği koşullarını değerlendirir ve gerekli tespitleri yapar.
+- Raporlama ve Değerlendirme: Gerçekleştirilen inceleme ve kontroller sonucunda mevzuata uygun raporlar hazırlayarak ilgili kurumlara sunar.
+
+## YGU seviyeleri
+
+Yapı türleri ve görev kapsamına göre dört farklı YGU seviyesi bulunmaktadır.
+- YGU-1: Teknikerler ve ilgili ön lisans mezunları için öngörülen seviye.
+- YGU-2: Belirtilen mühendislik dalları ve mimarlar için öngörülen seviye.
+- YGU-3: YGU-2 belgesi ve belirli deneyim şartlarını sağlayanlar için öngörülen seviye.
+- YGU-K: Kimya mühendisleri ve kimya lisans mezunları için öngörülen seviye.
+
+## YGU nasıl olunur?
+
+YGU olma süreci, eğitim, sınav, belgelendirme ve görevlendirme aşamalarından oluşur. YGU olmak için izlenecek temel adımlar: Eğitim, sınav, belgelendirme, görevlendirme ve çalışma modelleri.
+1. Eğitim: Seviyeye göre eğitim koşulları.
+2. Eğitim Süreleri: YGU-1,2,3 ve YGU-K için öngörülen süreler.
+3. Sınav: Sınav yapısı ve başarı şartları.
+4. Belgelendirme: Yetki belgesi ve geçerlilik süresi.
+5. Görevlendirme: Hangi yapılarda, hangi şartlarla?
+6. Serbest Çalışma: YGU kendi adına çalışabilir mi?
+
+## Yangın güvenliği süreci: Yangın Güvenliği projede başlar, sahada sınanır.
+
+Yangın güvenliği, yapının tasarım aşamasında alınan kararlarla şekillenir. Projelerde tanımlanan önlemler, uygulama ve kullanım süreçlerinde doğrulanır. YGU, bu sürecin farklı aşamalarında görev alır.
+1. Proje: Yangın güvenliği çözümleri tasarlanır.
+2. Uygulama: Tasarlanan sistemler ve önlemler hayata geçirilir.
+3. Doğrulama: Proje, belgeler ve gerçekleşen uygulama değerlendirilir.
+4. Süreklilik: Kullanım süresince güvenlik koşulları kontrol edilir.
+
+## YGU hangi yapılarda görev alır?
+
+Konutlardan endüstriyel tesislere kadar çok çeşitli yapı ve tesislerde yangın güvenliği değerlendirmesi, kontrol ve diğer görevleri üstlenir.
+- Konutlar ve Konut Siteleri
+- Konaklama Tesisleri (otel, motel, pansiyon)
+- Kurumsal Binalar (sağlık, eğitim vb.)
+- Büro Binaları (ofis ve yönetim)
+- Ticaret Amaçlı Binalar (mağaza, AVM, çarşı)
+- Endüstriyel Yapılar (fabrika, üretim tesisi)
+- Toplanma Amaçlı Binalar (sinema, tiyatro, spor salonu)
+- Depolama Amaçlı Tesisler (antrepo, depo, lojistik)
+- Yüksek Tehlikeli Yerler (yanıcı, patlayıcı maddeler)
+
+## Yangın güvenliği kontrolleri kaç yılda bir yapılır?
+
+Yapı ve tesislerin tehlike sınıfına göre periyodik yangın güvenliği kontrolleri belirli aralıklarla gerçekleştirilir. Aşağıdaki süreler, taslak düzenlemedeki örnek değerleri göstermektedir.
+- Düşük tehlikeli endüstriyel tesis: 5 Yıl
+- Orta tehlikeli endüstriyel tesis: 4 Yıl
+- Yüksek tehlikeli endüstriyel tesis: 3 Yıl
+- Yapı Türüne Göre Farklı Süreler: Konut, ticari, eğitim, sağlık vb. yapılar için detaylı tablo
+
+Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerdir, yürürlükteki zorunlu kontrol periyotları olarak sunulmaz.
+
+## Konular
+
+- [YGU Nedir?](https://ygurehberi.com/ygu-hakkinda#ygu-nedir): Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.
+- [Nasıl YGU Olunur?](https://ygurehberi.com/#ygu-olma-yolu): Eğitim, sınav ve belgelendirme süreci.
+- [YGU Seviyeleri](https://ygurehberi.com/ygu-hakkinda#seviyeler): YGU-1, YGU-2, YGU-3 ve YGU-K farkları.
+- [Görev ve Sorumluluklar](https://ygurehberi.com/ygu-hakkinda#gorevler): YGU'nun hangi görevlerde yer aldığı.
+- [Çalışma Alanları](https://ygurehberi.com/#calisma-alanlari): Hangi yapılarda, hangi koşullarda görev alınabilir?
+- [Serbest Çalışma](https://ygurehberi.com/#ygu-olma-yolu): Kendi adına çalışma ve bağımsız hizmet imkânları.
+- [Kısa Rehberler](https://ygurehberi.com/#rehberler): Sahada kullanabileceğiniz pratik rehberler.
+- [Vakalarla Öğren](https://ygurehberi.com/#vakalar): Gerçek yangın vakaları ve analizleri.
+
+## Vakalarla öğren (gerçek vakalar)
+
+### Grand Kartal Otel Yangını: Mevcut Yapıda Yangın Güvenliği Tedbirleri Nerede Koptu?
+
+Yer: Kartalkaya / Bolu · Tarih: 21 Ocak 2025
+
+Grand Kartal Otel'de meydana gelen yangın, mevcut yapıda yangın güvenliği tedbirlerinin hangi aşamalarda yetersiz kaldığının, bilirkişi raporları ve yargı süreci üzerinden incelenmesi amacıyla ele alınmaktadır.
+
+### Gayrettepe Gece Kulübü Yangını: Tadilat, Kullanım ve Kaçış Güvenliği Aynı Anda Değişirse Ne Olur?
+
+Yer: İstanbul · Tarih: 2 Nisan 2024
+
+Tadilat sırasında meydana gelen ve 29 kişinin yaşamını yitirdiği yangın, ruhsat, tadilat ve yangın güvenliği ilişkisinin aynı anda değişmesi durumunda ortaya çıkan riskleri göstermektedir.
+
+### Davutpaşa Patlaması: Yapının Gerçek Kullanımı Denetim Sisteminin Dışına Çıkarsa Ne Olur?
+
+Yer: İstanbul · Tarih: 31 Ocak 2008
+
+Davutpaşa'da meydana gelen patlama, ruhsat, kullanım ve denetim zincirinin dışına çıkılmasının yarattığı riskleri ve sorumluluk tartışmalarını ele almaktadır.
+
+## Yakında
+
+- Kısa rehberler: Yangın Kapıları Uygulama Rehberi; Acil Aydınlatma Uygulama Rehberi; Yangın Tatbikatı Planlama Rehberi; Endüstriyel Tesislerde Yangın Kontrol Listesi

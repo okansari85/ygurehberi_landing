@@ -1,12 +1,13 @@
 <script setup lang="ts">
 // YGU Rehberi logosu iki katman: yazı (logo-yazi.png) + alev (logo-alev.png, public/logo.png'den ayrıldı).
 // Alev her zaman hafifçe titreşir; logonun bağlantısına fare gelince kızarıp parlar. Hareket azaltma açıksa durur.
-defineProps<{ height?: string }>()
+// `koyu`: açık zemin için koyu yazı (logo-yazi-koyu.png).
+defineProps<{ height?: string; koyu?: boolean }>()
 </script>
 
 <template>
   <span class="brand-logo" :style="height ? { height } : undefined">
-    <img src="/logo-yazi.png" alt="YGU Rehberi — Yangın Güvenlik Uzmanlığı" class="brand-logo__text">
+    <img :src="koyu ? '/logo-yazi-koyu.png' : '/logo-yazi.png'" alt="YGU Rehberi — Yangın Güvenlik Uzmanlığı" width="412" height="228" class="brand-logo__text">
     <img src="/logo-alev.png" alt="" aria-hidden="true" class="brand-logo__flame">
   </span>
 </template>
