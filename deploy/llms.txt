@@ -10,6 +10,7 @@
 - [YGU Hakkında](https://ygurehberi.com/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](https://ygurehberi.com/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](https://ygurehberi.com/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
+- [YGU Serbest Çalışma](https://ygurehberi.com/ygu-serbest-calisma): YGU kendi adına çalışabilir mi, bağımsız olarak verebileceği hizmetler, işletmelerle çalışma ve serbest çalışmanın avantajları
 - [Yangın Güvenlik Uzmanı (YGU) Nedir?](https://ygurehberi.com/yangin-guvenlik-uzmani-nedir): Yangın güvenlik uzmanı (YGU) kimdir, yangın güvenlik uzmanlığı neden gereklidir? İş güvenliği uzmanlığından farkı ve sertifika ile yetki belgesi arasındaki ayrım.
 - [Yangın Güvenlik Uzmanı Nasıl Olunur?](https://ygurehberi.com/yangin-guvenlik-uzmani-nasil-olunur): Kimler yangın güvenlik uzmanı olabilir? YGU olmak için başvuru koşulları, teorik ve uygulama eğitimi, sınav ve yetki belgesi süreci adım adım.
 - [Yangın Güvenlik Uzmanlığı Seviyeleri](https://ygurehberi.com/ygu-seviyeleri): Yangın güvenlik uzmanlığında yetki seviyeleri: YGU-1, YGU-2, YGU-3 ve YGU-K kimler için öngörülüyor, hangi görevleri kapsıyor?
@@ -85,6 +86,43 @@ Sınavda başarılı olan adaylar YGU yetki belgesi almaya hak kazanır. Belge, 
 - Yenileme: Belge, yeniden eğitime katılmadan sınava girilip başarılı olunmasıyla yenilenebilir. İki sınavda da başarılı olamayanların eğitime tekrar katılması gerekir. Geçerlilik süresi içinde yenilenmeyen belgelerin yetkisi, yenileme yapılana kadar askıya alınır.
 - Kayıt ve Sorgulama: Bakanlık, yetki belgesi almaya hak kazananların ve geçerli belge sahiplerinin ad, soyad ve YGU seviyesi bilgilerini; ayrıca yetkisi askıya alınan veya iptal edilen uzmanları resmî internet sayfasında duyurur.
 
+## YGU serbest çalışma
+
+Kaynak sayfa: https://ygurehberi.com/ygu-serbest-calisma
+
+Yangın Güvenlik Uzmanları, ilgili mevzuatta belirlenen koşullar ve yetki sınırları çerçevesinde mesleki faaliyetlerini yürütebilir. Serbest çalışma imkânları, uzmanların bağımsız olarak hizmet sunabilmesine ilişkin düzenlemeler doğrultusunda değerlendirilir.
+
+### YGU Kendi Adına Çalışabilir mi?
+
+YGU'lar, ilgili mevzuatta belirlenen koşullar ve yetki sınırları çerçevesinde kendi adına mesleki faaliyet yürütebilir. Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, bağımsız olarak yangın güvenliği hizmeti sunabilir. Serbest çalışma imkânı, mevzuatta tanımlanan görev, yetki ve sorumluluklar kapsamında değerlendirilir.
+- Geçerli YGU belgesine sahip olmak
+- Mevzuatta belirlenen görev ve yetki sınırlarına uymak
+- Mesleki sorumlulukları yerine getirmek
+
+### Bağımsız Olarak Hangi Hizmetleri Verebilir?
+
+YGU'lar, yetki seviyelerine uygun olarak aşağıdaki alanlarda bağımsız hizmet sunabilir.
+- Yangın Güvenliği Projelerinin İncelenmesi: Yangın algılama, söndürme, tahliye ve diğer yangın güvenliği projelerinin mevzuata uygunluğuna ilişkin uygunluk görüşüne esas rapor hazırlanması.
+- Yapı Kullanma İzni Aşamasında Değerlendirme: Projede öngörülen yangın güvenliği tedbirlerinin uygulamadaki karşılığının ve sistemlerin test ve devreye alma belgelerinin değerlendirilmesi.
+- Yangın Güvenlik Periyodik Kontrolü: Kapsama giren mevcut yapıların yangın güvenliği tedbirlerinin kontrol edilmesi, tespitlerin kayıt altına alınması ve yangın güvenlik raporunun hazırlanması.
+- Yangın Tatbikatlarının Planlanması: İlgili yapılarda yangın tatbikatlarının, yapı yönetiminin sorumluluğunda birlikte planlanması.
+
+### İşletmelerde Nasıl Çalışır?
+
+YGU'lar, işletmelerle doğrudan çalışarak görevlendirme kapsamında yangın güvenliği çalışmalarını yürütür.
+1. Talep ve ihtiyaç belirlenir: İşletme, yapısına ve ihtiyacına uygun yangın güvenliği çalışması için YGU ile görüşür.
+2. Görevlendirme yapılır: Yapılacak işin kapsamı, uzmanın yetki seviyesi ve ilgili koşullar değerlendirilerek görevlendirme gerçekleştirilir.
+3. Çalışma yürütülür: Uzman, proje incelemesi, uygulama değerlendirmesi, periyodik kontrol veya tatbikat planlaması gibi çalışmaları gerçekleştirir.
+4. Rapor hazırlanır: Çalışma sonuçları, ilgili mevzuat ve teknik dayanaklar doğrultusunda raporlanarak işletmeye sunulur.
+
+### Serbest Çalışmanın Avantajları
+
+Serbest çalışma, YGU'lara farklı sektörlerde çeşitli yapılarda görev alma ve uzmanlıklarını bağımsız olarak sunma imkânı sağlar.
+- Farklı projelerde yer alma imkânı: Konutlardan endüstriyel yapılara kadar çeşitli projelerde çalışabilme.
+- Esnek çalışma modeli: Kendi iş planını oluşturma ve çalışma zamanını daha esnek yönetebilme.
+- Uzmanlık alanını geliştirme: Farklı yapı türlerinde edinilen deneyimle uzmanlığını artırma.
+- Geniş iş ağı: İşletmeler, proje ofisleri ve farklı sektörlerle çalışma fırsatı.
+
 ## Yangın güvenliği süreci: Yangın Güvenliği projede başlar, sahada sınanır.
 
 Yangın güvenliği, yapının tasarım aşamasında alınan kararlarla şekillenir. Projelerde tanımlanan önlemler, uygulama ve kullanım süreçlerinde doğrulanır. YGU, bu sürecin farklı aşamalarında görev alır.
@@ -123,7 +161,7 @@ Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerd
 - [YGU Seviyeleri](https://ygurehberi.com/ygu-seviyeleri): YGU-1, YGU-2, YGU-3 ve YGU-K farkları.
 - [Görev ve Sorumluluklar](https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri): YGU'nun hangi görevlerde yer aldığı.
 - [Çalışma Alanları](https://ygurehberi.com/calisma-alanlari): Hangi yapılarda, hangi koşullarda görev alınabilir?
-- [Serbest Çalışma](https://ygurehberi.com/calisma-alanlari#kariyer): Kendi adına çalışma ve bağımsız hizmet imkânları.
+- [Serbest Çalışma](https://ygurehberi.com/ygu-serbest-calisma): Kendi adına çalışma ve bağımsız hizmet imkânları.
 - [Kısa Rehberler](https://ygurehberi.com/#rehberler): Sahada kullanabileceğiniz pratik rehberler.
 - [Vakalarla Öğren](https://ygurehberi.com/#vakalar): Gerçek yangın vakaları ve analizleri.
 

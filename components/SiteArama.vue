@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // Site içi arama: statik sitede sunucu yok; başlık/metinler data/icerik.ts'den taranır, sonuç ilgili bölüme götürür.
-import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA } from '~/data/icerik'
+import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
 
 const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
@@ -24,6 +24,8 @@ const DIZIN = [
     metin: EGITIM_SAYFA[k].alt,
     to: `/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k}`
   })),
+  { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/ygu-serbest-calisma' },
+  ...SERBEST_SAYFA.hizmetler.liste.map((h) => ({ baslik: h.baslik, metin: 'Serbest çalışma: bağımsız hizmetler', to: '/ygu-serbest-calisma#hizmetler' })),
   ...SSS.liste.map((s) => ({ baslik: s.soru, metin: 'Sık sorulan sorular', to: '/sss' })),
   { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda#ygu-nedir' }
 ]

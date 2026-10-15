@@ -86,14 +86,7 @@ const QR = (() => {
   <!-- 01 Eğitim -->
   <section id="egitim" class="bolum" aria-labelledby="egitim-baslik">
     <div class="wrap">
-      <header class="b-ust">
-        <span class="no">01</span>
-        <div class="b-ad">
-          <h2 id="egitim-baslik">{{ E.egitim.baslik }}</h2>
-          <p class="b-alt">{{ E.egitim.alt }}</p>
-        </div>
-        <p class="b-not"><Ikon ad="kitap" /><span>{{ E.egitim.not }}</span></p>
-      </header>
+      <NumaraliBaslik :no="1" id="egitim-baslik" :baslik="E.egitim.baslik" :alt="E.egitim.alt" :not="E.egitim.not" ikon="kitap" />
 
       <div class="egitim-izgara">
         <article class="kart panel">
@@ -131,14 +124,7 @@ const QR = (() => {
   <!-- 02 Sınav -->
   <section id="sinav" class="bolum bolum-gri" aria-labelledby="sinav-baslik">
     <div class="wrap">
-      <header class="b-ust">
-        <span class="no">02</span>
-        <div class="b-ad">
-          <h2 id="sinav-baslik">{{ E.sinav.baslik }}</h2>
-          <p class="b-alt">{{ E.sinav.alt }}</p>
-        </div>
-        <p class="b-not"><Ikon ad="pano" /><span>{{ E.sinav.not }}</span></p>
-      </header>
+      <NumaraliBaslik :no="2" id="sinav-baslik" :baslik="E.sinav.baslik" :alt="E.sinav.alt" :not="E.sinav.not" ikon="pano" />
 
       <ol class="adimlar">
         <li v-for="(a, i) in E.sinav.adimlar" :key="a.baslik" class="kart adim">
@@ -156,14 +142,7 @@ const QR = (() => {
   <!-- 03 Belgelendirme -->
   <section id="belgelendirme" class="bolum" aria-labelledby="belge-baslik">
     <div class="wrap">
-      <header class="b-ust">
-        <span class="no">03</span>
-        <div class="b-ad">
-          <h2 id="belge-baslik">{{ E.belge.baslik }}</h2>
-          <p class="b-alt">{{ E.belge.alt }}</p>
-        </div>
-        <p class="b-not"><Ikon ad="rozet" /><span>{{ E.belge.not }}</span></p>
-      </header>
+      <NumaraliBaslik :no="3" id="belge-baslik" :baslik="E.belge.baslik" :alt="E.belge.alt" :not="E.belge.not" ikon="rozet" />
 
       <div class="belge-izgara">
         <figure class="sertifika" aria-label="Temsilî YGU belgesi">
@@ -219,14 +198,6 @@ const QR = (() => {
 .sayfa-hero h1 .satir{display:block}
 .sayfa-hero p{font-size:clamp(17px,1.6vw,21px);margin:18px 0 0;max-width:600px;color:#ECE8E1}
 
-/* Bölüm başlığı: numara, başlık + alt başlık, sağda kısa not */
-.b-ust{display:grid;grid-template-columns:auto 1fr minmax(0,420px);gap:clamp(16px,2.4vw,28px);align-items:center;margin-bottom:clamp(28px,3.4vw,44px)}
-.no{display:grid;place-items:center;width:clamp(58px,6vw,76px);aspect-ratio:1;border-radius:10px;background:var(--amber);font-family:var(--display);font-weight:800;font-size:clamp(30px,3.2vw,42px);color:#111}
-.b-ad h2{font-size:clamp(38px,4.2vw,58px)}
-.b-alt{margin:4px 0 0;font-family:var(--display);font-weight:600;font-size:clamp(19px,1.9vw,25px);color:var(--amber-ink)}
-.b-not{display:flex;gap:14px;align-items:flex-start;margin:0;color:var(--muted);font-size:15px;line-height:1.55}
-.b-not .ikon{flex:none;font-size:34px;color:var(--text)}
-@media (max-width:900px){.b-ust{grid-template-columns:auto 1fr}.b-not{grid-column:1/-1}}
 
 /* 01 Eğitim */
 .egitim-izgara{display:grid;grid-template-columns:1.35fr 1fr;gap:18px}

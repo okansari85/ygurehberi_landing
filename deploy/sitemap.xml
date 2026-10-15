@@ -47,6 +47,15 @@
     <image:image><image:loc>https://ygurehberi.com/img/egitim-hero.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ygurehberi.com/ygu-serbest-calisma</loc>
+    <lastmod>2026-10-15</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/serbest-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-proje.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-ticaret.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-sureklilik.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/rehber-acil-aydinlatma.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ygurehberi.com/sss</loc>
     <lastmod>2026-10-15</lastmod>
 

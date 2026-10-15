@@ -40,7 +40,7 @@ export const HERO_ETIKETLER = [
   { ad: 'YGU Nedir?', to: '/yangin-guvenlik-uzmani-nedir' },
   { ad: 'Nasıl Olunur?', to: '/yangin-guvenlik-uzmani-nasil-olunur' },
   { ad: 'Eğitim ve Sınav', to: '/ygu-egitim-sinav-belgelendirme' },
-  { ad: 'Serbest Çalışma', to: '/calisma-alanlari#kariyer' },
+  { ad: 'Serbest Çalışma', to: '/ygu-serbest-calisma' },
   { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
   { ad: 'Kontrol Süreleri', to: '/#kontrol-sureleri' }
 ]
@@ -59,7 +59,7 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
   { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K farkları.', to: '/ygu-seviyeleri' },
   { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun hangi görevlerde yer aldığı.", to: '/yangin-guvenlik-uzmani-gorevleri' },
   { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/calisma-alanlari' },
-  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/calisma-alanlari#kariyer' },
+  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/ygu-serbest-calisma' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler' },
   { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/#vakalar' }
 ]
@@ -276,6 +276,51 @@ export const EGITIM_SAYFA = {
     maddeler: [
       { ikon: 'yenile', baslik: 'Yenileme', metin: 'Belge, yeniden eğitime katılmadan sınava girilip başarılı olunmasıyla yenilenebilir. İki sınavda da başarılı olamayanların eğitime tekrar katılması gerekir. Geçerlilik süresi içinde yenilenmeyen belgelerin yetkisi, yenileme yapılana kadar askıya alınır.' },
       { ikon: 'ekip', baslik: 'Kayıt ve Sorgulama', metin: 'Bakanlık, yetki belgesi almaya hak kazananların ve geçerli belge sahiplerinin ad, soyad ve YGU seviyesi bilgilerini; ayrıca yetkisi askıya alınan veya iptal edilen uzmanları resmî internet sayfasında duyurur.' }
+    ] as { ikon: Ikon; baslik: string; metin: string }[]
+  }
+}
+
+// Serbest Çalışma sayfası (/ygu-serbest-calisma): design/serbest-calisma.jpeg. Metinler kullanıcının 15 Ekim tasarım görselinden birebir.
+export const SERBEST_SAYFA = {
+  ust: 'Yangın Güvenlik Uzmanı',
+  baslik: 'YGU',
+  vurgu: 'Serbest',
+  baslik2: 'Çalışma',
+  metin: 'Yangın Güvenlik Uzmanları, ilgili mevzuatta belirlenen koşullar ve yetki sınırları çerçevesinde mesleki faaliyetlerini yürütebilir. Serbest çalışma imkânları, uzmanların bağımsız olarak hizmet sunabilmesine ilişkin düzenlemeler doğrultusunda değerlendirilir.',
+  kendi: {
+    baslik: 'YGU Kendi Adına Çalışabilir mi?',
+    not: "YGU'lar, ilgili mevzuatta belirlenen koşullar ve yetki sınırları çerçevesinde kendi adına mesleki faaliyet yürütebilir.",
+    metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, bağımsız olarak yangın güvenliği hizmeti sunabilir. Serbest çalışma imkânı, mevzuatta tanımlanan görev, yetki ve sorumluluklar kapsamında değerlendirilir.',
+    maddeler: ['Geçerli YGU belgesine sahip olmak', 'Mevzuatta belirlenen görev ve yetki sınırlarına uymak', 'Mesleki sorumlulukları yerine getirmek']
+  },
+  hizmetler: {
+    baslik: 'Bağımsız Olarak Hangi Hizmetleri Verebilir?',
+    not: "YGU'lar, yetki seviyelerine uygun olarak aşağıdaki alanlarda bağımsız hizmet sunabilir.",
+    liste: [
+      { ikon: 'belge', baslik: 'Yangın Güvenliği Projelerinin İncelenmesi', metin: 'Yangın algılama, söndürme, tahliye ve diğer yangın güvenliği projelerinin mevzuata uygunluğuna ilişkin uygunluk görüşüne esas rapor hazırlanması.', gorsel: 'surec-proje', alt: 'Yangın güvenliği projesi üzerinde çizim yapan mühendis' },
+      { ikon: 'bina', baslik: 'Yapı Kullanma İzni Aşamasında Değerlendirme', metin: 'Projede öngörülen yangın güvenliği tedbirlerinin uygulamadaki karşılığının ve sistemlerin test ve devreye alma belgelerinin değerlendirilmesi.', gorsel: 'yapi-ticaret', alt: 'Yeni tamamlanmış ticari yapı' },
+      { ikon: 'pano', baslik: 'Yangın Güvenlik Periyodik Kontrolü', metin: 'Kapsama giren mevcut yapıların yangın güvenliği tedbirlerinin kontrol edilmesi, tespitlerin kayıt altına alınması ve yangın güvenlik raporunun hazırlanması.', gorsel: 'surec-sureklilik', alt: 'Periyodik kontrol etiketli yangın söndürme dolabı' },
+      { ikon: 'ekip', baslik: 'Yangın Tatbikatlarının Planlanması', metin: 'İlgili yapılarda yangın tatbikatlarının, yapı yönetiminin sorumluluğunda birlikte planlanması.', gorsel: 'rehber-acil-aydinlatma', alt: 'Koridorda yanan acil çıkış levhası' }
+    ] as { ikon: Ikon; baslik: string; metin: string; gorsel: string; alt: string }[]
+  },
+  isletme: {
+    baslik: 'İşletmelerde Nasıl Çalışır?',
+    not: "YGU'lar, işletmelerle doğrudan çalışarak görevlendirme kapsamında yangın güvenliği çalışmalarını yürütür.",
+    adimlar: [
+      { ikon: 'belge', baslik: 'Talep ve ihtiyaç belirlenir', metin: 'İşletme, yapısına ve ihtiyacına uygun yangın güvenliği çalışması için YGU ile görüşür.' },
+      { ikon: 'liste', baslik: 'Görevlendirme yapılır', metin: 'Yapılacak işin kapsamı, uzmanın yetki seviyesi ve ilgili koşullar değerlendirilerek görevlendirme gerçekleştirilir.' },
+      { ikon: 'kask', baslik: 'Çalışma yürütülür', metin: 'Uzman, proje incelemesi, uygulama değerlendirmesi, periyodik kontrol veya tatbikat planlaması gibi çalışmaları gerçekleştirir.' },
+      { ikon: 'grafik', baslik: 'Rapor hazırlanır', metin: 'Çalışma sonuçları, ilgili mevzuat ve teknik dayanaklar doğrultusunda raporlanarak işletmeye sunulur.' }
+    ] as { ikon: Ikon; baslik: string; metin: string }[]
+  },
+  avantajlar: {
+    baslik: 'Serbest Çalışmanın Avantajları',
+    not: "Serbest çalışma, YGU'lara farklı sektörlerde çeşitli yapılarda görev alma ve uzmanlıklarını bağımsız olarak sunma imkânı sağlar.",
+    liste: [
+      { ikon: 'pusula', baslik: 'Farklı projelerde yer alma imkânı', metin: 'Konutlardan endüstriyel yapılara kadar çeşitli projelerde çalışabilme.' },
+      { ikon: 'saat', baslik: 'Esnek çalışma modeli', metin: 'Kendi iş planını oluşturma ve çalışma zamanını daha esnek yönetebilme.' },
+      { ikon: 'grafik', baslik: 'Uzmanlık alanını geliştirme', metin: 'Farklı yapı türlerinde edinilen deneyimle uzmanlığını artırma.' },
+      { ikon: 'ekip', baslik: 'Geniş iş ağı', metin: 'İşletmeler, proje ofisleri ve farklı sektörlerle çalışma fırsatı.' }
     ] as { ikon: Ikon; baslik: string; metin: string }[]
   }
 }

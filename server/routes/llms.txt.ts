@@ -2,7 +2,7 @@
 // İçerik data/icerik.ts'den gelir; sayfalardaki metinle aynıdır.
 import {
   SITE, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, YGU_YOLU, KONTROL_SURELERI, VAKALAR, REHBERLER,
-  YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS, EGITIM_SAYFA as E
+  YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS, EGITIM_SAYFA as E, SERBEST_SAYFA as S
 } from '../../data/icerik'
 import { KONULAR, type KonuBlok } from '../../data/konular'
 
@@ -33,6 +33,7 @@ export default defineEventHandler((event) => {
 - [YGU Hakkında](${u}/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
+- [YGU Serbest Çalışma](${u}/ygu-serbest-calisma): YGU kendi adına çalışabilir mi, bağımsız olarak verebileceği hizmetler, işletmelerle çalışma ve serbest çalışmanın avantajları
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}/${y}): ${k.aciklama}`).join('\n')}
 - [Sık Sorulan Sorular](${u}/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
 
@@ -85,6 +86,32 @@ ${E.belge.not}
 
 - ${E.belge.gecerlilik.baslik}: ${E.belge.gecerlilik.deger}. ${E.belge.gecerlilik.metin}
 ${E.belge.maddeler.map((m) => `- ${m.baslik}: ${m.metin}`).join('\n')}
+
+## YGU serbest çalışma
+
+Kaynak sayfa: ${u}/ygu-serbest-calisma
+
+${S.metin}
+
+### ${S.kendi.baslik}
+
+${S.kendi.not} ${S.kendi.metin}
+${S.kendi.maddeler.map((m) => `- ${m}`).join('\n')}
+
+### ${S.hizmetler.baslik}
+
+${S.hizmetler.not}
+${S.hizmetler.liste.map((h) => `- ${h.baslik}: ${h.metin}`).join('\n')}
+
+### ${S.isletme.baslik}
+
+${S.isletme.not}
+${S.isletme.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+
+### ${S.avantajlar.baslik}
+
+${S.avantajlar.not}
+${S.avantajlar.liste.map((a) => `- ${a.baslik}: ${a.metin}`).join('\n')}
 
 ## Yangın güvenliği süreci: ${SUREC.baslik} ${SUREC.vurgu.toLocaleLowerCase('tr')}
 
