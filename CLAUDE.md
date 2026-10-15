@@ -19,8 +19,9 @@ YGU Rehberi (ygurehberi.com): Yangın Güvenlik Uzmanlığı (YGU) bilgi sitesi.
 
 ## SEO ve yapay zekâ (GEO)
 - Sayfa başına `useSayfaSeo` (composables/useSayfaSeo.ts): başlık, açıklama, canonical, OG/Twitter, JSON-LD (Organization, WebSite, WebPage/AboutPage, BreadcrumbList, FAQPage). FAQ yanıtları sayfa metniyle aynı olmalı.
-- `public/robots.txt` yapay zekâ tarayıcılarına açık; `public/sitemap.xml` yeni sayfa eklenince güncellenir; `/llms.txt` = `server/routes/llms.txt.ts` (generate'te statik dosya).
+- `public/robots.txt` yapay zekâ tarayıcılarına açık; `/sitemap.xml` = `server/routes/sitemap.xml.ts` (sayfa listesi orada, görseller `data/icerik.ts`ten); `/llms.txt` = `server/routes/llms.txt.ts` (generate'te statik dosya).
 - Yeni sayfa: `nitro.prerender.routes`'a, sitemap'e ve llms.txt'ye ekle.
+- `public/.htaccess`: tek adres biçimi `https://ygurehberi.com/yol` (www→çıplak, http→https, sondaki / kaldırılır, klasörün index.html'i sunulur). Sitemap ve canonical bu biçimde kalmalı.
 
 ## İçerik
 - Mevzuat bilgisi uydurulmaz; YGU düzenlemesi taslak — kontrol süreleri "taslaktaki örnek değerler" notuyla gösterilir.

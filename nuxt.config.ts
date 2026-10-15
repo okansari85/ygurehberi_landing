@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
-    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/llms.txt'], crawlLinks: true }
+    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/llms.txt', '/sitemap.xml'], crawlLinks: true }
   },
   app: {
     head: {

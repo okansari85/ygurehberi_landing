@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ygurehberi.com/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-14</lastmod>
     <image:image><image:loc>https://ygurehberi.com/img/hero-ana.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-proje.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-uygulama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-dogrulama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-sureklilik.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-konut.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-konaklama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-kurumsal.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-buro.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-ticaret.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-endustriyel.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-toplanma.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-depolama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-yuksek-tehlikeli.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/vaka-grand-kartal.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/vaka-gayrettepe.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/vaka-yuksek-bina.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/rehber-yangin-kapisi.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/rehber-acil-aydinlatma.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/rehber-tatbikat.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/rehber-endustriyel.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://ygurehberi.com/ygu-hakkinda</loc>
     <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
     <image:image><image:loc>https://ygurehberi.com/img/hakkinda-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/hakkinda-ygu-nedir.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-konut.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-buro.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-endustriyel.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-yuksek-tehlikeli.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://ygurehberi.com/on-kayit</loc>
     <lastmod>2026-10-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <image:image><image:loc>https://ygurehberi.com/img/on-kayit-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/on-kayit-form.webp</image:loc></image:image>
   </url>
 </urlset>
