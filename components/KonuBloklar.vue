@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// Konu metin blokları (data/konular.ts): konu sayfalarında ve SSS yanıtlarında aynı görünüm.
+// Konu metin blokları (data/konular.ts): konu sayfalarında, SSS yanıtlarında ve teknik makalelerde aynı görünüm.
 import { CALISMA_ALANLARI } from '~/data/icerik'
 import type { KonuBlok } from '~/data/konular'
 
@@ -14,10 +14,10 @@ defineProps<{ bloklar: KonuBlok[] }>()
       <h2 v-else-if="b.tip === 'h2'" :id="b.id">{{ b.metin }}</h2>
       <h3 v-else-if="b.tip === 'h3'">{{ b.metin }}</h3>
       <aside v-else-if="b.tip === 'not'" class="not"><Ikon ad="bilgi" /><p><strong>{{ b.etiket }}:</strong> {{ b.metin }}</p></aside>
-      <div v-else-if="b.tip === 'tablo'" class="tablo-kap">
+      <div v-else-if="b.tip === 'tablo'" class="tablo-kap" :class="{ cok: b.basliklar.length > 2 }">
         <table>
           <thead><tr><th v-for="h in b.basliklar" :key="h" scope="col">{{ h }}</th></tr></thead>
-          <tbody><tr v-for="s in b.satirlar" :key="s[0]"><th scope="row">{{ s[0] }}</th><td>{{ s[1] }}</td></tr></tbody>
+          <tbody><tr v-for="s in b.satirlar" :key="s[0]"><th scope="row">{{ s[0] }}</th><td v-for="(h, k) in s.slice(1)" :key="k">{{ h }}</td></tr></tbody>
         </table>
       </div>
       <ol v-else-if="b.tip === 'adimlar'" class="adimlar">
@@ -59,6 +59,8 @@ table{width:100%;border-collapse:collapse;font-size:15.5px;line-height:1.5}
 thead th{background:var(--ink);color:#fff;font-family:var(--display);font-size:17px;letter-spacing:.02em;text-align:left;padding:12px 16px}
 tbody th,tbody td{padding:14px 16px;border-top:1px solid var(--line);text-align:left;vertical-align:top}
 tbody th{font-weight:600;color:var(--text);width:38%}
+.cok tbody th{width:auto}
+.cok table{min-width:560px}
 tbody tr:nth-child(even){background:var(--paper-2)}
 
 .adimlar{list-style:none;margin:20px 0 28px;padding:0;display:grid;gap:10px}

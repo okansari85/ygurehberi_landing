@@ -16,6 +16,8 @@
 - [Yangın Güvenlik Uzmanlığı Seviyeleri](https://ygurehberi.com/ygu-seviyeleri): Yangın güvenlik uzmanlığında yetki seviyeleri: YGU-1, YGU-2, YGU-3 ve YGU-K kimler için öngörülüyor, hangi görevleri kapsıyor?
 - [Yangın Güvenlik Uzmanı Ne İş Yapar?](https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri): Yangın güvenlik uzmanının görevleri: proje uygunluğu, yapı kullanma izni değerlendirmesi, periyodik kontroller, tatbikatlar; sahada ne yapar, hangi sorunlarla karşılaşır, rapor nasıl hazırlanır?
 - [Çalışma Alanları](https://ygurehberi.com/calisma-alanlari): Hangi binalar yangın güvenliği periyodik kontrolüne tabi olacak? Yangın güvenlik uzmanının görev aldığı yapılar, kariyer olanakları ve işletmelerin YGU sistemine hazırlığı.
+- [Teknik Makaleler](https://ygurehberi.com/teknik-makaleler): yangın güvenliği tasarımı ve uygulamasına yönelik teknik makaleler
+- [YGR-004: Depolama Yüksekliği Sabitken Sprinkler Tasarımı Geçerli Kalır mı?](https://ygurehberi.com/teknik-makaleler/depolama-yuksekligi-sabitken-sprinkler-tasarimi-gecerli-kalir-mi): Bir depo aynı tavan ve raf yüksekliğini korurken ürün, ambalaj ve depolama biçimi değişebilir. Bu değişim sprinkler sisteminin ilk tasarım dayanağını etkileyebilir.
 - [Sık Sorulan Sorular](https://ygurehberi.com/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
 
 ## YGU nedir?
@@ -352,6 +354,58 @@ Kontrol kapsamı yapı kullanım sınıfları ve mevzuattaki diğer koşullara g
 ### Yangın Güvenlik Uzmanlığı Kariyer ve Çalışma Alanları
 
 Yangın Güvenlik Uzmanlığı sistemi, ilgili mühendislik, mimarlık ve teknik meslek grupları için yeni çalışma alanları oluşturabilir. Çalışma olanakları yetki seviyelerine, uygulama biçimine ve kontrol kapsamındaki yapıların ihtiyaçlarına bağlıdır. Doğrulanmış veriler olmadan kesin gelir rakamları vermek doğru değildir.
+
+## Teknik makaleler
+
+### YGR-004: Depolama Yüksekliği Sabitken Sprinkler Tasarımı Geçerli Kalır mı?
+
+Kaynak sayfa: https://ygurehberi.com/teknik-makaleler/depolama-yuksekligi-sabitken-sprinkler-tasarimi-gecerli-kalir-mi · Konular: Sprinkler, Depolama
+
+Bir depo aynı tavan ve raf yüksekliğini korurken ürün, ambalaj ve depolama biçimi değişebilir. Bu değişim sprinkler sisteminin ilk tasarım dayanağını etkileyebilir.
+
+1.000 m² alana ve 9 m tavan yüksekliğine sahip sprinkler korumalı bir depo düşünelim. Raflı depolama yüksekliği başlangıçta ve sonrasında 5 m. İşletme önce karton ambalajlı metal yedek parçalar depoluyor; sonra plastik kasalarda, plastik içerikli ürünlerle çalışmaya başlıyor. Başlık sayısı ve boru sistemi değişmemiştir.
+
+### Değişmeyen geometri, değişen yangın özelliği
+
+| Özellik | Önce | Sonra |
+| --- | --- | --- |
+| Depo alanı | 1.000 m² | 1.000 m² |
+| Tavan yüksekliği | 9 m | 9 m |
+| Üst depolama seviyesi | 5 m | 5 m |
+| Ürün niteliği | Metal parçalar | Plastik içerikli ürünler |
+| Dış ambalaj / taşıyıcı | Karton | Plastik kasa |
+| Sprinkler tasarım uyumu | İlk esas saptanmalı | Yeniden doğrulanmalı |
+
+Buradaki “metal ürün” veya “plastik ürün” tanımı tek başına ilgili standarda göre nihai ürün sınıfını belirlemez. Plastik yüzdesi, ürün biçimi, kartonlama, palet, raf ve istif koşulları gibi bilgiler gerekir. NFPA 13 ile EN 12845’in terminolojileri de otomatik olarak birbirine dönüştürülemez.
+
+### Bir sprinkler sisteminin geçerlilik alanı nedir?
+
+Sistem yalnız nominal bir su debisine indirgenemez. Tasarımın geçerliliği, korumaya konu ürünün sınıfı, yerleşimi, depolama yüksekliği, tavan koşulları, sprinkler başlık tipi/konumu ve su kaynağı gibi girdilerin bir bütün olarak kontrol edilmesine bağlıdır. Mevcut sistemin bugünkü ürünler için yeterli olup olmadığı ancak bu girdiler bilindikten sonra incelenebilir.
+
+#### Yanlış kısa yollar
+
+“Depo yüksekliği artmadı, koruma değişmez” çıkarımı yanlıştır. Benzer şekilde “plastik geldi, tüm başlıkları değiştirelim” sonucu da mühendislik incelemesi yapılmadan savunulamaz. Gerçek sınıflandırma ve mevcut tasarım belirlendikten sonra değişikliğin koruma gereksinimine etkisi hesaplanmalıdır.
+
+### Tasarım–stok karşılaştırma kontrol tablosu
+
+| Alan | Belge / veri | Karar için sorulacak soru |
+| --- | --- | --- |
+| Başlangıç tasarımı | Onaylı proje, hesap raporu | Hangi stok varsayımıyla yapıldı? |
+| Güncel ürün | Ürün ağacı, güvenilir sınıflandırma | Mevcut ürün standarda göre hangi sınıfta? |
+| Depolama şekli | Raf yerleşimi, yükseklik, fotoğraf | Yerleşim ve engeller aynı mı? |
+| Sprinkler altyapısı | Başlık bilgisi, hatlar, hidrolik hesap | Gerekli kriterler sağlanıyor mu? |
+| Su kaynağı | Debi/basınç kayıtları, pompa eğrisi | Tasarım noktasında yeterli mi? |
+
+### Sonuç
+
+Depolama yüksekliği sabit olsa da sprinkler sisteminin uygunluğu otomatik olarak sabit kalmaz. Teknik kontrolün hedefi, sistemin ilk tasarımının güncel stokla hâlâ örtüşüp örtüşmediğini kanıtlamaktır.
+
+Kaynaklar ve teknik çerçeve:
+- NFPA 13, Standard for the Installation of Sprinkler Systems (2025): https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13
+- BYKHY, sprinkler sistemlerinin ulusal mevzuat bağlamı: https://mevzuat.adalet.gov.tr/mevzuat/116939
+- EN 12845: Uygulanacak ulusal kabul/baskı ve projede atıf yapılan metin, teknik dosyadan doğrulanmalıdır.
+
+> Uygulama notu: Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez.
 
 ## Sık sorulan sorular
 

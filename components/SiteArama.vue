@@ -2,6 +2,7 @@
 // Site içi arama: statik sitede sunucu yok; başlık/metinler data/icerik.ts'den taranır, sonuç ilgili bölüme götürür.
 import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
+import { MAKALELER } from '~/data/makaleler'
 
 const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
 
@@ -26,6 +27,10 @@ const DIZIN = [
   })),
   { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/ygu-serbest-calisma' },
   ...SERBEST_SAYFA.hizmetler.liste.map((h) => ({ baslik: h.baslik, metin: 'Serbest çalışma: bağımsız hizmetler', to: '/ygu-serbest-calisma#hizmetler' })),
+  ...MAKALELER.flatMap((m) => [
+    { baslik: m.baslik, metin: `${m.kod} · Teknik makale · ${m.etiketler.join(', ')}`, to: `/teknik-makaleler/${m.yol}` },
+    ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: `${m.kod} · ${m.baslik}`, to: `/teknik-makaleler/${m.yol}#${b.id}` }] : []))
+  ]),
   ...SSS.liste.map((s) => ({ baslik: s.soru, metin: 'Sık sorulan sorular', to: '/sss' })),
   { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda#ygu-nedir' }
 ]

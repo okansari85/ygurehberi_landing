@@ -2,7 +2,7 @@
 // Ana sayfa: design/ana-sayfa.jpeg (bölüm sırası ve metinler birebir).
 import {
   SITE, ON_KAYIT, HERO_ETIKETLER, HERO_KART_MADDELER, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI,
-  YGU_YOLU, KONTROL_SURELERI, KONTROL_ARACI, VAKALAR, REHBERLER, YGU_NEDIR, NASIL_OLUNUR
+  YGU_YOLU, ANA_GOREVLER, ANA_SERBEST, KONTROL_SURELERI, KONTROL_ARACI, VAKALAR, REHBERLER, YGU_NEDIR, NASIL_OLUNUR
 } from '~/data/icerik'
 
 const sure = (s: string) => s.replace(' Yıl', ' yılda bir')
@@ -173,6 +173,42 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
     </div>
   </section>
 
+  <!-- YGU'NUN GÖREVLERİ -->
+  <section id="gorevler" class="bolum bolum-gri" aria-labelledby="gorev-baslik">
+    <div class="wrap">
+      <div class="gorev-ust">
+        <div>
+          <span class="cizgi" />
+          <h2 id="gorev-baslik" class="gorev-baslik">{{ ANA_GOREVLER.baslik }}</h2>
+          <p>{{ ANA_GOREVLER.metin }}</p>
+        </div>
+        <NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="btn btn-amber">Tüm Görevleri İncele <Ikon ad="ok" /></NuxtLink>
+      </div>
+      <ul class="gorevler">
+        <li v-for="g in ANA_GOREVLER.liste" :key="g.baslik">
+          <NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="kart gorev-kart">
+            <img :src="`/img/${g.gorsel}.webp`" alt="" width="1536" height="1024" loading="lazy">
+            <div class="gorev-ic">
+              <h3><span class="gorev-ikon"><Ikon ad="pano" /></span>{{ g.baslik }}</h3>
+              <p>{{ g.metin }}</p>
+              <span class="gorev-ok" aria-hidden="true"><Ikon ad="ok" /></span>
+            </div>
+          </NuxtLink>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- SERBEST ÇALIŞMA İMKÂNI -->
+  <section id="serbest-calisma" class="bolum bolum-koyu serbest" aria-labelledby="serbest-baslik">
+    <div class="bolum-arka"><img src="/img/bg-ygu-yolu.webp" alt="" width="1536" height="1024" loading="lazy"></div>
+    <div class="wrap">
+      <h2 id="serbest-baslik">{{ ANA_SERBEST.baslik }}</h2>
+      <p>{{ ANA_SERBEST.metin }}</p>
+      <NuxtLink to="/ygu-serbest-calisma" class="btn btn-amber">Serbest Çalışmayı İncele <Ikon ad="ok" /></NuxtLink>
+    </div>
+  </section>
+
   <!-- KONTROL SÜRELERİ -->
   <section id="kontrol-sureleri" class="bolum" aria-labelledby="kontrol-baslik">
     <div class="wrap iki-kolon">
@@ -332,6 +368,23 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 @media (max-width:640px){.yapilar{grid-template-columns:repeat(2,1fr)}}
 
 /* YGU OLMA YOLU */
+.gorev-ust{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:28px}
+.gorev-baslik{font-size:clamp(32px,3.4vw,46px)}
+.gorev-ust p{margin:10px 0 0;color:var(--muted);font-size:16.5px}
+.gorevler{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.gorev-kart{position:relative;display:flex;flex-direction:column;overflow:hidden;height:100%}
+.gorev-kart img{width:100%;aspect-ratio:16/10;object-fit:cover}
+.gorev-ic{display:flex;flex-direction:column;flex:1;padding:18px 18px 56px}
+.gorev-ic h3{display:flex;gap:12px;align-items:flex-start;font-size:20px;line-height:1.12}
+.gorev-ikon{display:grid;place-items:center;flex:none;width:34px;height:34px;border-radius:50%;border:1.5px solid var(--amber-2);color:var(--amber-2);font-size:18px}
+.gorev-ic p{margin:10px 0 0;color:var(--muted);font-size:14.5px;line-height:1.55}
+.gorev-ok{position:absolute;right:16px;bottom:16px;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--amber);color:#111;font-size:17px;transition:transform .2s ease}
+.gorev-kart:hover .gorev-ok{transform:translateX(3px)}
+@media (max-width:1060px){.gorevler{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.gorevler{grid-template-columns:1fr}}
+.serbest .bolum-arka img{opacity:.8;object-position:80% 50%}
+.serbest h2{font-size:clamp(34px,3.8vw,50px)}
+.serbest p{max-width:540px;margin:12px 0 24px;font-size:clamp(16px,1.5vw,19px);color:#ECE8E1}
 .yol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(6,1fr);gap:10px;position:relative}
 .yol::before{content:"";position:absolute;left:4%;right:4%;top:22px;height:2px;background:linear-gradient(90deg,var(--amber),rgba(255,193,7,.5))}
 .yol li{display:flex;flex-direction:column;align-items:center;gap:16px;position:relative}

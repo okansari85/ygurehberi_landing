@@ -17,7 +17,7 @@ export type Ikon =
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
-// "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). Teknik Makaleler henüz yok: "Yakında".
+// "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
 export type MenuOge = { ad: string; to: string; yakinda?: boolean; alt?: MenuOge[] }
 export const MENU: MenuOge[] = [
   { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
@@ -28,7 +28,7 @@ export const MENU: MenuOge[] = [
     to: '/#rehberler',
     alt: [
       { ad: 'Kısa Rehberler', to: '/#rehberler' },
-      { ad: 'Teknik Makaleler', to: '', yakinda: true }
+      { ad: 'Teknik Makaleler', to: '/teknik-makaleler' }
     ]
   },
   { ad: 'SSS', to: '/sss' }
@@ -110,6 +110,24 @@ export const YGU_YOLU = {
     { ikon: 'ekip', baslik: 'Görevlendirme', metin: 'Hangi yapılarda, hangi şartlarla?' },
     { ikon: 'kullanici', baslik: 'Serbest Çalışma', metin: 'YGU kendi adına çalışabilir mi?' }
   ] as { ikon: Ikon; baslik: string; metin: string }[]
+}
+
+// Ana sayfa "YGU'nun Görevleri" ve "Serbest Çalışma İmkânı" bantları (kullanıcının 15 Ekim ekran görüntüsü).
+// 2. kartın görseldeki metni okunamıyordu; Serbest Çalışma sayfasındaki aynı başlıklı metin kullanıldı.
+export const ANA_GOREVLER = {
+  baslik: "YGU'nun Görevleri",
+  metin: 'YGU, mevzuatta tanımlanan kapsamda dört temel alanda faaliyet gösterir.',
+  liste: [
+    { baslik: 'Proje İnceleme ve Uygunluk Görüşü', metin: 'Yangın güvenliği projelerinin incelenmesi ve uygunluk görüşü verilmesi.', gorsel: 'surec-proje' },
+    { baslik: 'Yapı Kullanma İzni Aşamasında Değerlendirme', metin: 'Projede öngörülen yangın güvenliği tedbirlerinin uygulamadaki karşılığının ve sistemlerin test ve devreye alma belgelerinin değerlendirilmesi.', gorsel: 'yapi-ticaret' },
+    { baslik: 'Yangın Güvenlik Periyodik Kontrolü', metin: 'Mevcut yapıların periyodik kontrol işlemlerinin yürütülmesi.', gorsel: 'surec-sureklilik' },
+    { baslik: 'Yangın Tatbikatlarının Planlanması', metin: 'Yapılarda yangın tatbikatlarının planlanması ve uygulama süreçlerinin değerlendirilmesi.', gorsel: 'rehber-acil-aydinlatma' }
+  ]
+}
+
+export const ANA_SERBEST = {
+  baslik: 'Serbest Çalışma İmkânı',
+  metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, bağımsız olarak yangın güvenliği hizmeti sunabilir.'
 }
 
 export const KONTROL_SURELERI = {

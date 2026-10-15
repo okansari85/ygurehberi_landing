@@ -1,0 +1,174 @@
+// Teknik makaleler (/teknik-makaleler, /teknik-makaleler/<yol>). Metinler kullanıcının makale dosyalarından birebir;
+// düz metin, doğrudan burada düzenlenir. Yeni makale: python -I scripts/makale-aktar.py <dosya.docx>, sonra etiketler ve yayin doldurulur.
+// Mevzuat/teknik bilgi uydurulmaz; metin değişikliği önce kullanıcıya sorulur.
+import type { KonuBlok } from './konular'
+
+export type Makale = {
+  kod: string
+  yol: string
+  baslik: string
+  ozet: string
+  etiketler: string[]
+  yayin: string
+  bloklar: KonuBlok[]
+  kaynakBaslik: string
+  kaynaklar: { metin: string; url?: string }[]
+  sonNotlar: KonuBlok[]
+}
+
+export const MAKALELER: Makale[] = [
+  {
+    "kod": "YGR-004",
+    "yol": "depolama-yuksekligi-sabitken-sprinkler-tasarimi-gecerli-kalir-mi",
+    "baslik": "Depolama Yüksekliği Sabitken Sprinkler Tasarımı Geçerli Kalır mı?",
+    "ozet": "Bir depo aynı tavan ve raf yüksekliğini korurken ürün, ambalaj ve depolama biçimi değişebilir. Bu değişim sprinkler sisteminin ilk tasarım dayanağını etkileyebilir.",
+    "etiketler": [
+      "Sprinkler",
+      "Depolama"
+    ],
+    "yayin": "2026-10-15",
+    "bloklar": [
+      {
+        "tip": "p",
+        "metin": "1.000 m² alana ve 9 m tavan yüksekliğine sahip sprinkler korumalı bir depo düşünelim. Raflı depolama yüksekliği başlangıçta ve sonrasında 5 m. İşletme önce karton ambalajlı metal yedek parçalar depoluyor; sonra plastik kasalarda, plastik içerikli ürünlerle çalışmaya başlıyor. Başlık sayısı ve boru sistemi değişmemiştir."
+      },
+      {
+        "tip": "h2",
+        "id": "degismeyen-geometri-degisen-yangin-ozelligi",
+        "metin": "Değişmeyen geometri, değişen yangın özelliği"
+      },
+      {
+        "tip": "tablo",
+        "basliklar": [
+          "Özellik",
+          "Önce",
+          "Sonra"
+        ],
+        "satirlar": [
+          [
+            "Depo alanı",
+            "1.000 m²",
+            "1.000 m²"
+          ],
+          [
+            "Tavan yüksekliği",
+            "9 m",
+            "9 m"
+          ],
+          [
+            "Üst depolama seviyesi",
+            "5 m",
+            "5 m"
+          ],
+          [
+            "Ürün niteliği",
+            "Metal parçalar",
+            "Plastik içerikli ürünler"
+          ],
+          [
+            "Dış ambalaj / taşıyıcı",
+            "Karton",
+            "Plastik kasa"
+          ],
+          [
+            "Sprinkler tasarım uyumu",
+            "İlk esas saptanmalı",
+            "Yeniden doğrulanmalı"
+          ]
+        ]
+      },
+      {
+        "tip": "p",
+        "metin": "Buradaki “metal ürün” veya “plastik ürün” tanımı tek başına ilgili standarda göre nihai ürün sınıfını belirlemez. Plastik yüzdesi, ürün biçimi, kartonlama, palet, raf ve istif koşulları gibi bilgiler gerekir. NFPA 13 ile EN 12845’in terminolojileri de otomatik olarak birbirine dönüştürülemez."
+      },
+      {
+        "tip": "h2",
+        "id": "bir-sprinkler-sisteminin-gecerlilik-alani-nedir",
+        "metin": "Bir sprinkler sisteminin geçerlilik alanı nedir?"
+      },
+      {
+        "tip": "p",
+        "metin": "Sistem yalnız nominal bir su debisine indirgenemez. Tasarımın geçerliliği, korumaya konu ürünün sınıfı, yerleşimi, depolama yüksekliği, tavan koşulları, sprinkler başlık tipi/konumu ve su kaynağı gibi girdilerin bir bütün olarak kontrol edilmesine bağlıdır. Mevcut sistemin bugünkü ürünler için yeterli olup olmadığı ancak bu girdiler bilindikten sonra incelenebilir."
+      },
+      {
+        "tip": "h3",
+        "metin": "Yanlış kısa yollar"
+      },
+      {
+        "tip": "p",
+        "metin": "“Depo yüksekliği artmadı, koruma değişmez” çıkarımı yanlıştır. Benzer şekilde “plastik geldi, tüm başlıkları değiştirelim” sonucu da mühendislik incelemesi yapılmadan savunulamaz. Gerçek sınıflandırma ve mevcut tasarım belirlendikten sonra değişikliğin koruma gereksinimine etkisi hesaplanmalıdır."
+      },
+      {
+        "tip": "h2",
+        "id": "tasarim-stok-karsilastirma-kontrol-tablosu",
+        "metin": "Tasarım–stok karşılaştırma kontrol tablosu"
+      },
+      {
+        "tip": "tablo",
+        "basliklar": [
+          "Alan",
+          "Belge / veri",
+          "Karar için sorulacak soru"
+        ],
+        "satirlar": [
+          [
+            "Başlangıç tasarımı",
+            "Onaylı proje, hesap raporu",
+            "Hangi stok varsayımıyla yapıldı?"
+          ],
+          [
+            "Güncel ürün",
+            "Ürün ağacı, güvenilir sınıflandırma",
+            "Mevcut ürün standarda göre hangi sınıfta?"
+          ],
+          [
+            "Depolama şekli",
+            "Raf yerleşimi, yükseklik, fotoğraf",
+            "Yerleşim ve engeller aynı mı?"
+          ],
+          [
+            "Sprinkler altyapısı",
+            "Başlık bilgisi, hatlar, hidrolik hesap",
+            "Gerekli kriterler sağlanıyor mu?"
+          ],
+          [
+            "Su kaynağı",
+            "Debi/basınç kayıtları, pompa eğrisi",
+            "Tasarım noktasında yeterli mi?"
+          ]
+        ]
+      },
+      {
+        "tip": "h2",
+        "id": "sonuc",
+        "metin": "Sonuç"
+      },
+      {
+        "tip": "p",
+        "metin": "Depolama yüksekliği sabit olsa da sprinkler sisteminin uygunluğu otomatik olarak sabit kalmaz. Teknik kontrolün hedefi, sistemin ilk tasarımının güncel stokla hâlâ örtüşüp örtüşmediğini kanıtlamaktır."
+      }
+    ],
+    "kaynakBaslik": "Kaynaklar ve teknik çerçeve",
+    "kaynaklar": [
+      {
+        "metin": "NFPA 13, Standard for the Installation of Sprinkler Systems (2025)",
+        "url": "https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13"
+      },
+      {
+        "metin": "BYKHY, sprinkler sistemlerinin ulusal mevzuat bağlamı",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/116939"
+      },
+      {
+        "metin": "EN 12845: Uygulanacak ulusal kabul/baskı ve projede atıf yapılan metin, teknik dosyadan doğrulanmalıdır."
+      }
+    ],
+    "sonNotlar": [
+      {
+        "tip": "not",
+        "etiket": "Uygulama notu",
+        "metin": "Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez."
+      }
+    ]
+  }
+]
+// SON

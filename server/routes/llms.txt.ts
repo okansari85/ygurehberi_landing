@@ -5,13 +5,14 @@ import {
   YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS, EGITIM_SAYFA as E, SERBEST_SAYFA as S
 } from '../../data/icerik'
 import { KONULAR, type KonuBlok } from '../../data/konular'
+import { MAKALELER } from '../../data/makaleler'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
 const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
   if (b.tip === 'h2') return `### ${b.metin}`
   if (b.tip === 'h3') return `#### ${b.metin}`
   if (b.tip === 'not') return `> ${b.etiket}: ${b.metin}`
-  if (b.tip === 'tablo') return [`| ${b.basliklar.join(' | ')} |`, `| --- | --- |`, ...b.satirlar.map((r) => `| ${r.join(' | ')} |`)].join('\n')
+  if (b.tip === 'tablo') return [`| ${b.basliklar.join(' | ')} |`, `|${' --- |'.repeat(b.basliklar.length)}`, ...b.satirlar.map((r) => `| ${r.join(' | ')} |`)].join('\n')
   if (b.tip === 'adimlar') return b.liste.map((a, i) => `${i + 1}. ${a.baslik}${a.metin ? ` ${a.metin}` : ''}`).join('\n')
   if (b.tip === 'altlar') return b.liste.map((a, i) => `- ${b.numarali ? `${i + 1}. ` : ''}${a.baslik}: ${a.metin}`).join('\n')
   if (b.tip === 'yapilar') return CALISMA_ALANLARI.yapilar.map((y) => `- ${y.ad} ${y.alt}`).join('\n')
@@ -35,6 +36,8 @@ export default defineEventHandler((event) => {
 - [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
 - [YGU Serbest Çalışma](${u}/ygu-serbest-calisma): YGU kendi adına çalışabilir mi, bağımsız olarak verebileceği hizmetler, işletmelerle çalışma ve serbest çalışmanın avantajları
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}/${y}): ${k.aciklama}`).join('\n')}
+- [Teknik Makaleler](${u}/teknik-makaleler): yangın güvenliği tasarımı ve uygulamasına yönelik teknik makaleler
+${MAKALELER.map((m) => `- [${m.kod}: ${m.baslik}](${u}/teknik-makaleler/${m.yol}): ${m.ozet}`).join('\n')}
 - [Sık Sorulan Sorular](${u}/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
 
 ## YGU nedir?
@@ -140,6 +143,21 @@ ${Object.entries(KONULAR).map(([y, k]) => `## ${k.baslik}
 Kaynak sayfa: ${u}/${y}
 
 ${konuMetni(k.bloklar)}`).join('\n\n')}
+
+## Teknik makaleler
+
+${MAKALELER.map((m) => `### ${m.kod}: ${m.baslik}
+
+Kaynak sayfa: ${u}/teknik-makaleler/${m.yol}${m.etiketler.length ? ` · Konular: ${m.etiketler.join(', ')}` : ''}
+
+${m.ozet}
+
+${konuMetni(m.bloklar)}
+
+${m.kaynakBaslik}:
+${m.kaynaklar.map((k) => `- ${k.metin}${k.url ? `: ${k.url}` : ''}`).join('\n')}
+
+${konuMetni(m.sonNotlar)}`).join('\n\n')}
 
 ## Sık sorulan sorular
 

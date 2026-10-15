@@ -1,6 +1,7 @@
 // YGU Rehberi sitesi: `npm run build:deploy` ile statik çıktı `deploy/` klasörüne alınır (cPanel Git ile yayın).
 // Sayfa başına başlık/açıklama/canonical/JSON-LD: composables/useSayfaSeo.ts.
 import { KONULAR } from './data/konular'
+import { MAKALELER } from './data/makaleler'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-10-07',
@@ -9,7 +10,7 @@ export default defineNuxtConfig({
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
-    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/sss', '/ygu-egitim-sinav-belgelendirme', '/ygu-serbest-calisma', ...Object.keys(KONULAR).map((y) => `/${y}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
+    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/sss', '/ygu-egitim-sinav-belgelendirme', '/ygu-serbest-calisma', ...Object.keys(KONULAR).map((y) => `/${y}`), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
   },
   app: {
     head: {
