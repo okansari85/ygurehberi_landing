@@ -10,6 +10,8 @@ if (!makale) throw createError({ statusCode: 404, statusMessage: 'Makale bulunam
 
 const YOL = `/teknik-makaleler/${makale.yol}`
 const okuma = makaleOkumaSuresi(makale)
+// Paylaşım görseli ve şemadaki görsel: makalenin ilk şekli, yoksa sitenin genel görseli.
+const sekil = makale.bloklar.find((b) => b.tip === 'gorsel') as { src: string; genislik: number; yukseklik: number } | undefined
 const basliklar = [
   ...(makale.bloklar.filter((b) => b.tip === 'h2') as { id: string; metin: string }[]),
   ...(makale.kaynaklar.length ? [{ id: 'kaynaklar', metin: makale.kaynakBaslik }] : [])
@@ -23,6 +25,8 @@ useSayfaSeo({
   baslik: `${makale.baslik} | YGU Rehberi`,
   aciklama: makale.ozet,
   yol: YOL,
+  ...(sekil ? { gorsel: sekil.src, gorselBoyut: [sekil.genislik, sekil.yukseklik] as [number, number] } : {}),
+  makaleTarihi: makale.yayin || undefined,
   jsonLd: [
     {
       '@type': 'TechArticle',
@@ -31,6 +35,9 @@ useSayfaSeo({
       description: makale.ozet,
       inLanguage: 'tr-TR',
       identifier: makale.kod,
+      image: `${SITE.url}${sekil?.src ?? '/img/surec-proje.webp'}`,
+      articleSection: 'Teknik Makaleler',
+      about: { '@type': 'Thing', name: 'Yangın güvenliği' },
       ...(makale.yayin ? { datePublished: makale.yayin, dateModified: makale.yayin } : {}),
       keywords: makale.etiketler.join(', '),
       author: { '@id': `${SITE.url}/#kurulus` },

@@ -18,6 +18,7 @@ useSayfaSeo({
   aciklama: konu.aciklama,
   yol: YOL,
   gorsel: `/img/${konu.gorsel}.webp`,
+  makaleTarihi: '2026-10-15',
   jsonLd: [
     {
       '@type': 'Article',

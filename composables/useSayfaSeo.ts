@@ -6,6 +6,10 @@ type Secenek = {
   aciklama: string
   yol: string
   gorsel?: string
+  // Paylaşım görselinin ölçüleri (site görselleri 1536×1024).
+  gorselBoyut?: [number, number]
+  // Makale sayfaları: og:type article + yayın tarihi.
+  makaleTarihi?: string
   jsonLd?: Record<string, unknown>[]
 }
 
@@ -14,26 +18,29 @@ export const KURULUS = {
   '@id': `${SITE.url}/#kurulus`,
   name: SITE.ad,
   url: SITE.url,
-  logo: `${SITE.url}/logo.png`,
-  description: SITE.aciklama
+  logo: { '@type': 'ImageObject', url: `${SITE.url}/logo.png` },
+  description: SITE.aciklama,
+  knowsAbout: ['Yangın güvenlik uzmanı', 'Yangın güvenlik uzmanlığı', 'Yangın güvenliği', 'Binaların Yangından Korunması Hakkında Yönetmelik', 'Yangın güvenliği periyodik kontrolü']
 }
 
-export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ana.webp', jsonLd = [] }: Secenek) {
+export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ana.webp', gorselBoyut = [1536, 1024], makaleTarihi, jsonLd = [] }: Secenek) {
   const url = `${SITE.url}${yol}`
   const resim = `${SITE.url}${gorsel}`
 
   useSeoMeta({
     title: baslik,
     description: aciklama,
-    ogType: 'website',
+    ogType: makaleTarihi ? 'article' : 'website',
+    ...(makaleTarihi ? { articlePublishedTime: makaleTarihi, articleModifiedTime: makaleTarihi } : {}),
     ogLocale: 'tr_TR',
     ogSiteName: SITE.ad,
     ogUrl: url,
     ogTitle: baslik,
     ogDescription: aciklama,
     ogImage: resim,
-    ogImageWidth: 1536,
-    ogImageHeight: 1024,
+    ogImageWidth: gorselBoyut[0],
+    ogImageHeight: gorselBoyut[1],
+    ogImageAlt: baslik,
     twitterCard: 'summary_large_image',
     twitterTitle: baslik,
     twitterDescription: aciklama,

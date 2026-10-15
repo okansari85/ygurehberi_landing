@@ -27,7 +27,11 @@ YGU Rehberi (ygurehberi.com): Yangın Güvenlik Uzmanlığı (YGU) bilgi sitesi.
 - Sayfa başına `useSayfaSeo` (composables/useSayfaSeo.ts): başlık, açıklama, canonical, OG/Twitter, JSON-LD (Organization, WebSite, WebPage/AboutPage, BreadcrumbList, FAQPage). FAQ yanıtları sayfa metniyle aynı olmalı.
 - `public/robots.txt` yapay zekâ tarayıcılarına açık; `/sitemap.xml` = `server/routes/sitemap.xml.ts` (sayfa listesi orada, görseller `data/icerik.ts`ten); `/llms.txt` = `server/routes/llms.txt.ts` (generate'te statik dosya).
 - Yeni sayfa: `nitro.prerender.routes`'a, sitemap'e ve llms.txt'ye ekle.
-- `public/.htaccess`: tek adres biçimi `https://ygurehberi.com/yol` (www→çıplak, http→https, sondaki / kaldırılır, klasörün index.html'i sunulur). Sitemap ve canonical bu biçimde kalmalı.
+- Yazı tipleri yerel: `public/fonts/*.woff2` + `assets/css/fonts.css` (Google Fonts bağlantısı yok, hız için; 15 Ekim). Başlık 800/700 ve Poppins 400 önden yüklenir (nuxt.config).
+- Makale ve konu sayfaları `og:type=article` + yayın tarihi; makalenin paylaşım görseli ilk şekli (`useSayfaSeo` › `gorsel`, `gorselBoyut`, `makaleTarihi`).
+- `scripts/deploy.mjs` 404.html ve 200.html'e `noindex` koyar.
+- IndexNow (Bing/Yandex; ChatGPT arama Bing dizinini kullanır): anahtar `public/<32 hex>.txt`; cPanel yayınından SONRA `npm run indexnow` sitemap'teki tüm adresleri bildirir.
+- `public/.htaccess`: tek adres biçimi `https://ygurehberi.com/yol` (www→çıplak, http→https, sondaki / kaldırılır, klasörün index.html'i sunulur); `_nuxt/` ve `fonts/` 1 yıl önbellek, HTML her istekte doğrulanır. Sitemap ve canonical bu biçimde kalmalı.
 
 ## İçerik
 - Mevzuat bilgisi uydurulmaz; YGU düzenlemesi taslak — kontrol süreleri "taslaktaki örnek değerler" notuyla gösterilir.

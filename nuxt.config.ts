@@ -6,7 +6,7 @@ import { MAKALELER } from './data/makaleler'
 export default defineNuxtConfig({
   compatibilityDate: '2026-10-07',
   devtools: { enabled: false },
-  css: ['~/assets/css/main.css'],
+  css: ['~/assets/css/fonts.css', '~/assets/css/main.css'],
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
@@ -26,9 +26,8 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', href: '/logo.png' },
         { rel: 'apple-touch-icon', href: '/logo.png' },
         { rel: 'alternate', type: 'text/plain', href: '/llms.txt', title: 'LLM özet' },
-        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Barlow+Condensed:wght@600;700;800&display=swap' }
+        // Yazı tipleri yerel (assets/css/fonts.css, public/fonts); ilk ekrandaki başlık ve metin yazı tipi önden yüklenir.
+        ...['barlow-condensed-800-latin', 'barlow-condensed-700-latin', 'poppins-400-latin'].map((f) => ({ rel: 'preload', as: 'font', type: 'font/woff2', href: `/fonts/${f}.woff2`, crossorigin: '' }))
       ]
     }
   }

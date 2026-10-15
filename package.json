@@ -9,7 +9,8 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "build:deploy": "nuxt generate && node scripts/deploy.mjs",
-    "gorsel": "node scripts/gorsel-uret.mjs"
+    "gorsel": "node scripts/gorsel-uret.mjs",
+    "indexnow": "node scripts/indexnow.mjs"
   },
   "dependencies": {
     "nuxt": "4.5.2"
