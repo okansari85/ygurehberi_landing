@@ -28,6 +28,7 @@ const yil = new Date().getFullYear()
       </div>
       <nav aria-label="Alt menü">
         <h3>Site</h3>
+        <NuxtLink to="/">Ana Sayfa</NuxtLink>
         <NuxtLink v-for="m in MENU" :key="m.to" :to="m.to">{{ m.ad }}</NuxtLink>
       </nav>
       <nav aria-label="Konular">

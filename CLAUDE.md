@@ -3,8 +3,10 @@
 YGU Rehberi (ygurehberi.com): Yangın Güvenlik Uzmanlığı (YGU) bilgi sitesi. Statik Nuxt sitesi.
 
 ## Tasarım (onaylı, birebir uygulanır)
-- `design/ana-sayfa.jpeg` → `pages/index.vue`; `design/ygu-hakkinda.jpeg` → `pages/ygu-hakkinda.vue`. Diğer menü sayfaları (Çalışma Alanları, Vakalarla Öğren, Kısa Rehberler) için tasarım yok; menü şimdilik ana sayfadaki bölümlere gider.
+- `design/ana-sayfa.jpeg` → `pages/index.vue`; `design/ygu-hakkinda.jpeg` → `pages/ygu-hakkinda.vue`. Diğer menü sayfaları için tasarım yok; Vakalarla Öğren ve Kısa Rehberler şimdilik ana sayfadaki bölümlere gider (Çalışma Alanları artık konu sayfası, aşağıda).
 - `design/on-kayit.jpeg` → `pages/on-kayit.vue` (içerik yerleşimi aynı, üst menü/alt bilgi sitenin). Form henüz bir yere göndermiyor (TODO: gönderim yolu + KVKK Aydınlatma Metni kullanıcıdan). Görseller `on-kayit-hero`/`on-kayit-form` şimdilik kopya (hero-ana / bg-ygu-yolu); istemleri script'te.
+- Üst menüde "Ana Sayfa" yok (logo gider; alt bilgide var). `/sss` (SSS) menüde; tasarımı yok, YGU Hakkında kalıbında, metinler `data/icerik.ts` › SSS. Menü 1220 px altında hamburger.
+- Konu sayfaları (15 Ekim 2026): `/yangin-guvenlik-uzmani-nedir`, `/yangin-guvenlik-uzmani-nasil-olunur`, `/ygu-seviyeleri`, `/yangin-guvenlik-uzmani-gorevleri`, `/calisma-alanlari` → `pages/[konu].vue` + `data/konular.ts`. Metinler kullanıcının YGU.docx'inden BİREBİR ve EKSİKSİZ (kullanıcı: "her satırını biz özgün yazdık, eksik verme"); docx'in SSS bölümü `SSS_DOCX` ile /sss'de. Ana sayfa kartları, hero etiketleri ve menüdeki Çalışma Alanları bu sayfalara gider; "Serbest Çalışma" docx'te ayrı içerik olmadığından `/calisma-alanlari#kariyer`'e. Sitemap, prerender, llms.txt (tam metin) ve site içi arama `KONULAR`'dan kendiliğinden beslenir.
 - Tüm "Ön Kayıt" düğmeleri `/on-kayit`'e gider; alt bilgideki ön kayıt bandı o sayfada gizlenir.
 - "Hangi Yapılarda Görev Alır?" = BYKHY'nin 9 kullanım sınıfı, 3×3 kart; metinler kullanıcının 13 Ekim'de gönderdiği 9 kartlı görselden.
 - "Kontrol Süreleri / Kaç Yılda Bir Yapılır?" bölümünün altında kontrol süresi aracı bandı (`KONTROL_ARACI`, 14 Ekim örneği): araç yok, düğme pasif + "Yakında". Araç yapılınca düğme ona bağlanır.

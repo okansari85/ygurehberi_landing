@@ -19,6 +19,8 @@ a{color:inherit}
 h1,h2,h3{font-family:var(--display);margin:0;font-weight:700;letter-spacing:-.005em;line-height:1.02}
 .vurgu{color:var(--amber)}
 .ust{display:block;font-family:var(--display);font-size:14px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--amber-2);margin-bottom:10px}
+/* H1 içindeki küçük üst satır: aranan ifade (yangın güvenlik uzmanı) başlıkta geçsin, büyük tasarım başlığı aynı kalsın. */
+h1 .h1-ust{display:block;font-family:var(--display);font-size:clamp(15px,1.3vw,18px);font-weight:700;letter-spacing:.06em;line-height:1.2;text-transform:uppercase;color:var(--amber);margin-bottom:12px}
 .cizgi{display:block;width:46px;height:5px;border-radius:3px;background:var(--amber);margin-bottom:22px}
 
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:48px;padding:0 24px;border-radius:8px;border:0;font-family:var(--display);font-weight:700;font-size:17px;text-decoration:none;cursor:pointer;transition:transform .2s ease, background .2s ease, box-shadow .2s ease}

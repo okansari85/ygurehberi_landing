@@ -8,7 +8,7 @@ import {
 const sure = (s: string) => s.replace(' Yıl', ' yılda bir')
 
 useSayfaSeo({
-  baslik: 'YGU Rehberi — Yangın Güvenlik Uzmanlığı (YGU) Rehberi',
+  baslik: 'Yangın Güvenlik Uzmanı (YGU) Nedir, Nasıl Olunur? | YGU Rehberi',
   aciklama:
     'Yangın güvenlik uzmanı (YGU) nedir, nasıl olunur? YGU seviyeleri, görevleri, çalışma alanları, periyodik yangın güvenliği kontrol süreleri, vaka analizleri ve teknik rehberler.',
   yol: '/',
@@ -66,7 +66,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
     <img class="hero-bg" src="/img/hero-ana.webp" alt="" width="1536" height="1024" fetchpriority="high">
     <div class="wrap hero-ic">
       <div class="hero-sol">
-        <h1 id="hero-baslik">Yangın Güvenliğinde <span class="vurgu">Tek Rehber</span></h1>
+        <h1 id="hero-baslik"><span class="h1-ust">Yangın Güvenlik Uzmanı (YGU) Rehberi</span> Yangın Güvenliğinde <span class="vurgu">Tek Rehber</span></h1>
         <p>YGU hakkında güvenilir bilgiler, gerçek yangın vakaları ve uygulamaya yönelik teknik rehberler.</p>
         <SiteArama buyuk />
         <ul class="hero-etiket">

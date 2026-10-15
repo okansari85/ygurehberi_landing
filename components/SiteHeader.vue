@@ -44,7 +44,7 @@ const etkin = (to: string) => (to === '/' ? route.path === '/' && !route.hash : 
 .hdr-ic{display:flex;align-items:center;gap:24px;min-height:76px}
 .hdr-logo{display:flex;align-items:center;flex:none}
 .hdr-nav{display:flex;align-items:center;gap:clamp(16px,2.4vw,34px);margin:0 auto;font-size:15px;font-weight:500}
-.hdr-nav a:not(.btn){position:relative;text-decoration:none;color:#3A3835;padding:26px 0}
+.hdr-nav a:not(.btn){position:relative;text-decoration:none;color:#3A3835;padding:26px 0;white-space:nowrap}
 .hdr-nav a:not(.btn):hover{color:#000}
 .hdr-nav a.etkin{color:#000;font-weight:700}
 .hdr-nav a.etkin::after{content:"";position:absolute;left:-6px;right:-6px;bottom:14px;height:3px;border-radius:2px;background:var(--amber)}
@@ -52,12 +52,12 @@ const etkin = (to: string) => (to === '/' ? route.path === '/' && !route.hash : 
 .hdr-sag{display:flex;align-items:center;gap:6px}
 .hdr-ikon{display:grid;place-items:center;width:42px;height:42px;border:0;background:none;border-radius:8px;font-size:21px;color:#111;cursor:pointer}
 .hdr-ikon:hover{background:var(--paper-2)}
-.hdr-cta{margin-left:10px}
+.hdr-cta{margin-left:10px;white-space:nowrap}
 .hdr-menu{display:none;flex-direction:column;justify-content:center;gap:5px;width:44px;height:44px;border:0;background:none;cursor:pointer;padding:10px}
 .hdr-menu span{display:block;height:2px;background:#111;border-radius:2px}
 .hdr-arama{border-top:1px solid var(--line);padding:14px 0;background:#fff}
 
-@media (max-width:1100px){
+@media (max-width:1220px){
   .hdr-cta{display:none}
   .hdr-menu{display:flex}
   .hdr-nav{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:#fff;border-bottom:1px solid var(--line);padding:8px var(--gutter) 20px;box-shadow:0 20px 30px -20px rgba(0,0,0,.25)}

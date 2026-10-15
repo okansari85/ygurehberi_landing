@@ -41,4 +41,42 @@
     <image:image><image:loc>https://ygurehberi.com/img/on-kayit-hero.webp</image:loc></image:image>
     <image:image><image:loc>https://ygurehberi.com/img/on-kayit-form.webp</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://ygurehberi.com/sss</loc>
+    <lastmod>2026-10-15</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/yangin-guvenlik-uzmani-nedir</loc>
+    <lastmod>2026-10-15</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/hakkinda-ygu-nedir.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/yangin-guvenlik-uzmani-nasil-olunur</loc>
+    <lastmod>2026-10-15</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/bg-ygu-yolu.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-seviyeleri</loc>
+    <lastmod>2026-10-15</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-endustriyel.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri</loc>
+    <lastmod>2026-10-15</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/surec-dogrulama.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/calisma-alanlari</loc>
+    <lastmod>2026-10-15</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-ticaret.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-konut.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-konaklama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-kurumsal.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-buro.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-endustriyel.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-toplanma.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-depolama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/yapi-yuksek-tehlikeli.webp</image:loc></image:image>
+  </url>
 </urlset>

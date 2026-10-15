@@ -5,7 +5,7 @@ import { SITE, YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR } from '~/data/iceri
 const YOL = '/ygu-hakkinda'
 
 useSayfaSeo({
-  baslik: 'YGU Nedir? Yangın Güvenlik Uzmanının Görevleri ve Seviyeleri | YGU Rehberi',
+  baslik: 'Yangın Güvenlik Uzmanı (YGU) Nedir? Görevleri ve Seviyeleri | YGU Rehberi',
   aciklama:
     'Yangın güvenlik uzmanı (YGU) nedir, ne iş yapar? YGU\'nun dört temel görevi ve YGU-1, YGU-2, YGU-3, YGU-K seviyeleri.',
   yol: YOL,
@@ -55,7 +55,7 @@ useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/hakkinda-hero.webp',
         <Ikon ad="sag" />
         <span aria-current="page">YGU Hakkında</span>
       </nav>
-      <h1 id="sayfa-baslik">YGU <span class="vurgu">Hakkında</span></h1>
+      <h1 id="sayfa-baslik"><span class="h1-ust">Yangın Güvenlik Uzmanı (YGU) Nedir?</span> YGU <span class="vurgu">Hakkında</span></h1>
       <p>Yangın güvenlik uzmanlığını tanıyın.</p>
     </div>
   </section>

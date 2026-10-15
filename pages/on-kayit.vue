@@ -6,7 +6,7 @@ import { SITE, ON_KAYIT_SAYFA as S, ILLER } from '~/data/icerik'
 const YOL = '/on-kayit'
 
 useSayfaSeo({
-  baslik: 'YGU Ön Kayıt — Yangın Güvenlik Uzmanı Olmak İçin Başvurun | YGU Rehberi',
+  baslik: 'Yangın Güvenlik Uzmanı Olmak İçin Ön Kayıt | YGU Rehberi',
   aciklama:
     'Yangın güvenlik uzmanı (YGU) olmak için ön kaydınızı yapın; eğitim, sınav ve belgelendirme süreciyle ilgili güncel bilgilendirmeleri ilk siz alın.',
   yol: YOL,
@@ -48,7 +48,7 @@ function gonder() {
     <img class="ok-hero-bg" src="/img/on-kayit-hero.webp" alt="" width="1536" height="1024" fetchpriority="high">
     <div class="wrap">
       <span class="cizgi" />
-      <h1 id="sayfa-baslik">{{ S.baslik }} <span class="vurgu">{{ S.vurgu }}</span></h1>
+      <h1 id="sayfa-baslik"><span class="h1-ust">Yangın Güvenlik Uzmanı Olmak İçin</span> {{ S.baslik }} <span class="vurgu">{{ S.vurgu }}</span></h1>
       <p class="ok-hero-alt">{{ S.alt }}</p>
       <p class="ok-hero-metin">{{ S.metin }}</p>
     </div>

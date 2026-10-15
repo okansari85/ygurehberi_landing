@@ -1,6 +1,8 @@
 // Sitenin bütün metinleri (tasarım: design/ana-sayfa.jpeg, design/ygu-hakkinda.jpeg). Sayfalar, arama ve SEO buradan beslenir.
 // Mevzuat bilgisi uydurulmaz: metinler tasarımdakiyle aynı kalır; değişiklik önce sorulur.
 
+import { SSS_DOCX, type KonuBlok } from './konular'
+
 export const SITE = {
   url: 'https://ygurehberi.com',
   ad: 'YGU Rehberi',
@@ -14,22 +16,23 @@ export type Ikon =
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula'
 
+// Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 export const MENU = [
-  { ad: 'Ana Sayfa', to: '/' },
   { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
-  { ad: 'Çalışma Alanları', to: '/#calisma-alanlari' },
+  { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
   { ad: 'Vakalarla Öğren', to: '/#vakalar' },
-  { ad: 'Kısa Rehberler', to: '/#rehberler' }
+  { ad: 'Kısa Rehberler', to: '/#rehberler' },
+  { ad: 'SSS', to: '/sss' }
 ]
 
 export const ON_KAYIT = { ad: 'YGU Olmak İçin Ön Kayıt', to: '/on-kayit' }
 
 export const HERO_ETIKETLER = [
-  { ad: 'YGU Nedir?', to: '/ygu-hakkinda#ygu-nedir' },
-  { ad: 'Nasıl Olunur?', to: '/#ygu-olma-yolu' },
-  { ad: 'Eğitim ve Sınav', to: '/#ygu-olma-yolu' },
-  { ad: 'Serbest Çalışma', to: '/#ygu-olma-yolu' },
-  { ad: 'Çalışma Alanları', to: '/#calisma-alanlari' },
+  { ad: 'YGU Nedir?', to: '/yangin-guvenlik-uzmani-nedir' },
+  { ad: 'Nasıl Olunur?', to: '/yangin-guvenlik-uzmani-nasil-olunur' },
+  { ad: 'Eğitim ve Sınav', to: '/yangin-guvenlik-uzmani-nasil-olunur#egitim' },
+  { ad: 'Serbest Çalışma', to: '/calisma-alanlari#kariyer' },
+  { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
   { ad: 'Kontrol Süreleri', to: '/#kontrol-sureleri' }
 ]
 
@@ -42,12 +45,12 @@ export const HERO_KART_MADDELER: { ikon: Ikon; metin: string }[] = [
 
 // Ana sayfadaki kayan kutular (slider); sıra ve metinler kullanıcının 13 Ekim örnek görselinden.
 export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: string }[] = [
-  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.', to: '/ygu-hakkinda#ygu-nedir' },
-  { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'Eğitim, sınav ve belgelendirme süreci.', to: '/#ygu-olma-yolu' },
-  { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K farkları.', to: '/ygu-hakkinda#seviyeler' },
-  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun hangi görevlerde yer aldığı.", to: '/ygu-hakkinda#gorevler' },
-  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/#calisma-alanlari' },
-  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/#ygu-olma-yolu' },
+  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.', to: '/yangin-guvenlik-uzmani-nedir' },
+  { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'Eğitim, sınav ve belgelendirme süreci.', to: '/yangin-guvenlik-uzmani-nasil-olunur' },
+  { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K farkları.', to: '/ygu-seviyeleri' },
+  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun hangi görevlerde yer aldığı.", to: '/yangin-guvenlik-uzmani-gorevleri' },
+  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/calisma-alanlari' },
+  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/calisma-alanlari#kariyer' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler' },
   { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/#vakalar' }
 ]
@@ -243,3 +246,175 @@ export const ILLER = [
   'Osmaniye', 'Rize', 'Sakarya', 'Samsun', 'Şanlıurfa', 'Siirt', 'Sinop', 'Şırnak', 'Sivas', 'Tekirdağ', 'Tokat',
   'Trabzon', 'Tunceli', 'Uşak', 'Van', 'Yalova', 'Yozgat', 'Zonguldak'
 ]
+
+// SSS sayfası (/sss). Tasarım yok; YGU Hakkında sayfasının kalıbıyla yapıldı. İlk 6 sorunun soru cümleleri Claude'un (kullanıcı 15 Ekim'de "kalsın" dedi);
+// ilk 5'in yanıtı kullanıcının verdiği metinden ilgili bölümün tamamı (düz metin, aşağıda SSS_ILK_BES; `bloklar` tablo/kart görünümü için, `yanit` şema ve arama için).
+// Kontrol süreleri yanıtı sitedeki metinden. Sonraki 6 soru kullanıcının metnindeki SSS bölümü (konular.ts › SSS_DOCX);
+// yeni sorular kullanıcıdan gelir (mevzuat yanıtı uydurulmaz). Sayfa, FAQPage şeması, site içi arama ve llms.txt buradan beslenir.
+const sureMetni = (s: string) => s.replace(' Yıl', ' yılda bir')
+
+const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: string }[] = [
+    {
+      "soru": "Yangın güvenlik uzmanı (YGU) nedir?",
+      "yanit": "Yangın Güvenlik Uzmanı, belirlenen mesleki ve yetkilendirme koşullarını sağlayarak yapıların yangın güvenliği tedbirlerini değerlendirmek üzere görev yapan teknik meslek mensubudur. Yangın Güvenlik Uzmanının değerlendirme alanı yalnızca yangın algılama ve söndürme sistemleriyle sınırlı değildir. Yangın Güvenlik Uzmanı, yapının özelliklerine ve görev kapsamına göre aktif ve pasif koruma tedbirlerini, kaçış düzenlemelerini, teknik sistemleri ve bunların birbirleriyle ilişkilerini inceler. Örneğin bir fabrikada yangın algılama sisteminin çalışır durumda olması önemlidir. Ancak aynı fabrikada kaçış yollarının depolanan malzemelerle daraltılması, yangın kapılarının işlevini kaybetmesi veya yangın bölmelerinin sonradan değiştirilmesi, yapının yangın güvenliğini olumsuz etkileyebilir. Yangın Güvenlik Uzmanı bu tür durumları yapının yangın güvenliği üzerindeki etkileri bakımından da değerlendirir.",
+      "bloklar": [
+        {
+          "tip": "p",
+          "metin": "Yangın Güvenlik Uzmanı, belirlenen mesleki ve yetkilendirme koşullarını sağlayarak yapıların yangın güvenliği tedbirlerini değerlendirmek üzere görev yapan teknik meslek mensubudur."
+        },
+        {
+          "tip": "p",
+          "metin": "Yangın Güvenlik Uzmanının değerlendirme alanı yalnızca yangın algılama ve söndürme sistemleriyle sınırlı değildir. Yangın Güvenlik Uzmanı, yapının özelliklerine ve görev kapsamına göre aktif ve pasif koruma tedbirlerini, kaçış düzenlemelerini, teknik sistemleri ve bunların birbirleriyle ilişkilerini inceler."
+        },
+        {
+          "tip": "p",
+          "metin": "Örneğin bir fabrikada yangın algılama sisteminin çalışır durumda olması önemlidir. Ancak aynı fabrikada kaçış yollarının depolanan malzemelerle daraltılması, yangın kapılarının işlevini kaybetmesi veya yangın bölmelerinin sonradan değiştirilmesi, yapının yangın güvenliğini olumsuz etkileyebilir. Yangın Güvenlik Uzmanı bu tür durumları yapının yangın güvenliği üzerindeki etkileri bakımından da değerlendirir."
+        }
+      ],
+      "to": "/yangin-guvenlik-uzmani-nedir#kimdir"
+    },
+    {
+      "soru": "Yangın güvenlik uzmanı ne iş yapar?",
+      "yanit": "Proje uygunluğu Yangın Güvenlik Uzmanı, yetkisi kapsamında yangın güvenliği projelerinin mevzuata uygunluğunu değerlendirir. Yapı kullanma izni değerlendirmeleri Yangın Güvenlik Uzmanı, projede öngörülen tedbirlerin uygulanmasını, test ve devreye alma belgelerini inceler. Periyodik kontroller Yangın Güvenlik Uzmanı, ilgili yapılarda kontrol gerçekleştirir ve sonuçları kayıt altına alır. Yangın tatbikatları Yangın Güvenlik Uzmanı, yetki ve görev kapsamı içinde tatbikat planlamasına yönelik çalışmaları yürütür.",
+      "bloklar": [
+        {
+          "tip": "altlar",
+          "numarali": false,
+          "liste": [
+            {
+              "baslik": "Proje uygunluğu",
+              "metin": "Yangın Güvenlik Uzmanı, yetkisi kapsamında yangın güvenliği projelerinin mevzuata uygunluğunu değerlendirir."
+            },
+            {
+              "baslik": "Yapı kullanma izni değerlendirmeleri",
+              "metin": "Yangın Güvenlik Uzmanı, projede öngörülen tedbirlerin uygulanmasını, test ve devreye alma belgelerini inceler."
+            },
+            {
+              "baslik": "Periyodik kontroller",
+              "metin": "Yangın Güvenlik Uzmanı, ilgili yapılarda kontrol gerçekleştirir ve sonuçları kayıt altına alır."
+            },
+            {
+              "baslik": "Yangın tatbikatları",
+              "metin": "Yangın Güvenlik Uzmanı, yetki ve görev kapsamı içinde tatbikat planlamasına yönelik çalışmaları yürütür."
+            }
+          ]
+        }
+      ],
+      "to": "/yangin-guvenlik-uzmani-gorevleri#gorevler"
+    },
+    {
+      "soru": "Yangın güvenlik uzmanı nasıl olunur?",
+      "yanit": "Yangın Güvenlik Uzmanı adayı uygun yetki seviyesini belirler. Mezuniyet ve başvuru koşulları değerlendirilir. Yangın Güvenlik Uzmanı adayı teorik eğitime katılır. Mevzuat, teknik sistemler ve kontrol yöntemleri hakkında eğitim alır. Yangın Güvenlik Uzmanı adayı uygulama eğitimini tamamlar. Saha değerlendirmeleri ve raporlama çalışmalarına katılır. Yangın Güvenlik Uzmanı adayı sınavda başarılı olur. İlgili sınav koşullarını yerine getirir. Yangın Güvenlik Uzmanı yetki belgesini alır. Resmî işlemler tamamlandığında yetki kapsamındaki görevleri gerçekleştirir.",
+      "bloklar": [
+        {
+          "tip": "adimlar",
+          "liste": [
+            {
+              "baslik": "Yangın Güvenlik Uzmanı adayı uygun yetki seviyesini belirler.",
+              "metin": "Mezuniyet ve başvuru koşulları değerlendirilir."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanı adayı teorik eğitime katılır.",
+              "metin": "Mevzuat, teknik sistemler ve kontrol yöntemleri hakkında eğitim alır."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanı adayı uygulama eğitimini tamamlar.",
+              "metin": "Saha değerlendirmeleri ve raporlama çalışmalarına katılır."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanı adayı sınavda başarılı olur.",
+              "metin": "İlgili sınav koşullarını yerine getirir."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanı yetki belgesini alır.",
+              "metin": "Resmî işlemler tamamlandığında yetki kapsamındaki görevleri gerçekleştirir."
+            }
+          ]
+        }
+      ],
+      "to": "/yangin-guvenlik-uzmani-nasil-olunur#adimlar"
+    },
+    {
+      "soru": "Yangın güvenlik uzmanı (YGU) seviyeleri nelerdir?",
+      "yanit": "Yangın Güvenlik Uzmanlığı 1 (YGU-1): İlgili teknik ön lisans mezunlarına yönelik periyodik kontrol görevleri. Yangın Güvenlik Uzmanlığı 2 (YGU-2): İlgili mühendis ve mimarlara yönelik proje, uygulama ve kontrol görevleri. Yangın Güvenlik Uzmanlığı 3 (YGU-3): Deneyim koşullarına bağlı ileri yetkilendirme. Yangın Güvenlik Uzmanlığı K (YGU-K): Tehlikeli maddelerin tespiti ve sınıflandırılmasına yönelik özel yetkilendirme. Yangın Güvenlik Uzmanlığı 1 (YGU-1) İlgili teknik ön lisans mezunları için öngörülür. Yangın Güvenlik Uzmanları yetki sınırları içerisinde periyodik kontrolleri gerçekleştirir. Yangın Güvenlik Uzmanlığı 2 (YGU-2) İlgili mühendislik ve mimarlık meslek gruplarına yönelik olup proje uygunluğu, uygulama değerlendirmesi ve kontrol görevlerini kapsar. Yangın Güvenlik Uzmanlığı 3 (YGU-3) Yangın Güvenlik Uzmanlığı 2 yetkisi ve belirlenen deneyim koşullarıyla ilişkili ileri yetkilendirme seviyesidir. Yangın Güvenlik Uzmanlığı K (YGU-K) Kimya mühendisleri ve ilgili kimya lisans mezunlarına yönelik, tehlikeli maddelerin tespiti ve sınıflandırılmasıyla ilişkili özel seviyedir.",
+      "bloklar": [
+        {
+          "tip": "tablo",
+          "basliklar": [
+            "Seviye",
+            "Genel kapsam"
+          ],
+          "satirlar": [
+            [
+              "Yangın Güvenlik Uzmanlığı 1 (YGU-1)",
+              "İlgili teknik ön lisans mezunlarına yönelik periyodik kontrol görevleri"
+            ],
+            [
+              "Yangın Güvenlik Uzmanlığı 2 (YGU-2)",
+              "İlgili mühendis ve mimarlara yönelik proje, uygulama ve kontrol görevleri"
+            ],
+            [
+              "Yangın Güvenlik Uzmanlığı 3 (YGU-3)",
+              "Deneyim koşullarına bağlı ileri yetkilendirme"
+            ],
+            [
+              "Yangın Güvenlik Uzmanlığı K (YGU-K)",
+              "Tehlikeli maddelerin tespiti ve sınıflandırılmasına yönelik özel yetkilendirme"
+            ]
+          ]
+        },
+        {
+          "tip": "altlar",
+          "numarali": false,
+          "liste": [
+            {
+              "baslik": "Yangın Güvenlik Uzmanlığı 1 (YGU-1)",
+              "metin": "İlgili teknik ön lisans mezunları için öngörülür. Yangın Güvenlik Uzmanları yetki sınırları içerisinde periyodik kontrolleri gerçekleştirir."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanlığı 2 (YGU-2)",
+              "metin": "İlgili mühendislik ve mimarlık meslek gruplarına yönelik olup proje uygunluğu, uygulama değerlendirmesi ve kontrol görevlerini kapsar."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanlığı 3 (YGU-3)",
+              "metin": "Yangın Güvenlik Uzmanlığı 2 yetkisi ve belirlenen deneyim koşullarıyla ilişkili ileri yetkilendirme seviyesidir."
+            },
+            {
+              "baslik": "Yangın Güvenlik Uzmanlığı K (YGU-K)",
+              "metin": "Kimya mühendisleri ve ilgili kimya lisans mezunlarına yönelik, tehlikeli maddelerin tespiti ve sınıflandırılmasıyla ilişkili özel seviyedir."
+            }
+          ]
+        }
+      ],
+      "to": "/ygu-seviyeleri#yetki-seviyeleri"
+    },
+    {
+      "soru": "Yangın güvenlik uzmanı hangi yapılarda görev alır?",
+      "yanit": "Kontrol kapsamı yapı kullanım sınıfları ve mevzuattaki diğer koşullara göre belirlenir. Endüstriyel tesisler, depolar, sağlık ve konaklama yapıları, eğitim binaları, alışveriş merkezleri ve toplu kullanım alanları önemli yapı gruplarıdır. Yangın Güvenlik Uzmanı yapının yalnızca faaliyet adına değil, kullanım sınıfına, teknik özelliklerine ve istisnalara da bakar. Geçiş tarihleri nihai düzenlemeden doğrulanmalıdır. Konutlar ve Konut Siteleri, Konaklama Tesisleri (otel, motel, pansiyon), Kurumsal Binalar (sağlık, eğitim vb.), Büro Binaları (ofis ve yönetim), Ticaret Amaçlı Binalar (mağaza, AVM, çarşı), Endüstriyel Yapılar (fabrika, üretim tesisi), Toplanma Amaçlı Binalar (sinema, tiyatro, spor salonu), Depolama Amaçlı Tesisler (antrepo, depo, lojistik), Yüksek Tehlikeli Yerler (yanıcı, patlayıcı maddeler).",
+      "bloklar": [
+        {
+          "tip": "p",
+          "metin": "Kontrol kapsamı yapı kullanım sınıfları ve mevzuattaki diğer koşullara göre belirlenir. Endüstriyel tesisler, depolar, sağlık ve konaklama yapıları, eğitim binaları, alışveriş merkezleri ve toplu kullanım alanları önemli yapı gruplarıdır. Yangın Güvenlik Uzmanı yapının yalnızca faaliyet adına değil, kullanım sınıfına, teknik özelliklerine ve istisnalara da bakar. Geçiş tarihleri nihai düzenlemeden doğrulanmalıdır."
+        },
+        {
+          "tip": "yapilar"
+        }
+      ],
+      "to": "/calisma-alanlari#periyodik-kontrol"
+    }
+  ]
+
+export const SSS = {
+  ust: 'Sık Sorulan Sorular',
+  baslik: 'Yangın Güvenlik Uzmanı (YGU)',
+  vurgu: 'Sık Sorulan Sorular',
+  metin: 'Yangın güvenlik uzmanlığı hakkında en çok merak edilen soruların kısa yanıtları.',
+  liste: [
+    ...SSS_ILK_BES,
+    {
+      soru: 'Yangın güvenliği kontrolleri kaç yılda bir yapılır?',
+      yanit: `${KONTROL_SURELERI.metin} ${KONTROL_SURELERI.sureler.map((s) => `${s.metin}: ${sureMetni(s.sure)}`).join('; ')}. ${KONTROL_SURELERI.not}`
+    },
+    ...SSS_DOCX
+  ] as { soru: string; yanit: string; bloklar?: KonuBlok[]; to?: string }[]
+}
