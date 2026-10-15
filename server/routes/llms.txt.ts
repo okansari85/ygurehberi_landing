@@ -2,7 +2,7 @@
 // İçerik data/icerik.ts'den gelir; sayfalardaki metinle aynıdır.
 import {
   SITE, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, YGU_YOLU, KONTROL_SURELERI, VAKALAR, REHBERLER,
-  YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS
+  YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS, EGITIM_SAYFA as E
 } from '../../data/icerik'
 import { KONULAR, type KonuBlok } from '../../data/konular'
 
@@ -32,6 +32,7 @@ export default defineEventHandler((event) => {
 - [Ana Sayfa](${u}/): YGU rehberinin özeti, çalışma yaklaşımı, çalışma alanları, YGU olma yolu, kontrol süreleri
 - [YGU Hakkında](${u}/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
+- [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}/${y}): ${k.aciklama}`).join('\n')}
 - [Sık Sorulan Sorular](${u}/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
 
@@ -53,6 +54,37 @@ ${SEVIYELER.liste.map((s) => `- ${s.ad}: ${s.metin}`).join('\n')}
 
 ${NASIL_OLUNUR} ${YGU_YOLU.metin}
 ${YGU_YOLU.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+
+## YGU eğitim, sınav ve belgelendirme
+
+Kaynak sayfa: ${u}/ygu-egitim-sinav-belgelendirme
+
+${E.metin}
+
+### ${E.egitim.baslik}: ${E.egitim.alt}
+
+${E.egitim.not}
+
+${E.egitim.kimler.metin} ${E.egitim.sureler.metin}
+
+| Seviye | Kimler katılabilir? | Eğitim süresi |
+| --- | --- | --- |
+${E.egitim.seviyeler.map((s) => `| ${s.ad} | ${s.kimler} | ${s.sure} |`).join('\n')}
+
+${E.egitim.icerik.baslik}: ${E.egitim.icerik.paragraflar.join(' ')}
+
+### ${E.sinav.baslik}: ${E.sinav.alt}
+
+${E.sinav.not}
+
+${E.sinav.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${[a.metin, a.vurgu, a.son].filter(Boolean).join(' ')}`).join('\n')}
+
+### ${E.belge.baslik}: ${E.belge.alt}
+
+${E.belge.not}
+
+- ${E.belge.gecerlilik.baslik}: ${E.belge.gecerlilik.deger}. ${E.belge.gecerlilik.metin}
+${E.belge.maddeler.map((m) => `- ${m.baslik}: ${m.metin}`).join('\n')}
 
 ## Yangın güvenliği süreci: ${SUREC.baslik} ${SUREC.vurgu.toLocaleLowerCase('tr')}
 

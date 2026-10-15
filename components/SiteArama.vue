@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // Site içi arama: statik sitede sunucu yok; başlık/metinler data/icerik.ts'den taranır, sonuç ilgili bölüme götürür.
-import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS } from '~/data/icerik'
+import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
 
 const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
@@ -18,6 +18,12 @@ const DIZIN = [
     { baslik: k.baslik, metin: k.aciklama, to: `/${y}` },
     ...k.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: k.kart, to: `/${y}#${b.id}` }] : []))
   ]),
+  { baslik: 'YGU Eğitim, Sınav ve Belgelendirme', metin: EGITIM_SAYFA.metin, to: '/ygu-egitim-sinav-belgelendirme' },
+  ...(['egitim', 'sinav', 'belge'] as const).map((k) => ({
+    baslik: `YGU ${EGITIM_SAYFA[k].baslik.toLocaleLowerCase('tr')}`,
+    metin: EGITIM_SAYFA[k].alt,
+    to: `/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k}`
+  })),
   ...SSS.liste.map((s) => ({ baslik: s.soru, metin: 'Sık sorulan sorular', to: '/sss' })),
   { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda#ygu-nedir' }
 ]

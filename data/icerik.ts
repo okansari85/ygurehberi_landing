@@ -14,14 +14,23 @@ export const SITE = {
 export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
-  | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula'
+  | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
-export const MENU = [
+// "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). Teknik Makaleler henüz yok: "Yakında".
+export type MenuOge = { ad: string; to: string; yakinda?: boolean; alt?: MenuOge[] }
+export const MENU: MenuOge[] = [
   { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
   { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
   { ad: 'Vakalarla Öğren', to: '/#vakalar' },
-  { ad: 'Kısa Rehberler', to: '/#rehberler' },
+  {
+    ad: 'Kaynaklar',
+    to: '/#rehberler',
+    alt: [
+      { ad: 'Kısa Rehberler', to: '/#rehberler' },
+      { ad: 'Teknik Makaleler', to: '', yakinda: true }
+    ]
+  },
   { ad: 'SSS', to: '/sss' }
 ]
 
@@ -30,7 +39,7 @@ export const ON_KAYIT = { ad: 'YGU Olmak İçin Ön Kayıt', to: '/on-kayit' }
 export const HERO_ETIKETLER = [
   { ad: 'YGU Nedir?', to: '/yangin-guvenlik-uzmani-nedir' },
   { ad: 'Nasıl Olunur?', to: '/yangin-guvenlik-uzmani-nasil-olunur' },
-  { ad: 'Eğitim ve Sınav', to: '/yangin-guvenlik-uzmani-nasil-olunur#egitim' },
+  { ad: 'Eğitim ve Sınav', to: '/ygu-egitim-sinav-belgelendirme' },
   { ad: 'Serbest Çalışma', to: '/calisma-alanlari#kariyer' },
   { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
   { ad: 'Kontrol Süreleri', to: '/#kontrol-sureleri' }
@@ -206,6 +215,70 @@ export const SEVIYELER = {
 
 export const NASIL_OLUNUR =
   'YGU olma süreci, eğitim, sınav, belgelendirme ve görevlendirme aşamalarından oluşur.'
+
+// Eğitim, Sınav ve Belgelendirme sayfası (/ygu-egitim-sinav-belgelendirme): design/egitim-sinav-belgelendirme.jpeg.
+// Metinler kullanıcının 15 Ekim'de gönderdiği tasarım görselinden birebir (yalnız sertifikadaki "Güvenliği" → "Güvenlik" düzeltildi).
+export const EGITIM_SAYFA = {
+  ust: 'Yangın Güvenlik Uzmanı',
+  baslik: 'YGU',
+  vurgu: 'Eğitim, Sınav ve',
+  baslik2: 'Belgelendirme',
+  metin: 'Yangın Güvenlik Uzmanı olmak isteyenler için mesleki başvuru koşulları, seviyelere göre eğitim süreleri, sınav ve belgelendirme süreci.',
+  egitim: {
+    baslik: 'Eğitim',
+    alt: 'Kimler Katılabilir, Eğitim Süreleri Ne Kadardır?',
+    not: 'YGU eğitimleri; yangın güvenliği mevzuatı esas alınarak, seviyelere uygun içerik ve sürelerde düzenlenir.',
+    kimler: {
+      baslik: 'Kimler Katılabilir?',
+      metin: 'YGU eğitimlerine katılabilmek için, her seviye için belirlenen mesleki koşullardan mezun olma şartı aranır.'
+    },
+    sureler: {
+      baslik: 'Eğitim Süreleri',
+      metin: 'Her YGU seviyesi için alınması gereken eğitim süreleri mevzuatta belirlenmiştir.'
+    },
+    // Tasarımdaki sıra: YGU-3, YGU-2, YGU-1, YGU-K.
+    seviyeler: [
+      { ad: 'YGU-3', kimler: 'YGU-2 belgesine sahip olup son bir yılda en az iki farklı bina kullanım sınıfından toplam dört yangın güvenliği raporu düzenleme koşulunu karşılayanlar', sure: '40 saat' },
+      { ad: 'YGU-2', kimler: 'Mimarlar; inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendisleri', sure: '85 saat' },
+      { ad: 'YGU-1', kimler: 'Makine, inşaat, elektrik ve elektronik-elektrik teknikerleri ile itfaiyecilik ön lisans mezunları', sure: '65 saat' },
+      { ad: 'YGU-K', kimler: 'Kimya mühendisleri ve kimya lisans mezunları', sure: '35 saat' }
+    ],
+    icerik: {
+      baslik: 'Eğitim İçeriği',
+      paragraflar: [
+        'Yangın güvenliği mevzuatı, yangın bilimi, yapı ve malzemelerin yangın davranışı, kaçış ve tahliye, yangın güvenlik sistemleri, teknik değerlendirme ve uygulama konuları seviyeye uygun eğitim modüllerinde ele alınır.',
+        'YGU-K eğitimi ise tehlikeli maddelerin belirlenmesi ve sınıflandırılmasıyla ilgili uzmanlık konularına odaklanır.'
+      ]
+    }
+  },
+  sinav: {
+    baslik: 'Sınav',
+    alt: 'Nasıl Yapılır, Hangi Konuları Kapsar?',
+    not: 'YGU sınavı, yangın güvenliği mevzuatı esas alınarak düzenlenir.',
+    adimlar: [
+      { ikon: 'belge', baslik: 'Sınav Başvurusu', metin: 'Eğitimini tamamlayan adaylar, belirlenen başvuru koşullarına göre YGU sınavına başvurur.' },
+      { ikon: 'liste', baslik: 'Sınav Konu Başlıkları', metin: 'Yangın güvenliği mevzuatı, yangın bilimi, yapı güvenliği, tahliye, yangın güvenlik sistemleri ve ilgili seviyenin teknik uzmanlık konuları.' },
+      { ikon: 'buyutec', baslik: 'Değerlendirme ve Başarı Kriteri', metin: 'Sınav, çoktan seçmeli sorular şeklinde yapılır. Başarılı sayılmak için 100 puan üzerinden', vurgu: 'en az 70 puan', son: 'alınması gerekir.' },
+      { ikon: 'grafik', baslik: 'Sonuçların Duyurulması', metin: 'Sınav sonuçları, belirlenen usulle duyurulur. Başarılı adaylar, belgelendirme aşamasına geçer.' }
+    ] as { ikon: Ikon; baslik: string; metin: string; vurgu?: string; son?: string }[]
+  },
+  belge: {
+    baslik: 'Belgelendirme',
+    alt: 'YGU Belgesi Nasıl Alınır, Geçerlilik Süresi Nedir?',
+    not: 'Sınavda başarılı olan adaylar YGU yetki belgesi almaya hak kazanır. Belge, elektronik ortamda doğruluğu teyit edilebilecek şekilde Bakanlık tarafından düzenlenir.',
+    sertifika: {
+      ust: 'T.C.',
+      kurum: 'Çevre, Şehircilik ve İklim Değişikliği Bakanlığı',
+      ad: 'Yangın Güvenlik Uzmanı (YGU) Belgesi',
+      alanlar: ['Adı Soyadı', 'T.C. Kimlik No', 'YGU Seviyesi', 'Belge Numarası', 'Düzenleme Tarihi']
+    },
+    gecerlilik: { baslik: 'Belgenin Geçerlilik Süresi', deger: '5 yıl', metin: 'YGU yetki belgesi beş yıl geçerlidir.' },
+    maddeler: [
+      { ikon: 'yenile', baslik: 'Yenileme', metin: 'Belge, yeniden eğitime katılmadan sınava girilip başarılı olunmasıyla yenilenebilir. İki sınavda da başarılı olamayanların eğitime tekrar katılması gerekir. Geçerlilik süresi içinde yenilenmeyen belgelerin yetkisi, yenileme yapılana kadar askıya alınır.' },
+      { ikon: 'ekip', baslik: 'Kayıt ve Sorgulama', metin: 'Bakanlık, yetki belgesi almaya hak kazananların ve geçerli belge sahiplerinin ad, soyad ve YGU seviyesi bilgilerini; ayrıca yetkisi askıya alınan veya iptal edilen uzmanları resmî internet sayfasında duyurur.' }
+    ] as { ikon: Ikon; baslik: string; metin: string }[]
+  }
+}
 
 // Ön Kayıt sayfası (design/on-kayit.jpeg; üst menü ve alt bilgi sitenin kendisinden).
 export const ON_KAYIT_SAYFA = {

@@ -29,6 +29,11 @@ const SAYFALAR: Sayfa[] = [
     gorseller: ['on-kayit-hero', 'on-kayit-form']
   },
   {
+    yol: '/ygu-egitim-sinav-belgelendirme',
+    guncelleme: '2026-10-15',
+    gorseller: ['egitim-hero']
+  },
+  {
     yol: '/sss',
     guncelleme: '2026-10-15',
     gorseller: []

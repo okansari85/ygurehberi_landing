@@ -4,6 +4,8 @@ import { MENU, SITE, HIZLI_KARTLAR, ON_KAYIT } from '~/data/icerik'
 
 const route = useRoute()
 const yil = new Date().getFullYear()
+// Açılır menü grupları alt bilgide düz liste; henüz olmayan ("Yakında") sayfalar gösterilmez.
+const SITE_LINKLER = MENU.flatMap((m) => m.alt ?? [m]).filter((m) => !m.yakinda)
 </script>
 
 <template>
@@ -29,7 +31,7 @@ const yil = new Date().getFullYear()
       <nav aria-label="Alt menü">
         <h3>Site</h3>
         <NuxtLink to="/">Ana Sayfa</NuxtLink>
-        <NuxtLink v-for="m in MENU" :key="m.to" :to="m.to">{{ m.ad }}</NuxtLink>
+        <NuxtLink v-for="m in SITE_LINKLER" :key="m.ad" :to="m.to">{{ m.ad }}</NuxtLink>
       </nav>
       <nav aria-label="Konular">
         <h3>Konular</h3>

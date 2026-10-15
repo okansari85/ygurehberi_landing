@@ -158,7 +158,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="ust">{{ YGU_YOLU.ust }}</span>
         <h2 id="yol-baslik" class="buyuk">{{ YGU_YOLU.baslik }} <span class="vurgu">{{ YGU_YOLU.vurgu }}</span></h2>
         <p>{{ YGU_YOLU.metin }}</p>
-        <NuxtLink to="/ygu-hakkinda#nasil-olunur" class="btn btn-amber">Tüm Süreci İncele <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/ygu-egitim-sinav-belgelendirme" class="btn btn-amber">Tüm Süreci İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ol class="yol">
         <li v-for="(a, i) in YGU_YOLU.adimlar" :key="a.baslik">

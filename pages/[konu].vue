@@ -85,6 +85,7 @@ useHead({ link: [{ rel: 'preload', as: 'image', href: `/img/${konu.gorsel}.webp`
         <li v-for="[y, k] in digerleri" :key="y">
           <NuxtLink :to="`/${y}`" class="kart"><strong>{{ k.kart }}</strong><Ikon ad="ok" /></NuxtLink>
         </li>
+        <li><NuxtLink to="/ygu-egitim-sinav-belgelendirme" class="kart"><strong>Eğitim, Sınav ve Belgelendirme</strong><Ikon ad="ok" /></NuxtLink></li>
         <li><NuxtLink to="/sss" class="kart"><strong>Sık Sorulan Sorular</strong><Ikon ad="ok" /></NuxtLink></li>
       </ul>
     </div>
