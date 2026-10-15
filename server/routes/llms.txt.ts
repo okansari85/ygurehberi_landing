@@ -15,6 +15,8 @@ const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
   if (b.tip === 'tablo') return [`| ${b.basliklar.join(' | ')} |`, `|${' --- |'.repeat(b.basliklar.length)}`, ...b.satirlar.map((r) => `| ${r.join(' | ')} |`)].join('\n')
   if (b.tip === 'adimlar') return b.liste.map((a, i) => `${i + 1}. ${a.baslik}${a.metin ? ` ${a.metin}` : ''}`).join('\n')
   if (b.tip === 'altlar') return b.liste.map((a, i) => `- ${b.numarali ? `${i + 1}. ` : ''}${a.baslik}: ${a.metin}`).join('\n')
+  if (b.tip === 'denklem') return `    ${b.metin}`
+  if (b.tip === 'gorsel') return `![${b.aciklama}](https://ygurehberi.com${b.src})`
   if (b.tip === 'yapilar') return CALISMA_ALANLARI.yapilar.map((y) => `- ${y.ad} ${y.alt}`).join('\n')
   return b.metin
 }).join('\n\n')

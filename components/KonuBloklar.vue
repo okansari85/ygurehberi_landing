@@ -32,6 +32,11 @@ defineProps<{ bloklar: KonuBlok[] }>()
           <p>{{ a.metin }}</p>
         </li>
       </component>
+      <p v-else-if="b.tip === 'denklem'" class="denklem">{{ b.metin }}</p>
+      <figure v-else-if="b.tip === 'gorsel'" class="sekil">
+        <img :src="b.src" :alt="b.aciklama" :width="b.genislik" :height="b.yukseklik" loading="lazy">
+        <figcaption v-if="b.aciklama">{{ b.aciklama }}</figcaption>
+      </figure>
       <ul v-else-if="b.tip === 'yapilar'" class="yapilar">
         <li v-for="y in CALISMA_ALANLARI.yapilar" :key="y.ad" class="kart">
           <img :src="`/img/${y.gorsel}.webp`" :alt="`${y.ad} ${y.alt}`" width="1536" height="1024" loading="lazy">
@@ -85,4 +90,9 @@ tbody tr:nth-child(even){background:var(--paper-2)}
 .yapilar strong{display:block;color:var(--text);font-family:var(--display);font-size:18px}
 @media (max-width:640px){.yapilar{grid-template-columns:1fr 1fr}}
 .makale > :first-child{margin-top:0}
+
+.makale > .denklem{margin:16px 0 20px;padding:14px 18px;background:var(--paper-2);border-left:4px solid var(--ink);border-radius:6px;overflow-x:auto;white-space:pre;font-family:"Cambria Math",Cambria,Georgia,serif;font-size:17px;color:var(--text)}
+.sekil{margin:24px 0 28px}
+.sekil img{width:100%;height:auto;border:1px solid var(--line);border-radius:var(--r);background:#fff;padding:clamp(8px,1.4vw,16px)}
+.sekil figcaption{margin-top:10px;font-size:14px;line-height:1.5;color:var(--muted)}
 </style>

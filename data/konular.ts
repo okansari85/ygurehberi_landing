@@ -9,6 +9,8 @@ export type KonuBlok =
   | { tip: 'adimlar'; liste: { baslik: string; metin: string }[] }
   | { tip: 'altlar'; numarali: boolean; liste: { baslik: string; metin: string }[] }
   | { tip: 'yapilar' }
+  | { tip: 'denklem'; metin: string }
+  | { tip: 'gorsel'; src: string; aciklama: string; genislik: number; yukseklik: number }
 
 export type Konu = {
   kart: string

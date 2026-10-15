@@ -17,7 +17,11 @@
 - [Yangın Güvenlik Uzmanı Ne İş Yapar?](https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri): Yangın güvenlik uzmanının görevleri: proje uygunluğu, yapı kullanma izni değerlendirmesi, periyodik kontroller, tatbikatlar; sahada ne yapar, hangi sorunlarla karşılaşır, rapor nasıl hazırlanır?
 - [Çalışma Alanları](https://ygurehberi.com/calisma-alanlari): Hangi binalar yangın güvenliği periyodik kontrolüne tabi olacak? Yangın güvenlik uzmanının görev aldığı yapılar, kariyer olanakları ve işletmelerin YGU sistemine hazırlığı.
 - [Teknik Makaleler](https://ygurehberi.com/teknik-makaleler): yangın güvenliği tasarımı ve uygulamasına yönelik teknik makaleler
+- [YGR-005: Yangın Su Deposunda 100 m³ Yazıyor: Sistemin Kullanabileceği Su Kaç m³?](https://ygurehberi.com/teknik-makaleler/yangin-su-deposunda-100-m3-yaziyor-sistemin-kullanabilecegi-su-kac-m3): Deponun geometrik kapasitesi, o anda içerdiği su ve pompanın güvenli biçimde kullanabileceği hacim aynı büyüklük değildir.
 - [YGR-004: Depolama Yüksekliği Sabitken Sprinkler Tasarımı Geçerli Kalır mı?](https://ygurehberi.com/teknik-makaleler/depolama-yuksekligi-sabitken-sprinkler-tasarimi-gecerli-kalir-mi): Bir depo aynı tavan ve raf yüksekliğini korurken ürün, ambalaj ve depolama biçimi değişebilir. Bu değişim sprinkler sisteminin ilk tasarım dayanağını etkileyebilir.
+- [YGR-003: Aynı Yangın Yükü, Farklı Yangın Davranışı](https://ygurehberi.com/teknik-makaleler/ayni-yangin-yuku-farkli-yangin-davranisi): Eşit MJ/m² değeri, eşit yangın büyümesi veya eşit sprinkler performansı demek değildir. Bu farkın anahtarı ısı salım hızının zamanla nasıl değiştiğidir.
+- [YGR-002: Yangın Yükü Arttığında Mevcut Koruma Sistemi Yeterli Kalır mı?](https://ygurehberi.com/teknik-makaleler/yangin-yuku-arttiginda-mevcut-koruma-sistemi-yeterli-kalir-mi): Bir üretim veya depolama alanının yapı geometrisi aynı kalırken yanıcı malzeme miktarı değişebilir. Yangın yükü hesabı değişimin büyüklüğünü gösterir; sistem yeterliliğine tek başına karar vermez.
+- [YGR-001: Bir Bölme Duvarın Taşınması Yangın Güvenliğini Nasıl Etkiler?](https://ygurehberi.com/teknik-makaleler/bir-bolme-duvarin-tasinmasi-yangin-guvenligini-nasil-etkiler): Bir mimari değişiklik yalnızca plan çizgisini değil; kaçış, algılama, söndürme ve yangın bölümlendirmesinin tasarım varsayımlarını da değiştirebilir.
 - [Sık Sorulan Sorular](https://ygurehberi.com/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
 
 ## YGU nedir?
@@ -357,6 +361,75 @@ Yangın Güvenlik Uzmanlığı sistemi, ilgili mühendislik, mimarlık ve teknik
 
 ## Teknik makaleler
 
+### YGR-005: Yangın Su Deposunda 100 m³ Yazıyor: Sistemin Kullanabileceği Su Kaç m³?
+
+Kaynak sayfa: https://ygurehberi.com/teknik-makaleler/yangin-su-deposunda-100-m3-yaziyor-sistemin-kullanabilecegi-su-kac-m3 · Konular: Yangın Suyu
+
+Deponun geometrik kapasitesi, o anda içerdiği su ve pompanın güvenli biçimde kullanabileceği hacim aynı büyüklük değildir.
+
+100 m³ nominal hacimli dikdörtgen bir yangın su deposu tasarlayalım. İç taban ölçüleri 5 × 5 m, iç yükseklik 4 m olsun. Su seviyesi gerçekte tam dolu seviyeye değil 3,6 m’ye ulaşıyor. Emiş koşulları nedeniyle de örnek olarak tabandan 0,6 m’lik bölümün kullanılabilir hacim dışında bırakıldığını kabul edelim.
+
+### Geometriden kullanılabilir hacme
+
+| Büyüklük | Varsayım / hesap |
+| --- | --- |
+| Taban alanı | 5 × 5 = 25 m² |
+| Nominal hacim | 25 × 4,0 = 100 m³ |
+| Normal doluluk düzeyi | 3,6 m |
+| Normal seviyede fiilî su | 25 × 3,6 = 90 m³ |
+| Örnek minimum kullanım seviyesi | 0,6 m |
+| Bu seviye altında kalan su | 25 × 0,6 = 15 m³ |
+| Örnek kullanılabilir hacim | 90 − 15 = 75 m³ |
+
+    Vkullanılabilir = Ataban × (hnormal − hminimum)
+
+    Vkullanılabilir = 25 × (3,6 − 0,6) = 75 m³
+
+![Şekil 4. Nominal 100 m³ hacmin temsili dağılımı. Minimum kullanılabilir seviye bu örnek için kabul edilmiştir, evrensel bir oran değildir.](https://ygurehberi.com/img/makale/ygr-005-1.png)
+
+### Minimum seviye neden projeden okunmalı?
+
+Pompa emişi için gerekli su seviyesi tek başına depo tabanı veya emiş ağzının yüksekliğiyle belirlenmez. Emiş borusu geometrisi, giriş kayıpları, vorteks/hava sürüklenmesi ihtimali, pompanın gerekli net pozitif emme yüksekliği (NPSHr) ve sağlanan NPSH (NPSHa) gibi koşullar teknik incelemede önem taşır. Dolayısıyla örnekteki 0,6 m gerçek bir projeye kopyalanamaz.
+
+### İhtiyaç hesabıyla karşılaştırma
+
+Tasarımdan geldiği varsayılan gerekli toplam debi 1.500 L/dak, gerekli besleme süresi 60 dakika olsun. Depoya etkin yenileme suyu girmediği kabulüyle gerekli hacim:
+
+    Vgerekli = (Q × t) / 1.000
+
+    Vgerekli = (1.500 × 60) / 1.000 = 90 m³
+
+Örnek kullanılabilir hacim 75 m³ olduğuna göre hacim farkı 15 m³’tür. Bu, yalnızca kabul edilen koşullara göre hesap sonucudur. Gerçek tesiste sisteme ilişkin uygulanabilir debi/süre, eşzamanlı talepler, ek besleme güvenilirliği ve kullanım rezervi doğrulanmadan mevzuata aykırılık kararı verilemez.
+
+    Hacim farkı = 90 − 75 = 15 m³
+
+### Hacim yeterli olsa da sistem neden yetersiz olabilir?
+
+Su deposunda yeterli hacim bulunması pompanın gerekli noktada yeterli debi ve basınç sağlayacağını garanti etmez. Emiş koşulları, pompaların performans eğrileri, tesisat kayıpları ve su kaynağının sürekliliği ayrı ayrı kontrol edilmelidir. Yangın su deposu başka tüketicilerle ortak kullanılıyorsa yangına ayrılmış rezervin korunup korunmadığı da belirlenmelidir.
+
+### Sahada kanıt zinciri
+
+| Doğrulanacak konu | Kanıt |
+| --- | --- |
+| Geometrik kapasite | Depo planı / fiilî ölçüm |
+| Gerçek su düzeyi | Kalibre seviye göstergesi / ölçüm |
+| Minimum çalışabilir seviye | Pompa ve emiş hesabı, teknik doküman |
+| Yangın suyu gereksinimi | Proje hesapları ve uygulanabilir standart |
+| Besleme süresi | Tasarım esası ve diğer kullanıcı talepleri |
+| Pompa kapasitesi | Performans testi, eğri ve hidrolik hesap |
+| Ortak kullanım | Seviye koruma ve otomasyon düzeni |
+
+### Sonuç
+
+Depo üzerindeki 100 m³ etiketi yalnızca başlangıç bilgisidir. Mühendislik kararı, doğrulanmış kullanılabilir hacim ile tasarımın ihtiyaç duyduğu suyun ve gerekli debi/basıncın aynı anda karşılaştırılmasına dayanmalıdır.
+
+Kaynaklar ve teknik çerçeve:
+- BYKHY, yangın suyu ve söndürme sistemleri bağlamı: https://mevzuat.adalet.gov.tr/mevzuat/116939
+- NFPA 20, Standard for the Installation of Stationary Pumps for Fire Protection (2025): https://www.nfpa.org/product/nfpa-20-standard/p0020code?order_src=C900
+- NFPA 13 (2025), sprinkler sistemi tasarım bağlamı: https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13
+
+> Uygulama notu: Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez.
+
 ### YGR-004: Depolama Yüksekliği Sabitken Sprinkler Tasarımı Geçerli Kalır mı?
 
 Kaynak sayfa: https://ygurehberi.com/teknik-makaleler/depolama-yuksekligi-sabitken-sprinkler-tasarimi-gecerli-kalir-mi · Konular: Sprinkler, Depolama
@@ -404,6 +477,183 @@ Kaynaklar ve teknik çerçeve:
 - NFPA 13, Standard for the Installation of Sprinkler Systems (2025): https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13
 - BYKHY, sprinkler sistemlerinin ulusal mevzuat bağlamı: https://mevzuat.adalet.gov.tr/mevzuat/116939
 - EN 12845: Uygulanacak ulusal kabul/baskı ve projede atıf yapılan metin, teknik dosyadan doğrulanmalıdır.
+
+> Uygulama notu: Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez.
+
+### YGR-003: Aynı Yangın Yükü, Farklı Yangın Davranışı
+
+Kaynak sayfa: https://ygurehberi.com/teknik-makaleler/ayni-yangin-yuku-farkli-yangin-davranisi · Konular: Yangın Yükü
+
+Eşit MJ/m² değeri, eşit yangın büyümesi veya eşit sprinkler performansı demek değildir. Bu farkın anahtarı ısı salım hızının zamanla nasıl değiştiğidir.
+
+İki ayrı 200 m² depoda aynı potansiyel enerji stoklandığını kabul edelim: 40.000 MJ. Depo A’da kompakt ahşap malzeme; Depo B’de plastik ve karton ambalajlı raflı ürünler bulunmaktadır. Geometri ve havalandırma koşulları gerçek hayatta farklı olabileceği için bu tanım tek başına daha tehlikeli depoyu seçmeye yetmez.
+
+    qf,A = qf,B = 40.000 / 200 = 200 MJ/m²
+
+### Toplam enerji ile ısı salım hızı aynı kavram değildir
+
+Yangın yükü potansiyel enerjiyi tanımlar. Isı salım hızı (HRR), birim zamanda açığa çıkan enerjiye karşılık gelir. İki yangın aynı toplam enerjiyi açığa çıkarırken farklı anlık güç seviyelerine erişebilir. Gerçek bir yangında depolanan enerjinin tümü mutlaka açığa çıkmayabileceğinden, aşağıdaki örnek ayrıca tam yanma varsayımına sahiptir.
+
+    Q = ∫ HRR(t) dt   [MJ = MW × saniye]
+
+Farkı sayısal olarak görebilmek için iki dikdörtgen biçimli, idealize ısı salım hızı profili kuralım. A profili 5 MW gücünü 133,33 dakika; B profili 10 MW gücünü 66,67 dakika sürdürsün. İki profil de 40.000 MJ enerji üretir. Eğriler gerçek depo yangını tahmini değil, integral ilkesini anlatan matematiksel örneklerdir.
+
+    QA = 5 × 133,33 × 60 ≈ 40.000 MJ
+
+    QB = 10 × 66,67 × 60 ≈ 40.000 MJ
+
+![Şekil 3. Aynı toplam enerjiye sahip iki idealize HRR profili. Gerçek yangınların büyüme/sönme geçişleri bu kadar keskin değildir.](https://ygurehberi.com/img/makale/ygr-003-1.png)
+
+### Farklı profiller neden önemli?
+
+Daha yüksek anlık HRR, belirli geometri ve koşullarda daha yüksek duman üretimi, ısıl etki veya sprinkler algılama/aktivasyon koşullarıyla ilişki kurabilir. Ancak bu ilişkiyi otomatik olarak “iki kat HRR = iki kat tehlike” diye okumak da yanlıştır. Özellikle tavan yüksekliği, havalandırma, yanma verimi, malzeme bileşimi ve müdahale etkisi incelenmelidir.
+
+| Karşılaştırılan kavram | Ne söyler? | Neyi tek başına söylemez? |
+| --- | --- | --- |
+| Yangın yükü (MJ/m²) | Potansiyel enerji yoğunluğu | Alev büyüme hızı, pik güç |
+| HRR (kW veya MW) | Anlık enerji salım gücü | Tüm yangın boyunca toplam enerji |
+| Duman üretimi | Görüş ve toksisite açısından girdi | Yalnız yangın yükünden çıkarsanamaz |
+| Sprinkler uygunluğu | Tasarıma göre farklı teknik kontrol | Sadece HRR grafik alanıyla belirlenemez |
+
+### Saha değerlendirmesinde ikinci boyut
+
+Yangın yükü envanterine malzemenin fiziksel formu, yüzey-hacim ilişkisi, depolama aralıkları, raf boşlukları, tavan/istif yüksekliği ve havalandırma koşulları eklenmelidir. Bu kayıtlar, deneysel verinin yerine geçmez; hangi yangın senaryosunun incelenmesi gerektiğini belirlemeye yardım eder.
+
+### Sonuç
+
+Aynı yangın yükü yoğunluğundan hareketle iki depoyu eşdeğer risk veya eşdeğer koruma ihtiyacı olarak değerlendirmek teknik olarak savunulamaz. Yangın mühendisliği kararı, toplam enerji ile enerjinin açığa çıkma karakterini birlikte ele almalıdır.
+
+Kaynaklar ve teknik çerçeve:
+- SFPE Foundation, HRR verilerinin yorumlanmasına ilişkin araştırma: https://www.sfpe.org/foundationtest/foundationresearch/impact
+- SFPE Handbook of Fire Protection Engineering, 6. basım (2026), fire scenarios ve fire load density: https://link.springer.com/book/10.1007/978-3-031-59212-6
+- SFPE, yangın modeli uygulama varsayımları: https://www.sfpe.org/publications/fpemagazine/fpeextra/etarchives2/fpeetissue54
+
+> Uygulama notu: Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez.
+
+### YGR-002: Yangın Yükü Arttığında Mevcut Koruma Sistemi Yeterli Kalır mı?
+
+Kaynak sayfa: https://ygurehberi.com/teknik-makaleler/yangin-yuku-arttiginda-mevcut-koruma-sistemi-yeterli-kalir-mi · Konular: Yangın Yükü
+
+Bir üretim veya depolama alanının yapı geometrisi aynı kalırken yanıcı malzeme miktarı değişebilir. Yangın yükü hesabı değişimin büyüklüğünü gösterir; sistem yeterliliğine tek başına karar vermez.
+
+200 m² büyüklüğündeki bir depo, başlangıçta ahşap palet, karton ve sınırlı miktarda plastik içermektedir. Yeni faaliyet sonucunda ahşap ve karton sabit kalırken plastik miktarı 100 kg’dan 500 kg’a yükselmiştir. Burada amaç bir tasarım sınıfı atamak değil, enerji hesabıyla değişimi görünür hâle getirmektir.
+
+### Malzeme esaslı örnek hesap
+
+Örnek alt ısıl değerler: ahşap 17 MJ/kg, karton 16 MJ/kg, plastik 35 MJ/kg. Bunlar belirli bir ürüne ait teyitli ölçüm değildir; gerçek çalışmada malzeme bileşimi, nem ve doğrulanmış alt ısıl değer kullanılmalıdır.
+
+| Malzeme | Isıl değer | İlk kütle | Yeni kütle |
+| --- | --- | --- | --- |
+| Ahşap | 17 MJ/kg | 1.000 kg | 1.000 kg |
+| Karton | 16 MJ/kg | 500 kg | 500 kg |
+| Plastik (örnek) | 35 MJ/kg | 100 kg | 500 kg |
+
+    E = Σ(mᵢ × Hᵢ)   ve   qf = E / A
+
+E: toplam potansiyel yanma enerjisi (MJ); mᵢ: malzeme kütlesi (kg); Hᵢ: alt ısıl değer (MJ/kg); qf: yangın yükü yoğunluğu (MJ/m²); A: değerlendirme alanı (m²).
+
+İlk durumda E = 1.000×17 + 500×16 + 100×35 = 28.500 MJ; yeni durumda E = 1.000×17 + 500×16 + 500×35 = 42.500 MJ.
+
+    qf,ilk = 28.500 / 200 = 142,5 MJ/m²
+
+    qf,yeni = 42.500 / 200 = 212,5 MJ/m²
+
+    Artış = (212,5 − 142,5) / 142,5 × 100 ≈ %49,1
+
+![Şekil 2. Temsili stokların potansiyel enerji bileşimi. Plastik miktarı artarken diğer bileşenler sabittir.](https://ygurehberi.com/img/makale/ygr-002-1.png)
+
+### Bu artış neyi kanıtlar, neyi kanıtlamaz?
+
+Bu işlem depoda birim alan başına potansiyel yanma enerjisinin arttığını gösterir. Buna karşılık ısı salım hızının, sprinkler için gerekli debinin veya çıkış süresinin %49,1 arttığını göstermez. Yangın gelişimi; malzemenin formuna, havalandırmaya, yüzey alanına, istiflemeye, tutuşma koşullarına ve söndürme etkisine bağlıdır.
+
+### Tasarım geçerliliği için kontrol başlıkları
+
+| Kontrol | Neden gerekli? |
+| --- | --- |
+| Ürün ve ambalajın gerçek niteliği | Yanıcılık ve depolama sınıflandırması etkilenebilir |
+| Raf, palet ve istif geometrisi | Alev yayılımı ve sprinkler uygulaması değişebilir |
+| İlk sprinkler tasarım esası | Sistem yalnız ilk stok kabulü için projelendirilmiş olabilir |
+| Algılama ve duman senaryosu | Yangın gelişimi ve duman oluşumu farklılaşabilir |
+| Yangın bölmesi ve kullanım değişikliği | Mevzuattaki kullanım ve teknik gerekler değişebilir |
+
+### Sahada karar nasıl verilmelidir?
+
+Önce gerçek malzeme envanteri doğrulanır; ardından tasarım projesinin malzeme ve depolama kabulleri belirlenir. Bu veriler uyuşmuyorsa ilgili sprinkler, algılama ve bina koruma tasarımları yeniden mühendislik incelemesine alınır. Uygunsuzluk kararı, yalnız hesaplanan enerji artışına değil, uygulanabilir teknik gereğin karşılanmadığını gösteren kanıta dayanmalıdır.
+
+### Sonuç
+
+Yangın yükü hesabı güçlü bir değişiklik göstergesidir; fakat sistem uygunluğu için yeterlilik testi değildir. Bir yangın güvenliği uzmanının değeri yalnız rakam üretmekte değil, rakamın hangi tasarım kararını sorgulamayı gerektirdiğini saptamaktadır.
+
+Kaynaklar ve teknik çerçeve:
+- BYKHY ve ekleri: https://mevzuat.adalet.gov.tr/mevzuat/116939
+- SFPE Handbook of Fire Protection Engineering, 6. basım (2026), Fire Load Density bölümü: https://link.springer.com/book/10.1007/978-3-031-59212-6
+- SFPE, yangın yükü yoğunluğu kavramının mühendislik bağlamı: https://www.sfpe.org/publications/fpemagazine/fpeextra/etarchives3/fpeetissue79
+
+> Uygulama notu: Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez.
+
+### YGR-001: Bir Bölme Duvarın Taşınması Yangın Güvenliğini Nasıl Etkiler?
+
+Kaynak sayfa: https://ygurehberi.com/teknik-makaleler/bir-bolme-duvarin-tasinmasi-yangin-guvenligini-nasil-etkiler · Konular: Mimari Değişiklik
+
+Bir mimari değişiklik yalnızca plan çizgisini değil; kaçış, algılama, söndürme ve yangın bölümlendirmesinin tasarım varsayımlarını da değiştirebilir.
+
+Bir üretim tesisinde yardımcı mahali genişletmek için bölme duvar taşınıyor ve kapı yeniden konumlandırılıyor. İmalat açısından küçük görünen değişikliğin yangın güvenliği açısından etkisi, duvarın kendi başına güvenli veya güvensiz olmasından değil, başlangıçtaki tasarım kabullerinin değişip değişmediğinden kaynaklanır.
+
+### Örnek plan ve değişiklik
+
+Tek katlı üretim alanı 30 × 20 m boyutundadır (600 m²). Üst sol köşedeki yardımcı mahal ilk durumda 10 × 8 m (80 m²); değişiklik sonrasında 13 × 8 m (104 m²) olur. Yeni sınır duvarın konumu ve kapı yeri değişmiştir. Aynı kat içinde kalan toplam alan değişmez.
+
+![Şekil 1. Temsili planlar. Sarı çizgi bölme duvarını, çizgi üzerindeki boşluk kapıyı gösterir. Şekil ölçekli proje veya kaçış hesabı değildir.](https://ygurehberi.com/img/makale/ygr-001-1.png)
+
+| Büyüklük | İlk durum | Yeni durum |
+| --- | --- | --- |
+| Yardımcı mahal alanı | 80 m² | 104 m² |
+| Üretim alanı | 520 m² | 496 m² |
+| Değişiklik | — | +24 m² (+%30) |
+| Duvar konumu | x = 10 m | x = 13 m |
+
+### Değişiklik doğrudan uygunsuzluk mudur?
+
+Hayır. Öncelikle bölme duvarının yangın ayırıcı işlevi olup olmadığı, değişikliğin hangi onaylı projeye göre gerçekleştirildiği ve mahallerin gerçek kullanım sınıfı belirlenir. Yangın dayanımı gerektiren bir sınırın değiştirilmesi ile sıradan bölme duvarının değiştirilmesi aynı teknik ve hukuki sonuca götürmez.
+
+#### Kaçış düzeni
+
+Kapının yer değiştirmesi kişi hareketine yeni bir güzergâh kazandırabilir veya mevcut güzergâhı uzatabilir. Varsayımsal saha ölçümünde belirli bir başlangıç noktasından ilgili kapıya erişim yolu 12 m yerine 17 m ise fark 5 m, artış %41,7’dir. Bu tek ölçüm, mevzuata uygun veya aykırı hükmü için yeterli değildir; söz konusu kapının kaçış kapısı olup olmadığı, alternatif çıkışlar, ölçüm yöntemi, kullanıcı yükü ve geçerli sınırlar bilinmelidir.
+
+    ΔL = 17 − 12 = 5 m   |   Değişim = (5 / 12) × 100 = %41,7
+
+#### Algılama sistemi
+
+Dedektörlerin eski duvar için oluşturulmuş algılama bölgeleri yeni geometrinin ardından aynı etkiyi vermeyebilir. Yeni bölme, dumanın yayılımını engelleyebilir, ayrı bir hacim oluşturabilir ya da tavan altındaki hava hareketlerini değiştirebilir. Başlık sayısını alan artışıyla orantılı artırmak doğru bir tasarım yöntemi değildir. Dedektör türü, tavan geometrisi, mahallerin kullanım koşulu ve sistemin esas aldığı tasarım standardı kontrol edilmelidir.
+
+#### Sprinkler koruması
+
+Tavana kadar uzanan yeni bölme duvarı sprinkler su dağılımını değiştirebilir. Yeni mahallerin ayrı ayrı uygun biçimde korunduğu; başlık mesafesi, engel koşulları, tehlike sınıfı ve gerektiğinde hidrolik hesap üzerinden incelenmelidir. Sadece bir başlık ilave etmek, tasarımın geçerliliğini ispatlamaz.
+
+#### Yangın bölümlendirmesi ve sistem etkileşimi
+
+Duvar yangın dayanımlı bir ayırıcıysa taşınma, kapı niteliği, birleşim detayları, geçiş sızdırmazlığı ve duman kontrol sınırını etkileyebilir. Ayrıca yeni kapının erişim kontrolü, otomatik kapanma veya alarm senaryosu ile ilişkisi bulunabilir. Değişiklik tespit edilirken yalnız mimari plan değil, yangın tesisatı ve elektrik projeleri ile saha fiilî durumu karşılaştırılmalıdır.
+
+### Değişiklik–Etki–Doğrulama yöntemi
+
+| Soru | Aranan kanıt |
+| --- | --- |
+| Neyin yeri ve işlevi değişti? | Revizyon planı, ölçü ve mahal kullanım bilgisi |
+| İlk tasarım neyi kabul ediyordu? | Geçerli onaylı proje, as-built, hesap ve senaryolar |
+| Hangi sistemler etkilenebilir? | Kaçış, algılama, sprinkler, bölümlendirme, yönlendirme |
+| Etki nasıl doğrulanacak? | Yerinde ölçüm, standart kontrolü, hesap, gerekiyorsa test |
+| Teknik karar nedir? | Doğrulandı / uygunsuzluk kanıtlandı / ek inceleme gerekli |
+
+Yöntemin adı bu yayın için oluşturulmuş bir değerlendirme çerçevesidir; mevzuat tarafından tanımlanmış resmî sınıflandırma değildir.
+
+### Sonuç
+
+Bir duvarın taşınmasında asıl soru “değişiklik yapıldı mı?” değil, “yangın güvenliği tasarımının hangi kabulü artık yeniden doğrulanmalı?” sorusudur. Ölçülebilir bir değişiklik her zaman uygunsuzluk değildir; ancak doğrulanmamış bir değişiklik de sırf sistemler çalışır görünüyor diye uygun kabul edilemez.
+
+Kaynaklar ve teknik çerçeve:
+- Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY): https://mevzuat.adalet.gov.tr/mevzuat/116939
+- NFPA 13, Standard for the Installation of Sprinkler Systems (2025): https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13
+- SFPE Handbook of Fire Protection Engineering, 6. basım (2026), yangın senaryoları ve mühendislik tasarımı: https://link.springer.com/book/10.1007/978-3-031-59212-6
 
 > Uygulama notu: Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez.
 

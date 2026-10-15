@@ -2,11 +2,14 @@
 # Kullanım: python -I scripts/makale-aktar.py <makale1.docx> [makale2.docx ...]
 # Var olan makaleler (aynı kod) güncellenir, yenileri eklenir; elle girilen etiketler/tarih korunur.
 # docx stilleri: Small (ilk satır "YGR-004 / TEKNİK MAKALE", "•" kaynaklar, "Uygulama notu:"), Title, Deck (özet),
-# Heading1 → h2, Heading2 → h3, tablo → tablo, diğer → paragraf.
-import io, json, os, re, sys, zipfile
+# Heading1 → h2, Heading2 → h3, Equation → denklem, tablo → tablo, görsel → public/img/makale/<kod>-<n>.png (ardındaki
+# "Şekil …" satırı açıklaması olur), diğer → paragraf.
+import io, json, os, re, struct, sys, zipfile
 
-HEDEF = os.path.join(os.path.dirname(__file__), '..', 'data', 'makaleler.ts')
-TR = str.maketrans('çğıöşüÇĞİÖŞÜâîû', 'cgiosuCGIOSUaiu')
+KOK = os.path.join(os.path.dirname(__file__), '..')
+HEDEF = os.path.join(KOK, 'data', 'makaleler.ts')
+GORSEL_DIZIN = os.path.join(KOK, 'public', 'img', 'makale')
+TR = str.maketrans('çğıöşüÇĞİÖŞÜâîû²³', 'cgiosuCGIOSUaiu23')
 
 
 def slug(s):
@@ -22,7 +25,9 @@ def metin(x):
 
 
 def oku(yol):
-    x = zipfile.ZipFile(yol).read('word/document.xml').decode('utf8').split('<w:body>')[1]
+    z = zipfile.ZipFile(yol)
+    x = z.read('word/document.xml').decode('utf8').split('<w:body>')[1]
+    rels = dict(re.findall(r'Id="(rId\d+)"[^>]*Target="([^"]+)"', z.read('word/_rels/document.xml.rels').decode('utf8')))
     m = {'kod': '', 'baslik': '', 'ozet': '', 'bloklar': [], 'kaynaklar': [], 'sonNotlar': []}
     for p in re.finditer(r'<w:tbl>.*?</w:tbl>|<w:p[ >].*?</w:p>', x, re.S):
         b = p.group(0)
@@ -32,9 +37,22 @@ def oku(yol):
             m['bloklar'].append({'tip': 'tablo', 'basliklar': satirlar[0], 'satirlar': satirlar[1:]})
             continue
         t = metin(b)
+        st = (re.search(r'<w:pStyle w:val="([^"]+)"', b) or [None, '-'])[1]
+        resim = re.search(r'r:embed="(rId\d+)"', b)
+        if resim:
+            veri = z.read('word/' + rels[resim.group(1)])
+            g, y = struct.unpack('>II', veri[16:24]) if veri[1:4] == b'PNG' else (1600, 900)
+            m['bloklar'].append({'tip': 'gorsel', 'veri': veri, 'uzanti': rels[resim.group(1)].rsplit('.', 1)[1], 'genislik': g, 'yukseklik': y, 'aciklama': ''})
+            continue
         if not t:
             continue
-        st = (re.search(r'<w:pStyle w:val="([^"]+)"', b) or [None, '-'])[1]
+        onceki = m['bloklar'][-1] if m['bloklar'] else None
+        if st == 'Small' and onceki and onceki['tip'] == 'gorsel' and not onceki['aciklama']:
+            onceki['aciklama'] = t
+            continue
+        if st == 'Equation':
+            m['bloklar'].append({'tip': 'denklem', 'metin': re.sub(r' {2,}', '   ', t)})
+            continue
         if st == 'Small' and not m['kod']:
             m['kod'] = t.split('/')[0].strip()
         elif st == 'Title':
@@ -62,6 +80,15 @@ def oku(yol):
             del m['bloklar'][i]
             break
     assert m['kod'] and m['baslik'], yol
+    # Görseller public/img/makale/'ye yazılır; blokta yalnız yol kalır.
+    os.makedirs(GORSEL_DIZIN, exist_ok=True)
+    n = 0
+    for bl in m['bloklar']:
+        if bl['tip'] == 'gorsel':
+            n += 1
+            ad = f"{m['kod'].lower()}-{n}.{bl.pop('uzanti')}"
+            io.open(os.path.join(GORSEL_DIZIN, ad), 'wb').write(bl.pop('veri'))
+            bl['src'] = f'/img/makale/{ad}'
     return m
 
 
