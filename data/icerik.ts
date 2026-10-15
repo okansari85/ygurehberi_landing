@@ -11,6 +11,15 @@ export const SITE = {
     'YGU hakkında güvenilir bilgiler, gerçek yangın vakaları ve uygulamaya yönelik teknik rehberler.'
 }
 
+// Google Analytics (G-BKK8WPW9Q5) ve çerez bildirimi (KVKK; kullanıcı 15 Ekim'de "çerez bildirimiyle" seçti).
+// Onay yokken Analytics çerez kullanmaz (Consent Mode v2, nuxt.config). Karar tarayıcıda `cerez-onay` = kabul | ret.
+export const ANALYTICS_ID = 'G-BKK8WPW9Q5'
+export const CEREZ = {
+  metin: 'Sitemizde ziyaret istatistikleri için çerez kullanıyoruz. Onay vermezseniz ölçüm çerezleri kullanılmaz.',
+  kabul: 'Kabul Et',
+  ret: 'Reddet'
+}
+
 export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'

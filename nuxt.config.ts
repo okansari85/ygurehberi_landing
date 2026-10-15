@@ -2,6 +2,7 @@
 // Sayfa başına başlık/açıklama/canonical/JSON-LD: composables/useSayfaSeo.ts.
 import { KONULAR } from './data/konular'
 import { MAKALELER } from './data/makaleler'
+import { ANALYTICS_ID } from './data/icerik'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-10-07',
@@ -21,6 +22,17 @@ export default defineNuxtConfig({
         { name: 'theme-color', content: '#0E0E0E' },
         { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1' },
         { name: 'format-detection', content: 'telephone=no' }
+      ],
+      // Google Analytics + Consent Mode v2: onay verilene kadar çerez yok (CerezBildirimi.vue onayı günceller).
+      script: [
+        {
+          key: 'gtag-onay',
+          innerHTML: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
+try{if(localStorage.getItem('cerez-onay')==='kabul')gtag('consent','update',{analytics_storage:'granted'})}catch(e){}
+gtag('js',new Date());gtag('config','${ANALYTICS_ID}');`
+        },
+        { key: 'gtag', src: `https://www.googletagmanager.com/gtag/js?id=${ANALYTICS_ID}`, async: true }
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/logo.png' },

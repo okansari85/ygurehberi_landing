@@ -5,6 +5,7 @@
     <slot />
   </main>
   <SiteFooter />
+  <CerezBildirimi />
 </template>
 
 <style scoped>
