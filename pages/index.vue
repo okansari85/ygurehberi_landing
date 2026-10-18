@@ -259,7 +259,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="ust">{{ VAKALAR.ust }}</span>
         <h2 id="vaka-baslik">{{ VAKALAR.baslik }}</h2>
         <p>{{ VAKALAR.metin }}</p>
-        <NuxtLink to="/on-kayit" class="btn btn-amber">Tüm Vaka Analizlerini Gör <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/vakalarla-ogren" class="btn btn-amber">Tüm Vaka Analizlerini Gör <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="vakalar">
         <li v-for="v in VAKALAR.liste" :key="v.baslik" class="kart vaka-kart">

@@ -1,11 +1,12 @@
 // /llms.txt (llmstxt.org): yapay zekâ yanıt motorları için sitenin düz metin özeti. `nuxt generate` ile statik dosya olur.
 // İçerik data/icerik.ts'den gelir; sayfalardaki metinle aynıdır.
 import {
-  SITE, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, YGU_YOLU, KONTROL_SURELERI, VAKALAR, REHBERLER,
+  SITE, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, YGU_YOLU, KONTROL_SURELERI, REHBERLER,
   YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS, EGITIM_SAYFA as E, SERBEST_SAYFA as S
 } from '../../data/icerik'
 import { KONULAR, type KonuBlok } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
+import { VAKA_SAYFA } from '../../data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/yguBilgi'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
@@ -41,6 +42,7 @@ export default defineEventHandler((event) => {
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}${konuYolu(y)}): ${k.aciklama}`).join('\n')}
 ${YGU_KATEGORILER.map((k) => `- [YGU Hakkında › ${k.ad}](${u}/ygu-hakkinda/${k.yol}): ${k.aciklama}`).join('\n')}
 ${YGU_MAKALELER.map((m) => `- [${m.baslik}](${u}/ygu-hakkinda/${m.kategori}/${m.yol}): ${m.ozetle}`).join('\n')}
+- [Vakalarla Öğren](${u}/vakalarla-ogren): Türkiye'den ve dünyadan gerçek yangın vakaları; mevzuat, teknik analiz, bilirkişi raporları ve yargı süreçleri ışığında
 - [Teknik Makaleler](${u}/teknik-makaleler): yangın güvenliği tasarımı ve uygulamasına yönelik teknik makaleler
 ${MAKALELER.map((m) => `- [${m.kod}: ${m.baslik}](${u}/teknik-makaleler/${m.yol}): ${m.ozet}`).join('\n')}
 - [Sık Sorulan Sorular](${u}/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
@@ -188,7 +190,9 @@ ${s.yanit}`).join('\n\n')}
 
 ## Vakalarla öğren (gerçek vakalar)
 
-${VAKALAR.liste.map((v) => `### ${v.baslik}: ${v.altBaslik}\n\nYer: ${v.yer} · Tarih: ${v.tarihMetin}\n\n${v.ozet}`).join('\n\n')}
+Sayfa: ${u}/vakalarla-ogren
+
+${VAKA_SAYFA.liste.map((v) => `### ${v.no}. ${v.baslik}\n\nYer: ${v.yer}\n\n${v.ozet}`).join('\n\n')}
 
 ## Yakında
 

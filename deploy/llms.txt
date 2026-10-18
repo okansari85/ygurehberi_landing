@@ -62,6 +62,7 @@
 - [Uygunluk Görüşü Nedir, Kim Verir? Proje ve İskân Aşamasında YGU](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/uygunluk-gorusu-nedir): Uygunluk görüşü, ilgili idarenin onayından önce yangın projelerindeki tedbirler için ve EK-1'deki periyodik kontrole tabi yapılarda yapı kullanma izni aşamasında uygulamanın projeye uygunluğu ve test raporlarının varlığı için verilir. Görüş EK-9 formuyla, itfaiye ya da itfaiyenin gerekli gördüğü durumda YGU-2 veya YGU-3 seviyesindeki uzman tarafından hazırlanır. Özellik arz eden binalarda tasarım gözetmenince raporlanan projeler için ayrıca uygunluk görüşü aranmaz.
 - [Yangın Tatbikatı Nasıl Planlanır? YGU'nun Rolü ve Tatbikat Formları](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-tatbikati-ve-ygu): BYKHY'nin 134. maddesinin ikinci fıkrasında belirtilen yapılarda yangın tatbikatı, yapı sahibi, yönetici ya da en üst yöneticinin görevlendirdiği birim amirinin sorumluluğunda, itfaiye ve gerekli görüldüğünde YGU-2 veya YGU-3 seviyesindeki uzmanla birlikte planlanır. Tatbikatta EK-8 başvuru formu, kontrol listesi ve rapor kullanılır; tatbikat uygun gerçekleşmezse 3 ay içinde tekrarlanır.
 - [Yüksek Tehlikeli Yapılarda Kontrol: YGU-3 ve YGU-K Neden Birlikte Çalışır?](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yuksek-tehlikeli-yapilarda-ygu-k): Yüksek tehlikeli endüstri ve depolama tesisleri ile yüksek tehlikeli yerler 3 yılda bir kontrol edilir ve bu kontroller YGU-3 ile YGU-K seviyesindeki uzmanlar tarafından birlikte gerçekleştirilir. YGU-K'nin görevi tehlikeli maddelerin tespiti ve sınıflandırılmasıdır. YGU-K'ye kimya mühendisleri ve kimya lisans mezunları başvurur; asgari eğitim süresi 35 saattir.
+- [Vakalarla Öğren](https://ygurehberi.com/vakalarla-ogren): Türkiye'den ve dünyadan gerçek yangın vakaları; mevzuat, teknik analiz, bilirkişi raporları ve yargı süreçleri ışığında
 - [Teknik Makaleler](https://ygurehberi.com/teknik-makaleler): yangın güvenliği tasarımı ve uygulamasına yönelik teknik makaleler
 - [YGR-005: Yangın Su Deposunda 100 m³ Yazıyor: Sistemin Kullanabileceği Su Kaç m³?](https://ygurehberi.com/teknik-makaleler/yangin-su-deposunda-100-m3-yaziyor-sistemin-kullanabilecegi-su-kac-m3): Deponun geometrik kapasitesi, o anda içerdiği su ve pompanın güvenli biçimde kullanabileceği hacim aynı büyüklük değildir.
 - [YGR-004: Depolama Yüksekliği Sabitken Sprinkler Tasarımı Geçerli Kalır mı?](https://ygurehberi.com/teknik-makaleler/depolama-yuksekligi-sabitken-sprinkler-tasarimi-gecerli-kalir-mi): Bir depo aynı tavan ve raf yüksekliğini korurken ürün, ambalaj ve depolama biçimi değişebilir. Bu değişim sprinkler sisteminin ilk tasarım dayanağını etkileyebilir.
@@ -215,7 +216,7 @@ Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerd
 - [Çalışma Alanları](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari): Hangi yapılarda, hangi koşullarda görev alınabilir?
 - [Serbest Çalışma](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): Kendi adına çalışma ve bağımsız hizmet imkânları.
 - [Kısa Rehberler](https://ygurehberi.com/#rehberler): Sahada kullanabileceğiniz pratik rehberler.
-- [Vakalarla Öğren](https://ygurehberi.com/#vakalar): Gerçek yangın vakaları ve analizleri.
+- [Vakalarla Öğren](https://ygurehberi.com/vakalarla-ogren): Gerçek yangın vakaları ve analizleri.
 
 ## Yangın Güvenlik Uzmanı (YGU) Nedir?
 
@@ -2520,23 +2521,67 @@ Yangın Güvenlik Uzmanlığı kapsamındaki resmî görevler, mevzuatta öngör
 
 ## Vakalarla öğren (gerçek vakalar)
 
-### Grand Kartal Otel Yangını: Mevcut Yapıda Yangın Güvenliği Tedbirleri Nerede Koptu?
+Sayfa: https://ygurehberi.com/vakalarla-ogren
 
-Yer: Kartalkaya / Bolu · Tarih: 21 Ocak 2025
+### 01. Projede Dizel Yedek Pompa, Sahada İkinci Elektrikli Pompa: Hangi Sistem Geçerli?
 
-Grand Kartal Otel'de meydana gelen yangın, mevcut yapıda yangın güvenliği tedbirlerinin hangi aşamalarda yetersiz kaldığının, bilirkişi raporları ve yargı süreci üzerinden incelenmesi amacıyla ele alınmaktadır.
+Yer: Türkiye
 
-### Gayrettepe Gece Kulübü Yangını: Tadilat, Kullanım ve Kaçış Güvenliği Aynı Anda Değişirse Ne Olur?
+Onaylı projede dizel yedek pompa öngörülmesine rağmen sahada ikinci bir elektrikli pompa bulunması durumunda hangi sistemin geçerli olduğu ve nasıl değerlendirileceği ele alınmaktadır.
 
-Yer: İstanbul · Tarih: 2 Nisan 2024
+### 02. Grand Kartal Otel Yangını: Mevcut Yapıda Yangın Güvenliği Tedbirleri Nerede Koptu?
+
+Yer: Kartalkaya / Bolu, 2025
+
+Grand Kartal Otel'de meydana gelen yangın, mevcut yapıda yangın güvenliği tedbirlerinin hangi aşamalarda yetersiz kaldığını, bilirkişi raporları ve yargı süreci üzerinden incelemektedir.
+
+### 03. Gayrettepe Gece Kulübü Yangını: Tadilat, Kullanım ve Kaçış Güvenliği Aynı Anda Değişirse Ne Olur?
+
+Yer: İstanbul, 2024
 
 Tadilat sırasında meydana gelen ve 29 kişinin yaşamını yitirdiği yangın, ruhsat, tadilat ve yangın güvenliği ilişkisinin aynı anda değişmesi durumunda ortaya çıkan riskleri göstermektedir.
 
-### Davutpaşa Patlaması: Yapının Gerçek Kullanımı Denetim Sisteminin Dışına Çıkarsa Ne Olur?
+### 04. Aladağ Öğrenci Yurdu Yangını: Kaçış Kapısı Var Görünüyor; Gerçekten Kullanılabilir mi?
 
-Yer: İstanbul · Tarih: 31 Ocak 2008
+Yer: Adana, 2016
 
-Davutpaşa'da meydana gelen patlama, ruhsat, kullanım ve denetim zincirinin dışına çıkılmasının yarattığı riskleri ve sorumluluk tartışmalarını ele almaktadır.
+Aladağ'da meydana gelen yangın, kaçış kapıları, yangın merdivenleri ve kapı düzeninin sadece projede değil, sahada da gerçekten kullanılabilir olmasının önemini ortaya koymaktadır.
+
+### 05. Davutpaşa Patlaması: Yapının Gerçek Kullanımı Denetim Sisteminin Dışına Çıkarsa Ne Olur?
+
+Yer: İstanbul, 2008
+
+Davutpaşa'da meydana gelen patlama, ruhsat, kullanım ve denetim zincirinin dışına çıkılmasının yarattığı riskleri ve sorumluluk tartışmalarını TBMM kayıtlarıyla birlikte ele almaktadır.
+
+### 06. Yangın Pompası Testi Sınırda: Nameplate Farkı Tek Başına “Uygun Değil” Demek İçin Yeterli mi?
+
+Yer: Bridge Point 4 – Vaka 163
+
+Test sonuçları sınırda olan bir yangın pompasında, nameplate değerlerindeki farklılığın tek başına “uygun değil” değerlendirmesi için yeterli olup olmadığı incelenmektedir.
+
+### 07. Onaylı Yangın Alarm Projesi Yoksa “Sistem Çalışıyor” Demek Yeterli mi?
+
+Yer: The Shul – Vaka 189
+
+Onaylı yangın alarm projesi bulunmayan bir yapıda, sistemin fiilen çalışıyor olmasının mevzuat açısından yeterli sayılıp sayılmayacağı değerlendirilmektedir.
+
+### 08. Yangın Kapısı Raporu Var; Ama Raporun Kendisi 8 Kapıda Kusur Söylüyor
+
+Yer: Complete Care at Holiday City – Vaka 198
+
+Yangın kapıları için hazırlanmış raporun, 8 kapıda kusur tespit etmesine rağmen yapının genel uygunluğunun nasıl değerlendirileceği ele alınmaktadır.
+
+### 09. Altı Sprinkler Sisteminden Yalnız İkisi Test Edilmiş: Bu Rapor Tüm Sistemi Kanıtlar mı?
+
+Yer: LATAM Building 709 – Vaka 211
+
+Bir yapıda bulunan altı sprinkler sisteminden yalnız iki tanesinin test edilmesi durumunda, raporun tüm sistemi kanıtlayıp kanıtlamayacağı incelenmektedir.
+
+### 10. Projede Açık Depo, Sahada Duvarlar ve Raflar: Yangın Alarm Sistemi Hâlâ Aynı Sistem mi?
+
+Yer: US Aluminum – Vaka 206
+
+Projede açık depo olarak planlanan alanda sahada duvarlar ve raflarla kapalı bir alan oluşturulması durumunda, yangın alarm sisteminin aynı sistem olarak değerlendirilip değerlendirilemeyeceği ele alınmaktadır.
 
 ## Yakında
 

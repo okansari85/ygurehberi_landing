@@ -4,6 +4,7 @@
 import { SITE, SUREC, CALISMA_ALANLARI, VAKALAR, REHBERLER, SEVIYELER, SERBEST_SAYFA } from '../../data/icerik'
 import { KONULAR } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
+import { VAKA_SAYFA } from '../../data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, kategoriMakaleleri, konuYolu } from '../../data/yguBilgi'
 
 type Sayfa = { yol: string; guncelleme: string; gorseller: string[] }
@@ -24,6 +25,11 @@ const SAYFALAR: Sayfa[] = [
     yol: '/ygu-hakkinda',
     guncelleme: '2026-10-13',
     gorseller: ['hakkinda-hero', 'hakkinda-ygu-nedir', ...SEVIYELER.liste.map((s) => s.gorsel)]
+  },
+  {
+    yol: '/vakalarla-ogren',
+    guncelleme: '2026-10-18',
+    gorseller: ['vakalar-hero', ...VAKA_SAYFA.liste.map((v) => v.gorsel)]
   },
   {
     yol: '/on-kayit',

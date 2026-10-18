@@ -1,9 +1,10 @@
 <script setup lang="ts">
 // Site içi arama: statik sitede sunucu yok; başlık/metinler data/icerik.ts'den taranır, sonuç ilgili bölüme götürür.
-import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
+import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
 import { konuYolu } from '~/data/yguBilgi'
 import { MAKALELER } from '~/data/makaleler'
+import { VAKA_SAYFA } from '~/data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, yguKategori } from '~/data/yguBilgi'
 
 const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
@@ -15,7 +16,7 @@ const DIZIN = [
   ...GOREVLER.liste.map((g) => ({ baslik: g.baslik, metin: g.metin, to: '/ygu-hakkinda#gorevler' })),
   ...SEVIYELER.liste.map((s) => ({ baslik: s.ad, metin: s.metin, to: '/ygu-hakkinda#seviyeler' })),
   ...KONTROL_SURELERI.sureler.map((s) => ({ baslik: `${s.sure} — ${s.metin}`, metin: 'Periyodik kontrol süreleri (taslak)', to: '/#kontrol-sureleri' })),
-  ...VAKALAR.liste.map((v) => ({ baslik: v.baslik, metin: `${v.yer} · ${v.tarihMetin} · ${v.altBaslik}`, to: '/#vakalar' })),
+  ...VAKA_SAYFA.liste.map((v) => ({ baslik: v.baslik, metin: `${v.yer} · ${v.ozet}`, to: '/vakalarla-ogren' })),
   ...REHBERLER.liste.map((r) => ({ baslik: r.baslik, metin: 'Kısa rehber', to: '/#rehberler' })),
   ...Object.entries(KONULAR).flatMap(([y, k]) => [
     { baslik: k.baslik, metin: k.aciklama, to: konuYolu(y) },

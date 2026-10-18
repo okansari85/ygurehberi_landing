@@ -24,6 +24,7 @@ export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
+  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
@@ -31,7 +32,7 @@ export type MenuOge = { ad: string; to: string; yakinda?: boolean; alt?: MenuOge
 export const MENU: MenuOge[] = [
   { ad: 'YGU Hakkında', to: '/ygu-hakkinda' }, // bölümler sayfa içindeki şeritte (YguBolumSeridi), açılır menü yok
   { ad: 'Çalışma Alanları', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
-  { ad: 'Vakalarla Öğren', to: '/#vakalar' },
+  { ad: 'Vakalarla Öğren', to: '/vakalarla-ogren' },
   {
     ad: 'Kaynaklar',
     to: '/#rehberler',
@@ -70,7 +71,7 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
   { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
   { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler' },
-  { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/#vakalar' }
+  { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/vakalarla-ogren' }
 ]
 
 export const SUREC = {
