@@ -4,6 +4,7 @@
 import { SITE, SUREC, CALISMA_ALANLARI, VAKALAR, REHBERLER, SEVIYELER, SERBEST_SAYFA } from '../../data/icerik'
 import { KONULAR } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
+import { YGU_KATEGORILER, YGU_MAKALELER, kategoriMakaleleri, konuYolu } from '../../data/yguBilgi'
 
 type Sayfa = { yol: string; guncelleme: string; gorseller: string[] }
 
@@ -30,12 +31,12 @@ const SAYFALAR: Sayfa[] = [
     gorseller: ['on-kayit-hero', 'on-kayit-form']
   },
   {
-    yol: '/ygu-egitim-sinav-belgelendirme',
+    yol: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme',
     guncelleme: '2026-10-15',
     gorseller: ['egitim-hero']
   },
   {
-    yol: '/ygu-serbest-calisma',
+    yol: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma',
     guncelleme: '2026-10-15',
     gorseller: ['serbest-hero', ...SERBEST_SAYFA.hizmetler.liste.map((h) => h.gorsel)]
   },
@@ -49,9 +50,15 @@ const SAYFALAR: Sayfa[] = [
     guncelleme: MAKALELER.map((m) => m.yayin).filter(Boolean).sort().at(-1) ?? '2026-10-15',
     gorseller: []
   },
+  ...YGU_KATEGORILER.map((k) => ({
+    yol: `/ygu-hakkinda/${k.yol}`,
+    guncelleme: kategoriMakaleleri(k.yol).map((m) => m.guncelleme ?? m.yayin).sort().at(-1) ?? '2026-10-18',
+    gorseller: []
+  })),
+  ...YGU_MAKALELER.map((m) => ({ yol: `/ygu-hakkinda/${m.kategori}/${m.yol}`, guncelleme: m.guncelleme ?? m.yayin, gorseller: [] })),
   ...MAKALELER.map((m) => ({ yol: `/teknik-makaleler/${m.yol}`, guncelleme: m.yayin || '2026-10-15', gorseller: [] })),
   ...Object.entries(KONULAR).map(([yol, k]) => ({
-    yol: `/${yol}`,
+    yol: konuYolu(yol),
     guncelleme: '2026-10-15',
     gorseller: [k.gorsel, ...(k.bloklar.some((b) => b.tip === 'yapilar') ? CALISMA_ALANLARI.yapilar.map((y) => y.gorsel) : [])]
   }))

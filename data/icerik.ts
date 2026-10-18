@@ -29,8 +29,8 @@ export type Ikon =
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
 export type MenuOge = { ad: string; to: string; yakinda?: boolean; alt?: MenuOge[] }
 export const MENU: MenuOge[] = [
-  { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
-  { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
+  { ad: 'YGU Hakkında', to: '/ygu-hakkinda' }, // bölümler sayfa içindeki şeritte (YguBolumSeridi), açılır menü yok
+  { ad: 'Çalışma Alanları', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
   { ad: 'Vakalarla Öğren', to: '/#vakalar' },
   {
     ad: 'Kaynaklar',
@@ -46,11 +46,11 @@ export const MENU: MenuOge[] = [
 export const ON_KAYIT = { ad: 'YGU Olmak İçin Ön Kayıt', to: '/on-kayit' }
 
 export const HERO_ETIKETLER = [
-  { ad: 'YGU Nedir?', to: '/yangin-guvenlik-uzmani-nedir' },
-  { ad: 'Nasıl Olunur?', to: '/yangin-guvenlik-uzmani-nasil-olunur' },
-  { ad: 'Eğitim ve Sınav', to: '/ygu-egitim-sinav-belgelendirme' },
-  { ad: 'Serbest Çalışma', to: '/ygu-serbest-calisma' },
-  { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
+  { ad: 'YGU Nedir?', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
+  { ad: 'Nasıl Olunur?', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' },
+  { ad: 'Eğitim ve Sınav', to: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme' },
+  { ad: 'Serbest Çalışma', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
+  { ad: 'Çalışma Alanları', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
   { ad: 'Kontrol Süreleri', to: '/#kontrol-sureleri' }
 ]
 
@@ -63,12 +63,12 @@ export const HERO_KART_MADDELER: { ikon: Ikon; metin: string }[] = [
 
 // Ana sayfadaki kayan kutular (slider); sıra ve metinler kullanıcının 13 Ekim örnek görselinden.
 export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: string }[] = [
-  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.', to: '/yangin-guvenlik-uzmani-nedir' },
-  { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'Eğitim, sınav ve belgelendirme süreci.', to: '/yangin-guvenlik-uzmani-nasil-olunur' },
-  { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K farkları.', to: '/ygu-seviyeleri' },
-  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun hangi görevlerde yer aldığı.", to: '/yangin-guvenlik-uzmani-gorevleri' },
-  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/calisma-alanlari' },
-  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/ygu-serbest-calisma' },
+  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
+  { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'Eğitim, sınav ve belgelendirme süreci.', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' },
+  { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K farkları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri' },
+  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun hangi görevlerde yer aldığı.", to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri' },
+  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
+  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler' },
   { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/#vakalar' }
 ]
@@ -243,7 +243,7 @@ export const SEVIYELER = {
 export const NASIL_OLUNUR =
   'YGU olma süreci, eğitim, sınav, belgelendirme ve görevlendirme aşamalarından oluşur.'
 
-// Eğitim, Sınav ve Belgelendirme sayfası (/ygu-egitim-sinav-belgelendirme): design/egitim-sinav-belgelendirme.jpeg.
+// Eğitim, Sınav ve Belgelendirme sayfası (/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): design/egitim-sinav-belgelendirme.jpeg.
 // Metinler kullanıcının 15 Ekim'de gönderdiği tasarım görselinden birebir (yalnız sertifikadaki "Güvenliği" → "Güvenlik" düzeltildi).
 export const EGITIM_SAYFA = {
   ust: 'Yangın Güvenlik Uzmanı',
@@ -307,7 +307,7 @@ export const EGITIM_SAYFA = {
   }
 }
 
-// Serbest Çalışma sayfası (/ygu-serbest-calisma): design/serbest-calisma.jpeg. Metinler kullanıcının 15 Ekim tasarım görselinden birebir.
+// Serbest Çalışma sayfası (/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): design/serbest-calisma.jpeg. Metinler kullanıcının 15 Ekim tasarım görselinden birebir.
 export const SERBEST_SAYFA = {
   ust: 'Yangın Güvenlik Uzmanı',
   baslik: 'YGU',
@@ -416,7 +416,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           "metin": "Örneğin bir fabrikada yangın algılama sisteminin çalışır durumda olması önemlidir. Ancak aynı fabrikada kaçış yollarının depolanan malzemelerle daraltılması, yangın kapılarının işlevini kaybetmesi veya yangın bölmelerinin sonradan değiştirilmesi, yapının yangın güvenliğini olumsuz etkileyebilir. Yangın Güvenlik Uzmanı bu tür durumları yapının yangın güvenliği üzerindeki etkileri bakımından da değerlendirir."
         }
       ],
-      "to": "/yangin-guvenlik-uzmani-nedir#kimdir"
+      "to": "/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir#kimdir"
     },
     {
       "soru": "Yangın güvenlik uzmanı ne iş yapar?",
@@ -445,7 +445,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           ]
         }
       ],
-      "to": "/yangin-guvenlik-uzmani-gorevleri#gorevler"
+      "to": "/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri#gorevler"
     },
     {
       "soru": "Yangın güvenlik uzmanı nasıl olunur?",
@@ -477,7 +477,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           ]
         }
       ],
-      "to": "/yangin-guvenlik-uzmani-nasil-olunur#adimlar"
+      "to": "/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur#adimlar"
     },
     {
       "soru": "Yangın güvenlik uzmanı (YGU) seviyeleri nelerdir?",
@@ -531,7 +531,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           ]
         }
       ],
-      "to": "/ygu-seviyeleri#yetki-seviyeleri"
+      "to": "/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri#yetki-seviyeleri"
     },
     {
       "soru": "Yangın güvenlik uzmanı hangi yapılarda görev alır?",
@@ -545,7 +545,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           "tip": "yapilar"
         }
       ],
-      "to": "/calisma-alanlari#periyodik-kontrol"
+      "to": "/ygu-hakkinda/merak-edilenler/calisma-alanlari#periyodik-kontrol"
     }
   ]
 

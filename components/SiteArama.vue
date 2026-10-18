@@ -2,7 +2,9 @@
 // Site içi arama: statik sitede sunucu yok; başlık/metinler data/icerik.ts'den taranır, sonuç ilgili bölüme götürür.
 import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, VAKALAR, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
+import { konuYolu } from '~/data/yguBilgi'
 import { MAKALELER } from '~/data/makaleler'
+import { YGU_KATEGORILER, YGU_MAKALELER, yguKategori } from '~/data/yguBilgi'
 
 const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
 
@@ -16,23 +18,28 @@ const DIZIN = [
   ...VAKALAR.liste.map((v) => ({ baslik: v.baslik, metin: `${v.yer} · ${v.tarihMetin} · ${v.altBaslik}`, to: '/#vakalar' })),
   ...REHBERLER.liste.map((r) => ({ baslik: r.baslik, metin: 'Kısa rehber', to: '/#rehberler' })),
   ...Object.entries(KONULAR).flatMap(([y, k]) => [
-    { baslik: k.baslik, metin: k.aciklama, to: `/${y}` },
-    ...k.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: k.kart, to: `/${y}#${b.id}` }] : []))
+    { baslik: k.baslik, metin: k.aciklama, to: konuYolu(y) },
+    ...k.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: k.kart, to: `${konuYolu(y)}#${b.id}` }] : []))
   ]),
-  { baslik: 'YGU Eğitim, Sınav ve Belgelendirme', metin: EGITIM_SAYFA.metin, to: '/ygu-egitim-sinav-belgelendirme' },
+  { baslik: 'YGU Eğitim, Sınav ve Belgelendirme', metin: EGITIM_SAYFA.metin, to: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme' },
   ...(['egitim', 'sinav', 'belge'] as const).map((k) => ({
     baslik: `YGU ${EGITIM_SAYFA[k].baslik.toLocaleLowerCase('tr')}`,
     metin: EGITIM_SAYFA[k].alt,
-    to: `/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k}`
+    to: `/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k}`
   })),
-  { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/ygu-serbest-calisma' },
-  ...SERBEST_SAYFA.hizmetler.liste.map((h) => ({ baslik: h.baslik, metin: 'Serbest çalışma: bağımsız hizmetler', to: '/ygu-serbest-calisma#hizmetler' })),
+  { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
+  ...SERBEST_SAYFA.hizmetler.liste.map((h) => ({ baslik: h.baslik, metin: 'Serbest çalışma: bağımsız hizmetler', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma#hizmetler' })),
+  ...YGU_KATEGORILER.map((k) => ({ baslik: k.ad, metin: `YGU Hakkında · ${k.kisa}`, to: `/ygu-hakkinda/${k.yol}` })),
+  ...YGU_MAKALELER.flatMap((m) => [
+    { baslik: m.baslik, metin: `${yguKategori(m.kategori)?.ad} · ${m.ozet}`, to: `/ygu-hakkinda/${m.kategori}/${m.yol}` },
+    ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: m.baslik, to: `/ygu-hakkinda/${m.kategori}/${m.yol}#${b.id}` }] : []))
+  ]),
   ...MAKALELER.flatMap((m) => [
     { baslik: m.baslik, metin: `${m.kod} · Teknik makale · ${m.etiketler.join(', ')}`, to: `/teknik-makaleler/${m.yol}` },
     ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: `${m.kod} · ${m.baslik}`, to: `/teknik-makaleler/${m.yol}#${b.id}` }] : []))
   ]),
   ...SSS.liste.map((s) => ({ baslik: s.soru, metin: 'Sık sorulan sorular', to: '/sss' })),
-  { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda#ygu-nedir' }
+  { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda/mevzuat' }
 ]
 
 const kucult = (s: string) => s.toLocaleLowerCase('tr')

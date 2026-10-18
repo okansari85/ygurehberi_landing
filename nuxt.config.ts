@@ -2,6 +2,7 @@
 // Sayfa başına başlık/açıklama/canonical/JSON-LD: composables/useSayfaSeo.ts.
 import { KONULAR } from './data/konular'
 import { MAKALELER } from './data/makaleler'
+import { YGU_KATEGORILER, YGU_MAKALELER, konuYolu } from './data/yguBilgi'
 import { ANALYTICS_ID } from './data/icerik'
 
 export default defineNuxtConfig({
@@ -11,7 +12,7 @@ export default defineNuxtConfig({
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
-    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/sss', '/ygu-egitim-sinav-belgelendirme', '/ygu-serbest-calisma', ...Object.keys(KONULAR).map((y) => `/${y}`), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
+    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/sss', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma', ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
   },
   app: {
     head: {

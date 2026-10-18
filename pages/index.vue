@@ -158,7 +158,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="ust">{{ YGU_YOLU.ust }}</span>
         <h2 id="yol-baslik" class="buyuk">{{ YGU_YOLU.baslik }} <span class="vurgu">{{ YGU_YOLU.vurgu }}</span></h2>
         <p>{{ YGU_YOLU.metin }}</p>
-        <NuxtLink to="/ygu-egitim-sinav-belgelendirme" class="btn btn-amber">Tüm Süreci İncele <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme" class="btn btn-amber">Tüm Süreci İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ol class="yol">
         <li v-for="(a, i) in YGU_YOLU.adimlar" :key="a.baslik">
@@ -182,11 +182,11 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
           <h2 id="gorev-baslik" class="gorev-baslik">{{ ANA_GOREVLER.baslik }}</h2>
           <p>{{ ANA_GOREVLER.metin }}</p>
         </div>
-        <NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="btn btn-amber">Tüm Görevleri İncele <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri" class="btn btn-amber">Tüm Görevleri İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="gorevler">
         <li v-for="g in ANA_GOREVLER.liste" :key="g.baslik">
-          <NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="kart gorev-kart">
+          <NuxtLink to="/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri" class="kart gorev-kart">
             <img :src="`/img/${g.gorsel}.webp`" alt="" width="1536" height="1024" loading="lazy">
             <div class="gorev-ic">
               <h3><span class="gorev-ikon"><Ikon ad="pano" /></span>{{ g.baslik }}</h3>
@@ -205,7 +205,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
     <div class="wrap">
       <h2 id="serbest-baslik">{{ ANA_SERBEST.baslik }}</h2>
       <p>{{ ANA_SERBEST.metin }}</p>
-      <NuxtLink to="/ygu-serbest-calisma" class="btn btn-amber">Serbest Çalışmayı İncele <Ikon ad="ok" /></NuxtLink>
+      <NuxtLink to="/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma" class="btn btn-amber">Serbest Çalışmayı İncele <Ikon ad="ok" /></NuxtLink>
     </div>
   </section>
 

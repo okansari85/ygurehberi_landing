@@ -6,6 +6,7 @@ import {
 } from '../../data/icerik'
 import { KONULAR, type KonuBlok } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
+import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/yguBilgi'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
 const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
@@ -35,9 +36,11 @@ export default defineEventHandler((event) => {
 - [Ana Sayfa](${u}/): YGU rehberinin özeti, çalışma yaklaşımı, çalışma alanları, YGU olma yolu, kontrol süreleri
 - [YGU Hakkında](${u}/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
-- [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
-- [YGU Serbest Çalışma](${u}/ygu-serbest-calisma): YGU kendi adına çalışabilir mi, bağımsız olarak verebileceği hizmetler, işletmelerle çalışma ve serbest çalışmanın avantajları
-${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}/${y}): ${k.aciklama}`).join('\n')}
+- [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
+- [YGU Serbest Çalışma](${u}/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): YGU kendi adına çalışabilir mi, bağımsız olarak verebileceği hizmetler, işletmelerle çalışma ve serbest çalışmanın avantajları
+${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}${konuYolu(y)}): ${k.aciklama}`).join('\n')}
+${YGU_KATEGORILER.map((k) => `- [YGU Hakkında › ${k.ad}](${u}/ygu-hakkinda/${k.yol}): ${k.aciklama}`).join('\n')}
+${YGU_MAKALELER.map((m) => `- [${m.baslik}](${u}/ygu-hakkinda/${m.kategori}/${m.yol}): ${m.ozetle}`).join('\n')}
 - [Teknik Makaleler](${u}/teknik-makaleler): yangın güvenliği tasarımı ve uygulamasına yönelik teknik makaleler
 ${MAKALELER.map((m) => `- [${m.kod}: ${m.baslik}](${u}/teknik-makaleler/${m.yol}): ${m.ozet}`).join('\n')}
 - [Sık Sorulan Sorular](${u}/sss): yangın güvenlik uzmanı (YGU) hakkında sık sorulan sorular ve kısa yanıtları
@@ -63,7 +66,7 @@ ${YGU_YOLU.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')
 
 ## YGU eğitim, sınav ve belgelendirme
 
-Kaynak sayfa: ${u}/ygu-egitim-sinav-belgelendirme
+Kaynak sayfa: ${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme
 
 ${E.metin}
 
@@ -94,7 +97,7 @@ ${E.belge.maddeler.map((m) => `- ${m.baslik}: ${m.metin}`).join('\n')}
 
 ## YGU serbest çalışma
 
-Kaynak sayfa: ${u}/ygu-serbest-calisma
+Kaynak sayfa: ${u}/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma
 
 ${S.metin}
 
@@ -142,9 +145,25 @@ ${HIZLI_KARTLAR.map((k) => `- [${k.baslik}](${u}${k.to}): ${k.metin}`).join('\n'
 
 ${Object.entries(KONULAR).map(([y, k]) => `## ${k.baslik}
 
-Kaynak sayfa: ${u}/${y}
+Kaynak sayfa: ${u}${konuYolu(y)}
 
 ${konuMetni(k.bloklar)}`).join('\n\n')}
+
+## YGU Hakkında makaleleri
+
+Yazarlar: ${YAZARLAR.map((y) => `${y.ad} (${y.unvan})`).join(', ')}. Kaynak: Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı ve ekleri; taslak henüz Resmî Gazete'de yayımlanmamıştır.
+
+${YGU_KATEGORILER.map((kat) => `### ${kat.ad}
+
+${YGU_MAKALELER.filter((m) => m.kategori === kat.yol).map((m) => `#### ${m.baslik}
+
+Kaynak sayfa: ${u}/ygu-hakkinda/${m.kategori}/${m.yol} · Yayın: ${m.guncelleme ?? m.yayin}
+
+Kısaca: ${m.ozetle}
+
+${konuMetni(m.bloklar)}
+
+Dayanak: ${m.dayanak.join('; ')}`).join('\n\n')}`).join('\n\n')}
 
 ## Teknik makaleler
 

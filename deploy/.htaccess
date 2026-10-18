@@ -17,6 +17,15 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{HTTP:X-Forwarded-Proto} !=https
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
+# Taşınan sayfalar (18 Ekim 2026: YGU Hakkında altına) → kalıcı yönlendirme
+RewriteRule ^yangin-guvenlik-uzmani-nedir/?$ /ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir [R=301,L]
+RewriteRule ^yangin-guvenlik-uzmani-nasil-olunur/?$ /ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur [R=301,L]
+RewriteRule ^ygu-seviyeleri/?$ /ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri [R=301,L]
+RewriteRule ^ygu-egitim-sinav-belgelendirme/?$ /ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme [R=301,L]
+RewriteRule ^yangin-guvenlik-uzmani-gorevleri/?$ /ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri [R=301,L]
+RewriteRule ^calisma-alanlari/?$ /ygu-hakkinda/merak-edilenler/calisma-alanlari [R=301,L]
+RewriteRule ^ygu-serbest-calisma/?$ /ygu-hakkinda/merak-edilenler/ygu-serbest-calisma [R=301,L]
+
 # /ygu-hakkinda/ → /ygu-hakkinda
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^(.+)/$ /$1 [R=301,L]

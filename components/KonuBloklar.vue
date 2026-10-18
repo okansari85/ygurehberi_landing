@@ -3,7 +3,11 @@
 import { CALISMA_ALANLARI } from '~/data/icerik'
 import type { KonuBlok } from '~/data/konular'
 
-defineProps<{ bloklar: KonuBlok[] }>()
+const props = defineProps<{ bloklar: KonuBlok[] }>()
+// "Mevzuat bilgilendirmesi" notu metnin neresinde olursa olsun en sonda gösterilir (kullanıcı 18 Ekim: "her sayfada en alta al").
+const BILGILENDIRME = 'Mevzuat bilgilendirmesi'
+const bilgilendirmeMi = (b: KonuBlok) => b.tip === 'not' && b.etiket === BILGILENDIRME
+const bloklar = computed(() => [...props.bloklar.filter((b) => !bilgilendirmeMi(b)), ...props.bloklar.filter(bilgilendirmeMi)])
 </script>
 
 <template>

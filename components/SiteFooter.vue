@@ -1,11 +1,13 @@
 <script setup lang="ts">
 // Alt bilgi + ön kayıt bandı (ön kayıt sayfasına yönlendirir; o sayfanın kendisinde gizli). Tasarımda alt bilgi yok; sitenin koyu/amber diliyle eklendi.
 import { MENU, SITE, HIZLI_KARTLAR, ON_KAYIT } from '~/data/icerik'
+import { YGU_KATEGORILER } from '~/data/yguBilgi'
 
 const route = useRoute()
 const yil = new Date().getFullYear()
 // Açılır menü grupları alt bilgide düz liste; henüz olmayan ("Yakında") sayfalar gösterilmez.
-const SITE_LINKLER = MENU.flatMap((m) => m.alt ?? [m]).filter((m) => !m.yakinda)
+// YGU Hakkında ve kategorileri kendi sütununda (kullanıcı 18 Ekim: "footera YGU Hakkında koy, 3 sütun olsun").
+const SITE_LINKLER = MENU.filter((m) => m.to !== '/ygu-hakkinda').flatMap((m) => m.alt ?? [m]).filter((m) => !m.yakinda)
 </script>
 
 <template>
@@ -33,6 +35,11 @@ const SITE_LINKLER = MENU.flatMap((m) => m.alt ?? [m]).filter((m) => !m.yakinda)
         <NuxtLink to="/">Ana Sayfa</NuxtLink>
         <NuxtLink v-for="m in SITE_LINKLER" :key="m.ad" :to="m.to">{{ m.ad }}</NuxtLink>
       </nav>
+      <nav aria-label="YGU Hakkında">
+        <h3>YGU Hakkında</h3>
+        <NuxtLink to="/ygu-hakkinda">YGU Hakkında</NuxtLink>
+        <NuxtLink v-for="k in YGU_KATEGORILER" :key="k.yol" :to="`/ygu-hakkinda/${k.yol}`">{{ k.ad }}</NuxtLink>
+      </nav>
       <nav aria-label="Konular">
         <h3>Konular</h3>
         <NuxtLink v-for="k in HIZLI_KARTLAR" :key="k.baslik" :to="k.to">{{ k.baslik }}</NuxtLink>
@@ -53,12 +60,13 @@ const SITE_LINKLER = MENU.flatMap((m) => m.alt ?? [m]).filter((m) => !m.yakinda)
 .ftr-alev{font-size:44px;color:var(--amber);display:flex}
 .ftr-kayit h2{font-size:30px;text-transform:uppercase}
 .ftr-kayit p{margin:6px 0 0;color:var(--muted-d)}
-.ftr-alt{display:grid;grid-template-columns:2fr 1fr 1fr;gap:32px;padding-top:48px;padding-bottom:36px}
+.ftr-alt{display:grid;grid-template-columns:minmax(0,380px) repeat(3,auto);justify-content:space-between;gap:32px;padding-top:48px;padding-bottom:36px}
 .ftr-marka p{color:var(--muted-d);max-width:380px;margin:14px 0 0}
 .ftr nav{display:flex;flex-direction:column;gap:8px}
 .ftr nav h3{font-size:16px;letter-spacing:.06em;text-transform:uppercase;color:var(--amber);margin-bottom:6px}
 .ftr nav a{color:var(--muted-d);text-decoration:none;font-size:15px}
 .ftr nav a:hover{color:#fff}
 .ftr-telif{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--line-d);padding-top:18px;padding-bottom:24px;font-size:13px;color:#8F8A82}
-@media (max-width:760px){.ftr-alt{grid-template-columns:1fr 1fr}.ftr-marka{grid-column:1/-1}}
+@media (max-width:980px){.ftr-alt{grid-template-columns:repeat(3,auto)}.ftr-marka{grid-column:1/-1}}
+@media (max-width:600px){.ftr-alt{grid-template-columns:1fr 1fr;justify-content:stretch}}
 </style>

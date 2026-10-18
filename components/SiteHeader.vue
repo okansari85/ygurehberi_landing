@@ -14,7 +14,8 @@ const disTik = (e: MouseEvent) => { if (!(e.target as HTMLElement).closest('.hdr
 onMounted(() => document.addEventListener('click', disTik))
 onBeforeUnmount(() => document.removeEventListener('click', disTik))
 
-const etkin = (to: string) => (to === '/' ? route.path === '/' && !route.hash : to === route.path)
+// Alt sayfalarda da (ör. /ygu-hakkinda/mevzuat) üst öğe vurgulu kalır.
+const etkin = (to: string) => (to === '/' ? route.path === '/' && !route.hash : to === route.path || route.path.startsWith(`${to}/`))
 </script>
 
 <template>
