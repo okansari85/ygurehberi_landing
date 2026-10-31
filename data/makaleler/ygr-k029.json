@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K029",
+  "yol": "cikmaz-koridor-hangi-plan-degisikligiyle-olusur",
+  "baslik": "Çıkmaz koridor hangi plan değişikliğiyle oluşur?",
+  "ozet": "Bir koridorun toplam uzunluğu değişmeden de kaçış niteliği değişebilir. Koridorun ucuna eklenen bölme duvar, kapatılan geçiş veya yangın anında kullanılamayan bir kapı, daha önce iki yönde kaçış sağlayan bağlantıyı ortadan kaldırabilir. Bu durumda belirleyici olan, projede çizilmiş kapı sayısı değil, kullanıcının fiilen erişebildiği alternatif kaçış yönleridir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "cikmaz-koridorun-baslangici-nasil-belirlenir",
+      "metin": "Çıkmaz koridorun başlangıcı nasıl belirlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte çıkmaz koridor mesafesi, mekanların bağlandığı koridorun en uzak noktasından, koridor boyunca bir çıkışa veya iki yönde kaçış imkanının başladığı noktaya kadar olan mesafe olarak tanımlanır. Oda içinden koridor kapısına kadar kat edilen bölüm bu tanımın içinde değildir. Oda içindeki hareket, toplam kaçış uzaklığı ve çıkmaz koridor mesafesi birbirinin yerine kullanılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Önce katın mevcut kaçış bağlantıları işaretlenir. Koridor boyunca iki farklı çıkış yönünün gerçekten seçilebildiği nokta ile yalnız tek yönde ilerlenebilen kesim ayrılır. Mesafe, koridorun izlenen gerçek güzergahı üzerinden değerlendirilir; duvarın arkasından kuş uçuşu çizilen bir çizgiyle veya koridorun toplam uzunluğu tek başına verilerek karar oluşturulmaz. Uygulanacak sınır, yapının kullanım sınıfı ve yağmurlama sistemi gibi ilgili koşullarla birlikte Yönetmeliğin Ek-5/B tablosundan belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "plan-degisikligi-acik-gecitten-kapali-uca",
+      "metin": "Plan değişikliği: açık geçitten kapalı uca"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili çizimde soldaki yerleşimde koridorun devamındaki bağlantı alternatif kaçış yönü sağlar. Sağdaki yerleşimde aynı bağlantı kapatıldığında koridorun bir kısmı yalnız tek yönde kullanılabilir hale gelir. Çizim, değişikliğin mantığını gösterir; herhangi bir binanın ölçülü projesi veya uygunluk kararı değildir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 29. Aynı koridorda bağlantının kapatılmasının kaçış seçeneklerine etkisi (eski taslaktan korunan temsili çizim).",
+      "src": "/img/makale/ygr-k029-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yalniz-duvar-degil-kapinin-isletme-bicimi-de-onemlidir",
+      "metin": "Yalnız duvar değil, kapının işletme biçimi de önemlidir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni kiracı sınırı, güvenlik bölmesi, depo kapısı veya kartlı geçiş düzeni koridorun erişilebilir bağlantısını değiştirebilir. Kapının fiziksel olarak bulunması, tahliye sırasında açılabildiğinin kanıtı değildir. Kapının normal kullanımda kilitli tutulması, alarm durumundaki davranışı ve yetkisiz kullanıcıların kaçış yönünde geçiş imkanı proje, sistem belgesi ve yerinde gözlem birlikte değerlendirilerek açıklığa kavuşturulur. Buna karşılık bir kapının varlığı da tek başına iki bağımsız çıkışın sağlandığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapatılan geçit tespit edildiğinde hemen “uygunsuz” sonucu yazılmaz. Önce değişikliğin onaylı tadilat projesinde bulunup bulunmadığı, yeni güzergahın hangi noktalardan geçtiği, kullanıcı yükü, çıkışların sayısı ve kapasitesi ile uygulanabilir kaçış uzaklığı koşulları birlikte değerlendirilir. Projeden farklı bir işletme düzeni varsa bu fark ayrıca kayda geçirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-kontrol-noktalari",
+      "metin": "Proje–saha karşılaştırmasında kontrol noktaları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek belge veya saha verisi",
+        "Rapora aktarılacak tespit"
+      ],
+      "satirlar": [
+        [
+          "Önceden hangi iki kaçış yönü vardı?",
+          "Onaylı mimari/tahliye planı ve eski bağlantılar",
+          "Önceki alternatif yönleri plan üzerinde göster."
+        ],
+        [
+          "Hangi değişiklik bağlantıyı kapattı?",
+          "Tadilat projesi, bölme ve kapıların fiili konumu",
+          "Yeni duvar, kapı veya erişim engelinin yerini kaydet."
+        ],
+        [
+          "Tek yönlü kesim nerede başlıyor?",
+          "Güncel ölçülü plan ve yerinde güzergah incelemesi",
+          "İki yönlü kaçışın başladığı noktayı ve koridor kesimini işaretle."
+        ],
+        [
+          "Uygulanacak mesafe ve çıkış koşulları nedir?",
+          "Kullanım sınıfı, kullanıcı yükü, çıkış düzeni, ilgili sistem belgeleri",
+          "Geçerli koşula göre teknik karşılaştırma ihtiyacını belirt."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari proje, yangın tahliye projesi, yapı ruhsatı ve varsa tadilat/izin belgelerinin hangi düzeni gösterdiğini belirleyerek başlar. Katın gerçek kullanımını, kiracı bölünmelerini, kapıların açılma ve kilitlenme biçimini, yönlendirme işaretlerini ve kullanıcıların izlediği yolu sahada karşılaştırır. Kaçış bağlantısının değiştiği noktayı plan üzerinde tarif eder; fotoğraf, kroki ve mevcut teknik belgelerle desteklenebilen gözlemsel tespitleri raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Ölçülü güncel plan bulunmuyorsa veya kapı kontrol senaryosu belirsizse, uygunluk sonucunu varsayımla tamamlamaz. İlgili proje müellifi ve yetkili teknik kişilerden ölçüm, revize proje, sistem doğrulaması veya gerekli onay belgelerini ister; bu kişilerin tasarım, test, ölçüm ve resmi onay yetkilerini kendi incelemesiyle ikame etmez. YGU görevine ilişkin taslak düzenlemeler, henüz yürürlükte olmayan mesleki yetkilerin kazanıldığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-tespit-nasil-yazilir",
+      "metin": "Gerekçeli tespit nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek rapor dili: “Onaylı kat planında iki yöne geçiş sağlayan koridor bağlantısının mevcut kullanımda bölme ile kapatıldığı görülmüştür. Güncel kaçış güzergahı ve çıkmaz koridor kesimi ölçülü revizyon paftasında gösterilmediğinden, ilgili kullanım sınıfına göre kaçış uzaklığı değerlendirmesi tamamlanamamıştır. Revize plan ve gerekli teknik belgeler üzerinden yeniden inceleme yapılmalıdır.” Bu ifade bir saha gözlemi örneğidir; gerçek bir olaya ait tutanak değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Çıkmaz koridor, yalnız mimari planda kör uç bulunmasıyla değil, erişilebilir alternatif kaçış yönünün kaybolmasıyla da ortaya çıkabilir. Sağlıklı değerlendirme; eski ve yeni planın karşılaştırılması, kapıların yangın anındaki gerçek kullanımı, doğru mesafe tanımı ve ilgili çıkış koşullarının birlikte incelenmesiyle yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

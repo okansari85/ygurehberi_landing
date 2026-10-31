@@ -1,29 +1,39 @@
 <script setup lang="ts">
 // Teknik makale sayfası: data/makaleler.ts. Tasarım yok; koyu hero (kod, başlık, özet, künye) + konu sayfalarının
 // makale sütunu (KonuBloklar) ve yan "Bu makalede" listesi. Bilinmeyen yol 404.
+// Veri yalnız prerender'da okunur; tarayıcıya sayfanın payload'ı gider, tüm makaleler değil (sayfa hızı).
 import { SITE, ON_KAYIT } from '~/data/icerik'
-import { MAKALELER } from '~/data/makaleler'
 
 const route = useRoute()
-const makale = MAKALELER.find((m) => m.yol === String(route.params.yol))
-if (!makale) throw createError({ statusCode: 404, statusMessage: 'Makale bulunamadı', fatal: true })
+const yolAdi = String(route.params.yol)
+const { data } = await useAsyncData(`makale:${yolAdi}`, async () => {
+  const { MAKALELER } = await import('~/data/makaleler')
+  const makale = MAKALELER.find((m) => m.yol === yolAdi)
+  if (!makale) return null
+  // Aynı konudaki sıradaki makaleler (dönerek), sonra diğerleri: her makaleye iç bağlantı gider.
+  const ayni = MAKALELER.filter((m) => m.etiketler.some((e) => makale.etiketler.includes(e)))
+  const sira = ayni.findIndex((m) => m.kod === makale.kod)
+  const digerleri = [...ayni.slice(sira + 1), ...ayni.slice(0, Math.max(sira, 0)), ...MAKALELER.filter((m) => !ayni.includes(m))]
+    .filter((m) => m.kod !== makale.kod)
+    .slice(0, 3)
+    .map(makaleKarti)
+  return { makale, digerleri, okuma: makaleOkumaSuresi(makale) }
+})
+if (!data.value) throw createError({ statusCode: 404, statusMessage: 'Makale bulunamadı', fatal: true })
+const { makale, digerleri, okuma } = data.value
 
 const YOL = `/teknik-makaleler/${makale.yol}`
-const okuma = makaleOkumaSuresi(makale)
 // Paylaşım görseli ve şemadaki görsel: makalenin ilk şekli, yoksa sitenin genel görseli.
 const sekil = makale.bloklar.find((b) => b.tip === 'gorsel') as { src: string; genislik: number; yukseklik: number } | undefined
 const basliklar = [
   ...(makale.bloklar.filter((b) => b.tip === 'h2') as { id: string; metin: string }[]),
   ...(makale.kaynaklar.length ? [{ id: 'kaynaklar', metin: makale.kaynakBaslik }] : [])
 ]
-// Aynı etiketi taşıyanlar önce, sonra diğerleri; en fazla 3.
-const digerleri = MAKALELER.filter((m) => m.kod !== makale.kod)
-  .sort((a, b) => Number(b.etiketler.some((e) => makale.etiketler.includes(e))) - Number(a.etiketler.some((e) => makale.etiketler.includes(e))))
-  .slice(0, 3)
 
 useSayfaSeo({
-  baslik: `${makale.baslik} | YGU Rehberi`,
-  aciklama: makale.ozet,
+  // Uzun soru başlığında arama sonucunda kesilmesin diye marka eklenmez.
+  baslik: makale.baslik.length <= 46 ? `${makale.baslik} | YGU Rehberi` : makale.baslik,
+  aciklama: metaAciklama(makale.ozet),
   yol: YOL,
   ...(sekil ? { gorsel: sekil.src, gorselBoyut: [sekil.genislik, sekil.yukseklik] as [number, number] } : {}),
   makaleTarihi: makale.yayin || undefined,
@@ -139,7 +149,7 @@ useSayfaSeo({
 .kunye .etiket{font-size:12.5px;font-weight:600;color:#111;background:var(--amber);border-radius:99px;padding:3px 10px}
 
 .mk-izgara{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:clamp(32px,5vw,72px);align-items:start}
-@media (max-width:980px){.mk-izgara{grid-template-columns:1fr}.yan{position:static}}
+@media (max-width:980px){.mk-izgara{grid-template-columns:minmax(0,1fr)}.yan{position:static}}
 
 .kaynaklar{margin-top:48px;padding-top:28px;border-top:1px solid var(--line)}
 .kaynaklar h2{font-size:clamp(24px,2.2vw,30px);scroll-margin-top:100px}

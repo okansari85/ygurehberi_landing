@@ -1,0 +1,145 @@
+{
+  "kod": "YGR-K036",
+  "yol": "konut-binasinda-normal-merdiven-ne-zaman-kacis-cozumudur",
+  "baslik": "Konut binasında normal merdiven ne zaman kaçış çözümüdür?",
+  "ozet": "Bir apartmanda merdivenin bulunması, onun her koşulda yeterli kaçış çözümü olduğu anlamına gelmez. Konutlar için normal merdivene izin veren özel hükümler vardır; ancak karar, kat sayısı, yapı yüksekliği, merdivenin hizmet verdiği kullanımlar ve yapının tabi olduğu mevzuat birlikte okunarak verilir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "normal-merdiven-ile-kacis-merdiveni-ayni-sey-degildir",
+      "metin": "Normal merdiven ile kaçış merdiveni aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Normal merdiven, günlük düşey dolaşımı sağlayan merdivendir. Yangın sırasında kaçış için kabul edilip edilmeyeceği ise binanın özelliklerine ve ilgili özel düzenlemeye bağlıdır. Korunumlu kaçış merdiveninde aranan yangın ve duman ayrımı gibi nitelikler, konutlar için tanınmış her normal merdiven istisnasına kendiliğinden taşınmaz. Aynı şekilde, bir merdivenin projede “yangın merdiveni” olarak adlandırılması da uygulamadaki korunum ve çıkış sürekliliğinin kanıtı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, bodrumlar dahil dört katı geçmeyen belirli konutlar ile tek ev, ikiz ev ve sıra ev gibi yapılarda normal merdivenle kaçışa özel olarak izin verir. Bu düzenleme, her dört katlı binanın başka hiçbir inceleme yapılmadan uygun kabul edilmesi demek değildir: kullanımın gerçekten konut olması, katların nasıl sayıldığı ve merdivenin hangi bağımsız bölümlere hizmet verdiği açıklığa kavuşturulmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yapi-yuksekligi-ve-kullanim-iliskisi",
+      "metin": "Yapı yüksekliği ve kullanım ilişkisi"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin konutlara ilişkin düzenlemesinde, yalnız konut bölümlerine hizmet veren merdivenler için yapı yüksekliğine göre farklı çözümler öngörülür. Yapı yüksekliği 21,50 m’nin altında olan konutlarda, kaçış mesafeleri uygun olmak kaydıyla korunumsuz normal merdiven kaçış yolu kabul edilir ve ikinci çıkış aranmaz. Daha yüksek konutlarda merdiven sayısı, korunum ve yangın güvenlik holü veya basınçlandırma koşulları değişir. Bu nedenle kat sayısını tahmin etmek yerine onaylı kesitteki kotlar ve yapı yüksekliği esas alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle 21,50 m, 30,50 m ve 51,50 m sınırlarında yürürlükteki metnin kullandığı “altında” ve “fazla” ifadeleri dikkatle okunmalıdır. Kullanıcının sunduğu yeni yönetmelik taslağında bazı sınır ifadeleri “veya daha fazla” biçiminde yeniden kurulmuştur. Bu önerilen metin yürürlükteki hükmün yerine geçirilemez; sınır değerde kalan somut bir yapıya taslağa dayanarak kesin uygunluk kararı verilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "bodrum-ve-cati-arasi-degisiklikleri-neden-onemlidir",
+      "metin": "Bodrum ve çatı arası değişiklikleri neden önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir apartmanın bodrumunda dükkan, depo veya başka bir faaliyet bulunması, ortak merdivenin yalnız konuta hizmet ettiği varsayımını değiştirebilir. Konut dışı kullanılan bodrum katların ortak merdivene bağlandığı durumlarda yangın güvenlik holü koşulu ayrıca incelenir. Bodrumların üst katlardan ayrılması ve yapı yüksekliği hesabına etkisi de belge ve projedeki gerçek çözüm üzerinden değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Çatı arası piyesinin kullanım biçimi veya merdivene bağlantısı değişmişse ilk ruhsatın kaçış kabulü otomatik olarak geçerli sayılmaz. Örneğin çatı arasına yeni bir yaşam alanı ve merdiven bağlantısı eklenmesi, üst katın tahliye düzeninin yeniden incelenmesini gerektirir. Bu, gerçek bir olay aktarımı değil; projede ve sahada aranacak değişikliğin açıklayıcı bir örneğidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 36. Konut katları ile normal merdiven arasındaki ilişki. Önceki taslaktaki temsili teknik çizim korunmuştur.",
+      "src": "/img/makale/ygr-k036-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-konutlarda-ayni-sonuc-neden-cikmayabilir",
+      "metin": "Mevcut konutlarda aynı sonuç neden çıkmayabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni yapı için yapılan değerlendirme ile mevzuat bakımından mevcut yapı sayılan bir konutun değerlendirmesi aynı değildir. Yönetmeliğin mevcut konutlara ilişkin özel düzenlemesi, belirli yapı yüksekliği aralıklarında ikinci çıkış ve ana merdivenin korunumu bakımından farklı koşullar içerir. Önce yapı ruhsatı, onaylı proje, yapı kullanma izni ve varsa tadilat kayıtları üzerinden yapının tabi olduğu rejim belirlenir; daha sonra ilgili kaçış koşulları uygulanır. Sadece binanın eski görünmesi, mevcut yapı hükümlerinin uygulanması için yeterli kanıt değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ruhsat ve yapı kullanma izni bilgileriyle başlar. Onaylı mimari kat planları, kesitler, varsa tadilat projeleri ve bağımsız bölüm kullanım kayıtları karşılaştırılır. Projede konut olarak görünen bodrum veya çatı arası mahallerinin fiilen hangi amaçla kullanıldığı, merdivenin hangi katlara ve kapılara bağlandığı, son çıkışın güvenli alana ulaşıp ulaşmadığı yerinde gözlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Merdivenin önüne sonradan kapı, depo, kilitli geçiş veya bölme eklenmesi gibi değişiklikler fotoğraf ve mahal bilgisiyle kayıt altına alınır. Korunumlu merdiven olduğu ileri sürülüyorsa kapı ve bölme niteliklerine ilişkin teknik belgeler, uygulama kayıtları ve mevcut raporlar istenir. YGU, proje ile saha arasındaki farkı ve değerlendirmeye engel belge eksikliğini gerekçesiyle bildirir; tasarım hesabı, resmi ölçüm, proje tadilatı veya idari onay gerektiren hususları ilgili yetkili meslek ve idareye bırakır. Görsel inceleme, ölçüm ya da uygunluk belgesinin yerine geçirilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-kontrolu",
+      "metin": "Belge ve saha kontrolü"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kayıt",
+        "İnceleme odağı"
+      ],
+      "satirlar": [
+        [
+          "Yapı ve bağımsız bölümler konut mu?",
+          "Ruhsat, kullanım izni, kat planları",
+          "Karma kullanım ve ortak merdiven bağlantısını ayır."
+        ],
+        [
+          "Kat ve yapı yüksekliği doğru mu?",
+          "Onaylı kesit, kot ve tadilat paftaları",
+          "Dört kat istisnasını ve yükseklik aralığını ayrı değerlendir."
+        ],
+        [
+          "Merdiven hangi katlara hizmet ediyor?",
+          "Merdiven planı, kapı ve son çıkış düzeni",
+          "Daireden güvenli alana erişim sürekliliğini izle."
+        ],
+        [
+          "Bodrum veya çatı arası değişmiş mi?",
+          "Kullanım belgeleri, tadilat projesi, saha gözlemi",
+          "Yeni faaliyet ve geçişlerin önceki kaçış kabulüne etkisini kaydet."
+        ],
+        [
+          "Yapı mevcut yapı rejiminde mi?",
+          "İlk ruhsat, onay tarihleri, izin kayıtları",
+          "Mevcut konut istisnalarını yeni yapı koşullarıyla karıştırma."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Konut binasında normal merdivenin kaçış çözümü sayılması, merdivenin adıyla değil, uygulanabilir konut hükmüyle belirlenir. Kat sayısı, yapı yüksekliği, bodrum ve çatı arası kullanımı, mevcut yapı statüsü ve merdivenin fiili bağlantıları birlikte değerlendirilmeden “tek merdiven yeterlidir” veya “ikinci merdiven zorunludur” şeklinde kesin rapor yazılmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

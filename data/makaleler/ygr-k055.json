@@ -1,0 +1,160 @@
+{
+  "kod": "YGR-K055",
+  "yol": "yangin-alarm-panelinde-bolge-cihaz-eslemesi-sahada-nasil-sinanir",
+  "baslik": "Yangın alarm panelinde bölge–cihaz eşlemesi sahada nasıl sınanır?",
+  "ozet": "Panelde görünen adres, yangının nerede başladığını doğru gösteriyor mu? Cihazın alarm üretmesi ile olayın doğru mahal ve doğru bölge üzerinden tarif edilmesi aynı kontrol değildir.",
+  "etiketler": [
+    "Yangın Alarmı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bolge-cihaz-adresi-ve-mahal-adi-ayni-bilgi-degildir",
+      "metin": "Bölge, cihaz adresi ve mahal adı aynı bilgi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılama sisteminde bölge, alarmın hangi yapı bölümüne ait olduğunu; cihaz adresi, adreslenebilir sistemde hangi algılayıcı veya modülün sinyal verdiğini; mahal adı ise işletme personelinin sahada bulacağı gerçek yeri tarif eder. Bu üç bilgi birbirini tamamlar. Birinin doğru olması diğer ikisinin de güncel olduğunu göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Konvansiyonel sistemde bildirim çoğunlukla zon düzeyindedir; adresli sistemde cihaz bazında tanımlama yapılabilir. Bu nedenle her panelden tek tek dedektör kimliği beklenmez. İncelemenin ilk adımı, sistem tipini ve onaylı projede öngörülen gösterim düzeyini belirlemektir."
+    },
+    {
+      "tip": "h2",
+      "id": "kontrole-hangi-belgelerle-baslanir",
+      "metin": "Kontrole hangi belgelerle başlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı yangın algılama projesi, güncel kat ve mahal planları, varsa uygulama sonrası revizyon çizimleri, panel programlama/adres listesi, zon veya çevrim listesi, neden–sonuç matrisi, devreye alma tutanakları ve bakım-test kayıtları aynı inceleme dosyasında buluşturulur. Kullanım değişikliği veya tadilat varsa yeni oda adları ve kapı numaraları da bu dosyada izlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle adresli sistemlerde tekil cihaz kimliği, paneldeki açıklama ve kat planındaki nokta arasında izlenebilir bir bağlantı aranır. Eski projede yer alan fakat fiilen taşınmış bir dedektörün yalnızca panel listesinde görünmesi, yerinin doğrulandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-dogrulamasi-kimlikten-konuma-konumdan-panele",
+      "metin": "Saha doğrulaması: kimlikten konuma, konumdan panele"
+    },
+    {
+      "tip": "p",
+      "metin": "Test öncesinde işletme sorumlusu ile yetkili bakım/test ekibi kapsamı, bildirimleri, olası otomatik kumandaları ve test sonrası normal duruma dönüşü planlar. Gerekiyorsa izleme merkezleri ve ilgili personel önceden bilgilendirilir. Dedektör veya butonun fiziksel olarak tetiklenmesi, panel programlaması ve sistemin eski durumuna alınması yetkili teknik ekip tarafından yürütülür; Yangın Güvenlik Uzmanı (YGU) gözlem ve kayıtları proje ve belgelerle karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Seçilen cihazın üzerindeki etiket veya seri bilgisi, bulunduğu gerçek mahal, kat/zon veya çevrim ve panelde çıkan olay açıklaması aynı test kaydında tutulur. Panelin gösterdiği mahal adı, cihazın gerçek konumuna karşılık gelmiyorsa bunun kaynağı araştırılır: tadilat sonrası güncellenmeyen oda adı, yanlış adres etiketi, hatalı zon listesi veya panel programlama değişikliği farklı düzeltmeler gerektirir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 55. Fiziksel cihaz adresinin paneldeki mahal bilgisiyle karşılaştırılmasını gösteren özgün şema (temsili).",
+      "src": "/img/makale/ygr-k055-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "inceleme-kaydinda-hangi-kanit-bulunmali",
+      "metin": "İnceleme kaydında hangi kanıt bulunmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kanıt",
+        "Değerlendirme"
+      ],
+      "satirlar": [
+        [
+          "Sahadaki cihaz hangisi?",
+          "Cihaz etiketi, fotoğraf, kat planı, çevrim/zon kaydı",
+          "Tekil kimlik ve fiili konum aynı kayıt altında tanımlanır."
+        ],
+        [
+          "Panel ne gösteriyor?",
+          "Yetkili test tutanağı, olay ekranı ve zaman kaydı",
+          "Gösterilen adres, bölge ve mahal adı fiili noktayla karşılaştırılır."
+        ],
+        [
+          "Mahalin adı güncel mi?",
+          "Onaylı/güncel plan, tadilat ve mahal listesi",
+          "Oda adı değişmişse panel tanımının revizyon gereksinimi belirlenir."
+        ],
+        [
+          "Bağlı işlev etkileniyor mu?",
+          "Onaylı neden–sonuç matrisi ve yetkili test raporu",
+          "Varsa siren, kapı, duman kontrolü veya diğer bağlı komutların etkisi ayrıca incelenir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "uyumsuzluk-nasil-raporlanir",
+      "metin": "Uyumsuzluk nasıl raporlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin test edilen cihazın gerçek yeri “Paketleme Odası” iken panelde “Depo 2” yazıyorsa bu durum, cihazın hiç algılama yapmadığını tek başına kanıtlamaz. Ancak alarmın doğru yere yönlendirilmesini güçleştiren bir bilgi uyuşmazlığıdır. Tespit, test edilen cihazın kimliği, fiili yeri, panel çıktısı, karşılaştırılan planın revizyonu ve önerilen düzeltme ile birlikte yazılır. Sayı veya kapsam hakkında genelleme yapılmadan önce etkilenen diğer cihazlar da yetkili ekipçe doğrulanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bulgu dili: “Sahada Paketleme Odası konumunda bulunan ve test edilen algılama cihazının panel olay kaydında Depo 2 olarak tanımlandığı görülmüştür. Cihaz konum listesi, güncel mahal planı ve panel tanımları uzlaştırılmalı; değişiklik sonrası yetkili işlev testiyle sonuç belgelenmelidir.” Bu ifade gerçek bir olaya ait değildir; raporlama biçimini göstermek için oluşturulmuştur."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), onaylı algılama projesini, yapı kullanımına ilişkin izin ve revizyon belgelerini, fiili mahal ve faaliyet düzenini, panel olay kayıtlarını ve yetkili bakım-test raporlarını birlikte inceler. Paneldeki bölge/cihaz tanımlarının sahadaki yerleşimle uyuşup uyuşmadığını gözlemsel ve belgesel olarak karşılaştırır; eksik veya çelişkili kayıtları cihaz kimliği ve konumuyla ilişkilendirerek gerekçeli raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, panelin yazılımını kendi yetkisi varmış gibi değiştirmez; dedektör performans ölçümü, sistem tasarımı, programlama veya kabul testi için ilgili yetkili teknik kişilerin yerine geçmez. Bir işlevin doğrulanması gerekiyorsa yetkili test kaydını ister, testin sonucunu ve kapsamını inceler. Kontrolün amacı, yalnız “alarm geldi” sonucunu değil, olayın doğru yerde tanımlandığını ve gerekiyorsa bağlı senaryonun kanıtlandığını ortaya koymaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ve-taslak-calisma-ayrimi",
+      "metin": "Yürürlükteki düzenleme ve taslak çalışma ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın uyarı sistemini algılama, alarm verme, kontrol ve haberleşme işlevleriyle birlikte ele alır; algılama, alarm verme ve kontrol panellerine ilişkin hükümler içerir. Bakanlık Kılavuzu da konvansiyonel zon gösterimi ile adresli cihaz gösterimi arasındaki farkı açıklar. Panel açıklamasının her cihaz için hangi biçimde yazılacağına ilişkin bu makaledeki kanıt eşleştirme tablosu, ayrıca bir zorunlu resmi form olarak sunulmamaktadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından sağlanan yeni BYKHY taslağında aynı teknik alan farklı madde numaraları altında düzenlenmiştir; metin henüz yürürlükteki yönetmeliğin yerine geçmez. Yangın Güvenlik Uzmanlığına ilişkin ayrı yönetmelik taslağı ve kontrol formları da uygulama görevlerinin hazırlanmasında incelenmiş, fakat taslakta öngörülen bir yetki yürürlükteki kesin yetki gibi değerlendirilmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Sağlıklı eşleme, sahadaki fiziksel cihazdan başlayıp paneldeki adres/bölge açıklamasına ve güncel kat planına geri dönebilen bir kayıt zinciridir. Bu zincirin bir halkası eksikse “cihaz çalışıyor” bilgisi tek başına yeterli değildir. Düzeltmenin tamamlandığı, yetkili teknik ekibin kayıtlı yeniden testiyle gösterilmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Periyodik Kontrol Formu"
+    }
+  ],
+  "sonNotlar": []
+}

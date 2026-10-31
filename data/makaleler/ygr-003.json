@@ -1,0 +1,131 @@
+{
+  "kod": "YGR-003",
+  "yol": "ayni-yangin-yuku-farkli-yangin-davranisi",
+  "baslik": "Aynı Yangın Yükü, Farklı Yangın Davranışı",
+  "ozet": "Eşit MJ/m² değeri, eşit yangın büyümesi veya eşit sprinkler performansı demek değildir. Bu farkın anahtarı ısı salım hızının zamanla nasıl değiştiğidir.",
+  "etiketler": [
+    "Yangın Yükü"
+  ],
+  "yayin": "2026-10-15",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "İki ayrı 200 m² depoda aynı potansiyel enerji stoklandığını kabul edelim: 40.000 MJ. Depo A’da kompakt ahşap malzeme; Depo B’de plastik ve karton ambalajlı raflı ürünler bulunmaktadır. Geometri ve havalandırma koşulları gerçek hayatta farklı olabileceği için bu tanım tek başına daha tehlikeli depoyu seçmeye yetmez."
+    },
+    {
+      "tip": "denklem",
+      "metin": "qf,A = qf,B = 40.000 / 200 = 200 MJ/m²"
+    },
+    {
+      "tip": "h2",
+      "id": "toplam-enerji-ile-isi-salim-hizi-ayni-kavram-degildir",
+      "metin": "Toplam enerji ile ısı salım hızı aynı kavram değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın yükü potansiyel enerjiyi tanımlar. Isı salım hızı (HRR), birim zamanda açığa çıkan enerjiye karşılık gelir. İki yangın aynı toplam enerjiyi açığa çıkarırken farklı anlık güç seviyelerine erişebilir. Gerçek bir yangında depolanan enerjinin tümü mutlaka açığa çıkmayabileceğinden, aşağıdaki örnek ayrıca tam yanma varsayımına sahiptir."
+    },
+    {
+      "tip": "denklem",
+      "metin": "Q = ∫ HRR(t) dt   [MJ = MW × saniye]"
+    },
+    {
+      "tip": "p",
+      "metin": "Farkı sayısal olarak görebilmek için iki dikdörtgen biçimli, idealize ısı salım hızı profili kuralım. A profili 5 MW gücünü 133,33 dakika; B profili 10 MW gücünü 66,67 dakika sürdürsün. İki profil de 40.000 MJ enerji üretir. Eğriler gerçek depo yangını tahmini değil, integral ilkesini anlatan matematiksel örneklerdir."
+    },
+    {
+      "tip": "denklem",
+      "metin": "QA = 5 × 133,33 × 60 ≈ 40.000 MJ"
+    },
+    {
+      "tip": "denklem",
+      "metin": "QB = 10 × 66,67 × 60 ≈ 40.000 MJ"
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 2128,
+      "yukseklik": 664,
+      "aciklama": "Şekil 3. Aynı toplam enerjiye sahip iki idealize HRR profili. Gerçek yangınların büyüme/sönme geçişleri bu kadar keskin değildir.",
+      "src": "/img/makale/ygr-003-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "farkli-profiller-neden-onemli",
+      "metin": "Farklı profiller neden önemli?"
+    },
+    {
+      "tip": "p",
+      "metin": "Daha yüksek anlık HRR, belirli geometri ve koşullarda daha yüksek duman üretimi, ısıl etki veya sprinkler algılama/aktivasyon koşullarıyla ilişki kurabilir. Ancak bu ilişkiyi otomatik olarak “iki kat HRR = iki kat tehlike” diye okumak da yanlıştır. Özellikle tavan yüksekliği, havalandırma, yanma verimi, malzeme bileşimi ve müdahale etkisi incelenmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karşılaştırılan kavram",
+        "Ne söyler?",
+        "Neyi tek başına söylemez?"
+      ],
+      "satirlar": [
+        [
+          "Yangın yükü (MJ/m²)",
+          "Potansiyel enerji yoğunluğu",
+          "Alev büyüme hızı, pik güç"
+        ],
+        [
+          "HRR (kW veya MW)",
+          "Anlık enerji salım gücü",
+          "Tüm yangın boyunca toplam enerji"
+        ],
+        [
+          "Duman üretimi",
+          "Görüş ve toksisite açısından girdi",
+          "Yalnız yangın yükünden çıkarsanamaz"
+        ],
+        [
+          "Sprinkler uygunluğu",
+          "Tasarıma göre farklı teknik kontrol",
+          "Sadece HRR grafik alanıyla belirlenemez"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "saha-degerlendirmesinde-ikinci-boyut",
+      "metin": "Saha değerlendirmesinde ikinci boyut"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın yükü envanterine malzemenin fiziksel formu, yüzey-hacim ilişkisi, depolama aralıkları, raf boşlukları, tavan/istif yüksekliği ve havalandırma koşulları eklenmelidir. Bu kayıtlar, deneysel verinin yerine geçmez; hangi yangın senaryosunun incelenmesi gerektiğini belirlemeye yardım eder."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı yangın yükü yoğunluğundan hareketle iki depoyu eşdeğer risk veya eşdeğer koruma ihtiyacı olarak değerlendirmek teknik olarak savunulamaz. Yangın mühendisliği kararı, toplam enerji ile enerjinin açığa çıkma karakterini birlikte ele almalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar ve teknik çerçeve",
+  "kaynaklar": [
+    {
+      "metin": "SFPE Foundation, HRR verilerinin yorumlanmasına ilişkin araştırma",
+      "url": "https://www.sfpe.org/foundationtest/foundationresearch/impact"
+    },
+    {
+      "metin": "SFPE Handbook of Fire Protection Engineering, 6. basım (2026), fire scenarios ve fire load density",
+      "url": "https://link.springer.com/book/10.1007/978-3-031-59212-6"
+    },
+    {
+      "metin": "SFPE, yangın modeli uygulama varsayımları",
+      "url": "https://www.sfpe.org/publications/fpemagazine/fpeextra/etarchives2/fpeetissue54"
+    }
+  ],
+  "sonNotlar": [
+    {
+      "tip": "not",
+      "etiket": "Uygulama notu",
+      "metin": "Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez."
+    }
+  ]
+}

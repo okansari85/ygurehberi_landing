@@ -1,0 +1,139 @@
+{
+  "kod": "YGR-K044",
+  "yol": "endustriyel-mutfakta-davlumbaz-sondurmesi-ne-zaman-yeniden-incelenir",
+  "baslik": "Endüstriyel mutfakta davlumbaz söndürmesi ne zaman yeniden incelenir?",
+  "ozet": "Endüstriyel mutfakta davlumbaz söndürme sisteminin bulunması, değişen pişirme hattının hala aynı kapsamda korunduğunu tek başına göstermez. Asıl soru, mevcut sistemin bugün kullanılan ocak, fritöz, ızgara, davlumbaz ve egzoz kanalını onaylı tasarımındaki gibi koruyup korumadığıdır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "hangi-degisiklik-yeniden-inceleme-gerektirir",
+      "metin": "Hangi değişiklik yeniden inceleme gerektirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Pişirme cihazının eklenmesi, yerinin veya ölçüsünün değiştirilmesi, davlumbazın büyütülmesi, egzoz kanalının yeniden düzenlenmesi ya da söndürme nozullarının taşınması, koruma kapsamını etkileyebilir. Böyle bir değişiklikte yalnızca cihazın bakım etiketine bakmak yeterli değildir; pişirme hattının yeni yerleşimi ile sistemin tasarım sınırı birlikte ele alınmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin fritözün başka bir tezgaha taşınması halinde, söndürme ajanının hedeflediği pişirme yüzeyi değişmiş olabilir. Bu varsayımsal durumda, nozulun yeni cihazı koruduğu veya korumadığı sadece uzaktan bakılarak kesinleştirilemez; üreticinin onaylı uygulama verileri ve yetkili teknik değerlendirme gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "yonetmeligin-aradigi-koruma-ile-sistemin-teknik-kapsami",
+      "metin": "Yönetmeliğin aradığı koruma ile sistemin teknik kapsamı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, konutlar hariç olmak üzere alışveriş merkezleri ve yüksek binalar içindeki mutfaklar, yemek fabrikaları ve bir anda 100'den fazla kişiye hizmet veren mutfaklar için davlumbazda otomatik söndürme sistemi öngörür. Gaz kullanılan ocaklarda gazın özelliğine uygun algılama, kesme ve uyarı tesisatı da bu hükmün parçasıdır. Bir mutfağın kapsamda olup olmadığı yalnızca işletmenin adından değil, yapının ve hizmetin gerçek özelliklerinden belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık Kılavuzundaki örnek şema; pişirme yüzeyi, davlumbaz ve baca/kanal bölümlerinin birlikte düşünülmesi gerektiğini gösterir. Bununla birlikte örnek şema, her mutfağa aynı sayıda nozul veya aynı söndürme ajanı kapasitesi seçileceği anlamına gelmez. Bu kararlar ilgili sistemin onaylı tasarımına, üretici dokümanlarına ve yetkili mühendislik çalışmasına bağlıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 44. Pişirme hattındaki değişikliğin söndürme sisteminin koruma kapsamına etkisi (temsili çizim).",
+      "src": "/img/makale/ygr-k044-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasinda-aranacak-kanitlar",
+      "metin": "Proje ve saha karşılaştırmasında aranacak kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "İncelenecek belge veya kayıt",
+        "Sahada doğrulanacak husus"
+      ],
+      "satirlar": [
+        [
+          "Pişirme hattındaki değişiklik",
+          "Onaylı mutfak yerleşimi, revizyon çizimi, cihaz listesi",
+          "Yeni cihazın türü, boyutu ve gerçek konumu"
+        ],
+        [
+          "Söndürme kapsamı",
+          "Sistem tasarımı, nozul yerleşimi, üretici teknik dokümanı",
+          "Nozulların cihaz, davlumbaz ve kanal ile ilişkisi"
+        ],
+        [
+          "Gaz kesme ve uyarı",
+          "Gaz tesisatı projesi, neden-sonuç senaryosu, yetkili test kaydı",
+          "Vana, algılama ve uyarı bileşenlerinin görünür durumu"
+        ],
+        [
+          "Bakım ve işletme",
+          "Yetkili servis raporu, bakım ve kanal temizliği kayıtları",
+          "Bakım tarihi, görünür kirlenme, engel veya hasar"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı ve yapı kullanma izin belgesiyle birlikte onaylı mimari, mekanik ve yangın söndürme projelerinin güncel sürümlerini isteyerek başlar. İşletmenin fiili faaliyetini, aynı anda hizmet verdiği kişi sayısını, kullanılan yakıtı ve sonradan yapılan pişirme hattı değişikliklerini kaydeder. Projedeki cihaz yerleşimi ile sahadaki tezgah, fritöz, ocak, davlumbaz, kanal ve görünür söndürme elemanlarını karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sistem projesi ile saha arasında fark görülürse değişikliğin tarihini, etkilenen cihazı, ilgili proje revizyonunu ve mevcut kanıt eksikliğini raporlar. Nozulun yağla kaplanması, cihazın önünün kapatılması, bakım etiketinin güncel olmaması veya gaz kesme vanasının görünür olmaması gibi gözlemsel bulguları somut olarak belirtir. Ancak nozul hesabı, ajan miktarı, hidrolik veya işlev testi, gaz tesisatı tasarımı ve teknik onay işlemlerini kendiliğinden üstlenmez; bunların yetkili tasarımcı, uygulayıcı veya servis tarafından belgelenmesini ister."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-nasil-yazilir",
+      "metin": "Gerekçeli bulgu nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bulgu ifadesi: “Pişirme hattına sonradan eklenen fritözün, mevcut davlumbaz söndürme sisteminin onaylı koruma kapsamına dahil olduğunu gösteren revize nozul yerleşim planı ve yetkili teknik değerlendirme ibraz edilmemiştir. Mevcut sistemin bu cihazı kapsayıp kapsamadığı belge üzerinden doğrulanamamıştır.” Bu ifade, belge yokluğunu doğrudan sistemin çalışmadığı sonucuna dönüştürmez."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukum-ile-yururlukteki-hukum-ayrimi",
+      "metin": "Taslak hüküm ile yürürlükteki hüküm ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağında, bir anda 50'den fazla kişiye hizmet veren mutfaklar için sertifikalı otomatik söndürme sistemi öngörülmektedir. Bu sayı ve sertifikasyon ifadesi, yürürlükteki metindeki 100'den fazla kişi ölçütünden farklıdır. Taslak henüz yürürlükteki yükümlülük gibi uygulanamaz. Değişen pişirme hattının teknik açıdan yeniden değerlendirilmesi ise mevcut sistemin tasarım kapsamını doğrulama ihtiyacından doğar."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Davlumbaz söndürme sisteminin yeniden incelenmesini gerektiren temel durum, pişirme hattının veya sistemin koruduğu alanın değişmesidir. Sağlıklı karar, güncel cihaz yerleşimi, onaylı tasarım, görünür saha koşulları ve yetkili bakım/test kayıtlarının birlikte okunmasıyla verilir. Bakım yapılmış olması, tasarım değişikliğinin de onaylandığını göstermez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

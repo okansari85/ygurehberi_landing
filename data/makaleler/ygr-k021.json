@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K021",
+  "yol": "dis-cephe-kaplamasi-seciminde-hangi-yangin-belgeleri-aranir",
+  "baslik": "Dış cephe kaplaması seçiminde hangi yangın belgeleri aranır?",
+  "ozet": "Bir cephe levhasının yangın sınıfını gösteren belge, binaya uygulanan cephenin bütünü için otomatik olarak uygunluk kanıtı değildir. Kaplama, yalıtım, alt konstrüksiyon, tespit elemanları ve birleşimler farklı belgelerle tanımlanabilir. Sağlıklı değerlendirme, bu belgelerin onaylı projede seçilen ve sahada gerçekten kullanılan çözümle eşleştirilmesine dayanır.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-hangi-performansin-istendigi-belirlenir",
+      "metin": "Önce hangi performansın istendiği belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangına tepki sınıfı, malzemenin yangının gelişimine katkısını tanımlar; yangına dayanım ise bir yapı elemanının belirli koşullarda işlevini ne kadar süre koruduğuyla ilgilidir. Cephe panelinin yangına tepki sınıfı ile kat döşemesi hizasındaki birleşimin yangına dayanımı bu nedenle birbirinin yerine geçmez. Belgede yazan ürün kodu, deney veya sınıflandırma kapsamı ve kullanım şartları ayrı ayrı okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, dış cepheler için bina yüksekliğine ve cephe tipine bağlı koşullar getirir. Mevcut Madde 27’de 28,50 m eşiği kullanılır; geleneksel ısı yalıtım sisteminin sertifikalandırılması ve derzleri açık veya havalandırmalı giydirme cephelerdeki malzeme özellikleri ayrıca düzenlenir. Kullanıcının ilettiği yeni yönetmelik taslağında ise aynı konu için 21,50 m eşiği ve sistemin kompozit olarak test edilmesine ilişkin farklı ifadeler vardır. Bu taslak düzenlemeler yürürlükteki şart olarak uygulanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-belge-neyi-kanitlar",
+      "metin": "Hangi belge neyi kanıtlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı mimari proje, cephe kesitleri ve varsa tadilat izinleri, binada hangi çözümün öngörüldüğünü gösterir. Üreticinin ürün tanımı ve teknik föyü, malzemenin ticari kimliğini ve önerilen kullanımını açıklar. Ürüne uygulanabildiği ölçüde performans beyanı, ilgili işaretleme ve sınıflandırma veya deney raporu, beyan edilen yangın performansının kapsamını ortaya koyar. Sistem sertifikası ve uygulama detayları ise birden çok bileşenin birlikte nasıl kullanıldığını gösterir. Bu belgeler birbirinin yerine geçmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 465,
+      "aciklama": "Şekil 21. Bina gövdesi ile dış cephe sistemi arasındaki belge–uygulama ilişkisinin şematik gösterimi. Özgün çizimin teknik kurgusu korunarak okunurluğu düzenlenmiştir.",
+      "src": "/img/makale/ygr-k021-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-dosyasi-ile-yerindeki-cephe-nasil-eslestirilir",
+      "metin": "Belge dosyası ile yerindeki cephe nasıl eşleştirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, ürün etiketindeki ad ve kodun teslim belgeleriyle eşleşmesiyle başlar. Ardından proje kesitindeki kaplama, yalıtım ve alt konstrüksiyon sırası; sahada erişilebilen detaylar, montaj kayıtları ve fotoğraflarla karşılaştırılır. Pencere çevreleri, döşeme–cephe birleşimleri, hava boşlukları ve sonradan değiştirilen parçalar ayrı gözlem noktalarıdır. Gizli kalan bir birleşim yalnız dış görünüşe bakılarak doğrulanmış sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-temel-sorular",
+      "metin": "Proje–saha karşılaştırmasında temel sorular"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Hangi cephe şartı geçerli?",
+          "Onaylı proje, bina yüksekliği, kullanım ve izin kayıtları",
+          "Yapının tabi olduğu hükmü belirle; taslakla karıştırma."
+        ],
+        [
+          "Belge hangi ürünü veya sistemi kapsıyor?",
+          "Ürün kodu, performans beyanı, sınıflandırma ve sistem belgeleri",
+          "Tek ürünün sınıfını bütün cepheye mal etme."
+        ],
+        [
+          "Katmanlar ve bağlantılar aynı mı?",
+          "Cephe kesiti, montaj detayı, teslim ve uygulama kayıtları",
+          "Projede öngörülen çözümü sahadaki malzemeyle eşleştir."
+        ],
+        [
+          "Kat ve pencere sınırları nasıl çözülmüş?",
+          "Döşeme–cephe detayı, birleşim kaydı, erişilebilir saha fotoğrafları",
+          "Yangın yayılımını etkileyen arayüzleri ayrıca incele."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemenin kapsamına göre önce onaylı mimari ve yangın güvenliği projelerini, yapı kullanma izni ile cepheyi etkileyen tadilat kayıtlarını inceler. Binanın gerçek kullanımını, yüksekliğini ve mevcut cephe tipini kayda geçirir. Ardından proje kesitindeki sistemin, işletme sırasında yapılmış değişiklikler dahil, sahada görülen kaplama ve yalıtım katmanlarıyla uyumunu kontrol eder. Ürün kodu veya sistem kapsamı belirsizse üretici ve uygulayıcıdan tamamlayıcı belge ister; erişilemeyen birleşimleri doğrulanmış gibi işaretlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel tespit; yer, fotoğraf, ilgili proje detayı ve belge numarasıyla gerekçelendirilir. Örneğin yalnız panel sınıfı sunulmuş, ancak yalıtım ve döşeme kenarı birleşiminin aynı sistem kapsamında olduğu gösterilememişse raporda bu kanıt eksikliği açıkça belirtilir. Bu ifade, belgesizliğin kendiliğinden fiziksel uygunsuzluğu kanıtladığı anlamına gelmez. Laboratuvar sınıflandırması, mühendislik tasarımı, gizli katmanların teknik testi ve proje onayı, yetkili kişi ve kuruluşların sorumluluğunda kalır; uzman kendi gözlemini bu işlemlerin yerine koymaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğru cephe belgesi, yalnızca üzerinde iyi bir yangın sınıfı yazan belge değildir. Ürünü, sistemi, uygulama koşullarını ve binadaki gerçek montajı birbirine bağlayan, kapsamı izlenebilir belgedir. Bu bağlantı kurulamadığında doğru sonuç, varsayımla uygunluk vermek değil, hangi teknik kanıtın eksik olduğunu tarif etmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yapı Malzemeleri Yönetmeliği (305/2011/AB)"
+    }
+  ],
+  "sonNotlar": []
+}

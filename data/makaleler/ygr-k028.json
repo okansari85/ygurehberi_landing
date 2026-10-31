@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K028",
+  "yol": "tek-cikis-ile-iki-cikis-gereksinimi-nasil-degerlendirilir",
+  "baslik": "Tek çıkış ile iki çıkış gereksinimi nasıl değerlendirilir?",
+  "ozet": "Bir mekanda tek çıkışın yeterli olup olmadığı, yalnız kapı adedine veya alana bakılarak belirlenemez. Kullanım sınıfı, kullanıcı yükü, kat konumu, kaçış uzaklığı, çıkışların kapasitesi ve birbirine alternatif olup olmadığı birlikte değerlendirilir. Yangın Güvenlik Uzmanı (YGU), projede öngörülen çözümün sahada gerçekten kullanılabilir durumda olup olmadığını bu bütünlük içinde inceler.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapi-sayisi-ile-gecerli-cikis-sayisi-ayni-sey-degildir",
+      "metin": "Kapı sayısı ile geçerli çıkış sayısı aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Birbirinden ayrı görünen iki kapı aynı çıkmaz koridora bağlanabilir; kapılardan biri kilitli, önüne malzeme yığılmış veya sonradan yapılan bölmeyle erişilemez hale gelmiş olabilir. Bu nedenle her kapı için ulaşılan güzergah, son çıkışa bağlantı, korunum koşulları ve kullanılabilir genişlik ayrıca gösterilmelidir. İki çıkışın bulunması, iki alternatif kaçış olanağının sağlandığını kendiliğinden kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "karar-sirasi-kullanim-yuk-uzaklik-ve-kapasite",
+      "metin": "Karar sırası: kullanım, yük, uzaklık ve kapasite"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce mahal ve katın onaylı kullanım türü ile fiili faaliyet belirlenir; kullanıcı yükü ilgili katsayılarla hesaplanır. Ardından kaçış uzaklıkları, çıkışların konumu ve toplam genişlik ihtiyacı incelenir. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, aksi belirtilmedikçe en az iki çıkışı esas alır. Yüksek tehlikeli mekanlarda 25 kişinin, diğer mekanlarda 50 kişinin aşılması halinde en az iki çıkış aranır; 500 kişinin aşılmasında en az üç, 1.000 kişinin aşılmasında en az dört çıkış gerekliliği gündeme gelir. Bu eşikler, özel kullanım hükümleri ve kapasite hesabından bağımsız birer genel izin olarak okunamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede zemin kattaki dükkan ve benzeri yerler için, kişi sayısının 50’nin altında ve en uzak noktadan dış ortama açılan kapıya kaçış uzaklığının 25 m’den az olması halinde tek çıkışa ilişkin özel hüküm bulunur. Bu koşullar başka katlara veya bütün ticari kullanımlara otomatik uygulanmaz. Mevcut yapılar için ayrıca öngörülen çıkış hükümleri de yapının hukuki ve teknik statüsü belirlenerek ele alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-ile-yururlukteki-hukmun-ayrilmasi",
+      "metin": "Taslak ile yürürlükteki hükmün ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağı, tek çıkışa ilişkin ticari bölüm düzenlemesini zemin kat ile birinci bodrum veya birinci kat bağlantısını da kapsayacak biçimde önermektedir. Bu öneri henüz yürürlükteki kural gibi kullanılamaz. Taslakta yer alan farklılıklar, yayımlanmış bir değişiklik olmadıkça proje uygunluğu veya saha raporunda bağlayıcı şart olarak gösterilmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 28. Eski taslaktaki iki çıkış yönünü gösteren temsili çizim (aynen korunmuştur).",
+      "src": "/img/makale/ygr-k028-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "teknik-kontrol-tablosu",
+      "metin": "Teknik kontrol tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Kullanıcı yükü ve mahal sınıfı nedir?",
+          "Onaylı proje, güncel kullanım, alan ve hesap dosyası",
+          "İlgili çıkış sayısı ve kapasite şartını belirleme"
+        ],
+        [
+          "Kapılar hangi güzergaha bağlanıyor?",
+          "Tahliye planı, mahal yerleşimi, kapı ve geçiş gözlemleri",
+          "Kapı adedini geçerli çıkış işlevinden ayırma"
+        ],
+        [
+          "Çıkışlar birbirinin alternatifi mi?",
+          "Güzergah krokisi, koridor ve merdiven bağlantıları",
+          "Ortak darboğaz ve aynı çıkmaza yönelme olasılığı"
+        ],
+        [
+          "Genişlik ve uzaklık koşulları sağlanıyor mu?",
+          "Ölçülü plan, yetkili ölçüm ve hesap belgeleri",
+          "Sayı, kapasite ve uzaklığı ayrı gerekçelendirme"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, yapının onaylı mimari ve tahliye projeleri, ruhsat ve kullanım belgeleri, varsa tadilat izinleri ile başlar. Her çıkışın projedeki konumu ve ulaştığı güvenli güzergah işaretlenir. Sahada mahalin gerçek kullanım amacı, kişi yoğunluğu, mobilya ve tezgah yerleşimi, kapıların açılabilirliği, kilit ve engeller, koridorların sürekliliği gözlemsel olarak karşılaştırılır. Kapı sayısı aynı kalmış olsa bile yeni bölme, birleştirilen mağaza veya değişen kullanım, kaçış kararının yeniden ele alınmasını gerektirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, mevcut belge ve saha bulgularını ilişkilendirir; eksik hesap, ölçülü plan veya teknik doğrulama gerekiyorsa bunları açıkça talep eder. Proje revizyonu, mühendislik hesabı, yetki gerektiren ölçüm, tasarım onayı veya idari izin verme işlemini kendi saha gözleminin yerine koymaz. Bulguda hangi kapının, hangi güzergahın ve hangi belgenin karşılaştırıldığı açıkça belirtilir; belirsizlik kesin uygunsuzluk gibi yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-inceleme-magaza-alaninin-buyutulmesi",
+      "metin": "Örnek inceleme: mağaza alanının büyütülmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "İki bağımsız mağazanın birleştirilmesi veya depo bölümünün satış alanına katılması halinde kullanıcı yükü ve kaçış güzergahları değişebilir. Önce eski ve güncel yerleşim, onaylı pafta üzerinde karşılaştırılır; sonra her kapının eriştiği koridor, merdiven veya dış alan belirlenir. Bir kapının depoya açılması tek başına geçersizlik kararı doğurmaz; bağlantının kaçış yolu olarak kullanılabilirliği ve ilgili şartlar incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bulgu ifadesi: “Mağaza kullanım alanı genişletilmiş, ancak güncel kullanıcı yükü hesabı ve ikinci kapının son çıkışa kadar izlediği güzergahı gösteren onaylı revizyon sunulmamıştır. Çıkış sayısı ve kapasitesinin mevcut yerleşim bakımından doğrulanması gerekmektedir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Tek çıkış veya iki çıkış kararı, kapı sayısının değil; kullanım, kullanıcı yükü, kaçış uzaklığı, kapasite ve gerçek güzergahın birlikte değerlendirilmesinin sonucudur. Geçerli bir istisna açıkça doğrulanmadıkça yalnız düşük kişi sayısına dayanarak tek çıkışın yeterli olduğu söylenemez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

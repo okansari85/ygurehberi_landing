@@ -1,0 +1,118 @@
+{
+  "kod": "YGR-K009",
+  "yol": "bina-kullanim-sinifi-degisirse-hangi-kararlar-yeniden-incelenir",
+  "baslik": "Bina kullanım sınıfı değişirse hangi kararlar yeniden incelenir?",
+  "ozet": "Bir binanın kullanım amacı değiştiğinde yangın güvenliği değerlendirmesi eski projenin üzerine yeni mahal adları yazılarak tamamlanamaz. Yeni faaliyet, kullanıcıların özelliklerini, kaçış düzenini ve bazı koruma sistemlerinin tasarımında esas alınan koşulları değiştirebilir. Önce değişikliğin ne olduğu anlaşılmalı, ardından hangi kararları etkilediği belirlenmelidir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-yeni-kullanimin-niteligi-belirlenir",
+      "metin": "Önce yeni kullanımın niteliği belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, yapıları kullanım özelliklerine göre sınıflandırır. Bu sınıflar arasında büro, kurumsal, konaklama, ticaret ve depolama amaçlı kullanımlar farklı koşullarda ele alınır. Bir katın başka bir amaçla kullanılmaya başlanması, bütün binanın kendiliğinden yeni bir sınıfa geçtiği anlamına gelmez; bağımsız bölümün niteliği ve ortak alanlarla ilişkisi birlikte incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sağlık hizmetleri bu ayrımın neden önemli olduğunu gösterir. Yürürlükteki yönetmelikte doktor ve diş hekimi muayenehaneleri büro binaları arasında sayılırken, yeni yönetmelik taslağında ayakta tedavi merkezleri başlığı altında yer alır. Dolayısıyla “klinik” veya “muayenehane” tabelasından hareketle tek başına sınıflandırma yapılmaz. Uygulanan mevzuatın hangi hükmünün esas alınacağı ve yürütülen sağlık hizmetinin niteliği ayrıca değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "kullanim-degisikligi-hangi-tasarim-kararlarini-etkileyebilir",
+      "metin": "Kullanım değişikliği hangi tasarım kararlarını etkileyebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin büro olarak projelendirilmiş bir katta yeni bir sağlık hizmeti birimi kurulacağını düşünelim. Binanın dış görünüşü değişmese bile hastaların hareket kabiliyeti, hizmet alanlarının kullanımı, çalışan ve ziyaretçi yoğunluğu farklı olabilir. Önceki projenin kullanıcı yükü ve kaçış düzeni bu koşulları karşılıyor mu? Ortak koridor ve merdiven yeni kullanımla aynı biçimde hizmet verebiliyor mu? Bölme duvar, kapı veya tesisat düzeninde değişiklik yapılmış mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sorular, algılama ve uyarı sistemleriyle yangın bölmeleri dahil ilgili projelerin yeniden okunmasını gerektirebilir. Ancak kullanım değişti diye her kapının, dedektörün veya söndürme sisteminin yetersiz olduğu da söylenemez. Hangi tasarım kabulünün değiştiği somut olarak gösterilmeli; değişmeyen unsurlar da korunmalıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 9. Kullanım değişikliğinin bina üzerindeki etkisini inceleme sırası (temsili çizim).",
+      "src": "/img/makale/ygr-k009-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahadaki-yeni-kullanimin-karsilastirilmasi",
+      "metin": "Proje ile sahadaki yeni kullanımın karşılaştırılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Değerlendirmede mevcut kullanım belgesi ve onaylı mimari proje, sahada yürütülen faaliyetle birlikte ele alınır. Kullanımın yalnız adı değil; mahal düzeni, hizmet biçimi, kullanıcı profili ve ortak kaçış alanlarına etkisi kayıt altına alınır. Aşağıdaki örnek, sınıflandırma kararı verilmeden önce hangi bilgilerin eksik kalabileceğini gösterir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen konu",
+        "Onaylı projedeki durum",
+        "Örnek saha bulgusu",
+        "Değerlendirme"
+      ],
+      "satirlar": [
+        [
+          "Mahalin kullanımı",
+          "Büro",
+          "Sağlık hizmeti birimi",
+          "Faaliyetin niteliği ve belgeler karşılaştırılır"
+        ],
+        [
+          "Kullanıcı profili",
+          "Ofis çalışanları ve ziyaretçiler",
+          "Hasta hareketliliği hakkında veri eksik",
+          "Tahliye koşulları kesinleştirilmeden karar verilmez"
+        ],
+        [
+          "Ortak kaçış alanı",
+          "Mevcut koridor ve merdiven",
+          "Yeni bölümleme ihtimali",
+          "Güzergah ve ayırıcı sınırlar projeyle karşılaştırılır"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ruhsat ve kullanım belgeleriyle onaylı projelerini karşılaştırarak başlar. Ardından bölümün gerçekte hangi faaliyet için kullanıldığını, kimlerin bulunduğunu ve projedeki mahal sınırlarının değişip değişmediğini gözlemler. Ortak koridorların, merdivenlerin ve yangın güvenliği sistemlerinin yeni kullanımdan etkilenebilecek yönlerini belirler; mevcut muayene ve bakım kayıtlarıyla proje bilgilerini birlikte inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede büro olarak görünen bölümde ayakta sağlık hizmeti veriliyorsa hizmet türünü ve kullanıcı koşullarını belgelemeden yalnız tabeladan sonuç çıkarmaz. Projeyle saha arasında belirlenen farkları, bunların etkilediği yangın güvenliği unsurlarıyla birlikte raporlar. Teknik tasarımın yeniden hesaplanması veya resmî kullanım değişikliğinin değerlendirilmesi gerekiyorsa ilgili yetkili ve proje müellifinin incelemesine konu edilmesi gereken hususları açıkça belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanım sınıfı değişikliğinde asıl mesele, eski binanın bütün sistemlerini baştan uygunsuz saymak değil; yeni faaliyetin hangi tasarım kabullerini değiştirdiğini kanıtlarıyla ortaya koymaktır. Kullanım belgeleri, güncel mahal düzeni, kullanıcı profili ve ortak yangın güvenliği tedbirleri birlikte okunduğunda hangi kararın korunabileceği, hangisinin yeniden incelenmesi gerektiği anlaşılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

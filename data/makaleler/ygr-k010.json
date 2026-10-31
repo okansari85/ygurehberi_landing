@@ -1,0 +1,118 @@
+{
+  "kod": "YGR-K010",
+  "yol": "bir-bagimsiz-bolumun-kullanimi-bina-genelini-nasil-etkiler",
+  "baslik": "Bir bağımsız bölümün kullanımı bina genelini nasıl etkiler?",
+  "ozet": "Bir bağımsız bölümde yapılan değişiklik her zaman kendi sınırları içinde kalmaz. Yeni bir kapı, değişen bir faaliyet veya ortak tesisata yapılan bağlantı; aynı binadaki diğer kullanıcıların yangın güvenliğini de ilgilendirebilir. Bununla birlikte bir bölümdeki her değişiklik, bütün binanın kullanım sınıfının veya yangın güvenliği sistemlerinin yeniden belirlenmesini gerektirmez.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bagimsiz-bolum-ile-ortak-alanin-iliskisi",
+      "metin": "Bağımsız bölüm ile ortak alanın ilişkisi"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, yapıları kullanım özelliklerine göre sınıflandırır. Birden fazla kullanımın aynı binada bulunması halinde ise esas konu, bu bölümlerin yangın bakımından birbirinden ayrılıp ayrılamadığı ve gerekli korunma tedbirlerinin ayrı ayrı uygulanıp uygulanamadığıdır. Madde 18’deki daha yüksek koruma şartının bina geneline etkisi de bu koşullarla birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle önce bağımsız bölümün gerçek faaliyeti belirlenir. Tapudaki nitelik, işletme tabelası veya kiracının değişmesi tek başına yeterli değildir. Sonra bu bölümün ortak koridor, kaçış merdiveni, tesisat şaftı ve alarm sistemiyle bağlantısına bakılır. Kullanım sınıfı, yangın kompartımanı sınırı ve mülkiyet sınırı aynı kavramlar değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "ortak-koridora-acilan-yeni-depo-kapisi",
+      "metin": "Ortak koridora açılan yeni depo kapısı"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin zemin kattaki bir mağazanın arka bölümü depoya dönüştürülsün ve bu depodan ortak kat koridoruna yeni bir kapı açılsın. Mağazaya bağlı depolama alanının bulunması, o bölümün kendiliğinden ayrı bir depolama tesisi sayılacağı anlamına gelmez. Buna karşılık yeni kapı, onaylı projede öngörülen yangın ayırıcı sınırı veya ortak kaçış yolunun kullanımını etkileyebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada yalnız yeni kapının yerini belirlemek yeterli olmaz. Koridorun hangi bölümlere hizmet ettiği, kapının açıldığı duvarın projedeki işlevi, varsa yangın kapısı özelliği ve tesisat geçişleri birlikte incelenir. Deponun içindeki değişiklik ile ortak alan üzerindeki etki ayrı ayrı ortaya konulur."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 10. Bağımsız bölümden ortak koridora, merdivene ve bina sistemlerine uzanan inceleme ilişkisi (temsili çizim).",
+      "src": "/img/makale/ygr-k010-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahadaki-durumun-karsilastirilmasi",
+      "metin": "Proje ile sahadaki durumun karşılaştırılması"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemede onaylı mimari proje ve yangın güvenliği projeleri başlangıç noktasıdır. Sahadaki kullanım ve yeni geçişler bunlarla karşılaştırılır. Kapı yeri değişmişse kaçış güzergahı, bölme bütünlüğü ve kapının gerektiğinde hangi özellikleri taşıması gerektiği araştırılır. Alarm veya algılama düzenine dokunulmuşsa değişikliğin ortak sisteme etkisi ilgili proje ve kontrol kayıtları üzerinden değerlendirilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen unsur",
+        "Projede öngörülen",
+        "Örnekteki değişiklik",
+        "Değerlendirme"
+      ],
+      "satirlar": [
+        [
+          "Bölümün kullanımı",
+          "Satış ve bağlı alanlar",
+          "Arka bölümde depo",
+          "Gerçek kullanım ve malzemeler incelenir"
+        ],
+        [
+          "Ortak koridor",
+          "Onaylı kapı düzeni",
+          "Yeni depo kapısı",
+          "Kaçış ve ayırıcı sınır karşılaştırılır"
+        ],
+        [
+          "Ortak sistemler",
+          "Onaylı alarm / tesisat düzeni",
+          "Bağlantı etkisi belirsiz",
+          "Proje ve kontrol kayıtları incelenir"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), bağımsız bölümün onaylı kullanımını ve fiili faaliyetini karşılaştırırken incelemeyi yalnız bölüm kapısında bitirmez. Ortak koridor ve merdivenle kurulan bağlantıyı, bölüm sınırındaki kapı ve geçişleri, varsa ortak yangın güvenliği sistemlerine yapılan müdahaleleri gözlemsel olarak inceler. Yapının mevcut kullanımına ilişkin belgeler, onaylı projeler ve ilgili periyodik muayene kayıtları bu karşılaştırmanın dayanaklarıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Projede bulunmayan bir kapı veya kullanım değişikliği görülürse farkın yeri ve niteliği açıkça kaydedilir. Bulgu, gerekli belgeler ve fotoğraflarla desteklenir; ilave proje incelemesi veya yetkili teknik değerlendirme gerektiren konular ayrıca belirtilir. Uzmanın tespiti, tek başına yeni bir tasarım onayı veya bütün binanın uygunsuz olduğu yönünde otomatik karar anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Bağımsız bölümdeki bir değişikliğin bina geneline etkisi, ortak kaçış alanları ve yangın güvenliği sistemleriyle kurduğu ilişkiye bağlıdır. Doğru değerlendirme, önce bölümde neyin değiştiğini belirlemek; sonra bu değişikliğin hangi ortak unsurun işlevini etkileyebileceğini onaylı proje ve sahadaki durumla karşılaştırmaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

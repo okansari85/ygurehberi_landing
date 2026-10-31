@@ -1,0 +1,115 @@
+{
+  "kod": "YGR-K006",
+  "yol": "ayni-binada-farkli-kullanim-turleri-nasil-ayristirilir",
+  "baslik": "Aynı binada farklı kullanım türleri nasıl ayrıştırılır?",
+  "ozet": "Bir binanın giriş katı mağaza, üst katları konut, bodrum katı ise otopark olarak kullanılıyor olabilir. Bütün bu alanların aynı adreste bulunması, yangın güvenliği bakımından tek bir kullanım sınıfıyla değerlendirilecekleri anlamına gelmez. Önce her bölümün gerçek işlevi belirlenir; ardından bölümlerin birbirinden nasıl ayrıldığı ve hangi kaçış yollarıyla sistemleri ortak kullandığı incelenir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "karma-kullanimda-asil-ayrim-nedir",
+      "metin": "Karma kullanımda asıl ayrım nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, binaları kullanım özelliklerine göre sınıflandırır. Karışık kullanım için belirleyici konu ise farklı işlevlerin yalnızca bir arada bulunması değildir. Daha yüksek koruma tedbirleri gerektiren bölüm diğerlerinden uygun bir yangın bölmesiyle ayrılamıyor veya ayrı korunma tedbirleri uygulanamıyorsa, bu sınıflandırmanın gerekleri bütün bina açısından gündeme gelir. Bu nedenle değerlendirme, mahalin adından değil, kullanımın niteliğinden ve bölümler arasındaki gerçek yangın ayrımından hareket etmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir mağazanın satış faaliyetine bağlı depo bölümü, sırf üzerinde “depo” yazdığı için bağımsız bir depolama tesisi gibi ele alınmaz. Depolamanın satışla ilişkisi, kapladığı alan, işletmenin faaliyeti ve ilgili sınıflandırma hükümleri birlikte değerlendirilir. Aynı şekilde, tapuda ayrı bağımsız bölüm bulunması da iki alan arasında yangına dayanımlı bir bölme oluşturulduğunu tek başına göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "magaza-ile-konutun-birlikte-bulundugu-yapi",
+      "metin": "Mağaza ile konutun birlikte bulunduğu yapı"
+    },
+    {
+      "tip": "p",
+      "metin": "Giriş katındaki mağazanın arka bölümünün zamanla büyütüldüğünü, üst katların ise konut olarak kullanılmaya devam ettiğini düşünelim. Burada ilk soru, genişletilen alanın projede hangi kullanıma ayrıldığıdır. Ardından yeni bölmenin veya kapının yangın ayırıcı sınırı etkileyip etkilemediğine, mağaza ile konutların ortak koridora ya da merdivene nasıl bağlandığına bakılır. Depolanan malzemelerin değişmesi de koruma sistemi için kabul edilen koşulların yeniden incelenmesini gerektirebilir. Bu değişikliklerin her biri otomatik olarak uygunsuzluk anlamına gelmez; somut proje ve saha bilgisiyle değerlendirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 6. Karma kullanımın incelenmesinde birlikte ele alınan başlıklar (temsili).",
+      "src": "/img/makale/ygr-k006-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahadaki-durumun-karsilastirilmasi",
+      "metin": "Proje ile sahadaki durumun karşılaştırılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu incelemede kullanım sınırlarıyla yangın kompartımanı sınırlarını aynı şeymiş gibi çizmemek gerekir. Mimari projede mağaza, depo, konut ve ortak hacimler ayrı ayrı okunmalı; yangın ayırıcı elemanların sürekliliği de ayrıca değerlendirilmelidir. Özellikle ortak koridorun ve kaçış merdiveninin hangi alanlara hizmet verdiği, tek bir işletmenin düzeni üzerinden değil bütün kullanıcıların kaçış ihtiyacı üzerinden ele alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-proje-saha-karsilastirmasi",
+      "metin": "Temsili proje–saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen bölüm",
+        "Proje bilgisi",
+        "Sahada karşılaştırılan durum"
+      ],
+      "satirlar": [
+        [
+          "Zemin kat",
+          "Satış alanı ve bağlı hacimler",
+          "Mağazanın ve arka bölümün fiili kullanımı"
+        ],
+        [
+          "Üst katlar",
+          "Konut ve ortak alanlar",
+          "Konut kullanımının ve ortak kaçış bağlantısının korunması"
+        ],
+        [
+          "Ortak alanlar",
+          "Koridor, merdiven ve yangın ayırıcı sınır",
+          "Yeni kapı/geçişler, koridorun hizmet verdiği bölümler"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ruhsat ve onaylı mimari proje bilgileriyle başlar. Farklı bağımsız bölümlerde fiilen hangi faaliyetlerin yürütüldüğünü, mahallerin ne amaçla kullanıldığını ve ortak alanların kimlere hizmet verdiğini yerinde gözlemler. Bu bilgileri projede belirtilen kullanım sınıflarıyla karşılaştırır. Kullanım değişikliği veya sonradan yapılan bölme, kapı ve geçişler varsa bunları konumlarıyla birlikte kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrolün sonucu yalnızca “karma kullanım var” ifadesiyle sınırlı kalmamalıdır. Hangi bölümün kullanımı değişmiş, hangi yangın ayırıcı sınır etkilenmiş olabilir ve hangi ortak kaçış veya koruma düzeni inceleme gerektiriyor, açıkça belirtilmelidir. Projenin güncelliği ya da bir değişikliğin teknik uygunluğu eldeki belgelerle doğrulanamıyorsa bu belirsizlik ayrıca kaydedilir; gerekli proje veya yetkili teknik değerlendirme, gözlemsel incelemenin yerine geçirilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Karma kullanımlı bir yapının değerlendirilmesinde doğru sıra; mahallerin gerçek işlevini belirlemek, bunların projedeki karşılığını bulmak, yangın ayırıcı sınırları ve ortak sistemleri incelemek, ardından ilgili koruma koşullarını değerlendirmektir. Böylece farklı kullanım türlerinin aynı binada bulunmasının gerçekten hangi yangın güvenliği kararlarını etkilediği ortaya konur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

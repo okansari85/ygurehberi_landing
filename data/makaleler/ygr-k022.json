@@ -1,0 +1,117 @@
+{
+  "kod": "YGR-K022",
+  "yol": "giydirme-cephe-ile-doseme-arasindaki-bosluk-neden-onemlidir",
+  "baslik": "Giydirme cephe ile döşeme arasındaki boşluk neden önemlidir?",
+  "ozet": "Giydirme cephe ile kat döşemesi arasındaki boşluk, yalnız montaj toleransını karşılayan bir aralık değildir. Döşemenin katlar arasındaki yangın ayırıcı işlevi, bu noktadaki birleşim doğru tasarlanıp uygulanmadığında kesintiye uğrayabilir. Dışarıdan düzgün görünen bir cephe, döşeme kenarında duman ve alev geçişine açık bir hat bırakmış olabilir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "doseme-kenari-neden-ayri-bir-kontrol-noktasidir",
+      "metin": "Döşeme kenarı neden ayrı bir kontrol noktasıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kat döşemesi ile giydirme cephe farklı imalatlardır. Döşeme kenarında cephe ankrajları, hareket payı ve montaj boşluğu bulunabilir. Bu aralık, yangın sırasında alt kattaki sıcak gazların üst kata ulaşabileceği bir yol haline gelebilir. Birleşimin koruyucu işlevi, yalnız boşluğun kapatılmış görünmesine değil, kullanılan sistemin yangın performansına ve uygulanma biçimine bağlıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, giydirme cephe elemanları ile alev geçişine açık boşluğu bulunmayan döşemelerin kesiştiği yerlerde, komşu katlara alev geçişini önleyecek ve döşemenin yangına dayanım süresiyle ilişkilendirilecek yalıtımı düzenler. Bakanlık Kılavuzu bu ilişkiyi kesitte açıklar. Süre, her bina için ezbere seçilecek sabit bir dakika değeri değildir; ilgili döşemenin tabi olduğu gereklilikle birlikte belirlenir. Kullanıcının ilettiği yeni yönetmelik taslağında bu birleşim yaklaşımı korunmuştur; taslak yürürlükteki hükmün yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "iki-farkli-bosluk-birbirine-karistirilmamalidir",
+      "metin": "İki farklı boşluk birbirine karıştırılmamalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Döşeme kenarı ile cephe elemanı arasındaki yatay birleşim, kat ayırıcı hattın sürekliliği bakımından incelenir. Havalandırmalı veya açık derzli cephelerde kaplama arkasındaki düşey hava boşluğu ise ayrıca değerlendirilir. Birinde kullanılan çözümün diğerindeki boşluğu da koruduğu varsayılamaz. Özellikle yangında genleşerek boşluğu kapatan ürünler, ancak kendi belgelenmiş kullanım ve montaj koşulları içinde değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Gerekli detayda dolgu malzemesi, taşıyıcı destek, sabitleme, derz genişliği ve hareket kabiliyeti birlikte tanımlanmalıdır. Sıradan köpük, silikon veya mineral yünün tek başına bulunması, birleşimin öngörülen yangın performansını kanıtlamaz. Ürün adı kadar, ürünün hangi birleşim düzeninde test edildiği veya sınıflandırıldığı da önemlidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 22. Eski taslaktaki özgün şema: döşeme–cephe birleşiminde korunması gereken hat. Temsili çizimdir; onaylı uygulama detayı değildir.",
+      "src": "/img/makale/ygr-k022-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-sahada-hangi-kanitlar-eslestirilir",
+      "metin": "Proje ve sahada hangi kanıtlar eşleştirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kat planı, cephe kesiti ve döşeme kenarı uygulama detayı aynı aks ve kat kodunda okunur. Projedeki boşluk genişliği ve koruyucu bileşenler, ürünün sistem belgesi, uygulama talimatı, malzeme teslim kayıtları ve varsa montaj fotoğraflarıyla karşılaştırılır. Sonradan açılan tesisat geçişleri, değişen cephe panelleri veya tadilat sırasında sökülen koruma parçaları ayrıca izlenir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol odağı",
+        "Aranacak belge veya gözlem",
+        "Raporda açıklanacak husus"
+      ],
+      "satirlar": [
+        [
+          "Ayırıcı hattın yeri",
+          "Onaylı kat planı, cephe kesiti",
+          "İlgili kat ve aks; projedeki birleşim konumu"
+        ],
+        [
+          "Koruyucu sistem",
+          "Detay, ürün/sistem belgesi, montaj kaydı",
+          "Malzeme, genişlik, sabitleme ve kullanım kapsamı uyumu"
+        ],
+        [
+          "Gizli veya değişmiş alan",
+          "Tadilat kayıtları, erişilebilir kontrol noktaları",
+          "Görülemeyen bölüm ve gerekli ek doğrulama"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), inceleme kapsamına göre onaylı mimari ve yangın güvenliği projelerini, yapı kullanma iznini, cephe tadilatına ilişkin izin ve revizyonları temin ederek binanın gerçek kullanım koşullarını belirler. Kat döşemesi ile cephe arasındaki birleşimi projede işaretler; sahada erişilebilen noktalarda aynı detayın varlığını, bütünlüğünü ve sonradan müdahale görüp görmediğini gözlemler. Ürün ve sistem belgelerinin seçilen detayı kapsayıp kapsamadığını inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Birleşim kapalı olduğundan görülemiyorsa veya sunulan belge sahadaki uygulamayla eşleşmiyorsa, bu sınır açıkça yazılır. Örneğin raporda “Üçüncü kat B–C aksları arasındaki döşeme–cephe birleşiminin uygulama detayı ve sistem belgesi sunulmadığından koruyucu süreklilik belgesel olarak doğrulanamamıştır” denebilir. Bu, tek başına fiziksel uygunsuzluk veya belirli bir yangın dayanım süresi tespiti değildir. Gerekli açma işlemi, performans deneyi, mühendislik hesabı, tadilat tasarımı ve proje onayı ilgili yetkili kişi ve kuruluşlarca yürütülür."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Döşeme ile giydirme cephe arasındaki boşluğun önemi, kat ayırıcı hattın dış cephede de kesintisiz devam etmesidir. Doğru inceleme, yalnız dolgu olup olmadığını sormaz; onaylı detayı, belgelendirilmiş sistemi ve gerçek montajı aynı noktada karşılaştırır. Kanıt eksikse eksik olanı tarif eder, görünmeyen birleşimi varsayımla uygun saymaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

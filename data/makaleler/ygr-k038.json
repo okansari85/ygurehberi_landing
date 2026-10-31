@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K038",
+  "yol": "hastane-katlarinda-yatay-tahliye-neden-ayri-ele-alinir",
+  "baslik": "Hastane katlarında yatay tahliye neden ayrı ele alınır?",
+  "ozet": "Yataklı sağlık yapılarında tahliye, yalnızca çıkış kapılarını bulup merdivene yönelmek değildir. Yatağa bağımlı veya hareket desteğine ihtiyaç duyan hastaların aynı katta korunmuş komşu bölüme aktarılması, kaçış düzeninin ayrı değerlendirilmesini gerektirir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yatay-tahliye-neyi-saglar",
+      "metin": "Yatay tahliye neyi sağlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yatay tahliye, kullanıcıların yangının etkilediği bölümden aynı kat seviyesindeki yangına karşı ayrılmış komşu kompartımana geçmesini esas alır. Böylece hasta yatağı, sedye, tıbbi cihaz ve refakat eden personel için düşey tahliyeye geçmeden önce korunmuş bir alan sağlanması hedeflenir. Ancak iki mahal arasında kapı bulunması tek başına yatay tahliye çözümü değildir. Kompartıman sınırının sürekliliği, geçişin kullanılabilirliği, kabul edecek bölümün kapasitesi ve o bölümden sonraki korunumlu kaçış bağlantısı birlikte değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-mevzuat-kosullari-onemlidir",
+      "metin": "Hangi mevzuat koşulları önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, sağlık yapıları için özel düzenleme içerir. Kullanıcı yükü 15 kişiyi aşan hasta yatak odası veya süit odada birbirinden uzakta iki kapı aranır. Hastanelerin ve bakımevlerinin 300 m²’den büyük yatılan katları, yürürlükteki hükmün ifadesiyle “en az yarısı büyüklüğünde iki veya daha fazla yangın kompartımanına” ayrılır ya da korunumlu yatay tahliye alanları oluşturulur. Yatay tahliye alanı hesabında 2,8 m²/kişi değeri esas alınır. Hastane koridorlarında 2 m asgari genişlik şartı da ayrıca incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu eşikler her muayenehaneye veya ayakta tedavi mahalline doğrudan taşınamaz. Önce yapının ruhsatlı kullanım türü, yatan hasta bulunup bulunmadığı, ilgili katın işlevi ve alanı belirlenir. Kaçış uzaklığının yatay tahliye alanına götüren koridorun çıkış kapısına kadar değerlendirilmesi de ancak ilgili yangına dayanım ve duman geçişini önleme koşulları sağlandığında söz konusu olur."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevzuat ayrımı: İncelenen yeni BYKHY taslağında yatılan katın kompartımanlara ayrılmasına ilişkin ifade yürürlükteki metinle aynı değildir. Taslak metin, yürürlükteki hükmün yerine geçirilerek uygunluk kararı verilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "revize-edilen-servis-katinda-kritik-karsilastirma",
+      "metin": "Revize edilen servis katında kritik karşılaştırma"
+    },
+    {
+      "tip": "p",
+      "metin": "Servis katında yeni hasta odaları, yoğun bakım alanı veya depolama mahalli oluşturulduğunda geçişin plan üzerindeki yeri değişmese bile kullanılabilirliği değişebilir. Kapı önünde cihaz bulunması, yeni bölme duvarın koridoru daraltması veya komşu bölgenin hasta kabul alanının azalması yatay tahliye düzenini etkiler. İnceleme, yalnız boş koridor üzerinden değil, onaylı yerleşim ve fiili işletme düzeni üzerinden yürütülmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 38. Yatay geçiş ve sonraki korunumlu kaçış ilişkisinin temsili gösterimi (özgün çizim).",
+      "src": "/img/makale/ygr-k038-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "kontrol-sorulari-ve-aranacak-kanitlar",
+      "metin": "Kontrol soruları ve aranacak kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kanıt",
+        "Saha değerlendirmesi"
+      ],
+      "satirlar": [
+        [
+          "İlgili kat hangi kullanım kapsamına giriyor?",
+          "Ruhsat, yapı kullanma izni, onaylı kat planı",
+          "Yatan hasta katı ve uygulanacak hüküm belirlenir."
+        ],
+        [
+          "Kompartıman ve yatay geçiş nerede?",
+          "Onaylı mimari/tahliye projesi, yangın ayırıcı detayları",
+          "Bölme sınırları, kapı ve tesisat geçişleri sahayla karşılaştırılır."
+        ],
+        [
+          "Komşu bölüm hasta aktarımını karşılıyor mu?",
+          "Güncel yatak ve cihaz yerleşimi, kapasite hesabı",
+          "Alan hesabı ve fiili kullanım arasındaki fark kayda alınır."
+        ],
+        [
+          "Geçişten sonra korunumlu kaçış sürüyor mu?",
+          "Kaçış planı, kapı ve koridor düzeni, teknik raporlar",
+          "Yatay geçiş, tahliyenin tamamı sayılmaz."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapı ruhsatı ve yapı kullanma izni ile onaylı mimari ve tahliye projelerindeki kullanım sınıfını, yatılan kat sınırlarını, yangın kompartımanlarını ve geçiş noktalarını belirler. Mevcut servis işleyişini, hasta yataklarının ve cihazların yerleşimini, koridorların fiili durumunu ve yatay geçişin önündeki engelleri sahada gözlemler. Projede öngörülen kapıların ve yangın ayırıcı elemanların yerinde bulunup bulunmadığını, görünür hasarları, sonradan açılan boşlukları ve komşu bölümün amaç dışı kullanımını kayıt altına alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangına dayanım sınıfı, kapasite hesabı, duman kontrolü ve diğer performans koşulları yalnız görünüşten kesinleştirilmez; onaylı detaylar, uygunluk belgeleri, test veya muayene raporları ve gerektiğinde yetkili proje müellifinin teknik değerlendirmesi aranır. Uzman, gözlemsel bulguyu dayanağı ve konumuyla raporlar; tasarım değişikliği, mühendislik hesabı veya idari onay yetkisini üstlenmez. Sahadaki inceleme, ilgili mevzuatın kendisine tanıdığı kontrol kapsamıyla sınırlıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-tespit-nasil-yazilir",
+      "metin": "Gerekçeli tespit nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili tespit: “Onaylı kat planında yatay tahliye için ayrılan komşu bölümün bir kısmının fiilen depolama amacıyla kullanıldığı görülmüştür. Mevcut kullanımın yatay tahliye alanı kapasitesi ve hasta aktarım güzergahı üzerindeki etkisini gösteren güncel teknik değerlendirme sunulmamıştır. İlgili bölümün projeye ve yürürlükteki sağlık yapıları hükümlerine göre yeniden incelenmesi gerekmektedir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Hastane katında yatay tahliye, “başka bir odaya geçiş” değil; yangına karşı ayrılmış komşu bölgeye, hasta taşıma koşullarını karşılayan bir güzergahla ulaşma ve oradan sonraki korunumlu kaçışı sürdürebilme düzenidir. Uygunluk kararı, yapı türü ve yürürlükteki hükümle başlayan, onaylı proje ve fiili kullanımın karşılaştırılmasıyla tamamlanan belgeye dayalı bir incelemeyi gerektirir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

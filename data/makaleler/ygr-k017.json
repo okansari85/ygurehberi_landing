@@ -1,0 +1,132 @@
+{
+  "kod": "YGR-K017",
+  "yol": "yangin-kapisi-kasasinin-duvarla-birlesimi-nasil-dogrulanir",
+  "baslik": "Yangın kapısı kasasının duvarla birleşimi nasıl doğrulanır?",
+  "ozet": "Yangına dayanıklı bir kapının kanadı ve kasası doğru seçilmiş olsa bile kapı ile duvar arasındaki birleşim hatalıysa ayırıcı elemanın beklenen performansı sağladığı söylenemez. İncelemenin amacı, yalnız kapı etiketini görmek değil, monte edilmiş kapı takımının belgelenmiş uygulama koşullarıyla eşleşip eşleşmediğini belirlemektir.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapi-takimini-tek-bir-sistem-olarak-okumak",
+      "metin": "Kapı takımını tek bir sistem olarak okumak"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın kapısı; kanat, kasa, menteşe, kilit ve kapatıcı gibi donanımlarıyla, yerleştirildiği duvar ve montaj ayrıntıları birlikte ele alınarak değerlendirilir. Kapının yangına dayanım sınıfını gösteren belge, kasanın her duvar türüne ve her boşluk ölçüsüne aynı yöntemle takılabileceği anlamına gelmez. Destekleyici duvarın türü, açıklık ölçüleri, ankraj aralığı ve çevre boşluğunu dolduran malzeme, ilgili test veya değerlendirme kapsamı ile karşılaştırılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle tadilatlarda aynı kapı kanadının yeni bir hafif bölme duvara taşınması ya da mevcut kasanın korunup yalnız kanadın değiştirilmesi riskli bir belirsizlik yaratır. Böyle bir durumda ürünlerin birbirine uyumu ve montaj kapsamı ayrıca belgelenmeden sadece etiket üzerinden olumlu karar verilmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1500,
+      "yukseklik": 560,
+      "aciklama": "Şekil 17. Eski taslaktaki duvar, kapı kanadı, kasa ankrajı ve çevre dolgu elemanlarını koruyan, okunurluğu yeniden düzenlenmiş temsili şema.",
+      "src": "/img/makale/ygr-k017-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-belge-hangi-soruya-cevap-verir",
+      "metin": "Hangi belge hangi soruya cevap verir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı mimari proje ve yangın ayırıcı detay, kapının hangi sınırda ve hangi performans ihtiyacına göre seçildiğini gösterir. Kapı çizelgesi ve ürünün sınıflandırma/test belgeleri kapı takımını tanımlar. Üretici montaj talimatı veya geçerli uygulama detayı ise kasanın hangi duvara, hangi sabitleme ve çevre dolgu düzeniyle yerleştirilebileceğini açıklamalıdır. Bu belgelerin birbirinin yerine geçirilmesi, özellikle kasa çevresinde kalan boşlukların değerlendirilmesinde hatalı sonuç doğurur."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-mevcut-durum-karsilastirmasi",
+      "metin": "Proje ile mevcut durum karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Aranacak kanıt",
+        "Sahada değerlendirilecek durum"
+      ],
+      "satirlar": [
+        [
+          "Kapının yeri ve işlevi",
+          "Onaylı plan, kapı çizelgesi",
+          "Kompartıman sınırı, açılma yönü, fiili kullanım"
+        ],
+        [
+          "Kapı takımı",
+          "Ürün kimliği, sınıflandırma ve ilgili belge",
+          "Kanat, kasa, donanım ve etiket eşleşmesi"
+        ],
+        [
+          "Duvar ve ankraj",
+          "Belgelenmiş destekleyici duvar ve montaj detayı",
+          "Mevcut duvar türü, kasa bağlantıları ve tadilat izleri"
+        ],
+        [
+          "Kasa çevresi",
+          "İzin verilen boşluk ve dolgu sistemi",
+          "Görünür açıklık, hasar, eksik dolgu veya belirsiz uygulama"
+        ],
+        [
+          "Kapanma işlevi",
+          "Proje, kullanım ve donanım koşulları",
+          "Kapının serbest kapanması ve kapalı konuma oturması"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-hukmu-ile-taslak-hukmu-karistirilmamali",
+      "metin": "Mevzuat hükmü ile taslak hükmü karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın duvarında kaçınılamayan kapı açıklıklarının dayanımı ile kendiliğinden kapanma ve duman sızdırmazlık koşullarını düzenler. İncelenen yeni yönetmelik taslağında ise yangın duvarındaki bu tür açıklıkların dayanımı bakımından daha farklı bir yaklaşım öngörülmektedir. Taslak, yayımlanıp yürürlüğe girmedikçe mevcut kapılar için yeni bir zorunluluk gibi uygulanamaz. Ayrıca yangın duvarındaki kapı ile kaçış merdiveni kapısının gereklilikleri aynı başlık altında otomatik olarak eşitlenemez; kapının bulunduğu yer ve işlevi önce belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği işin ve geçerli yetkisinin sınırları içinde önce onaylı projeden kapının konumunu, bağlı olduğu yangın ayırıcı sınırı ve gerekli belgeleri tespit eder. Kapı çizelgesindeki ürün ile sahadaki etiket ve donanımı eşleştirir; duvar türünü, kasa çevresini, görünür ankraj ve dolgu durumunu, kapanma davranışını ve tadilat izlerini gözlemler. Fotoğraf, mahal, pafta ve kapı kimliğini aynı bulgu kaydında ilişkilendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede kagir duvara monte edilmiş olarak gösterilen kapı, sahada hafif bölme duvara taşınmışsa YGU yalnız kapının kapandığını görerek birleşimi uygun saymaz. Yeni duvarın ve montaj ayrıntısının ürünün belgeli uygulama kapsamına girip girmediğini araştırır. Belge yoksa veya kapalı birleşim detayı görülemiyorsa “doğrulanamadı” sonucunu gerekçesiyle kaydeder; teknik doğrulama için yetkili tasarımcı, üretici ya da uygun değerlendirme kuruluşundan belge ve açıklama istenmesini önerir."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel inceleme, yangına dayanım deneyinin veya mühendislik hesabının yerine geçmez. YGU, gerekli yetki ve usul bulunmadıkça montaj sistemine yeni performans sınıfı vermez, duvar-kapı birleşimini deney yapmış gibi onaylamaz ve idarenin proje onay görevini üstlenmez. Kapıdaki kapanma sorunu ile belgelenmemiş montaj koşulu ayrı bulgular olarak raporlanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın kapısının güvenilirliği yalnız kanat etiketine değil, kapı takımının yerleştirildiği duvarla birlikte belgelenmiş ve sahada doğru uygulanmış olmasına bağlıdır. Sağlam değerlendirme; proje, ürün belgesi, montaj detayı ve gözlemi aynı kayıt üzerinde buluşturur. Kanıt eksikse varsayımla uygunluk verilmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

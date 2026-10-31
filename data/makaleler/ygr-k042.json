@@ -1,0 +1,139 @@
+{
+  "kod": "YGR-K042",
+  "yol": "dogalgazli-kazan-dairesi-degistirildiginde-hangi-kontroller-yenilenir",
+  "baslik": "Doğalgazlı kazan dairesi değiştirildiğinde hangi kontroller yenilenir?",
+  "ozet": "Kazan değişikliği, yalnız cihazın yenilenmesi değildir. Yeni cihazın kapasitesi, yakıt bağlantısı, hava ihtiyacı ve güvenlik kumandaları eski projedeki kabullerle uyuşmuyorsa, tesisatın bir bölümü yerinde kalsa bile yangın güvenliği değerlendirmesi yeniden yapılmalıdır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisikligin-siniri-once-belirlenmeli",
+      "metin": "Değişikliğin sınırı önce belirlenmeli"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru, sahada neyin değiştiğidir: Kazan veya brülör mü yenilendi, toplam ısıl kapasite mi arttı, gaz hattının güzergahı mı değişti, yoksa farklı bir yakıttan doğalgaza mı geçildi? Bu ayrım yapılmadan eski tesisat projesinin yeni durumu karşıladığı kabul edilemez. Değişiklik kapsamı; önceki ve güncel cihaz bilgileri, revizyon çizimleri, gaz dağıtım kuruluşu işlemleri ve işletmeye alma kayıtlarıyla ortaya konulmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kazan dairesinin yeri, kapıları ve yangına dayanıklı ayırıcıları değişmediyse bunlar yine de kontrol dışı kalmaz. Yeni ekipmanın yerleşimi, kapıya veya ana kesme donanımına erişimi zorlaştırabilir; yeni hat geçişleri yangın bölmesinin sürekliliğini etkileyebilir. İnceleme, yalnız yeni takılan parçanın çevresinde bitirilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "gaz-tesisati-ve-emniyet-duzeni-birlikte-okunur",
+      "metin": "Gaz tesisatı ve emniyet düzeni birlikte okunur"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, doğalgazlı kazan dairesinde gaz tesisatının ilgili standartlara ve gaz kuruluşunun teknik şartnamelerine uygun olmasını; sayacın kazan dairesi dışında, ana gaz kapama vanası ile ana elektrik kesme donanımının ise dışarıdan kolay erişilebilir yerde bulunmasını öngörür. Gaz kaçağına karşı havalandırma ve uygun gaz algılayıcı da değerlendirilmesi gereken temel unsurlardır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bunların yanında doğalgaz kullanım esasları; gazın otomatik kesilmesi, ısı merkezindeki emniyet vanası ve sensör düzeni, gerekli hallerde cebri havalandırmanın brülörle güvenli ilişkilendirilmesi ve yetkili bakım-kontrol işlemleri açısından ayrıca okunmalıdır. Algılayıcının yalnızca duvarda görülmesi, doğru gazı algıladığını veya kesme zincirinin çalıştığını göstermez. Algılayıcı, kontrol bağlantısı ve kesme elemanı, onaylı teknik kurgu ile birlikte incelenir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 42. Tesisat veya teknik mahal değişikliğinin şematik gösterimi. (Temsili çizim.)",
+      "src": "/img/makale/ygr-k042-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "revizyon-dosyasinda-hangi-kanitlar-aranir",
+      "metin": "Revizyon dosyasında hangi kanıtlar aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Belge veya kayıt",
+        "Sahada karşılaştırılacak durum"
+      ],
+      "satirlar": [
+        [
+          "Cihaz ve yakıt değişikliği",
+          "Cihaz plakası, teknik föy, eski ve yeni proje",
+          "Gerçek cihaz, kapasite ve yakıt türü"
+        ],
+        [
+          "Gaz hattı ve ana kesme",
+          "Gaz tesisatı revizyonu, kabul belgeleri",
+          "Hat güzergahı, sayaç ve vana erişimi"
+        ],
+        [
+          "Algılama ve otomatik kesme",
+          "Cihaz föyü, bağlantı şeması, yetkili test kaydı",
+          "Dedektörün yeri, kumanda ve kesme ilişkisi"
+        ],
+        [
+          "Havalandırma ve baca",
+          "Mekanik proje, servis ve bakım kayıtları",
+          "Menfezler, hava yolu, baca ve ekipman yerleşimi"
+        ],
+        [
+          "Elektrik ve işletmeye alma",
+          "Elektrik projesi, topraklama ve servis kayıtları",
+          "Ana kesici, pano, işaretleme ve işletme düzeni"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari ve mekanik projeler, gaz tesisatı kabul belgeleri, varsa revize elektrik projesi ve yapı kullanımına ilişkin izin kayıtlarıyla başlar. Kazan dairesinin projede gösterilen konumunu, kullanımını ve yangın bölmesi sınırlarını sahada karşılaştırır. Daha sonra yeni kazan, gaz hattı, sayaç, dışarıdan erişilebilen kesme donanımı, gaz algılayıcı, havalandırma açıklıkları ve baca düzeninin mevcut durumunu gözlemsel olarak kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Gaz hattının değiştiği belirtilmesine rağmen güncel kabul belgesi sunulmuyorsa, \"tesisat uygundur\" sonucu yazılmaz. Benzer biçimde, algılayıcı mevcut olduğu halde son işlev testi belgelendirilemiyorsa gözlem ile doğrulanamayan işlev birbirinden ayrılır. Örnek tespit ifadesi şöyledir: \"Kazan dairesindeki gaz algılayıcı ve kesme elemanı yerinde görülmüş, ancak revizyon sonrasına ait bağlantı şeması ve yetkili işlev testi kaydı ibraz edilmemiştir. Sistem işlevinin doğrulanması için ilgili teknik belgelerin sunulması gerekmektedir.\" Bu, gerçek bir olaya ilişkin kayıt değil, raporlama dilini gösteren örnektir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemesi, gaz kaçak testi, gaz hattına müdahale, elektriksel ölçüm, brülör ayarı veya proje onayı yerine geçmez. Bu işlemler ilgili yetkili kişi ve kuruluşların sorumluluğundadır. Uzman; yapılan işlemlerin raporlarını, onaylarını ve mevcut uygulamayla tutarlılığını değerlendirir, eksik kanıtı açıkça belirtir ve gerekli teknik incelemenin yetkili kişilerce yapılmasını önerir."
+    },
+    {
+      "tip": "h2",
+      "id": "dogalgaz-ile-lpg-ayni-kabul-edilmemeli",
+      "metin": "Doğalgaz ile LPG aynı kabul edilmemeli"
+    },
+    {
+      "tip": "p",
+      "metin": "Yakıt türünün değişmesi halinde gazın fiziksel özelliklerine bağlı algılama ve yerleşim koşulları yeniden ele alınır. Yönetmelikte LPG kullanılan kazan dairelerinin bodrum katta bulunmasına ilişkin özel yasak ve LPG ısı merkezlerinde gaz kesme düzenine ilişkin ayrı koşullar vardır. Doğalgaz için yapılmış bir düzenin LPG için de kendiliğinden uygun olduğu varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Revizyonun tamamlandığı, yalnız yeni kazanın çalışmasıyla değil; güncel proje ve kabul belgelerinin, gaz algılama-kesme zincirinin, havalandırmanın ve yetkili test-bakım kayıtlarının sahadaki gerçek durumla eşleşmesiyle değerlendirilir. Belgelenemeyen işlevler olumlu kabul yerine açık bir doğrulama ihtiyacı olarak raporlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Periyodik Kontrol Formu Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

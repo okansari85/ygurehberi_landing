@@ -3,7 +3,6 @@
 import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
 import { konuYolu } from '~/data/yguBilgi'
-import { MAKALELER } from '~/data/makaleler'
 import { VAKA_SAYFA } from '~/data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, yguKategori } from '~/data/yguBilgi'
 
@@ -35,13 +34,20 @@ const DIZIN = [
     { baslik: m.baslik, metin: `${yguKategori(m.kategori)?.ad} · ${m.ozet}`, to: `/ygu-hakkinda/${m.kategori}/${m.yol}` },
     ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: m.baslik, to: `/ygu-hakkinda/${m.kategori}/${m.yol}#${b.id}` }] : []))
   ]),
-  ...MAKALELER.flatMap((m) => [
-    { baslik: m.baslik, metin: `${m.kod} · Teknik makale · ${m.etiketler.join(', ')}`, to: `/teknik-makaleler/${m.yol}` },
-    ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: `${m.kod} · ${m.baslik}`, to: `/teknik-makaleler/${m.yol}#${b.id}` }] : []))
-  ]),
   ...SSS.liste.map((s) => ({ baslik: s.soru, metin: 'Sık sorulan sorular', to: '/sss' })),
   { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda/mevzuat' }
 ]
+
+// Teknik makaleler büyük veri: her sayfaya binmesin diye arama kutusuna ilk odaklanınca yüklenir.
+const makaleDizini = shallowRef<typeof DIZIN>([])
+async function makaleleriYukle() {
+  if (makaleDizini.value.length) return
+  const { MAKALELER } = await import('~/data/makaleler')
+  makaleDizini.value = MAKALELER.flatMap((m) => [
+    { baslik: m.baslik, metin: `${m.kod} · Teknik makale · ${m.etiketler.join(', ')}`, to: `/teknik-makaleler/${m.yol}` },
+    ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: `${m.kod} · ${m.baslik}`, to: `/teknik-makaleler/${m.yol}#${b.id}` }] : []))
+  ])
+}
 
 const kucult = (s: string) => s.toLocaleLowerCase('tr')
 const sorgu = ref('')
@@ -51,7 +57,7 @@ const sonuclar = computed(() => {
   const q = kucult(sorgu.value.trim())
   if (q.length < 2) return []
   const kelimeler = q.split(/\s+/)
-  return DIZIN.filter((d) => {
+  return [...DIZIN, ...makaleDizini.value].filter((d) => {
     const t = kucult(`${d.baslik} ${d.metin}`)
     return kelimeler.every((k) => t.includes(k))
   }).slice(0, 7)
@@ -71,7 +77,7 @@ function gonder() {
     <input
       id="site-arama" ref="girdi" v-model="sorgu" type="search" autocomplete="off"
       placeholder="Aradığınız konu, mevzuat, yapı türü veya terimi yazın..."
-      @focus="odak = true" @blur="odak = false"
+      @focus="odak = true; makaleleriYukle()" @blur="odak = false"
     >
     <button type="submit" class="btn btn-amber">Ara <Ikon ad="ara" /></button>
     <ul v-if="odak && sorgu.trim().length >= 2" class="arama-sonuc">

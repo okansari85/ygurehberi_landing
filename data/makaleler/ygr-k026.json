@@ -1,0 +1,131 @@
+{
+  "kod": "YGR-K026",
+  "yol": "kacis-uzakligi-hangi-noktadan-hangi-noktaya-olculur",
+  "baslik": "Kaçış uzaklığı hangi noktadan hangi noktaya ölçülür?",
+  "ozet": "Kaçış uzaklığı, bir mekandaki en uzak kullanılabilir noktadan en yakın kat çıkışına ulaşmak için izlenmesi gereken yürüme yolunun uzunluğudur. Bu nedenle ölçünün yalnızca sayısal sonucu değil; nereden başladığı, hangi çıkışta bittiği ve hangi güzergahı izlediği de denetlenebilir olmalıdır.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "baslangic-ve-bitis-noktasinin-belirlenmesi",
+      "metin": "Başlangıç ve bitiş noktasının belirlenmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), kaçış uzaklığı için mekanda durulabilen en uzak noktayı esas alır. Ölçümün başlangıcı, mekanı çevreleyen duvarlardan 40 cm önde alınır. Bitiş noktası ise her kapı değil, ilgili hüküm bakımından kat çıkışı niteliğindeki noktadır. Bir iç kapıya kadar ölçülen mesafe, o kapı gerçek bir kat çıkışı değilse tek başına kaçış uzaklığını göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Konutlar, konaklama yapıları ve yatay tahliye düzeni bulunan yapılar için özel başlangıç veya bitiş kuralları bulunabilir. Bu nedenle önce yapının kullanım sınıfı, katın işlevi ve uygulanacak özel hüküm belirlenir; ardından ölçü çizgisi oluşturulur."
+    },
+    {
+      "tip": "h2",
+      "id": "cetvelle-cizilen-duz-hat-neden-yeterli-olmayabilir",
+      "metin": "Cetvelle çizilen düz hat neden yeterli olmayabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış güzergahı, kişinin gerçekten kullanabileceği sürekli bir hareket hattını temsil etmelidir. Raf, sabit makine, bölme duvar, kapalı geçiş veya sonradan eklenen depolama alanı, planda kısa görünen yolu uzatabilir ya da kullanılamaz hale getirebilir. Projede gösterilen kaçış hattı ile işletmenin güncel yerleşimi bu yüzden birlikte incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki yönetmelikte, odalara ve koridorlara ayrılmış büyük alanlı katlar için belirli koşullarda doğrudan uzaklığa ilişkin özel bir kabul vardır. Bu hüküm, her mahalde kuş uçuşu ölçüm yapılabileceği anlamına gelmez. Yeni BYKHY taslağında aynı konu farklı bir plan düzeni üzerinden ele alınmıştır; taslaktaki yaklaşım yürürlükteki hesabın yerine kullanılamaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 26. Başlangıç, izlenen güzergah ve ilgili çıkışın şematik gösterimi. Eski taslaktaki özgün çizim korunmuştur; gerçek bir yapının ölçüm paftası değildir.",
+      "src": "/img/makale/ygr-k026-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "tek-yonlu-ve-iki-yonlu-kacisin-ayrilmasi",
+      "metin": "Tek yönlü ve iki yönlü kaçışın ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir noktadan iki farklı çıkışa erişilebilmesi, güzergahın her bölümünün iki yönlü olduğu anlamına gelmez. Tek yönde ilerlenmesi zorunlu bölüm ile alternatif çıkışlara ayrılma noktası plan üzerinde ayrı gösterilir. İzin verilen uzaklık, BYKHY Ek-5/B tablosunda kullanım sınıfına ve yağmurlama sistemi durumuna göre belirlenir. Kılavuzdaki örnek kat için verilen mesafeler, farklı bir depo veya üretim alanına doğrudan taşınmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasinda-hangi-kanitlar-aranir",
+      "metin": "Belge ve saha karşılaştırmasında hangi kanıtlar aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Ölçü nereden başlıyor?",
+          "Ölçülü kat planı, mahal kullanımı",
+          "En uzak kullanılabilir nokta ve duvar payı belirlenir."
+        ],
+        [
+          "Hangi noktada bitiyor?",
+          "Onaylı tahliye projesi, çıkış planı",
+          "Kapının ilgili kat çıkışı işlevi doğrulanır."
+        ],
+        [
+          "Güzergah açık mı?",
+          "Güncel raf/makine planı, saha gözlemi",
+          "Yürünebilir yol ve engeller projeyle karşılaştırılır."
+        ],
+        [
+          "Kaçış yönü hangisi?",
+          "Koridor bağlantıları, alternatif çıkışlar",
+          "Tek ve iki yönlü bölümler ayrı değerlendirilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izni, onaylı mimari ve tahliye projeleri ile varsa tadilat ve önceki kontrol kayıtlarını karşılaştırarak başlar. İncelenen katta fiili faaliyet, kullanıcıların kullandığı mahaller, raf ve makine yerleşimi ile kapıların erişilebilirliği gözlemlenir. Özellikle sonradan kurulan ekipmanların kaçış yolunu değiştirdiği yerler, proje üzerindeki başlangıç ve bitiş noktalarıyla eşleştirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede açık görünen geçişin sahada sabit istifle kapatılması halinde bulgu, konumu ve gözlenen etkisiyle kayıt altına alınır. Geçerli ölçüm paftası güncel yerleşimi göstermiyorsa revize teknik değerlendirme ve gerekli yetkili proje incelemesi istenir. Sırf bir engel görüldü diye kaçış uzaklığının mevzuat sınırını aştığı sonucuna varılmaz; bu sonuç ancak uygulanabilir hüküm ve doğrulanmış mesafe birlikte değerlendirildiğinde kurulabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU tarafından yapılan gözlemsel karşılaştırma ve gerekçeli raporlama, ilgili meslek mensuplarının proje hazırlama, hesaplama, ölçüm raporu düzenleme veya idari onay yetkilerinin yerine geçmez. Taslakta öngörülen periyodik kontrol yaklaşımı da onaylı projenin mevzuata uygunluğunu yeniden tasarlama görevi olarak yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Sağlıklı bir kaçış uzaklığı değerlendirmesi; doğru başlangıç, doğru kat çıkışı, kullanılabilir güzergah ve yapıya özgü mevzuat sınırının aynı paftada izlenmesine dayanır. Güncel işletme yerleşimi ile onaylı proje arasındaki fark açıkça kaydedildiğinde, hem teknik inceleme hem de gerekli düzeltme süreci somut kanıta bağlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

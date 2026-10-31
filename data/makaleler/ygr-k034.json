@@ -1,0 +1,123 @@
+{
+  "kod": "YGR-K034",
+  "yol": "yangin-guvenlik-holunun-islevi-proje-ve-sahada-nasil-karsilastirilir",
+  "baslik": "Yangın güvenlik holünün işlevi proje ve sahada nasıl karşılaştırılır?",
+  "ozet": "Yangın güvenlik holü, yalnızca iki kapı arasındaki boşluk değildir. Merdivene ulaşan kaçış yolunu koruyan, dumanın geçişini sınırlamaya yardımcı olan ve gerektiğinde müdahale ile tahliye sırasında kullanılabilen bir hacimdir. Projede adı yazılı olsa bile sahadaki kullanım ve ayırıcı elemanlar bu işlevi bozmuş olabilir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "holun-islevi-ve-hangi-belgede-aranacagi",
+      "metin": "Holün işlevi ve hangi belgede aranacağı"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, holün neden öngörüldüğünü belirlemekle başlar. Onaylı mimari ve yangın tahliye projelerinde merdiven, koridor, asansör, hol ve kapıların ilişkisi birlikte okunur. Yapı ruhsatı, yapı kullanma izin belgesi, kullanım türü ve yükseklik bilgileriyle projedeki çözümün hangi yapı koşulları için seçildiği karşılaştırılır. Her merdivenin önünde aynı tür holün zorunlu olduğu varsayılamaz; özel bina kullanımları ve bodrum kat bağlantıları da ayrıca değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın güvenlik holünün ayırıcı duvarı için en az 120 dakika, duman sızdırmaz kapısı için en az 90 dakika yangına dayanım öngörür. Genel hol için 3–6 m² taban alanı ve kaçış yönünde en az 1,8 m boyut; acil durum asansörü önündeki hol için 6–10 m² alan ve her yönde en az 2 m boyut koşulları ayrı değerlendirilir. Bu değerler projedeki tasarımın ve teknik belgelerin incelenmesine esas alınır; görsel inceleme tek başına boyut veya dayanım doğrulaması değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "projede-korunan-sahada-depoya-donusen-hol",
+      "metin": "Projede korunan, sahada depoya dönüşen hol"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı planda merdiven önünde yangın güvenlik holü gösterilen bir katta, alanın sonradan temizlik arabası, dolap veya koli bekletmek için kullanıldığını düşünelim. Bu, yaşanmış bir olaya ilişkin iddia değil, tipik bir saha değerlendirme örneğidir. Kapı kanadının açılması zorlaşmış, serbest geçiş alanı daralmış veya kapı kendiliğinden kapanamaz duruma gelmişse yalnız eşyanın varlığı değil, kaçış ve korunma işlevindeki değişiklik kayda geçirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 34. Eski taslaktan korunan temsili geçiş şeması. Şemadaki hacmin yangın güvenlik holü olarak kabulü, onaylı projedeki tanıma ve teknik ayrıntılara bağlıdır.",
+      "src": "/img/makale/ygr-k034-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-saha-karsilastirmasinda-kanit-zinciri",
+      "metin": "Proje ile saha karşılaştırmasında kanıt zinciri"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Aranacak kanıt",
+        "Değerlendirme yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "İşlev ve yerleşim",
+          "Onaylı kat planı, tahliye projesi, kullanım ve izin bilgileri",
+          "Holün merdiven ve asansörle bağlantısını, hangi gerekçeyle tasarlandığını belirle."
+        ],
+        [
+          "Ayırıcı sınırlar ve kapılar",
+          "Kapı takımı performans belgeleri, duvar detayı, uygulama kayıtları",
+          "Kapının, kasanın, duvarın ve birleşimlerin belgelenen sistemle uyumunu sorgula."
+        ],
+        [
+          "Serbest kullanım ve geçiş",
+          "Saha fotoğrafları, kapı hareketi ve eşya yerleşimi gözlemi",
+          "Depolama, takozla açık bırakma veya geçişi daraltma gibi bulguları konumuyla kaydet."
+        ],
+        [
+          "Boyut ve teknik sistemler",
+          "Proje ölçüleri, yetkili teknik ölçüm/test raporları, mekanik proje",
+          "Görünür farklılığı belgeyle karşılaştır; gerekli ölçüm ve testleri yetkili uzmanlığa yönlendir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce onaylı projedeki holün yerini ve niteliğini belirler; sonra yerinde kapıların kapanmasını, geçiş güzergahını, depolama durumunu ve görünür uygulama farklılıklarını gözlemsel olarak inceler. Yangın kapısının etiketini görmek, kapı takımının duvarla birleşiminin veya holün tamamının uygun olduğunu kanıtlamaz. Uygunluk değerlendirmesi, mevcut teknik belgeler ve proje-saha karşılaştırmasıyla gerekçelendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Holde yeni bir tesisat geçişi, değiştirilen kapı, farklı duvar uygulaması veya basınçlandırma bağlantısı görülürse ilgili mimari, mekanik veya diğer teknik proje ile test/muayene kayıtları istenir. Yangın Güvenlik Uzmanı (YGU), gözlemsel bulguyu ve eksik kanıtı raporlar; uzmanlık ve yetki gerektiren ölçümü, yangın dayanımı testini, sistem tasarımını, proje revizyonunu veya resmi onayı kendiliğinden üstlenmez. Bunlar ilgili yetkili teknik kişi ve mercilerin sorumluluğundadır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-taslak-onerisinin-ayrilmasi",
+      "metin": "Yürürlükteki hüküm ile taslak önerisinin ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede acil durum asansörü ile yapı yüksekliği 51,50 m’den fazla olan binalar için kaçış merdiveni önünde yangın güvenlik holü zorunluluğu yer alır. İncelenen yeni BYKHY taslağı ise bu zorunluluğun bağlandığı yükseklik tanımını ve eşiğini farklı önerir. Taslaktaki düzenleme, yayımlanıp yürürlüğe girmedikçe mevcut yapı hakkında bağlayıcı kararın dayanağı olamaz. Yangın Güvenlik Uzmanlığına ilişkin ayrı taslakta tarif edilen kontrol ve raporlama süreçleri de yürürlükteki yetkilerin yerine geçirilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yangın güvenlik holünün varlığı, planda bir oda adının bulunmasından ibaret değildir. Holün neden tasarlandığı, hangi koruma sınırlarıyla kurulduğu, kapıların ve bağlantıların sahada nasıl çalıştığı ve alanın gerçekten boş tutulup tutulmadığı birlikte değerlendirilmelidir. İşletme kaynaklı engel ile projeye veya teknik uygulamaya ilişkin sorun ayrı bulgu olarak yazılmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

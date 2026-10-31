@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K027",
+  "yol": "kullanici-yuku-proje-ve-sahada-nasil-karsilastirilir",
+  "baslik": "Kullanıcı yükü proje ve sahada nasıl karşılaştırılır?",
+  "ozet": "Kullanıcı yükü, bir binada veya belirli bir bölümünde herhangi bir anda bulunması beklenen insan sayısıyla ilgilidir. Yangın güvenliği açısından belirleyici olan, yalnız işletmenin bildirdiği çalışan sayısı değil; mahallerin kullanım amacı, hesapta esas alınan alan, mevzuattaki kullanıcı yükü katsayısı ve eşzamanlı kullanım düzenidir. Proje hesabı ile sahadaki fiili kullanım birbirinden ayrılmadan kaçış kapasitesi hakkında sağlıklı karar verilemez.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-projenin-kabul-ettigi-kullanim-belirlenir",
+      "metin": "Önce projenin kabul ettiği kullanım belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, onaylı mimari ve tahliye projelerindeki mahal adları, alanlar, kullanım türleri, kişi yükü hesabı ve çıkış düzeniyle başlar. Yapı ruhsatı, yapı kullanma izin belgesi ve varsa kullanım değişikliği veya tadilat belgeleri birlikte okunur. Plandaki “ofis” etiketi, bugün toplantı veya etkinlik salonu olarak kullanılan bir mahali tek başına açıklamaz. Değişikliğin kapsamı ve hangi belgeyle onaylandığı ayrıca araştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir katın kullanıcı yükü, bütün bina için bildirilen toplam personel sayısının katlara eşit dağıtılmasıyla bulunmaz. Farklı işlevli mahaller ayrı değerlendirilir; ortak kullanılan çıkışların hangi kat ve mahallere hizmet ettiği ayrıca gösterilir. Aynı anda kullanılmayan yardımcı mahaller için yönetmelikteki koşullu istisna, her projede otomatik uygulanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "alan-ve-katsayi-secimi-sonucu-degistirir",
+      "metin": "Alan ve katsayı seçimi sonucu değiştirir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kaçış hesabında Ek-5/A kullanıcı yükü katsayılarını esas alır. Tablonun ilk dört satırındaki kullanım alanlarında net alan, diğer satırlarda brüt alan kullanılır. Kişi sayısı belirli bir mahalde, tablodan hesaplanan değerden daha düşük bir kişi sayısı kabul edilmez. Bu nedenle alanın hangi tanımla ölçüldüğü, mahalin hangi satıra girdiği ve bilinen kullanım kapasitesi hesap dosyasında açık olmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili hesap: Brüt alanı 120 m² olan bir ofiste yürürlükteki tabloda ofisler için verilen 10 m²/kişi katsayısı kullanılırsa hesap sonucu 12 kişidir. Ancak bu mahalin belgelendirilmiş kullanım kapasitesi 18 kişi ise değerlendirmede 12 kişiye düşülmez. Bu örnek, tek başına kapı veya merdiven yetersizliği hükmü oluşturmaz; ilgili katın toplam yükü ve çıkış sistemi ayrıca incelenir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 27. Projede öngörülen kapasite ile fiili eşzamanlı kullanımın ayrı kaydedilmesi. (Temsili şema.)",
+      "src": "/img/makale/ygr-k027-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "karsilastirmada-uc-veri-birbirine-karistirilmaz",
+      "metin": "Karşılaştırmada üç veri birbirine karıştırılmaz"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme dosyasında üç ayrı değer tutulur: onaylı projede kabul edilen kullanıcı yükü, güncel kullanım için yürürlükteki yöntemle yeniden belirlenmesi gereken kullanıcı yükü ve işletmenin belirli bir senaryosundaki fiili eşzamanlı kişi sayısı. Bunlar her zaman aynı çıkmaz. Özellikle vardiya değişimleri, ziyaretçiler, toplantılar ve salon yerleşimindeki değişiklikler günlük ortalama kişi sayısına bakılarak göz ardı edilmemelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kanıt",
+        "Değerlendirmede dikkat edilecek nokta"
+      ],
+      "satirlar": [
+        [
+          "Mahalin gerçek işlevi nedir?",
+          "Onaylı plan, kullanım izni, güncel yerleşim ve işletme kayıtları",
+          "Oda adını değil, belgeli ve gözlenen işlevi karşılaştır."
+        ],
+        [
+          "Hangi alan ve katsayı kullanılmış?",
+          "Mahal alan cetveli, net/brüt ayrımı ve kullanıcı yükü hesabı",
+          "Doğru tablo satırını ve yürürlükteki alan esasını doğrula."
+        ],
+        [
+          "Çıkışlar hangi kullanıcı yükünü taşıyor?",
+          "Kat bazlı hesap, çıkış dağılımı, kapı ve merdiven çizimleri",
+          "Ortak yolların hizmet verdiği kat ve mahalleri birlikte incele."
+        ],
+        [
+          "Fiili yoğunluk projeden farklı mı?",
+          "Vardiya çizelgesi, oturma planı, etkinlik düzeni ve saha gözlemi",
+          "Farkı kayıt altına al; kapasite yetersizliğini hesapsız ilan etme."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "farkin-kacis-duzenine-etkisi-nasil-incelenir",
+      "metin": "Farkın kaçış düzenine etkisi nasıl incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Güncel kullanımın gerektirdiği yük belirlendikten sonra, aynı katta bulunan çıkış sayısı ve konumları, kaçış yollarının sürekliliği, kapı ve koridorların kullanılabilir temiz genişlikleri ile merdivenlerin hizmet verdiği katlar değerlendirilir. Kullanıcı yükü, kaçış uzaklığı ve çıkış kapasitesi birbirinden bağımsız üç kontrol değildir. Özellikle ortak koridor ve merdivenlerde, hangi yükün hangi yoldan tahliye edileceği proje üzerinde izlenebilir olmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Projede 12 kişi kabul edilmiş bir ofiste artık 18 kişilik kullanım bulunması, tek başına “kaçış yetersiz” demek için yeterli değildir. Önce hesap ve onay durumu netleştirilir; ardından çıkışların yeni yükü karşılayıp karşılamadığı ilgili teknik disiplinin hesabıyla değerlendirilir. Buna karşılık kullanıcı sayısı belirsizken mevcut çıkışların yeterli olduğu da varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-metin-ile-taslak-ayni-degildir",
+      "metin": "Yürürlükteki metin ile taslak aynı değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağında kullanıcı yükü tablosunun bazı satırları ve alan hesabına ilişkin ifade yürürlükteki düzenlemeden farklıdır. Taslakta genel olarak net alan üzerinden hesap öngörülmesi, bugün yürürlükte olan ilk dört satırda net, diğer satırlarda brüt alan ayrımını ortadan kaldırmaz. Taslak hükümleri yürürlüğe girmedikçe mevcut hesapların yerine geçirilemez; her değerlendirmede uygulanan mevzuat sürümü belirtilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendisine verilen kontrolün kapsamı içinde önce yapının onaylı projelerini, izinlerini, varsa tadilat belgelerini ve önceki yangın güvenliği raporlarını inceler. Sahada mahalin gerçek kullanımını, oturma veya çalışma düzenini, aynı anda bulunabilecek kişileri etkileyen işletme koşullarını ve çıkışlara erişimi gözlemler. Projedeki mahal işleviyle güncel kullanım arasında fark varsa bunu kat ve mahal bazında açıkça gösterir; belge eksikliği ile gözlenen fiziksel uygunsuzluğu aynı şeymiş gibi yazmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, proje ile saha arasındaki uyumsuzluğu ve eksik kanıtı gerekçeli olarak raporlar; yetki ve mesleki yeterlilik sınırlarını aşan mimari yeniden tasarım, hesap onayı veya başka disiplinlere ait teknik ölçüm ve testleri kendi kontrolünün sonucu gibi sunmaz. Güncel kullanım için yeni kaçış kapasitesi hesabı veya proje revizyonu gerekiyorsa bunun yetkili proje müellifi ve ilgili idare sürecinde ele alınmasını ister. Gözlem, belgelendirilmiş hesap ve yetkili onay birbirinin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-raporlama-ve-sonuc",
+      "metin": "Gerekçeli raporlama ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek tespit dili: “İncelenen katın onaylı projede belirtilen kullanım düzeni ile yerinde gözlenen kullanım biçimi farklıdır. Güncel mahal kullanımına göre hazırlanmış kullanıcı yükü hesabı ve buna bağlı çıkış kapasitesi karşılaştırması sunulmadığından, mevcut kaçış düzeninin değişen kullanım koşullarındaki yeterliliği bu incelemede doğrulanamamıştır.” Bu ifade bir saha tespiti örneğidir; gerçekleşmiş bir olaya ait değildir ve hesap yapılmadan kesin uygunsuzluk kararı verildiği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak kullanıcı yükü; çalışan sayısı, masa adedi veya günlük ziyaretçi ortalamasıyla eş tutulamaz. Doğru karar, yürürlükteki hesap yöntemiyle belirlenen yükün onaylı proje, gerçek kullanım ve kaçış kapasitesiyle birlikte karşılaştırılmasına dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

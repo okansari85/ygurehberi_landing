@@ -1,0 +1,139 @@
+{
+  "kod": "YGR-K053",
+  "yol": "otomatik-yangin-algilamasi-gereksinimi-hangi-bina-bilgilerine-baglidir",
+  "baslik": "Otomatik yangın algılaması gereksinimi hangi bina bilgilerine bağlıdır?",
+  "ozet": "Bir binada otomatik yangın algılama sisteminin gerekli olup olmadığı, binanın tabelasına veya mevcut dedektör sayısına bakılarak kararlaştırılamaz. Önce yapının hangi amaçlarla kullanıldığı, ruhsat ve projelerinde nasıl tanımlandığı, yapı yüksekliği ile alan bilgilerinin ne olduğu belirlenir. Ardından bu veriler yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) ve uygulanabilir hükümleriyle karşılaştırılır.",
+  "etiketler": [
+    "Yangın Alarmı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "gereklilik-karari-icin-hangi-bilgiler-toplanir",
+      "metin": "Gereklilik kararı için hangi bilgiler toplanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk belge seti yapı ruhsatı, yapı kullanma izin belgesi, onaylı mimari projeler ve varsa kullanım değişikliğine ilişkin izinlerdir. Kat planı ve kesitler üzerinden kullanım sınıfı, yapı yüksekliği, kat sayısı ve toplam kapalı alan kontrol edilir. Yerinde incelemede ise bu kayıtların güncel işletme faaliyetini yansıtıp yansıtmadığına bakılır. Özellikle farklı işlevlerin bir arada bulunduğu yapılarda yalnız baskın kullanımın esas alınması, bazı mahalleri değerlendirme dışında bırakabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin otomatik algılamaya ilişkin düzenlemesi, yapı yüksekliği veya toplam kapalı alanın ilgili eşikleri aşmasına bağlanan hükümler içerir. Bu nedenle “yükseklik” denildiğinde bina yüksekliği ile yapı yüksekliğinin karıştırılmaması; “alan” denildiğinde de tablonun kullandığı alan tanımının proje verileriyle eşleştirilmesi gerekir. Yanlış ölçüt seçilirse, doğru sayısal veri kullanılsa bile yanlış sonuca ulaşılabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "ek-7-tablosunu-okurken-iki-kritik-ayrinti",
+      "metin": "Ek-7 tablosunu okurken iki kritik ayrıntı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY’nin otomatik algılama gerekliliğine ilişkin hükmü ve Ek-7 tablosu birlikte okunmalıdır. Bakanlığın Kılavuzunda, Danıştay kararıyla Ek-7’nin kurum binaları, ticaret amaçlı binalar, endüstriyel yapılar ve toplanma amaçlı binalara ilişkin bazı satırlarının iptal edildiği açıkça belirtilir. İptal edilmiş satırı halen yürürlükteymiş gibi uygulamak doğru değildir. Bununla birlikte bu durum, aynı yapıda başka bir hükümden doğabilecek algılama veya uyarı yükümlülüğünün bulunmadığı anlamına da gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca Bakanlık Kılavuzunun açıklama tablosunda büro binaları için görülen 21,50 m değeri ile aynı Kılavuzun Ek-7 metnindeki 30,50 m değeri farklıdır. Bir değerlendirmede açıklama tablosundaki sayıyı tek başına alıp kesin hüküm kurmak yerine yürürlükteki ek metni, ilgili maddeyi ve varsa yargı kararlarını birlikte doğrulamak gerekir. Kılavuz uygulamayı açıklar; mevzuatın yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında ise otomatik algılama için farklı eşikler ve kullanım satırları önerilmektedir. Bu öneriler mevcut yükümlülük olarak uygulanamaz. Özellikle taslakta yeniden düzenlenen kullanım kategorileri, yürürlükteki Ek-7’nin iptal edilmiş satırlarını kendiliğinden geri getirmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 53. Kullanım, yükseklik ve alan bilgilerinden ilgili gereklilik satırına ulaşma sırası. (Eski taslağın özgün teknik şeması.)",
+      "src": "/img/makale/ygr-k053-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "gereklilik-ile-mevcut-sistemin-yeterliligi-ayri-sorulardir",
+      "metin": "Gereklilik ile mevcut sistemin yeterliliği ayrı sorulardır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binada yangın alarm panelinin bulunması, otomatik algılama gerekliliğinin doğru değerlendirildiğini veya koruma kapsamının yeterli olduğunu göstermez. Önce hangi bina bölümleri için hangi hükmün uygulanacağı belirlenir. Sonra onaylı algılama projesindeki dedektörler, yangın uyarı butonları, panel ve alarm bölgeleri ile sahadaki gerçek yerleşim karşılaştırılır. Cihaz tipinin seçimi, dedektör aralıkları, kablolama ve işlev testleri ise ilgili teknik standartlara ve yetkili uzmanlık çalışmalarına dayanan ayrı bir değerlendirmedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin konaklama amacıyla kullanılan katların altında restoran bulunan bir yapıda, her mahalin fiili işlevi ve ortak alarm sistemine bağlantısı ayrı kayda alınmalıdır. Restoranın varlığı tek başına tüm bina için otomatik algılama zorunluluğu sonucunu doğurmaz; ancak mevcut proje ve işletme koşullarının yeniden değerlendirilmesini gerektirebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasinda-kontrol-edilecek-kanitlar",
+      "metin": "Proje ve saha karşılaştırmasında kontrol edilecek kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Belge / kanıt",
+        "İnceleme çıktısı"
+      ],
+      "satirlar": [
+        [
+          "Kullanım sınıfı ve değişiklikler",
+          "Ruhsat, kullanım izni, onaylı mimari plan, işletme faaliyet bilgisi",
+          "Ruhsatlı ve fiili kullanım arasındaki farkı, etkilenen mahalleri kaydet."
+        ],
+        [
+          "Yükseklik ve alan",
+          "Onaylı kesit, kat planı, alan cetveli",
+          "İlgili hükmün istediği yapı yüksekliği ve alan tanımını doğrula."
+        ],
+        [
+          "Uygulanacak gereklilik",
+          "Güncel BYKHY, yürürlükteki Ek-7, ilgili özel hükümler",
+          "İptal edilen satırları ayıkla; kararın dayandığı hükmü ve varsa istisnayı göster."
+        ],
+        [
+          "Mevcut sistemin kapsamı",
+          "Onaylı algılama projesi, cihaz listesi, bakım ve test raporları",
+          "Projedeki koruma alanlarıyla sahadaki dedektör ve uyarı bileşenlerini eşleştir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı projeler ve kullanım izinleriyle başlar; binanın gerçek kullanımını, varsa tadilatları ve işletmenin güncel koşullarını bunlarla karşılaştırır. Algılama gerekliliğini belirleyen alan ve yükseklik bilgileri tutarsızsa bunu gerekçesiyle kaydeder; doğrulanmamış veriler üzerinden kesin uygunluk kararı vermez. İlgili yönetmelik hükmünün hangi kullanım ve yapı özelliklerine uygulandığını açıkça gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada algılama cihazlarının bulunup bulunmadığı, görünür fiziki durumu ve proje yerleşimiyle ilişkisi gözlemsel olarak incelenebilir. Sistem bakım, test ve devreye alma raporları istenir; kayıtların kapsadığı mahaller ve tarihleri değerlendirilir. Ancak dedektör yerleşimini yeniden tasarlamak, mühendislik hesaplarını onaylamak veya yetkili kişilerce yapılması gereken ölçüm ve işlev testlerini bizzat üstlenmek bu incelemenin doğal sonucu değildir. Bu tür gereksinimler ilgili yetkinlikteki proje müellifi veya yetkili teknik kuruluşun çalışmasına yönlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporlama dilinde “algılama sistemi yoktur, mevzuata aykırıdır” gibi bağlamdan kopuk ifadeler yerine, kullanım ve yapı verilerinin hangi hükümle karşılaştırıldığı; hangi belge veya saha bulgusunun eksik kaldığı; hangi teknik doğrulamanın istendiği yazılır. Böylece gözlemsel tespit, belge eksikliği ve mevzuata dayalı sonuç birbirine karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Otomatik yangın algılaması kararı bir cihaz sayımı değil, bina verileriyle mevzuatın eşleştirilmesidir. Doğru kullanım sınıfı, doğru yükseklik ve alan tanımı, yürürlükteki tablo ile özel hükümler birlikte ele alındığında karar gerekçelendirilebilir; mevcut sistemin teknik yeterliliği ise bundan sonra ayrı kanıtlarla değerlendirilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

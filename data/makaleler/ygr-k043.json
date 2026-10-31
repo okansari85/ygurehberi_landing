@@ -1,0 +1,133 @@
+{
+  "kod": "YGR-K043",
+  "yol": "yakit-tankinin-bina-icindeki-konumu-nasil-degerlendirilmeli",
+  "baslik": "Yakıt tankının bina içindeki konumu nasıl değerlendirilmeli?",
+  "ozet": "Bina içindeki bir yakıt tankının uygunluğu, yalnız tankın hacmine veya teknik odaya sığıp sığmadığına bakılarak belirlenemez. Yakıtın türü, kullanım amacı, depolama miktarı ve tankın komşu mahallerle ilişkisi birlikte değerlendirilmelidir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Özellikle kazan dairesine yakın bir alana yeni sıvı yakıt tankı yerleştirildiğinde, onaylı projede öngörülen mahal ayrımı, havalandırma ve sızıntı kontrolü düzeninin sahada korunup korunmadığı sorulmalıdır. Tankın ürün belgesi ile bulunduğu yerin yangın güvenliği koşulları aynı kanıt değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yakit-turu-ve-depolama-amaci-konumu-belirler",
+      "metin": "Yakıt türü ve depolama amacı konumu belirler"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, yakıt depolarının yangına dayanıklı bölmelerle korunmasını; yakıt deposu ile kazan dairesi arasında 120 dakika yangına dayanıklı ayrım, yeterli havalandırma ve tank kapasitesinin en az üçte birini alacak havuzlama öngörür. Kalorifer yakıtı olarak kullanılan sıvı yakıtlarda depolama biçimi ve konumu, 1.000, 3.000 ve 40.000 litre sınırlarına göre farklılaşır. Bu seçenekler değerlendirilirken yakıtın gerçekten hangi amaçla kullanıldığı belgelenmelidir; her parlayıcı sıvı deposu otomatik olarak kalorifer yakıtı deposu sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "mahalin-siniri-ve-sizintinin-tutulacagi-alan",
+      "metin": "Mahalin sınırı ve sızıntının tutulacağı alan"
+    },
+    {
+      "tip": "p",
+      "metin": "Tankın ayrı bir mahalde gösterilmesi tek başına yeterli değildir. Duvar ve kapıların projedeki yangın ayrımını sürdürmesi, havalandırma çözümü, dolum ve havalık hatları ile havuzlamanın sürekliliği birlikte incelenir. Merdiven altı, merdiven boşluğu, mutfak, banyo ve yatak odası gibi yasak konumlar da yerleşim planında kontrol edilir. Şekil, tankın çevresindeki koruma alanını kavramsal olarak gösterir; uygulama projesinin yerine geçmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 43. Yakıt tankı, havuzlama ve mahal ayrımının şematik ilişkisi. (Temsili çizim.)",
+      "src": "/img/makale/ygr-k043-1.png"
+    },
+    {
+      "tip": "p",
+      "metin": "Proje–saha karşılaştırmasında aranacak kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Belge / kanıt",
+        "Sahada karşılaştırma"
+      ],
+      "satirlar": [
+        [
+          "Yakıt ve kapasite",
+          "Onaylı mekanik proje, tank etiketi, envanter",
+          "Kullanım amacı ve fiili miktar"
+        ],
+        [
+          "Mahalin konumu",
+          "Mimari plan, kesit, yangın ayrımı detayı",
+          "Kazan dairesi, komşu mahal ve kaçış yolu"
+        ],
+        [
+          "Havalandırma ve havuzlama",
+          "Tesisat projesi, detay ve varsa teknik rapor",
+          "Açıklıklar, geçişler ve sızıntı yolları"
+        ],
+        [
+          "Değişiklik ve bakım",
+          "Revize proje, kabul, bakım ve test kayıtları",
+          "Belge tarihi ile mevcut uygulamanın uyumu"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, yapı ruhsatı ve yapı kullanma izniyle ilişkili onaylı mimari ve mekanik projelerden başlar. Tank etiketi ve işletme envanteriyle yakıt türü ve kapasite belirlenir; plan ve kesit üzerinden tankın gerçek katı, kazan dairesiyle sınırı ve komşu kullanımlar eşleştirilir. Saha gözlemi, projede bulunmayan yeni boru geçişlerini, kapıları veya havuzlama içindeki açıklıkları ortaya çıkarabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelikte kalorifer yakıtı için belirtilen 40.000 litreye kadar bina içi çözüm, bodrum kat ve yangına dayanıklı kagir oda gibi özel koşullara bağlıdır. Daha yüksek stok ihtiyacında ayrı bina çözümü gündeme gelir. Kat kaloriferine ait depolar ve günlük yakıt depoları için de ayrıca düzenlenmiş sınırlar vardır. Bu nedenle yalnız “tank 40.000 litrenin altında” gerekçesiyle her konum uygun kabul edilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek gerekçeli tespit: “Tankın mevcut konumu ve kapasite etiketi görülmüştür. Ancak güncel onaylı yerleşim kesiti ile havuzlama detayının sunulmaması nedeniyle mahal ayrımı ve sızıntı tutma çözümünün projeye uygunluğu doğrulanamamıştır.” Bu ifade bir gerçekleşmiş olaya değil, rapor diline örnektir."
+    },
+    {
+      "tip": "p",
+      "metin": "Akaryakıt tankının metal bölümlerinin statik elektriğe karşı topraklanması da ilgili mevzuatın konusudur. Topraklama, sızdırmazlık veya havuzlama hacmi hakkında kesin uygunluk kararı, yalnız fotoğrafa ya da gözlemsel değerlendirmeye dayandırılmamalıdır; gerekli teknik ölçüm ve raporlar yetkili kişilerden istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının izin ve onaylı proje dosyasındaki yakıt deposu konumunu belirler. Ardından işletmede kullanılan yakıtı, fiili tank sayısını, tankların etiketlerini ve mahallerin güncel kullanımını inceler. Projedeki tank yeri ile sahadaki yerleşimi karşılaştırırken kazan dairesi bağlantısını, kaçış güzergahlarını, havalandırma açıklıklarını, dolum noktasını ve havuzlama sınırını kayıt altına alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel incelemede sızıntı izi, engellenmiş erişim, sonradan açılmış tesisat geçişi veya farklı amaçla kullanılan komşu bir alan görülürse, bunların yerini fotoğraf ve plan üzerinde tarif eder. Tespitini ilgili yönetmelik hükmü, onaylı proje detayı ve sunulan teknik kayıtla ilişkilendirir. Belge eksikse “uygun” ya da “uygunsuz” sonucunu gerekçesiz ilan etmek yerine doğrulanamayan hususu açıkça yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "Tank ve havuzlama kapasitesinin mühendislik hesabı, tesisat tasarımı, sızdırmazlık deneyi, topraklama ölçümü ve proje onayı ilgili yetkili uzmanların sorumluluğundadır. YGU bu işlemleri kendiliğinden üstlenmez; hazırlanmış proje, kabul, bakım ve test belgelerinin sahadaki durumla tutarlılığını değerlendirir. Yeni düzenleme önerisi gerekiyorsa yetkili tasarım ve onay sürecine yönlendirir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yakıt tankının bina içindeki yeri, yakıt türü ve miktarı kadar mahallin korunma biçimiyle de ilgilidir. Güvenilir bir değerlendirme; onaylı proje, fiili kullanım, gözlemsel bulgu ve yetkili teknik raporları aynı dosyada buluşturur. Tankın yerinin değişmediği durumlarda bile çevresindeki tadilatlar bu karşılaştırmayı gerekli kılabilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

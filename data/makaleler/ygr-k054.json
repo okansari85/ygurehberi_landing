@@ -1,0 +1,155 @@
+{
+  "kod": "YGR-K054",
+  "yol": "yangin-alarm-paneli-hangi-kayitlarla-kontrol-edilir",
+  "baslik": "Yangın alarm paneli hangi kayıtlarla kontrol edilir?",
+  "ozet": "Yangın alarm panelinin ekranda normal durumda görünmesi, algılama ve uyarı sisteminin geçmişteki arızalarının giderildiğini veya bütün işlevlerinin test edildiğini tek başına göstermez. Güvenilir inceleme, panel olay geçmişini güncel cihaz listesi, onaylı proje, bakım kayıtları ve doğrulanabilir test sonuçlarıyla birlikte okumayı gerektirir.",
+  "etiketler": [
+    "Yangın Alarmı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "panel-ekrani-ile-kayitlarin-soyledigi-ayni-sey-degildir",
+      "metin": "Panel ekranı ile kayıtların söylediği aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Panel, inceleme anındaki durumu gösterir; olay geçmişi ise sistemin daha önce hangi alarm, arıza, devre dışı bırakma ve kullanıcı işlemlerini kaydettiğini anlamaya yarar. Alarmın susturulması, olayın kabul edilmesi, arızanın giderilmesi ve devre dışı bırakılmış bir cihazın yeniden hizmete alınması birbirinden farklı işlemlerdir. Bunların aynı başlık altında “sorun kapandı” şeklinde kaydedilmesi, gerçekte hangi müdahalenin yapıldığını belirsizleştirir."
+    },
+    {
+      "tip": "p",
+      "metin": "İlk bakılacak belgeler, onaylı yangın algılama ve uyarı projesi ile güncel uygulama çizimleri, cihaz adres/bölge listesi, alarm senaryosu veya neden-sonuç matrisi, devreye alma ve kabul testleri, periyodik bakım-test raporları, servis müdahale kayıtları ve varsa panel olay dökümüdür. Panel üreticisinin kayıt kapasitesi ve görüntüleme alanları değişebilir; tek bir marka için kullanılan ekran terimleri evrensel uygunluk ölçütü sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "bir-olay-kaydi-nasil-izlenebilir-hale-gelir",
+      "metin": "Bir olay kaydı nasıl izlenebilir hale gelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce olayın tarih ve saati, türü, panelde görünen adres veya bölgesi ve sistemdeki durumu belirlenir. Ardından aynı kodun cihaz listesinde hangi dedektöre, butona ya da izleme girişine karşılık geldiği; bu cihazın güncel plandaki mahalli ve fiziksel etiketiyle tutarlı olup olmadığı karşılaştırılır. Saat ayarı veya bölge adı değişmişse, olayların kronolojisi ve konumu yanlış yorumlanabilir. Eksik alanlar tahmin edilmez; “kayıtla doğrulanamadı” şeklinde belirtilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Arıza kaydının kapanmış görünmesi yeterli değildir. Yetkili servis müdahalesinin ne olduğu, ilgili cihazın yeniden devreye alınıp alınmadığı ve gerekiyorsa tekrar testinin sonucu ayrıca aranır. Test yapıldığına ilişkin tek bir iş emri ile testin başarıyla sonuçlandığını gösteren kayıt aynı kanıt değildir. Panel hafızası eski olayları tutmuyorsa işletme ve yetkili servis kayıtlarının birbirine bağlanması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "kayit-incelemesi-icin-belge-kanit-eslestirmesi",
+      "metin": "Kayıt incelemesi için belge–kanıt eşleştirmesi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek belge / kanıt",
+        "İncelemede aranacak bağlantı"
+      ],
+      "satirlar": [
+        [
+          "Panel olayı hangi türde?",
+          "Tarih-saatli olay dökümü",
+          "Alarm, arıza, devre dışı bırakma ve kullanıcı işlemlerini ayrı kaydet."
+        ],
+        [
+          "Cihaz/bölge karşılığı biliniyor mu?",
+          "Adres listesi, güncel kat planı, saha etiketi",
+          "Olay kodunu gerçek mahal ve cihazla eşleştir; adlandırma farkını not et."
+        ],
+        [
+          "Müdahale kaydedilmiş mi?",
+          "Operatör günlüğü ve yetkili servis formu",
+          "İlk belirti, kabul/susturma ve teknik müdahale anlarını ayır."
+        ],
+        [
+          "Sorun gerçekten kapatılmış mı?",
+          "Onarım, yeniden etkinleştirme ve tekrar test kaydı",
+          "Panelin normal görünüşünü tek başına kapanış kanıtı sayma."
+        ],
+        [
+          "Test kapsamı belirli mi?",
+          "Bakım planı, test raporu, cihaz listesi",
+          "Hangi cihazın veya işlevin hangi tarihte denendiğini ve sonucu izle."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yerlesim-ve-isletme-kosullari-da-dosyanin-parcasidir",
+      "metin": "Yerleşim ve işletme koşulları da dosyanın parçasıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Panelin bulunduğu mahalin erişilebilirliği, görevli personel düzeni ve varsa tekrarlayıcı panelin konumu, olay kayıtlarından ayrı fakat aynı sistemin işletilebilirliğini etkileyen konulardır. Aşağıdaki eski teknik çizim, panel yerleşiminin kaçış koridoru ile ilişkisini temsili olarak gösterir; tek başına uygun veya uygunsuz bir kurulum kararı verdirmez. Gerçek durum, onaylı projeye, kullanım koşullarına ve yerinde gözleme göre değerlendirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 1. Panelin kaçış koridorundaki konumunu gösteren temsili yerleşim çizimi.",
+      "src": "/img/makale/ygr-k054-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı algılama projesi, yapı kullanımına ilişkin izinleri ve varsa tadilat belgeleriyle başlar. Fiili mahal adları, yeni bölmeler, değişen faaliyetler ve sonradan eklenen cihazlar nedeniyle proje ile panel adres listesi arasında fark oluşup oluşmadığını araştırır. Panelin erişilebilirliğini ve görünen alarm/arıza/devre dışı uyarılarını gözlemsel olarak kaydeder; örneklenen olay adreslerini sahadaki cihaz etiketleri ve güncel çizimlerle karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakım ve test belgelerinde cihaz veya bölge kapsamı, işlem tarihi, yetkili uygulayıcı, tespit edilen arıza, düzeltici işlem ve tekrar test sonucu arasındaki zinciri arar. Kayıt eksikse bunu bir teknik uygunsuzluk iddiasıyla karıştırmadan, hangi işlevin doğrulanamadığını ve hangi kanıtın istendiğini gerekçeli raporunda belirtir. Örneğin “panel olay geçmişinde tekrarlayan hat arızası kayıtları görülmüş, ancak ilgili adreslerin güncel cihaz listesiyle eşleşmesi ve müdahale sonrası test sonucu dosyada doğrulanamamıştır” ifadesi, belirsiz bir “panel arızalıdır” hükmünden daha denetlenebilirdir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemesi, elektriksel ölçüm yapma, dedektör testi uygulama, panel programını değiştirme, sistem tasarlama veya resmi proje onayı verme yetkisi doğurmaz. İşlev testi, ölçüm, yazılım değişikliği ve teknik onarım gerektiren durumlar ilgili yetkin kişi veya kuruluşun kayıtlarıyla doğrulanır. YGU, bu kayıtların proje ve saha koşullarıyla tutarlılığını değerlendirir; mevcut olmayan bir testin yapılmış olduğunu varsaymaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-taslak-yaklasimin-ayrilmasi",
+      "metin": "Yürürlükteki hüküm ile taslak yaklaşımın ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın algılama ve uyarı sistemlerinin ilgili standartlara uygun kurulmasını, sistem hatlarının arıza yönünden denetlenmesini, kontrol panellerinin uygun yerlerde bulunmasını ve sistemin periyodik kontrol, test ve bakımının yaptırılmasını düzenler. Bakanlık Kılavuzu, bakım ve test belgelerinin bina yönetimince erişilebilir biçimde tutulmasının önemini ayrıca açıklar."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağında panelin elle kısmen veya tamamen kapatılamamasına ve periyodik kontrol, test ve bakım raporlarının saklanmasına ilişkin daha açık ifadeler önerilmektedir. Bunlar henüz yürürlükteki hüküm gibi uygulanmaz. Panelde görülen bir uyarının anlamı, arızanın etkisi ve gerekli düzeltici işlem mevcut mevzuat, proje ve sistemin teknik belgeleri esas alınarak değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın alarm panelinin kontrolünde asıl soru, “ekran normal mi?” değil, “hangi olay hangi cihazda gerçekleşti, nasıl müdahale edildi ve sistemin ilgili işlevinin yeniden çalıştığı hangi kanıtla gösterildi?” sorusudur. Olay dökümü, güncel adres listesi, onaylı proje ve bakım-test raporları birlikte okunmadıkça panelin gerçek işletme durumu hakkında gerekçeli sonuca varılamaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Periyodik Kontrol Formu"
+    }
+  ],
+  "sonNotlar": []
+}

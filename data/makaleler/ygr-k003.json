@@ -1,0 +1,114 @@
+{
+  "kod": "YGR-K003",
+  "yol": "teknik-standart-hangi-durumda-baglayici-hale-gelir",
+  "baslik": "Teknik standart hangi durumda bağlayıcı hale gelir?",
+  "ozet": "Bir yangın tesisatı projesinin hesap raporunda yalnızca “TS EN standardına uygundur” ifadesinin yer aldığını düşünelim. Hangi standardın, hangi baskının ve hangi tasarım kararının kastedildiği belirtilmemişse bu ifade incelemeye yeterli dayanak oluşturmaz. Bir teknik standardın bulunmasıyla belirli bir yapıda uygulanmasının gerekli olması aynı şey değildir.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Teknik standartlar bir ürünün nasıl sınıflandırılacağını, bir sistemin hangi yöntemle tasarlanacağını veya deneyin hangi koşullarda yapılacağını açıklayabilir. Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), “ilgili standart” kavramını Türk standartları, bunların bulunmadığı konularda Avrupa standartları ve her ikisinde de düzenlenmeyen konularda uluslararası geçerliliği kabul edilen standartlar üzerinden tanımlar. Yalnızca bu tanımdan hareketle herhangi bir standart numarasının bütün yapılarda zorunlu olduğu sonucu çıkarılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "teknik-standart-hangi-kosullarda-esas-alinir",
+      "metin": "Teknik standart hangi koşullarda esas alınır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelikte belirli bir teknik yönteme veya standarda atıf varsa önce bu atfın hangi konuya uygulandığına bakılır. BYKHY, yeterli hüküm bulunmayan hususlarda ve bazı özel kullanım alanlarında Türk standartlarının, bunlar yoksa Avrupa standartlarının esas alınmasını düzenler. Bu standartların da düzenlemediği alanlarda uluslararası geçerliliği kabul edilen standartlardan yararlanılabilir. Öte yandan sözleşme, onaylı proje veya teknik şartname de belirli bir standarda uyulmasını öngörebilir. Bu tür bir proje veya sözleşme şartı, tek başına ülkedeki bütün binalar için geçerli bir mevzuat kuralı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir yağmurlama projesinde TS EN 12845’e atıf yapılmışsa önce projenin hangi bölümünün bu standarda göre hazırlandığı belirlenir. Ardından standardın baskısı, projedeki hesap ve yerleşim kararları ile sahadaki kurulum karşılaştırılır. Böylece standart adı, kapak sayfasındaki genel bir beyan olmaktan çıkar; ilgili teknik kararın dayanağı olarak izlenebilir hale gelir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Dosyadaki ifade",
+        "Tek başına neden yetmez?",
+        "Aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "“TS EN standardına uygun”",
+          "Hangi doküman ve sürüm belli değil",
+          "Tam standart kodu, başlığı ve baskısı"
+        ],
+        [
+          "“Sertifikalı ürün”",
+          "Ürün belgesi bütün tesisatın doğrulandığını göstermez",
+          "Belgenin ürün ve kullanım kapsamı"
+        ],
+        [
+          "“Projeye uygun uygulama”",
+          "Onaylı proje ile fiili imalat karşılaştırılmamış olabilir",
+          "Revizyon paftası, test/kabul kayıtları ve saha gözlemi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "bir-urun-belgesi-ile-kurulu-sistem-arasindaki-fark",
+      "metin": "Bir ürün belgesi ile kurulu sistem arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yangın kapısı üzerindeki performans etiketi, kapı takımının belgelenmiş özellikleri hakkında bilgi verir. Ancak kapının farklı bir duvara, belgelenen montaj detayından başka bir şekilde yerleştirilmesi durumunda ayrıca inceleme gerekir. Yağmurlama sisteminde de benzer bir ayrım vardır: sprinkler başlığının ürün belgesi, boru ağı, su kaynağı, başlık yerleşimi ve kontrol vanalarının birlikte doğru tasarlandığını göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Teknik incelemede standardın yalnızca adı değil, hangi amaçla kullanıldığı ve hangi tasarım kararını desteklediği belirlenmelidir. Onaylı projedeki atıf, teknik şartname ve mevcut saha uygulaması birbirini karşılamıyorsa farklılığın nereden kaynaklandığı açıklanır. Eksik bilgiye dayanarak hemen uygunluk veya uygunsuzluk kararı verilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Standartların baskı tarihi de önemlidir. Yıllar önce onaylanmış bir projede belirli bir baskıya atıf bulunurken aynı standardın daha yeni baskısı yayımlanmış olabilir. Böyle bir durumda eski baskı otomatik olarak yenisiyle değiştirilmez. Önce projenin onaylandığı dönemde neyin esas alındığı, yürürlükteki düzenlemenin hangi koşulları aradığı ve sonradan yapılan değişikliklerin tasarımı etkileyip etkilemediği incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ürün deneyi, performans sınıflandırması, montaj ve sistem tasarımı her zaman aynı standartla düzenlenmez. Örneğin yangın kapısına ait deney belgesi, kapının her duvar türünde ve her montaj ayrıntısıyla aynı performansı göstereceğini tek başına kanıtlamaz. Belge, cevap aranan teknik soruyla ilgili olmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "standart-atfi-nasil-dogrulanir",
+      "metin": "Standart atfı nasıl doğrulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir raporda “TS EN 12845’e uygundur” deniyorsa kullanılan standardın adı ve baskısı, hesap raporunun ilgili bölümü, onaylı proje ve sahadaki uygulama kayıtları birlikte ele alınmalıdır. Bu belgelerin bulunmadığı bir durumda önce hangi bilginin eksik olduğu belirtilir. Kurulu sistemin teknik yeterliliği, yalnızca rapor üzerindeki standart numarasından hareketle kabul veya reddedilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Teknik bir standardın değeri, sayısının çokluğunda değil, hangi güvenlik sorununa hangi ölçütü getirdiğinin anlaşılmasındadır. Bu nedenle değerlendirme, standart listesi hazırlamak yerine projedeki teknik kararın ve sahadaki karşılığının izlenmesine dayanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), proje veya periyodik kontrol incelemesinde yalnızca standardın adını aramaz. Onaylı projede hangi standardın esas alındığını, bunun hangi yangın güvenliği tedbirine karşılık geldiğini ve sahadaki uygulamanın projeyle örtüşüp örtüşmediğini araştırır. Örneğin bir yangın kapısında ürünün performans belgesi ile gerçek montaj detayını; yağmurlama sisteminde ise onaylı yerleşimle mevcut sprinkler başlıklarının konumunu birlikte inceler. Gereken durumlarda güncel muayene, test ve bakım kayıtlarından yararlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Projede standart numarası veya baskısı belirtilmemişse bu eksiklik kaydedilir; uzman kendiliğinden bir standart sürümü seçerek uygunluk kararı üretmez. Belgelerle saha arasında farklılık varsa bunun etkisini açıklayarak gerekli proje veya yetkili teknik değerlendirmeye konu eder. Bu çalışma, proje müellifinin tasarım sorumluluğunu ya da yetkili kuruluşların deney ve belgelendirme görevlerini üstlenmek değil; incelenen yangın güvenliği tedbirini somut kanıtlarla değerlendirmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "TS EN 12845 – Sabit Yangın Söndürme Sistemleri – Otomatik Yağmurlama Sistemleri"
+    }
+  ],
+  "sonNotlar": []
+}

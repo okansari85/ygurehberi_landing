@@ -1,0 +1,145 @@
+{
+  "kod": "YGR-K047",
+  "yol": "yangin-alarminda-asansorlerin-davranisi-nasil-test-planina-baglanir",
+  "baslik": "Yangın alarmında asansörlerin davranışı nasıl test planına bağlanır?",
+  "ozet": "Yangın alarm panelinde bir çıkışın aktif olması, asansörün yangın senaryosunda öngörülen davranışı gerçekten gerçekleştirdiğini göstermez. Güvenilir bir değerlendirmede alarmın oluştuğu bölge, iletilen kumanda, asansör kontrolörünün tepkisi ve kabinin son durumu birbirinden ayrı kanıtlarla izlenir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "beklenen-davranis-nasil-belirlenir",
+      "metin": "Beklenen davranış nasıl belirlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk adım, binanın onaylı yangın algılama ve asansör projeleriyle varsa neden-sonuç matrisini birlikte okumaktır. Yangın uyarısının hangi dedektör, buton veya bölgeden geldiği; hangi asansör grubuna hangi komutun gönderileceği; kabinin hangi kata yönleneceği; kapıların ve çağrı kabulünün nasıl davranacağı açıkça belirlenir. Onaylı projede bulunmayan bir senaryo, yalnızca panel ayarına bakılarak uygun kabul edilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, belirli yapılardaki asansörlerin yangın uyarısına tepkisini ve yangın sırasında acil durum kontrol sistemlerinin işlevlerini düzenler. Normal yolcu asansörünün geri çağrılması ile acil durum asansörünün yetkili müdahale ekiplerinin kontrolüne alınması aynı işlem değildir. Bu nedenle testte asansörün türü ve projede tanımlanan işletme modu esas alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "alarmdan-kabine-uzanan-kontrol-zinciri",
+      "metin": "Alarmdan kabine uzanan kontrol zinciri"
+    },
+    {
+      "tip": "p",
+      "metin": "Saha kontrolünde üç farklı kayıt aynı sonuca işaret etmelidir: yangın panelinin olay kaydı, kontrol arayüzünün komut veya durum bilgisi ve asansörün fiilen gösterdiği hareket. Rölenin çekmesi ya da otomasyon ekranında komut görünmesi, kabinin hedef kata ulaştığı veya yeni kat ve koridor çağrılarını kabul etmediği anlamına gelmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 47. Alarm, kontrol arayüzü ve kabin davranışı arasındaki kanıt zinciri (eski taslaktaki özgün şema).",
+      "src": "/img/makale/ygr-k047-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "test-planinda-bulunmasi-gereken-kanitlar",
+      "metin": "Test planında bulunması gereken kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek belge / kayıt",
+        "Değerlendirme noktası"
+      ],
+      "satirlar": [
+        [
+          "Hangi alarm hangi davranışı başlatır?",
+          "Onaylı algılama projesi ve neden-sonuç matrisi",
+          "Alarm bölgesi, asansör grubu ve hedef kat eşleştirilir."
+        ],
+        [
+          "Komut arayüze ulaştı mı?",
+          "Panel olay dökümü, ara modül ve kontrol kayıtları",
+          "Komut iletimi, zaman bilgisi ve olası arayüz arızası ayrılır."
+        ],
+        [
+          "Kabin ne yaptı?",
+          "Yetkili işlev testi ve asansör kontrol kaydı",
+          "Hedef kat, kapı durumu, çağrı kabulü ve kontrol modu doğrulanır."
+        ],
+        [
+          "Sapma nasıl belgelendi?",
+          "Test tutanağı, hata kaydı ve düzeltici işlem belgesi",
+          "Beklenen sonuç, gözlenen sonuç ve giderme sorumlusu yazılır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "testin-yurutulmesi-ve-guvenlik-siniri",
+      "metin": "Testin yürütülmesi ve güvenlik sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "İşlev testinden önce bina işletmecisi, yangın algılama sistemi sorumlusu ve yetkili asansör bakım veya test ekibi arasında test kapsamı kararlaştırılır. Yanlış alarmın oluşturabileceği işletme etkileri, kullanıcıların asansöre erişimi, alarm bildirimi ve testin durdurulma koşulları önceden belirlenir. Test, yetkili teknik personelin güvenli çalışma düzeni içinde yapılır; kullanıcılar kabin içinde deneme amacıyla taşınmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç formunda test edilen alarm bölgesi, test zamanı, ilgili kabin, beklenen hedef kat, gerçekleşen duruş, kapı ve çağrı davranışı ile varsa arıza kodu ayrı ayrı gösterilir. Her alarmın bütün asansörleri aynı kata göndereceği varsayılmaz; değerlendirme binanın onaylı senaryosuna dayanır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı ve yapı kullanma izin kayıtlarını, onaylı yangın algılama ve asansör projelerini, varsa tadilat projelerini, bakım belgelerini ve önceki işlev test tutanaklarını karşılaştırarak başlar. Binanın fiili kullanımını, hizmet verilen katları, asansör gruplarını, alarm bölgelerini ve sonradan yapılan kontrol sistemi değişikliklerini yerinde belirler. Projede tanımlanan işlev ile sahada kurulu ekipman ve belgelenmiş test sonucu arasında fark varsa bunu açıkça raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, erişilebilir panel göstergelerini ve sahadaki gözlenebilir durumları inceleyebilir; ancak asansör kontrolöründe parametre değişikliği, elektriksel ölçüm, arıza giderme, fonksiyon testi yürütme veya proje onayı gibi başka uzmanlık ve yetki gerektiren işleri kendiliğinden üstlenmez. Test kaydı yoksa “çalışmıyor” hükmü kurmak yerine, hangi işlevin hangi yetkili test belgesiyle doğrulanamadığını belirtir ve doğrulama ister."
+    },
+    {
+      "tip": "h2",
+      "id": "uygunsuzluk-kaydi-nasil-yazilmali",
+      "metin": "Uygunsuzluk kaydı nasıl yazılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Belgeye dayalı örnek ifade: “Yangın alarm panelinin asansör kumanda çıkışına ilişkin olay kaydı mevcuttur. Ancak ilgili kabinin onaylı senaryoda belirtilen kata dönüşü, kapı durumu ve yeni çağrıları kabul etmeme işlevi için yetkili test sonucu sunulmamıştır. İşlevin uygunluğu mevcut belgelerle doğrulanamamıştır.” Bu ifade, ölçülmemiş bir arızayı gerçekleşmiş gibi göstermeden kanıt eksikliğini tanımlar."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından paylaşılan yeni yönetmelik taslağında acil durum kontrol işlevleri ve asansörlerin yangın sırasındaki kullanım biçimi ayrıca ele alınmaktadır. Taslak hükümler yürürlüğe girmiş bir zorunluluk gibi uygulanmaz. Mevcut incelemede yürürlükteki yönetmelik ve yapıya uygulanabilir onaylı proje esas alınır; taslak yalnızca olası düzenleme değişikliğini anlamaya yardımcı olur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın alarmı ile asansör arasındaki ilişki, panelden çıkan tek bir komutla değil, baştan sona izlenebilir bir neden-sonuç zinciriyle doğrulanır. Onaylı senaryo, yetkili işlev testi ve sahadaki gerçek durum birlikte incelenmediğinde “asansör yangında doğru çalışır” sonucuna varılamaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

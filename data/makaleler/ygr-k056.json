@@ -1,0 +1,132 @@
+{
+  "kod": "YGR-K056",
+  "yol": "duman-kontrolu-icin-tasarlanan-hacim-degisirse-ne-yeniden-incelenir",
+  "baslik": "Duman kontrolü için tasarlanan hacim değişirse ne yeniden incelenir?",
+  "ozet": "Bir üretim alanına yüksek bir bölme yapılması, yeni depo odası eklenmesi veya tavan altındaki açıklıkların kapatılması, duman kontrol sisteminin hizmet verdiği hacmi değiştirebilir. Fan, damper ve duman tahliye ağzı yerinde dursa bile sistemin ilk tasarımda öngörülen duman hareketini sağlayıp sağlamadığı yeniden değerlendirilmelidir.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Bu değerlendirmede temel soru, “Fan çalışıyor mu?” değil, “Sistem hangi hacim ve yangın senaryosu için tasarlandı; bugünkü mahal düzeni o kabulü koruyor mu?” sorusudur. Hacim değişikliği tek başına uygunsuzluk kanıtı değildir; ancak proje ile saha arasındaki ilişkinin yeniden kurulmasını gerektirir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-hangi-teknik-kabulleri-etkileyebilir",
+      "metin": "Değişiklik hangi teknik kabulleri etkileyebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Dumanın birikeceği üst hacim, duman bölgesi sınırı, bölmenin üst kotu, duman tahliye ağızlarının konumu ve taze hava giriş yolları birlikte ele alınır. Yeni duvarın tavana kadar çıkması ile üstte açık boşluk bırakması aynı durum değildir. Kirişler, asma tavanlar, yeni kapılar ve tesisat geçişleri de dumanın izleyebileceği yolu değiştirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mekanik sistemde emiş ve hava besleme noktalarının yeni bölümlerle ilişkisi; doğal tahliyede ise açıklıkların yeri, erişilebilirliği ve açılma düzeni önemlidir. Yangın algılama ve kumanda senaryosu değişen mahallerle eşleştirilmeden yalnız fan etiketine veya tek bir debi değerine bakılarak uygunluk kararı verilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-yeni-mahal-duzeninin-karsilastirilmasi",
+      "metin": "Proje ile yeni mahal düzeninin karşılaştırılması"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk olarak onaylı mimari plan, kesit ve duman kontrol projesindeki hacim sınırları belirlenir. Sonradan yapılan bölmeler güncel plana işlenir; duman tahliye ağızları, hava girişleri ve varsa damperlerin hangi bölgeye hizmet ettiği gösterilir. Aşağıdaki özgün şema, aynı fan korunurken yeni bölmenin duman bölgesini nasıl değiştirebileceğini temsili olarak gösterir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 56. Yeni bölmenin duman kontrol zonuna etkisi (özgün taslaktaki temsili çizim).",
+      "src": "/img/makale/ygr-k056-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izni, onaylı mimari ve mekanik projeler ile varsa tadilat belgelerinin kapsamını belirleyerek başlar. Ardından üretim, depolama ve geçiş alanlarının güncel kullanımını; yüksek bölmelerin konumunu, üst boşlukları, duman tahliye ağızlarının önündeki engelleri ve sistemin hangi mahallere hizmet ettiğini yerinde gözlemler. Fotoğraflar, mahal kimlikleri ve güncel plan üzerinde tespitlerin yerleri kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Devreye alma, kabul, bakım ve test kayıtları ile alarm-kumanda senaryosu birlikte incelenir. Belgelerde eski tek hacim tarif ediliyor, sahada ise yeni kapalı mahaller bulunuyorsa bu fark açıkça yazılır. YGU, eksik belgeyi varmış gibi kabul etmez; görsel kontrolü fan debisi ölçümü, mühendislik hesabı veya sistem performans onayı yerine koymaz. Gerektiğinde yetkili proje müellifi veya ilgili mühendislik uzmanlığından revizyon, hesap ve işlev testi istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "kontrolun-kayit-altina-alinmasi",
+      "metin": "Kontrolün kayıt altına alınması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen konu",
+        "Aranacak belge / saha kanıtı",
+        "YGU değerlendirmesi"
+      ],
+      "satirlar": [
+        [
+          "Tasarım hacmi ve zonlar",
+          "Onaylı duman kontrol projesi, kesit",
+          "İlk hacim sınırlarını ve korunacak mahalleri belirle."
+        ],
+        [
+          "Yeni bölme ve açıklıklar",
+          "Tadilat planı, mahal fotoğrafı, üst kot bilgisi",
+          "Duvarın duman yolu ve üst hacimle ilişkisini kaydet."
+        ],
+        [
+          "Tahliye ve hava besleme",
+          "Mekanik proje, ağız ve damper yerleşimi",
+          "Ağızların yeni mahallere göre konumunu karşılaştır."
+        ],
+        [
+          "Kumanda ve işletme",
+          "Alarm senaryosu, kabul ve bakım kayıtları",
+          "Belge ile fiili sistem düzeni arasındaki farkı belirt."
+        ],
+        [
+          "Değişiklik sonrası yeterlilik",
+          "Yetkili mühendis incelemesi, gerekirse test raporu",
+          "Kanıt yoksa uygunluk sonucunu kesinleştirme."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "belirsizlik-nasil-raporlanir",
+      "metin": "Belirsizlik nasıl raporlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek rapor ifadesi: “Üretim mahallinde sonradan oluşturulan yüksek bölmeler, onaylı duman kontrol projesindeki tek hacim düzeninden farklıdır. Duman tahliye ağızlarının yeni mahallere hizmet durumu ve sistemin değişiklik sonrası tasarım kapsamı mevcut belgelerle doğrulanamamıştır. Yetkili teknik değerlendirme ve gerekli proje/test kayıtları sunulmalıdır.” Bu ifade örnek bir tespit dilidir; gerçekleşmiş bir olayı anlatmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Duman kontrolünde esas olan, cihazların yalnız çalışması değil, güncel kullanım ve mahal geometrisi içinde tasarım hedefinin korunmasıdır. Bölme değişikliği ile sistemin yetersizliği eş anlamlı değildir; ancak bu değişiklik belgelenmeli, proje ile karşılaştırılmalı ve gerekiyorsa yetkili teknik incelemeyle sonuçlandırılmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

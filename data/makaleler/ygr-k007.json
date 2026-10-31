@@ -1,0 +1,119 @@
+{
+  "kod": "YGR-K007",
+  "yol": "depo-mu-fabrika-mi-kullanim-turu-hangi-veriye-gore-secilir",
+  "baslik": "Depo mu fabrika mı: kullanım türü hangi veriye göre seçilir?",
+  "ozet": "Bir işyerinin tabelasında “fabrika” yazması, içerideki her alanın üretim için kullanıldığı anlamına gelmez. Aynı yapı içinde imalat hattı, hammadde stoku, mamul deposu, paketleme ve sevkiyat alanı birlikte bulunabilir. Yangın güvenliği açısından önce bu bölümlerde gerçekten hangi faaliyetlerin yürütüldüğünü anlamak gerekir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "uretim-ve-depolama-neden-ayri-incelenir",
+      "metin": "Üretim ve depolama neden ayrı incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, endüstriyel yapılar ile depolama amaçlı tesisleri kullanım özelliklerine göre tanımlar. Endüstriyel yapı tanımı, üretim ve işleme faaliyetlerinin yanında bu faaliyetlerle ilişkili depolama ve dağıtımı da kapsar. Dolayısıyla bir fabrikadaki her depo mahali otomatik olarak ayrı bir depolama tesisi değildir. Öte yandan üretimden bağımsız hale gelmiş geniş bir stok alanını sırf fabrikanın içinde bulunduğu için üretim alanı kabul etmek de sağlıklı olmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanım sınıfı belirlenirken onaylı projedeki mahal işleviyle bugünkü faaliyet karşılaştırılır. Depolamanın üretime yardımcı olup olmadığı, alanın ayrı bir işletme düzenine sahip bulunup bulunmadığı ve ortak kaçış ya da yangın bölmesi sınırları bu değerlendirmeyi etkileyebilir. Karma kullanım hükümleri de, farklı faaliyetlerin gerçekten ayrıştırılıp ayrıştırılamadığına göre ele alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "depoya-donusen-uretim-alani",
+      "metin": "Depoya dönüşen üretim alanı"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir metal işleme tesisinde üretim hattının küçültüldüğünü, boşalan alana raflar konularak sevkiyata hazır ürünlerin depolandığını düşünelim. Binanın dış görünüşü değişmez; ancak ürünlerin cinsi, istif biçimi, depolama yüksekliği ve alanın kullanım düzeni artık projedeki varsayımlardan farklı olabilir. Bu durumda mesele yalnızca mahalin adını “depo” olarak değiştirmek değildir. Kaçış düzeninin, yangın bölümlendirmesinin ve varsa söndürme sistemi tasarımının yeni kullanımla ilişkisi de araştırılır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 7. Aynı tesiste birbirinden ayrılması gereken işlevler (temsili gösterim).",
+      "src": "/img/makale/ygr-k007-1.png"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin 35 m² büyüklüğündeki bir sarf malzemesi alanıyla 450 m² büyüklüğündeki bir sevkiyat deposunun kullanım özellikleri aynı olmayabilir. Yönetmelikte 50 m²’den küçük depolama bölümlerinin ana binanın parçası olarak değerlendirilmesine ilişkin bir hüküm bulunur. Ancak bu ölçü, içerideki malzemenin tehlikesini veya o mahale uygulanabilecek diğer yangın güvenliği tedbirlerini kendiliğinden ortadan kaldırmaz. Aynı şekilde 450 m² alanın varlığı da tek başına ayrı bina sınıfı kararı verdirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "projede-ve-sahada-hangi-bilgiler-karsilastirilir",
+      "metin": "Projede ve sahada hangi bilgiler karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari projede belirtilen kullanım amacı, fiilen yürütülen faaliyet ve depolanan malzemelerin niteliği birlikte okunmalıdır. Rafların yerleşimi, istif düzeni, üretim hattıyla depo arasındaki geçişler ve ortak kaçış yolları, kullanım değişikliğinin yangın güvenliğine etkisini anlamaya yardımcı olur. Kullanım sınıfı ile yangın tehlike sınıfı aynı kavram değildir; birindeki değerlendirme diğerinin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-alan-karsilastirmasi",
+      "metin": "Örnek alan karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen mahal",
+        "Projede / sahada",
+        "İnceleme konusu"
+      ],
+      "satirlar": [
+        [
+          "Üretim mahali",
+          "Metal işleme / metal işleme",
+          "Projedeki endüstriyel faaliyetin sürüp sürmediği"
+        ],
+        [
+          "Sarf alanı",
+          "35 m² yardımcı stok / aynı kullanım",
+          "Ana faaliyetle bağlantısı ve depolanan malzeme"
+        ],
+        [
+          "Sevkiyat alanı",
+          "Üretim alanı / 450 m² mamul stoku",
+          "Kullanım değişikliği ve koruma tasarımına etkisi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye başlamadan önce yapının ruhsat ve onaylı proje kayıtlarında hangi kullanımın esas alındığını belirler. Sahada üretim, geçici stok ve düzenli depolama alanlarını gözlemleyerek bu kayıtlarla karşılaştırır. Özellikle projede üretim alanı görünen bir mahalin fiilen depo olarak kullanılmaya başlanması, açıklanması gereken bir farklılıktır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman, farklılığın bulunduğu mahali, gözlenen faaliyeti ve eldeki belgeleri kayda geçirir; gerekirse güncel yerleşim planı, malzeme envanteri ve ilgili yangın güvenliği proje veya muayene kayıtlarını ister. Bu inceleme, yeniden proje çizmek ya da bir söndürme sisteminin tasarımını ölçüm yapmadan onaylamak anlamına gelmez. Amaç, güncel kullanımın projede öngörülen koşullarla örtüşüp örtüşmediğini göstermek ve teknik değerlendirme gerektiren değişikliği açıkça tarif etmektir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Fabrika ve depo ayrımında belirleyici olan tabela değil, yapının ve ilgili mahallerin kullanım biçimidir. Üretim alanında başlayan düzenli depolama faaliyeti, binanın kullanım sınıfını her durumda değiştirmese de mevcut yangın güvenliği tasarımının yeniden incelenmesini gerektirebilir. Bu nedenle karar, proje bilgisi, sahadaki faaliyet ve uygulanan korunma tedbirleri birlikte değerlendirilerek verilmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,143 @@
+{
+  "kod": "YGR-K012",
+  "yol": "parseldeki-yeni-yapilasma-yangin-guvenligi-yaklasimini-nasil-degistirir",
+  "baslik": "Parseldeki yeni yapılaşma yangın güvenliği yaklaşımını nasıl değiştirir?",
+  "ozet": "Aynı parsele yeni bir bina eklenmesi, yalnız yeni yapının yangın güvenliği projesini ilgilendirmez. Önceden açık olan cepheler, servis alanları, araç yaklaşımı ve dış tahliye güzergahları yeni yerleşimle birlikte değişebilir. Bu nedenle değerlendirme, mevcut ve yeni yapıyı tek bir vaziyet planında ele almalıdır.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yeni-yapi-mevcut-binanin-hangi-kabullerini-degistirir",
+      "metin": "Yeni yapı, mevcut binanın hangi kabullerini değiştirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk tasarımda iki cephe arasında boşluk bulunan bir alan, ikinci blok yapıldığında karşılıklı pencere ve kapı açıklıklarının yer aldığı bir aralığa dönüşebilir. İtfaiye aracının kullandığı geçişe sundurma yapılabilir; personelin dışarı çıktığı güvenli alana yükleme trafiği gelebilir. Bunların her biri yangının yayılması, müdahale ve tahliye açısından ayrı bir inceleme konusudur."
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), yapının çevresindeki binalara yangın yayılımının sınırlandırılmasını ve itfaiye müdahalesinin dikkate alınmasını esas alır. Yerleşim, ulaşım, yangın duvarı ve cephe hükümleri birlikte okunur. Yerleşim maddesindeki imar planı düzenlemeleri, her parsel için geçerli tek bir “iki bina arası mesafe” kuralı olarak yorumlanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "uretim-binasinin-yanina-depo-blogu-eklenmesi",
+      "metin": "Üretim binasının yanına depo bloğu eklenmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili bir durumda, üretim binasının kuzeyinde yeni bir depo tasarlandığını düşünelim. İlk vaziyet planında bu alan hem servis geçişi hem de itfaiye yaklaşımı için açık bırakılmış olabilir. Yeni depoya ait yükleme kapısı, rampası veya sundurması bu hattı etkiliyorsa yalnız deponun kendi kaçış kapılarını incelemek yeterli değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Eski ve yeni yapı konturları, kullanım amaçları, birbirine bakan cephe açıklıkları, ortak veya bitişik duvarlar, araç dönüş alanları ve dış tahliye akışı aynı ölçülü paftada gösterilir. Yeni binanın ruhsatlı olması, mevcut binanın önceki yangın güvenliği koşullarının değişmeden kaldığını tek başına kanıtlamaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 12. Mevcut blok, yeni blok ve itfaiye yaklaşımının birlikte ele alınması. Temsili, ölçeksiz çizim.",
+      "src": "/img/makale/ygr-k012-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye ilk onaylı vaziyet planı, güncel mimari proje, yeni yapıya ait ruhsat ve revizyon paftaları ile başlar. Gerekiyorsa yangın algılama, söndürme, tahliye ve hidrant düzenini gösteren projeler de karşılaştırmaya alınır. Belgelerin hangi yapıya ve hangi onay tarihine ait olduğu ayrıca kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada önce yapıların gerçek yerleri ve kullanım amaçları doğrulanır. Ardından cephe açıklıkları, geçişlerin fiili serbestliği, yükleme-istif alanları, araç girişleri, mevcut kaçış kapılarının dışarı açıldığı alanlar ve yangın suyu tesisatına erişim gözlenir. Projede görülen yolun sahada bariyer, park, istif veya yeni imalat nedeniyle kesilip kesilmediği fotoğraf ve ölçülü krokiyle belgelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman, gözlenen değişikliği “mevcut tasarım kabulü – yeni durum – olası etki – gerekli belge veya teknik inceleme” sırasıyla kayda geçirir. Uzman, yerinde basit mesafe ve açıklık ölçümlerini de bulgularına ekleyebilir. Yangın dayanım hesabı, yeni kaçış tasarımı, sistem kapasitesi hesabı ve proje revizyonu ise ilgili yetkili mimar ve mühendislerin çalışma alanıdır; YGU raporu, proje onayı veya idari izin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasi",
+      "metin": "Proje ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Eski proje kabulü",
+        "Yeni durum / saha",
+        "Değerlendirme"
+      ],
+      "satirlar": [
+        [
+          "Yerleşim",
+          "Mevcut bina çevresi açık",
+          "İkinci blok eklendi",
+          "Güncel vaziyet planı ve onay durumu karşılaştırılır."
+        ],
+        [
+          "Cephe ilişkisi",
+          "Karşısında yapı yok",
+          "Yeni karşılıklı açıklıklar var",
+          "Yayılım ve gerekli cephe koruması tasarımcıya inceletilir."
+        ],
+        [
+          "İtfaiye erişimi",
+          "Servis geçişi serbest",
+          "Yükleme/sundurma geçişe yakın",
+          "Fiili geçiş, dönüş ve yaklaşım koşulları doğrulanır."
+        ],
+        [
+          "Dış tahliye",
+          "Çıkış açık alana ulaşıyor",
+          "Yeni araç trafiğiyle kesişebilir",
+          "Tahliye akışı ve güvenli alan yeniden incelenir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "santiye-donemi-ve-bulgunun-yazilmasi",
+      "metin": "Şantiye dönemi ve bulgunun yazılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni yapının inşaat aşamasında geçici malzeme istifi, çevreleme ve kapalı yollar; işletmeye geçildiğinde ise kalıcı rampa, sundurma ve yükleme düzeni önem kazanır. Bu iki dönem aynı kabul edilmez. Şantiye için geçici erişim tedbirleri, tamamlanan yapı içinse kalıcı yerleşim koşulları ayrı kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili bulgu şöyle yazılabilir: “Onaylı vaziyet planında açık gösterilen kuzey servis geçişi, yeni depo bloğunun yükleme düzeni nedeniyle sahada daralmıştır. Mevcut binanın itfaiye yaklaşımı ve dış tahliye güzergahına etkisi, güncel onaylı proje ve ölçülü saha verileri üzerinden yeniden değerlendirilmelidir.” Böyle bir ifade, kanıt olmadan tüm yerleşimi uygunsuz ilan etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Parselde yeni yapılaşma olduğunda yalnız yeni binanın değil, mevcut yapının çevresindeki koruma düzeninin de değişip değişmediği araştırılır. Sağlıklı karar, iki yapının birlikte gösterildiği güncel proje ile fiili saha koşullarının karşılaştırılmasına dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Not: Taslak metinlerde öngörülen mesleki görevler yürürlükteki yetki hükümleri gibi değerlendirilmemelidir."
+    }
+  ],
+  "sonNotlar": []
+}

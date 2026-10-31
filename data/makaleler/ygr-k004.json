@@ -1,0 +1,113 @@
+{
+  "kod": "YGR-K004",
+  "yol": "bina-yuksekligi-ve-yapi-yuksekligi-neden-karistirilmamali",
+  "baslik": "Bina yüksekliği ve yapı yüksekliği neden karıştırılmamalı?",
+  "ozet": "Bir binanın yüksekliği bir raporda 12 metre, başka bir raporda 15 metre olarak geçebilir. Bu farklılık her zaman hesap hatası değildir; çoğu zaman iki ayrı büyüklük birbirine karıştırılmıştır. Yangın güvenliği incelemesinde “bina yüksekliği” ile “yapı yüksekliği” aynı anlama gelmez. Aralarındaki fark, hangi yangın güvenliği hükmünün inceleneceğini etkileyebilir.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, bina yüksekliğini binanın kot aldığı noktadan saçak seviyesine kadar olan mesafe veya ilgili düzenlemelerde öngörülen yükseklik olarak tanımlar. Yapı yüksekliği ise bodrum katlar, asma katlar ve çatı arası piyesler dahil inşa edilen katların toplam yüksekliğidir. Bakanlığın Uygulama Kılavuzu bu ayrımı bir bina kesiti üzerinde gösterir. Bu nedenle rapordaki yükseklik değeri, hangi tanımın esas alındığı açıklanmadan kullanılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ayni-kesitte-neden-iki-farkli-sayi-cikar",
+      "metin": "Aynı kesitte neden iki farklı sayı çıkar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir bodrum, bir zemin ve zemin üzerinde üç kat bulunan örnek bir bina düşünelim. Her katın yüksekliği 3 metre; binanın kot aldığı nokta 0,00, saçak seviyesi +12,00 ve bodrum alt kotu -3,00 olsun. Bu örnekte bina yüksekliği 12 metre, bodrum da hesaba katıldığında yapı yüksekliği 15 metredir. Şekildeki değerler yalnızca iki tanımı açıklamak için seçilmiştir; gerçek bir yapının hesabında onaylı kotlandırma ve mimari kesit esas alınır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1510,
+      "yukseklik": 789,
+      "aciklama": "Şekil 1. Aynı binada bina yüksekliği ile yapı yüksekliğinin farklı hesaplanması (temsili kesit).",
+      "src": "/img/makale/ygr-k004-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "egimli-parsellerde-hangi-belge-belirleyicidir",
+      "metin": "Eğimli parsellerde hangi belge belirleyicidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğimli bir parselde bina yol cephesinden dört, arka bahçeden beş katlı görünebilir. Böyle bir yapının yüksekliğini yalnız cepheden sayılan katlara veya arazinin en alçak noktasından alınan ölçüye göre belirlemek doğru değildir. Ruhsat eki mimari kesit, vaziyet planı, kot belgesi ve ilgili imar kararları birlikte okunmalıdır. Önce binanın hangi noktadan kot aldığı belirlenir; ardından saçak seviyesi ve bütün katların yükseklikleri ayrı ayrı değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Asma kat ve çatı arası piyeslerin etkisi de aynı dikkatle ele alınmalıdır. Özellikle yapı yüksekliği bakımından bu alanların varlığı, yalnızca görünüşe bakılarak göz ardı edilemez. Ayrıca uygulanacak hükümde bir istisna veya özel hesap yöntemi bulunuyorsa o koşul ayrıca incelenir. “Bina beş katlıdır” bilgisi tek başına bu ayrıntıların yerini tutmaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol edilen ölçü",
+        "Çizimden alınacak bilgi",
+        "Dikkat edilecek nokta"
+      ],
+      "satirlar": [
+        [
+          "Bina yüksekliği",
+          "Kot aldığı nokta ve saçak seviyesi",
+          "Başlangıç referansı proje ve imar belgeleriyle doğrulanır"
+        ],
+        [
+          "Yapı yüksekliği",
+          "Bodrum, asma kat, katlar ve varsa çatı arası piyesler",
+          "İnşa edilen katların toplamı ayrı hesaplanır"
+        ],
+        [
+          "Uygulanacak hüküm",
+          "İlgili BYKHY maddesindeki ölçü terimi",
+          "Eşik değerin hangi yüksekliğe bağlandığı okunur"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tadilat veya proje revizyonu yapılmış bir binada önceki yükseklik hesabı güncelliğini yitirmiş olabilir. Örneğin giriş kotu, bodrum düzeni ya da saçak seviyesi değişmişse yangın güvenliği değerlendirmesinde kullanılan sayı yeniden karşılaştırılır. Ancak farklı bir kat kullanımı, kendi başına binanın bütün yükseklik tanımlarını değiştirmiş sayılmaz; neyin gerçekten değiştiği projeden ve sahadan doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yukseklik-degeri-raporda-nasil-gosterilir",
+      "metin": "Yükseklik değeri raporda nasıl gösterilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yüksekliğe bağlı bir yangın güvenliği şartı inceleniyorsa raporda yalnızca “yükseklik 15 metredir” demek yeterli olmaz. Ölçünün bina yüksekliği mi yapı yüksekliği mi olduğu, kullanılan pafta, başlangıç ve bitiş kotları belirtilmelidir. Bazı tasarım hükümleri bina yüksekliğine, bazıları yapı yüksekliğine bağlandığından iki değeri birbirinin yerine kullanmak yanlış sonuca yol açabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Gönderilen yeni BYKHY taslağında da farklı teknik hükümler bu iki yükseklik terimini ayrı ayrı kullanır. Taslağın tanımlar bölümünde ayrıca açıklanmayan kavramlar için imar mevzuatına başvurulması öngörülür. Dolayısıyla taslaktaki bir yükseklik eşiği değerlendirilirken de önce hangi terimin kullanıldığı, sonra ilgili kot ve kesit verisi incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), proje veya periyodik yangın güvenliği incelemesinde yüksekliğe bağlı bir koşulla karşılaştığında önce hükmün hangi ölçüyü esas aldığını belirler. Ardından onaylı mimari kesitteki kot aldığı nokta, saçak seviyesi ve bodrum dahil kat yüksekliklerini inceler. Projede verilen değerleri yerinde görülen kat düzeniyle karşılaştırır; ilave kat, kot değişikliği veya sonradan yapılan mimari müdahale varsa bunu ayrıca kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin kesitte bina yüksekliği 12 metre olarak gösterilirken aynı dosyanın yangın güvenliği raporunda 15 metre yazılmış olabilir. Uzman yalnız sayılardan birini seçmez; 15 metrenin bodrumu içeren yapı yüksekliği olup olmadığını araştırır. Belgeler birbiriyle uyuşmuyorsa farklılığın nedenini ve ihtiyaç duyulan proje veya yetkili teknik doğrulamayı belirtir. Böylece kontrolün sonucu tahmine değil, geçerli tanıma ve doğrulanabilen proje verisine dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Planlı Alanlar İmar Yönetmeliği"
+    }
+  ],
+  "sonNotlar": []
+}

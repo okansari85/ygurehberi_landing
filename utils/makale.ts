@@ -15,6 +15,22 @@ export function makaleOkumaSuresi(m: Okunur) {
   return Math.max(1, Math.round(kelime / 200))
 }
 
+// Kart için yeterli alanlar: makale gövdesi (bloklar) tarayıcıya gitmez.
+export function makaleKarti(m: Okunur & { kod: string; yol: string; baslik: string; etiketler: string[]; yayin: string }) {
+  return { kod: m.kod, yol: m.yol, baslik: m.baslik, ozet: m.ozet, etiketler: m.etiketler, yayin: m.yayin, okuma: makaleOkumaSuresi(m) }
+}
+export type MakaleKartVerisi = ReturnType<typeof makaleKarti>
+
+// Arama sonucundaki açıklama için en çok 155 karakter: önce ilk cümle, olmazsa kelime sınırında kısaltma. Sayfadaki özet değişmez.
+export function metaAciklama(metin: string) {
+  const t = metin.trim()
+  if (t.length <= 155) return t
+  const cumle = t.match(/^.{70,155}?[.!?](?=\s|$)/s)?.[0]
+  if (cumle) return cumle
+  const kes = t.slice(0, 152)
+  return `${kes.slice(0, kes.lastIndexOf(' '))}…`
+}
+
 // "2026-10-15" → "15 Ekim 2026"
 export function tarihMetni(iso: string) {
   return new Date(`${iso}T12:00:00`).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })

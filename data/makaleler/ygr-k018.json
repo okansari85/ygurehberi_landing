@@ -1,0 +1,123 @@
+{
+  "kod": "YGR-K018",
+  "yol": "yangin-duvari-tavanda-nerede-devam-etmelidir",
+  "baslik": "Yangın duvarı tavanda nerede devam etmelidir?",
+  "ozet": "Kat planında iki mahali ayıran bir yangın duvarı çizilmiş olabilir. Ancak yangın ayırıcı sınırın gerçekten çalışması, duvarın yalnızca görünen bölümüne değil, üst döşeme veya çatıyla kurduğu birleşime de bağlıdır. Asma tavanın altında düzgün görünen bir duvarın üzerinde, dumanın ve sıcak gazların diğer bölmeye ulaşabileceği açıklık kalmış olabilir.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayirici-sinirin-bittigi-yer-projede-belirlenir",
+      "metin": "Ayırıcı sınırın bittiği yer projede belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru, duvarın hangi yangın kompartımanlarını ayırdığıdır. Onaylı kat planında sınırın yeri, kesitte üst bitiş detayı ve ilgili elemanların yangın dayanımı birlikte okunur. Yangına dayanımın birleşme noktalarında da devam etmesi, yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik açısından temel ilkedir. Bu nedenle sıradan bir asma tavanın duvarı tamamladığı varsayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulamada duvar, projede öngörülen yangına dayanımlı döşeme veya çatı altına uygun birleşimle ulaşıyorsa ayrım sürekliliği kurulabilir. Üstte özel bir yangına dayanımlı tavan sistemi tasarlanmışsa bu sistemin sınıflandırması, taşıyıcı altlığı, bağlantıları ve uygulama kapsamı belgeleriyle değerlendirilir. Her yapıda duvarın aynı geometriyle mutlaka çatıya kadar çıkacağı şeklinde tek tip bir sonuç kurulmaz; belirleyici olan projede tarif edilen koruma sınırı ve doğrulanmış sistem detaylarıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "asma-tavanin-uzerinde-hangi-kusurlar-saklanir",
+      "metin": "Asma tavanın üzerinde hangi kusurlar saklanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Asma tavan üstündeki kablo tavaları, havalandırma kanalları, borular, bakım kapakları ve sonradan açılan delikler ayırıcı hattı zayıflatabilir. Duvar üstünde açıklık bulunması kadar, duvarın döşemeye bağlandığı derzde kullanılan dolgunun ve yangın durdurucu çözümün de uygunluğu önemlidir. Yangın dayanımı yalnız malzemenin adıyla değil, sistemin test ve sınıflandırma kapsamı ile montaj şartlarıyla ilişkilidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1550,
+      "yukseklik": 650,
+      "aciklama": "Şekil 18. Üst döşemeye ulaşan ayırıcı duvar ile asma tavan üstünde açıklık bırakan uygulamanın temsili karşılaştırması.",
+      "src": "/img/makale/ygr-k018-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-proje-ve-saha-karsilastirmasi",
+      "metin": "Belge, proje ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Aranan kanıt",
+        "Sahada dikkat edilecek durum"
+      ],
+      "satirlar": [
+        [
+          "Kompartıman sınırı",
+          "Onaylı kat planı ve kesit",
+          "Duvarın hangi iki mahali ayırdığı"
+        ],
+        [
+          "Üst birleşim",
+          "Yangın dayanımlı birleşim detayı",
+          "Duvar üstünde boşluk, derz veya kopukluk"
+        ],
+        [
+          "Asma tavan",
+          "Sistemin sınıflandırma ve montaj belgeleri",
+          "Dekoratif kaplamanın ayırıcı sayılması"
+        ],
+        [
+          "Tesisat geçişi",
+          "Uygun geçiş sistemi ve uygulama kaydı",
+          "Kablo/kanal çevresindeki yeni açıklıklar"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce onaylı mimari ve yangın güvenliği projelerinde duvarın ayırdığı mahalleri, yangın dayanım hedefini ve üst birleşim detayını belirler. Ardından erişim ve iş güvenliği koşulları sağlanarak asma tavan üstündeki görünür uygulamayı inceler; varsa tadilat projesi, uygulama fotoğrafı, ürün sınıflandırma raporu ve montaj talimatını karşılaştırır. Tespit ettiği açıklığın yerini, yaklaşık boyutunu, ilgili mahalleri ve kanıt eksikliğini fotoğraf veya krokide gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin ofis bölmeleri arasında duvarın asma tavan üzerinde kesildiği görülürse, yalnız bu görüntüyle tüm bina için kesin uygunluk kararı verilmez. Önce söz konusu hattın onaylı projede yangın kompartımanı sınırı olup olmadığı doğrulanır. Sınırsa, üst birleşim ve varsa alternatif belgeli çözüm istenir; açıklığın kapatılması için tasarım ve uygulama sorumlularının teknik çözümü değerlendirmesi sağlanır. YGU gözlemsel bulgu ve belge eksikliğini gerekçeli raporlar; yerinde deney, yangın dayanım hesabı, ürün sertifikasyonu veya proje onayı yetkisini kendiliğinden üstlenmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın duvarının tavanda nerede devam edeceği, dekoratif tavan çizgisine bakılarak değil, yangın ayırıcı sınırın onaylı kesitteki yeri ve belgeli üst birleşim çözümüyle belirlenir. Kompartıman sürekliliği, duvarın gövdesinde olduğu kadar birleşim ve tesisat geçişlerinde de korunmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-statusu",
+      "metin": "Mevzuat statüsü"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu değerlendirmede yürürlükteki yönetmelik esas alınmıştır. İncelenen yeni yönetmelik taslakları, yayımlanıp yürürlüğe girmedikçe bağlayıcı teknik şart veya mesleki yetki kaynağı olarak kullanılmaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

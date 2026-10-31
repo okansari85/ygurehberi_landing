@@ -1,0 +1,129 @@
+{
+  "kod": "YGR-K035",
+  "yol": "dis-kacis-merdiveni-her-yapida-ayni-cozum-mudur",
+  "baslik": "Dış kaçış merdiveni her yapıda aynı çözüm müdür?",
+  "ozet": "Dışarıya yerleştirilen bir merdiven, binadaki çıkış eksikliğini her durumda gidermez. Çözümün geçerliliği; yapının mevzuat bakımından durumu, bina yüksekliği, cephe açıklıkları, katlardan erişim ve zemindeki güvenli çıkış bağlantısıyla birlikte belirlenir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "dis-merdivenin-kullanilabilecegi-yapi-kosullari",
+      "metin": "Dış merdivenin kullanılabileceği yapı koşulları"
+    },
+    {
+      "tip": "p",
+      "metin": "Açık dış kaçış merdiveni, ilgili kaçış koşullarını sağladığında iç kaçış merdivenine alternatif olabilir. Ancak dışarıda bulunması, merdiveni cepheden kaynaklanan ısı ve duman etkilerinden kendiliğinden korumaz. Yeni bir yapıda yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, açık dış merdivenin yakınındaki daha az korunumlu kapı ve pencere boşlukları için yatay ve düşey doğrultuda 3 m sınırı öngörür. Bina yüksekliği 21,50 m’yi aşan binalarda açık dış merdivene izin verilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut yapılarda aynı eşikleri doğrudan kullanmak yanıltıcı olabilir. Yönetmeliğin mevcut binalara ilişkin özel hükmünde, dış merdivenin yanlarında yatay 1,8 m içinde korunumsuz açıklık bulunmaması ve merdivenin gerekli özellikleri taşıması koşuluyla konutlarda 51,50 m, diğer yapılarda 30,50 m bina yüksekliğine kadar farklı bir düzenleme vardır. Bu yakınlıkta korunumsuz açıklık varsa hüküm, açıklıkların en az 60 dakika dayanımlı hale getirilmesi veya merdivenin 60 dakika dayanımlı korunumlu yuva içine alınması seçeneklerini ayrıca düzenler. Hangi hükmün uygulanacağı, yapının ruhsat ve kullanım geçmişiyle belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "cephe-onune-eklenen-merdiven",
+      "metin": "Cephe önüne eklenen merdiven"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir merdiven pencere hizasından geçirildiğinde yalnız basamak ve sahanlık ölçüsü yeterli değildir. Kat kapısının merdivene açılması, pencere ve balkonların konumu, merdivenin yapıdan uzaklığı ve son çıkışın açık alana devamı birlikte çizimde gösterilmelidir. Aşağıdaki şema ölçülendirilmiş proje yerine geçmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 35. Dış merdiven ile cephe açıklıkları arasındaki ilişkinin şematik gösterimi. (Özgün temsili çizim.)",
+      "src": "/img/makale/ygr-k035-1.png"
+    },
+    {
+      "tip": "p",
+      "metin": "Hangi belge ve saha kanıtı gerekir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kanıt",
+        "Teknik değerlendirme"
+      ],
+      "satirlar": [
+        [
+          "Hangi hüküm uygulanır?",
+          "Ruhsat, iskan, kullanım ve tadilat kayıtları",
+          "Yeni ve mevcut yapı hükümlerini ayır"
+        ],
+        [
+          "Cephe açıklıkları güvenli mi?",
+          "Ölçekli görünüş, kapı/pencere ve korunum belgeleri",
+          "Yatay ve düşey ilişkiyi uygun hükme göre incele"
+        ],
+        [
+          "Katlardan erişim kesintisiz mi?",
+          "Kat planı, kapı ve sahanlık detayları",
+          "Merdivene erişim ve kaçış kapasitesini karşılaştır"
+        ],
+        [
+          "Son çıkış güvenli mi?",
+          "Vaziyet planı, saha güzergahı ve fotoğraflar",
+          "Açık alana çıkışın engellenmediğini doğrula"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "İlk karşılaştırma onaylı mimari proje, varsa yangın tahliye projesi, vaziyet planı, kesit ve cephe görünüşleri üzerinden yapılır. Yapı ruhsatı, yapı kullanma izin belgesi ve tadilat kayıtları incelenerek yeni yapı–mevcut yapı ayrımı netleştirilir. Ölçekli görünüşte merdiven kolu, sahanlık, pencere ve kapı açıklıkları; kat planında ise merdivene erişim ve çıkış sürekliliği gösterilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada pencerenin sonradan açılması, kapının yerinin değiştirilmesi, merdiven altına sundurma yapılması veya son çıkış güzergahının depolamayla daraltılması projedeki çözümü değiştirebilir. Çelik imalatın korozyon durumu, bağlantıları ve taşıma yeterliliği de önemlidir; bu konuların kesin teknik değerlendirmesi, yetkili mühendislik incelemesi ve ilgili raporlarla desteklenir. Merdivenin dışarıda olması, çıkış sayısı, kaçış uzaklığı ve kullanıcı yükü gereklerini ortadan kaldırmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek tespit ifadesi: “Açık dış merdivenin bulunduğu cephede merdivene yakın pencere açıklıkları görülmüştür. Yapının uygulanabilir mevzuat statüsü, açıklıkların korunum niteliği ve ölçülendirilmiş cephe ilişkisi belgelerle doğrulanamadığından merdivenin kaçış çözümü olarak yeterliliği hakkında olumlu kanaat oluşturulamamıştır.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında açık dış merdivene ilişkin 3 m yakınlık kuralı korunurken yükseklik sınırı, yürürlükteki metindeki “bina yüksekliği” yerine “dış kaçış merdiven evinin yüksekliği” ifadesiyle kurulmuştur. Bu taslak hüküm yürürlükteki kural gibi uygulanamaz. Mevcut yapılara ilişkin taslak yaklaşım da ayrıca değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendisine verilen inceleme görevinin sınırları içinde önce yapının onaylı projelerini, ruhsat ve kullanım belgelerini ve varsa tadilat kayıtlarını karşılaştırır. Merdivenin hangi katlara hizmet ettiğini, o katların fiili kullanımını, kullanıcıların merdivene ulaşabildiği kapıları ve zemindeki güvenli uzaklaşma yolunu sahada gözlemler. Görünüş ve planlarda işaretlenen pencere, kapı ve sahanlıkların gerçekten aynı konumda bulunup bulunmadığını kayıt altına alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Proje–saha farklılıklarını fotoğraf, kroki ve belge referanslarıyla gerekçeli raporlar; eksik ölçülü proje, yangına dayanım belgesi veya taşıyıcı sistem raporu varsa bunu açıkça belirtir. Saha gözlemiyle açıklıkların konumunu tespit etmesi, kendisine statik hesap yapma, taşıyıcı bağlantı onaylama, yangın dayanım testi gerçekleştirme ya da mimari proje tadilatını onaylama yetkisi vermez. Bu işler ilgili yetkili meslek mensuplarının ve idarenin sorumluluğunda kalır. Taslak YGU düzenlemesindeki görev tanımları, yürürlüğe girmeden mevcut bir yetki gibi sunulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Dış kaçış merdiveni, yalnızca cepheye eklenmiş bir metal konstrüksiyon olarak değerlendirilemez. Önce yapının hukuki ve teknik durumu, sonra merdivenin cepheyle ilişkisi, erişim koşulları ve güvenli son çıkışı birlikte doğrulanmalıdır. Aynı merdiven düzeni farklı iki binada farklı sonuç doğurabilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

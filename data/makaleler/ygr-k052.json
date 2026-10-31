@@ -1,0 +1,122 @@
+{
+  "kod": "YGR-K052",
+  "yol": "acil-yonlendirme-isaretinde-aydinlatma-tipi-ve-montaj-yeri-nasil-belgelenir",
+  "baslik": "Acil yönlendirme işaretinde aydınlatma tipi ve montaj yeri nasıl belgelenir?",
+  "ozet": "Bir çıkış levhasının yanması, kaçış yönünü doğru gösterdiği anlamına gelmez. Yönlendirme işareti, kullanıcıların karar verdiği noktadan görülebilmeli; üzerindeki ok, gerçek ve kullanılabilir kaçış güzergahıyla örtüşmelidir. Bu nedenle aydınlatma tipi ile montaj konumu aynı envanter kaydında, ancak ayrı teknik özellikler olarak belgelenir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "isaretin-tipi-ve-konumu-ayri-ayri-dogrulanir",
+      "metin": "İşaretin tipi ve konumu ayrı ayrı doğrulanır"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, acil yönlendirme işaretinin acil aydınlatma ünitesiyle dışarıdan aydınlatılmasına veya kendi içinde aydınlatılan yönlendirme ünitesi kullanılmasına imkan verir. Her iki çözümde de normal aydınlatma kesildiğinde işaretin görünür kalması gerekir. Bakım kaydındaki “çalışıyor” ibaresi, ürünün besleme düzenini, acil çalışma süresini veya doğru yere monte edildiğini tek başına kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede işaret yüksekliği en az 15 cm, montaj yüksekliği yerden 200–240 cm olarak belirtilir. Azami görülebilirlik uzaklığı, işaret boyut yüksekliğinin dışarıdan veya kenardan aydınlatılan tipte 100; içeriden veya arkadan aydınlatılan tipte 200 katı esas alınarak değerlendirilir. Bunlar bütün koridorlara tek sayıda levha konulacağı anlamına gelmez: dönüşler, görüşü kapatan elemanlar ve çıkışın algılanamadığı noktalar ilave işaret gerektirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Acil yönlendirmenin normal aydınlatma kesildiğinde en az 60 dakika, kullanıcı yükü 200’den fazla ise en az 120 dakika sürmesi gerekir. Bu süreler tasarım, ürün ve yetkili test kayıtları üzerinden değerlendirilir; yalnızca işaretin o anda yanıyor olması yeterli kanıt değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "karar-noktasinda-gorus-hatti-nasil-okunur",
+      "metin": "Karar noktasında görüş hattı nasıl okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, çıkış kapısının önünden değil, kullanıcının güzergah seçtiği noktadan başlar. Koridor kesişimi, dönüş, merdiven yaklaşımı veya yeni bölme önünde duran kişi hangi işareti görmektedir? İşaretin oku gerçekten açık olan geçide mi yönelmektedir? Sonradan eklenen reklam panosu, asma tavan, raf veya açık kapı kanadı görüşü kapatıyor mu? Aynı koridordaki farklı işaret tiplerinin oluşturduğu yönlendirme zinciri bu sorularla sınanır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 52. Koridor dönüşünde işaretin ok yönü ile karar noktası arasındaki ilişkinin temsili gösterimi. Ölçekli montaj projesi değildir.",
+      "src": "/img/makale/ygr-k052-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasi",
+      "metin": "Belge ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek kanıt",
+        "Saha değerlendirmesi"
+      ],
+      "satirlar": [
+        [
+          "Hangi karar noktası?",
+          "Onaylı kaçış planı, güncel mimari plan",
+          "Yaklaşım yönünü ve görülecek ilk işareti belirle."
+        ],
+        [
+          "Levha nerede ve hangi tipte?",
+          "Ürün belgesi, yerleşim planı, kodlu fotoğraf",
+          "İçten/dıştan aydınlatma tipini ve montaj konumunu eşleştir."
+        ],
+        [
+          "Ok yönü hala geçerli mi?",
+          "Plan revizyonu, kapı ve koridorun mevcut hali",
+          "İşareti izleyerek çıkışa kadar kesintisiz güzergahı gözle."
+        ],
+        [
+          "Enerji kesildiğinde ne olur?",
+          "Bakım, işlev ve süre testi kayıtları",
+          "Test kapsamı ve tarihini kontrol et; işlevi gözlemle."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının onaylı mimari ve acil aydınlatma/yönlendirme projelerini, varsa proje revizyonlarını, kullanım izinlerini ve işletmenin güncel mahal düzenini inceler. Levhaları kat, mahal ve benzersiz cihaz koduyla eşleştirir; tipini, ok yönünü, montaj yerini ve yaklaşım yönünden çekilmiş fotoğrafını kaydeder. Yerleşim projesiyle gerçek koridor ve kapı durumunu karşılaştırır. İşaretin arkasındaki elektrik beslemesini tahmin etmek yerine ürün belgeleri, devre bilgileri, bakım ve yetkili test raporlarıyla doğrulama ister."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bölme duvarla yönü değişen bir koridorda eski levha halen yanıyor olabilir. YGU, bu durumu “levha çalışıyor” diye kapatmaz; hangi karar noktasında hangi okun yanlış güzergaha götürdüğünü fotoğraf ve plan üzerinde göstererek gerekçeli bulgu oluşturur. Montaj ve elektriksel test gerektiren düzeltmeler ilgili proje müellifi, tesisat sorumlusu veya yetkili teknik kişilerce değerlendirilir. YGU gözlemsel tespiti, belge karşılaştırması ve raporlamasıyla katkı verir; tasarım onayı, elektriksel ölçüm veya sertifikalı test yetkisini kendiliğinden üstlenmez."
+    },
+    {
+      "tip": "h2",
+      "id": "uygulamada-kararin-siniri",
+      "metin": "Uygulamada kararın sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki hüküm, işaretin sembol ve yazı düzenini belirler. Yeni BYKHY taslağında sembolün yanında yazı kullanılması durumuna ilişkin farklı bir ifade önerilmiştir; bu öneri yürürlükteki koşul yerine uygulanmaz. Teknik değerlendirme, yapının tabi olduğu yürürlükteki hükümler ve onaylı proje üzerinden yapılır. Kılavuzdaki örnek çizimler yerleşim mantığını açıklar; her binanın planına bire bir aktarılacak zorunlu şablon değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak sağlam bir kayıt; işaretin tipini, konumunu, görüş hattını, doğru kaçış yönünü ve acil besleme performansını birbirine bağlar. Birinin eksik olması, diğerlerinin doğrulandığı anlamına gelmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

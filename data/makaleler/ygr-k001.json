@@ -1,0 +1,110 @@
+{
+  "kod": "YGR-K001",
+  "yol": "kilavuz-ile-yonetmelik-celisirse-hangisi-uygulanir",
+  "baslik": "Kılavuz ile yönetmelik çelişirse hangisi uygulanır?",
+  "ozet": "Bir proje toplantısında aynı kaçış düzeni üzerine iki farklı görüş ortaya çıkabiliyor. Bir uzman Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) maddesini gösterirken bir başkası Bakanlığın uygulama kılavuzundaki çizime dayanıyor. İki kaynak da resmi olduğu için tartışma bazen “Hangi çizim doğru?” sorusuna sıkışıyor. Oysa önce bu kaynakların aynı yapı koşullarını, aynı konuyu ve aynı tarihi esas alıp almadığına bakmak gerekiyor.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Yapıda hangi yükümlülüğün uygulanacağını yönetmelik belirler. Bakanlığın Aralık 2024 tarihli kılavuzu ise hükümleri açıklamak ve uygulamada karşılaşılan sorulara yardımcı olmak için hazırlanmıştır. Kılavuzun girişinde de açıkça belirtildiği gibi, açıklamalar ile yürürlükteki mevzuat çelişirse mevzuat geçerlidir. Dolayısıyla kılavuzdaki bir çizimi, yönetmelikte olmayan yeni bir zorunluluk gibi yorumlayamayız."
+    },
+    {
+      "tip": "h2",
+      "id": "once-gercekten-bir-celiski-olup-olmadigini-anlamak-gerekir",
+      "metin": "Önce gerçekten bir çelişki olup olmadığını anlamak gerekir"
+    },
+    {
+      "tip": "p",
+      "metin": "Her farklı açıklama gerçek bir çelişki anlamına gelmez. Yönetmelik bir kaçış yolunun sağlaması gereken koşulları düzenleyebilir; kılavuz bu koşulların nasıl uygulanabileceğini bir planla gösterebilir; teknik standart ise tasarım ya da deney yöntemini açıklayabilir. Kılavuz çizimindeki kapı, koridor ve ölçüler örnek çözümün koşullarına aittir. İncelediğimiz yapı farklı özellikler taşıyorsa çizimi doğrudan o projeye aktarmak doğru olmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir de tarih meselesi var. Aralık 2024 kılavuzuna göre hazırlanmış bir proje dosyasının 2026 yılında yeniden incelendiğini düşünelim. Bu kez kılavuzdaki açıklamayla yetinemeyiz; ilgili hükmün yürürlükteki metnini ve projeye konu işlemin tarihini de kontrol ederiz. Örneğin 1 Temmuz 2025 tarihli düzenlemeyle BYKHY’ye eklenen Geçici Madde 4, mevcut binalarda malzeme temini için süre gerektiren eksikliklere ilişkin, 31 Aralık 2025 tarihine kadar tamamlanması öngörülen işlemlerle ilgilidir. Bütün yangın güvenliği hükümlerini değiştiren genel bir düzenleme değildir. Bir değişikliğin yayımlanmış olması kadar hangi durumlara uygulandığı da önemlidir."
+    },
+    {
+      "tip": "h2",
+      "id": "kucuk-bir-proje-revizyonunda-kaynak-kontrolu",
+      "metin": "Küçük bir proje revizyonunda kaynak kontrolü"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir belediye hizmet binasının tadilat projesinde, yangın güvenlik holünü göstermek için eski kılavuzdaki bir çizimin kullanıldığını düşünelim. Önce mevcut planla önerilen düzeni yan yana koyarız. Sonra asıl sorunun ne olduğunu belirleriz: Bu yapıda yangın güvenlik holü gerekli mi, holün boyutu mu tartışılıyor, kapı yerleşiminde mi sorun var, yoksa kullanım türüne bağlı bir istisna mı söz konusu? Yalnızca “Kılavuzdaki çizime uymuyor” demek bunlardan hangisinin incelendiğini açıklamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Dosyada karşılaştırılacak bilgi",
+        "Ne işe yarar?"
+      ],
+      "satirlar": [
+        [
+          "Güncel BYKHY hükmü ve yürürlük tarihi",
+          "Bağlayıcı gereğin ve uygulanabilirlik koşulunun belirlenmesi"
+        ],
+        [
+          "Kılavuzun ilgili açıklaması/şekli",
+          "Hükmün uygulamasına ilişkin resmi yorumun anlaşılması"
+        ],
+        [
+          "Onaylı proje, ruhsat ve revizyon tarihi",
+          "İncelenen yapının ve işlemin doğru tanımlanması"
+        ],
+        [
+          "Sahadaki ölçüm veya uygulama",
+          "Çizimde öngörülen koşulun gerçekten sağlanıp sağlanmadığının görülmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Kılavuz çizimi farklı bir bina türüne veya kapı düzenine aitse ortada mevzuat çelişkisi değil, örneklerin yanlış eşleştirilmesi vardır. Açıklama gerçekten yürürlükteki açık hükümden farklı bir sonuca götürüyorsa rapor yönetmelik hükmüne dayanmalıdır. Gerekli hallerde yetkili idarenin görüşü alınabilir. Bununla birlikte eldeki proje ve saha belgeleri bekletilmeden kayda geçirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle ek tabloları kullanırken sürüme dikkat etmek gerekir. Kılavuzdaki tablo, yayımlandığı tarihte geçerli olan bir yönetmelik ekini açıklıyor olabilir. Daha sonra değişen veya yargı kararından etkilenen bir hüküm için eski tabloyu tek dayanak sayarsak hesap doğru olsa bile uygulama sonucu yanlış çıkabilir. İnceleme dosyasında bu nedenle yalnızca PDF’nin indirilme tarihi değil, dayanak hükmün sürümü ve varsa değişiklik kaydı da yer almalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), proje incelemesinde veya mevcut bir yapının yangın güvenliği kontrolünde kılavuzdaki örnekle sahadaki düzen arasında fark gördüğünde önce bu farkın nedenini araştırır. İncelediği yapı için hangi hükmün geçerli olduğunu, kılavuzdaki şeklin hangi koşulları açıkladığını ve onaylı projede neyin öngörüldüğünü birbirinden ayırır. Örneğin belediye hizmet binasının yangın güvenlik holündeki kapı yer değiştirmişse uzman, holün ve kapının onaylı mimari veya tahliye projesindeki konumunu, varsa revizyon paftasını ve mevcut uygulamayı karşılaştırır. Yalnızca kılavuzdaki çizim farklı diye uygunsuzluk sonucu yazmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Periyodik kontrol kapsamında yapının gerçek kullanımının projedeki kullanım ve tehlike sınıflarıyla örtüşmesi de bu incelemenin parçasıdır. Yangın güvenlik holü, kaçış kapısı veya koridor gibi unsurlarda değişiklik varsa hangi mahalde, hangi projeye göre ve ne tür bir farklılık görüldüğü açıkça kaydedilir. Yangın Güvenlik Uzmanı (YGU), fotoğrafı ve ilgili proje bilgisini teknik bulguyla ilişkilendirir; yeterli belge yoksa hangi bilginin eksik olduğunu belirtir. Bu çalışma bir proje değişikliğini onaylamak veya başka uzmanların test ve tasarım sorumluluğunu üstlenmek değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "teknik-bulgu-nasil-yazilmali",
+      "metin": "Teknik bulgu nasıl yazılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Teknik raporda yalnızca “Bakanlık kılavuzuna aykırıdır” ifadesini kullanmak, sorunun nerede olduğunu anlatmaz. Örneğin bir kapı yeri değişikliğinde, onaylı revizyon paftası ile sahadaki kapı konumunun farklı olduğu, bu farkın hangi kaçış düzenini etkilediği ve değerlendirmede hangi yönetmelik hükmünün dikkate alındığı belirtilmelidir. Uygulanabilir hüküm konusunda tereddüt varsa, bu durum teknik bulgudan ayrı açıklanır ve gerektiğinde yetkili idarenin yazılı görüşüne başvurulur. Böylece rapor, kaynağı belirsiz bir kanaat yerine izlenebilir bir inceleme sunar."
+    },
+    {
+      "tip": "p",
+      "metin": "Kılavuz, yönetmelikteki hükümleri anlamaya yardım eder; fakat her çizim bütün yapılar için geçerli tek çözüm değildir. Yangın Güvenlik Uzmanının (YGU) değerlendirmesinde belirleyici olan, yapının koşullarına uygulanabilen hüküm ile onaylı proje ve sahadaki mevcut durumun birlikte incelenmesidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, özellikle Madde 1–3."
+    },
+    {
+      "metin": "ÇŞİDB, Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu, Aralık 2024, ön bilgiler ve basılı s. 21–22."
+    },
+    {
+      "metin": "1 Temmuz 2025 tarihli, 32943 sayılı Resmi Gazete; BYKHY Geçici Madde 4."
+    }
+  ],
+  "sonNotlar": []
+}

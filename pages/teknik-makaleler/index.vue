@@ -2,9 +2,11 @@
 // Teknik Makaleler listesi: tasarım yok; sitenin hero kalıbı + etikete göre süzülen kart ızgarası (MakaleKart).
 // Makaleler data/makaleler.ts (en yeni kod en başta).
 import { SITE } from '~/data/icerik'
-import { MAKALELER } from '~/data/makaleler'
 
 const YOL = '/teknik-makaleler'
+// Yalnız kart alanları tarayıcıya gider, makale gövdeleri gitmez (sayfa hızı).
+const { data } = await useAsyncData('makale-listesi', async () => (await import('~/data/makaleler')).MAKALELER.map(makaleKarti))
+const MAKALELER = data.value ?? []
 
 const ETIKETLER = [...new Set(MAKALELER.flatMap((m) => m.etiketler))].sort((a, b) => a.localeCompare(b, 'tr'))
 const sayi = (e: string) => MAKALELER.filter((m) => m.etiketler.includes(e)).length
@@ -14,7 +16,7 @@ const liste = computed(() => (secili.value ? MAKALELER.filter((m) => m.etiketler
 useSayfaSeo({
   baslik: 'Yangın Güvenliği Teknik Makaleler | YGU Rehberi',
   aciklama:
-    'Yangın güvenlik uzmanları için teknik makaleler: sprinkler, depolama, yangın güvenliği tasarımı ve sahada karşılaşılan uygulama soruları.',
+    'Yangın güvenlik uzmanları için teknik makaleler: mevzuat, kaçış, yangın bölmeleri, cephe, bina sistemleri ve sahada karşılaşılan uygulama soruları.',
   yol: YOL,
   gorsel: '/img/surec-proje.webp',
   jsonLd: [

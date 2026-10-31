@@ -1,0 +1,130 @@
+{
+  "kod": "YGR-K049",
+  "yol": "elektrik-saftindan-gecen-kablolar-yangin-bolmesini-etkiler-mi",
+  "baslik": "Elektrik şaftından geçen kablolar yangın bölmesini etkiler mi?",
+  "ozet": "Bir elektrik şaftına yeni veri veya enerji kablosu çekilmesi, ilk bakışta yalnız tesisat değişikliği gibi görünür. Oysa kabloyu geçirmek için açılan veya genişletilen delik, şaftı çevreleyen duvarın ya da kat döşemesinin yangın ayırma işlevini zayıflatabilir. Burada belirleyici soru kablonun ne işe yaradığı değil, geçtiği yapı elemanının yangın ve duman geçişine karşı öngörülen bütünlüğünün korunup korunmadığıdır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "saftin-icinde-kablo-bulunmasi-ile-yangin-bolmesinin-delinmesi-ayni-sey-degildir",
+      "metin": "Şaftın içinde kablo bulunması ile yangın bölmesinin delinmesi aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Şaft, tesisatın katlar arasında taşındığı bir güzergah olabilir. Ancak her şaftın her yüzeyi aynı yangın ayırma sınırını oluşturmaz. Önce onaylı mimari yangın güvenliği projesinden kompartıman sınırları, şaftın duvar ve döşeme detayları ile tesisat geçişlerinin konumu okunmalıdır. Ardından bu sınırlar sahada kat kat izlenmelidir. Yangın ayırıcı niteliği bulunan bir duvar veya döşemeden geçen kablonun çevresinde açık boşluk bırakılması, yangının ve özellikle dumanın diğer tarafa geçişi için yol oluşturabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kablo demetinin düzenli bağlanmış olması veya şaft kapağının kapalı tutulması, döşeme geçişinin uygun şekilde kapatıldığını göstermez. Aynı şekilde bir geçişin üzerinde dolgu görülmesi de tek başına yeterli değildir. Uygulanan yangın durdurucu çözümün, gerçek açıklık ve tesisat düzeniyle uyumlu olduğu belgeler üzerinden anlaşılmalıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 49. Elektrik şaftında kat geçişlerinin ve bu geçişlere ait kayıtların şematik gösterimi. Temsili çizim; eski taslaktaki özgün görsel korunmuştur.",
+      "src": "/img/makale/ygr-k049-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-yeni-taslagin-ayrimi",
+      "metin": "Yürürlükteki hüküm ile yeni taslağın ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 69 uncu maddesi, elektrik tesisatının yangın bölmeleri arasındaki yatay ve düşey geçişlerinde açıklıkların yangın veya duman geçişini engelleyecek yangın durdurucu malzemelerle kapatılmasını öngörür. Bakanlığın uygulama kılavuzundaki yatay ve düşey geçiş çizimleri bu düzenin nasıl okunacağını somutlaştırır. Yeni BYKHY taslağında aynı konu, yangın kompartımanlarından geçişler başlığı altında 70 inci maddede ele alınmaktadır. Taslaktaki madde numarası ve ifadeler yürürlükteki hükmün yerine geçmez; bugünkü uygunluk değerlendirmesinde yürürlükteki metin esas alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-kablo-cekildikten-sonra-ne-degismis-olabilir",
+      "metin": "Yeni kablo çekildikten sonra ne değişmiş olabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlave data hattı için mevcut geçiş dolgusunun sökülmesi, yeni bir delik açılması veya kablo demetinin büyütülmesi mümkündür. Bu müdahalelerden sonra eski yangın durdurucu sistemin aynı uygulama kapsamıyla geçerli olup olmadığı yeniden incelenmelidir. Ürünün etiketindeki dayanım ifadesi, bütün geçiş detayının o performansı sağladığını tek başına kanıtlamaz; duvar veya döşemenin türü ve kalınlığı, açıklığın boyutu, kablo türü ve demet düzeni, dolgu bileşenleri ve uygulama şekli birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle saha kaydı “delik kapatılmış” cümlesiyle bitmemelidir. Hangi katın hangi duvar veya döşemesinde, hangi tesisatın hangi geçişten geçtiği ve uygulanan sistemin hangi teknik belgeyle ilişkilendirildiği görülebilmelidir. Kayıtlar sonraki kablo ekleme veya bakım işleminde de kullanılabilecek açıklıkta tutulmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari proje, yangın güvenliği projesi ve ilgili elektrik tesisatı çizimlerini karşılaştırarak başlar. Yapının ruhsat ve kullanım belgeleriyle mevcut mahal düzeni arasındaki farklılıkları belirler. Şaftın hizmet verdiği katlar, sonradan açılan geçişler, değişen kablo güzergahları ve bakım sırasında sökülmüş kapamalar yerinde gözlemlenir. İşletmeden varsa revizyon projesi, uygulama detayı, kullanılan ürünün sınıflandırma ve montaj belgeleri, uygulama tutanakları ve tarihli fotoğraflar istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman her geçişi kat, mahal ve konum koduyla kayda alır; projede öngörülen ayırıcı elemanla sahadaki durumu eşleştirir. Açık bir boşluk gözlemlenmişse bunu doğrudan bulgu olarak yazar. Dolgu mevcut olduğu halde sistemin hangi performans kapsamında uygulandığı belgelenemiyorsa, bunu “uygunsuz ürün” şeklinde kesinleştirmek yerine kanıt eksikliği olarak ayırır. Gerektiğinde ilgili proje müellifi, uygulayıcı veya yetkili teknik kuruluşun değerlendirmesini ve düzeltici işlem kaydını talep eder. YGU'nun gözlemsel incelemesi; elektrik projesi tasarlama, yangın durdurucu sistemin performansını laboratuvarda ölçme ya da yetkili kuruluş yerine kabul/onay verme işlemi değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-izlenebilir-kontrol-kaydi",
+      "metin": "Sahada izlenebilir kontrol kaydı"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Aranacak kayıt / kanıt",
+        "Değerlendirme yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "Yangın ayırıcı sınır",
+          "Onaylı kat planı, şaft kesiti, revizyon projesi",
+          "Döşeme ve duvar geçişinin gerçekten hangi sınırda olduğunu belirle."
+        ],
+        [
+          "Yeni veya değişen kablo geçişi",
+          "Kat ve mahal kodu, kablo listesi, tarihli fotoğraf",
+          "Açıklığın ve tesisat düzeninin son halini ayrı ayrı kaydet."
+        ],
+        [
+          "Yangın durdurucu uygulama",
+          "Sistem sınıflandırma belgesi, montaj detayı, uygulama tutanağı",
+          "Belgedeki kapsamı gerçek duvar/döşeme ve kablo düzeniyle karşılaştır."
+        ],
+        [
+          "Devir ve bakım izlenebilirliği",
+          "İş bitirme kaydı, güncel geçiş envanteri",
+          "Sonraki müdahalede hangi sistemin yeniden kurulacağını izlenebilir kıl."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Elektrik şaftında yeni kablo geçişi, yalnız tesisatın kapasitesini değil, yangın ayırıcı elemanların sürekliliğini de etkileyebilir. Sağlıklı değerlendirme; proje sınırının belirlenmesi, geçişin sahada görülmesi ve kullanılan kapama sisteminin belgelerle eşleştirilmesi üzerine kuruludur. Eksikliklerin niteliği doğru ayrıştırıldığında hem düzeltici işlem hem sonraki bakım daha güvenilir yürütülür."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

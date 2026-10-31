@@ -1,0 +1,144 @@
+{
+  "kod": "YGR-K041",
+  "yol": "kazan-dairesinin-kapisi-ve-havalandirmasi-hangi-belgelerle-kontrol-edilir",
+  "baslik": "Kazan dairesinin kapısı ve havalandırması hangi belgelerle kontrol edilir?",
+  "ozet": "Kazan dairesinin yangın güvenliği, tek bir kapı etiketi veya cihaz bakım formuyla doğrulanamaz. Önce mahallin onaylı projede nasıl tanımlandığı, ardından kapı ve çıkış düzeninin, havalandırma açıklıklarının ve fiilen kullanılan yakıtın bu projeyle uyumu incelenir. Her belge farklı bir soruya cevap verir; belgelerin birbirinin yerine kullanılması yanlış sonuca götürür.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "mahalin-siniri-ve-kapi-baglantisi",
+      "metin": "Mahalin sınırı ve kapı bağlantısı"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk belge, ruhsat eki mimari projedir. Kazan dairesinin duvarları, bitişik kullanım alanları, kapı konumu ve kapının açıldığı hacim bu projede görülmelidir. Mekanik tesisat projesi ise kazanların yerleşimini, yakıt türünü, ısıl kapasiteyi, hava alma ve atma düzenini, duman bacasını gösterir. Yapı kullanım izni ve varsa onaylı tadilat projeleri, hangi düzenin izinli olduğunu belirlemek için birlikte okunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kazan dairesinin diğer bölümlerden en az 120 dakika yangına dayanıklı bölmelerle ayrılmasını öngörür. Kazan dairesi kapısı kaçış merdivenine veya genel kullanım merdivenine doğrudan açılamaz; ortak hol ya da koridor bağlantısı aranır. Sahada kapı yerinin değiştirilmiş olması, yalnızca bir mimari değişiklik değil, bu bağlantı şartının yeniden incelenmesini gerektiren bir bulgudur."
+    },
+    {
+      "tip": "h2",
+      "id": "cikis-sayisi-icin-alan-ve-kapasite-birlikte-okunur",
+      "metin": "Çıkış sayısı için alan ve kapasite birlikte okunur"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede 50–350 kW ısıl kapasite aralığındaki kazan daireleri için en az bir kapı; döşeme alanı 100 m² üzerinde veya ısıl kapasitesi 350 kW üzerinde olan kazan daireleri için en az iki çıkış kapısı hükmü yer alır. Çıkış kapıları için yangına en az 90 dakika dayanım, duman sızdırmazlık ve kendiliğinden kapanma özellikleri de aranır. Kapı adedine yalnız cihaz sayısından ya da mahalin gözle tahmin edilen büyüklüğünden karar verilmez; kapasite ve alan belgelerle belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında çıkış sayısına ilişkin kapasite eşiği farklı düzenlenmiştir. Bu öneri yürürlükteki şartın yerine geçirilemez. Değerlendirmede yapının tabi olduğu yürürlükteki hükümler, ruhsat ve tadilat geçmişi esas alınır; taslak yalnız olası değişikliklerin takibi açısından ayrı tutulur."
+    },
+    {
+      "tip": "h2",
+      "id": "havalandirma-ve-duman-bacasi-ayni-islevi-gormez",
+      "metin": "Havalandırma ve duman bacası aynı işlevi görmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Kazan dairesinde temiz hava girişi, kirli hava çıkışı ve yanma ürünlerini uzaklaştıran duman bacası farklı işlevlere sahiptir. Yönetmelik, duman bacasına ek olarak temiz ve kirli hava bacalarını öngörür. Bakanlık Kılavuzu bu ayrımı şemalarla açıklar. Sahada bir menfezin bulunması, tek başına yeterli hava sağlandığını kanıtlamaz; açıklığın yeri, kesiti, tıkanma durumu ve bağlı olduğu tesisat projesi ayrıca değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yakıt doğalgaz veya LPG ise gaz tesisatı projesi, dağıtım kuruluşunun teknik şartnamesi, gaz algılama ve kesme düzeni ile ilgili yetkili kuruluş kayıtları da dosyaya eklenir. Hava debisi, baca çekişi, gaz algılama performansı veya yanma ayarına ilişkin teknik doğrulama, yetkili kişi ve kuruluşların ölçüm ve test kayıtlarıyla yapılır; gözlemsel inceleme bu testlerin yerini tutmaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 41. Kazan dairesi, ortak hol ve ayrı hava yollarını gösteren özgün temsili şema.",
+      "src": "/img/makale/ygr-k041-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-kaniti-nasil-eslestirilir",
+      "metin": "Belge ve saha kanıtı nasıl eşleştirilir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "İncelenecek belge / kayıt",
+        "Sahadaki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Mahalin sınırı ve kapının açıldığı yer",
+          "Ruhsat eki mimari plan, yapı kullanım izni, onaylı tadilat paftası",
+          "Duvar sınırı, ortak hol/koridor, kapı yönü ve sonradan yapılan değişiklik"
+        ],
+        [
+          "Çıkış sayısı ve kapı niteliği",
+          "Kazan kapasite belgeleri, alan bilgisi, kapı ürün/uygulama belgeleri",
+          "Kapı sayısı, konum, kapanma düzeni, görünür hasar ve geçiş engelleri"
+        ],
+        [
+          "Temiz/kirli hava ve duman bacası",
+          "Mekanik proje, havalandırma/baca detayı, yetkili test raporları",
+          "Menfez ve baca konumu, açıklıkların erişilebilirliği, tıkanma veya tadilat izleri"
+        ],
+        [
+          "Yakıt ve tesisat değişiklikleri",
+          "Cihaz etiketi, gaz/yakıt projesi, kabul ve bakım kayıtları",
+          "Yeni cihaz, boru güzergahı, kesme elemanları ve fiili işletme koşulları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının kullanım sınıfını, ruhsat ve yapı kullanım izni kayıtlarını, kazan dairesinin onaylı mimari ve mekanik paftalarını belirleyerek başlar. Cihazın yakıt türü ve etiket kapasitesi, mahallin güncel yerleşimi, kapı bağlantısı ve havalandırma açıklıkları yerinde gözlemlenir. Görülen değişiklikler ilgili pafta ve belgeyle eşleştirilir; fotoğraflarda konum ve bulgunun ne olduğu anlaşılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapıdaki hasar, kendiliğinden kapanma düzeneğinin görünür eksikliği veya hava girişinin malzemeyle kapatılması gibi gözlemsel bulgular somut biçimde kaydedilir. Buna karşılık kapının yangın dayanımı yalnız dış görünüşten, havalandırmanın yeterliliği yalnız menfez fotoğrafından kesinleştirilemez. Belge bulunmuyorsa bu durum açıkça belirtilir ve gerekli ürün/uygulama kanıtı, yetkili mekanik inceleme, ölçüm veya test raporu istenir. YGU, tasarımcı mühendisin hesap ve revizyonunu, yetkili test kuruluşunun ölçümünü ya da ilgili idarenin onayını kendi raporuyla ikame etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-raporlama-ornegi",
+      "metin": "Gerekçeli raporlama örneği"
+    },
+    {
+      "tip": "p",
+      "metin": "“Kazan dairesine sonradan eklenen cihaz yerinde görülmüştür. Sunulan mekanik paftada yeni cihazın hava giriş ve çıkış bağlantıları gösterilmemekte; güncel kapasite ve havalandırma hesabına ilişkin onaylı revizyon da incelemeye sunulmamıştır. Bu nedenle mevcut işletme koşullarının onaylı projeyle uyumu bu aşamada doğrulanamamıştır. İlgili proje ve teknik kayıtların tamamlanması gerekmektedir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ifade, belgenin eksikliği ile kanıtlanmış teknik uygunsuzluğu birbirinden ayırır. Sahada doğrudan gözlenen bir engel veya hasar varsa ayrıca konumu ve etkisi belirtilerek raporlanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kazan dairesinin kontrolünde üç soru birlikte cevaplanmalıdır: Mahal hangi onaylı projeye göre kurulmuştur, bugün gerçekte nasıl kullanılmaktadır ve kapı ile havalandırma koşulları hangi belgelerle doğrulanmaktadır? Mimari plan, mekanik proje, ürün belgeleri ve yetkili test kayıtları birlikte incelendiğinde hem gereksiz kesin yargılar hem de gözden kaçan değişiklikler azaltılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

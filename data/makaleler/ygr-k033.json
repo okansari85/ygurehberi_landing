@@ -1,0 +1,127 @@
+{
+  "kod": "YGR-K033",
+  "yol": "kacis-yolu-kapisinin-acilma-yonu-hangi-baglamda-degerlendirilir",
+  "baslik": "Kaçış yolu kapısının açılma yönü hangi bağlamda değerlendirilir?",
+  "ozet": "Bir kaçış kapısının açılma yönü, yalnız kanadın menteşe tarafına bakılarak değerlendirilemez. Kapının hangi mahale hizmet ettiği, o mahalin kullanıcı yükü, kaçışın izlediği yön ve kapı açıldığında güzergahın kullanılabilir kalıp kalmadığı birlikte incelenir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "hangi-kapinin-kacis-yonune-acilmasi-gerekir",
+      "metin": "Hangi kapının kaçış yönüne açılması gerekir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), kullanıcı yükü 50 kişiyi aşan mahallerin çıkış kapılarının kaçış yönüne doğru açılmasını öngörür. Bu koşul, her iç kapının istisnasız dışa açılması gerektiği anlamına gelmez. Önce kapının kaçış yolu üzerindeki işlevi ve hizmet ettiği mahalin kullanıcı yükü belirlenmelidir. Mevcut yapılar için de ilgili özel hükümler ayrıca dikkate alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Açılma yönü doğru olsa bile kapı kanadının hareketi kullanıcıları engelliyorsa, geçişte istif bulunuyorsa veya kapı kaçış sırasında kolayca açılamıyorsa sorun devam eder. Bu nedenle yön, temiz geçiş açıklığı, erişilebilirlik ve kilit düzeni birbirinden ayrı kontrol konularıdır. Yangın kapısı söz konusuysa kapatma ve duman sızdırmazlık gibi işlevler de kendi teknik belgeleriyle değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "koridora-acilan-kapi-plan-ile-gercek-durum",
+      "metin": "Koridora açılan kapı: plan ile gerçek durum"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir depoya ait kapının koridora doğru açılması, tek başına yön bakımından aykırılık kararı verdirmez. Ancak açılan kanat koridorun kullanılabilir geçişini daraltabilir veya karşı yönden ilerleyen kişilerin hareketini kesebilir. Projedeki kapı açılım oku ile sahadaki kanat hareketi bu nedenle birlikte görülmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 33. Kapı kanadı hareketi ile kaçış güzergahı arasındaki ilişkinin temsili gösterimi.",
+      "src": "/img/makale/ygr-k033-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-aranacak-kanitlar",
+      "metin": "Proje–saha karşılaştırmasında aranacak kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Başlıca kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Kapının işlevi",
+          "Onaylı mimari/tahliye projesi, kapı kodu, mahal adı",
+          "Kapının hangi kullanıcı grubuna ve kaçış yoluna hizmet ettiği"
+        ],
+        [
+          "Kullanıcı yükü",
+          "Proje hesabı, onaylı kullanım ve fiili faaliyet bilgisi",
+          "50 kişi eşiğinin somut mahale uygulanıp uygulanmadığı"
+        ],
+        [
+          "Açılma yönü ve alanı",
+          "Kapı açılım detayı, yerinde gözlem, güncel yerleşim",
+          "Kanadın kaçış yönüyle ilişkisi ve geçişe olası etkisi"
+        ],
+        [
+          "Kullanılabilirlik",
+          "Kapı donanımı, kilit ve sabit engel gözlemi, teknik belgeler",
+          "Yön uygun olsa da kaçışın fiilen engellenip engellenmediği"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ruhsat ve kullanım durumunu, onaylı mimari ve varsa tahliye projesini belirleyerek başlar. Kapı numarası, hizmet ettiği mahalin onaylı işlevi ve güncel kullanımı eşleştirilir. Projede toplantı alanı olarak gösterilen bir bölümün bugün farklı yoğunlukta kullanılması, kullanıcı yükü verisinin yeniden doğrulanmasını gerektirebilir; yalnız kapı üzerindeki tabela yeterli kanıt değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yerinde incelemede kapının hangi tarafa açıldığı, kanadın koridoru veya merdiven sahanlığını etkileyip etkilemediği, kapının önündeki sabit engeller ve donanımın görülebilir durumu kayıt altına alınır. Kullanıcı yükü hesabı, net açıklık ölçümü veya kapı performansına ilişkin test gerektiren noktalar varsa bunlar yetkili proje müellifi, ilgili teknik uzman ya da test kuruluşunun belge ve değerlendirmesiyle tamamlanır. YGU gözlemi, bu kişilerin tasarım, ölçüm, test ve onay yetkilerinin yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bulgu dili: “K-12 kapısının onaylı plandaki açılımı ile sahadaki kanat yönü farklıdır. Kapı, toplantı alanından kaçış koridoruna hizmet etmektedir. Mahalin güncel kullanıcı yükü ve kapı açıldığında kalan kullanılabilir geçiş, ilgili teknik belgelerle doğrulanmadan uygunluk kararı verilememiştir.” Böyle bir kayıt, gözlenen farkı kesin hükümden ayırır ve tamamlanması gereken kanıtı gösterir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenlemelerle-yururlukteki-hukum-ayrimi",
+      "metin": "Taslak düzenlemelerle yürürlükteki hüküm ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında kaçış yolu kapıları ayrıca düzenlenmekte; açılma yönü yaklaşımı benzer olmakla birlikte bazı kapı ölçütlerinde farklı değerler önerilmektedir. Taslak hükümler yayımlanıp yürürlüğe girmedikçe mevcut yönetmeliğin yerine uygulanamaz. Yangın Güvenlik Uzmanlığına ilişkin ayrı taslak da inceleme ve raporlama sürecini tarif eder; tek başına yeni bir proje onay veya teknik test yetkisi doğurmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapı yönü kararı; mahalin kullanıcı yükü, kapının kaçıştaki görevi, onaylı proje ve sahadaki gerçek hareket alanı birlikte okunarak verilir. Kanat oku, doğru soruyu başlatır; gerekçeli teknik sonucun tamamı değildir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

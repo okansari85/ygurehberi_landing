@@ -1,10 +1,7 @@
 <script setup lang="ts">
 // Teknik makale kartı: koyu üst şerit (makale kodu), etiketler, başlık, özet, tarih ve okuma süresi.
 // Makale listesinde ve makale sayfasının altındaki "Diğer Makaleler"de kullanılır.
-import type { Makale } from '~/data/makaleler'
-
-const props = defineProps<{ makale: Makale; baslikDuzeyi?: 'h2' | 'h3' }>()
-const okuma = computed(() => makaleOkumaSuresi(props.makale))
+defineProps<{ makale: MakaleKartVerisi; baslikDuzeyi?: 'h2' | 'h3' }>()
 </script>
 
 <template>
@@ -21,7 +18,7 @@ const okuma = computed(() => makaleOkumaSuresi(props.makale))
       <component :is="baslikDuzeyi ?? 'h2'" class="mk-baslik">{{ makale.baslik }}</component>
       <p class="mk-ozet">{{ makale.ozet }}</p>
       <div class="mk-alt">
-        <span><template v-if="makale.yayin">{{ tarihMetni(makale.yayin) }} · </template>{{ okuma }} dk okuma</span>
+        <span><template v-if="makale.yayin">{{ tarihMetni(makale.yayin) }} · </template>{{ makale.okuma }} dk okuma</span>
         <span class="mk-oku">Oku <Ikon ad="ok" /></span>
       </div>
     </div>

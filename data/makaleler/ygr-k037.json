@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K037",
+  "yol": "otelde-oda-sayisi-ve-yapi-ozellikleri-hangi-kontrolleri-degistirir",
+  "baslik": "Otelde oda sayısı ve yapı özellikleri hangi kontrolleri değiştirir?",
+  "ozet": "Bir otelde oda sayısının artması, tek başına bir yangın güvenliği sonucu doğurmaz. Değişikliğin hangi katta yapıldığı, fiili yatak kapasitesi, kaçış düzeni ve oda-koridor ayırıcılarının durumu birlikte incelenmelidir. Aynı sayıda odası bulunan iki tesis, yapı yüksekliği ve kat düzeni nedeniyle farklı gereksinimlere tabi olabilir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "oda-sayisi-ile-yatak-kapasitesi-ayni-veri-degildir",
+      "metin": "Oda sayısı ile yatak kapasitesi aynı veri değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kontrol, işletmenin kullandığı oda ve yatak çizelgesini onaylı mimari planla eşleştirmektir. İki odanın birleştirilmesi, bir odanın bölünmesi veya mevcut odaya ilave yatak konulması; oda sayısını, yatak sayısını ve kullanıcı yükünü farklı biçimlerde etkileyebilir. Bu nedenle işletme ruhsatındaki toplam oda sayısı, tek başına kaçış düzeninin yeterliliğini göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, otellerin iç koridorlara açılan yatak odaları için ayırıcı duvar, kapı ve çıkış koşullarını düzenler. Toplam yatak sayısı 20’den fazla veya kat sayısı ikiden fazla olan otellerde her katta en az iki çıkış öngörülür. Tek merdivenin yeterli kabul edilebildiği durum ise 20’den az yatak, 15,50 m’den az yapı yüksekliği ve merdivenin korunumlu yapılması veya basınçlandırılması koşullarıyla birlikte ele alınır. Eşiklerin tam sınırındaki durumlarda metnin lafzı ve yapının özellikleri ayrıca değerlendirilmeden otomatik uygunluk kararı verilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "koridor-oda-kapisi-ve-kacis-baglantisi",
+      "metin": "Koridor, oda kapısı ve kaçış bağlantısı"
+    },
+    {
+      "tip": "p",
+      "metin": "İç koridora açılan yatak odalarının koridordan en az 60 dakika yangına dayanıklı duvarla ayrılması, kapılarının ise en az 30 dakika yangına dayanıklı ve kendiliğinden kapanır nitelikte olması gerekir. İç koridorun doğal havalandırma veya mekanik duman tahliyesi çözümü de incelenir. Odaların dış koridora açıldığı düzenlerde farklı ayrıntılar bulunduğundan, önce koridorun gerçekten iç mi dış mı olduğu proje ve sahada belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Oda eklenmesiyle koridorun uzaması, bir ara kapının kaldırılması, yangın bölmesi sınırının değişmesi veya merdivene erişimin tek yönde kalması ayrı kontrol konularıdır. Sadece oda kapısının sertifikasıyla yetinilmez; kapı takımı, kasanın montajı ve komşu duvarın nitelikleri de kendi teknik belgeleriyle karşılaştırılır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 37. Eski taslaktaki özgün oda-koridor yerleşim çizimi korunmuştur. Çizim temsili olup tek başına çıkış sayısı veya mevzuata uygunluk kararı vermez.",
+      "src": "/img/makale/ygr-k037-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-mevcut-durum-karsilastirmasi",
+      "metin": "Proje ile mevcut durum karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Fiili oda ve yatak kapasitesi nedir?",
+          "Oda-yatak çizelgesi, işletme kayıtları, onaylı plan",
+          "Oda, yatak ve kullanıcı yükü ayrı ayrı kaydedilir."
+        ],
+        [
+          "Odalar hangi koridora açılıyor?",
+          "Kat planı, kesit, sahadaki açıklıklar",
+          "İç/dış koridor ayrımı ve duman tahliyesi kontrol edilir."
+        ],
+        [
+          "Oda-koridor ayırımı nasıl sağlanmış?",
+          "Yangın mimari projesi, kapı takımı ve duvar belgeleri",
+          "Duvar, kapı ve kapanma düzeni birlikte değerlendirilir."
+        ],
+        [
+          "Yeni oda kaçışı nasıl etkiliyor?",
+          "Önceki ve güncel kat planları, kaçış güzergahı",
+          "Çıkış sayısı, koridor sürekliliği ve merdivene erişim karşılaştırılır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-taslak-onerisi-birbirine-karistirilmamalidir",
+      "metin": "Yürürlükteki hüküm ile taslak önerisi birbirine karıştırılmamalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağı, konaklama yapılarında her katta iki çıkışı temel yaklaşım olarak düzenlemekte; tek merdiven istisnasını 12’den az yatılan oda, 12,50 m’den az yapı yüksekliği ve merdivenin hem korunumlu hem basınçlandırılmış olması koşullarına bağlamaktadır. Buradaki ölçüt oda sayısıdır; yürürlükteki metindeki yatak sayısı ölçütüyle aynı kabul edilemez. Bu öneri henüz yürürlükteki kural yerine kullanılamaz. İşletmenin bugünkü uygunluğu yürürlükteki hükümlerle, olası gelecek değişikliklere hazırlığı ise ayrı bir notla değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendisine verilen görevin sınırları içinde önce yapının ruhsatını, yapı kullanma izin belgesini, onaylı yangın ve mimari projelerini ve varsa tadilat projelerini inceler. Ardından güncel oda-yatak listesiyle katları dolaşır; odaların fiili kullanımını, kapıların hangi koridora açıldığını, koridorun kesintisizliğini ve çıkışlara erişimi projedeki düzenle karşılaştırır. Belgelerde belirtilen bir kapının sahada farklı yerde olması, yeni odanın kaçış yönünü değiştirmesi veya koridorun depo gibi kullanılması gerekçesiyle kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangına dayanım ve duman kontrol performansı yalnız gözlemle kanıtlanamaz. Uzman, kapı takımı uygunluk belgelerini, uygulama detaylarını, sistemlerin test ve devreye alma raporlarını ve bakım kayıtlarını ister; eksik veya çelişkili kanıtı raporunda açıkça belirtir. Yetkili proje müellifinin tasarım ve hesap sorumluluğu, yetkili ölçüm ve test kuruluşlarının faaliyetleri ile ilgili idarenin onay yetkisi bu saha incelemesiyle devralınmış olmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-rapor-nasil-kurulmali",
+      "metin": "Gerekçeli rapor nasıl kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Rapor, yalnız “oda sayısı arttı” tespitinden ibaret kalmamalıdır. Değişen mahaller, onaylı projedeki karşılıkları, fiili yatak kapasitesi, etkilenen koridor ve çıkış bağlantıları ile sunulmayan teknik kanıtlar ayrı ayrı gösterilmelidir. Sonuç, belgelenmiş uygunsuzluk ile henüz doğrulanamayan hususu birbirinden ayırmalı; gerekli proje revizyonu, test veya idari değerlendirme ilgili yetkiliye yönlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Konaklama yapılarında güvenilir değerlendirme, oda sayısının yanına yatak kapasitesini, kat düzenini, yapı yüksekliğini ve kaçışın fiili durumunu koymakla başlar. Böylece hem mevzuat eşikleri doğru okunur hem de tadilatın gerçekten değiştirdiği yangın güvenliği koşulları görünür hale gelir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,131 @@
+{
+  "kod": "YGR-K048",
+  "yol": "jenerator-odasinda-yangin-guvenligi-sinirlari-nasil-incelenir",
+  "baslik": "Jeneratör odasında yangın güvenliği sınırları nasıl incelenir?",
+  "ozet": "Jeneratörün çalışması, bulunduğu odanın yangın bakımından güvenli olduğunu tek başına kanıtlamaz. Bir jeneratör odası; yangına dayanıklı yapı elemanları, yakıt bağlantıları, havalandırma, egzoz ve elektrik tesisatıyla birlikte değerlendirilmesi gereken bir teknik mahaldir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yangin-ayirici-sinir-nereden-geciyor",
+      "metin": "Yangın ayırıcı sınır nereden geçiyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, mahal içinde kurulan jeneratör odasının duvar, taban ve tavanı için en az 120 dakika yangına dayanım öngörür. Bu süre, yalnız duvarın üzerinde yazan bir değer değildir: kullanılan yapı elemanının belgelenmiş performansı, kapı ve tesisat geçişlerinin detayı, uygulamanın bütünlüğüyle birlikte okunmalıdır. Kapının performansı ise ilgili ayırıcı düzen ve onaylı projedeki çözüm üzerinden ayrıca doğrulanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bina içindeki odada yangın halinde oluşacak duman ve sıcaklığın kaçış yollarına yayılmaması gerekir. Bu nedenle kapı çevresi, havalandırma kanalı, kablo geçişi ve egzoz çıkışı gibi sınırı kesen her nokta projede ve sahada izlenir. Jeneratörün etrafına sonradan açılan menfez veya büyütülen duvar deliği, odanın korunumunu etkileyebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yakit-hava-ve-egzoz-ayni-soru-degildir",
+      "metin": "Yakıt, hava ve egzoz aynı soru değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Ana yakıt deposunun konumu ve depolama koşulları, Yönetmeliğin yakıt depolarına ilişkin hükümleriyle birlikte değerlendirilir. Tankın nerede bulunduğu, kapasitesi, besleme hattının güzergahı ve oda sınırını hangi noktadan geçtiği güncel belgelerde görülebilmelidir. Jeneratör odasından geçirilmesi yasaklanan başka tesisatlarla jeneratörün kendi işletme bağlantıları birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Normal çalışma için gerekli yanma havası ve ısı uzaklaştırması ile yangın durumunda dumanın kontrolü farklı işlevlerdir. Acil durum jeneratörünün çalışabilmesi için mekanik havalandırma gereken yerlerde Yönetmeliğin duman tahliyesine ilişkin koşulları ayrıca uygulanır: sistemin diğer bölümlere hizmet veren sistemlerden bağımsız olması ve dış hava alma ile tahliye noktalarının ilgili açıklıklardan en az 5 m ayrılması bu koşullar arasındadır. Bu mesafe, her jeneratör odasına koşulsuz uygulanacak genel bir menfez mesafesi gibi yorumlanmamalıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 48. Jeneratör odası, hava hareketi ve yakıt beslemesi arasındaki ilişkiler (temsili çizim).",
+      "src": "/img/makale/ygr-k048-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-arasinda-hangi-kayitlar-eslestirilir",
+      "metin": "Proje ve saha arasında hangi kayıtlar eşleştirilir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol odağı",
+        "Belge / kanıt",
+        "Saha karşılaştırması"
+      ],
+      "satirlar": [
+        [
+          "Odanın sınırı",
+          "Onaylı mimari plan, kesit, yangın bölmesi ve kapı detayları",
+          "Duvar, tavan, döşeme, kapı ve tüm açıklıkların yerini karşılaştır."
+        ],
+        [
+          "Yakıt beslemesi",
+          "Yakıt tankı yerleşimi, mekanik tesisat projesi ve revizyon kayıtları",
+          "Tank, vana, hat güzergahı ve sınır geçişlerini işaretle."
+        ],
+        [
+          "Hava ve egzoz",
+          "Mekanik proje, hava giriş/çıkış planı, kontrol senaryosu",
+          "Normal havalandırma ile gerekli duman tahliyesini ayır."
+        ],
+        [
+          "Elektrik ve bakım",
+          "Tek hat şeması, devreye alma, bakım ve yetkili test raporları",
+          "Cihaz kimliği, bağlantılar ve güncel raporları eşleştir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) önce yapının onaylı mimari ve tesisat projelerini, varsa tadilat ruhsatı ve izin kayıtlarını, jeneratörün güncel teknik bilgilerini ve işletme koşullarını inceler. Sahada cihazın gerçekten bulunduğu mahali, yakıt tankını, havalandırma açıklıklarını, egzoz güzergahını, kapıları ve tesisat geçişlerini projeyle karşılaştırır. Bakım ve devreye alma raporlarının hangi cihaza, hangi tarihteki düzenlemeye ve hangi teste ait olduğunu kontrol eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin yeni bir yakıt hattı yangın ayırıcı duvardan geçirilmişse, geçişin yeri fotoğraf ve krokiyle kaydedilir; uygulama detayı ile performans belgesi istenir. Belge bulunmaması, geçişin teknik olarak kesin başarısız olduğu anlamına gelmez; ancak olumlu uygunluk kanaatini destekleyecek kanıtın eksik olduğunu gösterir. Gerekçeli raporda gözlenen durum, sunulan belge, eksik kanıt ve yetkili teknik inceleme ihtiyacı ayrı yazılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU; elektriksel koruma ölçümlerini, havalandırma debisi hesaplarını, egzoz tasarımını veya jeneratörün işlev testini ilgili uzmanlık ve yetkili kuruluşların yerine geçerek yapmış sayılmaz. Bu işlerin projelerini, ölçüm sonuçlarını ve kabul kayıtlarını inceler; gerekli olduğunda ilgili disiplinlerden doğrulama ister. Bir çalışma testinin başarılı olması, odanın yangın ayırıcı bütünlüğünü kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağı, jeneratör odasının kapıları için 90 dakika yangına dayanım ifadesi de önerir. Yürürlükteki jeneratör maddesinde bu sayısal kapı koşulu aynı biçimde yer almaz. Bu nedenle önerilen süre, bugün yürürlükteki hüküm gibi uygulanamaz; kapı gerekliliği geçerli mevzuat, onaylı proje ve ilgili ayırıcı düzen üzerinden değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Jeneratör odasının yangın güvenliği, cihazın çalışıp çalışmadığı sorusundan daha geniştir. Korunmuş mahal sınırı, yakıt ve egzoz bağlantıları, havalandırmanın işlevi ve güncel teknik kayıtlar birbiriyle tutarlı değilse değerlendirme eksik kalır. Sağlam bir saha raporu, bu tutarlılığı görünür kılar; doğrulanamayan noktaları ise kesin uygunluk kararı vermeden açıkça belirtir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

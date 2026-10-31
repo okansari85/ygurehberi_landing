@@ -1,0 +1,127 @@
+{
+  "kod": "YGR-K040",
+  "yol": "fabrika-ile-icindeki-idari-buronun-gereksinimleri-nasil-ayrilir",
+  "baslik": "Fabrika ile içindeki idari büronun gereksinimleri nasıl ayrılır?",
+  "ozet": "Bir üretim tesisindeki idari büro, üretim holünden farklı bir işlev görür. Ancak bu fark, büronun otomatik olarak bağımsız bir bina kullanım sınıfına girdiği veya her durumda ayrı bir yangın kompartımanı olması gerektiği anlamına gelmez. Değerlendirme, binanın kullanım sınıfı ile mahallerin fiili tehlikelerini ve ortak kaçış düzenini birlikte ele almalıdır.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-kullanim-sinifi-sonra-mahalin-gercek-islevi",
+      "metin": "Önce kullanım sınıfı, sonra mahalin gerçek işlevi"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, başka bir binanın bünyesinde büro hizmetleri için kullanılan bölümleri ana binanın kullanım sınıflandırmasına tabi tutar. Bu nedenle fabrikanın içindeki personel, muhasebe veya planlama ofisini yalnızca tabelasına bakarak bağımsız bir “büro binası” gibi değerlendirmek doğru değildir. Bununla birlikte ofiste çalışan kişi sayısı, yerleşim, kapı bağlantıları ve faaliyet şekli, kaçış düzeninin incelenmesinde ayrı veri olarak dikkate alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Üretim, laboratuvar, depo ve büro mahallerinin yangın tehlikeleri de aynı kabul edilemez. Tehlike değerlendirmesi, kullanılan malzemelere ve yürütülen işlemlere dayanır. Söndürme sistemi ile su ve pompa kapasitesi bakımından yönetmeliğin bina içindeki farklı tehlike sınıflarına ilişkin hükümleri ayrıca dikkate alınır; bu karar yalnız oda adı üzerinden verilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-bolmesi-ve-ortak-kacis-iliskisi",
+      "metin": "Yangın bölmesi ve ortak kaçış ilişkisi"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapıda farklı kullanım sınıflarına giren bölümler varsa ve bunlar uygun yangın bölmesiyle ayrılamıyor veya ayrı koruma tedbirleri uygulanamıyorsa, daha yüksek koruma gerektiren sınıflandırmanın kuralları bütün binaya uygulanabilir. Ancak fabrikaya bağlı her ofis için sırf işlevi farklı diye yeni bir yangın bölmesi zorunluluğu çıkarılamaz. Bölme duvarı, kapı, tesisat geçişleri ve tavan üstü sürekliliği ancak ilgili proje ve hükümle birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ofis katının üretim holüne açılması, ortak koridora yeni bir kapı eklenmesi veya personel sayısının artması kaçış yükünü ve izlenen güzergahı değiştirebilir. Çıkış sayısı ve kapasitesi değerlendirilirken ilgili özel hüküm, kullanıcı yükü ve kaçış uzaklığı koşulları birlikte incelenir. Mevcut yapıya ilişkin hükümler de yapının ruhsat ve kullanım geçmişine göre ayrıca belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "sematik-yerlesim-ve-kontrol-sorulari",
+      "metin": "Şematik yerleşim ve kontrol soruları"
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 40. Üretim ve idari büro mahallerinin temsili yerleşimi. Çizimdeki sınır, tek başına yangına dayanımlı bölme veya onaylı kaçış düzeni kanıtı değildir.",
+      "src": "/img/makale/ygr-k040-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "İncelenecek belge / kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Büronun bina içindeki konumu nedir?",
+          "Ruhsat ve kullanım belgeleri, onaylı mimari plan, mahal listesi",
+          "Ana bina sınıfı, büro işlevi ve kullanımın projeyle uyumu"
+        ],
+        [
+          "Üretim ve ofis hangi sınırla ayrılıyor?",
+          "Bölme planı, kapı çizelgesi, geçiş detayları, yerinde gözlem",
+          "Ayrımın projede öngörülüp öngörülmediği ve sahadaki sürekliliği"
+        ],
+        [
+          "Ortak kaçış yolu kimlere hizmet ediyor?",
+          "Kat planı, kullanıcı yükü hesabı, tahliye projesi",
+          "Ofis değişikliğinin çıkışlara ve ortak güzergaha etkisi"
+        ],
+        [
+          "Ortak koruma sistemleri değişiklikten etkileniyor mu?",
+          "Yangın algılama ve söndürme projeleri, bakım/test kayıtları",
+          "Kapsam değişikliği, belge eksikliği ve uzmanlık gerektiren doğrulamalar"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının ruhsat ve yapı kullanma izni kayıtlarını, onaylı mimari ve tahliye projelerini, üretim ile ofis mahallerinin güncel yerleşimini inceler. Sonra sahada ofis girişini, ortak koridoru, kaçış kapılarını, bölme sınırlarını ve tesisat geçişlerinin görünür durumunu projeyle karşılaştırır. Fiili kişi sayısı ve kullanım farklılığı varsa bunları belgeye bağlar; varsayıma dayanarak uygunluk kararı vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılama, söndürme ve duman kontrol sistemlerinin hangi mahallere hizmet ettiği ilgili projeler ve güncel bakım/test raporları üzerinden sorgulanır. Gözlemsel kontrol, yetkili disiplinlerin yapacağı tasarım hesabının, performans ölçümünün, deneyin veya proje onayının yerine geçmez. Eksik kanıt ve proje-saha uyumsuzluğu, hangi uzmanlık incelemesinin gerektiği belirtilerek gerekçeli rapora yazılır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-tespit-dili",
+      "metin": "Örnek tespit dili"
+    },
+    {
+      "tip": "p",
+      "metin": "“Üretim holüne bitişik idari büro alanının genişletildiği görülmüştür. Güncel yerleşimin onaylı mimari planla uyumu ve ortak kaçış güzergahının yeni kullanıcı yükünü karşıladığına ilişkin proje değerlendirmesi sunulmamıştır. Bölme sınırı ve ortak sistemlere etkisi ilgili projeler ve teknik belgeler üzerinden doğrulanmalıdır.” Bu ifade, eksik kanıtı tarif eder; tek başına nihai uygunsuzluk veya tasarım kararı oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenlemelerin-yeri-ve-sonuc",
+      "metin": "Taslak düzenlemelerin yeri ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağı, kullanım ve tehlike sınıflandırması ile endüstriyel yapılardaki kaçış düzenine ilişkin hükümler içerir. Taslakta önerilen ifadeler yürürlükteki hükümlerin yerine geçirilmez. Fabrika içindeki idari büronun değerlendirmesinde belirleyici olan, binanın hukuki kullanım sınıfı ile ofisin gerçek faaliyeti, ortak kaçış bağlantısı ve teknik koruma sistemlerinin belgelenmiş ilişkisidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

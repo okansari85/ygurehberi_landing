@@ -1,0 +1,130 @@
+{
+  "kod": "YGR-K031",
+  "yol": "kacis-merdiveninin-gercekten-korunumlu-oldugu-nasil-dogrulanir",
+  "baslik": "Kaçış merdiveninin gerçekten korunumlu olduğu nasıl doğrulanır?",
+  "ozet": "Korunumlu kaçış merdiveninde güvenlik, yalnızca merdivenin betonarme olmasıyla sağlanmaz. Merdiven yuvasının duvarları, kat giriş kapıları, tesisat geçişleri ve güvenli alana ulaşan son çıkış güzergahı bir bütün olarak değerlendirilir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "korunumu-belirleyen-sinir-ve-sureklilik",
+      "metin": "Korunumu belirleyen sınır ve süreklilik"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kaçış merdiveninin duvar, tavan ve tabanında yanıcı malzeme kullanılmamasını ve merdivenin diğer bölümlerden yangına dayanıklı elemanlarla ayrılmasını öngörür. Merdiven duvarları için 120 dakika kuralı; kapıların yangın dayanımı, duman sızdırmazlığı ve kendiliğinden kapanma şartlarıyla birlikte, ilgili hükümler ve yapının özellikleri esas alınarak değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Merdiven yuvası, başladığı kottan çıkış kotuna kadar süreklilik göstermelidir. Bir katta değiştirilen kapı, sonradan açılan şaft kapağı veya kablo geçişi, merdiven geometrisi değişmese de bu sınırı zayıflatabilir. Bu nedenle inceleme yalnız merdiven koluna değil, her kattaki bağlantı ve açıklıklara yönelir."
+    },
+    {
+      "tip": "h2",
+      "id": "kapi-degisikligi-ve-tesisat-gecisi",
+      "metin": "Kapı değişikliği ve tesisat geçişi"
+    },
+    {
+      "tip": "p",
+      "metin": "Kat kapısı yenilendiğinde ürün etiketi tek başına yeterli kanıt değildir. Kapı takımının dayanım ve duman sızdırmazlık belgeleri, kasa-duvar birleşimi, montaj ayrıntısı ve kendiliğinden kapanma işlevi birlikte incelenir. Yeni boru veya kablo geçişinde ise uygulanan yangın durdurucu çözümün ilgili duvarın özellikleriyle uyumu belgelenmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 31. Merdiven yuvasının kat bağlantıları ve korunum sınırının temsili gösterimi.",
+      "src": "/img/makale/ygr-k031-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-eslestirmesi",
+      "metin": "Belge ve saha eşleştirmesi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Aranacak belge veya kanıt",
+        "Sahadaki karşılaştırma"
+      ],
+      "satirlar": [
+        [
+          "Merdivenin yeri ve sürekliliği",
+          "Onaylı mimari/tahliye projesi ve kesit",
+          "Kat girişleri ve son çıkış güzergahı"
+        ],
+        [
+          "Ayırıcı duvar ve kapılar",
+          "Dayanım belgeleri, kapı takımı ve montaj detayı",
+          "Kasa, kanat, kapatıcı ve birleşimler"
+        ],
+        [
+          "Sonradan açılan geçişler",
+          "Tadilat kaydı ve yangın durdurucu sistem belgesi",
+          "Kablo/boru geçişleri ve şaft açıklıkları"
+        ],
+        [
+          "İşletme ve son çıkış",
+          "Kapı kontrol senaryosu ve işletme kayıtları",
+          "Depolama, kilit, turnike ve engelsiz çıkış"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, tek bir genel uygunluk işaretiyle tamamlanmaz. Her kat için merdiven kapısı, ayırıcı duvar, yeni açıklık ve geçişler ayrı kaydedilir. Zemin katta merdivenden bina dışına uzanan yolun kilit, turnike, depolama veya işletme düzeni nedeniyle engellenip engellenmediği ayrıca görülür."
+    },
+    {
+      "tip": "p",
+      "metin": "Basınçlandırma veya havalandırma, uygulanabilir proje ve mevzuat koşullarına göre ayrıca değerlendirilir. Fanın çalışması kapı ve duvar eksikliğini gidermez; kapıların yerinde olması da duman kontrol sisteminin işlevini kanıtlamaz. Sistemle ilgili güncel bakım, test ve periyodik muayene belgeleri incelenir; gerekli teknik ölçüm, yetkili kişi veya kuruluşun işi olarak kalır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek tespit ifadesi: “Merdiven kat girişindeki yenilenmiş kapının montaj detayı onaylı proje ve ürün belgeleriyle eşleştirilememiştir. Merdiven duvarındaki yeni tesisat geçişine ait yangın durdurucu uygulama belgesi sunulmamıştır. Son çıkış güzergahının işletme koşulları ayrıca doğrulanmalıdır.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ifade, kanıtı eksik noktaları ve istenecek belgeleri somutlaştırır. Yeterli inceleme yapılmadan merdivenin tamamı hakkında kesin uygunluk veya uygunsuzluk sonucu kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), yapı ruhsatı ve yapı kullanma izniyle birlikte onaylı mimari ve tahliye projelerini, varsa tadilat paftalarını ve yangın güvenliğine ilişkin detayları inceler. Merdivenin projedeki konumunu ve korunum sınırını kat kat sahada izler; kapıların gerçek kullanımını, bağlantılı mahallerin faaliyetini ve merdivenin boş tutulup tutulmadığını gözlemsel olarak karşılaştırır. Saptadığı farkı kat, mahal, fotoğraf ve proje detayıyla ilişkilendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapı takımı performans belgeleri, montaj kayıtları, tesisat geçişi çözüm belgeleri ve gerekli sistemlere ait muayene raporları birlikte değerlendirilir. Belge yetersizse hangi teknik doğrulamanın eksik olduğu gerekçeli rapora yazılır. YGU, bu incelemeyi kendi adına yeni bir yangın dayanım testi, basınç ölçümü, proje tasarımı veya idari onay işlemi gibi sunmaz; ilgili uzmanlıkların görev ve yetkileri korunur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Korunumlu kaçış merdivenini doğrulamak, tek bir kapı etiketini kontrol etmek değildir. Güvenilir sonuç; uygulanabilir hükmün, onaylı proje detaylarının, katlardaki gerçek uygulamanın ve son çıkışın birlikte incelenmesiyle, eksik kanıtların açıkça raporlanmasıyla elde edilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

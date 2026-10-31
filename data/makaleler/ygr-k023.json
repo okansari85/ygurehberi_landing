@@ -1,0 +1,143 @@
+{
+  "kod": "YGR-K023",
+  "yol": "cati-kaplama-malzemesinin-yangin-sinifi-nasil-okunur",
+  "baslik": "Çatı kaplama malzemesinin yangın sınıfı nasıl okunur?",
+  "ozet": "Bir çatı kaplamasının yangın sınıfı, ürün kataloğundaki tek bir harf veya işarete bakılarak doğrulanamaz. Önce sınıfın hangi yangın etkisini tarif ettiği, ardından hangi malzeme ya da çatı düzeni için geçerli olduğu anlaşılmalıdır. Özellikle yenilenen çatılarda, yeni kaplamaya ait belge ile sahadaki bütün katmanların aynı sistemi oluşturup oluşturmadığı belirleyicidir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yangina-tepki-sinifi-ile-dis-yangina-maruz-kalma-sinifi-farklidir",
+      "metin": "Yangına tepki sınıfı ile dış yangına maruz kalma sınıfı farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapı malzemesinin yangına tepki sınıfı, malzemenin yangının gelişimine katkısını tarif eder. Çatının dıştan yangına maruz kalma sınıflandırması ise çatı örtüsünün dış yangın etkisi altındaki davranışına odaklanır. Bu nedenle örneğin bir katmanın A1 veya A2 sınıfında olduğunun beyan edilmesi, tamamlanmış çatı sisteminin kendiliğinden BROOF sınıfını sağladığını göstermez. Tersi de geçerlidir: Çatı örtüsüne ilişkin dış yangın sınıflandırması, taşıyıcı sistemin yangına dayanım süresini kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, çatı kaplamalarında BROOF sınıfını ve kaplama altındaki yüzey veya yalıtım için en az zor alevlenici malzeme koşulunu düzenler. Yanmaz çatı kaplaması kullanılması halinde alttaki yüzey için ayrıca belirtilen istisna değerlendirilir. Yüksek binalar, bitişik nizam yapılar ve özel yerleşim koşulları için öngörülen ilave gerekler genel kuralın yerine geçmez; birlikte okunur."
+    },
+    {
+      "tip": "h2",
+      "id": "broof-belgesinde-hangi-ayrintilar-okunmali",
+      "metin": "BROOF belgesinde hangi ayrıntılar okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Belge üzerindeki sınıfın yanında kullanılan sınıflandırma standardı, deney yöntemi, uygulanan altlık, katman dizilimi, kaplama kalınlığı, eğim ve varsa tespit biçimi incelenmelidir. Bakanlık Kılavuzu, dış yangın performansı için TS EN 13501-5 ile TS ENV 1187 deney yaklaşımını açıklar; ayrıca yönetmelik eklerinde doğrudan sınıflandırılan malzemeler bakımından ayrı deney gerekmeyebileceğini belirtir. Dolayısıyla her ürün için mutlaka yeni bir deney raporu aranacağı gibi bir genelleme doğru değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınıflandırma raporunda yer alan BROOF işaretinin deney yöntemini gösteren alt indisi ve kullanım kapsamı atlanmamalıdır. Belgenin yalnızca ön sayfasındaki sınıf işareti, çatının sahadaki uygulamasını tek başına doğrulamaz. Uygulanabilir doğrudan sınıflandırma varsa bunun koşulları da belgelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "cati-yenilemesinde-belge-neden-yeniden-okunur",
+      "metin": "Çatı yenilemesinde belge neden yeniden okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut çatı üzerine yeni bir membran serilmesi, ilk bakışta yalnız üst kaplamanın değişmesi gibi görünebilir. Ancak sökülen veya yerinde bırakılan ısı yalıtımı, buhar kesici, altlık levhası, yapıştırıcı ve mekanik tespit elemanları sistemin yangın performansıyla ilişkili olabilir. Proje kesitindeki dizilim ile uygulama sonrası dizilim farklıysa eski sınıflandırmanın yeni sisteme doğrudan taşındığı varsayılamaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 23. Çatı katmanlarının birbiriyle ilişkisini gösteren özgün şema (temsili).",
+      "src": "/img/makale/ygr-k023-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "kontrol-dosyasinda-hangi-kanit-bulunmali",
+      "metin": "Kontrol dosyasında hangi kanıt bulunmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak belge veya kayıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Hangi çatı düzeni uygulanmış?",
+          "Onaylı çatı kesiti, tadilat projesi, uygulama detayı",
+          "Katmanların sırası, altlık, eğim ve tespit biçimi"
+        ],
+        [
+          "Sınıflandırma neyi kapsıyor?",
+          "Sınıflandırma raporu, performans beyanı ve kapsam ekleri",
+          "Belgelenen düzen ile sahadaki düzenin eşleşmesi"
+        ],
+        [
+          "Özel bölgeler nasıl çözülmüş?",
+          "Işıklık, saçak, dere, baca ve yangın duvarı detayları",
+          "Ana çatı düzlemi dışındaki birleşim ve geçişler"
+        ],
+        [
+          "Özel yapı koşulları var mı?",
+          "Yapı yüksekliği, yerleşim biçimi, kullanım ve proje kayıtları",
+          "Yürürlükteki ilave çatı gereklerinin uygulanabilirliği"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-taslak-ile-yururlukteki-hukum-nasil-ayrilir",
+      "metin": "Yeni taslak ile yürürlükteki hüküm nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağında çatı hükümleri yeniden düzenlenmiş, bitişik nizamda yangın duvarı ve çatı açıklıkları için ayrıca mesafe koşulları önerilmiştir. Bu öneriler yürürlükteki hüküm gibi uygulanamaz. Değerlendirmede yürürlükteki metin esas alınır; taslak yalnız olası düzenleme değişikliğini anlamak için ayrı tutulur."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı mimari projesi, varsa çatı tadilat projesi ve yapı kullanımına ilişkin izin kayıtlarıyla başlar. Çatının fiili kullanımını, sonradan eklenen güneş enerjisi ekipmanını, ışıklıkları, baca çevresini ve değiştirilen kaplama alanlarını projedeki düzenle karşılaştırır. Kaplama, yalıtım ve altlık için sunulan performans beyanı ile sınıflandırma raporlarının kapsamını; üretici uygulama talimatları ve varsa montaj tutanaklarıyla birlikte değerlendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel incelemede katman dizilimi görülemiyorsa, yalnız yüzey fotoğrafından olumlu uygunluk kararı verilmez. Erişilemeyen katmanlar, eksik belge ve projeden ayrılan detaylar ayrı ayrı kaydedilir; gerektiğinde yetkili proje müellifinden, uygulayıcıdan veya ilgili teknik uzmandan doğrulayıcı belge ve inceleme istenir. Yangın Güvenlik Uzmanının tespiti; laboratuvar sınıflandırması yapma, ürün deneyi yürütme, taşıyıcı sistem hesabı hazırlama veya tadilat projesini onaylama yetkisi yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Gerekçeli rapor ifadesi örneği: “Yenilenen çatı örtüsüne ait sınıflandırma belgesi sunulmuştur. Ancak belgede tanımlanan altlık ve yalıtım diziliminin sahadaki uygulamayla aynı olduğu gösterilemediğinden, sistemin belirtilen sınıfa uygunluğu mevcut kayıtlarla doğrulanamamıştır.” Bu ifade, kanıt eksikliğini doğrudan uygunsuzluk veya uygunluk hükmüne dönüştürmeden açıklar."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Çatı kaplamasının yangın sınıfı, ürün adı veya tek bir etiket değil; doğru sınıflandırma türü, belge kapsamı ve uygulanmış çatı düzeni birlikte okunarak değerlendirilir. Özellikle tadilatta değişen katmanların belgelenmesi, teknik kararın izlenebilirliğini sağlar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Periyodik Kontrol Formu"
+    }
+  ],
+  "sonNotlar": []
+}

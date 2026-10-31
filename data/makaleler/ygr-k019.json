@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K019",
+  "yol": "doseme-tesisat-gecisinde-yangin-ayrimi-nasil-korunur",
+  "baslik": "Döşeme tesisat geçişinde yangın ayrımı nasıl korunur?",
+  "ozet": "Bir kat döşemesinden kablo, boru veya kanal geçirilmesi, yalnızca tesisata yer açılması değildir. Yangını katlar arasında sınırlamak için tasarlanmış bir yapı elemanında yeni bir açıklık oluşur. Açıklığın gözle kapalı görünmesi, döşemenin yangın ayırıcı özelliğinin korunduğunu tek başına kanıtlamaz. İncelenecek unsur, deliğe sürülen tek bir ürün değil; döşeme, geçen tesisat ve kapama detayının birlikte oluşturduğu sistemdir.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "hangi-yangin-guvenligi-sarti-uygulanir",
+      "metin": "Hangi yangın güvenliği şartı uygulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, döşemelerin yangın dayanımını bina ve yapı özelliklerine göre ele alır. Döşemeden geçen su, elektrik, ısıtma, havalandırma ve benzeri tesisatların çevresinin açıklık bırakılmadan, en az döşemenin yangın dayanım süresi kadar yangın ve duman geçişine karşı yalıtılmasını ister. Elektrik tesisatının yangın bölmeleri arasındaki yatay ve düşey geçişlerinde açıklıkların yangın durdurucu malzemelerle kapatılması da ayrıca düzenlenmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında döşeme geçişinin yangına karşı yalıtılması yönündeki yaklaşım korunmakla birlikte ilgili cümlenin lafzı yürürlükteki metinle aynı değildir. Taslak henüz bağlayıcı bir uygulama şartı olarak alınamaz. Bu nedenle saha değerlendirmesinde yürürlükteki hüküm esas alınır; taslak yalnız gelecekteki düzenleme ihtimalini anlamaya yarar."
+    },
+    {
+      "tip": "h2",
+      "id": "uygunluk-malzeme-adindan-degil-uygulama-kapsamindan-anlasilir",
+      "metin": "Uygunluk, malzeme adından değil uygulama kapsamından anlaşılır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir ürünün ambalajında “yangın durdurucu” yazması, her döşeme ve her tesisat geçişinde kullanılabileceği anlamına gelmez. Teknik dosyada, seçilen sistemin hangi döşeme tipinde ve kalınlığında, hangi açıklık boyutlarında, hangi kablo veya boru gruplarında ve hangi uygulama düzeniyle test edilip sınıflandırıldığı araştırılır. Dolgu derinliği, destekleme, boşluk geometrisi, boru malzemesi ve varsa özel bileşenler sahadaki detayla eşleştirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin aynı çapta plastik boru ile metal boru, yangın sırasında aynı davranışı göstermez. Bir kablo demetinin sonradan büyütülmesi de daha önce yapılmış kapama sisteminin kapsamını değiştirebilir. Bu yüzden yalnız ürün adı ve tek yüzey fotoğrafı ile dayanım süresi belirlenemez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1440,
+      "yukseklik": 450,
+      "aciklama": "Şekil 19. Eski taslaktaki döşeme–tesisat–yangın durdurucu ilişkisi korunarak okunabilir biçimde yeniden çizilmiş temsili kesit.",
+      "src": "/img/makale/ygr-k019-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-hangi-bilgiler-karsilastirilir",
+      "metin": "Proje ile sahada hangi bilgiler karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, kat planı ve kesitte yangın ayırıcı döşemenin nerede bulunduğunun belirlenmesiyle başlar. Tesisat projesi ve varsa revizyonlar üzerinden geçiş noktaları işaretlenir. Ardından her geçişe konum kodu verilerek üst ve alt yüzey, açıklığın büyüklüğü, geçen tesisatın türü ve kapama düzeni kayıt altına alınır. Erişilemeyen yüzey, görülmüş ve uygun bulunmuş gibi raporlanmaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "İncelenecek kanıt",
+        "Eksiklik nasıl yazılır?"
+      ],
+      "satirlar": [
+        [
+          "Döşeme ve konum",
+          "Onaylı plan, kesit, yangın ayırıcı sınır",
+          "Geçişin yeri ve döşeme gereği belirsiz"
+        ],
+        [
+          "Tesisat ve açıklık",
+          "Tesisat projesi, güncel geçiş envanteri",
+          "Projedeki kablo/boru grubu sahadan farklı"
+        ],
+        [
+          "Yangın durdurucu detay",
+          "Sistem raporu, montaj detayı, ürün kimliği",
+          "Belge kapsamı ile gerçek uygulama eşleştirilemiyor"
+        ],
+        [
+          "Uygulama ve erişim",
+          "İki yüzey fotoğrafı, montaj ve bakım kayıtları",
+          "Alt yüzey görülemedi veya kapama bozulmuş"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı mimari ve tesisat projeleri, kullanım izinleri, yangın kompartımanı kararları ve varsa değişiklik kayıtlarıyla başlar. Tesisatın hangi döşemeyi geçtiğini, bu döşemenin yangın ayırıcı işlevini ve ilgili belgede aranan dayanım koşulunu belirler. Ardından erişebildiği geçişleri sahada tek tek gözlemler; eksik kapama, sonradan eklenmiş kablo, hasar, uygunsuz boşluk ve belge–uygulama farklılıklarını konumlarıyla kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek uygulamada, projede tek kablo geçişi bulunan döşemeden sahada dört kablo demeti geçtiği görülüyorsa sonuç “yangın dayanımı sıfırdır” şeklinde yazılmaz. “Geçiş kapsamı projeden farklı; kullanılan sistemin bu kablo sayısı ve açıklık için geçerli teknik belgesi sunulmadı” biçiminde, kanıtlanabilir tespit yapılır. Gerekirse yetkili proje müellifi, uygulamacı veya ilgili teknik uzmandan açıklama ve uygunluk belgesi istenir; düzeltici işlemden sonra kayıt yeniden incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU sıfatıyla yapılan gözlemsel inceleme; yangın dayanım testi, ürün sınıflandırması, mühendislik tasarımı, tesisat ölçümü veya proje onayı yerine geçmez. Uygunluk kararı, ancak erişilebilen saha verileri ve doğrulanabilen teknik belgeler kapsamıyla sınırlı kurulabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Döşeme geçişindeki temel soru “delik kapanmış mı?” değil, “yangın ayırıcı döşemenin gereği bu tesisat ve bu uygulama için belgelenerek korunmuş mu?” sorusudur. Konum bazlı kayıt, güncel proje ve geçerli sistem belgesi birlikte incelendiğinde, eksiklikler tahmine değil doğrulanabilir kanıta dayandırılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

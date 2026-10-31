@@ -1,0 +1,141 @@
+{
+  "kod": "YGR-K039",
+  "yol": "toplanma-amacli-binada-oturma-duzeni-kacisi-nasil-etkiler",
+  "baslik": "Toplanma amaçlı binada oturma düzeni kaçışı nasıl etkiler?",
+  "ozet": "Bir toplantı veya etkinlik salonunda oturma düzeninin değişmesi, yalnız koltuk sayısını değil, insanların sıra içinden geçitlere ve çıkış kapılarına ulaşma biçimini de değiştirir. Bu nedenle mevcut düzenin güvenliğini, onaylı yerleşim planı ve fiili kullanım birlikte görülmeden yalnız kapasite üzerinden değerlendirmek doğru değildir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapasite-ile-cikislara-erisim-ayni-kontrol-degildir",
+      "metin": "Kapasite ile çıkışlara erişim aynı kontrol değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Tiyatro, sinema, konferans ve benzeri sabit koltuklu salonlarda sıra içi geçişler, koltuk kümeleri arasındaki dolaşım alanları ve çıkışlara bağlantı bir bütün oluşturur. Koltuk sayısı aynı kalsa bile sıra uzunluğu, geçidin yeri veya kapıya ulaşan yol değiştiğinde kullanıcıların hareket düzeni farklılaşabilir. Düğün salonu gibi masa ve taşınabilir sandalye kullanılan mekanlarda ise etkinliğin gerçek yerleşimi ayrıca ele alınmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, sabit koltuklu toplanma salonlarında sıra içi temiz geçiş genişliğinin 30 cm altına düşmemesini ve bütün sıra boyunca korunmasını öngörür. Bir sıradaki koltuk sayısı, geçiş genişliğine ve kaçış yolunun sıranın bir veya iki yanında bulunmasına göre değerlendirilir. Bu ölçütleri, sabit koltuklu düzen bulunmayan her etkinliğe doğrudan uygulamak yerine o kullanımın kullanıcı yükü, çıkış sayısı, kapasitesi ve geçit düzeni ayrı incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yerlesim-degisikliginde-ilk-bakilacak-noktalar",
+      "metin": "Yerleşim değişikliğinde ilk bakılacak noktalar"
+    },
+    {
+      "tip": "p",
+      "metin": "Sabit koltukların kaldırılması, sıra aralarına ek sandalye yerleştirilmesi veya sahne ve platform kurulması, projede gösterilen geçişleri daraltabilir ya da ortadan kaldırabilir. Değişiklikten önceki ve sonraki planlarda oturma kümeleri, ana dolaşım hatları, kapılar ve bunların önündeki boş alanlar aynı ölçekte karşılaştırılmalıdır. Özellikle kapının açık kalması, kapıya ulaşan yolun da engelsiz kaldığını tek başına göstermez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 39. Projedeki ve sahadaki yerleşim ilişkisinin şematik gösterimi. (Temsili çizim.)",
+      "src": "/img/makale/ygr-k039-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-saha-bulgusu-ve-teknik-degerlendirme",
+      "metin": "Belge, saha bulgusu ve teknik değerlendirme"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "İncelenecek belge veya saha kanıtı",
+        "Değerlendirmede aranacak ilişki"
+      ],
+      "satirlar": [
+        [
+          "Etkinliğin kullanım biçimi",
+          "Ruhsat, onaylı proje, işletme ve etkinlik düzeni",
+          "Sabit koltuklu salon ile serbest yerleşimli kullanım ayrılır."
+        ],
+        [
+          "Kullanıcı yükü ve kapasite",
+          "Onaylı kapasite hesabı, koltuk planı, fiili düzen",
+          "Fiili kullanıcı yükünün çıkış sayısı ve kapasitesiyle ilişkisi kontrol edilir."
+        ],
+        [
+          "Sıra içi geçit ve ara dolaşım",
+          "Ölçülü önce/sonra yerleşim paftası, yerinde gözlem",
+          "Geçitlerin sürekliliği ve sabit koltuk koşullarının uygulanabilirliği incelenir."
+        ],
+        [
+          "Kapılara erişim",
+          "Kapı konumları, geçici platform, masa, stant ve ekipman yerleşimi",
+          "Çıkış önünde daralma, engel veya yeni yön değiştirme bulunup bulunmadığı kaydedilir."
+        ],
+        [
+          "Değişikliklerin belgelendirilmesi",
+          "Revizyon paftaları, varsa onay ve teknik değerlendirme kayıtları",
+          "Kullanılan düzenin geçerli proje ve izinlerle uyumu veya belirsizliği açıklanır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının kullanım amacını gösteren ruhsat ve yapı kullanma izni kayıtlarını, onaylı mimari veya tahliye projesini ve varsa sonraki yerleşim revizyonlarını karşılaştırarak başlar. Salonun konferans, gösteri, yemek veya ayakta etkinlik için kullanılıp kullanılmadığı, yerinde görülen koltuk ve masa düzeniyle birlikte kaydedilir. Belgedeki kapasite ile fiili kullanım arasında fark varsa bu farkın hangi geçit ve çıkışları etkilediği belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gezisinde sıra içi erişim, ara dolaşım hatları, çıkış kapılarının önü, geçici sahne ve teknik ekipman yerleşimi gözlemsel olarak incelenir; gerekli yerlerde fotoğraf, kroki ve belge referansıyla tespit yapılır. Onaylı yerleşim bulunmuyor veya mevcut düzen projeden ayrılıyorsa, sırf koltuk sayısına bakılarak uygunluk kararı verilmez; eksik belgenin ve yeniden değerlendirilmesi gereken kaçış koşulunun ne olduğu gerekçeli raporda gösterilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu inceleme, mimari kaçış hesabını veya revize tahliye projesini hazırlama ve onaylama yetkisinin YGU’ya geçtiği anlamına gelmez. Tasarımın yeniden hesaplanması, ölçüme dayalı teknik doğrulama ve resmi proje onayı ilgili yetkili meslek mensupları ile idarelerin görev alanında kalır. Uzman, kendisine verilen görev ve yetki kapsamında belge ve saha arasındaki uyuşmazlığı tespit edip teknik gerekçesiyle bildirir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-metin-ile-yururlukteki-hukmun-ayrilmasi",
+      "metin": "Taslak metin ile yürürlükteki hükmün ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede sabit koltuklu salonların ara dolaşım alanlarına ilişkin eğim koşullarında %10 eşiği yer alırken, kullanıcı tarafından sağlanan yeni yönetmelik taslağında bu eşik %8 olarak önerilmiştir. Taslakta bulunan bu farklı değer, yürürlüğe girmiş bir zorunluluk gibi uygulanamaz. İncelemede esas alınacak metin, yapının hukuki durumu ve yürürlükteki hükümler üzerinden belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-tespit-ifadesi",
+      "metin": "Örnek tespit ifadesi"
+    },
+    {
+      "tip": "p",
+      "metin": "“Salonun mevcut oturma ve etkinlik düzeni, sunulan yerleşim paftasından farklıdır. Sıra araları ve çıkış kapılarına erişim güzergahları değiştiği halde güncel kullanıcı yükünü ve kaçış düzenini birlikte gösteren doğrulanmış bir proje sunulmamıştır. Bu nedenle mevcut düzenin ilgili kaçış hükümlerine uygunluğu mevcut belgelerle doğrulanamamıştır.”"
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Toplanma amaçlı bir salonda oturma düzeninin güvenliği, tek başına toplam koltuk sayısıyla açıklanamaz. Gerçek yerleşim, kullanıcı yükü, sıra içi geçitler, dolaşım alanları ve çıkışlara erişim onaylı proje ile birlikte değerlendirilmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

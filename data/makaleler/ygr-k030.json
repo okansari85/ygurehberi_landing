@@ -1,0 +1,139 @@
+{
+  "kod": "YGR-K030",
+  "yol": "kacis-yolu-daraldiginda-ilk-hangi-belgeler-incelenir",
+  "baslik": "Kaçış yolu daraldığında ilk hangi belgeler incelenir?",
+  "ozet": "Kaçış koridoru projede yeterli genişlikte gösterilse bile kullanım sırasında yerleştirilen bir dolap, teşhir standı, elektrik panosu veya güvenlik bariyeri geçişi daraltabilir. Böyle bir bulguda ilk iş, tek bir genişlik değeri söylemek değil, hangi onaylı tasarımın geçerli olduğunu ve koridorun bugün nasıl kullanıldığını belgelemektir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ilk-bakilacak-belgeler",
+      "metin": "İlk bakılacak belgeler"
+    },
+    {
+      "tip": "p",
+      "metin": "Öncelik, ilgili idarece onaylanmış mimari proje ile varsa ayrı hazırlanmış tahliye projesindedir. Kat planı, kaçış güzergahı, kapı konumları, koridor genişlikleri ve projedeki mahal tanımları aynı pafta ve revizyon üzerinden okunur. Sonradan düzenlenmiş ancak onay durumu belirsiz bir yerleşim krokisi, onaylı projenin yerine geçirilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adımda projeye esas kullanıcı yükü ve çıkış kapasitesi hesabı incelenir. Koridorun hizmet ettiği odalar, kullanım türü, ortak kaçışa bağlanan alanlar ve çıkışların dağılımı bu hesapla ilişkilendirilir. Mevcut faaliyet, proje kabulünden farklıysa güncel kullanım ve yoğunluk bilgisi ayrıca istenir; yalnız koridorun duvardan duvara ölçüsüyle yeterlilik kararı verilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü grupta yapı ruhsatı, yapı kullanma izin belgesi, onaylı tadilat projeleri, sonradan eklenen donanımın yerleşim belgeleri ve varsa teknik inceleme raporları yer alır. Geçici stand veya palet gibi işletme kaynaklı engeller için işletme düzeni, depolama talimatı ve kullanım saatleri de önemlidir. Bu kayıtlar, daralmanın tasarım değişikliği mi yoksa işletme uygulaması mı olduğunu ayırmaya yardım eder."
+    },
+    {
+      "tip": "h2",
+      "id": "projedeki-koridor-ile-sahadaki-gecis-ayni-mi",
+      "metin": "Projedeki koridor ile sahadaki geçiş aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin üretim alanına hizmet veren bir koridora ekipman dolabı konulduğunda, onaylı plandaki koridor sınırı değişmeyebilir; buna karşılık insanların fiilen kullanabildiği geçiş azalır. Benzer biçimde, satış standı gün içinde kurulup kaldırılıyor olabilir. İnceleme, engelin bulunduğu kesimi ve kaçış yönünü belirlemeli; tek bir fotoğrafla sürekli kullanım koşulu hakkında kesin hüküm kurmamalıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 30. Onaylı koridor geometrisi ile sonradan yerleştirilen elemanın ilişkisi (temsili çizim).",
+      "src": "/img/makale/ygr-k030-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-bulgusu-nasil-eslestirilir",
+      "metin": "Belge ve saha bulgusu nasıl eşleştirilir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "İlk incelenecek kanıt",
+        "Sahada kaydedilecek bulgu"
+      ],
+      "satirlar": [
+        [
+          "Koridorun tasarım genişliği",
+          "Onaylı mimari veya tahliye projesi; ilgili revizyon",
+          "Daralmanın kat, mahal ve aks konumu"
+        ],
+        [
+          "Kaçış kapasitesi",
+          "Kullanıcı yükü hesabı; çıkış dağılımı",
+          "Güncel faaliyet ve kullanım yoğunluğu"
+        ],
+        [
+          "Sonradan eklenen eleman",
+          "Tadilat/yerleşim projesi, ekipman kaydı",
+          "Sabit ya da geçici engelin konumu ve fotoğrafı"
+        ],
+        [
+          "Kapı ve geçiş ilişkisi",
+          "Kapı çizelgesi, plan ve teknik belgeler",
+          "Kanat hareketi ve geçişe etkisinin gözlemi"
+        ],
+        [
+          "Teknik genişlik doğrulaması",
+          "Yetkili disiplinin ölçüm veya teknik inceleme kaydı",
+          "Ölçüm gerektiren noktanın açıkça tarif edilmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı proje ve izin kayıtlarını belirleyerek başlar. Kaçış güzergahını projede işaretler; sahada aynı hattı yürüyerek kapıların, koridor bağlantılarının, dolapların, panoların, bariyerlerin ve geçici istiflerin yerini gözlemler. Fotoğraf ve krokiyi kat, mahal veya aks bilgisiyle ilişkilendirir. Özellikle daralmanın en belirgin olduğu kesimi ve bunun hangi çıkışa erişimi etkilediğini gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahadaki inceleme, onaylı projeye göre gözlemsel karşılaştırma ve mevcut teknik belgelerin değerlendirilmesi niteliğindedir. Genişliğin sayısal olarak yeniden belirlenmesi, kapasite hesabının değiştirilmesi veya tadilat projesi hazırlanması gerekiyorsa bunlar ilgili yetkili meslek mensubunun ölçüm, hesap ve tasarım çalışmasıyla yürütülür. YGU, ölçüm yapılmış gibi değer üretmez; gerekli teknik doğrulamayı raporunda açıkça ister. Proje onayı veya idari uygunluk kararı da bu incelemenin kendiliğinden sonucu değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Rapor, “koridor dar” gibi genel bir cümleyle bırakılmaz. Hangi paftanın hangi bölümünde öngörülen kaçış hattının, hangi kullanım koşulunda ve hangi eleman nedeniyle etkilendiği açıklanır. Belge eksikliği varsa eksik belge ayrı; gözlenen fiziksel engel ayrı bulgu olarak yazılır. Daralmanın mevzuat açısından sonucu, yapıya uygulanabilir hüküm, onaylı tasarım ve gerektiğinde yetkili teknik değerlendirme birlikte ele alınarak belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "engel-kaldirildiginda-inceleme-biter-mi",
+      "metin": "Engel kaldırıldığında inceleme biter mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Geçici bir standın kaldırılması gözlenen engeli ortadan kaldırabilir; ancak aynı düzenleme tekrar kuruluyorsa işletme yerleşimi ve denetim alışkanlığı da ele alınmalıdır. Sabit duvar, turnike veya tesisat elemanı nedeniyle daralan bir geçişte ise yalnız eşyanın kaldırılması yeterli olmayabilir. Gerekli proje revizyonu, teknik inceleme ve onay süreçleri ilgili yetkili kişilerce yürütülür. Kaçış yolunun açık olması, yönlendirme, aydınlatma ve duman güvenliği bakımından diğer gereklerin sağlandığını tek başına göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış yolundaki daralmada temel belge sırası; onaylı mimari ve tahliye projesi, kullanıcı yükü ve çıkış kapasitesi hesabı, izin ve tadilat kayıtları ile ilgili teknik raporlardır. Bu belgeler güncel faaliyet ve yerinde gözlemle birlikte değerlendirildiğinde, sorunun nerede oluştuğu ve hangi teknik veya işletmesel düzeltmenin gerektiği gerekçeli biçimde ortaya konabilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

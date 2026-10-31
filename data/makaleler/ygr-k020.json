@@ -1,0 +1,141 @@
+{
+  "kod": "YGR-K020",
+  "yol": "yangin-bolmelerini-ortak-bir-tavan-boslugu-birbirine-bagliyorsa-nasil-incelenir",
+  "baslik": "Yangın bölmelerini ortak bir tavan boşluğu birbirine bağlıyorsa nasıl incelenir?",
+  "ozet": "İki mahalin arasında yangına dayanıklı bir duvar bulunması, üstteki asma tavan boşluğunun da ayrıldığı anlamına gelmez. Duvar tavan kaplamasında bitiyor, üzerinde ortak bir servis boşluğu devam ediyorsa yangın ve dumanın bölmeler arasında ilerleyebileceği bir güzergah oluşabilir. Ancak yalnızca ortak boşluğun görülmesi de tek başına uygunsuzluk kararı için yeterli değildir. Önce onaylı projede yangın ayırıcı sınırın hangi yapı elemanlarıyla kurulduğu anlaşılmalıdır.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yangin-ayirici-sinir-tavanda-nereden-gecer",
+      "metin": "Yangın ayırıcı sınır tavanda nereden geçer?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın kompartımanını çevreleyen elemanların dayanımının birleşme noktalarında da sürekli olmasını ve kompartımanlar arasında yangına dayanıksız açıklık bulunmamasını öngörür. Bu nedenle inceleme yalnız duvar yüzeyinde değil; duvarın üst bitişinde, taşıyıcı döşeme veya çatı altıyla birleşiminde ve sınırı geçen tesisatlarda yapılır. Gerekli yangın dayanım süresi ise ilgili yapı ve kullanım koşullarına göre belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Asma tavan kaplamasının malzeme bakımından zor alevlenici olması ile belirli süre yangına dayanıklı bir ayırıcı sistem olarak belgelenmesi farklı konulardır. Sıradan bir asma tavan, arkasındaki açık boşluğu kendiliğinden yangın kompartımanına dönüştürmez. Buna karşılık projede belgelenmiş, bütün birleşim ve geçiş detaylarıyla doğrulanmış özel bir tavan sistemi varsa değerlendirme bu tasarım üzerinden yapılır. Her durumda duvarın mutlaka aynı biçimde döşeme altına uzanacağı varsayılmaz; esas olan onaylı yangın ayırıcı çözümün sürekliliğidir."
+    },
+    {
+      "tip": "h2",
+      "id": "plan-kesit-ve-ust-bosluk-birlikte-okunmali",
+      "metin": "Plan, kesit ve üst boşluk birlikte okunmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Kat planı bölme hattının yerini gösterir; duvarın asma tavan üzerinde devam edip etmediğini çoğu zaman göstermez. Mimari kesit, duvar detayı, asma tavan planı ve varsa yangın güvenliği paftaları birlikte okunur. Yerinde erişim mümkünse tavan kontrol kapağından duvarın üst ucu, üst döşemeye bağlantısı, kapatılmış açıklıklar ve boşluğun komşu mahale devam edip etmediği gözlenir. Tavanın açılması veya sökülmesi gerekiyorsa bu işlem yetkili tarafın izni ve güvenli çalışma düzeniyle yürütülür; gözlemsel inceleme adına kontrolsüz müdahale yapılmaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 20. Eski taslaktaki iki mahal, ortak üst boşluk ve ayırıcı duvar ilişkisini gösteren temsili kesit. Sarı bölüm, sürekliliği ayrıca doğrulanacak bağlantı noktasını temsil eder; tek başına kesin uygunsuzluk hükmü değildir.",
+      "src": "/img/makale/ygr-k020-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "tesisat-gecisleri-ve-belgelendirme",
+      "metin": "Tesisat geçişleri ve belgelendirme"
+    },
+    {
+      "tip": "p",
+      "metin": "Ortak boşlukta kablo tavaları, borular, havalandırma kanalları veya şaft bağlantıları bulunabilir. Yangın ayırıcı hattı geçen her unsur için geçişin konumu, açıklığın kapatılması, kullanılan sistemin teknik belgesi ve sahadaki montaj ayrıntısı karşılaştırılır. Özellikle sonradan eklenen kablolar, sökülmüş dolgu, boş bırakılmış manşonlar ve kanal çevresindeki açıklıklar ayrı kaydedilir. Havalandırma kanalındaki yangın veya duman damperi ihtiyacı da ilgili tasarım ve uygulanabilir hükümler üzerinden değerlendirilir; her kanalda otomatik olarak aynı çözümün gerektiği varsayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-kanit-tablosu",
+      "metin": "Proje–saha karşılaştırmasında kanıt tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol birimi",
+        "Projede aranacak bilgi",
+        "Sahada incelenecek durum",
+        "Kanıt / rapor notu"
+      ],
+      "satirlar": [
+        [
+          "Kompartıman hattı",
+          "Onaylı plan ve yangın ayırıcı sınır",
+          "Mahallerin gerçek kullanımı ve duvar konumu",
+          "Pafta ve mahal kodu eşleştirilir."
+        ],
+        [
+          "Duvar üst bitişi",
+          "Kesit, duvar–döşeme veya tavan detayı",
+          "Üst boşluğun devamı, birleşim ve açıklık",
+          "Görülen nokta fotoğraflanır; kapalı alan belirsiz yazılır."
+        ],
+        [
+          "Tesisat geçişi",
+          "Geçiş ve yangın durdurucu sistem detayı",
+          "Kablo, boru, kanal ve sonradan değişiklik",
+          "Ürün/sistem belgesi ile uygulama eşleştirilir."
+        ],
+        [
+          "Bakım ve revizyon",
+          "Onaylı tadilat, uygulama ve bakım kayıtları",
+          "Hasar, sökülmüş kapama, yeni servis hattı",
+          "Eksik belge ve düzeltici işlem ayrı belirtilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği kontrolün sınırları içinde yapının onaylı mimari ve yangın güvenliği projelerini, izin ve tadilat kayıtlarını, fiili kullanımını ve önceki teknik raporlarını inceler. Örneğin iki ayrı kiracı mahali projede farklı kompartımanlar olarak gösterilmişse, aralarındaki duvarın üstte hangi elemanla tamamlandığını ve bu çözümün sahada bulunup bulunmadığını araştırır. Tavan üstündeki boşluğa erişemediği noktayı uygun kabul etmez; erişim kısıtını, gerekli çizimi veya teknik belgeyi açıkça raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili bulgu şu biçimde yazılabilir: “A-12 ve A-13 mahallerini ayıran duvar, erişilebilen tavan üstü bölümde üst döşemeye kadar devam etmiyor. Onaylı projede bu birleşimi tamamlayan yangına dayanıklı tavan veya başka bir ayırıcı sistem detayı gösterilemedi. Ayırıcı sürekliliğin doğrulanması için onaylı detay ve uygulama belgesi gereklidir.” Bu ifade, gözlenen durum ile henüz kanıtlanmamış yangın dayanımını birbirinden ayırır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU tarafından yapılan belge incelemesi ve gözlemsel kayıt; malzeme yangın dayanım testi, sistem sınıflandırması, mühendislik hesabı, proje tadilatı veya idari onay yerine geçmez. Gereken teknik çözüm, yetkili proje müellifi ve ilgili uzmanların değerlendirmesiyle belirlenir. Kontrolün sonucu, yalnız görülen alanlar ve doğrulanan belgeler kapsamında gerekçelendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağında da yangın ayırıcı elemanların birleşim yerlerinde süreklilik ilkesi yer alır. Ancak taslaktaki madde düzeni ve bazı ifadeler yürürlükteki metinle aynı değildir. Taslak hükümler bugünkü zorunluluk gibi uygulanmaz. Yangın Güvenlik Uzmanlığına ilişkin ayrı taslakta ise proje ve saha belgelerinin karşılaştırılması ile kanıta dayalı raporlama öngörülür; bu görev modeli de yayımlanmış ve yürürlüğe girmiş bir yetki olarak sunulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ortak tavan boşluğunun varlığı bir inceleme nedenidir; nihai karar değildir. Doğru soru, yangın ayırıcı sınırın projede nerede tanımlandığı ve bu sınırın duvar, tavan, döşeme, birleşim ve tesisat geçişlerinde belgelenebilir biçimde korunup korunmadığıdır. Plan, kesit, yerinde gözlem ve teknik belgeler birlikte değerlendirilmeden kesin uygunluk veya uygunsuzluk sonucu kurulmaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

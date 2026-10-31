@@ -1,1 +1,0 @@
-import{i as e}from"#entry";var t=e(`/img/bg-ygu-yolu.webp`);export{t};

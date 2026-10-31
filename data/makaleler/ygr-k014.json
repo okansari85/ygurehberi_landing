@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K014",
+  "yol": "komsu-binalar-arasindaki-yangin-yayilimi-nasil-degerlendirilir",
+  "baslik": "Komşu binalar arasındaki yangın yayılımı nasıl değerlendirilir?",
+  "ozet": "Komşu iki binanın yangın güvenliği, aralarındaki açıklığın metre cinsinden ölçülmesiyle bitmez. Cephelerdeki açıklıklar, ortak duvarlar, çatı ilişkisi ve ara alanda sonradan oluşan yanıcı yük birlikte değerlendirilmelidir.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yerlesim-hukmu-tek-basina-mesafe-karari-degildir",
+      "metin": "Yerleşim hükmü tek başına mesafe kararı değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), yangının civardaki binalara sıçramasının sınırlandırılmasını temel bir tasarım amacı olarak düzenler. Binaların yerleşimine ilişkin hüküm ise ağırlıklı olarak imar planı, bitişik nizam yapı adaları ve belirli dış yangın bölgeleriyle ilgilidir. Bu hükümden her iki bina için geçerli tek bir asgari komşuluk mesafesi çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bitişik yapılarda müşterek duvarın yangına dayanımı; ayrık yapılarda ise karşılıklı cepheler, pencere ve kapılar, çatıların konumu ve kullanılan yapı malzemeleri ayrıca incelenir. Ortak duvar, cephe ve çatı için yönetmeliğin ilgili hükümleri ayrı ayrı uygulanır. Mevcut yapı, yeni yapı ve sonradan yapılan değişikliklerin hangi hükümlere tabi olduğu da belgelere göre belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "ara-alan-degistiginde-maruziyet-de-degisebilir",
+      "metin": "Ara alan değiştiğinde maruziyet de değişebilir"
+    },
+    {
+      "tip": "p",
+      "metin": "İki üretim binası arasındaki açık geçişe sonradan karton ambalaj istiflendiğini düşünelim. Binaların yerleri değişmemiştir; ancak yangının diğer cepheye ulaşmasını etkileyebilecek yanıcı malzeme ve itfaiyenin geçiş koşulları değişmiştir. İlk vaziyet planındaki boş alan kabulünün bugün de geçerli olduğu varsayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemede istifin yeri ve yaklaşık sınırları, malzemenin türü, karşılıklı cephelerdeki açıklıklar, çatı kotları ve erişim güzergahı aynı krokide gösterilir. Malzeme miktarı ve özellikleri doğrulanmamışsa ısı akısı, güvenli mesafe veya dayanım süresi hesaplanmış gibi sunulmaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 14. Ara alandaki istifin cephe ve araç erişimiyle ilişkisini gösteren özgün temsili çizim; ölçekli vaziyet planı değildir.",
+      "src": "/img/makale/ygr-k014-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahadaki-durumun-karsilastirilmasi",
+      "metin": "Proje ile sahadaki durumun karşılaştırılması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Proje / beklenen",
+        "Sahadaki bulgu",
+        "İzlenecek yol"
+      ],
+      "satirlar": [
+        [
+          "Ara alan",
+          "Açık geçiş alanı",
+          "Karton ambalaj istifi",
+          "Malzeme ve kullanım kaydı"
+        ],
+        [
+          "Karşılıklı cephe",
+          "Onaylı açıklık ve kaplama",
+          "Sonradan açılmış pencere şüphesi",
+          "Cephe paftası ile doğrulama"
+        ],
+        [
+          "Yangın ayrımı",
+          "Ortak duvar / çatı detayı",
+          "Belge veya detay eksik",
+          "İlgili proje ve ürün kanıtı"
+        ],
+        [
+          "İtfaiye erişimi",
+          "Vaziyet planındaki güzergah",
+          "Geçişte daralma şüphesi",
+          "Yerinde ölçüm ve kayıt"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği kontrolün kapsamına göre onaylı vaziyet ve mimari cephe paftalarını, varsa tadilat projelerini, yapı belgelerini, önceki yangın güvenliği raporlarını ve ilgili malzeme kayıtlarını inceler. Sahada iki yapının cephelerini, açıklıklarını, ara alandaki istifi ve itfaiye erişimini fotoğraf, kroki ve gerekli ölçüm kayıtlarıyla projeye karşılaştırır. Komşu parseldeki bölümlere erişilemiyorsa bunu açıkça belirtir; görmediği alan hakkında kesin uygunluk kararı vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, projede bulunmayan açıklığı veya yeni istifi somut bulgu olarak kaydeder; gerektiğinde yetkili idareden belge temini ve ilgili tasarım uzmanından teknik değerlendirme istenmesini önerir. Bu gözlemsel kontrol, cephe yangın dayanımı hesabı, radyasyon hesabı, yangın duvarı tasarımı veya proje onayı yerine geçmez. YGU taslağında periyodik kontrolün odağı onaylı projedeki tedbirlerin varlığı ve kullanım sırasındaki durumudur; taslağın bu yaklaşımı henüz yürürlükte bir yetki olarak gösterilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "bulgunun-yazimi-ve-karar-siniri",
+      "metin": "Bulgunun yazımı ve karar sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt: “A ve B yapıları arasındaki geçiş alanında onaylı vaziyet planında gösterilmeyen ambalaj istifi gözlenmiştir. İstifin miktarı ve niteliği ile karşılıklı cephelerin yangına ilişkin proje detayları doğrulanamadığından yayılım etkisi hakkında nihai teknik karar verilememiştir. Ara alan kullanımı ve erişim açıklığı ilgili belgelerle yeniden değerlendirilmelidir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Her yanıcı istif için kendiliğinden yangın duvarı zorunluluğu veya her karşılıklı pencere için doğrudan uygunsuzluk kararı verilmez. Ayrıca yeni BYKHY taslağındaki öneriler, yayımlanıp yürürlüğe girmedikçe mevcut yönetmelik hükmü olarak uygulanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Komşu binalar arasındaki yangın yayılımı, yalnız parsel mesafesi değil; cephe, duvar, çatı ve ara alanın gerçek kullanımıyla ilgili bir bütündür. YGU için doğru sonuç, belgesi bulunan koşulları doğrulamak, değişiklikleri ayrı bulgular halinde göstermek ve uzmanlık sınırını aşan hesapları yetkili tasarım incelemesine bırakmaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

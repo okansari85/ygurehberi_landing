@@ -1,0 +1,130 @@
+{
+  "kod": "YGR-K008",
+  "yol": "tehlike-sinifi-bina-adina-bakilarak-belirlenebilir-mi",
+  "baslik": "Tehlike sınıfı bina adına bakılarak belirlenebilir mi?",
+  "ozet": "Bir yapının kapısında “depo”, “fabrika” veya “ofis” yazması, o yapının yangın tehlike sınıfını tek başına belirlemez. Aynı faaliyet adı altında çalışan iki tesiste kullanılan malzemeler, depolama düzeni ve yürütülen işlemler birbirinden oldukça farklı olabilir. Tehlike sınıflandırmasında bu farklılıkların hangi mahallerde bulunduğunu bilmek gerekir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "tehlike-sinifini-belirleyen-bilgiler",
+      "metin": "Tehlike sınıfını belirleyen bilgiler"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, tehlike sınıfını yapının özellikleri ile yürütülen işlemin ve faaliyetin niteliğine bağlar. Düşük, orta ve yüksek tehlike grupları ile ilgili kullanım alanları Ek-1’de yer alır. Bu nedenle yalnız bina adı, işyeri tabelası veya NACE koduyla sınıf seçilmez. Malzeme türü, yanıcılık özellikleri, miktar, ambalaj, depolama biçimi ve proses koşulları, ilgili mahallerin gerçek kullanımıyla birlikte değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "ayni-isimli-iki-depo-neden-farkli-degerlendirilebilir",
+      "metin": "Aynı isimli iki depo neden farklı değerlendirilebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eşit büyüklükte iki depoyu düşünelim. İlkinde ağırlıklı olarak metal yedek parçalar bulunurken ikincisinde karton ambalajlı, yanıcı ürünler depolanıyor olsun. Her iki kapıda da “depo” yazsa bile içerik ve yangının gelişimini etkileyen koşullar aynı değildir. Bu karşılaştırma, sınıfın yalnız alan büyüklüğünden veya mahale verilen isimden çıkarılamayacağını gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınıflandırma yapılırken önce güncel malzeme ve faaliyet bilgisi elde edilir; ardından ilgili Ek-1 kullanım alanları ve proje tasarım kabulleriyle karşılaştırılır. Özellikle raflı depolama, sezonluk stok artışı veya üretime yeni yanıcı malzeme girmesi, ilk projede esas alınan bilgilerin güncelliğini etkileyebilir. Bir değişiklik tespit edilmesi her durumda sınıfın değiştiği anlamına gelmez; önce değişikliğin niteliği ve uygulama koşulları belirlenir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 8. Yangın tehlike sınıfının değerlendirilmesinde birlikte incelenen bilgiler (temsili şema).",
+      "src": "/img/makale/ygr-k008-1.png"
+    },
+    {
+      "tip": "p",
+      "metin": "Şemadaki dört unsur birbirini tamamlar. Yapılan faaliyet belirlenmeden stokun niteliği, stokun gerçek özellikleri bilinmeden de Ek-1 karşılığı sağlıklı değerlendirilemez. Son aşamada seçilen sınıfın, projedeki yangın koruma sistemi tasarımına hangi koşullarda esas alındığı araştırılır. Özellikle farklı kullanım ve tehlike özelliklerine sahip mahallerin sınırları planda ayrı gösterilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki yangın tehlike sınıfı, iş sağlığı ve güvenliği mevzuatında işyerine verilen tehlike sınıfıyla aynı kavram değildir. Bir işyerinin İSG bakımından “tehlikeli” olarak sınıflandırılması, BYKHY kapsamındaki yangın tehlike sınıfının da aynı isimle belirleneceğini göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 19, farklı tehlike sınıflarındaki malzemelerin aynı binanın çeşitli bölümlerinde bulunması halinde su ve pompa kapasitesinin en yüksek tehlike sınıflandırmasına göre belirlenmesine ilişkin bir hüküm içerir. Gönderilen yeni yönetmelik taslağında ise aynı fıkranın anlatımı, farklı malzemelerin bulunduğu alanın sınıflandırılması üzerinde kurulmuştur. Bu iki metnin farklı ifadeleri birbirinin yerine kullanılamaz; uygulamada yürürlükteki hüküm ve onaylı tasarım esasları ayrı değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınıflandırmanın gerekçesi belgelenmelidir. Örneğin depolama alanının yeni raf düzeni, değişen ürün listesi veya yanıcı ambalaj miktarı ile ilgili kayıtlar yoksa eski sınıfın bugünkü kullanımı karşılayıp karşılamadığı belirlenemez. Böyle bir durumda eksik verinin tamamlanması istenir; yalnızca gözle görülene dayanarak kesin bir alt sınıf tayin edilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-verilerinin-karsilastirilmasi",
+      "metin": "Proje ve saha verilerinin karşılaştırılması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen alan",
+        "Projedeki kullanım",
+        "Sahadaki örnek bilgi",
+        "Doğrulama konusu"
+      ],
+      "satirlar": [
+        [
+          "İdari mahal",
+          "Büro ve idari işler",
+          "Çalışma alanı",
+          "Kullanımın projeyle uyumu"
+        ],
+        [
+          "Yardımcı stok",
+          "Üretime bağlı malzeme",
+          "Karton ve aerosol ürünler",
+          "Malzeme türü, miktarı, depolama biçimi"
+        ],
+        [
+          "Teknik oda",
+          "Teknik ekipman",
+          "Ekipman ve geçici ambalaj",
+          "Gerçek kullanım ve yanıcı içerik"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki tablo örnek bir inceleme düzenidir. İşletmeden alınacak belgelerle fiili kullanım arasında neyin doğrulanması gerektiğini gösterir; tek başına bir uygunluk kararı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının onaylı projesinde mahallerin kullanımını ve yangın tehlike sınıfına esas alınan bilgileri inceler. Ardından sahada yürütülen işlemleri, stok türlerini, ambalajları ve depolama düzenini gözlemsel olarak karşılaştırır. Gerekli olduğunda işletmenin güncel envanterini, proje revizyonlarını ve sistemlere ait muayene veya bakım kayıtlarını da değerlendirir. Amaç, bir mahalin kapısındaki ismi yeniden yazmak değil, koruma tedbirlerinin dayandığı verilerin sahadaki durumla örtüşüp örtüşmediğini görmektir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede idari kullanım için ayrılmış bir bölümde karton ambalaj ve aerosol ürünler düzenli olarak stoklanıyorsa, uzman bu farklılığı yeri ve kapsamıyla kayıt altına alır. Malzemenin tür ve miktarına ilişkin bilgi eksikse tamamlanmasını ister. Gerekli teknik inceleme veya proje değerlendirmesi yapılmadan yeni bir sprinkler tasarım sınıfı veya kesin bir uygunluk sonucu üretmez. Raporunda hangi proje bilgisiyle hangi saha bulgusunun farklılaştığını ve hangi doğrulamanın gerektiğini açıkça belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın tehlike sınıfı, yapı adından değil, ilgili mahaldeki gerçek faaliyet ve malzeme özelliklerinden hareketle değerlendirilir. Onaylı projedeki kabullerle bugünkü stok ve kullanım düzeni arasında fark varsa bu farkın tasarımı etkileyip etkilemediği araştırılır. Yangın güvenliği incelemesinin değeri, yalnız bir sınıf adı yazmasında değil, o sınıfın dayandığı bilgilerin doğrulanabilmesindedir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

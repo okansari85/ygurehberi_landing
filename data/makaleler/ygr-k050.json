@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K050",
+  "yol": "elektrik-tesisatindaki-yeni-panonun-yer-secimi-neyi-degistirir",
+  "baslik": "Elektrik tesisatındaki yeni panonun yer seçimi neyi değiştirir?",
+  "ozet": "Yeni bir elektrik panosunun yeri, yalnızca elektrik dağıtımının nasıl yapılacağını belirlemez. Pano gövdesinin kapladığı alan, kapakların açılma yönü, bakım erişimi ve yeni kablo güzergahı; özellikle kaçış koridorlarında ve yangına dayanımlı ayırıcı elemanların yakınında binanın yangın güvenliği düzenini etkileyebilir. Bu nedenle yer seçimi, elektrik tesisatı projesi ile mimari kaçış düzeni birlikte okunarak değerlendirilmelidir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "pano-yerinin-degistirilmesi-neden-ayri-bir-incelemedir",
+      "metin": "Pano yerinin değiştirilmesi neden ayrı bir incelemedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Pano, elektrik projesinde uygun bir noktaya taşınmış görünse bile sahada koridorun kullanılabilir genişliğini azaltabilir, bir kaçış kapısının hareketini sınırlayabilir veya korunumlu hacme yeni tesisat geçişi açılmasına yol açabilir. Pano kapalıyken oluşan kalıcı çıkıntı ile bakım sırasında kapağın açık tutulmasının geçici etkisi birbirinden ayrılmalıdır. Bakım alanı için gereken düzen, sürekli kullanılan kaçış güzergahını işlevsiz bırakacak şekilde kabul edilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yer seçiminin değerlendirilmesinde ilk soru, panonun koridorda bulunup bulunmadığı değil, bulunduğu mahallin onaylı projedeki işlevidir. Sıradan bir servis koridoru, ortak kullanım koridoru ve korunumlu kaçış yolu aynı nitelikte değildir. Aynı pano yerleşimi bu mahallerde farklı sonuçlar doğurabilir; bu nedenle bütün koridorlar için bağlamdan bağımsız bir yasak veya tek bir ölçü ileri sürülemez."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-gosterdigi-teknik-cerceve",
+      "metin": "Mevzuatın gösterdiği teknik çerçeve"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 67. maddesi, elektrik tesisatı ve ilgili sistemlerin güvenli tasarımını, tesisini ve çalışır durumda tutulmasını ele alır. 68. madde elektrik iç tesisatının ilgili tesisat mevzuatı ve standartlarına uygunluğuna, 69. madde ise elektrik tesisatının yangın bölmeleri arasındaki geçişlerinde açıklıkların yangın ve duman geçişini engelleyecek şekilde kapatılmasına ilişkindir. Bunlar, panonun her koridora yerleştirilebileceği veya her koridorda yasak olduğu sonucunu tek başına vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık Kılavuzu, bu hükümleri yorumlarken yararlı bir uygulama kaynağıdır; yönetmelikle çelişen bir yorumda bağlayıcı olan yürürlükteki düzenlemedir. Kullanıcının ilettiği yeni BYKHY taslağında elektrik tesisatı, iç tesisat ve kompartıman geçişleri ayrıca düzenlenmiştir. Taslaktaki düzenleme ve madde sıralaması yürürlükteki hükümlerle karıştırılmamalı, öneri niteliğindeki ifadeler mevcut bir zorunluluk gibi raporlanmamalıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 50. Kaçış koridorundaki pano konumunun geçişe etkisini gösteren özgün temsili çizim.",
+      "src": "/img/makale/ygr-k050-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-sahada-birlikte-aranacak-kanitlar",
+      "metin": "Proje ve sahada birlikte aranacak kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol odağı",
+        "Belge / kayıt",
+        "Sahada karşılaştırma"
+      ],
+      "satirlar": [
+        [
+          "Koridorun kullanım ve kaçış işlevi",
+          "Onaylı mimari proje, tahliye projesi, varsa revizyonlar",
+          "Panonun hangi güzergah üzerinde bulunduğu ve korunumlu alanla ilişkisi"
+        ],
+        [
+          "Pano gövdesi ve kapak hareketi",
+          "Elektrik yerleşim planı, pano ölçüleri, yerinde gözlem",
+          "Kalıcı çıkıntı, kapak açık/kapalı durum ve geçişe etkisi"
+        ],
+        [
+          "Yeni kablo güzergahı ve delikler",
+          "Elektrik projesi, uygulama detayı, ürün ve montaj belgeleri",
+          "Yangın ayırıcı yüzeyde açılan geçişlerin uygun şekilde kapatılıp kapatılmadığı"
+        ],
+        [
+          "Değişiklik ve işletme kaydı",
+          "Revizyon çizelgesi, yetkili kontrol/test raporları, bakım kayıtları",
+          "Proje değişikliği ile fiili uygulamanın ve sonraki işletmenin uyumu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının onaylı mimari ve elektrik projelerini, yapı ruhsatı ve kullanım izniyle ilgili kayıtları, sonradan yapılan tadilat ve revizyon belgelerini inceler. Panonun bulunduğu mahallin fiili kullanımı, kapıların açılış yönü, koridorun mevcut yerleşimi ve işletmenin bakım koşulları bu belgelerle karşılaştırılır. Yeni pano nedeniyle açılmış kablo geçişleri varsa bunların konumu, uygulama detayı ve yangın durdurucu sistemin teknik belgeleri birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesinde panonun yerini, görünür geçiş engellerini, kapak hareketini, kablo geçişlerini ve çevredeki istiflemeyi fotoğraf ve krokiyle kayda almak; belirsiz hususlar için yetkili projeciden veya uygulayıcıdan açıklama ve belge istemek uygundur. Örneğin koridor daralması iddiası, hangi kesitte ve hangi kullanım durumunda görüldüğü belirtilmeden kesin bir uygunsuzluk olarak yazılmamalıdır. YGU, gerekçeli tespitini ilgili proje ve mevzuat şartıyla ilişkilendirir; doğrulanamayan konuyu açıkça ek inceleme gereksinimi olarak ayırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Elektriksel hesap, koruma seçimi, topraklama ölçümü, pano uygunluk testi, projelendirme ve yetkili idare onayı ilgili yetkili disiplinlerin ve kuruluşların sorumluluğundadır. YGU bu işlemleri kendiliğinden üstlenmez; yapılmış testlerin ve onayların kayıtlarını inceler, yangın güvenliğine etkisini değerlendirir. YGU yönetmelik taslağındaki kontrol yaklaşımı da belge, proje ve fiili durumun gerekçeli karşılaştırılmasına dayanak oluşturabilecek bir çalışma çerçevesi sunar; ancak taslak henüz yürürlükteki bir yetki düzenlemesi değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "raporlama-ornegi-ve-sonuc",
+      "metin": "Raporlama örneği ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "“Dağıtım panosunun koridor içinde yeni konumlandırıldığı görülmüştür. Pano gövdesinin ve kapak açılma alanının kaçış güzergahına etkisi ile yeni kablo geçişlerinin yangın ayırıcı eleman üzerindeki uygulama detayı, sunulan güncel mimari ve elektrik projelerinde birlikte gösterilememiştir. Revizyon çizimleri ve ilgili uygulama belgeleri tamamlanarak proje–saha uyumunun yeniden değerlendirilmesi gereklidir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak pano yerinin uygunluğu, yalnızca cihazın elektriksel çalışmasına veya tek bir plan üzerindeki sembolüne bakılarak karara bağlanamaz. Esas olan, güncel projelerin aynı fiziksel durumu tarif etmesi, kaçış işlevinin korunması ve yangın ayırıcı elemanlarda yapılan tesisat geçişlerinin belgeli bir uygulamayla tamamlanmasıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

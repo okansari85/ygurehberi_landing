@@ -1,0 +1,134 @@
+{
+  "kod": "YGR-K045",
+  "yol": "kapali-otoparkin-kullanim-degisikligi-yangin-guvenligini-etkiler-mi",
+  "baslik": "Kapalı otoparkın kullanım değişikliği yangın güvenliğini etkiler mi?",
+  "ozet": "Otoparkın içine eklenen depo, teknik mahal veya yeni bir bölme; araç sayısı değişmese bile yangın güvenliği tasarımının dayandığı kullanım, alan ve tesisat koşullarını değiştirebilir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Kapalı otopark için onaylanan proje, araç parkı ve buna bağlı dolaşım düzeni esas alınarak hazırlanır. Sonradan oluşturulan bir eşya deposu, bakım alanı ya da kapalı servis hacmi yalnız yeni bir oda anlamına gelmez. Bölmenin yangın ayrımı, duman tahliyesi, yağmurlama koruması ve kaçış güzergahlarıyla ilişkisi yeniden incelenmelidir. Değişiklik tek başına otomatik bir uygunsuzluk kararı değildir; belirleyici olan izinli kullanım ile sahadaki durum arasındaki farkın teknik olarak açıklanabilmesidir."
+    },
+    {
+      "tip": "h2",
+      "id": "kullanim-degisikligi-neden-butun-otoparki-ilgilendirir",
+      "metin": "Kullanım değişikliği neden bütün otoparkı ilgilendirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kapalı otoparkların alanlarının toplamı 600 m²’yi aştığında otomatik yağmurlama sistemi, yangın dolap sistemi ve itfaiye su alma ağızlarını zorunlu tutar. Toplam alanı 2.000 m²’yi aşan kapalı otoparklarda ise diğer bölümlere hizmet veren sistemlerden bağımsız mekanik duman tahliyesi ve saatte en az 10 hava değişimi aranır. Bakanlık Kılavuzu, aynı yapı ruhsatına esas otopark alanlarının ayrı girişlere sahip olsa da birlikte ele alınabileceğini örnekle açıklar. Bir bölümün depo olarak çevrilmesi, bu alanların keyfi biçimde bölünerek yükümlülüklerin kaldırıldığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bolmenin-koruma-duzenine-etkisi",
+      "metin": "Yeni bölmenin koruma düzenine etkisi"
+    },
+    {
+      "tip": "p",
+      "metin": "Araç park cepleri arasına yerleştirilen bir duvar, dumanın hareketini ve menfezlerin hizmet ettiği hacmi değiştirebilir. Aynı duvar, sprinkler başlıklarının kapsadığı alanı, algılama cihazlarının yerleşimini veya yaya geçişini de etkileyebilir. Bu nedenle inceleme yalnız bölmenin ölçülerine değil, mevcut sistemlerin yeni düzen içinde tasarlandığı gibi çalışıp çalışamayacağına odaklanır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 45. Otoparka eklenen bölmenin yerleşim ve koruma alanına etkisi (temsili çizim).",
+      "src": "/img/makale/ygr-k045-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-belge-ve-saha-karsilastirmasi",
+      "metin": "Proje, belge ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme odağı",
+        "Karşılaştırılacak belge",
+        "Sahada aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Kullanım ve izin",
+          "Ruhsat, yapı kullanma izni, onaylı mimari plan",
+          "Yeni mahallin gerçek işlevi, sınırı ve erişimi"
+        ],
+        [
+          "Bölme ve kaçış",
+          "Mimari detaylar, kapı belgeleri, kaçış planı",
+          "Duvar, kapı, yaya geçişi ve ekipman erişimi"
+        ],
+        [
+          "Mekanik sistemler",
+          "Sprinkler ve duman kontrol projeleri, test kayıtları",
+          "Başlık, menfez, kanal ve korunan hacim ilişkisi"
+        ],
+        [
+          "Elektrik ve algılama",
+          "Algılama projesi, senaryo ve bakım raporları",
+          "Dedektör ve alarm elemanlarının yeni yerleşimi"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "İlk karşılaştırma, yapı ruhsatına ve yapı kullanma iznine esas onaylı mimari plan ile güncel mahal kullanımından başlar. Yeni duvarın konumu, kapı açıklıkları, araç ve yaya geçişleri işaretlenir. Ardından mekanik ve elektrik projelerindeki havalandırma, duman kontrolü, yağmurlama ve algılama yerleşimleri bu değişiklikle birlikte okunur. Mevcut bakım ve test raporları sistemin geçmiş durumuna ilişkin kanıt sağlar; ancak proje revizyonu gerekip gerekmediğini tek başına karara bağlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki alan eşikleri ile yeni BYKHY taslağındaki öneriler birbirine karıştırılmamalıdır. Taslakta, kapalı otoparklarda otomatik yağmurlama için 300 m² üzeri alan ve duman tahliyesi için farklı debi esasları önerilmektedir. Bu hükümler yürürlüğe girmiş koşullar gibi uygulanamaz. İncelemede mevcut mevzuat ve yapıya uygulanabilir hükümler esas alınır; taslak yalnız olası değişiklikleri anlamak için ayrı değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek tespit dili: “Otopark içinde yeni bir depolama mahalli oluşturulduğu gözlenmiştir. Bu mahallin onaylı proje ve ilgili yangın güvenliği tesisat çizimlerinde karşılığı gösterilemediğinden, değişikliğin kaçış ve koruma sistemlerine etkisi yetkili proje disiplinlerince değerlendirilmelidir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ifade, depolamanın her durumda yasak olduğu veya koruma sisteminin kesinlikle yetersiz kaldığı anlamına gelmez. Tespit, gözlenen durum ile sunulamayan teknik kanıtı birbirinden ayırır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), otoparkın onaylı mimari ve yangın güvenliği projelerini, yapı ruhsatı ve yapı kullanma izni kayıtlarını, işletmenin güncel mahal listesini ve varsa kullanım değişikliği belgelerini birlikte inceler. Depolanan malzemenin türünü, yeni bölümün sınırlarını ve alanın fiilen nasıl kullanıldığını gözlemleyerek proje ile saha arasındaki somut farklılıkları kayda geçirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesinde yeni bölmenin kaçış geçişlerini daraltıp daraltmadığı, yangın dolaplarına ve itfaiye bağlantılarına erişimi etkileyip etkilemediği, sprinkler başlıkları ile algılama elemanlarının yeni mahale göre konumu ve havalandırma menfezlerinin önü değerlendirilir. Uygunluk kararı için gerekli olduğunda sistem projeleri, ürün belgeleri, bakım raporları ve yetkili kişilerce düzenlenmiş test kayıtları istenir; mevcut olmayan belge varmış gibi kabul edilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözlemlerini konum, tarih, proje referansı ve fotoğraf gibi izlenebilir kanıtlarla raporlar. Duman tahliye debisini ölçmüş, sprinkler hidrolik hesabını yeniden yapmış veya değişiklik projesini onaylamış gibi bir sonuç yazmaz. Hesap, ölçüm, tasarım revizyonu ve resmi onay gerektiren konular ilgili yetkili mühendis, kuruluş veya idareye yönlendirilir. Böylece gözlemsel tespit ile mühendislik doğrulaması arasındaki sınır korunur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapalı otoparkta araç sayısı aynı kalırken kullanım ve bölümlendirme değişebilir. Sağlıklı değerlendirme, yalnız yeni odanın varlığını değil; izinli kullanım, ortak alan hesabı, kaçış düzeni ve tesisatların koruduğu hacim arasındaki bağı incelemeyi gerektirir. Eksiklik veya belirsizlik, hangi belge ve hangi teknik incelemeyle giderileceği belirtilerek raporlanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

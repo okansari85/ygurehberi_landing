@@ -1,0 +1,130 @@
+{
+  "kod": "YGR-K032",
+  "yol": "kacis-merdiveninin-genisligi-nerede-ve-nasil-olculur",
+  "baslik": "Kaçış merdiveninin genişliği nerede ve nasıl ölçülür?",
+  "ozet": "Kaçış merdiveninin genişliği, projede yazılı bir ölçüden ibaret değildir. Kullanıcıların geçebildiği açıklık; bitmiş duvar yüzeyleri, korkuluklar, küpeşteler ve sahanlık düzeni birlikte incelenerek değerlendirilir. Özellikle sonradan yapılan kaplama ve korkuluk değişiklikleri, projedeki ölçü korunmuş görünse bile sahadaki geçişi daraltabilir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "temiz-genislik-hangi-sinirlar-arasinda-belirlenir",
+      "metin": "Temiz genişlik hangi sınırlar arasında belirlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, genişliği temiz genişlik olarak ele alır. İki duvar arasında bitmiş yüzeyler, duvar ile korkuluk arasında duvarın bitmiş yüzeyi ve korkuluğun iç yüzeyi esas alınır. Küpeşte çıkıntısının 80 mm’lik kısmının hesaba dahil edilmesi, diğer engellerin göz ardı edilebileceği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yalnız basamak kolunun ortasını ölçmek yeterli değildir. Daralan kesimler, dönüşler, kat ve ara sahanlıkları ile açılan kapının geçişe etkisi ayrıca incelenir. Sahanlığın genişlik ve uzunluğu merdiven genişliğinden az olmamalı; kapıların kaçış yolunu daraltması ilgili hükme göre değerlendirilmelidir. Bakanlık Kılavuzu bu durumları çizimlerle gösterir."
+    },
+    {
+      "tip": "h2",
+      "id": "korkuluk-degisikligi-neden-yeniden-inceleme-gerektirir",
+      "metin": "Korkuluk değişikliği neden yeniden inceleme gerektirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili olarak, mevcut merdivenin korkuluğu yenilenirken tutamak içeri taşınmış olsun. Plandaki genişlik değişmese de geçiş daralabilir. Yeni korkuluk detayı, bitmiş yüzeyler ve sahanlık geçişi belgelenmeden yalnız plan ölçüsüne dayanılarak uygunluk kararı verilmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 32. Merdiven kolunda ölçüm doğrultusunun ve yerel daralmanın şematik gösterimi. (Temsili çizim.)",
+      "src": "/img/makale/ygr-k032-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasinda-kontrol-noktalari",
+      "metin": "Proje ve saha karşılaştırmasında kontrol noktaları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol odağı",
+        "Aranacak belge veya kanıt",
+        "İnceleme ve kayıt yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "Proje genişliği",
+          "Onaylı proje ve kaçış hesabı",
+          "Kullanıcı yükünü, ölçüyü ve revizyonu eşleştir."
+        ],
+        [
+          "Merdiven kolu",
+          "Bitmiş yüzey, korkuluk ve küpeşte detayı",
+          "En dar kesimi ve ölçüm sınırını işaretle."
+        ],
+        [
+          "Sahanlık ve kapı",
+          "Sahanlık planı ve saha fotoğrafı",
+          "Kapı açıldığında kalan geçişi incele."
+        ],
+        [
+          "Tadilat sonrası",
+          "Korkuluk revizyonu ve izin belgesi",
+          "Projeyle farkı gerekçeli raporla."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Merdiven kolunda esas alınan genişlik, binanın kullanım sınıfı ve kullanıcı yüküyle bağlantılıdır. Bu nedenle önce onaylı mimari veya tahliye projesindeki kaçış hesabı ve merdiven detayları okunur. Birden fazla kata hizmet eden merdivende hangi kullanıcı yükünün ve hangi çıkış düzeninin esas alındığı proje üzerinden belirlenmeden tek bir asgari genişlik değeri bütün yapılara uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada yalnız en geniş görünen kolun fotoğrafını çekmek yeterli değildir. Kapı kasası ve açılan kanadın geçişe etkisi, sahanlıktaki dolap veya sonradan eklenen donanım, küpeşte bağlantıları ve yön değiştiren noktalardaki açıklık kayda geçirilir. Farklı katlarda koşullar değişiyorsa her katın kritik kesimi ayrı gösterilir. Mevcut yapılara ilişkin özel hükümler de uygulanabilirlik değerlendirmesinde ayrıca ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek tespit ifadesi (temsili): “M-2 merdiveninin ikinci kat sahanlığında yenilenen korkuluk nedeniyle geçişin daralmış olabileceği gözlenmiştir. Onaylı proje detayı ile uygulama karşılaştırması ve ölçüm noktasını gösteren teknik kayıt istenmektedir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ifade bir ölçüm sonucu veya kesin uygunsuzluk kararı değildir. Kesin değerlendirme, doğru ölçüm sınırlarıyla hazırlanmış kayıt, yapıya uygulanabilir hüküm ve onaylı proje birlikte incelendikten sonra yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izin belgesi, onaylı mimari ve tahliye projeleri, varsa tadilat izinleri ve önceki kontrol kayıtlarını eşleştirerek başlar. Yapının fiili kullanımını ve katlardaki kullanıcı düzenini dikkate alır; merdiven kolu, sahanlık ve kapı birleşimlerini projedeki düzenle karşılaştırır. Gözlenen daralma, kapı çakışması veya sonradan eklenen donanım, kat ve konum belirtilerek fotoğraf ve krokiyle raporlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, ölçümün hangi noktada ve hangi yüzeyler arasında yapılması gerektiğini belirleyen teknik belgeyi arar; gerektiğinde yetkili teknik kişilerce düzenlenmiş ölçüm, uygulama ve proje revizyon kayıtlarını ister. Gözlemsel kontrolü veya yardımcı boyut tespitini, uzmanlık gerektiren kesin ölçümün, mühendislik hesabının, proje tadilatının ya da idari onayın yerine koymaz. Belirsizlik varsa bunu gerekçesiyle yazar ve tamamlanması gereken kanıtı açıkça belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış merdiveninin yeterliliği, tek bir metre değeriyle değil; doğru tanımlanmış temiz genişlik, kullanıcı yükü, sahanlık ve kapı geometrisi ile projeye uygunluk birlikte değerlendirilerek ortaya konur. Ölçüm noktası ve dayanağı belirtilmeyen bir genişlik kaydı, sonraki incelemelerde güvenilir karşılaştırma sağlamaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

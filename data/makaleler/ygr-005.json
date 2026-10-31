@@ -1,0 +1,189 @@
+{
+  "kod": "YGR-005",
+  "yol": "yangin-su-deposunda-100-m3-yaziyor-sistemin-kullanabilecegi-su-kac-m3",
+  "baslik": "Yangın Su Deposunda 100 m³ Yazıyor: Sistemin Kullanabileceği Su Kaç m³?",
+  "ozet": "Deponun geometrik kapasitesi, o anda içerdiği su ve pompanın güvenli biçimde kullanabileceği hacim aynı büyüklük değildir.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-10-15",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "100 m³ nominal hacimli dikdörtgen bir yangın su deposu tasarlayalım. İç taban ölçüleri 5 × 5 m, iç yükseklik 4 m olsun. Su seviyesi gerçekte tam dolu seviyeye değil 3,6 m’ye ulaşıyor. Emiş koşulları nedeniyle de örnek olarak tabandan 0,6 m’lik bölümün kullanılabilir hacim dışında bırakıldığını kabul edelim."
+    },
+    {
+      "tip": "h2",
+      "id": "geometriden-kullanilabilir-hacme",
+      "metin": "Geometriden kullanılabilir hacme"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Büyüklük",
+        "Varsayım / hesap"
+      ],
+      "satirlar": [
+        [
+          "Taban alanı",
+          "5 × 5 = 25 m²"
+        ],
+        [
+          "Nominal hacim",
+          "25 × 4,0 = 100 m³"
+        ],
+        [
+          "Normal doluluk düzeyi",
+          "3,6 m"
+        ],
+        [
+          "Normal seviyede fiilî su",
+          "25 × 3,6 = 90 m³"
+        ],
+        [
+          "Örnek minimum kullanım seviyesi",
+          "0,6 m"
+        ],
+        [
+          "Bu seviye altında kalan su",
+          "25 × 0,6 = 15 m³"
+        ],
+        [
+          "Örnek kullanılabilir hacim",
+          "90 − 15 = 75 m³"
+        ]
+      ]
+    },
+    {
+      "tip": "denklem",
+      "metin": "Vkullanılabilir = Ataban × (hnormal − hminimum)"
+    },
+    {
+      "tip": "denklem",
+      "metin": "Vkullanılabilir = 25 × (3,6 − 0,6) = 75 m³"
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 2083,
+      "yukseklik": 582,
+      "aciklama": "Şekil 4. Nominal 100 m³ hacmin temsili dağılımı. Minimum kullanılabilir seviye bu örnek için kabul edilmiştir, evrensel bir oran değildir.",
+      "src": "/img/makale/ygr-005-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "minimum-seviye-neden-projeden-okunmali",
+      "metin": "Minimum seviye neden projeden okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Pompa emişi için gerekli su seviyesi tek başına depo tabanı veya emiş ağzının yüksekliğiyle belirlenmez. Emiş borusu geometrisi, giriş kayıpları, vorteks/hava sürüklenmesi ihtimali, pompanın gerekli net pozitif emme yüksekliği (NPSHr) ve sağlanan NPSH (NPSHa) gibi koşullar teknik incelemede önem taşır. Dolayısıyla örnekteki 0,6 m gerçek bir projeye kopyalanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ihtiyac-hesabiyla-karsilastirma",
+      "metin": "İhtiyaç hesabıyla karşılaştırma"
+    },
+    {
+      "tip": "p",
+      "metin": "Tasarımdan geldiği varsayılan gerekli toplam debi 1.500 L/dak, gerekli besleme süresi 60 dakika olsun. Depoya etkin yenileme suyu girmediği kabulüyle gerekli hacim:"
+    },
+    {
+      "tip": "denklem",
+      "metin": "Vgerekli = (Q × t) / 1.000"
+    },
+    {
+      "tip": "denklem",
+      "metin": "Vgerekli = (1.500 × 60) / 1.000 = 90 m³"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kullanılabilir hacim 75 m³ olduğuna göre hacim farkı 15 m³’tür. Bu, yalnızca kabul edilen koşullara göre hesap sonucudur. Gerçek tesiste sisteme ilişkin uygulanabilir debi/süre, eşzamanlı talepler, ek besleme güvenilirliği ve kullanım rezervi doğrulanmadan mevzuata aykırılık kararı verilemez."
+    },
+    {
+      "tip": "denklem",
+      "metin": "Hacim farkı = 90 − 75 = 15 m³"
+    },
+    {
+      "tip": "h2",
+      "id": "hacim-yeterli-olsa-da-sistem-neden-yetersiz-olabilir",
+      "metin": "Hacim yeterli olsa da sistem neden yetersiz olabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Su deposunda yeterli hacim bulunması pompanın gerekli noktada yeterli debi ve basınç sağlayacağını garanti etmez. Emiş koşulları, pompaların performans eğrileri, tesisat kayıpları ve su kaynağının sürekliliği ayrı ayrı kontrol edilmelidir. Yangın su deposu başka tüketicilerle ortak kullanılıyorsa yangına ayrılmış rezervin korunup korunmadığı da belirlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-kanit-zinciri",
+      "metin": "Sahada kanıt zinciri"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Doğrulanacak konu",
+        "Kanıt"
+      ],
+      "satirlar": [
+        [
+          "Geometrik kapasite",
+          "Depo planı / fiilî ölçüm"
+        ],
+        [
+          "Gerçek su düzeyi",
+          "Kalibre seviye göstergesi / ölçüm"
+        ],
+        [
+          "Minimum çalışabilir seviye",
+          "Pompa ve emiş hesabı, teknik doküman"
+        ],
+        [
+          "Yangın suyu gereksinimi",
+          "Proje hesapları ve uygulanabilir standart"
+        ],
+        [
+          "Besleme süresi",
+          "Tasarım esası ve diğer kullanıcı talepleri"
+        ],
+        [
+          "Pompa kapasitesi",
+          "Performans testi, eğri ve hidrolik hesap"
+        ],
+        [
+          "Ortak kullanım",
+          "Seviye koruma ve otomasyon düzeni"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Depo üzerindeki 100 m³ etiketi yalnızca başlangıç bilgisidir. Mühendislik kararı, doğrulanmış kullanılabilir hacim ile tasarımın ihtiyaç duyduğu suyun ve gerekli debi/basıncın aynı anda karşılaştırılmasına dayanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar ve teknik çerçeve",
+  "kaynaklar": [
+    {
+      "metin": "BYKHY, yangın suyu ve söndürme sistemleri bağlamı",
+      "url": "https://mevzuat.adalet.gov.tr/mevzuat/116939"
+    },
+    {
+      "metin": "NFPA 20, Standard for the Installation of Stationary Pumps for Fire Protection (2025)",
+      "url": "https://www.nfpa.org/product/nfpa-20-standard/p0020code?order_src=C900"
+    },
+    {
+      "metin": "NFPA 13 (2025), sprinkler sistemi tasarım bağlamı",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13"
+    }
+  ],
+  "sonNotlar": [
+    {
+      "tip": "not",
+      "etiket": "Uygulama notu",
+      "metin": "Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "kod": "YGR-K002",
+  "yol": "yangin-mevzuati-yalniz-yeni-binalari-mi-kapsar",
+  "baslik": "Yangın mevzuatı yalnız yeni binaları mı kapsar?",
+  "ozet": "Bir sanayi yerleşkesine girildiğinde yeni yapılan idari binanın ruhsat ve proje dosyası eksiksiz olabilir; hemen yanındaki eski depoda ise yıllardır değişen raf düzeni, genişletilmiş yükleme alanı ve farklı kiracıların kullandığı bölümler bulunabilir. Yangın güvenliği incelemesini yalnız yeni binadan başlatmak, yerleşkenin gerçekte nasıl kullanıldığını gözden kaçırır.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), yalnızca yeni inşa edilen binaların proje şartlarını düzenleyen bir metin değildir. Madde 1 ve 2, tasarım ve yapımın yanında kullanım, bakım ve işletme aşamalarını; yapılarla birlikte açık ve kapalı alan işletmelerini de kapsar. Ancak bu geniş kapsamı “Yönetmelikte yazan her sistem her tesis için zorunludur” biçiminde anlamak da aynı ölçüde yanlıştır. Hangi teknik gereğin uygulanacağı, kullanım türüne, yapının tarihine, söz konusu mahal ve tesisatın niteliğine ve ilgili özel hükme göre belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "tek-parselde-uc-ayri-degerlendirme",
+      "metin": "Tek parselde üç ayrı değerlendirme"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir tesisin aynı parselinde 2025 yılında tamamlanmış bir büro, 2005 ruhsatlı bir depo ve açık alanda geçici malzeme istifi bulunduğunu varsayalım. Büro için tasarım aşamasında verilen kararlarla depoda yıllar içinde yapılan değişikliklerin kontrolü aynı belge üzerinden yürütülemez. Açık alandaki istifin ise bina içindeki algılama veya kaçış hükümleriyle otomatik olarak eşleştirilmesi doğru olmaz. Önce her alanın gerçek işlevi belirlenir; daha sonra o işleve özgü yangın tehlikeleri ve uygulanabilir hükümler araştırılır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen bölüm",
+        "İlk bakılacak kayıt",
+        "Öne çıkan teknik soru"
+      ],
+      "satirlar": [
+        [
+          "Yeni büro",
+          "Onaylı mimari proje ve tesisat projeleri",
+          "Tasarlanan kaçış ve koruma düzeni sahada kurulmuş mu?"
+        ],
+        [
+          "Eski depo",
+          "İlk ruhsat, kullanım ve tadilat kayıtları",
+          "Depolama niteliği değişmiş mi; mevcut yapı hükümleri nasıl uygulanıyor?"
+        ],
+        [
+          "Açık istif sahası",
+          "Vaziyet planı, faaliyet ve malzeme envanteri",
+          "İtfaiye yaklaşımı, komşu yapılar ve malzeme tehlikesi nasıl etkileniyor?"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu örnekte üç bölüm için farklı inceleme soruları bulunur ama ortak yangın suyu kaynağı, tek itfaiye giriş yolu veya bitişik yapı ilişkileri nedeniyle bir alandaki değişiklik diğerinin güvenliğini de etkileyebilir. Dolayısıyla “ayrı değerlendirme” birbirinden kopuk üç rapor hazırlamak anlamına gelmez. Ayrı özellikleri doğru tanımlayıp ortak bağımlılıkları da göstermeyi gerektirir."
+    },
+    {
+      "tip": "h2",
+      "id": "eski-bina-olmak-muafiyet-anlamina-gelmez",
+      "metin": "Eski bina olmak muafiyet anlamına gelmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalar için BYKHY’nin Onuncu Kısmında özel hükümler vardır. Buna karşılık kullanım amacı değişen bazı yapılar için farklı uygulanma kuralları öngörülür. Bu nedenle 2005 yılında ruhsat alınmış bir yapının bugünkü kullanımına bakmadan “eski bina, yeni hükümler uygulanmaz” demek doğru değildir. Aynı şekilde eski yapının her elemanına, geçmişteki onay ve geçiş hükümlerini incelemeden güncel yeni bina şartlarını doğrudan uygulamak da yanlış sonuç verebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada sık karşılaşılan durum, binanın adının aynı kalmasına rağmen faaliyetin değişmesidir. “Depo” olarak ruhsatlandırılmış bir alanda sonradan yanıcı ambalajların, yüksek rafların veya üretim ekipmanlarının yer alması, ilk projenin tasarım varsayımlarını değiştirebilir. Değişen kullanımın onaylı olup olmadığı ile yangın güvenliği üzerindeki teknik etkisi iki farklı sorudur; ikisi de incelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapının hangi dönem kurallarına göre değerlendirileceği konusu, tesis işletmecisinin günlük güvenlik sorumluluklarıyla da karıştırılmamalıdır. Eski tarihli bir projede bulunmayan bir sistemin sonradan zorunlu olup olmadığı ayrı incelemedir; mevcut kaçış yolunun kapatılması, yangın kapısının çalışmaz durumda bırakılması veya tesisatın bakımsız olması ise bugünkü kullanımın somut güvenlik sorunlarıdır. Böyle durumlarda tarihsel mevzuat analizi, açık tehlikeyi görmezden gelmenin gerekçesi olamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kiracılı tesislerde sorumluların dağılımı da araştırılmalıdır. Binanın ana yangın pompası veya ortak çıkış yolu mülk sahibinin kontrolündeyken bir kiracının depo içi düzeni kendi işletmesinde değiştirmesi mümkündür. Teknik tespit önce sistem ve kullanım ilişkisini anlatmalı; kimin hangi yükümlülüğü yerine getireceği ise mevzuat, sözleşme ve fiili yetki kayıtlarıyla belirlenmelidir. Bir alanın fiziksel konumunu gösteren krokiden tek başına sorumlu kişi tayin edilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "incelemeyi-yapinin-degil-faaliyetin-uzerinden-baslatmak",
+      "metin": "İncelemeyi yapının değil, faaliyetin üzerinden başlatmak"
+    },
+    {
+      "tip": "p",
+      "metin": "Sağlıklı bir incelemede önce vaziyet planı üzerinden bütün yapılar ve açık alan kullanımları işaretlenir. Ardından her bölüm için ruhsat ve kullanım bilgisi, fiili faaliyet, kullanıcı sayısı, depolanan malzeme, ortak güvenlik sistemleri ve son değişiklikler kaydedilir. Böyle bir envanter, hem yanlış zorunluluk atamalarını hem de kapsam dışında kalmış tehlikeleri azaltır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), periyodik yangın güvenliği incelemesinde yapının fiili kullanımının onaylı projede belirtilen kullanım ve tehlike sınıfıyla örtüşüp örtüşmediğine bakar. Eski deponun ruhsatı, varsa tadilat projeleri ve bugünkü stok türü karşılaştırılır. Yeni büro ve açık istif sahası ayrı incelenirken ortak itfaiye yolu ve yangın suyu sistemi gibi birden fazla bölümü etkileyebilen unsurlar da değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman, kaçış yollarının ve yangın güvenliği sistemlerinin sahadaki durumunu proje ve mevcut bakım veya muayene belgeleriyle birlikte inceler. Kayıtlar eksikse hangi bilginin tamamlanması gerektiğini ve hangi konunun ayrıca yetkili teknik değerlendirme gerektirdiğini belirtir. Böylece yerleşkenin tümü için tek bir sonuç vermek yerine her kullanımın bulgusunu, ortak sistemlere etkisini ve dayanağını ayrı gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın mevzuatı inşaat bittiğinde kapanan bir dosya değildir. Tasarım sırasında başlayan yangın güvenliği kararları, işletme boyunca yapılan değişiklikler nedeniyle yeniden incelenebilir. İyi bir teknik rapor da “bina yeni mi, eski mi?” sorusunda durmaz; hangi alanın hangi nedenle ele alındığını ve hangi hükmün oraya gerçekten uygulandığını açıkça gösterir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

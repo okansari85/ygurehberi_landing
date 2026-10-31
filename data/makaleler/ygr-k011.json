@@ -1,0 +1,128 @@
+{
+  "kod": "YGR-K011",
+  "yol": "itfaiye-araci-binaya-gercekten-ulasabiliyor-mu",
+  "baslik": "İtfaiye aracı binaya gerçekten ulaşabiliyor mu?",
+  "ozet": "Vaziyet planında itfaiye yolu gösterilmesi, aracın yangın anında binaya ulaşabildiğini kanıtlamaz. Geçişin gerçekten açık olması, dönüş alanlarının korunması ve müdahale cephesine yaklaşılabilmesi ayrı ayrı incelenmelidir.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "projedeki-yol-ile-kullanilan-yol-ayni-mi",
+      "metin": "Projedeki yol ile kullanılan yol aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, ana yoldan parsel girişine ve oradan aracın ulaşabileceği son noktaya kadar kesintisiz bir güzergah üzerinden yapılır. Onaylı vaziyet planındaki yol, kapı, dönüş alanı ve yapı cephesi sahadaki gerçek yerleşimle karşılaştırılır. Sonradan konulan bariyer, park yeri, yükleme rampası, sundurma veya malzeme istifi bu hattı daraltabilir. Geçişi etkileyen unsurun geçici ya da kalıcı olması, tespitin kaydedilmesini gereksiz kılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, iç ulaşım yollarında olağan genişliği en az 4 m, çıkmaz sokak bulunması halinde en az 8 m olarak düzenler. Dönemeç yarıçapı, eğim, düşey kurp, serbest yükseklik ve taşıma yükü için de ayrı koşullar vardır. İtfaiye aracının yaklaşabildiği son noktadan dış cephedeki herhangi bir noktaya yatay uzaklık bakımından 45 m ölçütü ayrıca değerlendirilir. Bu hükümler tek bir genişlik ölçüsüne indirgenemez."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-karsilasilabilecek-durum",
+      "metin": "Sahada karşılaşılabilecek durum"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sanayi tesisinin onaylı planında araç yolu 4,5 m genişliğindedir. İşletme, sevkiyat sırasında yol kenarına römork park ettiği için bir kesitte kullanılabilir açıklık 3,1 m’ye düşmektedir. Bunlar örnek ölçülerdir; gerçek bir tesise ilişkin bulgu değildir. Planın üzerindeki 4,5 m ölçüsü doğru olsa bile, yangın anında fiilen kullanılabilen yol aynı genişlikte değildir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 11. Parsel girişinden bina cephesine uzanan yolda geçişi daraltan engel (temsili çizim).",
+      "src": "/img/makale/ygr-k011-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "bir-fotografin-gosteremedigi-kosullar",
+      "metin": "Bir fotoğrafın gösteremediği koşullar"
+    },
+    {
+      "tip": "p",
+      "metin": "Fotoğraf, yolun bir anda kapatıldığını gösterebilir; ancak kaplamanın araç yükünü taşıdığını, dönemeç geometrisinin uygunluğunu veya tüm güzergahın her saat açık kaldığını tek başına kanıtlamaz. Gerekirse yerinde boyut ölçümü, onaylı plan, yol kesiti, kaplama ve taşıma kapasitesine ilişkin teknik belge birlikte incelenir. Araç tipi ve müdahale imkanları bakımından mahalli itfaiye teşkilatının değerlendirmesi gerektiren konular ayrıca belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), taslak düzenlemede öngörülen kontrol görevi kapsamında önce onaylı vaziyet planını ve varsa revizyonları, yapı ve kullanım belgelerini, itfaiye erişimine ilişkin önceki raporları ister. Ardından parsel kapısından başlayarak kritik kesitleri, dönüşleri, üst engelleri, araç parkını ve bina cephesine son yaklaşma noktasını sahada işaretler. Tespitlerin konumunu kroki ve fotoğraflarla ilişkilendirir; hangi proje kabulünün fiili kullanım nedeniyle değiştiğini açıkça yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "Ölçülemeyen veya belgesi bulunmayan bir koşul için olumlu uygunluk kararı verilmez. Yolun taşıma gücü, yeniden projelendirilmesi veya özel araç manevra hesabı gerekiyorsa bu husus yetkili tasarımcıya ya da ilgili idareye yönlendirilir. Uzmanın gözlemsel kontrolü, mühendislik hesabının, proje onayının veya itfaiyenin operasyonel kararının yerine geçmez. Taslaktaki görev tanımı yürürlükteki mevzuatla aynı hukuki statüde değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasi",
+      "metin": "Proje–saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Proje / beklenen",
+        "Sahada görülen",
+        "Kayıt / karar"
+      ],
+      "satirlar": [
+        [
+          "Geçiş genişliği",
+          "4,5 m örnek plan",
+          "3,1 m serbest kesit",
+          "Daralma yeri ölçülür ve fotoğraflanır"
+        ],
+        [
+          "Dönüş alanı",
+          "Vaziyet planında açık",
+          "Malzeme istifi bulunuyor",
+          "Manevra etkisi ve eksik kanıt yazılır"
+        ],
+        [
+          "Üst açıklık",
+          "Proje kesiti aranır",
+          "Sundurma var",
+          "Serbest yükseklik belgelendirilir"
+        ],
+        [
+          "Cepheye yaklaşım",
+          "Son yaklaşma noktası",
+          "Mesafe teyit edilmemiş",
+          "Yatay uzaklık ayrıca doğrulanır"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İtfaiye erişimi, yalnız yolun projede bulunmasıyla değil, bütün güzergahın fiili kullanımda açık ve erişilebilir kalmasıyla değerlendirilir. Ölçülen daralma, kaynağı ve konumu belli bir bulguya dönüştürülmeli; hesap veya proje gerektiren konular belirsiz bırakılmadan ilgili yetkiliye iletilmelidir. Yeni yönetmelik taslağında farklılaştırılan ölçütler, yürürlüğe girmedikçe mevcut hükmün yerine kullanılamaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

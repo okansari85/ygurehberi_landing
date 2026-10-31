@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K015",
+  "yol": "tasiyici-sistem-yangin-dayanimi-projede-nasil-okunur",
+  "baslik": "Taşıyıcı sistem yangın dayanımı projede nasıl okunur?",
+  "ozet": "Taşıyıcı bir kolonun çelik, betonarme veya kompozit olması, yangın sırasında ne kadar süre işlevini koruyacağını tek başına göstermez. Projede istenen yangın dayanımı ile sahada bu dayanımı sağlamak üzere uygulanan çözüm aynı belgeler üzerinden izlenebilmelidir.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "projede-once-hangi-performans-aranir",
+      "metin": "Projede önce hangi performans aranır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, taşıyıcı sistemin yangın sırasında insanların tahliyesi ve müdahale için gerekli süre boyunca stabil kalmasını esas alır. İnceleme, yalnız malzeme adına değil; binanın kullanımına, ilgili yapı elemanına, tasarım kabulüne ve gerekli yangın dayanım süresine dayanır. Uygulanabilir süreler ve sınıflandırmalar için yönetmeliğin ilgili hükümleri ile Ek-3 tabloları birlikte okunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Taşıyıcı sistem projesindeki kolon ve kiriş kodları, kesit bilgileri, kat ve aks konumları, yangın güvenliği raporundaki performans hedefleri ve detay paftaları birbirini doğrulamalıdır. Projede dayanım süresi gösterilmemişse sahadaki kaplama görülerek eksik tasarım bilgisi tamamlanmış sayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "celik-kolonun-korumasi-degistiyse",
+      "metin": "Çelik kolonun koruması değiştiyse"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili bir durumda, çelik kolonların üzerine sonradan yangına dayanıklı boya uygulanmış ve önceki koruma detayı değiştirilmiş olsun. Kolon kesiti aynı kalsa bile yeni ürünün uygunluğu; gerekli dayanım süresi, kesit faktörü, kullanım koşulları, uygulama kalınlığı ve birleşim noktaları üzerinden yeniden değerlendirilir. Her çelik taşıyıcı için tek bir koruma kalınlığı veya tek bir dayanım süresi belirlenemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelikte çelik yapılara ilişkin koşullu hükümler ve istisnalar bulunur. Bunlar yalnızca yapının türü, alanı ve yangın koşullarıyla birlikte değerlendirilir; bir istisna tüm çelik yapılara genellenmez. Boya rengi, ürünün ticari adı veya yalnız fotoğraf bulunması, yangın dayanımının doğrulandığı anlamına gelmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1500,
+      "yukseklik": 405,
+      "aciklama": "Şekil 15. Çelik kolon, koruma katmanı ve birleşim detayının belgeyle karşılaştırılması (temsili şema).",
+      "src": "/img/makale/ygr-k015-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), taslak mesleki görev çerçevesinde, onaylı mimari ve taşıyıcı sistem projelerini, yangın güvenliği raporunu, koruma sistemine ait sınıflandırma/deney ve uygulama belgelerini aynı eleman kodu üzerinden karşılaştırır. Sahada kolonun konumu, kaplamanın sürekliliği, hasarlı veya müdahale edilmiş yüzeyler ve bağlantı bölgeleri gözlemsel olarak incelenir; fotoğraf, aks ve eleman koduyla kayıt altına alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, yalnız görsel gözlemle kaplama kalınlığı veya yangın dayanım süresi tayin etmez. Gerekli ölçüm, yapısal hesap, ürün performansı değerlendirmesi ve proje revizyonu ilgili yetkili tasarımcı, uygulayıcı veya uzman kuruluşun sorumluluğunda kalır. YGU’nun raporu, eksik belgeyi, proje–saha farkını ve doğrulama ihtiyacını açıkça gösterir; kendi başına yeni bir tasarım veya onay kararı oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-hangi-kayit-aranir",
+      "metin": "Proje–saha karşılaştırmasında hangi kayıt aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Projede / belgede aranacak",
+        "Sahada görülebilecek durum",
+        "Kayıt ve sonraki işlem"
+      ],
+      "satirlar": [
+        [
+          "Taşıyıcı eleman",
+          "Aks, eleman kodu, kesit ve hedef süre",
+          "Kesit veya kullanım revizyonu",
+          "Güncel proje ve tasarımcı görüşü istenir"
+        ],
+        [
+          "Koruma sistemi",
+          "Ürün kapsamı, sınıflandırma ve uygulama detayı",
+          "Boya/kaplama mevcut, kalınlık belirsiz",
+          "Uygulama ve ölçüm kayıtları doğrulanır"
+        ],
+        [
+          "Birleşim ve geçiş",
+          "Kolon-kiriş birleşimi ve kesintisiz koruma detayı",
+          "Bağlantıda açıklık veya hasar",
+          "Konum ve fotoğrafla bulgu kaydedilir"
+        ],
+        [
+          "Sonuç kanıtı",
+          "Proje hedefi ile uygulama belgelerinin eşleşmesi",
+          "Belge zinciri eksik",
+          "Dayanım doğrulandı denmez"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "bulgunun-yazimi-ve-karar-siniri",
+      "metin": "Bulgunun yazımı ve karar sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt: “C-07 kolonunda yangına dayanıklı kaplama görülmüştür. Ancak mevcut ürünün ilgili kesit ve hedef dayanım süresine uygunluğunu gösteren teknik belge ile uygulama kalınlığına ilişkin kayıt sunulmadığından, öngörülen yangın dayanımı bu incelemede doğrulanamamıştır.” Bu ifade, gözlemi kanıttan ve eksik doğrulamayı kesin uygunsuzluk hükmünden ayırır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Taşıyıcı sistemin yangın dayanımı, projede tanımlanan performans ile sahadaki uygulama ve ürün kanıtlarının aynı eleman için eşleşmesiyle değerlendirilebilir. Eksik veya değiştirilmiş koruma detaylarında, mühendislik doğrulaması yapılmadan olumlu sonuç verilmemelidir. Taslak görev hükümleri yürürlükteki mevzuatın yerine geçmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,168 @@
+{
+  "kod": "YGR-002",
+  "yol": "yangin-yuku-arttiginda-mevcut-koruma-sistemi-yeterli-kalir-mi",
+  "baslik": "Yangın Yükü Arttığında Mevcut Koruma Sistemi Yeterli Kalır mı?",
+  "ozet": "Bir üretim veya depolama alanının yapı geometrisi aynı kalırken yanıcı malzeme miktarı değişebilir. Yangın yükü hesabı değişimin büyüklüğünü gösterir; sistem yeterliliğine tek başına karar vermez.",
+  "etiketler": [
+    "Yangın Yükü"
+  ],
+  "yayin": "2026-10-15",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "200 m² büyüklüğündeki bir depo, başlangıçta ahşap palet, karton ve sınırlı miktarda plastik içermektedir. Yeni faaliyet sonucunda ahşap ve karton sabit kalırken plastik miktarı 100 kg’dan 500 kg’a yükselmiştir. Burada amaç bir tasarım sınıfı atamak değil, enerji hesabıyla değişimi görünür hâle getirmektir."
+    },
+    {
+      "tip": "h2",
+      "id": "malzeme-esasli-ornek-hesap",
+      "metin": "Malzeme esaslı örnek hesap"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek alt ısıl değerler: ahşap 17 MJ/kg, karton 16 MJ/kg, plastik 35 MJ/kg. Bunlar belirli bir ürüne ait teyitli ölçüm değildir; gerçek çalışmada malzeme bileşimi, nem ve doğrulanmış alt ısıl değer kullanılmalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Malzeme",
+        "Isıl değer",
+        "İlk kütle",
+        "Yeni kütle"
+      ],
+      "satirlar": [
+        [
+          "Ahşap",
+          "17 MJ/kg",
+          "1.000 kg",
+          "1.000 kg"
+        ],
+        [
+          "Karton",
+          "16 MJ/kg",
+          "500 kg",
+          "500 kg"
+        ],
+        [
+          "Plastik (örnek)",
+          "35 MJ/kg",
+          "100 kg",
+          "500 kg"
+        ]
+      ]
+    },
+    {
+      "tip": "denklem",
+      "metin": "E = Σ(mᵢ × Hᵢ)   ve   qf = E / A"
+    },
+    {
+      "tip": "p",
+      "metin": "E: toplam potansiyel yanma enerjisi (MJ); mᵢ: malzeme kütlesi (kg); Hᵢ: alt ısıl değer (MJ/kg); qf: yangın yükü yoğunluğu (MJ/m²); A: değerlendirme alanı (m²)."
+    },
+    {
+      "tip": "p",
+      "metin": "İlk durumda E = 1.000×17 + 500×16 + 100×35 = 28.500 MJ; yeni durumda E = 1.000×17 + 500×16 + 500×35 = 42.500 MJ."
+    },
+    {
+      "tip": "denklem",
+      "metin": "qf,ilk = 28.500 / 200 = 142,5 MJ/m²"
+    },
+    {
+      "tip": "denklem",
+      "metin": "qf,yeni = 42.500 / 200 = 212,5 MJ/m²"
+    },
+    {
+      "tip": "denklem",
+      "metin": "Artış = (212,5 − 142,5) / 142,5 × 100 ≈ %49,1"
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 2128,
+      "yukseklik": 675,
+      "aciklama": "Şekil 2. Temsili stokların potansiyel enerji bileşimi. Plastik miktarı artarken diğer bileşenler sabittir.",
+      "src": "/img/makale/ygr-002-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "bu-artis-neyi-kanitlar-neyi-kanitlamaz",
+      "metin": "Bu artış neyi kanıtlar, neyi kanıtlamaz?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu işlem depoda birim alan başına potansiyel yanma enerjisinin arttığını gösterir. Buna karşılık ısı salım hızının, sprinkler için gerekli debinin veya çıkış süresinin %49,1 arttığını göstermez. Yangın gelişimi; malzemenin formuna, havalandırmaya, yüzey alanına, istiflemeye, tutuşma koşullarına ve söndürme etkisine bağlıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "tasarim-gecerliligi-icin-kontrol-basliklari",
+      "metin": "Tasarım geçerliliği için kontrol başlıkları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol",
+        "Neden gerekli?"
+      ],
+      "satirlar": [
+        [
+          "Ürün ve ambalajın gerçek niteliği",
+          "Yanıcılık ve depolama sınıflandırması etkilenebilir"
+        ],
+        [
+          "Raf, palet ve istif geometrisi",
+          "Alev yayılımı ve sprinkler uygulaması değişebilir"
+        ],
+        [
+          "İlk sprinkler tasarım esası",
+          "Sistem yalnız ilk stok kabulü için projelendirilmiş olabilir"
+        ],
+        [
+          "Algılama ve duman senaryosu",
+          "Yangın gelişimi ve duman oluşumu farklılaşabilir"
+        ],
+        [
+          "Yangın bölmesi ve kullanım değişikliği",
+          "Mevzuattaki kullanım ve teknik gerekler değişebilir"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-karar-nasil-verilmelidir",
+      "metin": "Sahada karar nasıl verilmelidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce gerçek malzeme envanteri doğrulanır; ardından tasarım projesinin malzeme ve depolama kabulleri belirlenir. Bu veriler uyuşmuyorsa ilgili sprinkler, algılama ve bina koruma tasarımları yeniden mühendislik incelemesine alınır. Uygunsuzluk kararı, yalnız hesaplanan enerji artışına değil, uygulanabilir teknik gereğin karşılanmadığını gösteren kanıta dayanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın yükü hesabı güçlü bir değişiklik göstergesidir; fakat sistem uygunluğu için yeterlilik testi değildir. Bir yangın güvenliği uzmanının değeri yalnız rakam üretmekte değil, rakamın hangi tasarım kararını sorgulamayı gerektirdiğini saptamaktadır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar ve teknik çerçeve",
+  "kaynaklar": [
+    {
+      "metin": "BYKHY ve ekleri",
+      "url": "https://mevzuat.adalet.gov.tr/mevzuat/116939"
+    },
+    {
+      "metin": "SFPE Handbook of Fire Protection Engineering, 6. basım (2026), Fire Load Density bölümü",
+      "url": "https://link.springer.com/book/10.1007/978-3-031-59212-6"
+    },
+    {
+      "metin": "SFPE, yangın yükü yoğunluğu kavramının mühendislik bağlamı",
+      "url": "https://www.sfpe.org/publications/fpemagazine/fpeextra/etarchives3/fpeetissue79"
+    }
+  ],
+  "sonNotlar": [
+    {
+      "tip": "not",
+      "etiket": "Uygulama notu",
+      "metin": "Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez."
+    }
+  ]
+}

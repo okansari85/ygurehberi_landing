@@ -1,0 +1,144 @@
+{
+  "kod": "YGR-K046",
+  "yol": "acil-durum-asansoru-normal-yolcu-asansorunden-nasil-ayrilir",
+  "baslik": "Acil durum asansörü normal yolcu asansöründen nasıl ayrılır?",
+  "ozet": "Bir asansörün yangın alarmı geldiğinde giriş katına dönmesi, onu acil durum asansörü yapmaz. Normal yolcu asansörü ile acil durum asansörü arasındaki temel fark, kabinin büyüklüğünden veya üzerindeki levhadan önce, yangın sırasında kimin kontrolünde ve hangi koruma koşulları altında çalışacağıdır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayni-kabin-farkli-yangin-senaryosu",
+      "metin": "Aynı kabin, farklı yangın senaryosu"
+    },
+    {
+      "tip": "p",
+      "metin": "Normal yolcu asansörünün öncelikli işi, binadaki günlük düşey ulaşımı sağlamaktır. Yüksek binalarda ve topluma açık yapılarda yangın uyarısına bağlı geri çağırma ve yeni kat çağrılarını kabul etmeme gibi işlevler aranır. Bu işlevler, yangın sırasında kabinin olağan yolcu kullanımına açık kalmasını önlemeye yöneliktir. Acil durum asansörü ise yangına müdahale ve kurtarma ekiplerinin kullanımı için ayrıca korunmuş, özel kontrol düzeni bulunan bir asansördür. Normal zamanda yolcu taşıyabilir; acil durumda kontrol yetkisi müdahale ekiplerine geçer."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle “yangında geri dönüyor”, “kabin geniş” veya “itfaiye asansörü yazıyor” ifadeleri tek başına uygunluk kanıtı değildir. Asansörün proje kimliği, korunan kat erişimi, kuyu ve makine dairesi, güç beslemesi, kablo dayanımı, basınçlandırma ve kumanda işlevleri birlikte ele alınmalıdır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 46. Yolcu asansörü ile acil durum asansörünün işlev, enerji, erişim ve kontrol bakımından ayrımı (özgün temsili şema).",
+      "src": "/img/makale/ygr-k046-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-yapida-zorunlu-oldugu-nasil-belirlenir",
+      "metin": "Hangi yapıda zorunlu olduğu nasıl belirlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yapı yüksekliği 51,50 m’den fazla olan yapılarda en az bir asansörün acil durum asansörü olarak düzenlenmesini öngörür. Burada ölçüt bina yüksekliği değil, yönetmelikte tanımlanan yapı yüksekliğidir. Binanın ruhsat ve proje tarihi ile yeni veya mevcut yapı hükümlerinin uygulanabilirliği de ayrıca değerlendirilir; yalnız güncel bir eşik değerine bakılarak eski bir yapının tüm durumu hakkında hüküm kurulmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede acil durum asansörünün önünde her katta, kaçış merdivenine de geçiş sağlayan 6–10 m² büyüklüğünde ve hiçbir boyutu 2 m’den az olmayan yangın güvenlik holü; en az 1,8 m² kabin alanı; zemin kattan en üst kata bir dakikada erişebilecek hız; enerji kesilince devreye girip 60 dakika çalışmayı sağlayan jeneratör; en az 60 dakika yangına dayanıklı elektrik tesisatı ve kablolar; sudan etkilenmeyecek kuyu içi tesisat, ayrı makine dairesi ve kuyu basınçlandırması düzenlenmiştir. Bu değerler birbirinin yerine geçen seçenekler değildir; her biri kendi teknik kanıtıyla incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-degisikligi-yururlukteki-sart-degildir",
+      "metin": "Taslak değişikliği yürürlükteki şart değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının paylaştığı yeni yönetmelik taslağında zorunluluk kapsamı farklı önerilmiştir: konutlarda 51,50 m üzeri, diğer yapılarda 30,50 m üzeri yapı yüksekliği ve yataklı sağlık yapılarının yatay kompartımanları ayrı ayrı ele alınmaktadır. Taslak metinde kabin alanı ve acil besleme koşulları korunurken, yürürlükteki bir dakikalık hız ifadesi aynı şekilde yer almamaktadır. Bunlar henüz yürürlükteki hükümlerin yerine geçmez. Saha raporunda taslak eşik, yürürlükteki zorunluluk gibi kullanılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahadaki-asansorun-eslestirilmesi",
+      "metin": "Proje ile sahadaki asansörün eşleştirilmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk iş, onaylı mimari ve yangın tahliye projesinde özel asansör olarak işaretlenen kabini, asansör numarası ve kat duraklarıyla yerinde eşleştirmektir. Ardından holün kaçış merdiveniyle bağlantısı, kapı ve bölme sürekliliği, kuyuya sonradan açılan tesisat geçişleri, makine dairesinin ayrılığı ve kuyu basınçlandırma donanımı incelenir. Saha görünümü proje ile uyuşmuyorsa, yalnızca kabin etiketine dayanarak “uygun” kararı verilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Elektrik tek hat şeması, jeneratör yük listesi, kumanda ve yangın alarmı senaryosu, kabul belgeleri ile bakım ve periyodik kontrol raporları aynı asansör kimliğine bağlanmalıdır. Geri çağırma, itfaiyeci kontrol modu, acil güç devreye girişi ve basınçlandırma gibi işlevlerin gerçekleştiğini gösteren test kayıtları ayrı aranır. Testin yapılmış olması ile testin sonucunun uygun olması da farklı kanıtlardır."
+    },
+    {
+      "tip": "h2",
+      "id": "kontrol-sorulari-ve-karsilik-gelen-kanitlar",
+      "metin": "Kontrol soruları ve karşılık gelen kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Belge / kanıt",
+        "Sahadaki inceleme"
+      ],
+      "satirlar": [
+        [
+          "Hangi asansörün özel görevi var?",
+          "Onaylı asansör ve tahliye projeleri, cihaz listesi",
+          "Kabin numarasını ve hizmet verdiği katları eşleştir."
+        ],
+        [
+          "Korunmuş erişim nerede?",
+          "Mimari plan, kesit, kapı ve hol belgeleri",
+          "Hol, kuyu ve kaçış merdiveni bağlantısını sahada izle."
+        ],
+        [
+          "Acil besleme ve kontrol kanıtı var mı?",
+          "Tek hat şeması, jeneratör listesi, senaryo ve test raporları",
+          "Geri çağırma ile ekip kontrolünü ayrı işlevler olarak değerlendir."
+        ],
+        [
+          "Asansör sınıflandırması doğru mu?",
+          "Ürün, kabul, bakım ve periyodik kontrol belgeleri",
+          "Özel işlevi belge ve saha bulgularıyla doğrula; eksik kanıtı belirt."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izin belgesi, onaylı mimari ve asansör projeleri ile varsa tadilat kayıtlarını karşılaştırarak başlar. Gerçek kullanım türünü, kat sayısını, yapı yüksekliğini ve işletmede asansörün hangi amaçla kullanıldığını belirler. Daha sonra kabin kimliği üzerinden hol, kuyu, makine dairesi, jeneratör bağlantısı ve yangın alarmı etkileşimine ait teknik belgeleri toplar; gözlenebilen fiziki durumla projeyi karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin özel asansör olarak gösterilen kabinin holü depolama için kullanılıyorsa bu engeli konum ve fotoğrafla kaydeder. Jeneratör besleme belgesi veya yetkili test raporu yoksa “çalışmıyor” sonucunu kendiliğinden üretmez; ilgili işlevin doğrulanamadığını ve hangi belgenin gerektiğini belirtir. Asansörün teknik muayenesini, elektriksel ölçümünü, basınçlandırma performans testini veya proje tadilatını ilgili yetkili kişi ve kuruluşların yerine yapmaz; raporunda bu sınırı korur."
+    },
+    {
+      "tip": "p",
+      "metin": "Gerekçeli tespit, “acil durum asansörü yok” gibi yalnız etikete dayanan bir sonuç yerine, hangi kabinin hangi projede nasıl tanımlandığını, sahada hangi koşulun görüldüğünü ve hangi teknik kanıtın eksik olduğunu ayrı ayrı göstermelidir. Böylece bina yönetimi, tasarımcı, bakım firması ve yetkili kontrol kuruluşu kendi sorumluluğuna giren işlemi açıkça görebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Normal yolcu asansörünün yangın alarmındaki davranışı ile acil durum asansörünün müdahale ekibine sunduğu korunan kullanım imkanı aynı şey değildir. Doğru inceleme, asansörün adından değil; yapıya uygulanabilir hükümden, onaylı projedeki görevinden, sahadaki kurulumdan ve yetkili test kayıtlarından hareket eder."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

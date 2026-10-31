@@ -1,0 +1,176 @@
+{
+  "kod": "YGR-001",
+  "yol": "bir-bolme-duvarin-tasinmasi-yangin-guvenligini-nasil-etkiler",
+  "baslik": "Bir Bölme Duvarın Taşınması Yangın Güvenliğini Nasıl Etkiler?",
+  "ozet": "Bir mimari değişiklik yalnızca plan çizgisini değil; kaçış, algılama, söndürme ve yangın bölümlendirmesinin tasarım varsayımlarını da değiştirebilir.",
+  "etiketler": [
+    "Mimari Değişiklik"
+  ],
+  "yayin": "2026-10-15",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Bir üretim tesisinde yardımcı mahali genişletmek için bölme duvar taşınıyor ve kapı yeniden konumlandırılıyor. İmalat açısından küçük görünen değişikliğin yangın güvenliği açısından etkisi, duvarın kendi başına güvenli veya güvensiz olmasından değil, başlangıçtaki tasarım kabullerinin değişip değişmediğinden kaynaklanır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-plan-ve-degisiklik",
+      "metin": "Örnek plan ve değişiklik"
+    },
+    {
+      "tip": "p",
+      "metin": "Tek katlı üretim alanı 30 × 20 m boyutundadır (600 m²). Üst sol köşedeki yardımcı mahal ilk durumda 10 × 8 m (80 m²); değişiklik sonrasında 13 × 8 m (104 m²) olur. Yeni sınır duvarın konumu ve kapı yeri değişmiştir. Aynı kat içinde kalan toplam alan değişmez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 2132,
+      "yukseklik": 757,
+      "aciklama": "Şekil 1. Temsili planlar. Sarı çizgi bölme duvarını, çizgi üzerindeki boşluk kapıyı gösterir. Şekil ölçekli proje veya kaçış hesabı değildir.",
+      "src": "/img/makale/ygr-001-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Büyüklük",
+        "İlk durum",
+        "Yeni durum"
+      ],
+      "satirlar": [
+        [
+          "Yardımcı mahal alanı",
+          "80 m²",
+          "104 m²"
+        ],
+        [
+          "Üretim alanı",
+          "520 m²",
+          "496 m²"
+        ],
+        [
+          "Değişiklik",
+          "—",
+          "+24 m² (+%30)"
+        ],
+        [
+          "Duvar konumu",
+          "x = 10 m",
+          "x = 13 m"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-dogrudan-uygunsuzluk-mudur",
+      "metin": "Değişiklik doğrudan uygunsuzluk mudur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Öncelikle bölme duvarının yangın ayırıcı işlevi olup olmadığı, değişikliğin hangi onaylı projeye göre gerçekleştirildiği ve mahallerin gerçek kullanım sınıfı belirlenir. Yangın dayanımı gerektiren bir sınırın değiştirilmesi ile sıradan bölme duvarının değiştirilmesi aynı teknik ve hukuki sonuca götürmez."
+    },
+    {
+      "tip": "h3",
+      "metin": "Kaçış düzeni"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapının yer değiştirmesi kişi hareketine yeni bir güzergâh kazandırabilir veya mevcut güzergâhı uzatabilir. Varsayımsal saha ölçümünde belirli bir başlangıç noktasından ilgili kapıya erişim yolu 12 m yerine 17 m ise fark 5 m, artış %41,7’dir. Bu tek ölçüm, mevzuata uygun veya aykırı hükmü için yeterli değildir; söz konusu kapının kaçış kapısı olup olmadığı, alternatif çıkışlar, ölçüm yöntemi, kullanıcı yükü ve geçerli sınırlar bilinmelidir."
+    },
+    {
+      "tip": "denklem",
+      "metin": "ΔL = 17 − 12 = 5 m   |   Değişim = (5 / 12) × 100 = %41,7"
+    },
+    {
+      "tip": "h3",
+      "metin": "Algılama sistemi"
+    },
+    {
+      "tip": "p",
+      "metin": "Dedektörlerin eski duvar için oluşturulmuş algılama bölgeleri yeni geometrinin ardından aynı etkiyi vermeyebilir. Yeni bölme, dumanın yayılımını engelleyebilir, ayrı bir hacim oluşturabilir ya da tavan altındaki hava hareketlerini değiştirebilir. Başlık sayısını alan artışıyla orantılı artırmak doğru bir tasarım yöntemi değildir. Dedektör türü, tavan geometrisi, mahallerin kullanım koşulu ve sistemin esas aldığı tasarım standardı kontrol edilmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sprinkler koruması"
+    },
+    {
+      "tip": "p",
+      "metin": "Tavana kadar uzanan yeni bölme duvarı sprinkler su dağılımını değiştirebilir. Yeni mahallerin ayrı ayrı uygun biçimde korunduğu; başlık mesafesi, engel koşulları, tehlike sınıfı ve gerektiğinde hidrolik hesap üzerinden incelenmelidir. Sadece bir başlık ilave etmek, tasarımın geçerliliğini ispatlamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın bölümlendirmesi ve sistem etkileşimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Duvar yangın dayanımlı bir ayırıcıysa taşınma, kapı niteliği, birleşim detayları, geçiş sızdırmazlığı ve duman kontrol sınırını etkileyebilir. Ayrıca yeni kapının erişim kontrolü, otomatik kapanma veya alarm senaryosu ile ilişkisi bulunabilir. Değişiklik tespit edilirken yalnız mimari plan değil, yangın tesisatı ve elektrik projeleri ile saha fiilî durumu karşılaştırılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-etki-dogrulama-yontemi",
+      "metin": "Değişiklik–Etki–Doğrulama yöntemi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Soru",
+        "Aranan kanıt"
+      ],
+      "satirlar": [
+        [
+          "Neyin yeri ve işlevi değişti?",
+          "Revizyon planı, ölçü ve mahal kullanım bilgisi"
+        ],
+        [
+          "İlk tasarım neyi kabul ediyordu?",
+          "Geçerli onaylı proje, as-built, hesap ve senaryolar"
+        ],
+        [
+          "Hangi sistemler etkilenebilir?",
+          "Kaçış, algılama, sprinkler, bölümlendirme, yönlendirme"
+        ],
+        [
+          "Etki nasıl doğrulanacak?",
+          "Yerinde ölçüm, standart kontrolü, hesap, gerekiyorsa test"
+        ],
+        [
+          "Teknik karar nedir?",
+          "Doğrulandı / uygunsuzluk kanıtlandı / ek inceleme gerekli"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Yöntemin adı bu yayın için oluşturulmuş bir değerlendirme çerçevesidir; mevzuat tarafından tanımlanmış resmî sınıflandırma değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir duvarın taşınmasında asıl soru “değişiklik yapıldı mı?” değil, “yangın güvenliği tasarımının hangi kabulü artık yeniden doğrulanmalı?” sorusudur. Ölçülebilir bir değişiklik her zaman uygunsuzluk değildir; ancak doğrulanmamış bir değişiklik de sırf sistemler çalışır görünüyor diye uygun kabul edilemez."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar ve teknik çerçeve",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY)",
+      "url": "https://mevzuat.adalet.gov.tr/mevzuat/116939"
+    },
+    {
+      "metin": "NFPA 13, Standard for the Installation of Sprinkler Systems (2025)",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/13"
+    },
+    {
+      "metin": "SFPE Handbook of Fire Protection Engineering, 6. basım (2026), yangın senaryoları ve mühendislik tasarımı",
+      "url": "https://link.springer.com/book/10.1007/978-3-031-59212-6"
+    }
+  ],
+  "sonNotlar": [
+    {
+      "tip": "not",
+      "etiket": "Uygulama notu",
+      "metin": "Buradaki teknik senaryolar örnektir. Bağlayıcı hüküm, onaylı proje, geçerli standart baskısı ve gerçek saha koşulları ayrı ayrı doğrulanmadan uygunluk kararı verilemez."
+    }
+  ]
+}

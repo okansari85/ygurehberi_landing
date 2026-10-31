@@ -1,0 +1,141 @@
+{
+  "kod": "YGR-K024",
+  "yol": "yapi-malzemesi-yaniciligiyla-eleman-dayanimi-neden-farklidir",
+  "baslik": "Yapı malzemesi yanıcılığıyla eleman dayanımı neden farklıdır?",
+  "ozet": "Bir levhanın A1 sınıfında olması, o levhayla yapılan duvarın belirli süre yangına dayanacağını göstermez. Çünkü malzemenin yangına tepkisi ile yapı elemanının yangına dayanımı farklı özellikleri ve farklı kanıtları anlatır. Projede kullanılan ürün doğru seçilmiş olsa bile duvar, döşeme veya kapı takımının performansı ayrıca değerlendirilir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "iki-ayri-soruya-iki-ayri-siniflandirma",
+      "metin": "İki ayrı soruya iki ayrı sınıflandırma"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangına tepki sınıfı, bir malzemenin yangının başlamasına ve gelişmesine katkısına ilişkin sınıflandırmadır. A1, bu alandaki sınıflardan biridir. Yangına dayanım ise bir yapı elemanının, belirlenmiş deney veya değerlendirme koşullarında görevini ne kadar süre koruduğuna ilişkindir. R taşıma kapasitesini, E bütünlüğü, I ise ısı yalıtımını ifade eder. EI ile REI aynı eleman işlevini anlatmaz; gerekli sembol, elemanın yapısal görevine göre seçilir."
+    },
+    {
+      "tip": "p",
+      "metin": "“A1 levha kullanıldı, o halde duvar EI 120’dir” ifadesi bu nedenle teknik olarak yeterli değildir. EI 120 gibi bir sınıf, levhanın tek başına özelliği değil, ilgili kapsamda sınıflandırılmış duvar düzeninin performansıdır. Levha sayısı ve kalınlığı, karkas, bağlantı aralıkları, derzler, kenar birleşimleri ve uygulama ayrıntıları sonuca etki edebilir. Buradaki süre yalnızca kavramı açıklayan bir örnektir; her duvar için zorunlu bir süre değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-belge-hangi-iddiayi-karsilar",
+      "metin": "Hangi belge hangi iddiayı karşılar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, malzemelerin yanıcılık sınıflarını Ek-2 kapsamında; yapı elemanlarının yangına dayanım sembollerini ve sürelerini ise Ek-3 kapsamında ele alır. Bakanlık Kılavuzu da ürünün yangına tepki beyanı ile farklı malzemeler birleştirilerek oluşturulan sistemin sınıflandırılmasını birbirinden ayırır. Bu nedenle ürün belgesi ile duvar veya döşeme sistemine ait yangına dayanım belgesi birbirinin yerine kullanılmaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 24. Malzemenin yangına tepkisi ile yapı elemanının yangına dayanımı farklı performanslardır. (Eski taslaktaki özgün şema.)",
+      "src": "/img/makale/ygr-k024-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasi",
+      "metin": "Belge ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol sorusu",
+        "Aranacak kanıt",
+        "Değerlendirme sınırı"
+      ],
+      "satirlar": [
+        [
+          "İddia edilen özellik nedir?",
+          "Onaylı proje, eleman tarifi ve performans notu",
+          "Ürün sınıfını, elemanın R/E/I gereksiniminden ayır."
+        ],
+        [
+          "Malzemenin tepkisi belgeli mi?",
+          "Ürüne ilişkin sınıflandırma ve uygunluk belgeleri",
+          "Belgenin ürün ve kullanım kapsamını kontrol et."
+        ],
+        [
+          "Eleman dayanımı belgeli mi?",
+          "Duvar/döşeme sistemine ait deney, sınıflandırma veya geçerli değerlendirme belgesi",
+          "Sistem bileşenlerini ve beyan edilen süreyi birlikte incele."
+        ],
+        [
+          "Sahadaki montaj eşleşiyor mu?",
+          "Onaylı detay, uygulama kaydı ve görülebilen montaj koşulları",
+          "Belge kapsamı dışındaki değişiklikleri ayrıca kaydet."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "projeden-sahaya-gecerken-ne-degisir",
+      "metin": "Projeden sahaya geçerken ne değişir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı projede “yangına dayanımlı bölme duvar” olarak gösterilen bir eleman, sahada yalnız levha etiketine bakılarak doğrulanamaz. Proje kesiti ve detayında tarif edilen sistemin, uygulanan karkas, levha katmanları, sabitleme, birleşim ve geçiş çözümleriyle örtüşmesi gerekir. Saha incelemesi sırasında kapalı kalan katmanlar gözle görülemiyorsa bu sınır belirtilir; uygulama fotoğrafı, montaj tutanağı veya uygun teknik rapor istenir. Görülmeyen bir birleşim için varsayımla olumlu kanaat oluşturulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendisine verilen görevin kapsamına göre önce yapının onaylı mimari ve yangın güvenliği projelerini, yapı kullanma ve tadilat belgelerini, mahallerin fiili kullanımını ve işletme koşullarını karşılaştırır. Yangın ayırıcı olduğu belirtilen duvar veya döşemenin projedeki işlevini saptar; ardından malzemenin yangına tepki belgesini, eleman sisteminin yangına dayanım sınıflandırmasını ve uygulanmış detayları ayrı ayrı inceler. Değişen mahal kullanımı veya sonradan açılan tesisat geçişi gibi hususlar ilgili elemanın sürekliliğini etkileyebileceğinden kayıt altına alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada erişilebilen birleşimler, derzler ve görünür kaplama düzeni proje ile karşılaştırılır. Eksik sistem belgesi, farklı montaj veya görünmeyen kritik birleşim varsa tespit; konumu, incelenen belgeyi, gözlemi ve doğrulanamayan hususu belirterek gerekçeli raporlanır. Bu inceleme, yapı elemanına yeni bir EI/REI sınıfı tayin etmek, laboratuvar deneyi yapmak, taşıyıcı sistem hesabı hazırlamak veya projeyi onaylamak anlamına gelmez. Bu işler ilgili yetkili mühendis, tasarımcı, deney kuruluşu ve idarenin kendi görev alanında kalır. Periyodik kontrolde onaylı projenin mevzuata uygunluğunu yeniden tasdik etmek ile projede öngörülen tedbirin sahada bulunup bulunmadığını incelemek de birbirinden ayrılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-tespit-ifadesi",
+      "metin": "Örnek tespit ifadesi"
+    },
+    {
+      "tip": "p",
+      "metin": "“Koridoru ayıran bölme duvar için A1 sınıfı levha belgesi sunulmuştur. Bu belge malzemenin yangına tepkisini göstermektedir; duvar takımının projede öngörülen yangına dayanımını tek başına doğrulamamaktadır. Duvar sisteminin sınıflandırma kapsamı ile uygulanan birleşim ve montaj detaylarının belgelendirilmesi gerekmektedir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukumlerle-yururlukteki-duzenleme-ayrimi",
+      "metin": "Taslak hükümlerle yürürlükteki düzenleme ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında da malzemenin yangına tepki sınıfları ile yapı elemanının yangına dayanım sembolleri ayrı ele alınmıştır. Bununla birlikte taslak metin henüz yürürlükteki düzenlemenin yerine geçmez. Bir incelemede bağlayıcı koşul belirlenirken yürürlükteki hüküm ve ilgili yapıya uygulanabilirlik esas alınır; taslakta önerilen sınıflandırma veya ifade değişiklikleri zorunlu koşul gibi sunulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "A1 bir ürün sınıfını, EI veya REI ise belirli işlevleri yerine getiren yapı elemanının yangına dayanım performansını anlatır. Güvenilir değerlendirme, doğru gereksinimin seçilmesi, uygun belgenin doğru sistemle eşleştirilmesi ve sahadaki uygulamanın bu kapsamla karşılaştırılmasıyla yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

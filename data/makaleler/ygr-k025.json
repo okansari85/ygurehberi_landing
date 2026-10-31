@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K025",
+  "yol": "cephede-sonradan-eklenen-yalitim-katmani-nasil-incelenir",
+  "baslik": "Cephede sonradan eklenen yalıtım katmanı nasıl incelenir?",
+  "ozet": "Sonradan yapılan dış cephe ısı yalıtımı, mevcut binanın yangın güvenliği bakımından yeni bir cephe sistemi oluşturabilir. İnceleme yalnız yalıtım levhasının adı veya kalınlığı üzerinden yürütülmez. Mevcut duvar, yeni katmanlar, pencere çevresi ve kat birleşimleri ile bunları tanımlayan proje ve ürün belgeleri birlikte değerlendirilir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisen-katman-degisen-sistem",
+      "metin": "Değişen katman, değişen sistem"
+    },
+    {
+      "tip": "p",
+      "metin": "Geleneksel mantolama uygulamasında yalıtım levhası; yapıştırıcı, dübel, sıva filesi, sıva ve son kat kaplama ile birlikte çalışır. Bir bileşenin yangına tepki sınıfını gösteren belge, farklı bileşenlerle kurulmuş bütün cephe sisteminin aynı sınıfta olduğunu tek başına kanıtlamaz. Özellikle eski sıvanın üzerine yeni katman eklenmişse sertifikada tanımlanan altlık, tespit biçimi ve katman sırası ile uygulama arasındaki fark araştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle ilk karşılaştırma, eski ve yeni cephe kesitleri üzerinden yapılır. Değiştirilen malzemenin cinsi, kalınlığı, montaj yöntemi, yüzey kaplaması ve pencere detayları ayrı ayrı işaretlenir. Yenileme işinin kapsamı netleşmeden eski cepheye ait belgeyi yeni imalatın uygunluk kanıtı saymak doğru değildir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 515,
+      "aciklama": "Şekil 25. Mevcut duvar ve sonradan eklenen yalıtım katmanlarının şematik ilişkisi (temsili).",
+      "src": "/img/makale/ygr-k025-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-cephe-kosullari-nasil-okunur",
+      "metin": "Yürürlükteki cephe koşulları nasıl okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, dış cephelerde bina yüksekliğine ve sistem türüne göre farklı yangına tepki koşulları getirir. Yürürlükteki düzenlemede bina yüksekliği 28,50 m’den fazla olan cepheler için zor yanıcı, diğer binalar için en az zor alevlenici malzeme koşulu yer alır. Geleneksel ısı yalıtım sisteminin ilgili standartlar kapsamında akredite laboratuvar tarafından sertifikalandırılması ve sistem detaylarının piyasaya arz belgelerinde gösterilmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Zor alevlenici malzeme veya sistem kullanılan ve bina yüksekliği 28,50 m’den az olan cephelerde, zemin kotu üzerindeki 1,50 m bölge ile belirli yüksekliklerdeki pencere çevresi yangın bariyerleri ayrıca incelenir. Bina yüksekliği 6,50 m’den fazla olduğunda pencere yanlarında en az 15 cm, üstlerinde en az 30 cm hiç yanmaz bariyer düzeni ilgili hükümde tarif edilir. Bu ölçüler her binaya koşulsuz uygulanacak genel bir şablon değil, hükmün kapsamındaki cepheler için kontrol ölçütüdür."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-saha-arasinda-hangi-baglanti-kurulmali",
+      "metin": "Belge ile saha arasında hangi bağlantı kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce ruhsat eki onaylı mimari proje, varsa cephe tadilat projesi ve uygulama kesitleri incelenir. Ardından sistem sertifikası, sınıflandırma raporu, üretici montaj talimatı ve kullanılan malzemeyi gösteren sevk veya uygulama kayıtları karşılaştırılır. Belge üzerindeki sistem adı ile sahada görülen kaplama aynı görünse bile alt katmanların ve tespit elemanlarının belgedeki yapılandırmayla eşleştiği ayrıca gösterilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-belge-saha-kontrol-tablosu",
+      "metin": "Proje–belge–saha kontrol tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Aranacak kanıt",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Önceki cephe",
+          "Onaylı kesit, önceki uygulama detayı",
+          "Korunan ve değişen katmanları ayır"
+        ],
+        [
+          "Yeni sistem",
+          "Sistem sertifikası, sınıflandırma ve montaj belgeleri",
+          "Bileşen, altlık ve tespit koşullarını eşleştir"
+        ],
+        [
+          "Kritik birleşimler",
+          "Pencere, zemin kotu, kat ve komşu yapı detayları",
+          "Yangın bariyeri ve süreklilik farklarını göster"
+        ],
+        [
+          "Fiili uygulama",
+          "İrsaliye, ürün kodu, uygulama kaydı ve erişilebilir saha gözlemi",
+          "Belgelenen ürün ile sahadaki ürünü karşılaştır"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ruhsat ve kullanım belgelerini, onaylı cephe detaylarını ve sonradan yapılan işin kapsamını belirleyerek başlar. Binanın gerçek yüksekliği, kullanım biçimi ve cephe türüyle hangi teknik koşulların ilgili olduğunu ortaya koyar. Ulaşılabilir noktalarda pencere çevresindeki bariyerleri, zemin kotu uygulamasını, eklenen katmanın sürekliliğini ve görülebilen bağlantıları kontrol eder; belge ve saha arasındaki farklılıkları fotoğraf ve konum bilgisiyle kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Sıva altında kalan levhanın cinsi, gizli ankrajlar veya yangına tepki performansı yalnız gözlemle kesinleştirilemez. Bu hallerde uzman, hangi belge veya teknik incelemenin eksik olduğunu açıkça yazar. Malzeme deneyini yapmış, sistem tasarımını onaylamış ya da mühendislik hesabını üstlenmiş gibi sonuç kurmaz; gerekli test, proje revizyonu ve onay işlemleri ilgili yetkili kişi ve kuruluşların sorumluluğunda kalır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-ile-yururlukteki-hukum-birbirine-karistirilmamali",
+      "metin": "Taslak ile yürürlükteki hüküm birbirine karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağında dış cephe için 21,50 m eşiği ve sistemin kompozit olarak test edilmesine ilişkin farklı ifadeler önerilmektedir. Bunlar yürürlükteki 28,50 m esasının yerine geçmiş hükümler değildir. Ayrıca Yangın Güvenlik Uzmanlığına ilişkin mesleki görev ve kontrol düzenlemeleri de taslak niteliğindedir. Somut yapıya ilişkin değerlendirme, yürürlükteki kurallar ve yapının hukuki durumu esas alınarak yapılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonradan eklenen yalıtımın güvenliğini yalnız ürün etiketiyle veya düzgün görünen dış sıvayla doğrulamak mümkün değildir. Sağlıklı sonuç, hangi cephe sisteminin onaylandığını, hangi sistemin uygulandığını ve yangın güvenliği açısından kritik detayların korunup korunmadığını belgelerle ortaya koyan gerekçeli bir karşılaştırmaya dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

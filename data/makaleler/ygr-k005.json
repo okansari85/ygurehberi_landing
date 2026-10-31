@@ -1,0 +1,120 @@
+{
+  "kod": "YGR-K005",
+  "yol": "bir-yapinin-mevcut-sayilmasi-hangi-kayitlara-baglidir",
+  "baslik": "Bir yapının 'mevcut' sayılması hangi kayıtlara bağlıdır?",
+  "ozet": "Bir fabrika binasının uzun yıllardır kullanılıyor olması, yangın güvenliği bakımından hangi hükümlere tabi olduğunu tek başına açıklamaz. İlk yapı ruhsatı, yapı kullanma izni ve sonradan yapılan değişiklikler farklı tarihlere ait olabilir. Bu nedenle inceleme binanın görünüşteki yaşından değil, resmî kayıtlarla ortaya konulabilen yapı ve kullanım geçmişinden başlamalıdır.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, mevcut yapı tanımını Yönetmeliğin yürürlüğe girmesinden önce ruhsat alınıp yapımı süren veya tamamlanan yapıya bağlar. Fakat tanıma girmek, her yangın güvenliği tedbirinden muaf olmak demek değildir. Mevcut binalara ilişkin özel hükümler ve kullanım amacı değişikliğine ilişkin kurallar birlikte değerlendirilir. Yeni yönetmelik taslağında da mevcut yapı tanımı kendi öngörülen yürürlük tarihine bağlı olarak kurulmuştur; bu iki düzenlemenin tarih esasları birbirinin yerine kullanılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "tek-yapinin-uc-ayri-tarihi-olabilir",
+      "metin": "Tek yapının üç ayrı tarihi olabilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapının ilk ruhsatının 2005, yapı kullanma izninin 2013, eski depo bölümünün üretime dönüştürülmesine ilişkin onaylı işlemin ise 2022 tarihli olduğunu düşünelim. İlk belge başlangıçtaki ruhsat ve projeyi, ikincisi kullanıma ilişkin idari aşamayı, üçüncüsü yapılan değişikliği gösterir. Üç tarih birbirinin yerine geçmez. Hangi paftanın hangi yapı bölümüne ait olduğu ayrıca belirlenmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1585,
+      "yukseklik": 461,
+      "aciklama": "Şekil 1. Aynı yapıya ait farklı belgelerden kurulan örnek tarih zinciri.",
+      "src": "/img/makale/ygr-k005-1.png"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık Kılavuzu, 2002–2007 döneminde ruhsat alınmış yapılar bakımından önceki düzenlemelerin tarihsel rolüne dikkat çeker. Bu nedenle 2005 ruhsatlı bir binayı değerlendirirken o dönemin mevzuatı araştırılır. Ancak eski ruhsatın varlığı, 2022’deki kullanım değişikliğinin veya bugünkü saha koşullarının ayrıca incelenmesine engel değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "ilk-ruhsat-bulunamazsa-ne-yapilir",
+      "metin": "İlk ruhsat bulunamazsa ne yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk ruhsat dosyası bulunamıyorsa ilgili idarenin arşivi, ruhsat eki projeler, yapı kullanma izni ve tadilat belgeleri araştırılır. İşletmede bulunan eski çizimler, fotoğraflar veya abonelik kayıtları araştırmaya yardımcı olabilir; fakat bunların hiçbiri onaylı ilk ruhsatın yerine kendiliğinden geçmez. Belgenin neyi kanıtladığı ve hangi bilginin eksik kaldığı ayrı gösterilmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge",
+        "Doğruladığı konu",
+        "Sınırı"
+      ],
+      "satirlar": [
+        [
+          "İlk yapı ruhsatı ve eki",
+          "İlk onay tarihi ve ruhsat kapsamı",
+          "Sonraki değişiklikleri tek başına açıklamaz"
+        ],
+        [
+          "Yapı kullanma izni",
+          "Kullanıma ilişkin idari aşama",
+          "İlk ruhsat tarihinin yerine geçmez"
+        ],
+        [
+          "Tadilat ruhsatı / revizyon paftası",
+          "Değiştirilen bölüm ve onaylı düzen",
+          "Tüm bina için yeni bir ilk tarih oluşturduğu varsayılamaz"
+        ],
+        [
+          "İşletme ve saha kayıtları",
+          "Bugünkü fiili kullanım",
+          "Resmi onayın varlığını tek başına kanıtlamaz"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "kullanim-degisikligi-degerlendirmeyi-neden-etkiler",
+      "metin": "Kullanım değişikliği değerlendirmeyi neden etkiler?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin depo olarak projelendirilmiş bir bölüm sonradan üretim, eğitim, sağlık veya konaklama amacıyla kullanılıyorsa yangın güvenliği değerlendirmesi değişebilir. Yürürlükteki Yönetmeliğin mevcut binalara ve kullanım değişikliğine ilişkin hükümleri bu yüzden birlikte okunur. Yeni taslak da mevcut yapı ile kullanım amacı değiştirilen bölümleri ayrı hükümler altında ele alır. Karar verilirken yalnız binanın ilk tarihine değil, değiştirilen bölümün bugünkü işlevine ve ilgili onaylara bakılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalara ilişkin süre düzenlemeleri de yapı statüsüyle karıştırılmamalıdır. Örneğin 2025 yılında getirilen Geçici Madde 4, malzeme temini için süre gerektiren eksikliklerin giderilmesine ilişkin bir son tarih öngörmüştür. Bu süre, binanın ruhsat tarihini değiştirmez ve bütün yangın güvenliği eksiklikleri için genel bir muafiyet oluşturmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonradan eklenen bir depo veya üretim bölümü, eski yapıya bitişik olsa bile farklı bir ruhsat ya da tadilat işlemine dayanabilir. Bu durumda eski ve yeni kısımların sınırları onaylı vaziyet planı ve revizyon paftalarında gösterilmeli; kaçış yolları, yangın bölmeleri ve diğer sistemlerle ilişkileri ayrıca incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), periyodik yangın güvenliği incelemesinde önce ilk ruhsat tarihini, yapı kullanma iznini, onaylı projeleri ve sonradan yapılan değişiklikleri araştırır. Ruhsatı bulunmayan yapı kayıt belgeli bir yapıda bu belgenin tarihi de kaydedilir; ancak yapı kayıt belgesi kendiliğinden ilk ruhsatın yerine geçmez. Uzman, tarih ve proje kayıtlarını sahadaki kullanımla karşılaştırır. Örneğin 2005 ruhsatlı bir depoda 2022 yılında üretime geçilmişse, değişikliğin hangi bölümü kapsadığını inceler. Eksik belgeleri veya farklılıkları açıkça yazar; doğrulanmamış tarihi, uygulanabilir mevzuat hakkında kesin sonuç gibi sunmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc-yalniz-eski-bina-yazmak-olmamali",
+      "metin": "Sonuç, yalnız “eski bina” yazmak olmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapının “mevcut” sayılması yalnız yaşına veya tek bir belgeye bağlı değildir. İlk ruhsat, kullanım izni, tadilat geçmişi ve bugünkü faaliyet birlikte incelenmelidir. Hangi kaydın neyi doğruladığı açık tutulduğunda hem uygulanacak hükümler hem de eksik kalan bilgiler anlaşılır hale gelir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,147 @@
+{
+  "kod": "YGR-K051",
+  "yol": "acil-durum-aydinlatmasinda-bakim-ve-sure-testleri-hangi-kanitlari-gerektirir",
+  "baslik": "Acil durum aydınlatmasında bakım ve süre testleri hangi kanıtları gerektirir?",
+  "ozet": "Bir acil aydınlatma armatürünün test düğmesiyle yanması, kaçış yolunu elektrik kesintisi boyunca yeterli aydınlatacağını kanıtlamaz. Devreye giriş, çalışma süresi ve aydınlık düzeyi ayrı değerlendirilir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Bakım defterindeki “çalıştı” işareti teknik uygunluğun yerine geçmez. Cihazın konumunu, test koşulunu, süresini, sonucunu ve yapılan düzeltmeyi izleten kayıtlar gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "islev-calisma-suresi-ve-aydinlik-duzeyi-neden-ayri-kanitlardir",
+      "metin": "İşlev, çalışma süresi ve aydınlık düzeyi neden ayrı kanıtlardır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, normal aydınlatma kesildiğinde acil aydınlatmanın otomatik devreye girmesini öngörür. Gerekli süre en az 60 dakika; kullanıcı yükü 200’den fazla ise en az 120 dakikadır. Kaçış yolu merkez hattındaki aydınlık düzeyi ve süre sonundaki alt sınır da ayrıca düzenlenmiştir. Değerlendirmede yapının gerçek kullanımı esas alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "İşlev testi, besleme kesilince armatürün devreye girişini; süre testi, acil beslemenin ne kadar sürdüğünü gösterir. Aydınlık düzeyi ise yalnız gözlem veya batarya göstergesiyle doğrulanamaz; gerekli hallerde teknik ölçüm gerekir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 51. Normal besleme, acil devreye giriş ve süre/performans kontrollerinin ayrımı. Temsili teknik çizim.",
+      "src": "/img/makale/ygr-k051-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "bakim-ve-test-kaydinda-hangi-bilgiler-bulunmali",
+      "metin": "Bakım ve test kaydında hangi bilgiler bulunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kayıtlar cihazın konumuna kadar izlenmelidir. Merkezi ve bağımsız beslemeler bir aradaysa toplu “uygun” ifadesi, hangi sistemin sınandığını belirsiz bırakır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Aranacak belge veya kayıt",
+        "İncelemede cevaplanacak soru"
+      ],
+      "satirlar": [
+        [
+          "Cihaz ve mahal",
+          "Numaralı armatür listesi, onaylı elektrik projesi ve güncel kat planı",
+          "Test edilen cihazın sahadaki konumu açık mı?"
+        ],
+        [
+          "Testin kapsamı",
+          "Test türü, uygulama yöntemi, normal besleme kesintisinin nasıl sağlandığı",
+          "Yalnız devreye giriş mi, süre performansı da mı sınandı?"
+        ],
+        [
+          "Süre ve sonuç",
+          "Başlangıç/bitiş saati, hedef süre, gerçekleşen süre ve cihaz bazında sonuç",
+          "Gerekli süreyi tamamlamayan armatür belirlenmiş mi?"
+        ],
+        [
+          "Arıza ve düzeltme",
+          "Bakım kaydı, değiştirilen parça, yeniden test tarihi ve sonucu",
+          "Açık bulgu kapatılmış mı, yoksa yalnız işlem yapılmış mı?"
+        ],
+        [
+          "Aydınlık düzeyi",
+          "Gerekli olduğunda yetkili teknik ölçüm raporu ve proje verileri",
+          "Ölçüm, güncel kaçış güzergahını ve yerleşimi kapsıyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo 1. Bakım ve süre testi kanıtlarının birlikte okunması."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-kaydin-yeterliligi-nasil-anlasilir",
+      "metin": "Sahada kaydın yeterliliği nasıl anlaşılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir bakım çizelgesinde koridor armatürleri için yalnız “kontrol edildi” yazıyorsa, testin elektrik kesintisiyle mi yoksa cihaz üzerindeki düğmeyle mi yapıldığı anlaşılamaz. Süre ve cihaz kimliği de yoksa bu kayıt, tüm bataryaların gerekli çalışma süresini sağladığını kanıtlamaz. Eksik olan bilginin hangi kayıtla tamamlanacağı açıkça istenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir armatürün bataryası değiştirilmiş olabilir; ancak bakımın tamamlandığını gösteren kayıt ile değişiklik sonrasındaki yeniden test sonucu farklı belgelerdir. Ayrıca raf, bölme veya kapı yerleşimi değişmişse, mevcut aydınlatma planının hala gerçek kaçış yolunu karşılayıp karşılamadığı yeniden ele alınmalıdır. Bakım testi, yerleşim değişikliğinin doğurduğu fotometrik değerlendirme ihtiyacının yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapının onaylı elektrik ve yangın güvenliği projelerini, yapı kullanımına ilişkin belgelerini, güncel mahal ve kaçış planlarını, armatür envanterini ve işletmenin bakım-test raporlarını birlikte inceler. Ardından seçilen güzergahlarda projedeki armatür konumlarını sahadaki cihazlarla eşleştirir; kapatılmış, sökülmüş, hasarlı veya erişimi engellenmiş üniteleri ve belgelerdeki tutarsızlıkları gözlemsel olarak kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman, test raporunda yöntem, süre, kapsam ve sonuç bulunup bulunmadığını; arızaların giderilerek yeniden test edilip edilmediğini sorgular. Testi gerçekleştiren yetkili teknik personelin yerine geçerek elektriksel ölçüm, fotometrik hesap, sistem tasarımı veya kabul onayı yapmış gibi rapor düzenlemez. Gerekli teknik kanıt yoksa “uygun” sonucuna ulaşmak yerine eksik belgeyi, etkilenen mahalli ve doğrulama ihtiyacını gerekçesiyle belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-kuralin-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki kuralın ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Yönetmeliğin periyodik test, bakım ve denetim hükmü; acil aydınlatma sisteminin ilgili standartlara göre kontrol, test ve bakıma tabi tutulmasını bina sahibinin veya sorumlu bina yetkilisinin yükümlülüğü olarak düzenler. İncelenen yeni Yönetmelik taslağında ise kontrol, test ve bakım raporlarının saklanmasına yönelik açık ifade de bulunmaktadır. Taslakta önerilen bu ifade, yürürlüğe girmedikçe mevcut hükmün yerine geçirilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Acil durum aydınlatmasında güvenilir değerlendirme, “lamba yandı” gözleminden değil; cihazın yeri, testin türü, uygulanan kesinti koşulu, çalışma süresi, ölçüm gerekliliği ve düzeltme kayıtlarının birlikte okunmasından çıkar. Belgeyle desteklenmeyen bir test sonucu, kaçış yolunun bütün işletme koşullarında yeterli aydınlatıldığının kanıtı değildir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Periyodik Kontrol Formu"
+    }
+  ],
+  "sonNotlar": []
+}

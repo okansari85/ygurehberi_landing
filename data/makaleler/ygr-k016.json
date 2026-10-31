@@ -1,0 +1,118 @@
+{
+  "kod": "YGR-K016",
+  "yol": "yangin-kompartimani-siniri-kat-planindan-nasil-okunur",
+  "baslik": "Yangın kompartımanı sınırı kat planından nasıl okunur?",
+  "ozet": "Kat planında farklı renkle çizilen bir sınır, tek başına yangın kompartımanının doğru kurulduğunu göstermez. Çizginin hangi yapı elemanlarını temsil ettiği ve duvar, döşeme, kapı ile tesisat geçişlerinde nasıl devam ettiği birlikte okunmalıdır.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-10-31",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-sinirin-neyi-ayirdigi-belirlenir",
+      "metin": "Önce sınırın neyi ayırdığı belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın kompartımanı, yangının ve dumanın diğer bölümlere geçişini belirli süre sınırlamak amacıyla yangına dayanıklı yapı elemanlarıyla ayrılan hacimdir. Onaylı mimari proje ve varsa yangın tahliye projesi açılarak sınırın hangi mahalleri çevrelediği, lejantta nasıl tanımlandığı ve hangi kapı ya da şaftlardan geçtiği belirlenir. Algılama sistemindeki “yangın bölgesi” işareti, yangın kompartımanı sınırı yerine kabul edilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kompartıman duvar ve döşemelerinin dayanımını Ek-3/B, izin verilen en büyük kompartıman alanlarını Ek-4 ile ilişkilendirir. Gereken değer, kullanım ve yapı özellikleri bilinmeden yalnızca çizgi kalınlığından çıkarılamaz. Bakanlık Kılavuzu bu hükümlerin projede okunmasına yardımcı olur; yönetmeliğin yerine geçmez. İncelenen yeni düzenleme taslağı ise yürürlükteki şartlarla karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "plan-cizgisi-kesitte-ve-detayda-da-surmeli",
+      "metin": "Plan çizgisi kesitte ve detayda da sürmeli"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin üretim alanıyla depo arasında yangın ayırıcı duvar gösterilmiş olsun. Önce duvarın iki ucunun nerede bittiği, döşemeye ve tavana nasıl bağlandığı, kapı açıklığı ve kablo tavası gibi geçişler bulunup bulunmadığı işaretlenir. Ardından mimari kesit, tavan üstü detayları, kapı çizelgesi ve ilgili tesisat paftalarıyla aynı sınır takip edilir. Asma tavanın üzerinde devam etmeyen bir duvar veya belgesiz bırakılmış geçiş, planın tek başına cevaplayamadığı kritik bir noktadır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1200,
+      "yukseklik": 390,
+      "aciklama": "Şekil 16. Üretim ve depo arasındaki temsili kompartıman sınırı. Kırmızı hat ayırıcı duvarı, sarı bölüm ayrıca incelenecek geçiş noktasını gösterir.",
+      "src": "/img/makale/ygr-k016-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "kontrol-noktalari-ayni-kayitta-izlenir",
+      "metin": "Kontrol noktaları aynı kayıtta izlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Duvarın mevcut olması, sınırın bütün noktalarda süreklilik sağladığını kanıtlamaz. Aşağıdaki örnekte her bulgu, gerekli proje veya ürün belgesiyle eşleştirilir; belirsiz bir nokta uygun kabul edilmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Proje / belge",
+        "Saha bulgusu ve işlem"
+      ],
+      "satirlar": [
+        [
+          "Sınır ve lejant",
+          "Onaylı kat planı, mahal kullanımı",
+          "Üretim–depo ayrımı ve hattın tamamı eşleştirilir."
+        ],
+        [
+          "Duvar–döşeme birleşimi",
+          "Kesit ve yangın ayırıcı detay",
+          "Tavan üstü devamlılık görülmüyorsa belge ve erişim istenir."
+        ],
+        [
+          "Kapı ve açıklıklar",
+          "Kapı çizelgesi, sınıflandırma ve montaj detayı",
+          "Kapı takımının ve birleşimlerin proje ile uyumu incelenir."
+        ],
+        [
+          "Tesisat geçişi",
+          "Geçiş sistemi detayı ve uygulama belgesi",
+          "Kablo/boru çevresindeki yangın durdurucu uygulama doğrulanır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendisine verilen görevin ve yetki seviyesinin sınırları içinde önce onaylı mimari veya tahliye projesindeki kompartıman hattını belirler. Mahallerin fiili kullanımı ile projedeki adlarını karşılaştırır; tadilatla açılan kapı, kaldırılan duvar, tavan boşluğu, şaft ve sonradan geçirilen tesisatları yerinde gözlemler. Her kritik noktayı pafta referansı, fotoğraf, mevcut belge ve tespit sonucu ile ayrı ayrı kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin kablo tavası geçişinde yangın durdurucu malzeme görülmesi, uygulamanın gerekli yangın dayanımını sağladığını tek başına kanıtlamaz. Uygulama sistemi ve montajın ilgili belgeyle eşleşmesi aranır. Belge veya erişim yoksa sonuç “doğrulanamadı” olarak gerekçelendirilir; varsayımla uygunluk verilmez. YGU bu incelemeyle tasarımcı, yetkili laboratuvar veya idarenin proje onay görevini üstlenmez; gerekli teknik hesap, deney ve uygunluk değerlendirmesi yetkili meslek veya kuruluşça yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kat planındaki kompartıman çizgisi bir başlangıçtır. Güvenilir değerlendirme, sınırın plandan kesite, detaydan uygulamaya kadar izlenmesine ve açıklıkların belgeli biçimde kontrol edilmesine dayanır. İnceleme sonunda “uygun”, “uygunsuz” ve “doğrulanamadı” bulgularının birbirinden ayrılması, hem düzeltici faaliyeti hem de sonraki kontrolleri kolaylaştırır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}
