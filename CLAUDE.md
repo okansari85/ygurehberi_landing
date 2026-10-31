@@ -47,7 +47,7 @@ YGU Rehberi (ygurehberi.com): Yangın Güvenlik Uzmanlığı (YGU) bilgi sitesi.
 
 ## Teknik
 - Nuxt 4, `nuxt generate` ile statik çıktı. Yeni npm paketi ancak sorarak.
-- Backend kararı (kullanıcı 31 Ekim 2026): Laravel + MySQL, cPanel'de çalışacak. Henüz yapılmadı; site şu an backend'siz. Önerilen kapsam: yönetim paneli (makale ekle/düzenle), Ön Kayıt kaydı, 61 JSON'un aktarımı; ziyaretçi sayfaları statik kalır. Hosting özellikleri doğrulanmadı.
+- Backend kararı (kullanıcı 31 Ekim 2026): Laravel + MySQL, cPanel'de çalışacak. Henüz yapılmadı; site şu an backend'siz. Repo `ygu_backend` (gizli), ayrıntı onun CLAUDE.md'sinde. Kapsam (kullanıcı): makaleler ve arama backend'de, diğer sayfalar statik; Ön Kayıt backend'e yazar, mail yok, başvurular Blade + Vue panelden görülür. Site API adresi `runtimeConfig.public.apiUrl` (`https://panel.ygurehberi.com`, yerelde `NUXT_PUBLIC_API_URL`). Backend canlıya çıkmadan bu sitenin form ve arama bağlantılı sürümü deploy edilmez.
 - Yayın: `npm run build:deploy` (dev açıkken: `NUXT_BUILD_DIR=.nuxt-deploy npx nuxt generate && node scripts/deploy.mjs`) → `deploy/` (depoda tutulur) → GitHub → cPanel › Git Version Control › Update from Remote + Deploy HEAD Commit → `.cpanel.yml` `deploy/`'u public_html'e kopyalar.
 - Telefon genişliğinde (≈400 px) düzgün çalışır; metinler Türkçe.
 

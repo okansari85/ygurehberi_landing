@@ -47,6 +47,11 @@ const SAYFALAR: Sayfa[] = [
     gorseller: ['serbest-hero', ...SERBEST_SAYFA.hizmetler.liste.map((h) => h.gorsel)]
   },
   {
+    yol: '/kvkk-aydinlatma-metni',
+    guncelleme: '2026-10-31',
+    gorseller: []
+  },
+  {
     yol: '/sss',
     guncelleme: '2026-10-15',
     gorseller: []

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // YGU Ön Kayıt: design/on-kayit.jpeg (içerik yerleşimi aynı; üst menü/alt bilgi sitenin kendisi).
-// TODO: form henüz bir yere gönderilmiyor (statik site, sunucu yok). Gönderim yolu kullanıcıdan bekleniyor; KVKK metni de.
+// Form backend'e (ygu_backend) kaydedilir, başvurular panelden görülür; mail gönderilmez.
 import { SITE, ON_KAYIT_SAYFA as S, ILLER } from '~/data/icerik'
 
 const YOL = '/on-kayit'
@@ -34,12 +34,28 @@ useSayfaSeo({
 
 useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/on-kayit-hero.webp', fetchpriority: 'high' }] })
 
-const form = reactive({ ad: '', eposta: '', telefon: '', il: '', kvkk: false })
+const { apiUrl } = useRuntimeConfig().public
+// web_sitesi: ekranda görünmeyen alan; yalnız botlar doldurur.
+const form = reactive({ ad: '', eposta: '', telefon: '', il: '', kvkk: false, web_sitesi: '' })
 const gonderildi = ref(false)
+const gonderiliyor = ref(false)
+const hata = ref('')
 
-function gonder() {
-  // TODO: gönderim yolu belirlenince buraya bağlanacak.
-  gonderildi.value = true
+async function gonder() {
+  if (gonderiliyor.value) return
+  gonderiliyor.value = true
+  hata.value = ''
+  try {
+    await $fetch(`${apiUrl}/api/on-kayit`, { method: 'POST', body: form })
+    gonderildi.value = true
+  } catch (e) {
+    const yanit = e as { status?: number; data?: { message?: string } }
+    if (yanit.status === 422) hata.value = yanit.data?.message ?? 'Lütfen bilgilerinizi kontrol edin.'
+    else if (yanit.status === 429) hata.value = 'Kısa sürede çok fazla deneme yapıldı. Lütfen bir dakika sonra tekrar deneyin.'
+    else hata.value = 'Ön kaydınız şu anda alınamadı. Lütfen biraz sonra tekrar deneyin.'
+  } finally {
+    gonderiliyor.value = false
+  }
 }
 </script>
 
@@ -99,7 +115,7 @@ function gonder() {
               <span class="sr-only">Telefon numarası</span>
               <input
                 v-model.trim="form.telefon" type="tel" name="telefon" autocomplete="tel" inputmode="tel"
-                placeholder="Telefon Numarası" pattern="[0-9 +()\-]{10,20}" required
+                placeholder="Telefon Numarası" pattern="[0-9 +\(\)\-]{10,20}" required
               >
             </label>
             <label class="alan">
@@ -113,13 +129,14 @@ function gonder() {
             </label>
             <label class="onay">
               <input v-model="form.kvkk" type="checkbox" name="kvkk" required>
-              <!-- TODO: KVKK Aydınlatma Metni sayfası/dosyası gelince bağlanacak. -->
-              <span><a href="#" class="kvkk" @click.prevent>KVKK Aydınlatma Metni <Ikon ad="disLink" /></a>'ni okudum, anladım.</span>
+              <span><NuxtLink to="/kvkk-aydinlatma-metni" target="_blank" class="kvkk">KVKK Aydınlatma Metni <Ikon ad="disLink" /></NuxtLink>'ni okudum, anladım.</span>
             </label>
-            <button type="submit" class="btn btn-amber form-dugme">{{ S.form.dugme }} <Ikon ad="ok" /></button>
+            <input v-model="form.web_sitesi" type="text" name="web_sitesi" class="bot-alani" tabindex="-1" autocomplete="off" aria-hidden="true">
+            <p v-if="hata" class="form-hata" role="alert">{{ hata }}</p>
+            <button type="submit" class="btn btn-amber form-dugme" :disabled="gonderiliyor">{{ gonderiliyor ? 'Gönderiliyor…' : S.form.dugme }} <Ikon ad="ok" /></button>
           </form>
           <p v-else class="form-tesekkur" role="status">
-            Teşekkürler {{ form.ad.split(' ')[0] }}! Ön kayıt sistemi çok yakında açılıyor; açıldığında {{ form.eposta }} adresine bilgi vereceğiz.
+            Teşekkürler {{ form.ad.split(' ')[0] }}! Ön kaydınız alındı. Gelişmeler olduğunda {{ form.eposta }} adresine bilgi vereceğiz.
           </p>
           <p class="gizlilik"><Ikon ad="kilit" />{{ S.form.gizlilik }}</p>
         </div>
@@ -183,6 +200,9 @@ function gonder() {
 .onay input{width:18px;height:18px;accent-color:var(--amber-2)}
 .kvkk{color:#1D4ED8;display:inline-flex;align-items:center;gap:4px}
 .form-dugme{width:100%;min-height:52px;font-size:18px}
+.form-dugme:disabled{opacity:.65;cursor:wait}
+.form-hata{margin:0 0 12px;padding:10px 12px;border-radius:8px;background:#FDECEA;color:#B42318;font-size:14.5px}
+.bot-alani{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
 .form-tesekkur{background:#FFF8E1;border:1px solid #FBE3A0;border-radius:8px;padding:16px;margin:0;font-weight:600}
 .gizlilik{display:flex;align-items:center;gap:10px;margin:14px 0 0;font-size:13px;color:var(--muted)}
 .gizlilik .ikon{font-size:16px;color:#111}

@@ -377,7 +377,7 @@ export const ON_KAYIT_SAYFA = {
     baslik: 'Ön Kayıt Formu',
     metin: 'Kısa bilgilerinizle ön kaydınızı oluşturun. Sizi süreç hakkında bilgilendirelim.',
     dugme: 'Ön Kaydımı Tamamla',
-    gizlilik: 'Bilgileriniz gizli tutulur, üçüncü kişilerle paylaşılmaz.'
+    gizlilik: 'Bilgileriniz gizli tutulur, ticari amaçlarla üçüncü kişilere satılmaz.'
   },
   slogan: 'Daha güvenli yapılar, daha güvenli bir gelecek.'
 }

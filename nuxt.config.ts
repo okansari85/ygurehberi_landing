@@ -8,11 +8,13 @@ import { ANALYTICS_ID } from './data/icerik'
 export default defineNuxtConfig({
   compatibilityDate: '2026-10-07',
   devtools: { enabled: false },
+  // Backend (ygu_backend): arama ve ön kayıt. Yerelde NUXT_PUBLIC_API_URL ile değiştirilir.
+  runtimeConfig: { public: { apiUrl: 'https://panel.ygurehberi.com' } },
   css: ['~/assets/css/fonts.css', '~/assets/css/main.css'],
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
-    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/sss', '/vakalarla-ogren', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma', ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
+    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/kvkk-aydinlatma-metni', '/sss', '/vakalarla-ogren', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma', ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
   },
   app: {
     head: {

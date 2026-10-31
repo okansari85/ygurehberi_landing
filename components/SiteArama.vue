@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// Site içi arama: statik sitede sunucu yok; başlık/metinler data/icerik.ts'den taranır, sonuç ilgili bölüme götürür.
+// Site içi arama: site metinleri data/icerik.ts'den tarayıcıda, teknik makaleler backend'de (ygu_backend) aranır; sonuç ilgili bölüme götürür.
 import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
 import { konuYolu } from '~/data/yguBilgi'
@@ -38,29 +38,44 @@ const DIZIN = [
   { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda/mevzuat' }
 ]
 
-// Teknik makaleler büyük veri: her sayfaya binmesin diye arama kutusuna ilk odaklanınca yüklenir.
-const makaleDizini = shallowRef<typeof DIZIN>([])
-async function makaleleriYukle() {
-  if (makaleDizini.value.length) return
-  const { MAKALELER } = await import('~/data/makaleler')
-  makaleDizini.value = MAKALELER.flatMap((m) => [
-    { baslik: m.baslik, metin: `${m.kod} · Teknik makale · ${m.etiketler.join(', ')}`, to: `/teknik-makaleler/${m.yol}` },
-    ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: `${m.kod} · ${m.baslik}`, to: `/teknik-makaleler/${m.yol}#${b.id}` }] : []))
-  ])
-}
-
 const kucult = (s: string) => s.toLocaleLowerCase('tr')
 const sorgu = ref('')
 const odak = ref(false)
 const girdi = ref<HTMLInputElement>()
+// Teknik makaleler backend'de aranır; backend yanıt vermezse site metinleri aranmaya devam eder.
+const { apiUrl } = useRuntimeConfig().public
+const makaleSonuclari = shallowRef<{ baslik: string; metin: string; to: string }[]>([])
+let zamanlayici: ReturnType<typeof setTimeout> | undefined
+let istekNo = 0
+watch(sorgu, (deger) => {
+  clearTimeout(zamanlayici)
+  const no = ++istekNo
+  const q = deger.trim()
+  if (q.length < 2) {
+    makaleSonuclari.value = []
+    return
+  }
+  zamanlayici = setTimeout(async () => {
+    try {
+      const yanit = await $fetch<{ sonuclar: typeof makaleSonuclari.value }>(`${apiUrl}/api/arama`, { query: { q } })
+      if (no === istekNo) makaleSonuclari.value = yanit.sonuclar
+    } catch {
+      if (no === istekNo) makaleSonuclari.value = []
+    }
+  }, 250)
+})
+
 const sonuclar = computed(() => {
   const q = kucult(sorgu.value.trim())
   if (q.length < 2) return []
   const kelimeler = q.split(/\s+/)
-  return [...DIZIN, ...makaleDizini.value].filter((d) => {
+  const siteden = DIZIN.filter((d) => {
     const t = kucult(`${d.baslik} ${d.metin}`)
     return kelimeler.every((k) => t.includes(k))
-  }).slice(0, 7)
+  })
+  // Başlığında aranan kelimelerin hepsi geçen site sayfası önce, sonra makaleler, kalan site sonuçları en sonda.
+  const baslikta = (d: { baslik: string }) => kelimeler.every((k) => kucult(d.baslik).includes(k))
+  return [...siteden.filter(baslikta), ...makaleSonuclari.value, ...siteden.filter((d) => !baslikta(d))].slice(0, 7)
 })
 
 onMounted(() => { if (props.otomatikOdak) girdi.value?.focus() })
@@ -77,7 +92,7 @@ function gonder() {
     <input
       id="site-arama" ref="girdi" v-model="sorgu" type="search" autocomplete="off"
       placeholder="Aradığınız konu, mevzuat, yapı türü veya terimi yazın..."
-      @focus="odak = true; makaleleriYukle()" @blur="odak = false"
+      @focus="odak = true" @blur="odak = false"
     >
     <button type="submit" class="btn btn-amber">Ara <Ikon ad="ara" /></button>
     <ul v-if="odak && sorgu.trim().length >= 2" class="arama-sonuc">
