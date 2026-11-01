@@ -423,9 +423,9 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 .yol::before{content:"";position:absolute;left:4%;right:4%;top:24px;height:2px;background:var(--amber)}
 .yol li{display:flex;flex-direction:column;align-items:center;gap:14px;position:relative}
 .yol .no{width:48px;height:48px;font-size:20px}
-.yol-kart{width:100%;flex:1;background:rgba(14,14,14,.72);border:1px solid var(--line-d);border-radius:12px;padding:16px 10px 16px 12px}
+.yol-kart{width:100%;flex:1;background:rgba(14,14,14,.72);border:1px solid var(--line-d);border-radius:12px;padding:16px 10px}
 .yol-kart .ikon{font-size:34px;color:var(--amber)}
-.yol-kart h3{font-size:18px;margin-top:14px}
+.yol-kart h3{font-size:17.5px;margin-top:14px}
 .yol-kart p{margin:10px 0 0;font-size:13.5px;color:var(--muted-d);line-height:1.45}
 @media (max-width:1180px){#ygu-olma-yolu .iki-kolon{grid-template-columns:1fr}}
 @media (max-width:760px){.yol{grid-template-columns:repeat(2,1fr);row-gap:24px}.yol::before{display:none}.yol-kart{padding:16px 14px}.yol-kart h3{font-size:20px}}
