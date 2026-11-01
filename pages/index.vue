@@ -117,7 +117,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="surec-cizgi" aria-hidden="true"></span>
         <p class="surec-p1">{{ SUREC.metin }}</p>
         <p>{{ SUREC.metin2 }}</p>
-        <NuxtLink to="/ygu-hakkinda#gorevler" class="btn btn-amber">Süreci Detaylı İncele <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/yangin-guvenligi-yasam-dongusu" class="btn btn-amber">Süreci Detaylı İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ol class="surec">
         <li v-for="(a, i) in SUREC.adimlar" :key="a.baslik" class="surec-kart">

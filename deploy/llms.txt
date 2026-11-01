@@ -240,6 +240,31 @@ Yangın güvenliği, tasarımda belirlenen tedbirlerin doğru uygulanması, uygu
 3. Doğrulama: Uygulanan sistemlerin, proje, mevzuat ve teknik standartlara uygunluğu test, ölçüm ve belgelerle değerlendirilir.
 4. Süreklilik: Kullanım süresince sistemlerin işlevselliği; bakım, test, periyodik kontrol ve yapıdaki değişikliklerin değerlendirilmesiyle sürdürülür.
 
+## Yangın Güvenliğinde süreklilik: Projeden Kullanıma: YGU Rehberinde Yangın Güvenliğinin Yaşam Döngüsü
+
+Sayfa: https://ygurehberi.com/yangin-guvenligi-yasam-dongusu
+
+Bir yapının yangın güvenliği; doğru tasarım, hatasız uygulama, uygunluğun doğrulanması ve kullanım süresince etkinliğin korunmasıyla sağlanır. Bu sayfa, yangın güvenlik uzmanı (YGU) bakış açısıyla bu bütüncül süreci adım adım açıklar.
+
+Neden Bir Yaşam Döngüsü Yaklaşımı?: Yangın güvenliği, tek bir aşamada tamamlanan bir iş değil; yapının tasarımından kullanım ömrü boyunca yönetilmesi gereken dinamik bir süreçtir. YGU, bu sürecin belirli aşamalarında teknik değerlendirme, kontrol ve izleme faaliyetleriyle yapının güvenliğine katkı sağlar.
+
+1. Proje (Güvenliğin Tasarlaması): Yapının kullanım amacı, özellikleri ve yangın tehlikeleri değerlendirilir. Kaçış düzeni, yangın bölmeleri, algılama ve uyarı, söndürme, duman kontrolü ve itfaiye erişimi gibi tedbirler birlikte planlanır. Sistemlerin birbirine uyumu ve mevzuata uygunluğu tasarım aşamasında sağlanır. YGU'nun rolü: Projede öngörülen yangın güvenliği tedbirlerinin mevzuata ve teknik esaslara uygunluğunu değerlendirir.
+2. Uygulama (Tasarımın Yapıya Dönüşmesi): Projede belirlenen aktif ve pasif yangın güvenliği tedbirleri sahada hayata geçirilir. Yangın bölmeleri, tesisat geçişleri ve sistem kurulumları proje esaslarına uygun olarak tamamlanır. Uygulama sırasında ortaya çıkan değişiklikler, yangın güvenliği etkileri açısından değerlendirilir. YGU'nun rolü: Uygulama sürecinde teknik kontrol, uygunluk değerlendirmesi ve sahada gerekli tespitleri yapar.
+3. Doğrulama (Uygunluk ve İşlev Kontrolü): Gerçekleşen uygulamalar, onaylı proje, mevzuat ve ilgili standartlarla karşılaştırılır. Sistemlerin test, ölçüm ve devreye alma kayıtları incelenir. Alarm, kapı tutucu, duman kontrolü gibi birbirine bağlı sistemlerin öngörülen senaryolardaki işlevi doğrulanır. YGU'nun rolü: Uygulamanın bütüncül uygunluğunu değerlendirir, tespit edilen eksiklikler için teknik öneriler geliştirir ve raporlar.
+4. Süreklilik (Kullanım Boyunca Koruma): Sistemlerin bakım, test ve periyodik kontrolleri planlanır ve yürütülür. Üretim, depolama, yerleşim veya tesisat değişikliklerinin yangın güvenliğine etkileri değerlendirilir. Eksiklikler için düzeltici faaliyetler yapılarak güvenlik koşullarının sürekliliği sağlanır. YGU'nun rolü: Periyodik kontrol, değişiklik değerlendirmesi ve kullanım sürecindeki teknik durumun izlenmesine katkı sağlar.
+
+Örnek Uygulama: Üretim Tesisinde Yaşam Döngüsü: Proje: Üretim süreci, yangın yükü, çalışan sayısı ve yapı özelliklerine göre bütüncül yangın güvenliği projesi hazırlanır. Uygulama: Projede yer alan bölmeler, sistemler ve güvenlik tedbirleri sahada uygulanır; kritik detaylar kontrol edilir. Doğrulama: Uygulamanın proje ve mevzuata uygunluğu test, ölçüm ve belgelerle doğrulanır. Süreklilik: Tesis işletmeye alındıktan sonra bakım, test, periyodik kontrol ve yapılan değişikliklerin etkisi düzenli olarak yönetilir.
+
+YGU'nun Süreçteki Yeri: Yangın güvenlik uzmanı (YGU), mevzuatta tanımlanan görev ve yetkileri çerçevesinde; proje, uygulama, doğrulama ve kullanım sürecinde teknik değerlendirme, kontrol, izleme ve raporlama faaliyetleriyle yangın güvenliğinin sürekliliğine katkı sağlar.
+
+Süreçte Yer Alan Diğer Paydaşlar: Proje müellifleri (mimar, mühendis), Yapım yüklenicisi ve uygulayıcılar, Yapı sahibi / işletmeci, Bakım ve servis kuruluşları, Yetkili kurumlar. Yangın güvenliği, ortak sorumlulukla yönetilen bir süreçtir.
+
+Doğru Yönetilen Süreç Ne Sağlar? Can güvenliğini artırır. Maddi kayıpları ve iş kesintisini azaltır. Mevzuata uyumu ve yasal güvenceyi destekler. Yapının kullanım ömrü boyunca güvenliği korur.
+
+İlgili Mevzuat ve Teknik Çerçeve: Binaların Yangından Korunması Hakkında Yönetmelik, ilgili kılavuzlar, 3194 sayılı Kanun, İSG mevzuatı ve uygulanabilir standartlar, yangın güvenliğinin tasarım, uygulama, kontrol ve kullanım aşamalarına ilişkin temel çerçeveyi oluşturur.
+
+Sonuç: Yangın güvenliği; doğru planlama, nitelikli uygulama, objektif doğrulama ve etkin süreklilik yönetimi ile sağlanır. Bu sürecin etkin yürütülmesinde YGU'nun teknik değerlendirmeleri ve izleme faaliyetleri kritik bir rol oynar.
+
 ## YGU hangi yapılarda görev alır?
 
 Konutlardan endüstriyel tesislere kadar çok çeşitli yapı ve tesislerde yangın güvenliği değerlendirmesi, kontrol ve diğer görevleri üstlenir.

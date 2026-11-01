@@ -7,6 +7,7 @@ import {
 import { KONULAR, type KonuBlok } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
+import { YASAM_DONGUSU as Y } from '../../data/yasamDongusu'
 import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/yguBilgi'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
@@ -127,6 +128,28 @@ ${S.avantajlar.liste.map((a) => `- ${a.baslik}: ${a.metin}`).join('\n')}
 
 ${SUREC.metin} ${SUREC.metin2}
 ${SUREC.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+
+## ${Y.baslik} ${Y.vurgu.toLocaleLowerCase('tr')}: ${Y.altBaslik}
+
+Sayfa: ${u}/yangin-guvenligi-yasam-dongusu
+
+${Y.metin}
+
+${Y.neden.baslik}: ${Y.neden.metin}
+
+${Y.asamalar.map((a, i) => `${i + 1}. ${a.baslik} (${a.alt}): ${a.maddeler.join(' ')} YGU'nun rolü: ${a.rol}`).join('\n')}
+
+${Y.ornek.baslik}: ${Y.ornek.adimlar.map((a) => `${a.baslik}: ${a.metin}`).join(' ')}
+
+${Y.yer.baslik}: ${Y.yer.metin}
+
+${Y.paydaslar.baslik}: ${Y.paydaslar.liste.join(', ')}. ${Y.paydaslar.yan}
+
+${Y.saglar.baslik} ${Y.saglar.liste.join(' ')}
+
+${Y.mevzuat.baslik}: ${Y.mevzuat.metin}
+
+${Y.sonuc.baslik}: ${Y.sonuc.metin}
 
 ## YGU hangi yapılarda görev alır?
 

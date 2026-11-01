@@ -24,7 +24,7 @@ export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
-  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk'
+  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk' | 'hedef' | 'vinc' | 'terazi' | 'isci'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.

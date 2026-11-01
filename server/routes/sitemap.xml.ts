@@ -32,6 +32,11 @@ const SAYFALAR: Sayfa[] = [
     gorseller: ['vakalar-hero', ...VAKA_SAYFA.liste.map((v) => v.gorsel)]
   },
   {
+    yol: '/yangin-guvenligi-yasam-dongusu',
+    guncelleme: '2026-11-01',
+    gorseller: ['yd-hero', 'yd-neden', 'yd-proje', 'yd-uygulama', 'yd-dogrulama', 'yd-sureklilik', 'yd-tesis']
+  },
+  {
     yol: '/on-kayit',
     guncelleme: '2026-10-14',
     gorseller: ['on-kayit-hero', 'on-kayit-form']
