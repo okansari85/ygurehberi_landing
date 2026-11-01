@@ -113,16 +113,19 @@ export const CALISMA_ALANLARI = {
 
 export const YGU_YOLU = {
   ust: 'YGU Meslek ve Kariyer Rehberi',
-  baslik: 'Eğitimden Serbest Çalışmaya',
+  baslik: 'Eğitimden Belgelendirmeye',
   vurgu: 'YGU Olma Yolu',
-  metin: 'YGU olmak için izlenecek temel adımlar: Eğitim, sınav, belgelendirme, görevlendirme ve çalışma modelleri.',
+  // Metinler 1 Kasım 2026 tasarımından (design/ana-sayfa-yol.jpeg).
+  soru: 'Kimler yangın güvenlik uzmanı olabilir?',
+  metin: 'Hangi eğitimlerden geçilmeli, sınav ve belgelendirme koşulları nelerdir?',
+  metinVurgu: 'YGU olma sürecini adım adım öğrenin.',
+  dugme: 'YGU Olma Sürecini İncele',
   adimlar: [
-    { ikon: 'kep', baslik: 'Eğitim', metin: 'Seviyeye göre eğitim koşulları.' },
-    { ikon: 'saat', baslik: 'Eğitim Süreleri', metin: 'YGU-1,2,3 ve YGU-K için öngörülen süreler.' },
-    { ikon: 'sinav', baslik: 'Sınav', metin: 'Sınav yapısı ve başarı şartları.' },
-    { ikon: 'rozet', baslik: 'Belgelendirme', metin: 'Yetki belgesi ve geçerlilik süresi.' },
-    { ikon: 'ekip', baslik: 'Görevlendirme', metin: 'Hangi yapılarda, hangi şartlarla?' },
-    { ikon: 'kullanici', baslik: 'Serbest Çalışma', metin: 'YGU kendi adına çalışabilir mi?' }
+    { ikon: 'kep', baslik: 'Başvuru Şartları', metin: 'Kimler, hangi seviyeye başvurabilir?' },
+    { ikon: 'saat', baslik: 'Eğitim ve Süreleri', metin: 'Seviyelere göre eğitim koşulları ve süreleri.' },
+    { ikon: 'sinav', baslik: 'Sınav', metin: 'Sınav konuları ve başarı koşulları.' },
+    { ikon: 'rozet', baslik: 'Belgelendirme', metin: 'Yetki belgesinin alınması ve geçerliliği.' },
+    { ikon: 'ekip', baslik: 'Görevlendirme', metin: 'Yetki seviyesine göre görev alma koşulları.' }
   ] as { ikon: Ikon; baslik: string; metin: string }[]
 }
 

@@ -149,13 +149,12 @@ Yapı türleri ve görev kapsamına göre dört farklı YGU seviyesi bulunmaktad
 
 ## YGU nasıl olunur?
 
-YGU olma süreci, eğitim, sınav, belgelendirme ve görevlendirme aşamalarından oluşur. YGU olmak için izlenecek temel adımlar: Eğitim, sınav, belgelendirme, görevlendirme ve çalışma modelleri.
-1. Eğitim: Seviyeye göre eğitim koşulları.
-2. Eğitim Süreleri: YGU-1,2,3 ve YGU-K için öngörülen süreler.
-3. Sınav: Sınav yapısı ve başarı şartları.
-4. Belgelendirme: Yetki belgesi ve geçerlilik süresi.
-5. Görevlendirme: Hangi yapılarda, hangi şartlarla?
-6. Serbest Çalışma: YGU kendi adına çalışabilir mi?
+YGU olma süreci, eğitim, sınav, belgelendirme ve görevlendirme aşamalarından oluşur. Kimler yangın güvenlik uzmanı olabilir? Hangi eğitimlerden geçilmeli, sınav ve belgelendirme koşulları nelerdir? YGU olma sürecini adım adım öğrenin.
+1. Başvuru Şartları: Kimler, hangi seviyeye başvurabilir?
+2. Eğitim ve Süreleri: Seviyelere göre eğitim koşulları ve süreleri.
+3. Sınav: Sınav konuları ve başarı koşulları.
+4. Belgelendirme: Yetki belgesinin alınması ve geçerliliği.
+5. Görevlendirme: Yetki seviyesine göre görev alma koşulları.
 
 ## YGU eğitim, sınav ve belgelendirme
 

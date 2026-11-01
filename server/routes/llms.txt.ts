@@ -64,7 +64,7 @@ ${SEVIYELER.liste.map((s) => `- ${s.ad}: ${s.metin}`).join('\n')}
 
 ## YGU nasıl olunur?
 
-${NASIL_OLUNUR} ${YGU_YOLU.metin}
+${NASIL_OLUNUR} ${YGU_YOLU.soru} ${YGU_YOLU.metin} ${YGU_YOLU.metinVurgu}
 ${YGU_YOLU.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
 
 ## YGU eğitim, sınav ve belgelendirme
