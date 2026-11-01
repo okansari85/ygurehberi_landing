@@ -409,25 +409,24 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 .serbest .bolum-arka img{opacity:.8;object-position:80% 50%}
 .serbest h2{font-size:clamp(34px,3.8vw,50px)}
 .serbest p{max-width:540px;margin:12px 0 24px;font-size:clamp(16px,1.5vw,19px);color:#ECE8E1}
-/* YGU OLMA YOLU: design/ana-sayfa-yol.jpeg. Tasarım geniş; bölüm genel içerik genişliğini aşar. */
+/* YGU OLMA YOLU: design/ana-sayfa-yol.jpeg; genişlik diğer bölümlerle aynı (.wrap). */
 #ygu-olma-yolu{background:#0B0B0B}
 #ygu-olma-yolu .bolum-arka img{opacity:1;object-position:100% 50%}
 #ygu-olma-yolu .bolum-arka::after{display:none}
-#ygu-olma-yolu .wrap{max-width:1560px}
-#ygu-olma-yolu .iki-kolon{grid-template-columns:minmax(0,36%) minmax(0,1fr);gap:clamp(24px,2.4vw,40px)}
-#ygu-olma-yolu .sol h2{font-size:clamp(30px,2.95vw,46px)}
+#ygu-olma-yolu .iki-kolon{grid-template-columns:minmax(0,33%) minmax(0,1fr);gap:clamp(24px,2.4vw,32px)}
+#ygu-olma-yolu .sol h2{font-size:clamp(28px,2.6vw,35px)}
 #ygu-olma-yolu .sol h2 .vurgu{margin-top:8px;font-size:1.13em}
-#ygu-olma-yolu .sol .yol-giris{margin:24px 0 32px;padding-left:22px;border-left:5px solid var(--amber);font-size:clamp(17px,1.5vw,23px);line-height:1.42;color:#D9D6D0}
+#ygu-olma-yolu .sol .yol-giris{margin:22px 0 28px;padding-left:18px;border-left:4px solid var(--amber);font-size:clamp(16px,1.3vw,18px);line-height:1.45;color:#D9D6D0}
 .yol-giris strong{display:block;font-weight:600;color:#fff}
 .yol-giris strong.vurgu{color:var(--amber)}
-.yol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;position:relative}
-.yol::before{content:"";position:absolute;left:4%;right:4%;top:26px;height:2px;background:var(--amber)}
-.yol li{display:flex;flex-direction:column;align-items:center;gap:16px;position:relative}
-.yol .no{width:54px;height:54px;font-size:22px}
-.yol-kart{width:100%;flex:1;background:rgba(14,14,14,.72);border:1px solid var(--line-d);border-radius:12px;padding:clamp(14px,1.2vw,20px) clamp(10px,1vw,18px)}
-.yol-kart .ikon{font-size:38px;color:var(--amber)}
-.yol-kart h3{font-size:clamp(17px,1.4vw,23px);margin-top:18px}
-.yol-kart p{margin:12px 0 0;font-size:clamp(13.5px,1vw,16px);color:var(--muted-d);line-height:1.45}
+.yol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;position:relative}
+.yol::before{content:"";position:absolute;left:4%;right:4%;top:24px;height:2px;background:var(--amber)}
+.yol li{display:flex;flex-direction:column;align-items:center;gap:14px;position:relative}
+.yol .no{width:48px;height:48px;font-size:20px}
+.yol-kart{width:100%;flex:1;background:rgba(14,14,14,.72);border:1px solid var(--line-d);border-radius:12px;padding:16px 10px 16px 12px}
+.yol-kart .ikon{font-size:34px;color:var(--amber)}
+.yol-kart h3{font-size:18px;margin-top:14px}
+.yol-kart p{margin:10px 0 0;font-size:13.5px;color:var(--muted-d);line-height:1.45}
 @media (max-width:1180px){#ygu-olma-yolu .iki-kolon{grid-template-columns:1fr}}
 @media (max-width:760px){.yol{grid-template-columns:repeat(2,1fr);row-gap:24px}.yol::before{display:none}.yol-kart{padding:16px 14px}.yol-kart h3{font-size:20px}}
 @media (max-width:400px){.yol{grid-template-columns:1fr}}
