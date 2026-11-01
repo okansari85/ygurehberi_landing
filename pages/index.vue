@@ -335,7 +335,8 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 @media (max-width:960px){.hero-ic{grid-template-columns:1fr;min-height:0}.hero::before{background:linear-gradient(180deg,rgba(14,14,14,.86),rgba(14,14,14,.92))}}
 
 /* HIZLI KARTLAR */
-.hizli{padding:22px 0 44px}
+/* Alttaki şerit tasarımdaki gibi: amber üstünde siyah bölüm. */
+.hizli{padding:22px 0 44px;background:linear-gradient(90deg,#F5B000 0 3%,#111 3% 24.5%,#F5B000 24.5%) left bottom/100% 4px no-repeat}
 .hizli-slider{position:relative}
 .hizli-izgara{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 5 * 14px) / 6);gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;padding:6px 0 10px;margin:-6px 0 -10px}
 .hizli-izgara::-webkit-scrollbar{display:none}
@@ -359,22 +360,27 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:560px){.hizli-izgara{grid-auto-columns:calc((100% - 14px) / 2)}.hizli-kart h2{font-size:19px}}
 
 /* SÜREÇ */
+#surec{background:#0D1115;padding-bottom:calc(clamp(48px,6vw,80px) + 40px)}
+/* En alttaki boydan boya şerit ve sağda yükselen köşe (tasarım). */
+#surec::after{content:"";position:absolute;left:0;right:0;bottom:15px;height:56px;pointer-events:none;background:linear-gradient(#F5B000,#F5B000) left bottom/100% 6px no-repeat,url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 130 56'%3E%3Cpath fill='%23F5B000' d='M0 50C22 50 34 47 48 41L130 0V56H0Z'/%3E%3C/svg%3E") right bottom/130px 56px no-repeat}
 .surec-cizgi{display:block;width:96px;height:2px;margin-top:18px;background:var(--amber)}
-.sol p.surec-p1{margin-bottom:14px}
+#surec .sol p{color:#E4E0D9;font-size:15px}
+#surec .sol p.surec-p1{margin-bottom:14px}
 .surec{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
-.surec-kart{position:relative;background:var(--ink-2);border:1px solid var(--line-d);border-radius:var(--r);overflow:visible;display:flex;flex-direction:column}
-.surec-kart::after{content:"";position:absolute;left:-1px;right:-1px;bottom:-1px;height:16px;background:var(--amber);border-radius:0 0 var(--r) var(--r);clip-path:polygon(0 35%,35% 70%,70% 60%,100% 0,100% 100%,0 100%)}
-.surec-kart img{width:100%;height:auto;aspect-ratio:245/238;object-fit:cover;border-radius:var(--r) var(--r) 0 0}
-.surec-alt{position:relative;padding:14px 14px 32px;text-align:center}
+.surec-kart{position:relative;background:#16191C;border:1px solid rgba(255,255,255,.28);border-radius:14px;overflow:visible;display:flex;flex-direction:column}
+.surec-kart::after{content:"";position:absolute;left:-1px;right:-1px;bottom:-1px;height:18px;border-radius:0 0 14px 14px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 250 18' preserveAspectRatio='none'%3E%3Cpath fill='%23F5B000' d='M0 1C70 11 170 15 250 3V18H0Z'/%3E%3C/svg%3E") center/100% 100% no-repeat}
+.surec-kart img{width:100%;height:auto;aspect-ratio:245/238;object-fit:cover;border-radius:13px 13px 0 0}
+.surec-alt{position:relative;padding:14px 9% 36px}
 /* Numara, görselin içindeki rozetin üstüne oturur; boyutu bu yüzden kart genişliğine bağlı. */
 .surec-alt .no{position:absolute;top:0;left:7%;width:23%;height:auto;aspect-ratio:1;transform:translateY(-50%);font-size:clamp(15px,1.4vw,20px)}
 .no{display:grid;place-items:center;width:44px;height:44px;border-radius:50%;background:var(--amber);color:#111;font-family:var(--display);font-weight:800;font-size:18px}
-.surec-ikon{display:flex;justify-content:center;font-size:40px;color:#fff;margin-bottom:8px}
-.surec-kart h3{font-size:24px;text-transform:uppercase}
-.surec-kart p{margin:10px 0 0;font-size:13.5px;color:#E4E0D9;line-height:1.5}
-.surec-ok{position:absolute;right:-20px;top:58%;z-index:2;color:var(--amber);font-size:22px;display:flex}
+.surec-ikon{display:flex;justify-content:center;font-size:44px;color:#fff;margin-bottom:8px}
+.surec-kart h3{font-size:25px;text-transform:uppercase;text-align:center}
+.surec-kart p{margin:12px 0 0;font-size:13.5px;color:#E4E0D9;line-height:1.5}
+.surec-ok{position:absolute;right:-24px;top:56%;z-index:2;color:#F5B000;font-size:28px;display:flex}
+.surec-ok .ikon{stroke-width:3}
 @media (max-width:1100px){.surec{grid-template-columns:repeat(2,1fr)}.surec-ok{display:none}}
-@media (max-width:480px){.surec{grid-template-columns:1fr}.surec-alt .no{font-size:26px}}
+@media (max-width:480px){.surec{grid-template-columns:1fr}.surec-alt .no{font-size:26px}#surec::after{height:36px;background-size:100% 4px,84px 36px}}
 
 /* ÇALIŞMA ALANLARI */
 .yapilar{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
