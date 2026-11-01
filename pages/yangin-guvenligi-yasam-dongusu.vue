@@ -172,9 +172,9 @@ useSayfaSeo({
 <style scoped>
 /* HERO */
 .yd-hero{position:relative;overflow:hidden;background:#12161A;color:#fff}
-.yd-hero-bg{position:absolute;top:0;right:0;width:54%;height:100%;object-fit:cover;object-position:50% 20%;-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 22%);mask-image:linear-gradient(90deg,transparent 0,#000 22%)}
-.yd-hero-ic{position:relative;z-index:1;padding-top:clamp(56px,6.5vw,100px);padding-bottom:clamp(56px,6.5vw,100px)}
-.yd-hero h1{font-family:var(--body);font-size:clamp(34px,3.7vw,54px);font-weight:700;line-height:1.14;max-width:600px}
+.yd-hero-bg{position:absolute;top:0;right:0;width:58%;height:100%;object-fit:cover;object-position:0 20%;-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 10%);mask-image:linear-gradient(90deg,transparent 0,#000 10%)}
+.yd-hero-ic{position:relative;z-index:1;padding-top:clamp(52px,5vw,76px);padding-bottom:clamp(52px,5vw,76px)}
+.yd-hero h1{font-family:var(--body);font-size:clamp(34px,3.4vw,50px);font-weight:700;line-height:1.14;max-width:600px}
 .yd-hero h1 .vurgu{display:block;font-size:1.3em;line-height:1.1}
 .yd-alt-baslik{max-width:540px;margin:20px 0 22px;font-size:clamp(19px,1.7vw,23px);font-weight:500;line-height:1.35}
 .yd-hero-metin{max-width:540px;margin:0;padding-left:18px;border-left:3px solid var(--amber);font-size:16px;line-height:1.65;color:#E4E0D9}
