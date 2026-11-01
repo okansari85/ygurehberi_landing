@@ -23,7 +23,7 @@ RewriteRule ^yangin-guvenlik-uzmani-nasil-olunur/?$ /ygu-hakkinda/ygu-olma-sartl
 RewriteRule ^ygu-seviyeleri/?$ /ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri [R=301,L]
 RewriteRule ^ygu-egitim-sinav-belgelendirme/?$ /ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme [R=301,L]
 RewriteRule ^yangin-guvenlik-uzmani-gorevleri/?$ /ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri [R=301,L]
-RewriteRule ^calisma-alanlari/?$ /ygu-hakkinda/merak-edilenler/calisma-alanlari [R=301,L]
+RewriteRule ^ygu-hakkinda/merak-edilenler/calisma-alanlari/?$ /calisma-alanlari [R=301,L]
 RewriteRule ^ygu-serbest-calisma/?$ /ygu-hakkinda/merak-edilenler/ygu-serbest-calisma [R=301,L]
 
 # /ygu-hakkinda/ → /ygu-hakkinda

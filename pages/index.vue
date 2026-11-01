@@ -142,11 +142,11 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="ust yapi-ust">{{ CALISMA_ALANLARI.ust }}</span>
         <h2 id="alan-baslik">{{ CALISMA_ALANLARI.baslik }}</h2>
         <p>{{ ANA_CALISMA.metin }}</p>
-        <NuxtLink to="/ygu-hakkinda#seviyeler" class="btn btn-amber">Tüm Çalışma Alanlarını Gör <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/calisma-alanlari" class="btn btn-amber">Tüm Çalışma Alanlarını Gör <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="yapilar">
         <li v-for="y in ANA_CALISMA.yapilar" :key="y.ad">
-          <NuxtLink to="/ygu-hakkinda/merak-edilenler/calisma-alanlari" class="kart yapi-kart">
+          <NuxtLink to="/calisma-alanlari" class="kart yapi-kart">
             <img :src="`/img/${y.gorsel}.webp`" :alt="`${y.ad}: ${y.alt}`" width="371" height="165" loading="lazy">
             <div class="yapi-alt">
               <span class="yapi-ad"><strong>{{ y.ad }}</strong> {{ y.alt }}</span>
@@ -224,7 +224,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="ust">{{ KONTROL_SURELERI.ust }}</span>
         <h2 id="kontrol-baslik">{{ KONTROL_SURELERI.baslik }} <span class="vurgu">{{ KONTROL_SURELERI.vurgu }}</span></h2>
         <p>{{ KONTROL_SURELERI.metin }}</p>
-        <NuxtLink to="/#calisma-alanlari" class="btn btn-amber">Tüm Yapı Türleri ve Süreleri Gör <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/calisma-alanlari" class="btn btn-amber">Tüm Yapı Türleri ve Süreleri Gör <Ikon ad="ok" /></NuxtLink>
       </div>
       <div>
         <ul class="sureler">

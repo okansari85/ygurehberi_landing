@@ -8,6 +8,7 @@ import { KONULAR, type KonuBlok } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
 import { YASAM_DONGUSU as Y } from '../../data/yasamDongusu'
+import { CALISMA_SAYFA as CS, CA_YONETMELIK } from '../../data/calismaAlanlari'
 import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/yguBilgi'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
@@ -140,6 +141,32 @@ ${S.avantajlar.liste.map((a) => `- ${a.baslik}: ${a.metin}`).join('\n')}
 
 ${SUREC.metin} ${SUREC.metin2}
 ${SUREC.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+
+## ${CS.baslik}
+
+Sayfa: ${u}/calisma-alanlari
+
+${CS.metin}
+
+${CS.nasil.baslik} ${CS.nasil.metin} ${CS.nasil.giris}
+${CS.nasil.adimlar.map((a, i) => `${i + 1}. ${a.baslik} ${a.metin}`).join('\n')}
+
+${CS.seviye.baslik}:
+${CS.seviye.satirlar.map((s) => `- ${s.ad}: ${s.metin}`).join('\n')}
+
+Önemli: ${CS.seviye.onemli}
+
+Sonuç: ${CS.sonuc}
+
+${CS.alanlar.map((a) => `### ${a.ad}
+
+${CS.etiketler.kapsam}: ${a.kapsam}
+
+${CS.etiketler.ozellik}: ${a.ozellik}
+
+${CS.etiketler.ygu}: ${a.ygu}
+
+${CS.etiketler.dayanak} ${CA_YONETMELIK}, Madde ${a.madde}`).join('\n\n')}
 
 ## ${Y.baslik} ${Y.vurgu.toLocaleLowerCase('tr')}: ${Y.altBaslik}
 

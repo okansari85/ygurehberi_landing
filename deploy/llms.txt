@@ -15,7 +15,6 @@
 - [Yangın Güvenlik Uzmanı Nasıl Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): Kimler yangın güvenlik uzmanı olabilir? YGU olmak için başvuru koşulları, teorik ve uygulama eğitimi, sınav ve yetki belgesi süreci adım adım.
 - [Yangın Güvenlik Uzmanlığı Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): Yangın güvenlik uzmanlığında yetki seviyeleri: YGU-1, YGU-2, YGU-3 ve YGU-K kimler için öngörülüyor, hangi görevleri kapsıyor?
 - [Yangın Güvenlik Uzmanı Ne İş Yapar?](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri): Yangın güvenlik uzmanının görevleri: proje uygunluğu, yapı kullanma izni değerlendirmesi, periyodik kontroller, tatbikatlar; sahada ne yapar, hangi sorunlarla karşılaşır, rapor nasıl hazırlanır?
-- [Çalışma Alanları](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari): Hangi binalar yangın güvenliği periyodik kontrolüne tabi olacak? Yangın güvenlik uzmanının görev aldığı yapılar, kariyer olanakları ve işletmelerin YGU sistemine hazırlığı.
 - [YGU Hakkında › Mevzuat](https://ygurehberi.com/ygu-hakkinda/mevzuat): Yangın güvenlik uzmanlığı yönetmeliği neyi düzenliyor, hangi yapıları kapsıyor, ne zaman yürürlüğe giriyor? YGU sisteminin yasal çerçevesi.
 - [YGU Hakkında › YGU Olma Şartları](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari): Kimler yangın güvenlik uzmanı (YGU) olabilir? YGU-1, YGU-2, YGU-3 ve YGU-K için meslek şartları, genel koşullar ve eğitimden muafiyet.
 - [YGU Hakkında › Eğitim ve Belgelendirme](https://ygurehberi.com/ygu-hakkinda/egitim-ve-belgelendirme): Yangın güvenlik uzmanlığı eğitimi nasıl yapılır, sınavda kaç soru var, geçme notu kaç, yetki belgesi ne kadar geçerli? YGU eğitim, sınav ve belgelendirme süreci.
@@ -254,6 +253,129 @@ Yangın güvenliği, tasarımda belirlenen tedbirlerin doğru uygulanması, uygu
 3. Doğrulama: Uygulanan sistemlerin, proje, mevzuat ve teknik standartlara uygunluğu test, ölçüm ve belgelerle değerlendirilir.
 4. Süreklilik: Kullanım süresince sistemlerin işlevselliği; bakım, test, periyodik kontrol ve yapıdaki değişikliklerin değerlendirilmesiyle sürdürülür.
 
+## Yangın Güvenlik Uzmanlığı Çalışma Alanları
+
+Sayfa: https://ygurehberi.com/calisma-alanlari
+
+Yangın güvenlik uzmanları (YGU); konutlardan konaklama ve sağlık yapılarına, ticari binalardan endüstriyel tesislere kadar farklı kullanım amaçlarına sahip yapılarda, yetki seviyeleri ve mevzuatta belirlenen görev kapsamları doğrultusunda görev alabilir.
+
+YGU Çalışma Alanı Nasıl Belirlenir? Yangın güvenlik uzmanının (YGU) çalışma alanı, yalnızca binanın adına veya faaliyet türüne göre değil; binanın kullanım sınıfı, yapı özellikleri, yangın tehlike düzeyi ve uzmanın yetki seviyesi birlikte değerlendirilerek belirlenir. Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı'nın 5 ve 6'ncı maddeleri ile EK-1'i esas alındığında şu değerlendirme yapılır:
+1. Bina kullanım sınıfı belirlenir. Konut, konaklama, kurumsal, büro, ticaret, endüstri, toplanma, depolama, yüksek tehlikeli veya karışık kullanım sınıflarından hangisine girdiği tespit edilir.
+2. Yapının özellikleri incelenir. Kullanım sınıfına göre yapı büyüklüğü, kapasitesi, kullanım koşulları ve EK-1'de belirtilen sınır değerler değerlendirilir.
+3. Yangın tehlike düzeyi belirlenir. Özellikle endüstriyel ve depolama amaçlı yapılarda düşük, orta ve yüksek tehlike ayrımı yapılır.
+4. EK-1'deki yetki seviyesi belirlenir. Yapının özellikleriyle YGU-1, YGU-2, YGU-3 veya YGU-K yetki kapsamı karşılaştırılır.
+5. Özel hükümler kontrol edilir. Yüksek tehlikeli yapılar ve uluslararası standartlara göre tasarlanan binalar için getirilen özel görevlendirme şartları ayrıca değerlendirilir.
+
+YGU Seviyelerine Göre Çalışma Alanları:
+- YGU-1: EK-1 kapsamında 5 yıllık periyodik kontrole tabi küçük yapılar ve düşük tehlikeli tesisler.
+- YGU-2: YGU-1 kapsamına ek olarak daha büyük yapılar ve orta tehlikeli tesisler.
+- YGU-3: Tüm yapı sınıfları; yüksek tehlikeli yapılarda özel hükümler saklıdır.
+- YGU-K: Yüksek tehlikeli yapılarda tehlikeli maddelerin tespiti ve sınıflandırılmasına yönelik uzmanlık.
+
+Önemli: YGU-1 ve YGU-2, taslakta belirtilen uluslararası standartlara göre tasarlanmış binalarda görevlendirilemez. Yüksek tehlikeli yapılarda YGU-3 ile YGU-K'nın birlikte görev almasına ilişkin hükümler dikkate alınır.
+
+Sonuç: YGU'nun çalışma alanını belirleyen temel unsur, yapının kullanım sınıfı ve yangın tehlike düzeyinin EK-1'deki uzmanlık yetki seviyeleriyle eşleştirilmesidir. Yapının yalnızca konut, fabrika, otel veya depo olarak adlandırılması, görev alabilecek YGU seviyesini tek başına belirlemez.
+
+### Konutlar
+
+Kapsam ve Yapı Örnekleri: Müstakil evler, villalar, apartmanlar, rezidanslar, toplu konutlar, konut siteleri, yaşam alanları, konut yerleşkeleri, müstakil ve ortak yaşam alanlarından oluşan konut kompleksleri, ahşap evler ve binalar, yalılar, köşkler, prefabrik evler, konteyner konutlar, bungalov evler, bağ evleri, dağ evleri ve konut amaçlı kullanılan tiny house yapılar.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Yapı yüksekliği, kat sayısı, bağımsız bölüm düzeni, kullanıcı sayısı ve özellikleri, kaçış yolları, korunumlu merdivenler, yangın bölmelendirmesi ve gerekli yangın güvenliği sistemleri önem taşır.
+
+YGU Açısından Değerlendirme: Konut yapılarının yangın güvenliği koşulları, ilgili projeler ve teknik belgeler, kaçış düzenlemeleri, yangın güvenliği sistemleri ve kullanım sırasındaki değişiklikler değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 9
+
+### Konaklama Amaçlı Binalar
+
+Kapsam ve Yapı Örnekleri: Oteller, moteller, termal tesisler, tatil köyleri, pansiyonlar, apart oteller, butik oteller, misafirhaneler, konukevleri, öğrenci yurtları, kampingler, kamplar ve benzeri; kısa veya uzun süreli yatılı konaklama amacıyla kullanılan binalar.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Kullanıcıların binaya yabancı olması, uyku saatlerinde tahliye, oda ve ortak alanlar arasında yangın yayılımının sınırlandırılması, algılama-uyarı sistemleri ve acil aydınlatma önemlidir.
+
+YGU Açısından Değerlendirme: Yatak kapasitesi, kaçış düzenlemeleri, odalar ve ortak alanların yangın güvenliği, hedef projeler ve kullanım değişiklikleri değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 10
+
+### Kurumsal Binalar
+
+Kapsam ve Yapı Örnekleri: Eğitim tesisleri, okullar, üniversiteler, kreşler, anaokulları, gündüz bakımevleri, hastaneler, sağlık kuruluşları, huzurevleri, yaşlı ve engelli bakım merkezleri, rehabilitasyon merkezleri, bakım ve gözetim kuruluşları, tutukevleri, cezaevleri, ıslahevleri ve benzeri yapılar.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Kullanıcıların yaşı, hareket kabiliyeti ve özel ihtiyaçları, yatay/düşey tahliye, yangın bölmeleri, algılama-uyarı sistemleri ve personel organizasyonu önemlidir.
+
+YGU Açısından Değerlendirme: Yapının hizmet türü, kullanıcı özellikleri, kaçış ve tahliye düzenlemeleri ile yangın güvenliği sistemleri kapsamlı olarak değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 11
+
+### Büro Binaları
+
+Kapsam ve Yapı Örnekleri: Bankalar, borsalar, kamu hizmet binaları, genel büro binaları, idari binalar, iş merkezleri, şirket ofisleri, sigorta acenteleri, avukatlık büroları, mali müşavirlik, mimarlık ve mühendislik ofisleri, yazılım ofisleri, danışmanlık firmaları, doktor ve diş hekimi muayenehaneleri ve benzeri.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Kat sayısı, kullanıcı yoğunluğu, ofis yerleşimi, ortak alanlar, kaçış yolları, yangın bölmelendirmesi ve teknik hacimlerin korunması önemlidir.
+
+YGU Açısından Değerlendirme: Bina kullanım özellikleri, kat düzeni, kaçış yolları, ortak alanlar ve yangın güvenliği sistemleri, projeler ve mevcut kullanım durumu üzerinden değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 12
+
+### Ticaret Amaçlı Binalar
+
+Kapsam ve Yapı Örnekleri: Mağazalar, dükkânlar, marketler, süpermarketler, bakkallar, züccaciyeler, kırtasiyeler, nalburlar, giyim mağazaları, mobilya ve elektronik mağazaları, toptancı siteleri, haller, kapalı çarşılar, pasajlar, alışveriş merkezleri, tamirhaneler ve benzeri.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Kullanıcı yoğunluğu, alan düzeni, depolanan ürünlerin yanıcılığı, kaçış kapasitesi, yangın bölmelendirmesi ve duman kontrolü önemlidir.
+
+YGU Açısından Değerlendirme: Yapının kullanım amacı, kullanıcı yoğunluğu, mağaza yerleşimleri, kaçış düzenleri ve sistemlerin uygunluğu değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 13
+
+### Endüstriyel Tesisler
+
+Kapsam ve Yapı Örnekleri: Fabrikalar, imalathaneler, üretim tesisleri, atölyeler, tekstil, gıda, metal işleme, plastik, mobilya tesisleri, matbaalar, enerji üretim tesisleri, rafineriler ve benzeri; üretim, işleme, montaj, paketleme ve onarım faaliyetlerinin yürütüldüğü tesisler.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Üretim süreçleri, kullanılan maddeler, proses sıcaklıkları, patlayıcı ortam riski, depolama ve bölmelendirme, algılama-söndürme sistemleri önemlidir.
+
+YGU Açısından Değerlendirme: Tesisin kullanım özellikleri, üretim süreçleri, yangın tehlikeleri, teknik belgeler ve koruma tedbirleri değerlendirilir; yetki seviyesi ve özel uzmanlık gereksinimi dikkate alınır.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 14
+
+### Toplanma Amaçlı Binalar
+
+Kapsam ve Yapı Örnekleri: Restoranlar, kafeler, düğün salonları, sinemalar, tiyatrolar, konferans salonları, müzeler, sergi ve fuar alanları, ibadethaneler, spor salonları, stadyumlar, terminaller, garlar, havaalanları ve benzeri; insanların bir araya geldiği yapılar.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Yüksek kullanıcı sayısı, mekâna yabancılık, çıkış kapasitesi, kaçış yolları, yönlendirme ve acil durum aydınlatması önemlidir.
+
+YGU Açısından Değerlendirme: Kullanıcı kapasitesi, kaçış düzeni, oturma/etkinlik alanları, teknik belgeler ve kullanım değişiklikleri değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 15
+
+### Depolama Amaçlı Tesisler
+
+Kapsam ve Yapı Örnekleri: Depolar, antrepolar, lojistik depoları, e-ticaret depoları, soğuk hava depoları, silolar, arşivler, otoparklar, tank depolama alanları ve benzeri; mal, ürün, hammadde veya çeşitli maddelerin depolanması amacıyla kullanılan tesisler.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Depolanan maddelerin niteliği ve miktarı, istif ve raf düzeni, depolama yüksekliği, yangın yükü, söndürme sistemleri ve itfaiye erişimi önemlidir.
+
+YGU Açısından Değerlendirme: Depolanan maddeler, istif düzeni, yapı özellikleri, kaçış koşulları ve koruma sistemlerinin uygunluğu değerlendirilir; değişikliklerin etkisi ele alınır.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 16
+
+### Yüksek Tehlikeli Yerler
+
+Kapsam ve Yapı Örnekleri: Parlayıcı ve patlayıcı gazlar, patlayıcı maddeler, yanıcı sıvılar, akaryakıtlar ve özel tehlikeli maddelerin üretimi, işlenmesi, depolanması, doldurulması, boşaltılması veya satışıyla ilgili tesisler; akaryakıt ve LPG tesisleri, kimyasal işleme ve depolama alanları ve benzeri.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Maddelerin fiziksel ve kimyasal özellikleri, patlayıcı atmosfer riski, proses koşulları, güvenlik mesafeleri, algılama-söndürme sistemleri ve acil müdahale koşulları önemlidir.
+
+YGU Açısından Değerlendirme: Tehlikeli maddeler, proses özellikleri, depolama koşulları ve koruma sistemleri değerlendirilir; YGU-K uzmanlığı ve uygun yetki seviyesi dikkate alınır.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 17
+
+### Karışık Kullanım Amaçlı Binalar
+
+Kapsam ve Yapı Örnekleri: Konut, ticaret, büro, konaklama veya diğer kullanım amaçlarından birden fazlasını aynı yapıda bulunduran binalar; alt katları ticari, üst katları konut olan yapılar; otel ve ofis alanlarını birlikte içeren yapılar ve benzeri.
+
+Yangın Güvenliği Açısından Önemli Özellikler: Farklı kullanım alanlarının kullanıcı yoğunlukları, yangın tehlikeleri, çalışma saatleri ve tahliye koşulları birlikte değerlendirilir; yangın bölmelendirmesi ve ortak teknik altyapı önemlidir.
+
+YGU Açısından Değerlendirme: Yapının tüm kullanım alanları, alanlar arası ilişki, ortak yangın güvenliği düzenlemeleri ve ilgili kullanım sınıflarının gereklilikleri değerlendirilir.
+
+Mevzuat dayanağı: Binaların Yangından Korunması Hakkında Yönetmelik, Madde 18
+
 ## Yangın Güvenliğinde süreklilik: Projeden Kullanıma: YGU Rehberinde Yangın Güvenliğinin Yaşam Döngüsü
 
 Sayfa: https://ygurehberi.com/yangin-guvenligi-yasam-dongusu
@@ -308,7 +430,7 @@ Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerd
 - [Nasıl YGU Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.
 - [YGU Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.
 - [Görev ve Sorumluluklar](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri): YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.
-- [Çalışma Alanları](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari): YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.
+- [Çalışma Alanları](https://ygurehberi.com/calisma-alanlari): YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.
 - [Serbest Çalışma](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.
 - [Kısa Rehberler](https://ygurehberi.com/#rehberler): Sahada kullanabileceğiniz pratik rehberler.
 - [Vakalarla Öğren](https://ygurehberi.com/vakalarla-ogren): Gerçek yangın vakaları ve analizleri.
@@ -472,34 +594,6 @@ Yangın Güvenlik Uzmanı, saha kontrollerinde yalnızca yangın güvenliği eki
 ### Yangın Güvenlik Raporu Nasıl Hazırlanır?
 
 Yangın güvenlik raporu, yapılan kontrolün sonuçlarını ortaya koyar. Yangın Güvenlik Uzmanı yalnızca uygunsuzluğu belirtmekle yetinmez; tespitin yerini, konusunu ve teknik dayanağını ilgili raporlama usulüne göre açıklar. Örneğin kapanmayan bir yangın kapısının hangi konumda bulunduğu ve nasıl gözlemlendiği kayıt altına alınır.
-
-## Çalışma Alanları
-
-Kaynak sayfa: https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari
-
-> Mevzuat bilgilendirmesi: Bu makalede açıklanan yetkilendirme seviyeleri, eğitim, sınav ve periyodik kontrol takvimi, yönetmelik taslağında öngörülen çerçeveye dayanmaktadır. Nihai hükümler ve yürürlük durumu resmî mevzuat üzerinden doğrulanmalıdır.
-
-### Hangi Binalar Yangın Güvenliği Periyodik Kontrolüne Tabi Olacak?
-
-Kontrol kapsamı yapı kullanım sınıfları ve mevzuattaki diğer koşullara göre belirlenir. Endüstriyel tesisler, depolar, sağlık ve konaklama yapıları, eğitim binaları, alışveriş merkezleri ve toplu kullanım alanları önemli yapı gruplarıdır. Yangın Güvenlik Uzmanı yapının yalnızca faaliyet adına değil, kullanım sınıfına, teknik özelliklerine ve istisnalara da bakar. Geçiş tarihleri nihai düzenlemeden doğrulanmalıdır.
-
-- Konutlar ve Konut Siteleri
-- Konaklama Tesisleri (otel, motel, pansiyon)
-- Kurumsal Binalar (sağlık, eğitim vb.)
-- Büro Binaları (ofis ve yönetim)
-- Ticaret Amaçlı Binalar (mağaza, AVM, çarşı)
-- Endüstriyel Yapılar (fabrika, üretim tesisi)
-- Toplanma Amaçlı Binalar (sinema, tiyatro, spor salonu)
-- Depolama Amaçlı Tesisler (antrepo, depo, lojistik)
-- Yüksek Tehlikeli Yerler (yanıcı, patlayıcı maddeler)
-
-### İşletmeler Yangın Güvenlik Uzmanlığı Sistemine Nasıl Hazırlanmalı?
-
-İşletmeler mevcut yangın güvenliği projelerini, teknik sistemlerini, bakım ve test kayıtlarını, kaçış düzenlemelerini ve kullanım sırasında yapılan değişiklikleri gözden geçirmelidir. Yeni üretim hattı, farklı depolama düzeni veya kullanım amacı değişikliği mevcut yangın güvenliği koşullarını etkileyebilir. Yangın Güvenlik Uzmanının sağlıklı değerlendirmesi için doğru ve güncel teknik belgelere erişim önemlidir.
-
-### Yangın Güvenlik Uzmanlığı Kariyer ve Çalışma Alanları
-
-Yangın Güvenlik Uzmanlığı sistemi, ilgili mühendislik, mimarlık ve teknik meslek grupları için yeni çalışma alanları oluşturabilir. Çalışma olanakları yetki seviyelerine, uygulama biçimine ve kontrol kapsamındaki yapıların ihtiyaçlarına bağlıdır. Doğrulanmış veriler olmadan kesin gelir rakamları vermek doğru değildir.
 
 ## YGU Hakkında makaleleri
 

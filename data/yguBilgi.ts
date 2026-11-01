@@ -105,7 +105,7 @@ export const YGU_KATEGORILER: YguKategori[] = [
     aciklama: 'Yangın güvenlik uzmanı itfaiye ile nasıl çalışır, uygunluk görüşü nedir, tatbikat nasıl planlanır? YGU hakkında merak edilen diğer konular.',
     mevcut: [
       { baslik: 'Yangın Güvenlik Uzmanının Görevleri', ozet: 'YGU sahada ne yapar, hangi sorunlarla karşılaşır, rapor nasıl hazırlanır?', to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri' },
-      { baslik: 'Çalışma Alanları', ozet: 'YGU\'nun görev alabileceği yapılar ve kariyer alanları.', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
+      { baslik: 'Çalışma Alanları', ozet: 'YGU\'nun görev alabileceği yapılar ve kariyer alanları.', to: '/calisma-alanlari' },
       { baslik: 'Serbest Çalışma', ozet: 'YGU kendi adına çalışabilir mi, hangi hizmetleri verebilir?', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
       // SSS ana menüden kaldırıldı, buradan ulaşılır (kullanıcı 18 Ekim: "Merak Edilenler varsa SSS ana menüden kalksın")
       { baslik: 'Sık Sorulan Sorular', ozet: 'Yangın güvenlik uzmanlığı hakkında en çok sorulan sorular ve kısa yanıtları.', to: '/sss' }
@@ -131,8 +131,7 @@ export const KONU_KATEGORI: Record<string, string> = {
   'yangin-guvenlik-uzmani-nedir': 'mevzuat',
   'yangin-guvenlik-uzmani-nasil-olunur': 'ygu-olma-sartlari',
   'ygu-seviyeleri': 'ygu-olma-sartlari',
-  'yangin-guvenlik-uzmani-gorevleri': 'merak-edilenler',
-  'calisma-alanlari': 'merak-edilenler'
+  'yangin-guvenlik-uzmani-gorevleri': 'merak-edilenler'
 }
 export const konuYolu = (y: string) => `/ygu-hakkinda/${KONU_KATEGORI[y]}/${y}`
 

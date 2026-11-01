@@ -31,7 +31,7 @@ export type Ikon =
 export type MenuOge = { ad: string; to: string; yakinda?: boolean; alt?: MenuOge[] }
 export const MENU: MenuOge[] = [
   { ad: 'YGU Hakkında', to: '/ygu-hakkinda' }, // bölümler sayfa içindeki şeritte (YguBolumSeridi), açılır menü yok
-  { ad: 'Çalışma Alanları', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
+  { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
   { ad: 'Vakalarla Öğren', to: '/vakalarla-ogren' },
   {
     ad: 'Kaynaklar',
@@ -51,7 +51,7 @@ export const HERO_ETIKETLER: { ad: string; ikon: Ikon; to: string }[] = [
   { ad: 'YGU Nedir?', ikon: 'alev', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
   { ad: 'Nasıl YGU Olunur?', ikon: 'kep', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' },
   { ad: 'Eğitim ve Belgelendirme', ikon: 'belge', to: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme' },
-  { ad: 'Çalışma Alanları', ikon: 'bina', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
+  { ad: 'Çalışma Alanları', ikon: 'bina', to: '/calisma-alanlari' },
   { ad: 'Kontrol Süreleri', ikon: 'takvimOnay', to: '/#kontrol-sureleri' },
   { ad: 'Vakalarla Öğren', ikon: 'katman', to: '/vakalarla-ogren' }
 ]
@@ -69,7 +69,7 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
   { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur', gorsel: '/img/kart-nasil-olunur.webp' },
   { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri', gorsel: '/img/kart-seviyeler.webp' },
   { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.", to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri', gorsel: '/img/kart-gorevler.webp' },
-  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: "YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.", to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari', gorsel: '/img/kart-calisma-alanlari.webp' },
+  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: "YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.", to: '/calisma-alanlari', gorsel: '/img/kart-calisma-alanlari.webp' },
   { ikon: 'canta', baslik: 'Serbest Çalışma', metin: "YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.", to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma', gorsel: '/img/kart-serbest.webp' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler', gorsel: '/img/rehber-endustriyel.webp', rozet: true },
   { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/vakalarla-ogren', gorsel: '/img/vakalar-hero.webp', rozet: true }
@@ -589,7 +589,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           "tip": "yapilar"
         }
       ],
-      "to": "/ygu-hakkinda/merak-edilenler/calisma-alanlari#periyodik-kontrol"
+      "to": "/calisma-alanlari"
     }
   ]
 

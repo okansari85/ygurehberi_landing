@@ -22,7 +22,7 @@ export type Konu = {
   bloklar: KonuBlok[]
 }
 
-export const KONULAR: Record<string, Konu> = {
+const TUM_KONULAR: Record<string, Konu> = {
   "yangin-guvenlik-uzmani-nedir": {
     "kart": "YGU Nedir?",
     "ust": "Yangın Güvenlik Uzmanlığı",
@@ -523,6 +523,11 @@ export const KONULAR: Record<string, Konu> = {
     ]
   }
 }
+
+// Çalışma Alanları artık /calisma-alanlari (data/calismaAlanlari.ts); eski konu metni yayımlanmaz, kaybolmasın diye burada durur (1 Kasım 2026).
+const { 'calisma-alanlari': ESKI_CALISMA_ALANLARI, ...YAYINDAKI_KONULAR } = TUM_KONULAR
+export { ESKI_CALISMA_ALANLARI }
+export const KONULAR: Record<string, Konu> = YAYINDAKI_KONULAR
 
 // Kullanıcının metni › "Yangın Güvenlik Uzmanlığı Hakkında Sık Sorulan Sorular"; SSS sayfasında mevcut soruların ardından gelir.
 export const SSS_DOCX: { soru: string; yanit: string }[] = [

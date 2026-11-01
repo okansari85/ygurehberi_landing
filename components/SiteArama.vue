@@ -10,7 +10,8 @@ const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
 
 const DIZIN = [
   ...HIZLI_KARTLAR.map((k) => ({ baslik: k.baslik, metin: k.metin, to: k.to })),
-  ...CALISMA_ALANLARI.yapilar.map((y) => ({ baslik: `${y.ad} ${y.alt}`, metin: 'Çalışma alanları', to: '/#calisma-alanlari' })),
+  ...CALISMA_ALANLARI.yapilar.map((y) => ({ baslik: `${y.ad} ${y.alt}`, metin: 'Çalışma alanları', to: '/calisma-alanlari' })),
+  { baslik: 'YGU Çalışma Alanları', metin: 'YGU çalışma alanı nasıl belirlenir, hangi yapılarda görev alır?', to: '/calisma-alanlari' },
   ...YGU_YOLU.adimlar.map((a) => ({ baslik: a.baslik, metin: a.metin, to: '/#ygu-olma-yolu' })),
   ...GOREVLER.liste.map((g) => ({ baslik: g.baslik, metin: g.metin, to: '/ygu-hakkinda#gorevler' })),
   ...SEVIYELER.liste.map((s) => ({ baslik: s.ad, metin: s.metin, to: '/ygu-hakkinda#seviyeler' })),

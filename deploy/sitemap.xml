@@ -51,6 +51,20 @@
     <image:image><image:loc>https://ygurehberi.com/img/vaka-acik-depo.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ygurehberi.com/calisma-alanlari</loc>
+    <lastmod>2026-11-01</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/ca-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-konut.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-konaklama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-kurumsal.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-buro.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-ticaret.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-endustriyel.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-toplanma.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-depolama.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-yapi-tehlikeli.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ygurehberi.com/yangin-guvenligi-yasam-dongusu</loc>
     <lastmod>2026-11-01</lastmod>
     <image:image><image:loc>https://ygurehberi.com/img/yd-hero.webp</image:loc></image:image>
@@ -650,18 +664,5 @@
     <loc>https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri</loc>
     <lastmod>2026-10-15</lastmod>
     <image:image><image:loc>https://ygurehberi.com/img/surec-dogrulama.webp</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari</loc>
-    <lastmod>2026-10-15</lastmod>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-ticaret.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-konut.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-konaklama.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-kurumsal.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-buro.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-endustriyel.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-toplanma.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-depolama.webp</image:loc></image:image>
-    <image:image><image:loc>https://ygurehberi.com/img/yapi-yuksek-tehlikeli.webp</image:loc></image:image>
   </url>
 </urlset>
