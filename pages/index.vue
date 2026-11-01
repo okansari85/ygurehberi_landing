@@ -185,19 +185,17 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
   <section id="gorevler" class="bolum bolum-gri" aria-labelledby="gorev-baslik">
     <div class="wrap">
       <div class="gorev-ust">
-        <div>
-          <span class="cizgi" />
-          <h2 id="gorev-baslik" class="gorev-baslik">{{ ANA_GOREVLER.baslik }}</h2>
-          <p>{{ ANA_GOREVLER.metin }}</p>
-        </div>
+        <span class="cizgi" />
+        <h2 id="gorev-baslik" class="gorev-baslik">{{ ANA_GOREVLER.baslik }}</h2>
+        <p>{{ ANA_GOREVLER.metin }}<br>{{ ANA_GOREVLER.metin2 }}</p>
         <NuxtLink to="/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri" class="btn btn-amber">Tüm Görevleri İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="gorevler">
         <li v-for="g in ANA_GOREVLER.liste" :key="g.baslik">
           <NuxtLink to="/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri" class="kart gorev-kart">
-            <img :src="`/img/${g.gorsel}.webp`" alt="" width="1536" height="1024" loading="lazy">
+            <img :src="`/img/${g.gorsel}.webp`" alt="" :width="g.genislik" height="241" loading="lazy">
             <div class="gorev-ic">
-              <h3><span class="gorev-ikon"><Ikon ad="pano" /></span>{{ g.baslik }}</h3>
+              <h3><span class="gorev-ikon"><Ikon :ad="g.ikon" /></span>{{ g.baslik }}</h3>
               <p>{{ g.metin }}</p>
               <span class="gorev-ok" aria-hidden="true"><Ikon ad="ok" /></span>
             </div>
@@ -406,17 +404,20 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:420px){.yapilar{grid-template-columns:1fr}}
 
 /* YGU OLMA YOLU */
-.gorev-ust{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:28px}
-.gorev-baslik{font-size:clamp(32px,3.4vw,46px)}
-.gorev-ust p{margin:10px 0 0;color:var(--muted);font-size:16.5px}
-.gorevler{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
-.gorev-kart{position:relative;display:flex;flex-direction:column;overflow:hidden;height:100%}
-.gorev-kart img{width:100%;aspect-ratio:16/10;object-fit:cover}
-.gorev-ic{display:flex;flex-direction:column;flex:1;padding:18px 18px 56px}
-.gorev-ic h3{display:flex;gap:12px;align-items:flex-start;font-size:20px;line-height:1.12}
-.gorev-ikon{display:grid;place-items:center;flex:none;width:34px;height:34px;border-radius:50%;border:1.5px solid var(--amber-2);color:var(--amber-2);font-size:18px}
-.gorev-ic p{margin:10px 0 0;color:var(--muted);font-size:14.5px;line-height:1.55}
-.gorev-ok{position:absolute;right:16px;bottom:16px;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--amber);color:#111;font-size:17px;transition:transform .2s ease}
+/* YGU'NUN GÖREVLERİ: design/ana-sayfa-gorevler.jpeg */
+#gorevler{background:#FAFAFA}
+.gorev-ust{margin-bottom:28px}
+.gorev-ust .cizgi{width:56px;margin-bottom:14px}
+.gorev-baslik{font-size:clamp(34px,3.4vw,48px);font-weight:800}
+.gorev-ust p{margin:10px 0 26px;color:#1B1B1B;font-size:clamp(15px,1.2vw,16.5px);line-height:1.65}
+.gorevler{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.gorev-kart{position:relative;display:flex;flex-direction:column;overflow:hidden;height:100%;border-radius:12px;border-color:#ECEBE9;box-shadow:0 12px 26px -20px rgba(0,0,0,.4)}
+.gorev-kart img{display:block;width:100%;height:auto;aspect-ratio:356/241;object-fit:cover}
+.gorev-ic{display:flex;flex-direction:column;flex:1;padding:18px 18px 62px}
+.gorev-ic h3{display:flex;gap:12px;align-items:center;min-height:50px;font-size:clamp(20px,1.65vw,22px);font-weight:800;line-height:1.15}
+.gorev-ikon{display:grid;place-items:center;flex:none;width:46px;height:46px;border-radius:50%;border:2px solid var(--amber);background:#FFF8DC;color:#6B5200;font-size:24px}
+.gorev-ic p{margin:14px 0 0;color:#26231F;font-size:14.5px;line-height:1.6}
+.gorev-ok{position:absolute;right:16px;bottom:16px;display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--amber);color:#111;font-size:20px;transition:transform .2s ease}
 .gorev-kart:hover .gorev-ok{transform:translateX(3px)}
 @media (max-width:1060px){.gorevler{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:560px){.gorevler{grid-template-columns:1fr}}

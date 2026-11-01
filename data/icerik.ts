@@ -150,13 +150,15 @@ export const YGU_YOLU = {
 // 2. kartın görseldeki metni okunamıyordu; Serbest Çalışma sayfasındaki aynı başlıklı metin kullanıldı.
 export const ANA_GOREVLER = {
   baslik: "YGU'nun Görevleri",
-  metin: 'YGU, mevzuatta tanımlanan kapsamda dört temel alanda faaliyet gösterir.',
+  // Metinler ve görseller 1 Kasım 2026 tasarımından (design/ana-sayfa-gorevler.jpeg).
+  metin: 'Yangın güvenlik uzmanı (YGU), yapıların yangın güvenliğini proje aşamasından kullanım sürecine kadar farklı yönleriyle değerlendirir.',
+  metin2: 'Proje uygunluğu, yapı kullanma izni, periyodik kontroller ve yangın tatbikatlarına ilişkin dört temel görevini, mevzuatta belirlenen yetki ve sorumluluk sınırları içinde yürütür.',
   liste: [
-    { baslik: 'Proje İnceleme ve Uygunluk Görüşü', metin: 'Yangın güvenliği projelerinin incelenmesi ve uygunluk görüşü verilmesi.', gorsel: 'surec-proje' },
-    { baslik: 'Yapı Kullanma İzni Aşamasında Değerlendirme', metin: 'Projede öngörülen yangın güvenliği tedbirlerinin uygulamadaki karşılığının ve sistemlerin test ve devreye alma belgelerinin değerlendirilmesi.', gorsel: 'yapi-ticaret' },
-    { baslik: 'Yangın Güvenlik Periyodik Kontrolü', metin: 'Mevcut yapıların periyodik kontrol işlemlerinin yürütülmesi.', gorsel: 'surec-sureklilik' },
-    { baslik: 'Yangın Tatbikatlarının Planlanması', metin: 'Yapılarda yangın tatbikatlarının planlanması ve uygulama süreçlerinin değerlendirilmesi.', gorsel: 'rehber-acil-aydinlatma' }
-  ]
+    { baslik: 'Proje İnceleme ve Uygunluk Görüşü', ikon: 'belge', metin: 'Yangın güvenliği projeleri incelenir; mevzuat ve teknik esaslara göre gerekli uygunluk görüşü oluşturulur.', gorsel: 'ana-gorev-proje', genislik: 355 },
+    { baslik: 'Yapı Kullanma İzni Aşamasında Değerlendirme', ikon: 'pano', metin: 'Yapıdaki yangın güvenliği tedbirleri, uygulama ve test belgeleriyle karşılaştırılarak değerlendirilir.', gorsel: 'ana-gorev-izin', genislik: 358 },
+    { baslik: 'Yangın Güvenlik Periyodik Kontrolü', ikon: 'disli', metin: 'Kullanımdaki yapılarda, yangın güvenliği sistem ve donanımlarının mevcut durumu belirli periyotlarda kontrol edilir ve raporlanır.', gorsel: 'ana-gorev-periyodik', genislik: 357 },
+    { baslik: 'Yangın Tatbikatlarının Planlanması', ikon: 'ekip', metin: 'Yangın tatbikatlarının senaryosu, görev dağılımı ve uygulama hazırlıkları planlanır; süreç değerlendirilir.', gorsel: 'ana-gorev-tatbikat', genislik: 356 }
+  ] as { baslik: string; ikon: Ikon; metin: string; gorsel: string; genislik: number }[]
 }
 
 export const ANA_SERBEST = {
