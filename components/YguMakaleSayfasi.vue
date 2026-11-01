@@ -29,7 +29,7 @@ useSayfaSeo({
       description: makale.ozet,
       abstract: makale.ozetle,
       inLanguage: 'tr-TR',
-      image: `${SITE.url}/img/hero-ana.webp`,
+      image: `${SITE.url}/img/hero-ygu.webp`,
       articleSection: kategori.ad,
       datePublished: makale.yayin,
       dateModified: guncel,

@@ -21,7 +21,7 @@ useSayfaSeo({
       inLanguage: 'tr-TR',
       isPartOf: { '@id': `${SITE.url}/#site` },
       about: { '@type': 'Thing', name: 'Yangın güvenlik uzmanlığı (YGU)' },
-      primaryImageOfPage: `${SITE.url}/img/hero-ana.webp`
+      primaryImageOfPage: `${SITE.url}/img/hero-ygu.webp`
     },
     sssSema([
       { soru: 'Yangın güvenlik uzmanı (YGU) nedir?', yanit: YGU_NEDIR },
@@ -35,7 +35,7 @@ useSayfaSeo({
   ]
 })
 
-useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/hero-ana.webp', fetchpriority: 'high' }] })
+useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/hero-ygu.webp', fetchpriority: 'high' }] })
 
 // Konu kutuları slider'ı: tarayıcının yatay kaydırması (scroll-snap); oklar birer kutu kaydırır.
 const serit = ref<HTMLElement>()
@@ -63,7 +63,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 <template>
   <!-- HERO -->
   <section class="hero" aria-labelledby="hero-baslik">
-    <img class="hero-bg" src="/img/hero-ana.webp" alt="" width="1600" height="900" fetchpriority="high">
+    <img class="hero-bg" src="/img/hero-ygu.webp" alt="" width="1600" height="900" fetchpriority="high">
     <div class="wrap hero-ic">
       <div class="hero-sol">
         <h1 id="hero-baslik"><span class="h1-ust">Yangın Güvenlik Uzmanı (YGU) Rehberi</span> Yangın Güvenliğinde <span class="vurgu">Tek ve Güvenilir Rehber</span></h1>

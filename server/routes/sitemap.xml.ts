@@ -14,7 +14,7 @@ const SAYFALAR: Sayfa[] = [
     yol: '/',
     guncelleme: '2026-10-14',
     gorseller: [
-      'hero-ana',
+      'hero-ygu',
       ...SUREC.adimlar.map((a) => a.gorsel),
       ...CALISMA_ALANLARI.yapilar.map((y) => y.gorsel),
       ...VAKALAR.liste.map((v) => v.gorsel),
