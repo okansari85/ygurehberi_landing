@@ -63,28 +63,28 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 <template>
   <!-- HERO -->
   <section class="hero" aria-labelledby="hero-baslik">
-    <img class="hero-bg" src="/img/hero-ana.webp" alt="" width="1536" height="1024" fetchpriority="high">
+    <img class="hero-bg" src="/img/hero-ana.webp" alt="" width="1600" height="900" fetchpriority="high">
     <div class="wrap hero-ic">
       <div class="hero-sol">
-        <h1 id="hero-baslik"><span class="h1-ust">Yangın Güvenlik Uzmanı (YGU) Rehberi</span> Yangın Güvenliğinde <span class="vurgu">Tek Rehber</span></h1>
-        <p>YGU hakkında güvenilir bilgiler, gerçek yangın vakaları ve uygulamaya yönelik teknik rehberler.</p>
+        <h1 id="hero-baslik"><span class="h1-ust">Yangın Güvenlik Uzmanı (YGU) Rehberi</span> Yangın Güvenliğinde <span class="vurgu">Tek ve Güvenilir Rehber</span></h1>
+        <p>YGU'nun görevleri, yetki sınırları, mevzuat, çalışma alanları, eğitim ve belgelendirme süreçleri ile gerçek yangın vakalarına dayalı teknik içeriklere tek bir yerden ulaşın.</p>
         <SiteArama buyuk />
         <ul class="hero-etiket">
-          <li v-for="e in HERO_ETIKETLER" :key="e.ad"><NuxtLink :to="e.to">{{ e.ad }}</NuxtLink></li>
+          <li v-for="e in HERO_ETIKETLER" :key="e.ad"><NuxtLink :to="e.to"><Ikon :ad="e.ikon" />{{ e.ad }}</NuxtLink></li>
         </ul>
       </div>
       <aside class="hero-kart" aria-labelledby="hero-kart-baslik">
         <div class="hero-kart-ust">
           <span class="hero-kart-alev"><Ikon ad="alev" /></span>
           <div>
-            <h2 id="hero-kart-baslik">Yangın Güvenlik Uzmanlığı</h2>
-            <p>Yeni bir uzmanlık dönemi başlıyor. İlk sen haberdar ol.</p>
+            <h2 id="hero-kart-baslik">YGU ile Güvenli Yapılar</h2>
+            <p>Tasarımdan kullanıma, yangın güvenliğinin tüm aşamalarında rehberiniz.</p>
           </div>
         </div>
-        <NuxtLink :to="ON_KAYIT.to" class="btn btn-amber hero-kart-btn">{{ ON_KAYIT.ad }} <Ikon ad="ok" /></NuxtLink>
         <ul>
           <li v-for="m in HERO_KART_MADDELER" :key="m.metin"><Ikon :ad="m.ikon" />{{ m.metin }}</li>
         </ul>
+        <NuxtLink :to="ON_KAYIT.to" class="btn btn-amber hero-kart-btn">{{ ON_KAYIT.ad }} <Ikon ad="ok" /></NuxtLink>
       </aside>
     </div>
   </section>
@@ -95,10 +95,13 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
       <button type="button" class="hizli-ok onceki" aria-label="Önceki konular" :disabled="basta" @click="kaydir(-1)"><Ikon ad="ok" /></button>
       <div ref="serit" class="hizli-izgara" @scroll.passive="uclariGuncelle">
       <NuxtLink v-for="k in HIZLI_KARTLAR" :key="k.baslik" :to="k.to" class="kart hizli-kart">
-        <span class="hizli-ikon"><Ikon :ad="k.ikon" /></span>
+        <span class="hizli-gorsel">
+          <img :src="k.gorsel" alt="" width="241" height="173" loading="lazy">
+          <span v-if="k.rozet" class="hizli-ikon"><Ikon :ad="k.ikon" /></span>
+        </span>
         <h2>{{ k.baslik }}</h2>
         <p>{{ k.metin }}</p>
-        <span class="ok-sag"><Ikon ad="ok" /></span>
+        <span class="hizli-dugme">Detayları İncele <Ikon ad="ok" /></span>
       </NuxtLink>
       </div>
       <button type="button" class="hizli-ok sonraki" aria-label="Sonraki konular" :disabled="sonda" @click="kaydir(1)"><Ikon ad="ok" /></button>
@@ -303,26 +306,30 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 <style scoped>
 /* HERO */
 .hero{position:relative;background:var(--ink);color:#fff;overflow:hidden}
-.hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:64% 12%}
-.hero::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(14,14,14,.94) 0%,rgba(14,14,14,.78) 34%,rgba(14,14,14,.15) 62%,rgba(14,14,14,.55) 100%)}
-.hero-ic{position:relative;z-index:2;display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:32px;align-items:center;padding-top:clamp(40px,5vw,64px);padding-bottom:clamp(36px,4.5vw,56px);min-height:480px}
-.hero-sol{max-width:600px}
-.hero h1{font-size:clamp(40px,4.6vw,64px);font-weight:800;text-transform:uppercase;line-height:.98}
-.hero h1 .vurgu{display:block;font-size:1.32em}
-.hero-sol > p{font-size:clamp(16px,1.35vw,19px);font-weight:500;margin:16px 0 22px;max-width:520px}
-.hero-etiket{list-style:none;display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0;padding:0}
-.hero-etiket a{display:inline-flex;align-items:center;min-height:34px;padding:0 14px;border-radius:999px;background:#fff;color:#111;font-size:13px;font-weight:600;text-decoration:none;transition:background .2s}
-.hero-etiket a:hover{background:var(--amber)}
+.hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:100% 30%}
+.hero::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(14,14,14,.94) 0%,rgba(14,14,14,.8) 36%,rgba(14,14,14,0) 60%)}
+.hero-ic{position:relative;z-index:2;display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:32px;align-items:center;padding-top:clamp(40px,5vw,64px);padding-bottom:clamp(36px,4.5vw,56px);min-height:560px}
+.hero-sol{max-width:640px}
+.hero h1{font-family:var(--body);font-size:clamp(32px,3.5vw,48px);font-weight:700;letter-spacing:-.01em;line-height:1.14}
+.hero h1 .vurgu{display:block;color:var(--amber)}
+.hero-sol > p{font-size:clamp(15px,1.15vw,17px);font-weight:400;margin:16px 0 22px;max-width:580px}
+.hero-etiket{list-style:none;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px;margin:16px 0 0;padding:0}
+.hero-etiket a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;height:100%;min-height:84px;padding:10px 6px;border:1px solid rgba(255,194,14,.45);border-radius:10px;background:rgba(14,14,14,.55);color:#fff;font-size:12px;font-weight:600;line-height:1.25;text-align:center;text-decoration:none;transition:border-color .2s, background .2s}
+.hero-etiket a .ikon{font-size:24px;color:var(--amber)}
+.hero-etiket a:hover{border-color:var(--amber);background:rgba(14,14,14,.85)}
+@media (max-width:560px){.hero-etiket{grid-template-columns:repeat(3,minmax(0,1fr))}}
 .hero-kart{background:rgba(14,14,14,.88);border:1px solid var(--line-d);border-radius:14px;padding:22px 20px;backdrop-filter:blur(6px)}
 .hero-kart-ust{display:flex;gap:14px;align-items:flex-start}
 .hero-kart-alev{font-size:46px;color:var(--amber);display:flex}
-.hero-kart h2{font-size:20px;text-transform:uppercase}
+.hero-kart h2{font-size:22px}
 .hero-kart-ust p{margin:6px 0 0;font-size:13.5px;color:var(--muted-d)}
-.hero-kart-btn{width:100%;margin:18px 0 16px}
-.hero-kart ul{list-style:none;margin:0;padding:0;display:grid;gap:12px;font-size:13px;color:#E4E0D9}
+.hero-kart-btn{width:100%;margin:18px 0 0}
+.hero-kart ul{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:12px;font-size:13px;color:#E4E0D9}
 .hero-kart li{display:flex;gap:12px;align-items:center}
 .hero-kart li .ikon{font-size:22px;color:var(--amber)}
-@media (max-width:960px){.hero-ic{grid-template-columns:1fr}.hero::before{background:linear-gradient(180deg,rgba(14,14,14,.86),rgba(14,14,14,.92))}}
+/* Geniş ekranda fotoğraf sola kayar: uzman, sağdaki kartın arkasında kalmaz (tasarımdaki gibi). */
+@media (min-width:961px){.hero-ic{min-height:clamp(560px,36vw,720px)}.hero-bg{left:-18%;right:auto;width:118%;max-width:none;object-position:50% 42%}}
+@media (max-width:960px){.hero-ic{grid-template-columns:1fr;min-height:0}.hero::before{background:linear-gradient(180deg,rgba(14,14,14,.86),rgba(14,14,14,.92))}}
 
 /* HIZLI KARTLAR */
 .hizli{padding:22px 0 44px}
@@ -336,11 +343,15 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 .hizli-ok.onceki{left:calc(var(--gutter) - 20px)}
 .hizli-ok.onceki .ikon{transform:rotate(180deg)}
 .hizli-ok.sonraki{right:calc(var(--gutter) - 20px)}
-.hizli-kart{position:relative;padding:20px 18px 44px;display:flex;flex-direction:column}
-.hizli-ikon{font-size:46px;color:var(--amber-2);display:flex;margin-bottom:14px}
-.hizli-kart h2{font-size:22px}
-.hizli-kart p{margin:8px 0 0;font-size:14px;color:var(--muted);line-height:1.45}
-.hizli-kart .ok-sag{position:absolute;right:16px;bottom:14px;font-size:18px}
+.hizli-kart{position:relative;padding:0 0 16px;display:flex;flex-direction:column;overflow:hidden}
+.hizli-gorsel{position:relative;display:block;aspect-ratio:241/173}
+.hizli-gorsel img{display:block;width:100%;height:100%;object-fit:cover}
+.hizli-ikon{position:absolute;left:14px;bottom:6px;width:46px;height:46px;display:grid;place-items:center;border-radius:12px;background:#fff;font-size:26px;color:var(--amber-2);box-shadow:0 6px 14px -8px rgba(0,0,0,.5)}
+.hizli-kart h2{font-size:24px;margin:8px 16px 0}
+.hizli-kart p{margin:8px 16px 14px;font-size:13.5px;color:var(--muted);line-height:1.45}
+.hizli-dugme{display:flex;align-items:center;justify-content:center;gap:10px;min-height:40px;margin:auto 16px 0;border:1px solid var(--amber);border-radius:10px;font-family:var(--display);font-size:16px;font-weight:700;color:#111;transition:background .2s}
+.hizli-dugme .ikon{font-size:18px;color:var(--amber-2)}
+a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:1100px){.hizli-izgara{grid-auto-columns:calc((100% - 2 * 14px) / 3)}}
 @media (max-width:560px){.hizli-izgara{grid-auto-columns:calc((100% - 14px) / 2)}.hizli-kart h2{font-size:19px}}
 

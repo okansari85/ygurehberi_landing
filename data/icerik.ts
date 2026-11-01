@@ -24,7 +24,7 @@ export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
-  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar'
+  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
@@ -46,32 +46,33 @@ export const MENU: MenuOge[] = [
 
 export const ON_KAYIT = { ad: 'YGU Olmak İçin Ön Kayıt', to: '/on-kayit' }
 
-export const HERO_ETIKETLER = [
-  { ad: 'YGU Nedir?', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
-  { ad: 'Nasıl Olunur?', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' },
-  { ad: 'Eğitim ve Sınav', to: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme' },
-  { ad: 'Serbest Çalışma', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
-  { ad: 'Çalışma Alanları', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
-  { ad: 'Kontrol Süreleri', to: '/#kontrol-sureleri' }
+// Hero metinleri ve etiketleri Oğuz'un 1 Kasım 2026 tasarımından.
+export const HERO_ETIKETLER: { ad: string; ikon: Ikon; to: string }[] = [
+  { ad: 'YGU Nedir?', ikon: 'alev', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
+  { ad: 'Nasıl YGU Olunur?', ikon: 'kep', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' },
+  { ad: 'Eğitim ve Belgelendirme', ikon: 'belge', to: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme' },
+  { ad: 'Çalışma Alanları', ikon: 'bina', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
+  { ad: 'Kontrol Süreleri', ikon: 'takvimOnay', to: '/#kontrol-sureleri' },
+  { ad: 'Vakalarla Öğren', ikon: 'katman', to: '/vakalarla-ogren' }
 ]
 
 export const HERO_KART_MADDELER: { ikon: Ikon; metin: string }[] = [
-  { ikon: 'kitap', metin: 'Eğitim, sınav ve belgelendirme gelişmeleri' },
-  { ikon: 'canta', metin: 'Görevlendirme ve çalışma fırsatları' },
-  { ikon: 'yapilar', metin: 'Yapı türlerine dair teknik rehberler' },
-  { ikon: 'uyari', metin: 'Yeni vaka analizleri ve uygulama örnekleri' }
+  { ikon: 'kalkan', metin: 'Güncel mevzuat ve uygulama bilgileri' },
+  { ikon: 'disli', metin: 'Sahaya yönelik teknik rehberler ve kontrol listeleri' },
+  { ikon: 'grafik', metin: 'Gerçek yangın vakalarıyla uygulamaya dönük dersler' }
 ]
 
-// Ana sayfadaki kayan kutular (slider); sıra ve metinler kullanıcının 13 Ekim örnek görselinden.
-export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: string }[] = [
-  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
-  { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'Eğitim, sınav ve belgelendirme süreci.', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' },
-  { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K farkları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri' },
-  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun hangi görevlerde yer aldığı.", to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri' },
-  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: 'Hangi yapılarda, hangi koşullarda görev alınabilir?', to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari' },
-  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: 'Kendi adına çalışma ve bağımsız hizmet imkânları.', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
-  { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler' },
-  { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/vakalarla-ogren' }
+// Ana sayfadaki kayan kutular (slider). İlk 6 kartın metni ve görseli Oğuz'un 1 Kasım 2026 tasarımından (design/ana-sayfa-kartlar.jpeg);
+// bu görsellerin rozeti resmin içinde. Son ikisinde tasarım yok: mevcut görsel + `rozet` (ikon kodla çizilir).
+export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: string; gorsel: string; rozet?: boolean }[] = [
+  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir', gorsel: '/img/kart-ygu-nedir.webp' },
+  { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur', gorsel: '/img/kart-nasil-olunur.webp' },
+  { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri', gorsel: '/img/kart-seviyeler.webp' },
+  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.", to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri', gorsel: '/img/kart-gorevler.webp' },
+  { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: "YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.", to: '/ygu-hakkinda/merak-edilenler/calisma-alanlari', gorsel: '/img/kart-calisma-alanlari.webp' },
+  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: "YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.", to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma', gorsel: '/img/kart-serbest.webp' },
+  { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler', gorsel: '/img/rehber-endustriyel.webp', rozet: true },
+  { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/vakalarla-ogren', gorsel: '/img/vakalar-hero.webp', rozet: true }
 ]
 
 export const SUREC = {

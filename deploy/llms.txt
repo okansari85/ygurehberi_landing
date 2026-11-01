@@ -265,12 +265,12 @@ Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerd
 
 ## Konular
 
-- [YGU Nedir?](https://ygurehberi.com/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir): Yangın güvenlik uzmanlığının tanımı, önemi ve kapsamı.
-- [Nasıl YGU Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): Eğitim, sınav ve belgelendirme süreci.
-- [YGU Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): YGU-1, YGU-2, YGU-3 ve YGU-K farkları.
-- [Görev ve Sorumluluklar](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri): YGU'nun hangi görevlerde yer aldığı.
-- [Çalışma Alanları](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari): Hangi yapılarda, hangi koşullarda görev alınabilir?
-- [Serbest Çalışma](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): Kendi adına çalışma ve bağımsız hizmet imkânları.
+- [YGU Nedir?](https://ygurehberi.com/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir): Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.
+- [Nasıl YGU Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.
+- [YGU Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.
+- [Görev ve Sorumluluklar](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri): YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.
+- [Çalışma Alanları](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/calisma-alanlari): YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.
+- [Serbest Çalışma](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.
 - [Kısa Rehberler](https://ygurehberi.com/#rehberler): Sahada kullanabileceğiniz pratik rehberler.
 - [Vakalarla Öğren](https://ygurehberi.com/vakalarla-ogren): Gerçek yangın vakaları ve analizleri.
 

@@ -91,7 +91,7 @@ function gonder() {
     <label for="site-arama" class="sr-only">Sitede ara</label>
     <input
       id="site-arama" ref="girdi" v-model="sorgu" type="search" autocomplete="off"
-      placeholder="Aradığınız konu, mevzuat, yapı türü veya terimi yazın..."
+      placeholder="Mevzuat, yapı türü, sistem veya konu başlığı ara..."
       @focus="odak = true" @blur="odak = false"
     >
     <button type="submit" class="btn btn-amber">Ara <Ikon ad="ara" /></button>

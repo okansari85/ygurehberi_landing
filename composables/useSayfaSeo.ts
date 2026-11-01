@@ -23,7 +23,7 @@ export const KURULUS = {
   knowsAbout: ['Yangın güvenlik uzmanı', 'Yangın güvenlik uzmanlığı', 'Yangın güvenliği', 'Binaların Yangından Korunması Hakkında Yönetmelik', 'Yangın güvenliği periyodik kontrolü']
 }
 
-export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ana.webp', gorselBoyut = [1536, 1024], makaleTarihi, jsonLd = [] }: Secenek) {
+export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ana.webp', gorselBoyut = [1600, 900], makaleTarihi, jsonLd = [] }: Secenek) {
   const url = `${SITE.url}${yol}`
   const resim = `${SITE.url}${gorsel}`
 
