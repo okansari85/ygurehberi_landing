@@ -232,13 +232,13 @@ Serbest çalışma, YGU'lara farklı sektörlerde çeşitli yapılarda görev al
 - Uzmanlık alanını geliştirme: Farklı yapı türlerinde edinilen deneyimle uzmanlığını artırma.
 - Geniş iş ağı: İşletmeler, proje ofisleri ve farklı sektörlerle çalışma fırsatı.
 
-## Yangın güvenliği süreci: Yangın Güvenliği projede başlar, sahada sınanır.
+## Yangın güvenliği süreci: Yangın Güvenliği Projede Başlar, süreklilikle sağlanır.
 
-Yangın güvenliği, yapının tasarım aşamasında alınan kararlarla şekillenir. Projelerde tanımlanan önlemler, uygulama ve kullanım süreçlerinde doğrulanır. YGU, bu sürecin farklı aşamalarında görev alır.
-1. Proje: Yangın güvenliği çözümleri tasarlanır.
-2. Uygulama: Tasarlanan sistemler ve önlemler hayata geçirilir.
-3. Doğrulama: Proje, belgeler ve gerçekleşen uygulama değerlendirilir.
-4. Süreklilik: Kullanım süresince güvenlik koşulları kontrol edilir.
+Yangın güvenliği, tasarımda belirlenen tedbirlerin doğru uygulanması, uygunluğunun doğrulanması ve yapının kullanımı süresince etkinliğinin korunmasıyla sağlanır. Yangın güvenlik uzmanı (YGU), mevzuatta tanımlanan görev ve yetkileri kapsamında bu sürecin ilgili aşamalarında değerlendirme, kontrol ve izleme çalışmaları yürütür.
+1. Proje: Yangın güvenliği gereksinimleri belirlenir, yapının özelliklerine ve mevzuata uygun koruma tedbirleri projelendirilir.
+2. Uygulama: Projede öngörülen aktif ve pasif yangın güvenliği sistemleri usulüne uygun şekilde hayata geçirilir.
+3. Doğrulama: Uygulanan sistemlerin, proje, mevzuat ve teknik standartlara uygunluğu test, ölçüm ve belgelerle değerlendirilir.
+4. Süreklilik: Kullanım süresince sistemlerin işlevselliği; bakım, test, periyodik kontrol ve yapıdaki değişikliklerin değerlendirilmesiyle sürdürülür.
 
 ## YGU hangi yapılarda görev alır?
 

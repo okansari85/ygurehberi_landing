@@ -114,18 +114,21 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
       <div class="sol">
         <span class="ust">{{ SUREC.ust }}</span>
         <h2 id="surec-baslik" class="buyuk">{{ SUREC.baslik }} <span class="vurgu">{{ SUREC.vurgu }}</span></h2>
-        <p>{{ SUREC.metin }}</p>
+        <span class="surec-cizgi" aria-hidden="true"></span>
+        <p class="surec-p1">{{ SUREC.metin }}</p>
+        <p>{{ SUREC.metin2 }}</p>
         <NuxtLink to="/ygu-hakkinda#gorevler" class="btn btn-amber">Süreci Detaylı İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ol class="surec">
         <li v-for="(a, i) in SUREC.adimlar" :key="a.baslik" class="surec-kart">
-          <img :src="`/img/${a.gorsel}.webp`" :alt="`${a.baslik}: ${a.metin}`" width="1024" height="1536" loading="lazy">
+          <img :src="`/img/${a.gorsel}.webp`" :alt="`${a.baslik}: ${a.metin}`" width="245" height="238" loading="lazy">
           <div class="surec-alt">
             <span class="no">{{ String(i + 1).padStart(2, '0') }}</span>
+            <span class="surec-ikon"><Ikon :ad="a.ikon" /></span>
             <h3>{{ a.baslik }}</h3>
             <p>{{ a.metin }}</p>
           </div>
-          <span v-if="i < SUREC.adimlar.length - 1" class="surec-ok" aria-hidden="true"><Ikon ad="ok" /></span>
+          <span v-if="i < SUREC.adimlar.length - 1" class="surec-ok" aria-hidden="true"><Ikon ad="ciftOk" /></span>
         </li>
       </ol>
     </div>
@@ -356,17 +359,22 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:560px){.hizli-izgara{grid-auto-columns:calc((100% - 14px) / 2)}.hizli-kart h2{font-size:19px}}
 
 /* SÜREÇ */
-.surec{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.surec-cizgi{display:block;width:96px;height:2px;margin-top:18px;background:var(--amber)}
+.sol p.surec-p1{margin-bottom:14px}
+.surec{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
 .surec-kart{position:relative;background:var(--ink-2);border:1px solid var(--line-d);border-radius:var(--r);overflow:visible;display:flex;flex-direction:column}
-.surec-kart img{width:100%;aspect-ratio:4/3.3;object-fit:cover;border-radius:var(--r) var(--r) 0 0}
-.surec-alt{position:relative;padding:30px 16px 18px}
-.surec-alt .no{position:absolute;top:-22px;left:14px}
+.surec-kart::after{content:"";position:absolute;left:-1px;right:-1px;bottom:-1px;height:16px;background:var(--amber);border-radius:0 0 var(--r) var(--r);clip-path:polygon(0 35%,35% 70%,70% 60%,100% 0,100% 100%,0 100%)}
+.surec-kart img{width:100%;height:auto;aspect-ratio:245/238;object-fit:cover;border-radius:var(--r) var(--r) 0 0}
+.surec-alt{position:relative;padding:14px 14px 32px;text-align:center}
+/* Numara, görselin içindeki rozetin üstüne oturur; boyutu bu yüzden kart genişliğine bağlı. */
+.surec-alt .no{position:absolute;top:0;left:7%;width:23%;height:auto;aspect-ratio:1;transform:translateY(-50%);font-size:clamp(15px,1.4vw,20px)}
 .no{display:grid;place-items:center;width:44px;height:44px;border-radius:50%;background:var(--amber);color:#111;font-family:var(--display);font-weight:800;font-size:18px}
-.surec-kart h3{font-size:19px;text-transform:uppercase}
-.surec-kart p{margin:8px 0 0;font-size:14px;color:var(--muted-d);line-height:1.45}
-.surec-ok{position:absolute;right:-15px;top:62%;z-index:2;color:var(--amber);font-size:22px;display:flex}
+.surec-ikon{display:flex;justify-content:center;font-size:40px;color:#fff;margin-bottom:8px}
+.surec-kart h3{font-size:24px;text-transform:uppercase}
+.surec-kart p{margin:10px 0 0;font-size:13.5px;color:#E4E0D9;line-height:1.5}
+.surec-ok{position:absolute;right:-20px;top:58%;z-index:2;color:var(--amber);font-size:22px;display:flex}
 @media (max-width:1100px){.surec{grid-template-columns:repeat(2,1fr)}.surec-ok{display:none}}
-@media (max-width:480px){.surec{grid-template-columns:1fr}}
+@media (max-width:480px){.surec{grid-template-columns:1fr}.surec-alt .no{font-size:26px}}
 
 /* ÇALIŞMA ALANLARI */
 .yapilar{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:12px}

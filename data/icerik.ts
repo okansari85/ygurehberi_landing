@@ -24,7 +24,7 @@ export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
-  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay'
+  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
@@ -77,16 +77,19 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
 
 export const SUREC = {
   ust: "YGU'nun Çalışma Yaklaşımı",
-  baslik: 'Yangın Güvenliği',
-  vurgu: 'Projede Başlar, Sahada Sınanır.',
+  baslik: 'Yangın Güvenliği Projede Başlar,',
+  vurgu: 'Süreklilikle Sağlanır.',
   metin:
-    'Yangın güvenliği, yapının tasarım aşamasında alınan kararlarla şekillenir. Projelerde tanımlanan önlemler, uygulama ve kullanım süreçlerinde doğrulanır. YGU, bu sürecin farklı aşamalarında görev alır.',
+    'Yangın güvenliği, tasarımda belirlenen tedbirlerin doğru uygulanması, uygunluğunun doğrulanması ve yapının kullanımı süresince etkinliğinin korunmasıyla sağlanır.',
+  metin2:
+    'Yangın güvenlik uzmanı (YGU), mevzuatta tanımlanan görev ve yetkileri kapsamında bu sürecin ilgili aşamalarında değerlendirme, kontrol ve izleme çalışmaları yürütür.',
+  // Metinler ve görseller 1 Kasım 2026 tasarımından (design/ana-sayfa-surec.png); görsellerin alt kenarındaki rozeti koddaki numara örter.
   adimlar: [
-    { baslik: 'Proje', metin: 'Yangın güvenliği çözümleri tasarlanır.', gorsel: 'surec-proje' },
-    { baslik: 'Uygulama', metin: 'Tasarlanan sistemler ve önlemler hayata geçirilir.', gorsel: 'surec-uygulama' },
-    { baslik: 'Doğrulama', metin: 'Proje, belgeler ve gerçekleşen uygulama değerlendirilir.', gorsel: 'surec-dogrulama' },
-    { baslik: 'Süreklilik', metin: 'Kullanım süresince güvenlik koşulları kontrol edilir.', gorsel: 'surec-sureklilik' }
-  ]
+    { baslik: 'Proje', ikon: 'plan', metin: 'Yangın güvenliği gereksinimleri belirlenir, yapının özelliklerine ve mevzuata uygun koruma tedbirleri projelendirilir.', gorsel: 'anasayfa-surec-proje' },
+    { baslik: 'Uygulama', ikon: 'aletler', metin: 'Projede öngörülen aktif ve pasif yangın güvenliği sistemleri usulüne uygun şekilde hayata geçirilir.', gorsel: 'anasayfa-surec-uygulama' },
+    { baslik: 'Doğrulama', ikon: 'pano', metin: 'Uygulanan sistemlerin, proje, mevzuat ve teknik standartlara uygunluğu test, ölçüm ve belgelerle değerlendirilir.', gorsel: 'anasayfa-surec-dogrulama' },
+    { baslik: 'Süreklilik', ikon: 'yenile', metin: 'Kullanım süresince sistemlerin işlevselliği; bakım, test, periyodik kontrol ve yapıdaki değişikliklerin değerlendirilmesiyle sürdürülür.', gorsel: 'anasayfa-surec-sureklilik' }
+  ] as { baslik: string; ikon: Ikon; metin: string; gorsel: string }[]
 }
 
 export const CALISMA_ALANLARI = {

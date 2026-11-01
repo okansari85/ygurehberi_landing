@@ -125,7 +125,7 @@ ${S.avantajlar.liste.map((a) => `- ${a.baslik}: ${a.metin}`).join('\n')}
 
 ## Yangın güvenliği süreci: ${SUREC.baslik} ${SUREC.vurgu.toLocaleLowerCase('tr')}
 
-${SUREC.metin}
+${SUREC.metin} ${SUREC.metin2}
 ${SUREC.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
 
 ## YGU hangi yapılarda görev alır?
