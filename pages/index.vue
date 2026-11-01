@@ -335,8 +335,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 @media (max-width:960px){.hero-ic{grid-template-columns:1fr;min-height:0}.hero::before{background:linear-gradient(180deg,rgba(14,14,14,.86),rgba(14,14,14,.92))}}
 
 /* HIZLI KARTLAR */
-/* Alttaki şerit tasarımdaki gibi: amber üstünde siyah bölüm. */
-.hizli{padding:22px 0 44px;background:linear-gradient(90deg,#F5B000 0 3%,#111 3% 24.5%,#F5B000 24.5%) left bottom/100% 4px no-repeat}
+.hizli{padding:22px 0 44px;border-bottom:4px solid #F5B000}
 .hizli-slider{position:relative}
 .hizli-izgara{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 5 * 14px) / 6);gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;padding:6px 0 10px;margin:-6px 0 -10px}
 .hizli-izgara::-webkit-scrollbar{display:none}
@@ -362,7 +361,7 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 /* SÜREÇ */
 #surec{background:#0D1115;padding-bottom:calc(clamp(48px,6vw,80px) + 40px)}
 /* En alttaki boydan boya şerit ve sağda yükselen köşe (tasarım). */
-#surec::after{content:"";position:absolute;left:0;right:0;bottom:15px;height:56px;pointer-events:none;background:linear-gradient(#F5B000,#F5B000) left bottom/100% 6px no-repeat,url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 130 56'%3E%3Cpath fill='%23F5B000' d='M0 50C22 50 34 47 48 41L130 0V56H0Z'/%3E%3C/svg%3E") right bottom/130px 56px no-repeat}
+#surec::after{content:"";position:absolute;left:0;right:0;bottom:0;height:56px;pointer-events:none;background:linear-gradient(#F5B000,#F5B000) left bottom/100% 6px no-repeat,url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 130 56'%3E%3Cpath fill='%23F5B000' d='M0 50C22 50 34 47 48 41L130 0V56H0Z'/%3E%3C/svg%3E") right bottom/130px 56px no-repeat}
 .surec-cizgi{display:block;width:96px;height:2px;margin-top:18px;background:var(--amber)}
 #surec .sol p{color:#E4E0D9;font-size:15px}
 #surec .sol p.surec-p1{margin-bottom:14px}
