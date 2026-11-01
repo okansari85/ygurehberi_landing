@@ -1,7 +1,7 @@
 <script setup lang="ts">
 // Ana sayfa: design/ana-sayfa.jpeg (bölüm sırası ve metinler birebir).
 import {
-  SITE, ON_KAYIT, HERO_ETIKETLER, HERO_KART_MADDELER, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI,
+  SITE, ON_KAYIT, HERO_ETIKETLER, HERO_KART_MADDELER, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, ANA_CALISMA,
   YGU_YOLU, ANA_GOREVLER, ANA_SERBEST, KONTROL_SURELERI, KONTROL_ARACI, VAKALAR, REHBERLER, YGU_NEDIR, NASIL_OLUNUR
 } from '~/data/icerik'
 
@@ -30,7 +30,7 @@ useSayfaSeo({
         soru: 'Yangın güvenliği kontrolleri kaç yılda bir yapılır?',
         yanit: `${KONTROL_SURELERI.metin} ${KONTROL_SURELERI.sureler.map((s) => `${s.metin}: ${sure(s.sure)}`).join('; ')}. ${KONTROL_SURELERI.not}`
       },
-      { soru: 'YGU hangi yapılarda görev alır?', yanit: `${CALISMA_ALANLARI.metin} ${CALISMA_ALANLARI.yapilar.map((y) => `${y.ad} ${y.alt}`).join(', ')}.` }
+      { soru: 'YGU hangi yapılarda görev alır?', yanit: `${ANA_CALISMA.metin} ${ANA_CALISMA.yapilar.map((y) => `${y.ad} (${y.alt})`).join(', ')}.` }
     ], '/')
   ]
 })
@@ -136,21 +136,23 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 
   <!-- ÇALIŞMA ALANLARI -->
   <section id="calisma-alanlari" class="bolum" aria-labelledby="alan-baslik">
+    <img class="yapi-dekor" src="/img/ana-yapi-dekor.webp" alt="" width="400" height="208" loading="lazy">
     <div class="wrap iki-kolon">
       <div class="sol">
-        <span class="ust">{{ CALISMA_ALANLARI.ust }}</span>
+        <span class="ust yapi-ust">{{ CALISMA_ALANLARI.ust }}</span>
         <h2 id="alan-baslik">{{ CALISMA_ALANLARI.baslik }}</h2>
-        <p>{{ CALISMA_ALANLARI.metin }}</p>
+        <p>{{ ANA_CALISMA.metin }}</p>
         <NuxtLink to="/ygu-hakkinda#seviyeler" class="btn btn-amber">Tüm Çalışma Alanlarını Gör <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="yapilar">
-        <li v-for="y in CALISMA_ALANLARI.yapilar" :key="y.ad" class="kart yapi-kart">
-          <img :src="`/img/${y.gorsel}.webp`" :alt="`${y.ad} ${y.alt}`" width="1536" height="1024" loading="lazy">
-          <div class="yapi-alt">
-            <span class="yapi-ikon"><Ikon :ad="y.ikon" /></span>
-            <span class="yapi-ad"><strong>{{ y.ad }}</strong> {{ y.alt }}</span>
-            <Ikon ad="ok" />
-          </div>
+        <li v-for="y in ANA_CALISMA.yapilar" :key="y.ad">
+          <NuxtLink to="/ygu-hakkinda/merak-edilenler/calisma-alanlari" class="kart yapi-kart">
+            <img :src="`/img/${y.gorsel}.webp`" :alt="`${y.ad}: ${y.alt}`" width="371" height="165" loading="lazy">
+            <div class="yapi-alt">
+              <span class="yapi-ad"><strong>{{ y.ad }}</strong> {{ y.alt }}</span>
+              <Ikon ad="asagi" />
+            </div>
+          </NuxtLink>
         </li>
       </ul>
     </div>
@@ -381,15 +383,27 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:1100px){.surec{grid-template-columns:repeat(2,1fr)}.surec-ok{display:none}}
 @media (max-width:480px){.surec{grid-template-columns:1fr}.surec-alt .no{font-size:26px}#surec::after{height:36px;background-size:100% 4px,84px 36px}}
 
-/* ÇALIŞMA ALANLARI */
-.yapilar{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
-.yapi-kart{overflow:hidden}
-.yapi-kart img{width:100%;aspect-ratio:16/8;object-fit:cover}
-.yapi-alt{display:flex;align-items:center;gap:12px;padding:12px 14px;font-size:13.5px;line-height:1.3}
-.yapi-ikon{font-size:32px;color:var(--amber-2);display:flex}
-.yapi-ad{flex:1;color:var(--muted)}
-.yapi-ad strong{display:block;color:#111;font-size:16px}
-@media (max-width:640px){.yapilar{grid-template-columns:repeat(2,1fr)}}
+/* ÇALIŞMA ALANLARI: design/ana-sayfa-yapilar.jpeg */
+#calisma-alanlari{position:relative;overflow:hidden;background:#fff}
+#calisma-alanlari > .wrap{position:relative;z-index:1}
+.yapi-dekor{position:absolute;left:0;bottom:0;width:min(26%,400px);height:auto;pointer-events:none}
+.yapi-ust{display:inline-block;margin-bottom:0;padding:8px 18px;border-radius:999px;background:#0B0B0B;color:var(--amber);font-size:15px}
+#calisma-alanlari .sol h2{position:relative;margin-top:22px;padding:20px 0;color:#0F1B3D;font-size:clamp(32px,3.2vw,46px);line-height:1.08}
+#calisma-alanlari .sol h2::before,#calisma-alanlari .sol h2::after{content:"";position:absolute;left:0;width:72px;height:5px;border-radius:3px;background:var(--amber)}
+#calisma-alanlari .sol h2::before{top:0}
+#calisma-alanlari .sol h2::after{bottom:0}
+#calisma-alanlari .sol p{margin:22px 0 28px;color:#20263A;font-size:16px;line-height:1.65}
+.yapilar{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.yapi-kart{display:block;overflow:hidden;height:100%;border-radius:14px;border-color:#EEEDEB;box-shadow:0 12px 26px -20px rgba(0,0,0,.4)}
+.yapi-kart img{display:block;width:100%;height:auto;aspect-ratio:371/165;object-fit:cover}
+.yapi-alt{display:flex;align-items:center;gap:10px;padding:14px 16px 16px;font-size:13.5px;line-height:1.35}
+.yapi-alt > .ikon{flex:none;font-size:22px;color:#0F1B3D}
+.yapi-alt > .ikon{stroke-width:2.4}
+.yapi-ad{flex:1;min-width:0;color:#20263A}
+.yapi-ad strong{display:block;margin-bottom:3px;font-family:var(--display);font-size:21px;font-weight:700;line-height:1.1;color:#0F1B3D}
+@media (max-width:1100px){.yapi-dekor{display:none}}
+@media (max-width:640px){.yapilar{grid-template-columns:repeat(2,minmax(0,1fr))}.yapi-alt{padding:12px}.yapi-ad strong{font-size:18px}}
+@media (max-width:420px){.yapilar{grid-template-columns:1fr}}
 
 /* YGU OLMA YOLU */
 .gorev-ust{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:28px}

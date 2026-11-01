@@ -1,7 +1,7 @@
 // /sitemap.xml: sayfalar ve sayfalarda görünen içerik görselleri (Google görsel site haritası). `nuxt generate` ile statik dosya olur.
 // Görsel listeleri data/icerik.ts'den gelir; sayfaya yeni görsel eklenince burası kendiliğinden güncellenir.
 // Konu sayfaları (data/konular.ts) kendiliğinden eklenir. Başka yeni sayfa: SAYFALAR'a ekle (ayrıca nitro.prerender.routes ve llms.txt).
-import { SITE, SUREC, CALISMA_ALANLARI, VAKALAR, REHBERLER, SEVIYELER, SERBEST_SAYFA } from '../../data/icerik'
+import { SITE, SUREC, CALISMA_ALANLARI, ANA_CALISMA, VAKALAR, REHBERLER, SEVIYELER, SERBEST_SAYFA } from '../../data/icerik'
 import { KONULAR } from '../../data/konular'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
@@ -16,7 +16,7 @@ const SAYFALAR: Sayfa[] = [
     gorseller: [
       'hero-ygu',
       ...SUREC.adimlar.map((a) => a.gorsel),
-      ...CALISMA_ALANLARI.yapilar.map((y) => y.gorsel),
+      ...ANA_CALISMA.yapilar.map((y) => y.gorsel),
       ...VAKALAR.liste.map((v) => v.gorsel),
       ...REHBERLER.liste.map((r) => r.gorsel)
     ]

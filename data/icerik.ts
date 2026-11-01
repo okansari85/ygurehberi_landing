@@ -111,6 +111,23 @@ export const CALISMA_ALANLARI = {
   ] as { ikon: Ikon; ad: string; alt: string; gorsel: string }[]
 }
 
+// Yalnız ana sayfa bölümü: metin ve görseller 1 Kasım 2026 tasarımından (design/ana-sayfa-yapilar.jpeg). Çalışma Alanları sayfası CALISMA_ALANLARI'nı kullanır.
+export const ANA_CALISMA = {
+  metin:
+    'Yangın güvenlik uzmanları (YGU); konutlardan konaklama ve kurumsal yapılara, ticari binalardan endüstriyel tesislere kadar farklı kullanım amaçlarına sahip yapılarda, yetki seviyeleri ve mevzuatta belirlenen görev kapsamları doğrultusunda görev alabilir.',
+  yapilar: [
+    { ad: 'Konutlar', alt: 'Apartman, site ve konut yapıları', gorsel: 'ana-yapi-konut' },
+    { ad: 'Konaklama Amaçlı Binalar', alt: 'Otel, motel, pansiyon ve benzeri', gorsel: 'ana-yapi-konaklama' },
+    { ad: 'Kurumsal Binalar', alt: 'Eğitim, sağlık, bakım ve benzeri', gorsel: 'ana-yapi-kurumsal' },
+    { ad: 'Büro Binaları', alt: 'Banka, ofis, idari ve hizmet binaları', gorsel: 'ana-yapi-buro' },
+    { ad: 'Ticaret Amaçlı Binalar', alt: 'Mağaza, AVM, çarşı ve benzeri', gorsel: 'ana-yapi-ticaret' },
+    { ad: 'Endüstriyel Tesisler', alt: 'Fabrika, üretim ve imalat tesisleri', gorsel: 'ana-yapi-endustriyel' },
+    { ad: 'Toplanma Amaçlı Binalar', alt: 'Sinema, tiyatro, spor salonu ve benzeri', gorsel: 'ana-yapi-toplanma' },
+    { ad: 'Depolama Amaçlı Tesisler', alt: 'Depo, antrepo, lojistik ve benzeri', gorsel: 'ana-yapi-depolama' },
+    { ad: 'Yüksek Tehlikeli Yerler', alt: 'Yanıcı ve patlayıcı madde bulunan yerler', gorsel: 'ana-yapi-tehlikeli' }
+  ]
+}
+
 export const YGU_YOLU = {
   ust: 'YGU Meslek ve Kariyer Rehberi',
   baslik: 'Eğitimden Belgelendirmeye',
