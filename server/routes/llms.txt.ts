@@ -73,30 +73,42 @@ Kaynak sayfa: ${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgele
 
 ${E.metin}
 
-### ${E.egitim.baslik}: ${E.egitim.alt}
+### ${E.basvuru.baslik}: ${E.basvuru.alt}
 
-${E.egitim.not}
+${E.basvuru.metin}
 
-${E.egitim.kimler.metin} ${E.egitim.sureler.metin}
-
-| Seviye | Kimler katılabilir? | Eğitim süresi |
+| Seviye | Kimler başvurabilir? | Eğitim süresi |
 | --- | --- | --- |
-${E.egitim.seviyeler.map((s) => `| ${s.ad} | ${s.kimler} | ${s.sure} |`).join('\n')}
+${E.basvuru.seviyeler.map((s) => `| ${s.ad} | ${s.kimler} | ${s.sure} |`).join('\n')}
 
-${E.egitim.icerik.baslik}: ${E.egitim.icerik.paragraflar.join(' ')}
+${E.basvuru.not}
+
+### ${E.egitim.baslik}
+
+${E.egitim.icerik.baslik}: ${E.egitim.icerik.maddeler.join(', ')}.
+
+${E.egitim.uygulama.baslik}: ${E.egitim.uygulama.metin}
+
+${E.egitim.odak.baslik}: ${E.egitim.odak.metin}
 
 ### ${E.sinav.baslik}: ${E.sinav.alt}
 
-${E.sinav.not}
+${E.sinav.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${[a.metin, ...(a.maddeler ?? [])].join(' ')}`).join('\n')}
 
-${E.sinav.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${[a.metin, a.vurgu, a.son].filter(Boolean).join(' ')}`).join('\n')}
+${E.sinav.not}
 
 ### ${E.belge.baslik}: ${E.belge.alt}
 
-${E.belge.not}
-
 - ${E.belge.gecerlilik.baslik}: ${E.belge.gecerlilik.deger}. ${E.belge.gecerlilik.metin}
 ${E.belge.maddeler.map((m) => `- ${m.baslik}: ${m.metin}`).join('\n')}
+
+### ${E.gorev.baslik}: ${E.gorev.alt}
+
+${E.gorev.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+
+${E.gorev.not}
+
+${E.dayanak.join(' ')}
 
 ## YGU serbest çalışma
 

@@ -43,8 +43,8 @@ const SAYFALAR: Sayfa[] = [
   },
   {
     yol: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme',
-    guncelleme: '2026-10-15',
-    gorseller: ['egitim-hero']
+    guncelleme: '2026-11-01',
+    gorseller: ['egitim-hero-baret']
   },
   {
     yol: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma',

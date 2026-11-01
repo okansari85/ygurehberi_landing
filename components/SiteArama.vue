@@ -22,10 +22,10 @@ const DIZIN = [
     ...k.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: k.kart, to: `${konuYolu(y)}#${b.id}` }] : []))
   ]),
   { baslik: 'YGU Eğitim, Sınav ve Belgelendirme', metin: EGITIM_SAYFA.metin, to: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme' },
-  ...(['egitim', 'sinav', 'belge'] as const).map((k) => ({
+  ...(['basvuru', 'egitim', 'sinav', 'belge', 'gorev'] as const).map((k) => ({
     baslik: `YGU ${EGITIM_SAYFA[k].baslik.toLocaleLowerCase('tr')}`,
     metin: EGITIM_SAYFA[k].alt,
-    to: `/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k}`
+    to: `/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k === 'gorev' ? 'gorevlendirme' : k}`
   })),
   { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
   ...SERBEST_SAYFA.hizmetler.liste.map((h) => ({ baslik: h.baslik, metin: 'Serbest çalışma: bağımsız hizmetler', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma#hizmetler' })),

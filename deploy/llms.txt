@@ -160,39 +160,54 @@ YGU olma süreci, eğitim, sınav, belgelendirme ve görevlendirme aşamalarınd
 
 Kaynak sayfa: https://ygurehberi.com/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme
 
-Yangın Güvenlik Uzmanı olmak isteyenler için mesleki başvuru koşulları, seviyelere göre eğitim süreleri, sınav ve belgelendirme süreci.
+Yangın güvenlik uzmanı (YGU) olmak isteyenlerin başvuru koşullarını, eğitim, sınav ve belgelendirme süreçlerini mevzuata uygun ve anlaşılır şekilde öğrenin.
 
-### Eğitim: Kimler Katılabilir, Eğitim Süreleri Ne Kadardır?
+### Başvuru Şartları: Kimler Başvurabilir?
 
-YGU eğitimleri; yangın güvenliği mevzuatı esas alınarak, seviyelere uygun içerik ve sürelerde düzenlenir.
+YGU eğitimine başvurabilecek adaylar; mezuniyet alanları ve ilgili uzmanlık seviyesine özgü koşullara göre belirlenir.
 
-YGU eğitimlerine katılabilmek için, her seviye için belirlenen mesleki koşullardan mezun olma şartı aranır. Her YGU seviyesi için alınması gereken eğitim süreleri mevzuatta belirlenmiştir.
-
-| Seviye | Kimler katılabilir? | Eğitim süresi |
+| Seviye | Kimler başvurabilir? | Eğitim süresi |
 | --- | --- | --- |
-| YGU-3 | YGU-2 belgesine sahip olup son bir yılda en az iki farklı bina kullanım sınıfından toplam dört yangın güvenliği raporu düzenleme koşulunu karşılayanlar | 40 saat |
-| YGU-2 | Mimarlar; inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendisleri | 85 saat |
-| YGU-1 | Makine, inşaat, elektrik ve elektronik-elektrik teknikerleri ile itfaiyecilik ön lisans mezunları | 65 saat |
-| YGU-K | Kimya mühendisleri ve kimya lisans mezunları | 35 saat |
+| YGU-1 | Makine, inşaat, elektrik, elektronik ve elektrik-elektronik alanlarındaki ilgili teknik ön lisans programları ile itfaiyecilik ön lisans mezunları. | 65 saat |
+| YGU-2 | Mimarlar ile inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendisliği lisans mezunları. | 85 saat |
+| YGU-3 | Geçerli YGU-2 belgesine sahip olup, son bir yıl içinde en az iki farklı bina kullanım sınıfından toplam en az dört yapıya ait yangın güvenlik raporunu usulüne uygun düzenlemiş olanlar. | 40 saat |
+| YGU-K | Kimya mühendisliği veya kimya lisans programı mezunları. | 35 saat |
 
-Eğitim İçeriği: Yangın güvenliği mevzuatı, yangın bilimi, yapı ve malzemelerin yangın davranışı, kaçış ve tahliye, yangın güvenlik sistemleri, teknik değerlendirme ve uygulama konuları seviyeye uygun eğitim modüllerinde ele alınır. YGU-K eğitimi ise tehlikeli maddelerin belirlenmesi ve sınıflandırılmasıyla ilgili uzmanlık konularına odaklanır.
+Başvuru koşulları yalnızca mezuniyetle sınırlı değildir. Adayların, ilgili yönetmelikte belirtilen genel şartları ve yeterlilik koşullarını da sağlaması gerekir.
 
-### Sınav: Nasıl Yapılır, Hangi Konuları Kapsar?
+### Eğitim Süreleri ve İçeriği
 
-YGU sınavı, yangın güvenliği mevzuatı esas alınarak düzenlenir.
+Eğitim İçeriği: Yangın güvenliği mevzuatı, Yangın bilimi, Yapı ve yapı malzemelerinin yangın davranışı, Kaçış ve tahliye, Aktif ve pasif yangın güvenlik sistemleri, Proje inceleme ve uygunluk değerlendirmesi, Periyodik kontrol ve raporlama, Tatbikat ve uygulamalar.
 
-1. Sınav Başvurusu: Eğitimini tamamlayan adaylar, belirlenen başvuru koşullarına göre YGU sınavına başvurur.
-2. Sınav Konu Başlıkları: Yangın güvenliği mevzuatı, yangın bilimi, yapı güvenliği, tahliye, yangın güvenlik sistemleri ve ilgili seviyenin teknik uzmanlık konuları.
-3. Değerlendirme ve Başarı Kriteri: Sınav, çoktan seçmeli sorular şeklinde yapılır. Başarılı sayılmak için 100 puan üzerinden en az 70 puan alınması gerekir.
-4. Sonuçların Duyurulması: Sınav sonuçları, belirlenen usulle duyurulur. Başarılı adaylar, belgelendirme aşamasına geçer.
+Eğitim Uygulaması: Eğitimler teorik ve uygulamalı olarak yürütülür. Uygulama eğitiminde, mahalli itfaiye teşkilatı gözetiminde iki farklı kullanım sınıfından iki yapıda yangın güvenlik raporu düzenlenmesi gerçekleştirilir.
 
-### Belgelendirme: YGU Belgesi Nasıl Alınır, Geçerlilik Süresi Nedir?
+YGU-K Eğitim Odak Alanı: Tehlikeli maddelerin özellikleri, belirlenmesi ve sınıflandırılması ile bu maddelere ilişkin yangın ve patlama tehlikelerinin değerlendirilmesi.
 
-Sınavda başarılı olan adaylar YGU yetki belgesi almaya hak kazanır. Belge, elektronik ortamda doğruluğu teyit edilebilecek şekilde Bakanlık tarafından düzenlenir.
+### Sınav: Sınav Süreci ve Başarı Şartları
 
-- Belgenin Geçerlilik Süresi: 5 yıl. YGU yetki belgesi beş yıl geçerlidir.
-- Yenileme: Belge, yeniden eğitime katılmadan sınava girilip başarılı olunmasıyla yenilenebilir. İki sınavda da başarılı olamayanların eğitime tekrar katılması gerekir. Geçerlilik süresi içinde yenilenmeyen belgelerin yetkisi, yenileme yapılana kadar askıya alınır.
-- Kayıt ve Sorgulama: Bakanlık, yetki belgesi almaya hak kazananların ve geçerli belge sahiplerinin ad, soyad ve YGU seviyesi bilgilerini; ayrıca yetkisi askıya alınan veya iptal edilen uzmanları resmî internet sayfasında duyurur.
+1. Sınav Başvurusu: Gerekli eğitim aşamalarını tamamlayan ve başvuru şartlarını sağlayan adaylar, ilan edilen usul ve takvime göre YGU sınavına başvurur.
+2. Sınav Konu Başlıkları: Sınav soruları, ilgili YGU seviyesinin eğitim müfredatı esas alınarak hazırlanır. YGU-K adayları, kendi uzmanlık alanlarına yönelik konulardan değerlendirilir.
+3. Değerlendirme ve Başarı Kriteri: Sınav çoktan seçmelidir. YGU-1, YGU-2 ve YGU-3 için en az 50 soru, YGU-K için en az 25 soru öngörülür. Başarı için 100 üzerinden en az 70 puan gerekir.
+4. Sonuçların Duyurulması: Sınav sonuçları yetkili Bakanlık tarafından ilan edilir. Başarılı adaylar, diğer belgelendirme şartlarını da sağlamaları halinde yetki belgesi düzenlenmesi aşamasına geçer.
+
+Sınavda başarısız olan veya geçerli mazeretle sınava katılamayan adaylar, yeniden eğitim almadan bir kez daha sınava girebilir. İkinci başarısızlıkta eğitimin tekrarlanması gerekir.
+
+### Belgelendirme: YGU Belgesi Nasıl Alınır ve Yenilenir?
+
+- Belgenin Geçerlilik Süresi: 5 yıl. YGU yetki belgesi, düzenlendiği tarihten itibaren beş yıl geçerlidir.
+- Yenileme: Belge sahipleri, geçerlilik süresi dolmadan yenileme sınavına girerek başarılı olmaları halinde yeniden eğitim almadan belgelerini yenileyebilir. İki sınavda da başarısız olanların eğitimi tekrar tamamlaması gerekir. Süresi içinde yenilenmeyen belgeler askıya alınır.
+- Kayıt ve Sorgulama: YGU belgelerine ilişkin kayıt, geçerlilik, askıya alma ve iptal işlemleri Bakanlık tarafından yürütülür. Yetkili uzmanlara ilişkin bilgiler resmî kanallardan duyurulur.
+
+### Görevlendirme: Hangi YGU, Hangi Yapıda Görev Alabilir?
+
+1. Yapı ve Görev Kapsamının Belirlenmesi: Yapının kullanım sınıfı, büyüklüğü, kullanım özellikleri ve yangın tehlike düzeyi incelenerek yapılacak yangın güvenliği değerlendirmesinin kapsamı belirlenir.
+2. Yetki Seviyesinin Kontrolü: Yapının özellikleri ve görevin niteliği, yönetmelikte tanımlanan YGU yetki seviyeleriyle karşılaştırılır. Yüksek tehlikeli yapılara ve özel uzmanlık gerektiren durumlara ilişkin hükümler dikkate alınır.
+3. Uygun YGU'nun Görevlendirilmesi: Gerekli yetki seviyesine ve geçerli belgeye sahip uzman, ilgili görevlendirme usulüne göre belirlenir. Periyodik kontrollerde mahalli itfaiye teşkilatının görev ve yetkileri esas alınır.
+4. İnceleme, Kontrol ve Raporlama: Görevlendirilen YGU, yetki ve görev kapsamına göre proje uygunluğu, yapı incelemesi, periyodik yangın güvenliği kontrolü, tatbikat veya ilgili raporlama işlemlerini yürütür.
+
+YGU belgesine sahip olmak, her yapıda ve her görevde çalışma yetkisi vermez. Görevlendirmelerde yapının özellikleri, uzmanlık seviyesi, görev kapsamı ve ilgili mevzuat hükümleri birlikte değerlendirilir.
+
+Bu sayfa, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı esas alınarak bilgilendirme amacıyla hazırlanmıştır. Başvuru, eğitim, sınav, belgelendirme ve görevlendirmeye ilişkin koşullar nihai düzenlemede değişebilir. Resmî uygulamalarda yürürlükteki mevzuat ve yetkili Bakanlık duyuruları esas alınır.
 
 ## YGU serbest çalışma
 

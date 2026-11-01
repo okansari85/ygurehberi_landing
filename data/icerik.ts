@@ -24,7 +24,7 @@ export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
-  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk' | 'hedef' | 'vinc' | 'terazi' | 'isci'
+  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk' | 'hedef' | 'vinc' | 'terazi' | 'isci' | 'sise'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
@@ -258,61 +258,80 @@ export const EGITIM_SAYFA = {
   baslik: 'YGU',
   vurgu: 'Eğitim, Sınav ve',
   baslik2: 'Belgelendirme',
-  metin: 'Yangın Güvenlik Uzmanı olmak isteyenler için mesleki başvuru koşulları, seviyelere göre eğitim süreleri, sınav ve belgelendirme süreci.',
-  egitim: {
-    baslik: 'Eğitim',
-    alt: 'Kimler Katılabilir, Eğitim Süreleri Ne Kadardır?',
-    not: 'YGU eğitimleri; yangın güvenliği mevzuatı esas alınarak, seviyelere uygun içerik ve sürelerde düzenlenir.',
-    kimler: {
-      baslik: 'Kimler Katılabilir?',
-      metin: 'YGU eğitimlerine katılabilmek için, her seviye için belirlenen mesleki koşullardan mezun olma şartı aranır.'
-    },
-    sureler: {
-      baslik: 'Eğitim Süreleri',
-      metin: 'Her YGU seviyesi için alınması gereken eğitim süreleri mevzuatta belirlenmiştir.'
-    },
-    // Tasarımdaki sıra: YGU-3, YGU-2, YGU-1, YGU-K.
+  metin: 'Yangın güvenlik uzmanı (YGU) olmak isteyenlerin başvuru koşullarını, eğitim, sınav ve belgelendirme süreçlerini mevzuata uygun ve anlaşılır şekilde öğrenin.',
+  basvuru: {
+    baslik: 'Başvuru Şartları',
+    alt: 'Kimler Başvurabilir?',
+    metin: 'YGU eğitimine başvurabilecek adaylar; mezuniyet alanları ve ilgili uzmanlık seviyesine özgü koşullara göre belirlenir.',
+    not: 'Başvuru koşulları yalnızca mezuniyetle sınırlı değildir. Adayların, ilgili yönetmelikte belirtilen genel şartları ve yeterlilik koşullarını da sağlaması gerekir.',
     seviyeler: [
-      { ad: 'YGU-3', kimler: 'YGU-2 belgesine sahip olup son bir yılda en az iki farklı bina kullanım sınıfından toplam dört yangın güvenliği raporu düzenleme koşulunu karşılayanlar', sure: '40 saat' },
-      { ad: 'YGU-2', kimler: 'Mimarlar; inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendisleri', sure: '85 saat' },
-      { ad: 'YGU-1', kimler: 'Makine, inşaat, elektrik ve elektronik-elektrik teknikerleri ile itfaiyecilik ön lisans mezunları', sure: '65 saat' },
-      { ad: 'YGU-K', kimler: 'Kimya mühendisleri ve kimya lisans mezunları', sure: '35 saat' }
-    ],
+      { ad: 'YGU-1', ikon: 'kep', kimler: 'Makine, inşaat, elektrik, elektronik ve elektrik-elektronik alanlarındaki ilgili teknik ön lisans programları ile itfaiyecilik ön lisans mezunları.', sure: '65 saat' },
+      { ad: 'YGU-2', ikon: 'kep', kimler: 'Mimarlar ile inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendisliği lisans mezunları.', sure: '85 saat' },
+      { ad: 'YGU-3', ikon: 'liste', kimler: 'Geçerli YGU-2 belgesine sahip olup, son bir yıl içinde en az iki farklı bina kullanım sınıfından toplam en az dört yapıya ait yangın güvenlik raporunu usulüne uygun düzenlemiş olanlar.', sure: '40 saat' },
+      { ad: 'YGU-K', ikon: 'sise', kimler: 'Kimya mühendisliği veya kimya lisans programı mezunları.', sure: '35 saat' }
+    ] as { ad: string; ikon: Ikon; kimler: string; sure: string }[]
+  },
+  egitim: {
+    baslik: 'Eğitim Süreleri ve İçeriği',
+    alt: 'Seviyelere göre eğitim süreleri, eğitim içeriği ve uygulama.',
     icerik: {
       baslik: 'Eğitim İçeriği',
-      paragraflar: [
-        'Yangın güvenliği mevzuatı, yangın bilimi, yapı ve malzemelerin yangın davranışı, kaçış ve tahliye, yangın güvenlik sistemleri, teknik değerlendirme ve uygulama konuları seviyeye uygun eğitim modüllerinde ele alınır.',
-        'YGU-K eğitimi ise tehlikeli maddelerin belirlenmesi ve sınıflandırılmasıyla ilgili uzmanlık konularına odaklanır.'
+      maddeler: [
+        'Yangın güvenliği mevzuatı', 'Yangın bilimi', 'Yapı ve yapı malzemelerinin yangın davranışı', 'Kaçış ve tahliye',
+        'Aktif ve pasif yangın güvenlik sistemleri', 'Proje inceleme ve uygunluk değerlendirmesi', 'Periyodik kontrol ve raporlama', 'Tatbikat ve uygulamalar'
       ]
+    },
+    uygulama: {
+      baslik: 'Eğitim Uygulaması',
+      metin: 'Eğitimler teorik ve uygulamalı olarak yürütülür. Uygulama eğitiminde, mahalli itfaiye teşkilatı gözetiminde iki farklı kullanım sınıfından iki yapıda yangın güvenlik raporu düzenlenmesi gerçekleştirilir.'
+    },
+    odak: {
+      baslik: 'YGU-K Eğitim Odak Alanı',
+      metin: 'Tehlikeli maddelerin özellikleri, belirlenmesi ve sınıflandırılması ile bu maddelere ilişkin yangın ve patlama tehlikelerinin değerlendirilmesi.'
     }
   },
   sinav: {
     baslik: 'Sınav',
-    alt: 'Nasıl Yapılır, Hangi Konuları Kapsar?',
-    not: 'YGU sınavı, yangın güvenliği mevzuatı esas alınarak düzenlenir.',
+    alt: 'Sınav Süreci ve Başarı Şartları',
+    not: 'Sınavda başarısız olan veya geçerli mazeretle sınava katılamayan adaylar, yeniden eğitim almadan bir kez daha sınava girebilir. İkinci başarısızlıkta eğitimin tekrarlanması gerekir.',
     adimlar: [
-      { ikon: 'belge', baslik: 'Sınav Başvurusu', metin: 'Eğitimini tamamlayan adaylar, belirlenen başvuru koşullarına göre YGU sınavına başvurur.' },
-      { ikon: 'liste', baslik: 'Sınav Konu Başlıkları', metin: 'Yangın güvenliği mevzuatı, yangın bilimi, yapı güvenliği, tahliye, yangın güvenlik sistemleri ve ilgili seviyenin teknik uzmanlık konuları.' },
-      { ikon: 'buyutec', baslik: 'Değerlendirme ve Başarı Kriteri', metin: 'Sınav, çoktan seçmeli sorular şeklinde yapılır. Başarılı sayılmak için 100 puan üzerinden', vurgu: 'en az 70 puan', son: 'alınması gerekir.' },
-      { ikon: 'grafik', baslik: 'Sonuçların Duyurulması', metin: 'Sınav sonuçları, belirlenen usulle duyurulur. Başarılı adaylar, belgelendirme aşamasına geçer.' }
-    ] as { ikon: Ikon; baslik: string; metin: string; vurgu?: string; son?: string }[]
+      { ikon: 'belge', baslik: 'Sınav Başvurusu', metin: 'Gerekli eğitim aşamalarını tamamlayan ve başvuru şartlarını sağlayan adaylar, ilan edilen usul ve takvime göre YGU sınavına başvurur.' },
+      { ikon: 'kitap', baslik: 'Sınav Konu Başlıkları', metin: 'Sınav soruları, ilgili YGU seviyesinin eğitim müfredatı esas alınarak hazırlanır. YGU-K adayları, kendi uzmanlık alanlarına yönelik konulardan değerlendirilir.' },
+      { ikon: 'hedef', baslik: 'Değerlendirme ve Başarı Kriteri', metin: 'Sınav çoktan seçmelidir.', maddeler: ['YGU-1, YGU-2 ve YGU-3 için en az 50 soru,', 'YGU-K için en az 25 soru öngörülür.', 'Başarı için 100 üzerinden en az 70 puan gerekir.'] },
+      { ikon: 'grafik', baslik: 'Sonuçların Duyurulması', metin: 'Sınav sonuçları yetkili Bakanlık tarafından ilan edilir. Başarılı adaylar, diğer belgelendirme şartlarını da sağlamaları halinde yetki belgesi düzenlenmesi aşamasına geçer.' }
+    ] as { ikon: Ikon; baslik: string; metin: string; maddeler?: string[] }[]
   },
   belge: {
     baslik: 'Belgelendirme',
-    alt: 'YGU Belgesi Nasıl Alınır, Geçerlilik Süresi Nedir?',
-    not: 'Sınavda başarılı olan adaylar YGU yetki belgesi almaya hak kazanır. Belge, elektronik ortamda doğruluğu teyit edilebilecek şekilde Bakanlık tarafından düzenlenir.',
+    alt: 'YGU Belgesi Nasıl Alınır ve Yenilenir?',
     sertifika: {
       ust: 'T.C.',
       kurum: 'Çevre, Şehircilik ve İklim Değişikliği Bakanlığı',
-      ad: 'Yangın Güvenlik Uzmanı (YGU) Belgesi',
-      alanlar: ['Adı Soyadı', 'T.C. Kimlik No', 'YGU Seviyesi', 'Belge Numarası', 'Düzenleme Tarihi']
+      ad: 'Yangın Güvenlik Uzmanı (YGU) Yetki Belgesi',
+      alanlar: ['Adı Soyadı', 'T.C. Kimlik No', 'Belge Numarası', 'Düzenleme Tarihi'],
+      not: 'Temsili YGU Yetki Belgesi'
     },
-    gecerlilik: { baslik: 'Belgenin Geçerlilik Süresi', deger: '5 yıl', metin: 'YGU yetki belgesi beş yıl geçerlidir.' },
+    gecerlilik: { baslik: 'Belgenin Geçerlilik Süresi', deger: '5 yıl', metin: 'YGU yetki belgesi, düzenlendiği tarihten itibaren beş yıl geçerlidir.' },
     maddeler: [
-      { ikon: 'yenile', baslik: 'Yenileme', metin: 'Belge, yeniden eğitime katılmadan sınava girilip başarılı olunmasıyla yenilenebilir. İki sınavda da başarılı olamayanların eğitime tekrar katılması gerekir. Geçerlilik süresi içinde yenilenmeyen belgelerin yetkisi, yenileme yapılana kadar askıya alınır.' },
-      { ikon: 'ekip', baslik: 'Kayıt ve Sorgulama', metin: 'Bakanlık, yetki belgesi almaya hak kazananların ve geçerli belge sahiplerinin ad, soyad ve YGU seviyesi bilgilerini; ayrıca yetkisi askıya alınan veya iptal edilen uzmanları resmî internet sayfasında duyurur.' }
+      { ikon: 'yenile', baslik: 'Yenileme', metin: 'Belge sahipleri, geçerlilik süresi dolmadan yenileme sınavına girerek başarılı olmaları halinde yeniden eğitim almadan belgelerini yenileyebilir. İki sınavda da başarısız olanların eğitimi tekrar tamamlaması gerekir. Süresi içinde yenilenmeyen belgeler askıya alınır.' },
+      { ikon: 'ekip', baslik: 'Kayıt ve Sorgulama', metin: 'YGU belgelerine ilişkin kayıt, geçerlilik, askıya alma ve iptal işlemleri Bakanlık tarafından yürütülür. Yetkili uzmanlara ilişkin bilgiler resmî kanallardan duyurulur.' }
     ] as { ikon: Ikon; baslik: string; metin: string }[]
-  }
+  },
+  gorev: {
+    baslik: 'Görevlendirme',
+    alt: 'Hangi YGU, Hangi Yapıda Görev Alabilir?',
+    not: 'YGU belgesine sahip olmak, her yapıda ve her görevde çalışma yetkisi vermez. Görevlendirmelerde yapının özellikleri, uzmanlık seviyesi, görev kapsamı ve ilgili mevzuat hükümleri birlikte değerlendirilir.',
+    adimlar: [
+      { ikon: 'yapilar', baslik: 'Yapı ve Görev Kapsamının Belirlenmesi', metin: 'Yapının kullanım sınıfı, büyüklüğü, kullanım özellikleri ve yangın tehlike düzeyi incelenerek yapılacak yangın güvenliği değerlendirmesinin kapsamı belirlenir.' },
+      { ikon: 'kalkan', baslik: 'Yetki Seviyesinin Kontrolü', metin: 'Yapının özellikleri ve görevin niteliği, yönetmelikte tanımlanan YGU yetki seviyeleriyle karşılaştırılır. Yüksek tehlikeli yapılara ve özel uzmanlık gerektiren durumlara ilişkin hükümler dikkate alınır.' },
+      { ikon: 'kullanici', baslik: "Uygun YGU'nun Görevlendirilmesi", metin: 'Gerekli yetki seviyesine ve geçerli belgeye sahip uzman, ilgili görevlendirme usulüne göre belirlenir. Periyodik kontrollerde mahalli itfaiye teşkilatının görev ve yetkileri esas alınır.' },
+      { ikon: 'belge', baslik: 'İnceleme, Kontrol ve Raporlama', metin: 'Görevlendirilen YGU, yetki ve görev kapsamına göre proje uygunluğu, yapı incelemesi, periyodik yangın güvenliği kontrolü, tatbikat veya ilgili raporlama işlemlerini yürütür.' }
+    ] as { ikon: Ikon; baslik: string; metin: string }[]
+  },
+  dayanak: [
+    'Bu sayfa, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı esas alınarak bilgilendirme amacıyla hazırlanmıştır.',
+    'Başvuru, eğitim, sınav, belgelendirme ve görevlendirmeye ilişkin koşullar nihai düzenlemede değişebilir. Resmî uygulamalarda yürürlükteki mevzuat ve yetkili Bakanlık duyuruları esas alınır.'
+  ]
 }
 
 // Serbest Çalışma sayfası (/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): design/serbest-calisma.jpeg. Metinler kullanıcının 15 Ekim tasarım görselinden birebir.
