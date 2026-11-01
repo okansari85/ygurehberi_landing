@@ -164,8 +164,9 @@ useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/ca-hero.webp', fetch
 /* LİSTE */
 .ca-liste{background:#fff;padding:clamp(24px,3vw,40px) 0 clamp(52px,6vw,88px)}
 .ca-kartlar{list-style:none;margin:30px 0 0;padding:0;display:grid;gap:22px}
-.ca-kart{display:grid;grid-template-columns:minmax(220px,24%) minmax(0,1fr);gap:clamp(18px,2vw,28px);padding:14px;border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 26px -22px rgba(0,0,0,.45)}
-.ca-gorsel{min-height:220px;overflow:hidden;border-radius:10px}
+.ca-kart{display:grid;grid-template-columns:minmax(260px,30%) minmax(0,1fr);gap:clamp(18px,2vw,28px);padding:14px;border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 26px -22px rgba(0,0,0,.45)}
+/* Yatay görsel kırpılmadan tam görünür; dikey kutuya zorlanırsa büyüyüp bulanıklaşır. */
+.ca-gorsel{align-self:center;aspect-ratio:371/165;overflow:hidden;border-radius:10px}
 .ca-gorsel img{display:block;width:100%;height:100%;object-fit:cover}
 .ca-gorsel-ikon{display:grid;place-items:center;background:#FFF4D6;font-size:92px;color:var(--amber-2)}
 .ca-icerik{display:flex;flex-direction:column;min-width:0;padding:6px 8px 0 0}
@@ -187,7 +188,6 @@ useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/ca-hero.webp', fetch
   .ca-iki{grid-template-columns:1fr}
   .ca-sol{padding-right:0;padding-bottom:32px;border-right:0;border-bottom:1px solid var(--line)}
   .ca-kart{grid-template-columns:1fr}
-  .ca-gorsel{min-height:0;aspect-ratio:371/165}
   .ca-gorsel-ikon{font-size:72px}
 }
 @media (max-width:760px){
