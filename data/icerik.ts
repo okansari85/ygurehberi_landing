@@ -68,7 +68,7 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
   { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir', gorsel: '/img/kart-ygu-nedir.webp' },
   { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur', gorsel: '/img/kart-nasil-olunur.webp' },
   { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri', gorsel: '/img/kart-seviyeler.webp' },
-  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.", to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri', gorsel: '/img/kart-gorevler.webp' },
+  { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.", to: '/yangin-guvenlik-uzmani-gorevleri', gorsel: '/img/kart-gorevler.webp' },
   { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: "YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.", to: '/calisma-alanlari', gorsel: '/img/kart-calisma-alanlari.webp' },
   { ikon: 'canta', baslik: 'Serbest Çalışma', metin: "YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.", to: '/serbest-calisma', gorsel: '/img/kart-serbest.webp' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler', gorsel: '/img/rehber-endustriyel.webp', rozet: true },
@@ -514,7 +514,7 @@ const SSS_ILK_BES: { soru: string; yanit: string; bloklar: KonuBlok[]; to: strin
           ]
         }
       ],
-      "to": "/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri#gorevler"
+      "to": "/yangin-guvenlik-uzmani-gorevleri#gorevler"
     },
     {
       "soru": "Yangın güvenlik uzmanı nasıl olunur?",

@@ -5,6 +5,7 @@ import {
   YGU_NEDIR, GOREVLER, SEVIYELER, NASIL_OLUNUR, SSS, EGITIM_SAYFA as E, SERBEST_SAYFA as S
 } from '../../data/icerik'
 import { KONULAR, type KonuBlok } from '../../data/konular'
+import { GOREVLER_SAYFA as GS } from '../../data/gorevler'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
 import { YASAM_DONGUSU as Y } from '../../data/yasamDongusu'
@@ -40,6 +41,7 @@ export default defineEventHandler((event) => {
 - [YGU Hakkında](${u}/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
+- [YGU Görevleri](${u}/yangin-guvenlik-uzmani-gorevleri): Proje inceleme, yapı kullanma izni değerlendirmesi, periyodik kontrol ve tatbikat görevleri, belgeler ve yetki sınırları
 - [YGU Serbest Çalışma](${u}/serbest-calisma): YGU kendi adına veya şirket üzerinden çalışabilir mi, görevlendirme, hizmet bedeli, bağımsızlık ve bilinmesi gerekenler
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}${konuYolu(y)}): ${k.aciklama}`).join('\n')}
 ${YGU_KATEGORILER.map((k) => `- [YGU Hakkında › ${k.ad}](${u}/ygu-hakkinda/${k.yol}): ${k.aciklama}`).join('\n')}
@@ -110,6 +112,28 @@ ${E.gorev.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
 ${E.gorev.not}
 
 ${E.dayanak.join(' ')}
+
+## ${GS.baslik}
+
+Kaynak sayfa: ${u}/yangin-guvenlik-uzmani-gorevleri
+
+${GS.metin}
+
+${GS.ozet.metin}
+
+${GS.ozet.not.etiket}: ${GS.ozet.not.metin}
+
+${GS.gorevler.map((g) => `### ${g.baslik}
+
+**${g.giris.baslik}** ${g.giris.metin.join(' ')}
+Yetki ve süre: ${g.giris.etiketler.map((e) => e.metin).join(', ')}
+${g.kartlar.map((k) => `- **${k.baslik}** ${k.metin.join(' ')}`).join('\n')}${g.not ? `\n\n${g.not.etiket}: ${g.not.metin}` : ''}`).join('\n\n').replaceAll('**', '')}
+
+### ${GS.ortak.baslik}
+
+${GS.ortak.kartlar.map((k) => `- ${k.baslik}: ${k.metin.join(' ')}`).join('\n')}
+
+${GS.ortak.not.etiket}: ${GS.ortak.not.metin}
 
 ## YGU serbest çalışma
 

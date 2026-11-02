@@ -87,6 +87,15 @@
     <image:image><image:loc>https://ygurehberi.com/img/egitim-hero-baret.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri</loc>
+    <lastmod>2026-11-02</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/gorevler-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/gorevler-proje.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/gorevler-kullanim.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/gorevler-periyodik.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/gorevler-tatbikat.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ygurehberi.com/serbest-calisma</loc>
     <lastmod>2026-11-02</lastmod>
     <image:image><image:loc>https://ygurehberi.com/img/serbest-sayfa-hero.webp</image:loc></image:image>
@@ -660,10 +669,5 @@
     <loc>https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri</loc>
     <lastmod>2026-10-15</lastmod>
     <image:image><image:loc>https://ygurehberi.com/img/yapi-endustriyel.webp</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri</loc>
-    <lastmod>2026-10-15</lastmod>
-    <image:image><image:loc>https://ygurehberi.com/img/surec-dogrulama.webp</image:loc></image:image>
   </url>
 </urlset>

@@ -3,6 +3,7 @@
 // Konu sayfaları (data/konular.ts) kendiliğinden eklenir. Başka yeni sayfa: SAYFALAR'a ekle (ayrıca nitro.prerender.routes ve llms.txt).
 import { SITE, SUREC, CALISMA_ALANLARI, ANA_CALISMA, VAKALAR, REHBERLER, SEVIYELER, SERBEST_SAYFA } from '../../data/icerik'
 import { KONULAR } from '../../data/konular'
+import { GOREVLER_SAYFA } from '../../data/gorevler'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, kategoriMakaleleri, konuYolu } from '../../data/yguBilgi'
@@ -50,6 +51,11 @@ const SAYFALAR: Sayfa[] = [
     yol: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme',
     guncelleme: '2026-11-01',
     gorseller: ['egitim-hero-baret']
+  },
+  {
+    yol: '/yangin-guvenlik-uzmani-gorevleri',
+    guncelleme: '2026-11-02',
+    gorseller: ['gorevler-hero', ...GOREVLER_SAYFA.gorevler.map((g) => g.gorsel)]
   },
   {
     yol: '/serbest-calisma',

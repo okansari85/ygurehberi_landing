@@ -525,8 +525,9 @@ const TUM_KONULAR: Record<string, Konu> = {
 }
 
 // Çalışma Alanları artık /calisma-alanlari (data/calismaAlanlari.ts); eski konu metni yayımlanmaz, kaybolmasın diye burada durur (1 Kasım 2026).
-const { 'calisma-alanlari': ESKI_CALISMA_ALANLARI, ...YAYINDAKI_KONULAR } = TUM_KONULAR
-export { ESKI_CALISMA_ALANLARI }
+// Eski görevler metni 2 Kasım 2026'da /yangin-guvenlik-uzmani-gorevleri sayfasıyla değişti (data/gorevler.ts); silinmedi, yayımlanmıyor.
+const { 'calisma-alanlari': ESKI_CALISMA_ALANLARI, 'yangin-guvenlik-uzmani-gorevleri': ESKI_GOREVLER, ...YAYINDAKI_KONULAR } = TUM_KONULAR
+export { ESKI_CALISMA_ALANLARI, ESKI_GOREVLER }
 export const KONULAR: Record<string, Konu> = YAYINDAKI_KONULAR
 
 // Kullanıcının metni › "Yangın Güvenlik Uzmanlığı Hakkında Sık Sorulan Sorular"; SSS sayfasında mevcut soruların ardından gelir.

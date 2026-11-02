@@ -96,6 +96,7 @@ useHead({ link: [{ rel: 'preload', as: 'image', href: `/img/${konu.gorsel}.webp`
           <NuxtLink :to="konuYolu(y)" class="kart"><strong>{{ k.kart }}</strong><Ikon ad="ok" /></NuxtLink>
         </li>
         <li><NuxtLink to="/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme" class="kart"><strong>Eğitim, Sınav ve Belgelendirme</strong><Ikon ad="ok" /></NuxtLink></li>
+        <li><NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="kart"><strong>Görev ve Sorumluluklar</strong><Ikon ad="ok" /></NuxtLink></li>
         <li><NuxtLink to="/serbest-calisma" class="kart"><strong>Serbest Çalışma</strong><Ikon ad="ok" /></NuxtLink></li>
         <li><NuxtLink to="/sss" class="kart"><strong>Sık Sorulan Sorular</strong><Ikon ad="ok" /></NuxtLink></li>
       </ul>

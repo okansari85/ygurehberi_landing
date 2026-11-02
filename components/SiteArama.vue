@@ -3,6 +3,7 @@
 import { HIZLI_KARTLAR, CALISMA_ALANLARI, YGU_YOLU, GOREVLER, SEVIYELER, REHBERLER, KONTROL_SURELERI, SSS, EGITIM_SAYFA, SERBEST_SAYFA } from '~/data/icerik'
 import { KONULAR } from '~/data/konular'
 import { konuYolu } from '~/data/yguBilgi'
+import { GOREVLER_SAYFA } from '~/data/gorevler'
 import { VAKA_SAYFA } from '~/data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, yguKategori } from '~/data/yguBilgi'
 
@@ -28,6 +29,8 @@ const DIZIN = [
     metin: EGITIM_SAYFA[k].alt,
     to: `/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k === 'gorev' ? 'gorevlendirme' : k}`
   })),
+  { baslik: GOREVLER_SAYFA.baslik, metin: GOREVLER_SAYFA.metin, to: '/yangin-guvenlik-uzmani-gorevleri' },
+  ...GOREVLER_SAYFA.gorevler.map((g) => ({ baslik: g.baslik, metin: 'YGU görevleri', to: `/yangin-guvenlik-uzmani-gorevleri#${g.id}` })),
   { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/serbest-calisma' },
   ...SERBEST_SAYFA.modeller.liste.map((m) => ({ baslik: m.baslik, metin: 'Serbest çalışma: çalışma modelleri', to: '/serbest-calisma#modeller' })),
   { baslik: SERBEST_SAYFA.gorevlendirme.baslik, metin: 'Serbest çalışma: görevlendirme', to: '/serbest-calisma#gorevlendirme' },

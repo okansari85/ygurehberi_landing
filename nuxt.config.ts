@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
-    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/kvkk-aydinlatma-metni', '/sss', '/vakalarla-ogren', '/calisma-alanlari', '/yangin-guvenligi-yasam-dongusu', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/serbest-calisma', ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
+    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/kvkk-aydinlatma-metni', '/sss', '/vakalarla-ogren', '/calisma-alanlari', '/yangin-guvenligi-yasam-dongusu', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/serbest-calisma', '/yangin-guvenlik-uzmani-gorevleri', ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
   },
   app: {
     head: {

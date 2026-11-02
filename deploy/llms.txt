@@ -10,11 +10,11 @@
 - [YGU Hakkında](https://ygurehberi.com/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](https://ygurehberi.com/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](https://ygurehberi.com/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
+- [YGU Görevleri](https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri): Proje inceleme, yapı kullanma izni değerlendirmesi, periyodik kontrol ve tatbikat görevleri, belgeler ve yetki sınırları
 - [YGU Serbest Çalışma](https://ygurehberi.com/serbest-calisma): YGU kendi adına veya şirket üzerinden çalışabilir mi, görevlendirme, hizmet bedeli, bağımsızlık ve bilinmesi gerekenler
 - [Yangın Güvenlik Uzmanı (YGU) Nedir?](https://ygurehberi.com/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir): Yangın güvenlik uzmanı (YGU) kimdir, yangın güvenlik uzmanlığı neden gereklidir? İş güvenliği uzmanlığından farkı ve sertifika ile yetki belgesi arasındaki ayrım.
 - [Yangın Güvenlik Uzmanı Nasıl Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): Kimler yangın güvenlik uzmanı olabilir? YGU olmak için başvuru koşulları, teorik ve uygulama eğitimi, sınav ve yetki belgesi süreci adım adım.
 - [Yangın Güvenlik Uzmanlığı Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): Yangın güvenlik uzmanlığında yetki seviyeleri: YGU-1, YGU-2, YGU-3 ve YGU-K kimler için öngörülüyor, hangi görevleri kapsıyor?
-- [Yangın Güvenlik Uzmanı Ne İş Yapar?](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri): Yangın güvenlik uzmanının görevleri: proje uygunluğu, yapı kullanma izni değerlendirmesi, periyodik kontroller, tatbikatlar; sahada ne yapar, hangi sorunlarla karşılaşır, rapor nasıl hazırlanır?
 - [YGU Hakkında › Mevzuat](https://ygurehberi.com/ygu-hakkinda/mevzuat): Yangın güvenlik uzmanlığı yönetmeliği neyi düzenliyor, hangi yapıları kapsıyor, ne zaman yürürlüğe giriyor? YGU sisteminin yasal çerçevesi.
 - [YGU Hakkında › YGU Olma Şartları](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari): Kimler yangın güvenlik uzmanı (YGU) olabilir? YGU-1, YGU-2, YGU-3 ve YGU-K için meslek şartları, genel koşullar ve eğitimden muafiyet.
 - [YGU Hakkında › Eğitim ve Belgelendirme](https://ygurehberi.com/ygu-hakkinda/egitim-ve-belgelendirme): Yangın güvenlik uzmanlığı eğitimi nasıl yapılır, sınavda kaç soru var, geçme notu kaç, yetki belgesi ne kadar geçerli? YGU eğitim, sınav ve belgelendirme süreci.
@@ -207,6 +207,67 @@ Sınavda başarısız olan veya geçerli mazeretle sınava katılamayan adaylar,
 YGU belgesine sahip olmak, her yapıda ve her görevde çalışma yetkisi vermez. Görevlendirmelerde yapının özellikleri, uzmanlık seviyesi, görev kapsamı ve ilgili mevzuat hükümleri birlikte değerlendirilir.
 
 Bu sayfa, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı esas alınarak bilgilendirme amacıyla hazırlanmıştır. Başvuru, eğitim, sınav, belgelendirme ve görevlendirmeye ilişkin koşullar nihai düzenlemede değişebilir. Resmî uygulamalarda yürürlükteki mevzuat ve yetkili Bakanlık duyuruları esas alınır.
+
+## Yangın Güvenlik Uzmanının (YGU) Görevleri Nelerdir?
+
+Kaynak sayfa: https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri
+
+Yangın güvenlik uzmanının proje, yapı kullanma izni, periyodik kontrol ve yangın tatbikatı süreçlerindeki görevleri; yapılara ve uzmanlık seviyelerine göre farklılık gösterir.
+
+Yönetmelik taslağında YGU'nun görevleri dört başlıkta düzenlenmiştir. Her görevin zamanı, inceleme konusu, raporu ve uzmanlık seviyesi birbirinden farklıdır.
+
+Mevzuat bilgilendirmesi: Bu sayfadaki ayrıntılı görev, yetki, süre ve form açıklamaları Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı esas alınarak hazırlanmıştır. Taslak hükümler, yürürlüğe girmiş kesin uygulama kuralları olarak sunulmamaktadır.
+
+### Proje İnceleme ve Uygunluk Görüşü
+
+Bu görev hangi aşamada yapılır? Yapının yangın güvenliğine ilişkin projeleri, ilgili idarenin onayından önce değerlendirmeye alınabilir. Mahalli itfaiye teşkilatının gerekli gördüğü durumda YGU, ilgili projelerin teknik ve mevzuat yönünden incelemesini yapar. İnceleme sonucunda YGU, uygunluk görüşüne esas olmak üzere gerekçeli bir rapor hazırlar. Projeyi çizmek veya yapı ruhsatını vermek bu görevin karşılığı değildir.
+Yetki ve süre: YGU-2 / YGU-3
+- Hangi projeler incelenir? Yangın algılama, söndürme ve tahliye projeleri ile yangın güvenliğine ilişkin tedbirlerin gösterildiği diğer projeler. Yapının niteliğine göre kaçış düzeni, yangın bölmeleri, duman kontrolü ve sistem gereklilikleri ilgili proje belgelerinde değerlendirilir.
+- Değerlendirme nasıl yapılır? Yapının kullanım amacı ve uygulanabilir yangın mevzuatı esas alınarak projelerde öngörülen tedbirlerin gereklilikleri karşılayıp karşılamadığı incelenir. Birbirini etkileyen proje kararlarının tutarlılığı da değerlendirilir.
+- Eksiklik veya uygunsuzluk bulunursa? Bulgunun konusu ve mevzuat ya da standart dayanağı raporda açıkça gösterilir. Teknik değerlendirme gerekçelendirilir; yalnızca “uygun değildir” demekle yetinilmez.
+- Belge ve yetki sınırı Uygunluk görüşüne esas gerekçeli teknik rapor hazırlanır ve Uygunluk Görüş Rapor Formu kullanılır. Uygunluk görüşü ile ilgili idarenin ruhsat işlemleri birbirinden ayrıdır; görev, yetki kapsamına göre YGU-2 veya YGU-3 tarafından yürütülür.
+
+### Yapı Kullanma İzni Aşamasında Değerlendirme
+
+Projede öngörülen tedbirler uygulanmış mı? Yapı kullanma izin belgesi aşamasında, yangın güvenliği tedbirlerinin yapıda projelere uygun şekilde gerçekleştirilip gerçekleştirilmediği değerlendirilir. İkinci temel konu, ilgili sistemlerin test edildiğini ve devreye alındığını gösteren belgelerin mevcut olup olmadığının incelenmesidir. Sistemlerin sadece binada bulunması, bu belge değerlendirmesinin yerini tutmaz.
+Yetki ve süre: YGU-2 / YGU-3
+- Uygulamada neler değerlendirilir? Onaylı algılama, söndürme ve tahliye projeleri ile diğer projelerde gösterilen yangın güvenliği tedbirlerinin yapıdaki karşılığı incelenir. Projede öngörülen düzenle yapıda gerçekleştirilen uygulama karşılaştırılır.
+- Test ve devreye alma belgeleri İlgili yangın güvenliği sistemlerinin test edildiğini, devreye alındığını ve çalışır durumda olduğunu gösteren belgelerin varlığı değerlendirilir. Eksik veya açıklığa kavuşturulması gereken kayıtlar rapora yansıtılır.
+- Değerlendirme sonucunda ne olur? Teknik tespitler ve uygunsuzluk gerekçeleri, uygunluk görüşüne esas olacak biçimde raporlanır. Bu işlemde Uygunluk Görüş Rapor Formu kullanılması öngörülür.
+- YGU'nun sorumluluğu nereye kadar? YGU teknik inceleme ve raporlama görevini yürütür. Yapı kullanma izin belgesini vermek ilgili idarenin yetkisindedir. Bu görev, proje aşamasında tasarımın baştan uygunluğunu değerlendirmekten farklıdır.
+
+### Yangın Güvenlik Periyodik Kontrolü
+
+Periyodik kontrolün amacı nedir? Kullanıma ilişkin belgeye sahip olup yönetmelik taslağında periyodik kontrole tabi tutulan yapılarda, onaylı projelerde gösterilen yangın güvenliği tedbirlerinin varlığı ve kullanım sürecindeki durumu incelenir. Kontrolün konusu, onaylı projelerin baştan mevzuata uygunluğu değil, mevcut tedbirlerin onaylı projelerdeki duruma uygunluğu ve kullanım sırasında gerekli koşulların korunup korunmadığıdır.
+Yetki ve süre: 3 / 4 / 5 yıllık periyotlar, YGU-1 / YGU-2 / YGU-3
+- Hangi yapı ve hangi periyot? Yapının kullanım sınıfı, büyüklüğü ve tehlike düzeyine göre 3, 4 veya 5 yıllık kontrol periyotları öngörülür. Her YGU seviyesi her binada görev alamaz; kullanım sınıfı ve yetki sınırları birlikte değerlendirilir.
+- Hangi sistemler ve belgeler? Yapıya uygulanabilir ölçüde tahliye düzeni, yangın bölmeleri, algılama ve uyarı, söndürme, duman kontrolü ve ilgili diğer tedbirler incelenir. Sistemlerin güncel periyodik muayene belgeleri değerlendirmeye dahil edilir.
+- Yerinde kontrolün yöntemi Periyodik kontrol formuna göre temel yöntem, onaylı projelerle karşılaştırılan yerinde gözlemsel inceleme (ölçüm yapılmaksızın) ve mevcut periyodik muayene kayıtlarının değerlendirilmesidir. Bu işlem, YGU'nun bütün sistemlerin ölçümünü ve bakımını yeniden yaptığı anlamına gelmez.
+- Uygunsuzluk ve uygunluk kontrolü Eksiklik ve uygunsuzluklar Yangın Güvenlik Raporu ile kayıt altına alınır. Taslakta, eksikliklerin giderilmesine ilişkin işlemlerin ilgili idare tarafından yürütülmesi ve düzeltmelerin uygunluk kontrolüyle değerlendirilmesi öngörülür.
+- YGU-K'nın özel rolü Yüksek tehlikeli yapıların periyodik kontrollerinde YGU-3 ile YGU-K'nın birlikte görev alması öngörülür. YGU-K, tehlikeli maddelerin bulunduğu alanları, özelliklerini ve sınıflandırmasını değerlendirir; bunun için özel periyodik kontrol formu kullanılır.
+- Başvuru ve rapor belgeleri Başvuruda başvuru formu ve taahhütname; kontrol sırasında periyodik kontrol formu; sonuçta Yangın Güvenlik Raporu kullanılır. Başvurunun, geçerli kontrol süresi bitmeden en geç 60 gün önce yapılması öngörülmektedir.
+
+Kontrol yapılmayan durumlar: Kontrolün ön koşulları sağlanmıyorsa veya yapının kullanım amacı onaylı belgelerdeki kullanım amacıyla uyuşmuyorsa ilgili idareye bildirim ve kontrolün yapılmamasına ilişkin hükümler uygulanır. Gerekli onaylı projelerin temin edilememesi halinde ise durumun raporlanmasına ilişkin ayrı usul öngörülür.
+
+### Yangın Tatbikatlarının Planlanması
+
+Tatbikat nasıl ve kimlerle planlanır? Yönetmelik taslağının kapsamına giren yapılarda tatbikat, yapı sahibi, yönetici veya görevlendirilmiş birim amirinin sorumluluğunda YGU ile birlikte planlanır. Tatbikat öncesinde senaryo, tahliye organizasyonu, görev dağılımı ve yapıdaki kullanıcıların özellikleri değerlendirilir; uygulama ve sonuçları ilgili formlara işlenir.
+Yetki ve süre: YGU-2 / YGU-3
+- Tatbikat öncesinde Kaçış yolları, yangın kapıları, acil durum aydınlatması ve yönlendirmeler, güncel kontrol belgeleri, ekiplerin görevleri ve yardıma ihtiyaç duyan kullanıcıların tahliyesi tatbikat öncesi kontrol listesi ile değerlendirilir.
+- Tatbikat sırasında Bildirim yöntemi, tahliye organizasyonu, acil durum ekiplerinin görevlerini yerine getirmesi, tahliye edilen kişi sayısı ve tahliye süresi gibi bilgiler takip edilerek kayıt altına alınır.
+- Tatbikat sonrasında Tüm kullanıcıların tahliyesi, toplanma alanına ulaşılması ve sistemlerin beklenen tepkileri değerlendirilir. Tatbikatın sonucu ile varsa aksaklıklar Yangın Tatbikat Raporu ile kayıt altına alınır.
+- Üç ayrı belge Yangın Tatbikatı Başvuru Formu: Başvuru ve tatbikatın kapsamı. Yangın Tatbikatı Kontrol Listesi: Tatbikat öncesi ve sonrası değerlendirmeler. Yangın Tatbikat Raporu: Sonuç ve tespitler.
+
+Önemli uygulama şartı: Tatbikat öncesi kontrol listesinde herhangi bir soru “Hayır” olarak işaretlenirse, belirtilen uygunsuzluk giderilene kadar tatbikat gerçekleştirilmez. Tatbikat uygun gerçekleşmezse taslak, üç ay içinde tekrar başvurusunu öngörür.
+
+### Görev ve Yetki Sınırları
+
+- YGU-1: Yönetmelik taslağında belirtilen kullanım sınıfları ve yetki sınırları içinde periyodik kontrol görevi için öngörülmüştür.
+- YGU-2 ve YGU-3: İlgili yapı ve yetki sınırları dahilinde proje, yapı kullanma izni değerlendirmesi, periyodik kontrol ve tatbikat planlaması görevlerinde bulunabilir.
+- YGU-K: Yüksek tehlikeli yapıların periyodik kontrolünde tehlikeli maddelerin tespit ve sınıflandırılması kapsamında özel görev üstlenir.
+- Bağımsızlık ve görevlendirme: Mahalli itfaiye teşkilatının görev ve görevlendirme koşulları, YGU'nun tarafsızlığı ve kendi tasarım/yapım/danışmanlık yaptığı projede görev almaması ilkesi dikkate alınır.
+
+Yürürlük bilgisi: İncelediğimiz taslakta periyodik kontrol hükümleri için 1 Ocak 2028 tarihi öngörülmüş; uygunluk görüşü ve tatbikat hükümlerinin yürürlük tarihi henüz boş bırakılmıştır. Tarihler ve ayrıntılar resmî yayınla birlikte yeniden doğrulanmalıdır.
 
 ## YGU serbest çalışma
 
@@ -441,7 +502,7 @@ Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerd
 - [YGU Nedir?](https://ygurehberi.com/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir): Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.
 - [Nasıl YGU Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.
 - [YGU Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.
-- [Görev ve Sorumluluklar](https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri): YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.
+- [Görev ve Sorumluluklar](https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri): YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.
 - [Çalışma Alanları](https://ygurehberi.com/calisma-alanlari): YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.
 - [Serbest Çalışma](https://ygurehberi.com/serbest-calisma): YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.
 - [Kısa Rehberler](https://ygurehberi.com/#rehberler): Sahada kullanabileceğiniz pratik rehberler.
@@ -561,51 +622,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyele
 - Yangın Güvenlik Uzmanlığı 2 (YGU-2): İlgili mühendislik ve mimarlık meslek gruplarına yönelik olup proje uygunluğu, uygulama değerlendirmesi ve kontrol görevlerini kapsar.
 - Yangın Güvenlik Uzmanlığı 3 (YGU-3): Yangın Güvenlik Uzmanlığı 2 yetkisi ve belirlenen deneyim koşullarıyla ilişkili ileri yetkilendirme seviyesidir.
 - Yangın Güvenlik Uzmanlığı K (YGU-K): Kimya mühendisleri ve ilgili kimya lisans mezunlarına yönelik, tehlikeli maddelerin tespiti ve sınıflandırılmasıyla ilişkili özel seviyedir.
-
-## Yangın Güvenlik Uzmanı Ne İş Yapar?
-
-Kaynak sayfa: https://ygurehberi.com/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri
-
-> Mevzuat bilgilendirmesi: Bu makalede açıklanan yetkilendirme seviyeleri, eğitim, sınav ve periyodik kontrol takvimi, yönetmelik taslağında öngörülen çerçeveye dayanmaktadır. Nihai hükümler ve yürürlük durumu resmî mevzuat üzerinden doğrulanmalıdır.
-
-### Yangın Güvenlik Uzmanının Görevleri Nelerdir?
-
-- Proje uygunluğu: Yangın Güvenlik Uzmanı, yetkisi kapsamında yangın güvenliği projelerinin mevzuata uygunluğunu değerlendirir.
-- Yapı kullanma izni değerlendirmeleri: Yangın Güvenlik Uzmanı, projede öngörülen tedbirlerin uygulanmasını, test ve devreye alma belgelerini inceler.
-- Periyodik kontroller: Yangın Güvenlik Uzmanı, ilgili yapılarda kontrol gerçekleştirir ve sonuçları kayıt altına alır.
-- Yangın tatbikatları: Yangın Güvenlik Uzmanı, yetki ve görev kapsamı içinde tatbikat planlamasına yönelik çalışmaları yürütür.
-
-### Yangın Güvenlik Uzmanı Sahaya Gittiğinde Ne Yapar?
-
-Yangın Güvenlik Uzmanının saha çalışması, yapının yangın güvenliği bakımından mevcut durumunu belirlemeye yönelik sistematik bir teknik incelemedir. Aşağıdaki altı aşama, kontrolün teknik mantığını açıklayan örnek bir iş akışıdır; resmî işlemler ilgili mevzuat ve formlara göre yürütülür.
-
-1. Yapıyı Tanır
-2. Uygulanacak Mevzuatı Belirler
-3. Teknik Belgeleri İnceler
-4. Saha Kontrolünü Gerçekleştirir
-5. Uygunluk Değerlendirmesi Yapar
-6. Kontrol Sonuçlarını Raporlar
-
-### Yangın Güvenlik Uzmanı Sahada Hangi Sorunlarla Karşılaşabilir?
-
-Yangın Güvenlik Uzmanı, saha kontrollerinde yalnızca yangın güvenliği ekipmanlarının fiziksel durumunu incelemez. Yapıda sonradan gerçekleştirilen mimari değişiklikleri, yangın tesisatındaki müdahaleleri, yangın bölümlendirmesini etkileyen uygulamaları ve yangın güvenliği sistemlerinin mevcut kullanım koşullarına uygunluğunu da değerlendirir.
-
-- 1. Binaya sonradan kat veya asma kat eklenmesi: Bir üretim tesisinde veya depoda sonradan asma kat oluşturulmuş olabilir. Yangın Güvenlik Uzmanı, yeni kullanım alanının kaçış düzenine, kişi yüküne, yangın güvenliği sistemlerinin kapsama alanına ve mevcut yangın güvenliği tedbirlerine etkisini değerlendirir. Yeni katın mimari projelerde bulunup bulunmadığı ve gerekli yangın güvenliği düzenlemelerinin yapılıp yapılmadığı incelenir.
-- 2. Yangın dolabının yerinin değiştirilmesi: Üretim hattının genişletilmesi nedeniyle yangın dolabı başka bir noktaya taşınmış olabilir. Yangın Güvenlik Uzmanı, yeni konumun yangın dolabı kapsama alanını ve erişilebilirliğini etkileyip etkilemediğini değerlendirir. Hortum uzunluğu, yerleşim, tesisat bağlantıları ve gerekli teknik özellikler kontrol edilir.
-- 3. Sprinkler tesisatı bulunan alana yeni bölmeler yapılması: Sprinkler sistemi bulunan geniş bir üretim alanı, sonradan duvar veya bölmelerle farklı odalara ayrılmış olabilir. Yangın Güvenlik Uzmanı, yeni bölmelerin sprinkler başlıklarının koruma alanlarını etkileyip etkilemediğini inceler. Yeni oluşturulan hacimlerde sprinkler korumasının yeterliliği ve gerekli tesisat değişikliklerinin yapılıp yapılmadığı değerlendirilir.
-- 4. Yangın pompa grubunun değiştirilmesi: Bir işletmede mevcut yangın pompası arızalandığı için farklı özelliklerde yeni bir pompa monte edilmiş olabilir. Yangın Güvenlik Uzmanı, yeni pompa grubunun gerekli debi ve basınç koşullarını sağlayıp sağlamadığını teknik belgeler ve test sonuçları üzerinden değerlendirir. Pompanın değiştirilmiş olması tek başına sistemin yeterli olduğunu göstermez.
-- 5. Yangın bölmesi duvarının kaldırılması: Bir fabrikada iki üretim alanını birleştirmek amacıyla aradaki duvar kaldırılmış olabilir. Yangın Güvenlik Uzmanı, kaldırılan duvarın yangın bölümlendirmesinde görev alıp almadığını inceler. Değişikliğin yangının ve dumanın yayılımına karşı öngörülen koruma düzenine etkisi değerlendirilir.
-- 6. Duman tahliye sisteminin bulunduğu alanda mimari değişiklik yapılması: Bir alışveriş merkezinde, fabrikada veya büyük bir ticari yapıda yeni bölmeler oluşturulmuş ya da tavan düzeni değiştirilmiş olabilir. Yangın Güvenlik Uzmanı, bu değişikliklerin duman tahliye açıklıkları, duman perdeleri, hava akışı ve sistemin koruduğu alan üzerindeki etkisini inceler. Gerekli görülmesi durumunda sistemin tasarım ve hesap belgeleri değerlendirilir.
-- 7. Yangın algılama sistemine yeni kullanım alanlarının eklenmemesi: Bir işletmede daha önce açık alan olarak kullanılan bir bölüm kapatılarak yeni bir oda veya ofis oluşturulmuş olabilir. Yangın Güvenlik Uzmanı, yeni hacimde yangın algılama ihtiyacını ve mevcut sistemin bu alanı kapsayıp kapsamadığını değerlendirir. Dedektör yerleşimi, algılama bölgesi ve sistemin ilgili teknik koşullara uygunluğu incelenir.
-- 8. Kaçış merdivenine açılan yeni kapı yapılması: Bir binada kullanım kolaylığı sağlamak amacıyla korunumlu kaçış merdivenine sonradan yeni bir kapı açılmış olabilir. Yangın Güvenlik Uzmanı, bu müdahalenin merdivenin yangın ve dumandan korunma özelliklerini etkileyip etkilemediğini değerlendirir. Kapının yangına dayanımı, duman sızdırmazlığı, açılma yönü ve merdivenin korunmuş hacim niteliği incelenir.
-- 9. Yangın tesisatının yeni üretim alanına uygun şekilde genişletilmemesi: Bir fabrikada mevcut üretim alanına yeni bir bölüm eklenmiş, ancak yangın söndürme tesisatında herhangi bir değişiklik yapılmamış olabilir. Yangın Güvenlik Uzmanı, yeni alanın yangın dolapları, sprinkler sistemi ve diğer gerekli söndürme tedbirleri bakımından korunup korunmadığını değerlendirir. Mevcut tesisatın yeni kullanım koşullarına uygunluğu incelenir.
-- 10. Yangın güvenliği sistemlerinin birbirleriyle çalışmasını etkileyen değişiklikler: Bir binada yangın algılama paneli yenilenmiş, kartlı geçiş sistemi değiştirilmiş veya duman kontrol sistemi üzerinde tadilat yapılmış olabilir. Yangın Güvenlik Uzmanı, yangın durumunda birlikte çalışması gereken sistemlerin gerekli işlevleri yerine getirip getirmediğini değerlendirir. Yangın alarmı sırasında kapıların serbest bırakılması, ilgili fanların çalışması veya durması ve diğer otomatik kontrol senaryoları, gerekli testler ve teknik belgeler üzerinden incelenir.
-
-> Teknik değerlendirme ilkesi: Yangın Güvenlik Uzmanı sahada bir değişiklik tespit ettiğinde, bu değişikliği doğrudan uygunsuzluk olarak kabul etmez. Değişikliğin mevzuat, yapının teknik özellikleri ve mevcut belgeler çerçevesinde yangın güvenliği üzerindeki etkisini değerlendirir.
-
-### Yangın Güvenlik Raporu Nasıl Hazırlanır?
-
-Yangın güvenlik raporu, yapılan kontrolün sonuçlarını ortaya koyar. Yangın Güvenlik Uzmanı yalnızca uygunsuzluğu belirtmekle yetinmez; tespitin yerini, konusunu ve teknik dayanağını ilgili raporlama usulüne göre açıklar. Örneğin kapanmayan bir yangın kapısının hangi konumda bulunduğu ve nasıl gözlemlendiği kayıt altına alınır.
 
 ## YGU Hakkında makaleleri
 

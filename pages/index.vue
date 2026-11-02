@@ -188,11 +188,11 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         <span class="cizgi" />
         <h2 id="gorev-baslik" class="gorev-baslik">{{ ANA_GOREVLER.baslik }}</h2>
         <p>{{ ANA_GOREVLER.metin }}<br>{{ ANA_GOREVLER.metin2 }}</p>
-        <NuxtLink to="/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri" class="btn btn-amber">Tüm Görevleri İncele <Ikon ad="ok" /></NuxtLink>
+        <NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="btn btn-amber">Tüm Görevleri İncele <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="gorevler">
         <li v-for="g in ANA_GOREVLER.liste" :key="g.baslik">
-          <NuxtLink to="/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri" class="kart gorev-kart">
+          <NuxtLink to="/yangin-guvenlik-uzmani-gorevleri" class="kart gorev-kart">
             <img :src="`/img/${g.gorsel}.webp`" alt="" :width="g.genislik" height="241" loading="lazy">
             <div class="gorev-ic">
               <h3><span class="gorev-ikon"><Ikon :ad="g.ikon" /></span>{{ g.baslik }}</h3>
