@@ -207,8 +207,9 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 
   <!-- SERBEST ÇALIŞMA İMKÂNI -->
   <section id="serbest-calisma" class="bolum bolum-koyu serbest" aria-labelledby="serbest-baslik">
-    <div class="bolum-arka"><img src="/img/bg-ygu-yolu.webp" alt="" width="1536" height="1024" loading="lazy"></div>
+    <div class="bolum-arka"><img src="/img/bg-serbest-calisma.webp" alt="" width="1600" height="609" loading="lazy"></div>
     <div class="wrap">
+      <span class="ust">{{ ANA_SERBEST.ust }}</span>
       <h2 id="serbest-baslik">{{ ANA_SERBEST.baslik }}</h2>
       <p>{{ ANA_SERBEST.metin }}</p>
       <NuxtLink to="/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma" class="btn btn-amber">Serbest Çalışmayı İncele <Ikon ad="ok" /></NuxtLink>
@@ -421,9 +422,25 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 .gorev-kart:hover .gorev-ok{transform:translateX(3px)}
 @media (max-width:1060px){.gorevler{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:560px){.gorevler{grid-template-columns:1fr}}
-.serbest .bolum-arka img{opacity:.8;object-position:80% 50%}
-.serbest h2{font-size:clamp(34px,3.8vw,50px)}
-.serbest p{max-width:540px;margin:12px 0 24px;font-size:clamp(16px,1.5vw,19px);color:#ECE8E1}
+/* SERBEST ÇALIŞMA: design/ana-sayfa-serbest.jpeg; arka plan aynı görselden, gömülü yazıları silinerek. */
+.serbest{display:flex;align-items:center;min-height:clamp(420px,38vw,640px);background:#050505}
+.serbest .wrap{width:100%}
+.serbest .bolum-arka img{opacity:1;object-position:100% 50%}
+.serbest .bolum-arka::after{display:none}
+.serbest .ust{width:fit-content;padding-left:12px;border-left:3px solid var(--amber);color:var(--amber);font-size:clamp(15px,1.4vw,20px);line-height:1.2}
+.serbest h2{font-size:clamp(34px,3.8vw,56px);text-transform:none}
+.serbest p{max-width:540px;margin:12px 0 24px;font-size:clamp(16px,1.3vw,20px);color:#ECE8E1}
+.serbest .btn{padding:14px 26px;font-size:clamp(16px,1.3vw,20px)}
+@media (max-width:1280px){
+  .serbest .bolum-arka::after{display:block;background:linear-gradient(90deg,#050505 0%,rgba(5,5,5,.86) 42%,rgba(5,5,5,0) 72%)}
+}
+/* Telefonda baret yazının altında: görsel bölümün dibine iner, üstü zemine karışır. */
+@media (max-width:760px){
+  .serbest{display:block;padding-bottom:calc(68vw + 8px)}
+  .serbest .bolum-arka{top:auto;height:72vw}
+  .serbest .bolum-arka img{object-position:88% 50%}
+  .serbest .bolum-arka::after{background:linear-gradient(180deg,#050505 0%,rgba(5,5,5,0) 32%)}
+}
 /* YGU OLMA YOLU: design/ana-sayfa-yol.jpeg; genişlik diğer bölümlerle aynı (.wrap). */
 #ygu-olma-yolu{background:#0B0B0B}
 #ygu-olma-yolu .bolum-arka img{opacity:1;object-position:100% 50%}

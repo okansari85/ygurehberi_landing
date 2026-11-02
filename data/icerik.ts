@@ -162,8 +162,9 @@ export const ANA_GOREVLER = {
 }
 
 export const ANA_SERBEST = {
+  ust: 'YGU Çalışma Modeli',
   baslik: 'Serbest Çalışma İmkânı',
-  metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, bağımsız olarak yangın güvenliği hizmeti sunabilir.'
+  metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, kendi adlarına veya uzman istihdam eden bir kuruluş bünyesinde yangın güvenliği hizmeti sunabilir.'
 }
 
 export const KONTROL_SURELERI = {
