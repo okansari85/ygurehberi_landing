@@ -48,6 +48,7 @@ export const MERAK_MAKALELERI: YguMakale[] = [
   {
     kategori: "merak-edilenler",
     yol: "ygu-sirket-uzerinden-calisabilir-mi",
+    bakiniz: { metin: "Serbest çalışmanın iki modeli", to: "/serbest-calisma#modeller" },
     baslik: "YGU Şirket Üzerinden Çalışabilir mi? Özel Hukuk Tüzel Kişileriyle Protokol",
     ozet: "İtfaiye, YGU istihdam eden şirketlerle de protokol yapabilir. Bunun şartları: uzmanların istihdam edilmesi, protokolde isimlerinin yer alması ve hizmetin bizzat bu uzmanlarca verilmesi.",
     ozetle: "Taslakta itfaiyenin özel hukuk tüzel kişileriyle de protokol yapabileceği öngörülür. Bunun için şirketin yangın güvenlik uzmanı istihdam etmesi, protokol kapsamında görev alacak uzmanların protokolde belirtilmesi ve hizmetin bu uzmanlar tarafından gerçekleştirilmesi gerekir. Uzmanın bağımsızlığı, kendi işverenine karşı da korunur.",
@@ -77,6 +78,7 @@ export const MERAK_MAKALELERI: YguMakale[] = [
   {
     kategori: "merak-edilenler",
     yol: "ygu-hizmet-bedeli-nasil-odenir",
+    bakiniz: { metin: "Serbest çalışmada hizmet bedeli ve ödeme yapısı", to: "/serbest-calisma#hizmet-bedeli" },
     baslik: "Yangın Güvenlik Uzmanı Ne Kazanır? Hizmet Bedeli Nasıl Ödenir ve Paylaşılır?",
     ozet: "Uzmanın kazancı, belediyece belirlenen hizmet bedelinden itfaiye işlem payı düşüldükten sonra kalan tutardır. Birden fazla uzmanda paylaşım, YGU-K payı ve yetki kaybında kesinti.",
     ozetle: "Uzmana sabit bir ücret öngörülmez. Bakanlığın ilan ettiği taban ve tavan aralığında ilgili idarenin karar organınca belirlenen hizmet bedeli itfaiye hesabına yatırılır; itfaiye işlem payını (protokol örneğine göre %5) ayırıp kalanı hizmet tamamlanıp onaylandıktan sonra en geç 10 iş günü içinde uzmana öder. Aynı işte birden fazla uzman varsa YGU-1, YGU-2 ve YGU-3 eşit pay alır; YGU-K'ye diğerlerinin %25'i oranında ödenir.",

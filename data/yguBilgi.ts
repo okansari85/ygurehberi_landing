@@ -39,6 +39,7 @@ export type YguMakale = {
   bloklar: KonuBlok[]
   dayanak: string[]
   arac?: { baslik: string; metin: string; dugme: string; url: string }
+  bakiniz?: { metin: string; to: string } // metnin sonunda "Bakınız" bağlantısı
 }
 
 export const YGU_KATEGORILER: YguKategori[] = [

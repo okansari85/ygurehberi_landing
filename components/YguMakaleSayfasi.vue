@@ -87,6 +87,8 @@ useSayfaSeo({
 
         <KonuBloklar :bloklar="makale.bloklar" />
 
+        <p v-if="makale.bakiniz" class="bakiniz"><strong>Bakınız:</strong> <NuxtLink :to="makale.bakiniz.to">{{ makale.bakiniz.metin }}</NuxtLink></p>
+
         <a v-if="makale.arac" :href="makale.arac.url" target="_blank" rel="noopener" class="arac">
           <span><strong>{{ makale.arac.baslik }}</strong>{{ makale.arac.metin }}</span>
           <span class="btn btn-amber">{{ makale.arac.dugme }} <Ikon ad="disLink" /></span>
@@ -153,6 +155,8 @@ useSayfaSeo({
 .kisaca-ust .ikon{font-size:18px}
 .kisaca p{margin:8px 0 0;font-size:17px;line-height:1.65;color:#2A2825}
 
+.bakiniz{margin:28px 0 0;padding:14px 18px;border-left:4px solid var(--amber);border-radius:0 var(--r) var(--r) 0;background:#FBF3E0;font-size:16px}
+.bakiniz a{font-weight:600;color:var(--amber-ink);text-underline-offset:3px}
 .arac{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-top:36px;padding:22px 24px;border-radius:var(--r);background:var(--ink);color:#ECE8E1;text-decoration:none;font-size:15px;line-height:1.5}
 .arac strong{display:block;font-family:var(--display);font-size:24px;line-height:1.1;color:#fff;margin-bottom:6px}
 .arac > span:first-child{flex:1 1 320px}
