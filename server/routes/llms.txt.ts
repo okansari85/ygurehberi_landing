@@ -40,7 +40,7 @@ export default defineEventHandler((event) => {
 - [YGU Hakkında](${u}/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
-- [YGU Serbest Çalışma](${u}/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): YGU kendi adına çalışabilir mi, bağımsız olarak verebileceği hizmetler, işletmelerle çalışma ve serbest çalışmanın avantajları
+- [YGU Serbest Çalışma](${u}/serbest-calisma): YGU kendi adına veya şirket üzerinden çalışabilir mi, görevlendirme, hizmet bedeli, bağımsızlık ve bilinmesi gerekenler
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}${konuYolu(y)}): ${k.aciklama}`).join('\n')}
 ${YGU_KATEGORILER.map((k) => `- [YGU Hakkında › ${k.ad}](${u}/ygu-hakkinda/${k.yol}): ${k.aciklama}`).join('\n')}
 ${YGU_MAKALELER.map((m) => `- [${m.baslik}](${u}/ygu-hakkinda/${m.kategori}/${m.yol}): ${m.ozetle}`).join('\n')}
@@ -113,29 +113,40 @@ ${E.dayanak.join(' ')}
 
 ## YGU serbest çalışma
 
-Kaynak sayfa: ${u}/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma
+Kaynak sayfa: ${u}/serbest-calisma
 
-${S.metin}
+${S.baslik} ${S.metin}
+
+${S.bilgi.metin}
 
 ### ${S.kendi.baslik}
 
-${S.kendi.not} ${S.kendi.metin}
-${S.kendi.maddeler.map((m) => `- ${m}`).join('\n')}
+${S.kendi.metin}
 
-### ${S.hizmetler.baslik}
+### ${S.modeller.baslik}
 
-${S.hizmetler.not}
-${S.hizmetler.liste.map((h) => `- ${h.baslik}: ${h.metin}`).join('\n')}
+${S.modeller.liste.map((m) => `- ${m.baslik}: ${m.metin}`).join('\n')}
+
+### ${S.gorevlendirme.baslik}
+
+${S.gorevlendirme.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+
+### ${S.bedel.baslik}
+
+${S.bedel.metin}
+
+### ${S.bagimsizlik.baslik}
+
+${S.bagimsizlik.maddeler.map((m) => `- ${m}`).join('\n')}
 
 ### ${S.isletme.baslik}
 
-${S.isletme.not}
-${S.isletme.adimlar.map((a, i) => `${i + 1}. ${a.baslik}: ${a.metin}`).join('\n')}
+${S.isletme.metin}
+${S.isletme.liste.map((l) => `- ${l.baslik}: ${l.metin}`).join('\n')}
 
-### ${S.avantajlar.baslik}
+### ${S.bilinmesi.baslik}
 
-${S.avantajlar.not}
-${S.avantajlar.liste.map((a) => `- ${a.baslik}: ${a.metin}`).join('\n')}
+${S.bilinmesi.liste.map((l) => `- ${l.baslik}: ${l.metin}`).join('\n')}
 
 ## Yangın güvenliği süreci: ${SUREC.baslik} ${SUREC.vurgu.toLocaleLowerCase('tr')}
 

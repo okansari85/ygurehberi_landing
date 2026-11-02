@@ -52,9 +52,9 @@ const SAYFALAR: Sayfa[] = [
     gorseller: ['egitim-hero-baret']
   },
   {
-    yol: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma',
-    guncelleme: '2026-10-15',
-    gorseller: ['serbest-hero', ...SERBEST_SAYFA.hizmetler.liste.map((h) => h.gorsel)]
+    yol: '/serbest-calisma',
+    guncelleme: '2026-11-02',
+    gorseller: ['serbest-sayfa-hero', 'serbest-sayfa-kendi', ...SERBEST_SAYFA.modeller.liste.map((m) => m.gorsel), 'serbest-sayfa-bedel', 'serbest-sayfa-bagimsizlik']
   },
   {
     yol: '/kvkk-aydinlatma-metni',

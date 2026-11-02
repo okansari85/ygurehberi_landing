@@ -28,8 +28,12 @@ const DIZIN = [
     metin: EGITIM_SAYFA[k].alt,
     to: `/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme#${k === 'belge' ? 'belgelendirme' : k === 'gorev' ? 'gorevlendirme' : k}`
   })),
-  { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
-  ...SERBEST_SAYFA.hizmetler.liste.map((h) => ({ baslik: h.baslik, metin: 'Serbest çalışma: bağımsız hizmetler', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma#hizmetler' })),
+  { baslik: 'YGU Serbest Çalışma', metin: SERBEST_SAYFA.kendi.baslik, to: '/serbest-calisma' },
+  ...SERBEST_SAYFA.modeller.liste.map((m) => ({ baslik: m.baslik, metin: 'Serbest çalışma: çalışma modelleri', to: '/serbest-calisma#modeller' })),
+  { baslik: SERBEST_SAYFA.gorevlendirme.baslik, metin: 'Serbest çalışma: görevlendirme', to: '/serbest-calisma#gorevlendirme' },
+  { baslik: SERBEST_SAYFA.bedel.baslik, metin: 'Serbest çalışma: hizmet bedeli', to: '/serbest-calisma#hizmet-bedeli' },
+  { baslik: SERBEST_SAYFA.bagimsizlik.baslik, metin: 'Serbest çalışma: tarafsızlık', to: '/serbest-calisma#bagimsizlik' },
+  { baslik: SERBEST_SAYFA.isletme.baslik, metin: 'Serbest çalışma: işletmeler', to: '/serbest-calisma#isletmeler' },
   ...YGU_KATEGORILER.map((k) => ({ baslik: k.ad, metin: `YGU Hakkında · ${k.kisa}`, to: `/ygu-hakkinda/${k.yol}` })),
   ...YGU_MAKALELER.flatMap((m) => [
     { baslik: m.baslik, metin: `${yguKategori(m.kategori)?.ad} · ${m.ozet}`, to: `/ygu-hakkinda/${m.kategori}/${m.yol}` },

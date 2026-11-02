@@ -24,7 +24,7 @@ export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
   | 'uyari' | 'ev' | 'magaza' | 'okul' | 'hastane' | 'otel' | 'depo' | 'tehlike' | 'saat' | 'sinav'
   | 'rozet' | 'kullanici' | 'bilgi' | 'kask' | 'pano' | 'buyutec' | 'liste' | 'zil' | 'pusula' | 'yenile' | 'grafik'
-  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk' | 'hedef' | 'vinc' | 'terazi' | 'isci' | 'sise'
+  | 'izgara' | 'pompa' | 'kacis' | 'tadilat' | 'kapi' | 'sprinkler' | 'noktalar' | 'kalkan' | 'disli' | 'katman' | 'takvimOnay' | 'plan' | 'aletler' | 'ciftOk' | 'hedef' | 'vinc' | 'terazi' | 'isci' | 'sise' | 'elSikisma' | 'para' | 'odemeKarti' | 'balon' | 'tik'
 
 // Üst menü. "Ana Sayfa" yok (logo ana sayfaya gider; kullanıcı 15 Ekim'de menüyü rahatlatmak için kaldırttı); alt bilgide var.
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
@@ -70,7 +70,7 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
   { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri', gorsel: '/img/kart-seviyeler.webp' },
   { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.", to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri', gorsel: '/img/kart-gorevler.webp' },
   { ikon: 'fabrika', baslik: 'Çalışma Alanları', metin: "YGU'nun konut, ticari yapı, endüstriyel tesis, depo, lojistik ve kamu yapılarında çalışma kapsamı.", to: '/calisma-alanlari', gorsel: '/img/kart-calisma-alanlari.webp' },
-  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: "YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.", to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma', gorsel: '/img/kart-serbest.webp' },
+  { ikon: 'canta', baslik: 'Serbest Çalışma', metin: "YGU'nun kendi adına çalışma, danışmanlık hizmeti sunma koşulları ve uygulamadaki çalışma modeli.", to: '/serbest-calisma', gorsel: '/img/kart-serbest.webp' },
   { ikon: 'kitap', baslik: 'Kısa Rehberler', metin: 'Sahada kullanabileceğiniz pratik rehberler.', to: '/#rehberler', gorsel: '/img/rehber-endustriyel.webp', rozet: true },
   { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/vakalarla-ogren', gorsel: '/img/vakalar-hero.webp', rozet: true }
 ]
@@ -354,47 +354,69 @@ export const EGITIM_SAYFA = {
   ]
 }
 
-// Serbest Çalışma sayfası (/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma): design/serbest-calisma.jpeg. Metinler kullanıcının 15 Ekim tasarım görselinden birebir.
+// Serbest Çalışma sayfası (/serbest-calisma): design/serbest-calisma-2.jpeg. Metinler kullanıcının 2 Kasım tasarım görselinden.
 export const SERBEST_SAYFA = {
-  ust: 'Yangın Güvenlik Uzmanı',
-  baslik: 'YGU',
-  vurgu: 'Serbest',
-  baslik2: 'Çalışma',
-  metin: 'Yangın Güvenlik Uzmanları, ilgili mevzuatta belirlenen koşullar ve yetki sınırları çerçevesinde mesleki faaliyetlerini yürütebilir. Serbest çalışma imkânları, uzmanların bağımsız olarak hizmet sunabilmesine ilişkin düzenlemeler doğrultusunda değerlendirilir.',
+  ust: 'YGU Çalışma Modeli',
+  baslik: 'Yangın Güvenlik Uzmanı (YGU) Serbest Çalışabilir mi?',
+  metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, kendi adlarına veya uzman istihdam eden bir kuruluş bünyesinde yangın güvenliği hizmeti sunabilir. Ancak resmî YGU hizmetleri; yetki, görevlendirme ve tarafsızlık şartlarıyla yürütülür.',
+  bilgi: {
+    baslik: 'Mevzuat Bilgilendirmesi',
+    metin: 'Bu sayfadaki açıklamalar, yönetmelik taslağındaki çalışma modeli esas alınarak hazırlanmış bilgilendirme içeriğidir.'
+  },
   kendi: {
     baslik: 'YGU Kendi Adına Çalışabilir mi?',
-    not: "YGU'lar, ilgili mevzuatta belirlenen koşullar ve yetki sınırları çerçevesinde kendi adına mesleki faaliyet yürütebilir.",
-    metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, bağımsız olarak yangın güvenliği hizmeti sunabilir. Serbest çalışma imkânı, mevzuatta tanımlanan görev, yetki ve sorumluluklar kapsamında değerlendirilir.',
-    maddeler: ['Geçerli YGU belgesine sahip olmak', 'Mevzuatta belirlenen görev ve yetki sınırlarına uymak', 'Mesleki sorumlulukları yerine getirmek']
+    metin: 'Yönetmelik taslağında, gerekli yeterlilikleri sağlayan ve geçerli yetki belgesine sahip uzmanların kendi adlarına görev alabilmesine imkân tanınmaktadır. Ancak bu durum, her yapıda ve her işlemde doğrudan serbestçe görev alınabileceği anlamına gelmez. Uzmanın yetki seviyesi, yapı özellikleri ve görevlendirme süreci birlikte değerlendirilir.'
   },
-  hizmetler: {
-    baslik: 'Bağımsız Olarak Hangi Hizmetleri Verebilir?',
-    not: "YGU'lar, yetki seviyelerine uygun olarak aşağıdaki alanlarda bağımsız hizmet sunabilir.",
+  modeller: {
+    baslik: 'Serbest Çalışmanın İki Modeli',
     liste: [
-      { ikon: 'belge', baslik: 'Yangın Güvenliği Projelerinin İncelenmesi', metin: 'Yangın algılama, söndürme, tahliye ve diğer yangın güvenliği projelerinin mevzuata uygunluğuna ilişkin uygunluk görüşüne esas rapor hazırlanması.', gorsel: 'surec-proje', alt: 'Yangın güvenliği projesi üzerinde çizim yapan mühendis' },
-      { ikon: 'bina', baslik: 'Yapı Kullanma İzni Aşamasında Değerlendirme', metin: 'Projede öngörülen yangın güvenliği tedbirlerinin uygulamadaki karşılığının ve sistemlerin test ve devreye alma belgelerinin değerlendirilmesi.', gorsel: 'yapi-ticaret', alt: 'Yeni tamamlanmış ticari yapı' },
-      { ikon: 'pano', baslik: 'Yangın Güvenlik Periyodik Kontrolü', metin: 'Kapsama giren mevcut yapıların yangın güvenliği tedbirlerinin kontrol edilmesi, tespitlerin kayıt altına alınması ve yangın güvenlik raporunun hazırlanması.', gorsel: 'surec-sureklilik', alt: 'Periyodik kontrol etiketli yangın söndürme dolabı' },
-      { ikon: 'ekip', baslik: 'Yangın Tatbikatlarının Planlanması', metin: 'İlgili yapılarda yangın tatbikatlarının, yapı yönetiminin sorumluluğunda birlikte planlanması.', gorsel: 'rehber-acil-aydinlatma', alt: 'Koridorda yanan acil çıkış levhası' }
+      { ikon: 'kullanici', baslik: 'Bireysel Çalışma', metin: 'Uzman, kendi adına yürütülen hizmet modelinde doğrudan sorumluluk üstlenir; inceleme, tespit ve raporlama faaliyetlerini bizzat gerçekleştirir.', gorsel: 'serbest-sayfa-bireysel', alt: 'Masada duran YGU Rehberi logolu baret ve proje çizimi' },
+      { ikon: 'bina', baslik: 'Şirket Üzerinden Çalışma', metin: 'Uzman, YGU istihdam eden bir kuruluş bünyesinde görev alabilir. Ancak teknik değerlendirmeler yine görevli YGU tarafından yürütülür ve sorumluluk uzmanlık çerçevesinde devam eder.', gorsel: 'serbest-sayfa-sirket', alt: 'Cam cepheli kurumsal ofis binası' }
     ] as { ikon: Ikon; baslik: string; metin: string; gorsel: string; alt: string }[]
   },
-  isletme: {
-    baslik: 'İşletmelerde Nasıl Çalışır?',
-    not: "YGU'lar, işletmelerle doğrudan çalışarak görevlendirme kapsamında yangın güvenliği çalışmalarını yürütür.",
+  gorevlendirme: {
+    baslik: 'Serbest Çalışmada Görevlendirme Nasıl Yapılır?',
     adimlar: [
-      { ikon: 'belge', baslik: 'Talep ve ihtiyaç belirlenir', metin: 'İşletme, yapısına ve ihtiyacına uygun yangın güvenliği çalışması için YGU ile görüşür.' },
-      { ikon: 'liste', baslik: 'Görevlendirme yapılır', metin: 'Yapılacak işin kapsamı, uzmanın yetki seviyesi ve ilgili koşullar değerlendirilerek görevlendirme gerçekleştirilir.' },
-      { ikon: 'kask', baslik: 'Çalışma yürütülür', metin: 'Uzman, proje incelemesi, uygulama değerlendirmesi, periyodik kontrol veya tatbikat planlaması gibi çalışmaları gerçekleştirir.' },
-      { ikon: 'grafik', baslik: 'Rapor hazırlanır', metin: 'Çalışma sonuçları, ilgili mevzuat ve teknik dayanaklar doğrultusunda raporlanarak işletmeye sunulur.' }
+      { ikon: 'elSikisma', baslik: 'Protokol', metin: 'Mahalli itfaiye teşkilatı ile hizmet ilişkisi protokol üzerinden kurulur.' },
+      { ikon: 'liste', baslik: 'Görev Bildirimi', metin: "Görevin kapsamı ve gerekli belgeler ilgili YGU'ya bildirilir." },
+      { ikon: 'kask', baslik: 'Görevin Yürütülmesi', metin: 'YGU, yetki seviyesi ve görev kapsamına uygun olarak teknik incelemeyi gerçekleştirir.' },
+      { ikon: 'grafik', baslik: 'Raporlama', metin: 'Tespitler ve değerlendirmeler ilgili usule uygun şekilde raporlanır.' }
     ] as { ikon: Ikon; baslik: string; metin: string }[]
   },
-  avantajlar: {
-    baslik: 'Serbest Çalışmanın Avantajları',
-    not: "Serbest çalışma, YGU'lara farklı sektörlerde çeşitli yapılarda görev alma ve uzmanlıklarını bağımsız olarak sunma imkânı sağlar.",
+  bedel: {
+    baslik: 'Hizmet Bedeli ve Ödeme Yapısı',
+    metin: 'Serbest çalışma modelinde hizmet bedelleri belirli bir sistem çerçevesinde değerlendirilir. Hizmetin türü, kapsamı ve ilgili idarenin uygulama esasları bedelin oluşumunda etkili olur. Ödeme süreci, hizmetin tamamlanması ve onaylanmasıyla birlikte yürütülür.',
     liste: [
-      { ikon: 'pusula', baslik: 'Farklı projelerde yer alma imkânı', metin: 'Konutlardan endüstriyel yapılara kadar çeşitli projelerde çalışabilme.' },
-      { ikon: 'saat', baslik: 'Esnek çalışma modeli', metin: 'Kendi iş planını oluşturma ve çalışma zamanını daha esnek yönetebilme.' },
-      { ikon: 'grafik', baslik: 'Uzmanlık alanını geliştirme', metin: 'Farklı yapı türlerinde edinilen deneyimle uzmanlığını artırma.' },
-      { ikon: 'ekip', baslik: 'Geniş iş ağı', metin: 'İşletmeler, proje ofisleri ve farklı sektörlerle çalışma fırsatı.' }
+      { ikon: 'para', metin: 'Hizmetin türü ve kapsamı' },
+      { ikon: 'disli', metin: 'Uygulama esasları' },
+      { ikon: 'odemeKarti', metin: 'Ödeme süreci' }
+    ] as { ikon: Ikon; metin: string }[]
+  },
+  bagimsizlik: {
+    baslik: 'Mesleki Bağımsızlık ve Tarafsızlık',
+    maddeler: [
+      'YGU teknik değerlendirmelerinde bağımsız hareket eder.',
+      'Çıkar çatışması doğurabilecek durumlarda görev üstlenilmez.',
+      'Görev başkasına devredilmez; inceleme ve raporlama uzman tarafından yürütülür.',
+      'Hazırlanan değerlendirmeler gizlilik ve meslek etiği çerçevesinde ele alınır.'
+    ]
+  },
+  isletme: {
+    baslik: 'İşletmeler Doğrudan YGU ile Çalışabilir mi?',
+    metin: 'Teknik danışmanlık hizmetleri ile resmî YGU görevlendirmeleri aynı şey değildir. İşletmeler, yangın güvenliği konusunda danışmanlık alabilir; ancak resmî YGU hizmetleri ilgili görevlendirme ve hizmet modeli içinde değerlendirilir.',
+    liste: [
+      { ikon: 'balon', baslik: 'Teknik Danışmanlık', metin: "İşletmeler, yangın güvenliği ile ilgili planlama, iyileştirme ve uygulama konularında YGU'dan danışmanlık alabilir." },
+      { ikon: 'ekip', baslik: 'Resmî YGU Hizmeti', metin: "YGU'nun resmî görevlendirmeyle yürüttüğü inceleme, tespit ve raporlama faaliyetleri ise mevzuata uygun hizmet modeli içinde gerçekleştirilir." }
+    ] as { ikon: Ikon; baslik: string; metin: string }[]
+  },
+  bilinmesi: {
+    baslik: 'Serbest Çalışmak İsteyen YGU Neleri Bilmelidir?',
+    liste: [
+      { ikon: 'kalkan', baslik: 'Yetki seviyesi', metin: 'Hangi yapı ve kapsamda görev alınabileceğini belirler.' },
+      { ikon: 'katman', baslik: 'Görev kapsamı', metin: 'Yapılacak inceleme, tespit ve raporlama faaliyetlerinin sınırlarını ifade eder.' },
+      { ikon: 'takvim', baslik: 'Görevlendirme süreci', metin: 'Hizmet ilişkisinin nasıl kurulacağı ve görevin resmî olarak nasıl başlatılacağını kapsar.' },
+      { ikon: 'para', baslik: 'Hizmet bedeli', metin: 'Hizmetin niteliği ve kapsamına göre ilgili idare tarafından belirlenen esaslara göre değerlendirilir.' },
+      { ikon: 'terazi', baslik: 'Bağımsızlık ve sorumluluk', metin: 'YGU, görevini tarafsız ve bağımsız şekilde yürütür; teknik değerlendirmelerinden sorumludur.' }
     ] as { ikon: Ikon; baslik: string; metin: string }[]
   }
 }

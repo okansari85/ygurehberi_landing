@@ -212,7 +212,7 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
       <span class="ust">{{ ANA_SERBEST.ust }}</span>
       <h2 id="serbest-baslik">{{ ANA_SERBEST.baslik }}</h2>
       <p>{{ ANA_SERBEST.metin }}</p>
-      <NuxtLink to="/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma" class="btn btn-amber">Serbest Çalışmayı İncele <Ikon ad="ok" /></NuxtLink>
+      <NuxtLink to="/serbest-calisma" class="btn btn-amber">Serbest Çalışmayı İncele <Ikon ad="ok" /></NuxtLink>
     </div>
   </section>
 

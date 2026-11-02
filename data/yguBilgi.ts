@@ -106,7 +106,6 @@ export const YGU_KATEGORILER: YguKategori[] = [
     mevcut: [
       { baslik: 'Yangın Güvenlik Uzmanının Görevleri', ozet: 'YGU sahada ne yapar, hangi sorunlarla karşılaşır, rapor nasıl hazırlanır?', to: '/ygu-hakkinda/merak-edilenler/yangin-guvenlik-uzmani-gorevleri' },
       { baslik: 'Çalışma Alanları', ozet: 'YGU\'nun görev alabileceği yapılar ve kariyer alanları.', to: '/calisma-alanlari' },
-      { baslik: 'Serbest Çalışma', ozet: 'YGU kendi adına çalışabilir mi, hangi hizmetleri verebilir?', to: '/ygu-hakkinda/merak-edilenler/ygu-serbest-calisma' },
       // SSS ana menüden kaldırıldı, buradan ulaşılır (kullanıcı 18 Ekim: "Merak Edilenler varsa SSS ana menüden kalksın")
       { baslik: 'Sık Sorulan Sorular', ozet: 'Yangın güvenlik uzmanlığı hakkında en çok sorulan sorular ve kısa yanıtları.', to: '/sss' }
     ]
