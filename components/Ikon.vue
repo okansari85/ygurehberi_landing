@@ -2,7 +2,7 @@
 // Tasarımdaki ince çizgili (amber) ikonlar; 24×24, stroke = currentColor.
 import type { Ikon } from '~/data/icerik'
 
-defineProps<{ ad: Ikon | 'ok' | 'ara' | 'sag' | 'evIcon' | 'pdf' | 'konum' | 'takvimOnay' | 'eposta' | 'telefon' | 'kilit' | 'disLink' | 'asagi' }>()
+defineProps<{ ad: Ikon | 'ok' | 'ara' | 'sag' | 'evIcon' | 'pdf' | 'konum' | 'takvimOnay' | 'eposta' | 'telefon' | 'kilit' | 'disLink' | 'asagi' | 'gonder' | 'megafon' | 'oynat' | 'soru' }>()
 
 const YOLLAR: Record<string, string[]> = {
   elSikisma: ['M11 17l2 2a1.5 1.5 0 0 0 2.1-2.1', 'M14 15l2.5 2.5a1.5 1.5 0 0 0 2.1-2.1L14.7 11.500', 'M3 5l4 1 3-1 2 1', 'M21 5l-4 1-3.300-1a2 2 0 0 0-2.200.5L9 8.500a1.500 1.500 0 0 0 2.100 2.100l2-1.600 5 5', 'M3 5v9l2 1 5 5a1.500 1.500 0 0 0 2-2', 'M21 5v9h-2'],
@@ -75,6 +75,11 @@ const YOLLAR: Record<string, string[]> = {
   hedef: ['M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z', 'M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10z', 'M12 12l8-8', 'M17 4h3v3'],
   vinc: ['M7 22V4', 'M3 7h18', 'M7 4L3 7', 'M7 4l6 3', 'M18 7v4', 'M3 22h9', 'M13 22v-8h8v8', 'M11 22h11', 'M17 14v8', 'M13 18h8'],
   terazi: ['M12 3v18', 'M7 21h10', 'M4 7h16', 'M6 7l-3 7h6z', 'M18 7l-3 7h6z', 'M3 14a3 3 0 0 0 6 0', 'M15 14a3 3 0 0 0 6 0'],
+  // Ön kayıt sayfası (4 Kasım)
+  gonder: ['M22 2L11 13', 'M22 2l-7 20-4-9-9-4z'],
+  megafon: ['M3 10v4a1 1 0 0 0 1 1h3l7 4V5L7 9H4a1 1 0 0 0-1 1z', 'M17.5 9a4 4 0 0 1 0 6', 'M20 6.5a7.5 7.5 0 0 1 0 11', 'M7 15l1.500 5h2.500l-1.200-4.500'],
+  oynat: ['M3 6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z', 'M10 9l5 3-5 3z'],
+  soru: ['M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z', 'M9.500 9.500a2.500 2.500 0 1 1 3.500 2.300c-.6.3-1 .8-1 1.500V14', 'M12 17.500h.01'],
 }
 </script>
 

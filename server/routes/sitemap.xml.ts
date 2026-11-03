@@ -44,8 +44,8 @@ const SAYFALAR: Sayfa[] = [
   },
   {
     yol: '/on-kayit',
-    guncelleme: '2026-10-14',
-    gorseller: ['on-kayit-hero', 'on-kayit-form']
+    guncelleme: '2026-11-04',
+    gorseller: ['on-kayit-hero-2', 'on-kayit-vaka', 'on-kayit-makale']
   },
   {
     yol: '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme',

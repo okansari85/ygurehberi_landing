@@ -422,44 +422,62 @@ export const SERBEST_SAYFA = {
 }
 
 // Ön Kayıt sayfası (design/on-kayit.jpeg; üst menü ve alt bilgi sitenin kendisinden).
+// Ön Kayıt sayfası (/on-kayit): design/on-kayit-2.jpeg (Oğuz, 3 Kasım 2026). Metinler tasarımdan birebir.
 export const ON_KAYIT_SAYFA = {
-  baslik: 'YGU',
-  vurgu: 'Ön Kayıt',
-  alt: 'Yangın Güvenliği Uzmanı olmak için ilk adımı şimdi atın.',
-  metin:
-    'Eğitim, sınav ve belgelendirme süreci hakkında güncel bilgilere ulaşın. Başvurunuzu yaparak uzmanlık yolculuğunuzda bir adım öne geçin.',
-  neden: {
-    baslik: 'Neden Ön Kayıt?',
-    metin:
-      'YGU olmak isteyenler için hazırladığımız ön kayıt sistemi, süreci daha kolay ve hızlı hale getirir. Gelişmeleri takip edebilir, size özel bilgilendirmeler alabilirsiniz.',
-    maddeler: [
-      { ikon: 'belge', baslik: 'Güncel Bilgi', metin: 'Eğitim, sınav ve belgelendirme sürecine dair en güncel bilgilere ulaşın.' },
-      { ikon: 'zil', baslik: 'Bilgilendirme', metin: 'Başvuru süreci, sınav tarihleri ve önemli duyurulardan haberdar olun.' },
-      { ikon: 'pusula', baslik: 'Doğru Yönlendirme', metin: 'Hedefinize uygun adımları planlamanıza yardımcı olacak içeriklere erişin.' },
-      { ikon: 'kullanici', baslik: 'Kolay Başvuru', metin: 'Sadece birkaç adımda ön kaydınızı tamamlayın, sürecinizi başlatın.' }
-    ] as { ikon: Ikon; baslik: string; metin: string }[]
+  ust: 'Yangın Güvenlik Uzmanlığı (YGU) Eğitimleri',
+  baslik: 'Yangın Güvenlik Uzmanı Olmaya',
+  vurgu: 'İlk Adımı Atın!',
+  metin: 'YGU eğitimlerimiz için ön kaydınızı oluşturun. Eğitim takvimi, başvuru süreci ve önemli bilgilendirmelerden ilk siz haberdar olun.',
+  heroDugme: 'Ön Kayıt Formuna Git',
+  bant: {
+    baslik: 'İlk YGU Eğitimini',
+    vurgu: 'Kaçırmayın!',
+    metin: 'Yakında başlayacak YGU eğitimleri, kontenjan bilgileri ve tüm detaylar için şimdi ön kaydınızı oluşturun.'
   },
+  maddeler: [
+    { ikon: 'hedef', baslik: 'Neden Ön Kayıt?', metin: 'Eğitim süreci ve başvuru koşulları hakkında ilk bilgilendirmeyi alın.' },
+    { ikon: 'takvim', baslik: 'Eğitim Takviminden İlk Siz Haberdar Olun', metin: 'Planlanan YGU eğitimlerinin tarih ve içeriklerini önceden öğrenin.' },
+    { ikon: 'zil', baslik: 'Önemli Duyuruları Kaçırmayın', metin: 'Mevzuat, başvuru ve süreç değişikliklerinden anında haberdar olun.' },
+    { ikon: 'grafik', baslik: 'Kariyerinizde Yeni Bir Adım', metin: 'Yangın güvenliği alanında uzmanlaşma fırsatını değerlendirin.' }
+  ] as { ikon: Ikon; baslik: string; metin: string }[],
   form: {
-    sol: 'Hayalleriniz Güvenli Yapılarla Buluşsun',
-    solMetin: 'YGU olmak için ön kaydınızı hemen yapın. Sizden gelen her başvuru, yangın güvenliği için daha güçlü bir gelecek demek.',
-    baslik: 'Ön Kayıt Formu',
-    metin: 'Kısa bilgilerinizle ön kaydınızı oluşturun. Sizi süreç hakkında bilgilendirelim.',
-    dugme: 'Ön Kaydımı Tamamla',
-    gizlilik: 'Bilgileriniz gizli tutulur, ticari amaçlarla üçüncü kişilere satılmaz.'
+    baslik: 'YGU Eğitimleri Ön Kayıt Formu',
+    metin: 'Bilgilerinizi girerek ön kaydınızı oluşturun.',
+    seviyeler: ['YGU-1', 'YGU-2', 'YGU-3', 'YGU-K'],
+    bilgiBaslik: 'Hangi YGU seviyesine başvurabileceğinizi öğrenmek ister misiniz?',
+    bilgiMetin: 'Seviye tanımları, başvuru koşulları ve görev kapsamlarını inceleyin.',
+    bilgiDugme: 'YGU Seviyelerini İncele',
+    bilgiTo: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri',
+    dugme: 'Ön Kaydımı Oluştur'
   },
-  slogan: 'Daha güvenli yapılar, daha güvenli bir gelecek.'
+  kartlar: [
+    {
+      baslik: 'Vakalarla Öğren',
+      ikon: 'alev',
+      metin: 'Gerçek vakalar, saha tespitleri ve uygulama örnekleri üzerinden öğrenin. Eksikleri, çözüm yollarını ve teknik değerlendirmeleri keşfedin.',
+      dugme: 'Vakaları İncele',
+      to: '/vakalarla-ogren',
+      gorsel: '/img/on-kayit-vaka.webp'
+    },
+    {
+      baslik: 'Teknik Makaleler',
+      ikon: 'kitap',
+      metin: 'Yangın bilimi, yapı güvenliği ve YGU uygulamalarına ilişkin kapsamlı teknik yayınlara ulaşın.',
+      dugme: 'Makaleleri Oku',
+      to: '/teknik-makaleler',
+      gorsel: '/img/on-kayit-makale.webp'
+    }
+  ] as { baslik: string; ikon: Ikon; metin: string; dugme: string; to: string; gorsel: string }[],
+  takip: {
+    baslik: 'YGU Gelişmelerini Kaçırmayın',
+    metin: 'Eğitim duyuruları, mevzuat değişiklikleri, yeni teknik makaleler ve vaka analizleriyle YGU Rehberi’ni düzenli takip edin.',
+    ogeler: [
+      { ikon: 'oynat', ad: 'Sosyal Medya' },
+      { ikon: 'kitap', ad: 'Yeni Yayınlar' },
+      { ikon: 'zil', ad: 'Güncel Duyurular' }
+    ] as { ikon: 'oynat' | Ikon; ad: string }[]
+  }
 }
-
-export const ILLER = [
-  'Adana', 'Adıyaman', 'Afyonkarahisar', 'Ağrı', 'Aksaray', 'Amasya', 'Ankara', 'Antalya', 'Ardahan', 'Artvin', 'Aydın',
-  'Balıkesir', 'Bartın', 'Batman', 'Bayburt', 'Bilecik', 'Bingöl', 'Bitlis', 'Bolu', 'Burdur', 'Bursa', 'Çanakkale',
-  'Çankırı', 'Çorum', 'Denizli', 'Diyarbakır', 'Düzce', 'Edirne', 'Elazığ', 'Erzincan', 'Erzurum', 'Eskişehir',
-  'Gaziantep', 'Giresun', 'Gümüşhane', 'Hakkâri', 'Hatay', 'Iğdır', 'Isparta', 'İstanbul', 'İzmir', 'Kahramanmaraş',
-  'Karabük', 'Karaman', 'Kars', 'Kastamonu', 'Kayseri', 'Kilis', 'Kırıkkale', 'Kırklareli', 'Kırşehir', 'Kocaeli',
-  'Konya', 'Kütahya', 'Malatya', 'Manisa', 'Mardin', 'Mersin', 'Muğla', 'Muş', 'Nevşehir', 'Niğde', 'Ordu',
-  'Osmaniye', 'Rize', 'Sakarya', 'Samsun', 'Şanlıurfa', 'Siirt', 'Sinop', 'Şırnak', 'Sivas', 'Tekirdağ', 'Tokat',
-  'Trabzon', 'Tunceli', 'Uşak', 'Van', 'Yalova', 'Yozgat', 'Zonguldak'
-]
 
 // SSS sayfası (/sss). Tasarım yok; YGU Hakkında sayfasının kalıbıyla yapıldı. İlk 6 sorunun soru cümleleri Claude'un (kullanıcı 15 Ekim'de "kalsın" dedi);
 // ilk 5'in yanıtı kullanıcının verdiği metinden ilgili bölümün tamamı (düz metin, aşağıda SSS_ILK_BES; `bloklar` tablo/kart görünümü için, `yanit` şema ve arama için).
