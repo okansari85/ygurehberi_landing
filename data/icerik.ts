@@ -30,8 +30,15 @@ export type Ikon =
 // "Kaynaklar" açılır menü (kullanıcı 15 Ekim: rehberler ve teknik makaleler tek menü altında). `yakinda: true` = sayfası henüz yok.
 export type MenuOge = { ad: string; to: string; yakinda?: boolean; alt?: MenuOge[] }
 export const MENU: MenuOge[] = [
-  { ad: 'YGU Hakkında', to: '/ygu-hakkinda' }, // bölümler sayfa içindeki şeritte (YguBolumSeridi), açılır menü yok
-  { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
+  {
+    // Oğuz'un isteği (4 Kasım): Çalışma Alanları YGU Hakkında açılırına girdi; bölümler yine sayfadaki şeritte (YguBolumSeridi)
+    ad: 'YGU Hakkında',
+    to: '/ygu-hakkinda',
+    alt: [
+      { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
+      { ad: 'Çalışma Alanları', to: '/calisma-alanlari' }
+    ]
+  },
   { ad: 'Vakalarla Öğren', to: '/vakalarla-ogren' },
   {
     ad: 'Kaynaklar',
