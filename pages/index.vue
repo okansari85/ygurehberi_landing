@@ -2,7 +2,7 @@
 // Ana sayfa: design/ana-sayfa.jpeg (bölüm sırası ve metinler birebir).
 import {
   SITE, ON_KAYIT, HERO_ETIKETLER, HERO_KART_MADDELER, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, ANA_CALISMA,
-  YGU_YOLU, ANA_GOREVLER, ANA_SERBEST, KONTROL_SURELERI, KONTROL_ARACI, VAKALAR, REHBERLER, YGU_NEDIR, NASIL_OLUNUR
+  YGU_YOLU, ANA_YGU_NEDIR, ANA_GOREVLER, ANA_SERBEST, KONTROL_SURELERI, KONTROL_ARACI, VAKALAR, REHBERLER, YGU_NEDIR, NASIL_OLUNUR
 } from '~/data/icerik'
 
 const sure = (s: string) => s.replace(' Yıl', ' yılda bir')
@@ -105,6 +105,31 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
       </NuxtLink>
       </div>
       <button type="button" class="hizli-ok sonraki" aria-label="Sonraki konular" :disabled="sonda" @click="kaydir(1)"><Ikon ad="ok" /></button>
+    </div>
+  </section>
+
+  <!-- YGU NEDİR (Oğuz'un tasarımı, 4 Kasım 2026) -->
+  <section id="ygu-nedir" class="bolum ana-nedir" aria-labelledby="nedir-baslik">
+    <div class="wrap">
+      <div class="an-cerceve">
+      <div class="ana-nedir-ic">
+      <div class="an-sol">
+        <span class="an-ust">{{ ANA_YGU_NEDIR.ust }}</span>
+        <h2 id="nedir-baslik">{{ ANA_YGU_NEDIR.baslik }}</h2>
+        <p>{{ ANA_YGU_NEDIR.metin }}</p>
+        <p>{{ ANA_YGU_NEDIR.metin2 }}</p>
+        <NuxtLink :to="ANA_YGU_NEDIR.dugme.to" class="btn btn-amber an-dugme">{{ ANA_YGU_NEDIR.dugme.ad }} <Ikon ad="ok" /></NuxtLink>
+      </div>
+      <div class="an-sag">
+        <img :src="`/img/${ANA_YGU_NEDIR.gorsel}.webp`" :alt="ANA_YGU_NEDIR.alt" width="1580" height="992" loading="lazy" class="an-gorsel">
+        <ul class="an-kartlar">
+          <li v-for="k in ANA_YGU_NEDIR.kartlar" :key="k.ad">
+            <NuxtLink :to="k.to" class="an-kart"><Ikon :ad="k.ikon" /><span>{{ k.ad }}</span></NuxtLink>
+          </li>
+        </ul>
+      </div>
+      </div>
+      </div>
     </div>
   </section>
 
@@ -341,7 +366,31 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 @media (max-width:960px){.hero-ic{grid-template-columns:1fr;min-height:0}.hero::before{background:linear-gradient(180deg,rgba(14,14,14,.86),rgba(14,14,14,.92))}}
 
 /* HIZLI KARTLAR */
-.hizli{padding:22px 0 44px;border-bottom:4px solid #F5B000}
+/* YGU NEDİR (Oğuz'un tasarımı, 4 Kasım 2026); kartlar şeridinin amber alt çizgisi bu bölüme geçti */
+.ana-nedir{padding-top:clamp(28px,3vw,44px);border-bottom:4px solid #F5B000}
+/* Siyah tablet çerçevesi tasarımda var, müşteri istiyor (kullanıcı 4 Kasım) */
+.an-cerceve{padding:clamp(10px,2.4vw,30px);border-radius:clamp(26px,3.6vw,48px);background:linear-gradient(145deg,#2A2A2A,#0B0B0B 40%,#1C1C1C);
+  box-shadow:0 0 0 1.5px #000,inset 0 0 0 2px rgba(255,255,255,.08),0 26px 50px -28px rgba(0,0,0,.65)}
+.ana-nedir-ic{padding:clamp(26px,4.4vw,72px) clamp(20px,3.8vw,60px);border-radius:clamp(18px,2.2vw,28px);background:#fff;box-shadow:inset 0 0 0 1px rgba(0,0,0,.12);display:grid;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);gap:clamp(24px,3vw,44px);align-items:center}
+.an-ust{display:inline-block;padding:7px 18px;border-radius:8px;background:var(--amber);font-family:var(--body);font-size:13.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:#111}
+.an-sol h2{position:relative;margin-top:22px;padding-bottom:26px;font-family:var(--body);font-size:clamp(30px,2.75vw,42px);font-weight:700;line-height:1.16;letter-spacing:-.01em;text-transform:none;color:#111}
+.an-sol h2::after{content:"";position:absolute;left:0;bottom:0;width:72px;height:5px;border-radius:3px;background:var(--amber)}
+.an-sol p{margin:22px 0 0;font-size:16px;line-height:1.75;color:#2A2825;max-width:540px}
+.an-sol p+p{margin-top:16px}
+.an-dugme{margin-top:34px;min-height:58px;padding:0 30px;border-radius:10px;font-family:var(--body);font-size:18px}
+.an-gorsel{display:block;width:100%;aspect-ratio:1580/992;object-fit:cover;border-radius:14px;box-shadow:0 18px 36px -26px rgba(0,0,0,.55)}
+.an-kartlar{list-style:none;margin:16px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.an-kart{display:flex;align-items:center;gap:12px;height:100%;min-height:88px;padding:14px;border-radius:12px;background:#F4F4F3;text-decoration:none;color:#111;
+  font-family:var(--body);font-weight:700;font-size:clamp(14px,1.15vw,16.5px);line-height:1.25;transition:background .15s ease, transform .2s ease}
+.an-kart:hover{background:#ECEBE8;transform:translateY(-2px)}
+.an-kart .ikon{font-size:34px;color:#111}
+.an-kart span{min-width:0;padding-left:12px;border-left:2.5px solid var(--amber)}
+@media (max-width:1180px) and (min-width:561px){.an-kart{flex-direction:column;justify-content:center;gap:8px;text-align:center}.an-kart span{padding-left:0;border-left:0}}
+@media (max-width:980px){.ana-nedir-ic{grid-template-columns:1fr}}
+@media (max-width:560px){.an-cerceve{padding:8px;border-radius:22px}.ana-nedir-ic{border-radius:15px}}
+@media (max-width:560px){.an-kartlar{grid-template-columns:1fr}.an-kart{min-height:68px}}
+
+.hizli{padding:22px 0 44px}
 .hizli-slider{position:relative}
 .hizli-izgara{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 5 * 14px) / 6);gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;padding:6px 0 10px;margin:-6px 0 -10px}
 .hizli-izgara::-webkit-scrollbar{display:none}

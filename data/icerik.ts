@@ -82,6 +82,22 @@ export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: str
   { ikon: 'liste', baslik: 'Vakalarla Öğren', metin: 'Gerçek yangın vakaları ve analizleri.', to: '/vakalarla-ogren', gorsel: '/img/vakalar-hero.webp', rozet: true }
 ]
 
+// Ana sayfa "YGU Nedir?" bölümü: Oğuz'un tasarımı (4 Kasım 2026, design/ana-sayfa-ygu-nedir.jpeg), metinler tasarımdan.
+export const ANA_YGU_NEDIR = {
+  ust: 'Yangın Güvenlik Uzmanlığını Tanıyın',
+  baslik: 'Yangın Güvenlik Uzmanı (YGU) Nedir?',
+  metin: 'Yangın güvenlik uzmanı; yapıların proje, uygulama ve kullanım aşamalarında yangın güvenliği tedbirlerini değerlendirmek üzere yetkilendirilmesi öngörülen teknik uzmandır.',
+  metin2: "YGU'nun görevlerini, uzmanlık seviyelerini ve mesleğe giriş sürecini keşfedin.",
+  dugme: { ad: 'YGU Mesleğini Keşfedin', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
+  gorsel: 'ana-ygu-nedir',
+  alt: 'YGU Rehberi logolu beyaz baret, yangın tesisatı ve kat planları',
+  kartlar: [
+    { ikon: 'pano', ad: 'Görevler', to: '/yangin-guvenlik-uzmani-gorevleri' },
+    { ikon: 'katman', ad: 'Uzmanlık Seviyeleri', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri' },
+    { ikon: 'kep', ad: 'Mesleğe Giriş', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur' }
+  ] as { ikon: Ikon; ad: string; to: string }[]
+}
+
 export const SUREC = {
   ust: "YGU'nun Çalışma Yaklaşımı",
   baslik: 'Yangın Güvenliği Projede Başlar,',
