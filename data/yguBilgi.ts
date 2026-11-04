@@ -20,6 +20,7 @@ export const YAZARLAR = [
 export type YguKategori = {
   yol: string
   ad: string
+  sekme?: string // YGU Hakkında sekme şeridindeki kısa ad (yoksa ad); adres yol'dan gelir, değişmez
   ikon: Ikon
   gorsel: string // public/img/<ad>.webp: kategori sayfasının hero ve içerik arka planı
   kisa: string // kartta ve menüde alt satır
@@ -56,6 +57,7 @@ export const YGU_KATEGORILER: YguKategori[] = [
   {
     yol: 'ygu-olma-sartlari',
     ad: 'YGU Olma Şartları',
+    sekme: 'Kimler YGU Olabilir?',
     ikon: 'rozet',
     gorsel: 'hakkinda-hero',
     kisa: 'Hangi meslek hangi seviyeye başvurur, genel şartlar ve muafiyetler',
@@ -69,6 +71,7 @@ export const YGU_KATEGORILER: YguKategori[] = [
   {
     yol: 'egitim-ve-belgelendirme',
     ad: 'Eğitim ve Belgelendirme',
+    sekme: 'Eğitim Süreci',
     ikon: 'kep',
     gorsel: 'egitim-hero',
     kisa: 'Müfredat, başvuru belgeleri, sınav kuralları ve yetki belgesi',

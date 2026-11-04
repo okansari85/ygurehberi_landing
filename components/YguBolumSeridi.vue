@@ -15,7 +15,7 @@ const props = defineProps<{ kategori?: string }>() // kategori yoksa (YGU Hakkı
       <NuxtLink
         v-for="k in YGU_KATEGORILER" :key="k.yol" :to="`/ygu-hakkinda/${k.yol}`"
         class="cip" :class="{ secili: k.yol === props.kategori }" :aria-current="k.yol === props.kategori ? 'page' : undefined"
-      ><Ikon :ad="k.ikon" /> {{ k.ad }}</NuxtLink>
+      ><Ikon :ad="k.ikon" /> {{ k.sekme ?? k.ad }}</NuxtLink>
     </div>
   </nav>
 </template>
