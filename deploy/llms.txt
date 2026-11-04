@@ -489,13 +489,13 @@ Konutlardan endüstriyel tesislere kadar çok çeşitli yapı ve tesislerde yang
 
 ## Yangın güvenliği kontrolleri kaç yılda bir yapılır?
 
-Yapı ve tesislerin tehlike sınıfına göre periyodik yangın güvenliği kontrolleri belirli aralıklarla gerçekleştirilir. Aşağıdaki süreler, taslak düzenlemedeki örnek değerleri göstermektedir.
-- Düşük tehlikeli endüstriyel tesis: 5 Yıl
-- Orta tehlikeli endüstriyel tesis: 4 Yıl
-- Yüksek tehlikeli endüstriyel tesis: 3 Yıl
-- Yapı Türüne Göre Farklı Süreler: Konut, ticari, eğitim, sağlık vb. yapılar için detaylı tablo
+Yangın güvenlik periyodik kontrol süreleri; yapının kullanım sınıfına, yüksekliğine, büyüklüğüne, kapasitesine ve yangın tehlike düzeyine göre belirlenir. Yönetmelik taslağında yapı türlerine göre 3, 4 ve 5 yıllık kontrol periyotları öngörülmektedir.
+- 5 Yıl: Düşük tehlikeli yapılar ve tesisler için daha uzun kontrol aralığı.
+- 4 Yıl: Orta tehlikeli yapılar ve endüstriyel tesisler için kontrol aralığı.
+- 3 Yıl: Yüksek tehlikeli yapılar, endüstriyel tesisler ve özel risk taşıyan yerler için daha sık kontrol.
+- Yapı Türüne Göre Farklı Süreler: Konut, ticari, eğitim, sağlık, toplanma, konaklama, depo ve diğer yapılar için detaylı tablo.
 
-Not: Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerdir, yürürlükteki zorunlu kontrol periyotları olarak sunulmaz.
+Not: Gösterilen süreler, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik taslağındaki düzenlemelere dayanmaktadır.
 
 ## Konular
 
@@ -5686,7 +5686,7 @@ Kontrol kapsamı yapı kullanım sınıfları ve mevzuattaki diğer koşullara g
 
 ### Yangın güvenliği kontrolleri kaç yılda bir yapılır?
 
-Yapı ve tesislerin tehlike sınıfına göre periyodik yangın güvenliği kontrolleri belirli aralıklarla gerçekleştirilir. Aşağıdaki süreler, taslak düzenlemedeki örnek değerleri göstermektedir. Düşük tehlikeli endüstriyel tesis: 5 yılda bir; Orta tehlikeli endüstriyel tesis: 4 yılda bir; Yüksek tehlikeli endüstriyel tesis: 3 yılda bir. Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerdir, yürürlükteki zorunlu kontrol periyotları olarak sunulmaz.
+Yangın güvenlik periyodik kontrol süreleri; yapının kullanım sınıfına, yüksekliğine, büyüklüğüne, kapasitesine ve yangın tehlike düzeyine göre belirlenir. Yönetmelik taslağında yapı türlerine göre 3, 4 ve 5 yıllık kontrol periyotları öngörülmektedir. Düşük tehlikeli yapılar ve tesisler için daha uzun kontrol aralığı.: 5 yılda bir; Orta tehlikeli yapılar ve endüstriyel tesisler için kontrol aralığı.: 4 yılda bir; Yüksek tehlikeli yapılar, endüstriyel tesisler ve özel risk taşıyan yerler için daha sık kontrol.: 3 yılda bir. Gösterilen süreler, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik **taslağındaki** düzenlemelere dayanmaktadır.
 
 ### Yangın Güvenlik Uzmanı olmak için mühendis olmak zorunlu mudur?
 

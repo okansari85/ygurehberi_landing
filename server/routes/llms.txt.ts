@@ -233,10 +233,10 @@ ${CALISMA_ALANLARI.yapilar.map((y) => `- ${y.ad} ${y.alt}`).join('\n')}
 ## Yangın güvenliği kontrolleri kaç yılda bir yapılır?
 
 ${KONTROL_SURELERI.metin}
-${KONTROL_SURELERI.sureler.map((s) => `- ${s.metin}: ${s.sure}`).join('\n')}
+${KONTROL_SURELERI.sureler.map((s) => `- ${s.sure}: ${s.metin}`).join('\n')}
 - ${KONTROL_SURELERI.diger.baslik}: ${KONTROL_SURELERI.diger.metin}
 
-Not: ${KONTROL_SURELERI.not}
+Not: ${KONTROL_SURELERI.not.replaceAll('**', '')}
 
 ## Konular
 

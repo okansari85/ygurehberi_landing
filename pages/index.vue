@@ -28,7 +28,7 @@ useSayfaSeo({
       { soru: 'Nasıl YGU olunur?', yanit: `${NASIL_OLUNUR} ${YGU_YOLU.metinVurgu}` },
       {
         soru: 'Yangın güvenliği kontrolleri kaç yılda bir yapılır?',
-        yanit: `${KONTROL_SURELERI.metin} ${KONTROL_SURELERI.sureler.map((s) => `${s.metin}: ${sure(s.sure)}`).join('; ')}. ${KONTROL_SURELERI.not}`
+        yanit: `${KONTROL_SURELERI.metin} ${KONTROL_SURELERI.sureler.map((s) => `${sure(s.sure)}: ${s.metin}`).join(' ')} ${KONTROL_SURELERI.not.replaceAll('**', '')}`
       },
       { soru: 'YGU hangi yapılarda görev alır?', yanit: `${ANA_CALISMA.metin} ${ANA_CALISMA.yapilar.map((y) => `${y.ad} (${y.alt})`).join(', ')}.` }
     ], '/')
@@ -216,43 +216,48 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
     </div>
   </section>
 
-  <!-- KONTROL SÜRELERİ -->
+  <!-- KONTROL SÜRELERİ (Oğuz'un tasarımı, 4 Kasım 2026) -->
   <section id="kontrol-sureleri" class="bolum" aria-labelledby="kontrol-baslik">
-    <div class="wrap iki-kolon">
+    <div class="wrap kontrol">
       <div class="sol">
-        <span class="ust">{{ KONTROL_SURELERI.ust }}</span>
+        <span class="kontrol-ust">{{ KONTROL_SURELERI.ust }}</span>
         <h2 id="kontrol-baslik">{{ KONTROL_SURELERI.baslik }} <span class="vurgu">{{ KONTROL_SURELERI.vurgu }}</span></h2>
         <p>{{ KONTROL_SURELERI.metin }}</p>
-        <NuxtLink to="/calisma-alanlari" class="btn btn-amber">Tüm Yapı Türleri ve Süreleri Gör <Ikon ad="ok" /></NuxtLink>
       </div>
       <div>
         <ul class="sureler">
           <li v-for="s in KONTROL_SURELERI.sureler" :key="s.sure" class="kart sure-kart">
-            <Ikon ad="takvim" />
+            <KontrolCizim :ad="s.cizim" />
             <strong>{{ s.sure }}</strong>
             <span>{{ s.metin }}</span>
           </li>
           <li class="kart sure-kart diger">
-            <Ikon ad="belge" />
+            <KontrolCizim ad="tablo" />
             <strong>{{ KONTROL_SURELERI.diger.baslik }}</strong>
             <span>{{ KONTROL_SURELERI.diger.metin }}</span>
           </li>
         </ul>
-        <p class="sure-not"><Ikon ad="bilgi" /><span>{{ KONTROL_SURELERI.not }}<br>{{ KONTROL_SURELERI.not2 }}</span></p>
+        <div class="sure-alt">
+          <NuxtLink to="/calisma-alanlari" class="btn btn-amber sure-dugme"><Ikon ad="kitap" /> {{ KONTROL_SURELERI.dugme }} <Ikon ad="ok" /></NuxtLink>
+          <p class="sure-not"><Ikon ad="bilgi" /><span><VurguluMetin :metin="KONTROL_SURELERI.not" /></span></p>
+        </div>
       </div>
     </div>
     <div class="wrap">
       <aside class="arac-bant" aria-labelledby="arac-baslik">
-        <span class="arac-ikon"><Ikon ad="takvimOnay" /></span>
+        <span class="arac-cizim"><KontrolCizim ad="takvim" /></span>
         <div class="arac-metin">
-          <h2 id="arac-baslik">{{ KONTROL_ARACI.ust }}<br>{{ KONTROL_ARACI.baslik }}</h2>
+          <h2 id="arac-baslik">{{ KONTROL_ARACI.ust }} <span class="arac-vurgu">{{ KONTROL_ARACI.baslik }}</span></h2>
           <p>{{ KONTROL_ARACI.metin }}</p>
+          <ul class="arac-adimlar">
+            <li v-for="a in KONTROL_ARACI.adimlar" :key="a.ad"><Ikon :ad="a.ikon" /> {{ a.ad }}</li>
+          </ul>
         </div>
-        <img :src="`/img/${KONTROL_ARACI.gorsel}.webp`" alt="" width="1536" height="1024" loading="lazy" class="arac-gorsel">
-        <div class="arac-eylem">
-          <span class="arac-yakinda">Yakında</span>
-          <button type="button" class="btn arac-dugme" disabled>{{ KONTROL_ARACI.dugme }} <Ikon ad="ok" /></button>
-          <small>{{ KONTROL_ARACI.not }}</small>
+        <div class="arac-sag">
+          <img :src="`/img/${KONTROL_ARACI.gorsel}.webp`" alt="" width="371" height="156" loading="lazy" class="arac-gorsel">
+          <button type="button" class="arac-dugme" disabled :title="KONTROL_ARACI.not">
+            <Ikon ad="hesap" /> {{ KONTROL_ARACI.dugme }} <Ikon ad="ok" /><span class="arac-yakinda">Yakında</span>
+          </button>
         </div>
       </aside>
     </div>
@@ -463,29 +468,53 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:760px){.yol{grid-template-columns:repeat(2,1fr);row-gap:24px}.yol::before{display:none}.yol-kart{padding:16px 14px}.yol-kart h3{font-size:20px}}
 @media (max-width:400px){.yol{grid-template-columns:1fr}}
 
-/* KONTROL SÜRELERİ */
+/* KONTROL SÜRELERİ (Oğuz'un tasarımı, 4 Kasım 2026) */
+.kontrol{display:grid;grid-template-columns:minmax(280px,380px) 1fr;gap:clamp(24px,3vw,44px);align-items:start}
+.kontrol-ust{display:flex;align-items:center;gap:10px;font-family:var(--display);font-size:17px;font-weight:700;letter-spacing:.02em;text-transform:uppercase;color:#111}
+.kontrol-ust::before{content:"";width:5px;height:22px;border-radius:2px;background:var(--amber)}
+.kontrol .sol h2{margin-top:14px;font-size:clamp(34px,3.4vw,50px);line-height:1.02}
+.kontrol .sol p{margin:18px 0 0;font-size:15px;line-height:1.6;color:#2E2B27}
 .sureler{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
-.sure-kart{display:flex;flex-direction:column;align-items:center;text-align:center;padding:22px 14px;gap:6px}
-.sure-kart .ikon{font-size:48px;color:var(--amber-2);margin-bottom:6px}
-.sure-kart strong{font-family:var(--display);font-size:30px;line-height:1}
-.sure-kart span{color:var(--muted);font-size:14.5px;line-height:1.35}
-.sure-kart.diger strong{font-size:20px;line-height:1.1}
-.sure-not{display:flex;gap:12px;align-items:flex-start;margin:18px 0 0;font-size:13px;color:var(--muted)}
-.sure-not .ikon{font-size:28px;color:var(--amber-2)}
-@media (max-width:760px){.sureler{grid-template-columns:repeat(2,1fr)}}
+.sure-kart{display:flex;flex-direction:column;align-items:center;text-align:center;padding:26px 16px 24px;border-radius:14px;box-shadow:0 10px 26px -20px rgba(0,0,0,.35)}
+.sure-kart .cizim{font-size:76px;margin-bottom:14px}
+.sure-kart strong{font-family:var(--display);font-size:46px;line-height:1;color:#111}
+.sure-kart strong::after{content:"";display:block;width:40px;height:4px;margin:14px auto 16px;border-radius:2px;background:var(--amber)}
+.sure-kart span{color:#3A3733;font-size:14.5px;line-height:1.45}
+.sure-kart.diger strong{font-size:24px;line-height:1.08}
+.sure-alt{display:flex;align-items:center;gap:28px;margin-top:22px}
+.sure-dugme{flex:none;min-height:58px;padding:0 28px;border-radius:12px;font-size:19px}
+.sure-dugme .ikon:first-child{font-size:26px}
+.sure-not{display:flex;gap:14px;align-items:center;margin:0;padding-left:28px;border-left:1.5px solid #D6D2CB;font-size:13px;line-height:1.55;color:#2E2B27}
+.sure-not .ikon{font-size:34px;color:var(--amber-2)}
+@media (max-width:1180px){.kontrol{grid-template-columns:1fr}.sureler{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:760px){.sure-alt{flex-direction:column;align-items:stretch;gap:16px}.sure-not{padding-left:0;border-left:0}.sure-dugme{font-size:17px;padding:0 18px}}
+@media (max-width:420px){.sureler{grid-template-columns:1fr}}
 
 /* KONTROL SÜRESİ ARACI BANDI */
-.arac-bant{display:grid;grid-template-columns:auto minmax(0,1fr) 170px 280px;gap:28px;align-items:center;margin-top:clamp(32px,4vw,48px);padding:22px 30px;background:#FFF8E1;border:1.5px solid #FBE3A0;border-radius:14px}
-.arac-ikon{display:flex;font-size:120px;color:var(--amber-2)}
-.arac-metin h2{font-size:clamp(26px,2.3vw,34px);line-height:1.08}
-.arac-metin p{margin:10px 0 0;font-size:14.5px;color:#3E3B36;max-width:640px}
-.arac-gorsel{width:170px;height:150px;object-fit:cover;border-radius:10px;box-shadow:0 12px 24px -16px rgba(0,0,0,.6)}
-.arac-eylem{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
-.arac-yakinda{align-self:flex-end;border:1.5px solid #D93025;color:#D93025;border-radius:999px;padding:2px 12px;font-size:13px;font-weight:700}
-.arac-dugme{width:100%;background:#E3E1DD;color:#9A968F;cursor:not-allowed}
-.arac-eylem small{font-size:11.5px;color:var(--muted);line-height:1.45}
-@media (max-width:1100px){.arac-bant{grid-template-columns:auto minmax(0,1fr) 240px}.arac-gorsel{display:none}}
-@media (max-width:760px){.arac-bant{grid-template-columns:1fr;gap:18px;padding:22px}.arac-ikon{font-size:72px}.arac-yakinda{align-self:center}}
+.arac-bant{position:relative;display:grid;grid-template-columns:auto minmax(0,1fr) minmax(280px,31%);align-items:center;margin-top:clamp(36px,4.5vw,56px);
+  background:#fff;border:1.5px solid var(--amber);border-radius:18px;overflow:hidden;box-shadow:0 14px 32px -26px rgba(0,0,0,.4)}
+.arac-cizim{display:flex;padding:24px 26px;font-size:140px;border-right:1.5px solid #EFE6CC;align-self:stretch;align-items:center}
+.arac-metin{padding:26px 0 26px 30px}
+.arac-metin h2{font-size:clamp(28px,2.5vw,38px);line-height:1.12;color:#111}
+.arac-vurgu{display:inline-block;margin-top:4px;padding:0 12px;border-radius:6px;background:var(--amber)}
+.arac-metin p{margin:14px 0 0;font-size:14.5px;line-height:1.55;color:#2E2B27;max-width:560px}
+.arac-adimlar{list-style:none;margin:18px 0 0;padding:0;display:flex;flex-wrap:nowrap;gap:10px 0}
+.arac-adimlar li{display:flex;align-items:center;gap:8px;padding:0 10px;font-family:var(--display);font-weight:600;font-size:14.5px;color:#1B1B1B;white-space:nowrap}
+.arac-adimlar li:first-child{padding-left:0}
+.arac-adimlar li+li{border-left:2px solid var(--amber)}
+.arac-adimlar .ikon{font-size:24px;color:#111}
+.arac-sag{position:relative;align-self:stretch;display:flex;align-items:center;justify-content:flex-end;padding:24px 28px;min-height:220px;
+  background:repeating-linear-gradient(115deg,transparent 0 46px,rgba(255,193,7,.22) 46px 72px,transparent 72px 104px,rgba(255,193,7,.38) 104px 120px) right/45% 100% no-repeat}
+.arac-gorsel{position:absolute;left:-14%;bottom:0;width:80%;height:100%;object-fit:cover;object-position:left bottom;
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 22%,#000 70%,transparent),linear-gradient(180deg,transparent,#000 30%);-webkit-mask-composite:source-in;
+  mask-image:linear-gradient(90deg,transparent,#000 22%,#000 70%,transparent),linear-gradient(180deg,transparent,#000 30%);mask-composite:intersect}
+.arac-dugme{position:relative;display:inline-flex;align-items:center;gap:14px;min-height:64px;padding:0 26px;border:0;border-radius:12px;background:#15171D;color:#fff;
+  font-family:var(--display);font-weight:700;font-size:20px;cursor:not-allowed;box-shadow:0 6px 0 -1px var(--amber),0 16px 26px -14px rgba(0,0,0,.6)}
+.arac-dugme .ikon{font-size:22px}
+.arac-dugme .ikon:first-child{font-size:30px;color:var(--amber)}
+.arac-yakinda{position:absolute;top:-11px;right:14px;padding:2px 10px;border-radius:999px;background:#fff;border:1.5px solid #D93025;color:#D93025;font-family:var(--body);font-size:11.5px;font-weight:700}
+@media (max-width:1180px){.arac-bant{grid-template-columns:auto minmax(0,1fr)}.arac-sag{grid-column:1/-1;justify-content:center;min-height:180px;border-top:1.5px solid #EFE6CC}.arac-gorsel{width:100%;opacity:.55;-webkit-mask-image:linear-gradient(90deg,transparent,#000 20%,#000 80%,transparent);mask-image:linear-gradient(90deg,transparent,#000 20%,#000 80%,transparent)}}
+@media (max-width:760px){.arac-adimlar{flex-wrap:wrap}.arac-bant{grid-template-columns:1fr}.arac-cizim{justify-content:center;font-size:110px;border-right:0;border-bottom:1.5px solid #EFE6CC;padding:20px}.arac-metin{padding:22px 20px}.arac-adimlar li{padding:0 12px;font-size:15px}.arac-dugme{font-size:17px;padding:0 18px;gap:10px}}
 
 /* VAKALAR */
 .vakalar{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}

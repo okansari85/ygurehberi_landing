@@ -1,0 +1,1 @@
+import{D as e,V as t,W as n,ct as r,j as i,k as a,x as o}from"#entry";var s={key:0},c=Object.assign(i({__name:`VurguluMetin`,props:{metin:{}},setup(i){return(c,l)=>(t(!0),e(o,null,n(i.metin.split(`**`),(n,i)=>(t(),e(o,{key:i},[i%2?(t(),e(`strong`,s,r(n),1)):(t(),e(o,{key:1},[a(r(n),1)],64))],64))),128))}}),{__name:`VurguluMetin`});export{c as t};

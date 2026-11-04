@@ -26,7 +26,7 @@ YGU Rehberi (ygurehberi.com): Yangın Güvenlik Uzmanlığı (YGU) bilgi sitesi.
 - `YguBolumSeridi` görünümü Vakalarla Öğren süzgeç çipleriyle aynı (ikonlu çipler, seçili amber; kullanıcı 18 Ekim). Sığmazsa alt satıra iner.
 - Tüm "Ön Kayıt" düğmeleri `/on-kayit`'e gider; alt bilgideki ön kayıt bandı o sayfada gizlenir.
 - "Hangi Yapılarda Görev Alır?" = BYKHY'nin 9 kullanım sınıfı, 3×3 kart; metinler kullanıcının 13 Ekim'de gönderdiği 9 kartlı görselden.
-- "Kontrol Süreleri / Kaç Yılda Bir Yapılır?" bölümünün altında kontrol süresi aracı bandı (`KONTROL_ARACI`, 14 Ekim örneği): araç yok, düğme pasif + "Yakında". Araç yapılınca düğme ona bağlanır.
+- 4 Kasım 2026: "Kaç Yılda Bir Yapılır?" bölümü ve altındaki kontrol süresi aracı bandı Oğuz'un tasarımından (WhatsApp görseli; metinler `KONTROL_SURELERI`, `KONTROL_ARACI`; kart çizimleri `components/KontrolCizim.vue`, bina görseli `ana-yapi-buro`). Araç yok: düğme pasif + "Yakında"; araç yapılınca ona bağlanır.
 - Metinlerin tamamı `data/icerik.ts`'de (sayfalar, site içi arama, SEO şemaları ve `/llms.txt` buradan beslenir). Metin, bölüm sırası, renk, yazı tipi değiştirilmez; değişiklik önce sorulur.
 - Yazı tipleri: Barlow Condensed (başlık), Poppins (metin; kullanıcı seçti, 13 Ekim). Renkler `assets/css/main.css` başındaki değişkenlerde. İkonlar `components/Ikon.vue` (elle çizilmiş SVG).
 - Logo: `BrandLogo` (yazı + titreşen alev katmanı); açık zeminde `koyu` (logo-yazi-koyu.png).

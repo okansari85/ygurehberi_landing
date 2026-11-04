@@ -167,31 +167,37 @@ export const ANA_SERBEST = {
   metin: 'Yeterli mesleki koşulları sağlayan ve geçerli YGU belgesine sahip uzmanlar, kendi adlarına veya uzman istihdam eden bir kuruluş bünyesinde yangın güvenliği hizmeti sunabilir.'
 }
 
+// Kontrol süreleri bölümü ve altındaki araç bandı: Oğuz'un tasarımı (4 Kasım 2026), metinler tasarımdan.
 export const KONTROL_SURELERI = {
   ust: 'Periyodik Kontroller',
   baslik: 'Yangın Güvenliği Kontrolleri',
   vurgu: 'Kaç Yılda Bir Yapılır?',
   metin:
-    'Yapı ve tesislerin tehlike sınıfına göre periyodik yangın güvenliği kontrolleri belirli aralıklarla gerçekleştirilir. Aşağıdaki süreler, taslak düzenlemedeki örnek değerleri göstermektedir.',
+    'Yangın güvenlik periyodik kontrol süreleri; yapının kullanım sınıfına, yüksekliğine, büyüklüğüne, kapasitesine ve yangın tehlike düzeyine göre belirlenir. Yönetmelik taslağında yapı türlerine göre 3, 4 ve 5 yıllık kontrol periyotları öngörülmektedir.',
   sureler: [
-    { sure: '5 Yıl', metin: 'Düşük tehlikeli endüstriyel tesis' },
-    { sure: '4 Yıl', metin: 'Orta tehlikeli endüstriyel tesis' },
-    { sure: '3 Yıl', metin: 'Yüksek tehlikeli endüstriyel tesis' }
-  ],
-  diger: { baslik: 'Yapı Türüne Göre Farklı Süreler', metin: 'Konut, ticari, eğitim, sağlık vb. yapılar için detaylı tablo' },
-  not: 'Bu süreler üzerinde çalışılmış YGU taslağındaki örnek değerlerdir, yürürlükteki zorunlu kontrol periyotları olarak sunulmaz.',
-  not2: 'Farklı yapı sınıflarının süreleri ve detayları için ilgili sayfayı ziyaret edin.'
+    { sure: '5 Yıl', metin: 'Düşük tehlikeli yapılar ve tesisler için daha uzun kontrol aralığı.', cizim: 'dusuk' },
+    { sure: '4 Yıl', metin: 'Orta tehlikeli yapılar ve endüstriyel tesisler için kontrol aralığı.', cizim: 'orta' },
+    { sure: '3 Yıl', metin: 'Yüksek tehlikeli yapılar, endüstriyel tesisler ve özel risk taşıyan yerler için daha sık kontrol.', cizim: 'yuksek' }
+  ] as { sure: string; metin: string; cizim: string }[],
+  diger: { baslik: 'Yapı Türüne Göre Farklı Süreler', metin: 'Konut, ticari, eğitim, sağlık, toplanma, konaklama, depo ve diğer yapılar için detaylı tablo.' },
+  dugme: 'Tüm Yapı Türleri ve Süreleri Gör',
+  not: 'Gösterilen süreler, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik **taslağındaki** düzenlemelere dayanmaktadır.'
 }
 
-// Kontrol süresi sorgulama aracı bandı (kullanıcının 14 Ekim örnek görseli). Araç henüz yok: düğme pasif, "Yakında".
+// Kontrol süresi sorgulama aracı bandı. Araç henüz yok: düğme pasif, "Yakında".
 export const KONTROL_ARACI = {
-  ust: 'Yapınızın',
-  baslik: 'Periyodik Yangın Kontrol Süresini Öğrenin',
+  ust: 'Yapınızın Periyodik Yangın',
+  baslik: 'Kontrol Süresini Öğrenin',
   metin:
-    'Yapı türünüze, özelliklerine ve tehlike sınıfına göre periyodik yangın kontrol sürenizi kolayca öğrenin. Konut, otel, hastane, fabrika veya diğer yapılar için süreler farklı olabilir.',
-  dugme: 'Kontrol Sürenizi Öğren',
-  not: 'Bu araç yakında kullanıma açılacaktır. Tamamlandığında detaylı sorgulama yapabilirsiniz.',
-  gorsel: 'yapi-konut'
+    'Yapınızın kullanım türünü, temel özelliklerini ve tehlike sınıfını girerek, yönetmelik taslağına göre öngörülen periyodik kontrol süresini anında öğrenin.',
+  adimlar: [
+    { ikon: 'bina', ad: 'Yapı Türü Seçimi' },
+    { ikon: 'katman', ad: 'Özellik ve Kapasite' },
+    { ikon: 'saat', ad: 'Kontrol Süresi Sonucu' }
+  ] as { ikon: Ikon; ad: string }[],
+  dugme: 'Kontrol Sürenizi Öğrenin',
+  not: 'Bu araç yakında kullanıma açılacaktır.',
+  gorsel: 'ana-yapi-buro'
 }
 
 // Gerçek vakalar: başlık/alt başlık/yer/tarih/özet kullanıcının 14 Ekim metinlerinden (değiştirilmez, uydurulmaz).
