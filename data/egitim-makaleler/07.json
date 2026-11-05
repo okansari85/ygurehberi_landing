@@ -1,0 +1,177 @@
+{
+  "no": "07",
+  "baslik": "İş Güvenliği Uzmanları Yangın Güvenlik Uzmanı (YGU) Olabilir mi? Yangın Güvenlik Uzmanlığı (YGU) Eğitimi ve Başvuru Şartları",
+  "ozet": "İş güvenliği uzmanları, işyerlerinde yangın risklerinin değerlendirilmesi ve acil durum hazırlıklarıyla sıkça ilgilenmektedir. Bu nedenle Yangın Güvenlik Uzmanı (YGU) olup olamayacakları önemli bir başvuru sorusudur. Cevap, mevcut iş güvenliği uzmanlığı belgesinin sınıfına değil, ilgili YGU seviyesinde aranan temel öğrenim ve diğer şartlara bağlıdır.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki YGU seviye ve muafiyet değerlendirmeleri YGU yönetmelik taslağının 5, 7 ve 14. maddelerine dayanır. İş güvenliği uzmanlığına ilişkin mevcut hak ve görevler ise kendi mevzuatı kapsamında kalır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "İş güvenliği uzmanlığı belgesi YGU seviyesinin otomatik eşdeğeri değildir. YGU başvuru ve muafiyet şartları incelenen YGU yönetmelik TASLAĞINDA düzenlenmiştir. 2025 BYKHY taslağındaki yapı denetimi ve tatbikat hükümleri, İSG belgelerinin YGU yetki belgesine dönüşmesini öngören bir hüküm olarak yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "1-a-sinifi-is-guvenligi-uzmani-otomatik-ygu-olur-mu",
+      "metin": "1. A sınıfı iş güvenliği uzmanı otomatik YGU olur mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. A sınıfı belge, iş sağlığı ve güvenliği alanında bir yetki sınıfıdır; Yangın Güvenlik Uzmanlığı (YGU) belgesinin yerine geçmez. Örneğin temel öğrenimi makine mühendisliği olan bir A sınıfı iş güvenliği uzmanı taslaktaki YGU-2 meslek listesinde yer alabilir. Buna karşılık başka bir mühendislik dalından mezun olmak, A sınıfı belgenin bulunması nedeniyle aynı otomatik YGU-2 başvuru hakkını doğurmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "B ve C sınıfı iş güvenliği uzmanları bakımından da temel ilke değişmez: Taslak, başvuru gruplarını iş güvenliği uzmanlığı sınıfıyla değil, belirli teknikerlik, mühendislik, mimarlık ve kimya öğrenimleriyle tanımlar."
+    },
+    {
+      "tip": "h2",
+      "id": "2-hangi-temel-diplomalar-hangi-ygu-grubuna-karsilik-gelir",
+      "metin": "2. Hangi temel diplomalar hangi YGU grubuna karşılık gelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 5 YGU-1'de belirli tekniker ve itfaiyecilik ön lisans öğrenimlerini; YGU-2'de mimarlık ve sayılan mühendislik alanlarını; YGU-K'de kimya mühendisliği/kimya lisans öğrenimini belirtir. YGU-3 için ise genel yolda YGU-2 yetkisi ile raporlama deneyimi istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kişinin iş güvenliği uzmanı olarak deneyim kazanması değerlidir; ancak temel mesleki öğrenimin veya YGU-3 geçişinde istenen özel rapor koşulunun yerini kendiliğinden almaz."
+    },
+    {
+      "tip": "h2",
+      "id": "3-uzun-yillar-isg-yapmis-olanlar-ygu-egitiminden-muaf-mi",
+      "metin": "3. Uzun yıllar İSG yapmış olanlar YGU eğitiminden muaf mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 14, Bakanlığın merkez teşkilatında yangın mevzuatı konusunda en az üç yıl çalışmış ve Madde 5'teki ilgili temel meslek gruplarına sahip belirli personel için özel eğitim ve sınav muafiyeti öngörür. Bu muafiyet, bütün A sınıfı iş güvenliği uzmanlarını veya bütün itfaiye çalışanlarını kapsayan genel bir muafiyet olarak okunmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) sınavı ve eğitimi için adayın daha önce aldığı eğitimlerin ne ölçüde sayılacağı, nihai düzenlemede açıkça tanımlanmadıkça varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "4-isg-risk-degerlendirmesi-ygu-kontrolunun-yerine-gecer-mi",
+      "metin": "4. İSG risk değerlendirmesi YGU kontrolünün yerine geçer mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşyerinde yangın riski, iş sağlığı ve güvenliği risk değerlendirmesi içerisinde ele alınabilir. Buna karşılık yangın güvenliği periyodik kontrolü, kullanıma yönelik belgeye sahip yapının onaylı projeleri, yapı ve tesisat özellikleri ile mevcut saha koşullarına yönelik ayrı bir kontrol sistemidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin acil çıkışın malzeme ile engellenmesi hem İSG risk değerlendirmesinde hem yapı yangın güvenliği incelemesinde gündeme gelebilir. Ancak raporların dayandığı mevzuat, işleme ilişkin görevli kişiler ve amaçları farklıdır. Bir belgenin varlığı, diğer zorunluluğun kendiliğinden yerine geldiğini göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "5-ygu-egitimi-isg-uzmanina-ne-kazandirabilir",
+      "metin": "5. YGU eğitimi İSG uzmanına ne kazandırabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi; mimari proje okuma, BYKHY sistematiği, kaçış ve yangın bölmesi düzeni, yangın algılama/söndürme sistemleri ve teknik raporlama konularında daha bütüncül bir değerlendirme zemini sunabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İş güvenliği uzmanının saha gözlemi ve acil durum deneyimi bu öğrenmeyi destekleyebilir. Bununla birlikte YGU eğitimindeki proje ve kontrol becerileri, bütün özel elektrik/mekanik proje hesaplarının ya da test yetkilerinin aynı kişiye geçtiği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-sahada-iki-gorev-nasil-ayrilir",
+      "metin": "6. Sahada iki görev nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir fabrikada yeni üretim hattı kurulduğunda iş güvenliği uzmanı çalışanların maruziyetini, makine yerleşimini, acil durum koşullarını ve risk değerlendirmesini gözden geçirebilir. Yangın Güvenlik Uzmanı (YGU) ise mevzuatla görevlendirildiği ölçüde onaylı yapı projelerini, kullanım sınıfını, kaçış düzenini ve yangından korunma sistemlerini kontrol eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu iki teknik yaklaşım birbirini besleyebilir; ancak aynı kontrol raporu değildir. YGU, hangi projeyi esas aldığını, sahada ne gördüğünü, belgeyle neyi doğruladığını ve hangi hükme göre karar verdiğini açıkça göstermelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "A sınıfı İSG belgesi YGU-3 hakkı verir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Taslakta YGU-3 için YGU-2 yetkisi ve belirli rapor geçmişi öngörülür; dar özel muafiyetler ayrıca düzenlenmiştir."
+    },
+    {
+      "tip": "h3",
+      "metin": "İSG belgesi olmadan YGU olunur mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta her YGU adayı için iş güvenliği uzmanlığı belgesi genel şart olarak yazılmamıştır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Kimya mühendisi olan iş güvenliği uzmanı hangi seviyeye yönelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 5'te kimya mühendisliği YGU-K grubunda sayılır."
+    },
+    {
+      "tip": "h3",
+      "metin": "İSG uzmanlığı ve YGU aynı işyerinde sürdürülebilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "İki ayrı yetkinin bulunması mümkündür; ancak her bir görevin bağımsızlık, çıkar çatışması ve yetki koşulları ayrıca değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İş güvenliği uzmanlarının Yangın Güvenlik Uzmanı (YGU) olabilmesi otomatik bir unvan dönüşümü değildir. Belirleyici konular uygun temel öğrenim, ilgili YGU seviyesi, taslakta tarif edilen eğitim/sınav süreci ve nihai resmî yetkilendirmedir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu"
+    },
+    {
+      "metin": "İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik"
+    },
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "A sınıfı İSG belgesi YGU-3 hakkı verir mi?",
+      "yanit": "Hayır. Taslakta YGU-3 için YGU-2 yetkisi ve belirli rapor geçmişi öngörülür; dar özel muafiyetler ayrıca düzenlenmiştir."
+    },
+    {
+      "soru": "İSG belgesi olmadan YGU olunur mu?",
+      "yanit": "Taslakta her YGU adayı için iş güvenliği uzmanlığı belgesi genel şart olarak yazılmamıştır."
+    },
+    {
+      "soru": "Kimya mühendisi olan iş güvenliği uzmanı hangi seviyeye yönelir?",
+      "yanit": "Taslak Madde 5'te kimya mühendisliği YGU-K grubunda sayılır."
+    },
+    {
+      "soru": "İSG uzmanlığı ve YGU aynı işyerinde sürdürülebilir mi?",
+      "yanit": "İki ayrı yetkinin bulunması mümkündür; ancak her bir görevin bağımsızlık, çıkar çatışması ve yetki koşulları ayrıca değerlendirilmelidir."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "no": "18",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) ile İş Güvenliği Uzmanlığı Arasındaki Farklar Nelerdir?",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) ile iş güvenliği uzmanlığı benzer yangın tehlikeleri üzerinde çalışabilse de amaçları, mevzuatları ve resmî yetkilendirme süreçleri aynı değildir. Bir işyerindeki yangın riski hem çalışanların güvenliği hem de yapının yangından korunma koşulları açısından değerlendirilebilir; ancak bu iki değerlendirmenin belge türleri ve görev sınırları birbirine karıştırılmamalıdır.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "İSG mevzuatından doğan görevler ile YGU taslağının Madde 6'daki görevleri ayrıdır. 2025 BYKHY taslağı Madde 131–132'de yapı kontrolü ve tatbikatı düzenler; ancak bu taslak, iş güvenliği uzmanlığı sınıfını YGU resmî yetkisine eşitlemez. Her görev için yürürlükteki kendi düzenlemesi esas alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "1-is-guvenligi-uzmanliginin-bakis-acisi",
+      "metin": "1. İş güvenliği uzmanlığının bakış açısı"
+    },
+    {
+      "tip": "p",
+      "metin": "İş güvenliği uzmanı, işyerindeki tehlikelerin belirlenmesi, risk değerlendirmesi, önleyici faaliyetlerin planlanması ve acil durum hazırlıklarına ilişkin görevleri kendi mevzuatı kapsamında yürütür. Sıcak çalışma, elektrik tesisatındaki riskler, yanıcı maddelerin depolanması veya kaçış yollarının engellenmesi, iş sağlığı ve güvenliği açısından da incelenebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak bir risk değerlendirmesinde yangın tehlikesinin bulunması, yapının yangın güvenliği periyodik kontrolünün mevzuata uygun tamamlandığını tek başına göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yangin-guvenlik-uzmaninin-ygu-bakis-acisi",
+      "metin": "2. Yangın Güvenlik Uzmanının (YGU) bakış açısı"
+    },
+    {
+      "tip": "p",
+      "metin": "22 Mayıs 2026 tarihli kanuni düzenleme, kullanıma yönelik belgeye sahip yapılarda yangın güvenliği periyodik kontrolleri ve raporlama bakımından ayrı bir çerçeve oluşturmuştur. Yangın Güvenlik Uzmanı (YGU) bu alandaki resmî görevleri, mevzuatta öngörülen yetkilendirme ve görevlendirme koşullarına göre üstlenebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 6, ayrıca proje uygunluğuna esas raporlama, yapı kullanma izni aşamasındaki uygunluk incelemesi ve belirli tatbikatların birlikte planlanması görevlerini de düzenlemektedir. Bunların tümü iş güvenliği uzmanının mevcut belgesinden otomatik olarak doğmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "3-risk-degerlendirmesi-ve-yangin-guvenlik-raporu-neden-farklidir",
+      "metin": "3. Risk değerlendirmesi ve yangın güvenlik raporu neden farklıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İSG risk değerlendirmesi, işyerindeki tehlikeleri ve bunlardan kaynaklanan riskleri ele alır. Yangın güvenlik raporu ise yapıdaki yangından korunma tedbirlerinin ilgili kontrol sistemi kapsamında belgelenmesiyle ilişkilidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin çıkış koridoruna depolama malzemesi konulması işyerinde çalışan güvenliği bakımından bir tehlikedir. Yangın Güvenlik Uzmanı (YGU) aynı durumu incelerken geçerli onaylı proje, kaçış düzeni, yapı kullanım sınıfı ve uygulanabilir mevzuatla ilişki kurar. İki yaklaşım birbirini destekleyebilir, ancak tek belgeyle birbirinin yerine geçtiği varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "4-ayni-kisi-iki-ayri-yetkiye-sahip-olabilir-mi",
+      "metin": "4. Aynı kişi iki ayrı yetkiye sahip olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "İş güvenliği uzmanlığı belgesi ile YGU yetki belgesi farklı sistemlerdir. TASLAK Madde 5, YGU için meslek ve öğrenim alanlarını belirler; YGU-3 için ayrıca önceki yetki ve rapor deneyimi öngörür. A, B veya C sınıfı iş güvenliği uzmanlığı belgesi tek başına bu koşulları değiştirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Öte yandan kişinin hem iş güvenliği hem yangın güvenliği alanında mesleki yeterliliği bulunabilir. Bu durumda her iki görevin kendi mevzuatına, bağımsızlık ve çıkar çatışması kurallarına göre yürütülmesi gerekir. Taslak Madde 8'de belirli proje ve yapılarda görev alınamayacak durumlar ayrıca öngörülmüştür."
+    },
+    {
+      "tip": "h2",
+      "id": "5-isg-acil-durum-plani-ile-ygu-tatbikat-gorevi-ayni-mi",
+      "metin": "5. İSG acil durum planı ile YGU tatbikat görevi aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşyerinin acil durum planı, çalışanların güvenliği ve acil durumda yapılacak düzenlemelerle ilgilidir. TASLAK Madde 6/1-ç, belirli yapıların tatbikatlarının sorumlu yapı yöneticisi veya görevli birim amiriyle birlikte planlanmasına ilişkin YGU rolü öngörür."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu özel YGU görevi, her işyerindeki acil durum planının bütünüyle Yangın Güvenlik Uzmanına devredildiği anlamına gelmez. İşverenin ve yapı sahibinin diğer yükümlülükleri devam eder."
+    },
+    {
+      "tip": "h2",
+      "id": "6-temel-farklar-tablosu",
+      "metin": "6. Temel farklar tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karşılaştırma",
+        "İş güvenliği uzmanlığı",
+        "Yangın Güvenlik Uzmanlığı (YGU)"
+      ],
+      "satirlar": [
+        [
+          "Temel amaç",
+          "İşyerindeki İSG risklerinin yönetimine katkı",
+          "Mevzuatla tanımlanan yapı yangın güvenliği değerlendirmesi"
+        ],
+        [
+          "Mevzuat ekseni",
+          "6331 sayılı Kanun ve ilgili düzenlemeler",
+          "3194 sayılı Kanun, BYKHY ve YGU uygulama düzeni"
+        ],
+        [
+          "Temel belge",
+          "Risk değerlendirmesi, İSG kayıtları ve ilgili çalışmalar",
+          "Yetki kapsamındaki yangın güvenlik raporu ve uygunluk işlemleri"
+        ],
+        [
+          "Mesleki yetki",
+          "İSG uzmanlık belgesi",
+          "Ayrı YGU eğitimi, sınavı ve yetkilendirmesi"
+        ],
+        [
+          "YGU görevleriyle ilişki",
+          "Kendiliğinden YGU yetkisi oluşturmaz",
+          "Kendiliğinden İSG uzmanlığı yetkisi oluşturmaz"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu tablo iki mesleğin tüm görevlerini saymaz; temel ayrımı göstermek için hazırlanmıştır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-saha-ornegi-uretim-hatti-degisikligi",
+      "metin": "7. Saha örneği: üretim hattı değişikliği"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir fabrikada üretim alanının yerleşimi değişsin. İş güvenliği uzmanı çalışanların risklerini, acil durum erişimini ve ilgili iş ekipmanı etkilerini değerlendirebilir. Yangın Güvenlik Uzmanı (YGU), kendi görevlendirmesi kapsamında değişikliğin yapı kullanım sınıfına, yangın bölmelerine, kaçış düzenine ve yangından korunma sistemlerine etkisini projeyle karşılaştırabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İki çalışma arasında teknik bilgi paylaşımı olabilir; ancak hazırlanan raporların kapsamları ve mevzuat dayanakları ayrı tutulmalıdır. Görülmeyen bir testin gerçekleştiği veya onaylanmamış bir tadilatın onaylı olduğu varsayılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "A sınıfı İSG uzmanı doğrudan YGU olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; temel öğrenim, eğitim, sınav ve ayrı yetkilendirme koşulları vardır."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU, İSG risk değerlendirmesini de yapar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU yetki belgesi tek başına İSG uzmanlığı yetkisi sağlamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın güvenlik raporu acil durum planının yerine geçer mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; farklı amaç ve işlem türleridir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) ile iş güvenliği uzmanlığı ortak teknik konuları paylaşır, ancak aynı uzmanlık veya raporlama sistemi değildir. İki alandaki yetkinliklerin işyerinde tutarlı biçimde kullanılması yararlıdır; yetki ve sorumluluklar ayrı tutulmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu"
+    },
+    {
+      "metin": "İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik"
+    },
+    {
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik"
+    },
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "A sınıfı İSG uzmanı doğrudan YGU olabilir mi?",
+      "yanit": "Hayır; temel öğrenim, eğitim, sınav ve ayrı yetkilendirme koşulları vardır."
+    },
+    {
+      "soru": "YGU, İSG risk değerlendirmesini de yapar mı?",
+      "yanit": "YGU yetki belgesi tek başına İSG uzmanlığı yetkisi sağlamaz."
+    },
+    {
+      "soru": "Yangın güvenlik raporu acil durum planının yerine geçer mi?",
+      "yanit": "Hayır; farklı amaç ve işlem türleridir."
+    }
+  ]
+}

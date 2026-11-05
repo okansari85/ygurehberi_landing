@@ -1,0 +1,220 @@
+{
+  "no": "06",
+  "baslik": "Kimler Yangın Güvenlik Uzmanlığı (YGU) Eğitimine Başvurabilir? Meslekler, Diplomalar ve Eğitim Şartları",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitimine kimlerin başvurabileceği sorusu, yalnızca meslek unvanına bakılarak cevaplandırılamaz. Temel öğrenim, başvurulacak uzmanlık seviyesi, varsa uygulama deneyimi ve genel kabul şartları birlikte değerlendirilmelidir. Bir kişinin iş güvenliği uzmanı, itfaiye personeli veya yangın sistemleri konusunda deneyimli olması, kendiliğinden bütün YGU seviyelerine kabul hakkı sağlamaz.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki meslek eşleştirmeleri ve eğitim başvurusu koşulları, Kitaplık'taki Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağına dayanmaktadır. Nihai yönetmelik ve resmî başvuru duyurusu doğrulanmadan kesin başvuru hakkı olarak yorumlanmamalıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Diploma, unvan ve kabul şartları yalnızca YGU yönetmelik TASLAĞINA göre açıklanır; 2025 BYKHY taslağının yapı kullanım ve tehlike sınıfları adayın eğitim hakkını doğrudan belirlemez. Taslak Madde 5 ve 7 ile istisnai Madde 14 birlikte okunmalı; taslaktan kesin kazanılmış hak sonucu çıkarılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "1-yangin-guvenlik-uzmanligi-ygu-basvurusunda-once-hangi-bilgiye-bakilir",
+      "metin": "1. Yangın Güvenlik Uzmanlığı (YGU) başvurusunda önce hangi bilgiye bakılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kontrol, diplomada veya resmî mezuniyet kaydında yer alan öğrenim alanıdır. Taslak Madde 5, YGU-1, YGU-2 ve YGU-K için belirli meslek ve öğrenim gruplarını sayarken YGU-3 için ayrıca önceden edinilmiş YGU-2 yetkisi ve uygulama geçmişi aramaktadır. Dolayısıyla “mühendisim” veya “teknikerim” demek yerine hangi mühendislik ya da teknikerlik programından mezun olunduğu belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mesleki deneyim, gerektiğinde teknik yeterliliği destekleyebilir; ancak açıkça belirtilen diploma şartının yerine geçtiği varsayılamaz. Başvuru aşamasında diploma, unvan ve belge türleri aynı anlama gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-ygu-1-egitimine-hangi-meslekler-basvurabilir",
+      "metin": "2. YGU-1 eğitimine hangi meslekler başvurabilir?"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 5/2-a",
+      "metin": "Makine teknikeri, inşaat teknikeri, elektrik teknikeri, elektrik ve elektronik teknikeri olanlar ile itfaiyecilik alanında iki yıllık ön lisans öğrenimini tamamlayanlar YGU-1 grubu için sayılmıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada iki farklı durum ayrılmalıdır: İtfaiyede görev yapan herkesin itfaiyecilik ön lisans mezunu olduğu varsayılamaz; teknik ön lisans diploması bulunan herkes de taslakta sayılan dallardan mezun olmayabilir. YGU-1 için öğrenim alanı, yetkili kurumun inceleyeceği belge üzerinden doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "3-ygu-2-egitimine-hangi-muhendisler-ve-mimarlar-basvurabilir",
+      "metin": "3. YGU-2 eğitimine hangi mühendisler ve mimarlar başvurabilir?"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 5/2-b",
+      "metin": "Mimar; inşaat mühendisi; makine mühendisi; elektrik mühendisi; elektronik mühendisi; elektrik ve elektronik mühendisi unvanları sayılmıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu liste tüm mühendislik fakültesi mezunlarını kapsayan genel bir ifade değildir. Örneğin sadece iş sağlığı ve güvenliği alanında yüksek lisans yapmış olmak veya A sınıfı iş güvenliği uzmanlığı belgesine sahip olmak, taslakta sayılmayan bir temel mühendislik diplomasını YGU-2 koşulunu sağlamış hale getirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) adayının akademik unvanı, diploma programı ve varsa meslek kuruluşu kaydı birbirinden bağımsız olarak değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-kimya-muhendisleri-ve-kimya-lisans-mezunlari-hangi-seviyeye-yonelir",
+      "metin": "4. Kimya mühendisleri ve kimya lisans mezunları hangi seviyeye yönelir?"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 5/2-d",
+      "metin": "Kimya mühendisleri ve kimya alanında lisans eğitimini tamamlayanlar YGU-K için öngörülmüştür. YGU-K, YGU-3'ün üzerindeki genel bir kademe değildir; yüksek tehlikeli yapıların periyodik kontrolünde tehlikeli maddelerin tespiti ve sınıflandırılmasıyla ilişkilendirilen özel görev alanıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle kimya mühendisliği mezununun yalnızca diploması nedeniyle YGU-2 veya YGU-3 yetkisine de sahip olacağı sonucuna varılamaz. Başka bir öğrenim veya özel istisna varsa bunlar ayrıca değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-ygu-3-icin-diploma-yeterli-midir",
+      "metin": "5. YGU-3 için diploma yeterli midir?"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 5/2-c",
+      "metin": "Genel geçiş yolunda kişinin YGU-2 yetki belgesine sahip olması ve son bir yıl içinde en az iki farklı bina kullanım sınıfından en az dört yapıya ilişkin yangın güvenlik raporunu usulüne uygun düzenlemiş olması öngörülmektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Süre şartı ile rapor sayısı birlikte ele alınmalıdır. Dört raporun yalnızca tek yapı kullanım sınıfından olması, metindeki “en az iki farklı kullanım sınıfı” koşuluyla aynı değildir. Madde 14'te belirli Bakanlık personeline ilişkin özel muafiyet bulunması, genel adaylar için bu koşulların ortadan kalktığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-ygu-egitimine-basvururken-hangi-genel-sartlar-aranabilir",
+      "metin": "6. YGU eğitimine başvururken hangi genel şartlar aranabilir?"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 7",
+      "metin": "Belirli mahkumiyetler ve mesleki/disiplin yaptırımları bakımından kabul koşulları; eğitimin ve sınavın başarıyla tamamlanması; 75 yaşını dolduranların göreve engel durum bulunmadığını belgelemeleri ve diğer şartlar yer almaktadır. Bu koşulların tam kapsamı ilan metninden ve nihai mevzuattan okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu tür genel şartlar, mesleğe başvuru koşullarıdır. Yangın Güvenlik Uzmanlığı (YGU) eğitimine yönelik kurum içi değerlendirme puanı veya yeni bir performans ölçeği oluşturulması anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "7-egitim-basvurusu-icin-hangi-belgeler-ongoruluyor",
+      "metin": "7. Eğitim başvurusu için hangi belgeler öngörülüyor?"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 10",
+      "metin": "Kimlik bilgisi (yabancılar için ilgili kimlik ve çalışma izni), vesikalık fotoğraf, başvuru tarihinden önceki üç ay içinde alınmış adli sicil belgesi, diploma/mezuniyet veya denklik belgesi, gerektiğinde son altı ay içinde alınmış oda faaliyet/kayıt belgesi, YGU-3 için deneyimi tevsik eden belge, KEP adresi belgesi ve belirtilen bilgilendirme/yayın iznine ilişkin belge listelenmektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Listeyi “sadece diploma ve fotoğraf” diye özetlemek eksik olur. Bununla birlikte resmî başvuru ekranı açılmadan belge formatları, son yükleme tarihi veya ek kurum talepleri konusunda kesin işlem talimatı verilemez. Taslak EK-5 ise eğitim adayının belge listesi değil, yapıların periyodik kontrol başvuru ve taahhütname formlarıyla ilgilidir."
+    },
+    {
+      "tip": "h2",
+      "id": "8-is-guvenligi-uzmanlari-ve-itfaiye-personeli-icin-farkli-bir-yol-var-mi",
+      "metin": "8. İş güvenliği uzmanları ve itfaiye personeli için farklı bir yol var mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İş güvenliği uzmanlığı belgesi YGU yetki belgesinin yerine geçmez. A, B veya C sınıfına sahip olmak, Madde 5'teki öğrenim gruplarını değiştirmez. Benzer biçimde itfaiyede görev yapmakla taslakta aranan öğrenim şartına sahip olmak aynı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 14, Bakanlığın merkez teşkilatında yangın mevzuatı konusunda en az üç yıl çalışmış, belirli temel mesleklere sahip personel için eğitim ve sınav muafiyeti öngörmektedir. Bu dar düzenleme, bütün iş güvenliği uzmanlarına veya bütün itfaiye personeline muafiyet tanındığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "9-saha-ornegi-basvurudan-gorev-sinirina",
+      "metin": "9. Saha örneği: Başvurudan görev sınırına"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir makine mühendisi ve bir kimya mühendisi aynı endüstriyel tesiste yangın güvenliğiyle ilgili çalışıyor olsun. İlk kişinin taslak kapsamındaki başlangıç başvuru grubu YGU-2; ikinci kişinin ise YGU-K olabilir. Her ikisi teknik açıdan yangın güvenliğine katkı sağlayabilir, ancak resmî kontrol ve tehlikeli madde sınıflandırması görevleri aynı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) adayının eğitim seviyesini doğru belirlemesi, ileride hangi raporlama ve inceleme işlemlerinde yetkilendirilebileceğini anlaması açısından ilk teknik adımdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Her mühendis YGU-2 olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta meslekler tek tek sayılmıştır; bütün mühendislik dallarına otomatik hak verilmemektedir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Kimyager YGU-1'e mi başvurur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak, kimya lisans mezunlarını YGU-K altında düzenlemektedir."
+    },
+    {
+      "tip": "h3",
+      "metin": "A sınıfı iş güvenliği uzmanı doğrudan YGU-3 olur mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; iş güvenliği uzmanlığı sınıfı tek başına YGU-3 koşullarının yerine geçmez."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-3 rapor koşulu eğitim öncesinde mi sağlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 5, YGU-3 kabul yeterliliğinin parçası olarak tanımlar. Kesin başvuru takvimi ve istenen kanıt türü resmî duyuruyla açıklanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde en önemli başlangıç işi, temel öğrenimle uzmanlık seviyesini doğru eşleştirmektir. Diploma, önceki yetki belgesi, saha deneyimi ve genel şartlar birlikte ele alınmalı; taslak hükümler kesinleşmiş mesleğe kabul kuralı gibi kullanılmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Her mühendis YGU-2 olabilir mi?",
+      "yanit": "Taslakta meslekler tek tek sayılmıştır; bütün mühendislik dallarına otomatik hak verilmemektedir."
+    },
+    {
+      "soru": "Kimyager YGU-1'e mi başvurur?",
+      "yanit": "Taslak, kimya lisans mezunlarını YGU-K altında düzenlemektedir."
+    },
+    {
+      "soru": "A sınıfı iş güvenliği uzmanı doğrudan YGU-3 olur mu?",
+      "yanit": "Hayır; iş güvenliği uzmanlığı sınıfı tek başına YGU-3 koşullarının yerine geçmez."
+    },
+    {
+      "soru": "YGU-3 rapor koşulu eğitim öncesinde mi sağlanır?",
+      "yanit": "Taslak Madde 5, YGU-3 kabul yeterliliğinin parçası olarak tanımlar. Kesin başvuru takvimi ve istenen kanıt türü resmî duyuruyla açıklanmalıdır."
+    }
+  ]
+}

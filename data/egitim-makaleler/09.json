@@ -1,0 +1,159 @@
+{
+  "no": "09",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Veren Üniversiteler Nasıl Belirlenir? Yetkili Üniversiteler ve Eğitim Programları",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteleri araştırırken en önemli konu, üniversitenin tanınmışlığı değil, ilgili uzmanlık programını düzenlemek için resmî olarak yetkilendirilmiş olmasıdır. Bir üniversitenin yangın güvenliği, acil durum veya BYKHY konusunda sertifika programı açabilmesi, o programın doğrudan resmî Yangın Güvenlik Uzmanlığı (YGU) eğitimi olduğu anlamına gelmez.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki kurum türleri, yetkilendirme şartları ve eğitim yöntemi, YGU yönetmelik taslağının 9 ve 15. maddelerine dayanmaktadır. Yetkilendirilmiş üniversitelerin kesin listesi ve fiilen açılmış programlar yalnızca resmî duyurulardan doğrulanmalıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "YGU TASLAĞI Madde 15'te belirtilen olası eğitici kuruluş türleri, fiilen yetkilendirilmiş eğitim veren üniversitelerin listesi değildir. 2025 BYKHY taslağında yer alan eğitim/yangın denetimi hükümleri de herhangi bir üniversiteye YGU eğitimi verme yetkisi tanındığını göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-egitimi-veren-universite-nasil-yetkilendirilebilir",
+      "metin": "1. YGU eğitimi veren üniversite nasıl yetkilendirilebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 15/1, üniversitelerin Bakanlıkça eğitici kuruluş olarak yetkilendirilebilmesini öngörür. Bununla birlikte taslak yalnız üniversiteleri saymaz: kamu kurumu niteliğindeki meslek kuruluşları ile bunların ticari iştirakleri de belirli protokol ve koşullarla yetkilendirilebilecek kurum türleri arasındadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hüküm, ülkenin bütün üniversitelerinin otomatik olarak resmî eğitim verebildiği anlamına gelmez. Eğitim programını, eğiticilerin yeterliliklerini, eğitim ortamını ve uygulama eğitimi için itfaiye ile işbirliği bilgilerini içeren başvuru süreci öngörülmüştür."
+    },
+    {
+      "tip": "h2",
+      "id": "2-universite-sertifikasi-ile-ygu-yetki-belgesi-neden-ayni-degildir",
+      "metin": "2. Üniversite sertifikası ile YGU yetki belgesi neden aynı değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Üniversitelerin sürekli eğitim merkezleri genel yangın güvenliği, yangın risk analizi veya söndürme sistemleri konularında yararlı sertifika programları düzenleyebilir. Ancak bu faaliyetlerin yetki kapsamı, resmî YGU uzmanlık eğitiminin kapsamından farklı olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 9'a göre eğitim teorik ve uygulamalı iki aşamadan oluşur; Madde 11 sınavı; Madde 13 yetki belgesini ayrı düzenler. Böylece bir kurumdan katılım belgesi almak, Bakanlıkça elektronik doğrulanabilir resmî Yangın Güvenlik Uzmanı (YGU) yetkisi kazanmakla eş tutulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "3-bir-universitenin-ygu-egitim-ilaninda-hangi-bilgiler-bulunmali",
+      "metin": "3. Bir üniversitenin YGU eğitim ilanında hangi bilgiler bulunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yetkiyi değerlendirmek için ilan edilen uzmanlık seviyesi, eğitim müfredatı, teorik/uygulamalı ders yöntemi, başvuru takvimi, kurumun yetkilendirme durumu ve eğitim sonrasındaki sınav süreci birlikte okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK EK-2 seviyelere göre farklı teorik saatler öngörür: YGU-1 65, YGU-2 85, YGU-3 40 ek ve YGU-K 35 saat. Bu süreler bir üniversitenin belirli takvimde kurs açtığını göstermez. Taslak Madde 9'da teorik eğitime en az %90 devam ve mahalli itfaiye teşkilatınca verilen uygulama eğitimi de ayrıca yer alır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-hangi-universiteler-resmi-ygu-egitimi-veriyor",
+      "metin": "4. Hangi üniversiteler resmî YGU eğitimi veriyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu çalışmada 5 Kasım 2026 itibarıyla doğrulanmış, yetkilendirilmiş üniversitelerin eksiksiz resmî listesi elde edilmedi. Bu nedenle herhangi bir üniversitenin ismini kesin yetkili kurum olarak yayımlamıyoruz. Kamuya açık bir kurumun eğitim duyurusu ile Bakanlığın eğitim yetkilendirme kaydı aynı kanıt değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU Rehberi'ndeki bilgi sayfası güncellendiğinde üniversite adı, hangi YGU seviyesinde eğitim verdiği, yetki dayanağı ve duyuru tarihi birlikte gösterilmelidir. Belirli bir eğitim tarihi veya kontenjan doğrulanmamışsa boş alanı tahmini bilgiyle doldurmak uygun değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-egitim-kalitesi-ve-saha-uygulamasi-nasil-degerlendirilebilir",
+      "metin": "5. Eğitim kalitesi ve saha uygulaması nasıl değerlendirilebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) eğitiminde yalnızca yönetmelik metninin okunması değil, proje–saha–rapor bağlantısının anlaşılması da önemlidir. Örnek kat planlarında kaçış yollarının incelenmesi, teknik belgelerin karşılaştırılması ve yangın güvenlik raporlarında gerekçeli bulgu oluşturma gibi çalışmalardan yararlanılabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9/5, farklı kullanım sınıfından iki yapı üzerinde uygulama eğitimi öngörür. Bu, sadece sınıf içi anlatımdan farklı bir aşamadır. Ancak resmî uygulamanın nerede, hangi tarihte ve hangi itfaiye teşkilatıyla yürütüleceği, program duyurusu görülmeden varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "6-saha-ornegi-universitede-ogrenilen-bilginin-kullanilmasi",
+      "metin": "6. Saha örneği: Üniversitede öğrenilen bilginin kullanılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir Yangın Güvenlik Uzmanı (YGU) adayı, okul binasının onaylı mimari projesiyle gerçek kaçış düzeni arasında farklılık görsün. Projedeki kaçış kapısının yerini ve görevini belirlemeden sadece sahadaki kapının fotoğrafına bakarak uygunluk kararı verilmesi yeterli değildir. Yapı kullanımı, izin geçmişi, kaçış düzeni ve ilgili mevzuat birlikte okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu örnek, üniversitenin veya diğer eğitici kuruluşun teorik bilgisinin uygulama gözetimiyle ilişkilendirilmesi gerektiğini gösterir. Ancak projeye ilişkin özel tasarım/ölçüm/test faaliyetleri YGU eğitiminin otomatik yetki konusu değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Her üniversite YGU eğitimi verebilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Taslakta Bakanlıkça yetkilendirme süreci öngörülür."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sürekli eğitim merkezi sertifikası YGU belgesi midir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğrudan değildir. Eğitim katılımı, sınav ve resmî yetkilendirme farklı işlemlerdir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yetkili üniversite listesi nereden doğrulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın veya ilgili yetkilendirilmiş kurumların resmî ilanlarından."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteler için en güvenilir ölçüt resmî yetkilendirmedir. Bir üniversite adı, programın YGU seviyesini ve yetki durumunu doğrulamadan tanıtım listesine eklenmemelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Her üniversite YGU eğitimi verebilir mi?",
+      "yanit": "Hayır. Taslakta Bakanlıkça yetkilendirme süreci öngörülür."
+    },
+    {
+      "soru": "Sürekli eğitim merkezi sertifikası YGU belgesi midir?",
+      "yanit": "Doğrudan değildir. Eğitim katılımı, sınav ve resmî yetkilendirme farklı işlemlerdir."
+    },
+    {
+      "soru": "Yetkili üniversite listesi nereden doğrulanır?",
+      "yanit": "Bakanlığın veya ilgili yetkilendirilmiş kurumların resmî ilanlarından."
+    }
+  ]
+}

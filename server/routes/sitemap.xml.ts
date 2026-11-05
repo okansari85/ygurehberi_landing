@@ -7,15 +7,17 @@ import { GOREVLER_SAYFA } from '../../data/gorevler'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, kategoriMakaleleri, konuYolu } from '../../data/yguBilgi'
+import { EGITIM_MAKALELERI, EGITIM_YAYIN, egitimMakaleYolu } from '../../data/egitim'
 
 type Sayfa = { yol: string; guncelleme: string; gorseller: string[] }
 
 const SAYFALAR: Sayfa[] = [
   {
     yol: '/',
-    guncelleme: '2026-10-14',
+    guncelleme: '2026-11-06',
     gorseller: [
       'hero-ygu',
+      'ana-egitim-merkezi',
       ...SUREC.adimlar.map((a) => a.gorsel),
       ...ANA_CALISMA.yapilar.map((y) => y.gorsel),
       ...VAKALAR.liste.map((v) => v.gorsel),
@@ -62,6 +64,12 @@ const SAYFALAR: Sayfa[] = [
     guncelleme: '2026-11-02',
     gorseller: ['serbest-sayfa-hero', 'serbest-sayfa-kendi', ...SERBEST_SAYFA.modeller.liste.map((m) => m.gorsel), 'serbest-sayfa-bedel', 'serbest-sayfa-bagimsizlik']
   },
+  {
+    yol: '/ygu-egitimi',
+    guncelleme: EGITIM_YAYIN,
+    gorseller: ['egitim-rehberi-hero', ...[1, 2, 3, 4, 5, 6, 7, 8, 9].map((n) => `egitim-bilgi-${n}`), 'egitim-kaydol']
+  },
+  ...EGITIM_MAKALELERI.map((m) => ({ yol: egitimMakaleYolu(m), guncelleme: EGITIM_YAYIN, gorseller: [] })),
   {
     yol: '/kvkk-aydinlatma-metni',
     guncelleme: '2026-10-31',

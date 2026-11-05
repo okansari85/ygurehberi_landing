@@ -4,6 +4,7 @@ import {
   SITE, ON_KAYIT, HERO_ETIKETLER, HERO_KART_MADDELER, HIZLI_KARTLAR, SUREC, CALISMA_ALANLARI, ANA_CALISMA,
   YGU_YOLU, ANA_YGU_NEDIR, ANA_GOREVLER, ANA_SERBEST, KONTROL_SURELERI, KONTROL_ARACI, VAKALAR, REHBERLER, YGU_NEDIR, NASIL_OLUNUR
 } from '~/data/icerik'
+import { ANA_EGITIM, EGITIM_REHBERI } from '~/data/egitim'
 
 const sure = (s: string) => s.replace(' Yıl', ' yılda bir')
 
@@ -204,6 +205,28 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
     </div>
   </section>
 
+  <!-- YGU EĞİTİMİ (Oğuz'un tasarımı, 5 Kasım 2026): tüm öğeler eğitim rehberine gider -->
+  <section id="ygu-egitimi" class="bolum ana-egitim" aria-labelledby="egitim-baslik">
+    <div class="wrap">
+      <div class="ae-kart">
+        <NuxtLink :to="EGITIM_REHBERI.yol" class="ae-gorsel" tabindex="-1" aria-hidden="true">
+          <img :src="`/img/${ANA_EGITIM.gorsel}.webp`" :alt="ANA_EGITIM.alt" width="758" height="738" loading="lazy">
+        </NuxtLink>
+        <div class="ae-ic">
+          <span class="ae-ust"><span class="vurgu">{{ ANA_EGITIM.ust }}</span> | {{ ANA_EGITIM.ustEk }}</span>
+          <h2 id="egitim-baslik">{{ ANA_EGITIM.baslik }}</h2>
+          <p>{{ ANA_EGITIM.metin }}</p>
+          <ul class="ae-kartlar">
+            <li v-for="k in ANA_EGITIM.kartlar" :key="k.ad">
+              <NuxtLink :to="EGITIM_REHBERI.yol" class="ae-mini"><Ikon :ad="k.ikon" /><span>{{ k.ad }}</span></NuxtLink>
+            </li>
+          </ul>
+          <NuxtLink :to="EGITIM_REHBERI.yol" class="btn btn-amber ae-dugme">{{ ANA_EGITIM.dugme }} <Ikon ad="ok" /></NuxtLink>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- YGU'NUN GÖREVLERİ -->
   <section id="gorevler" class="bolum bolum-gri" aria-labelledby="gorev-baslik">
     <div class="wrap">
@@ -385,6 +408,37 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 @media (max-width:1180px) and (min-width:561px){.an-kart{flex-direction:column;justify-content:center;gap:8px;text-align:center}.an-kart span{padding-left:0;border-left:0}}
 @media (max-width:980px){.ana-nedir-ic{grid-template-columns:1fr}}
 @media (max-width:560px){.an-kartlar{grid-template-columns:1fr}.an-kart{min-height:68px}}
+
+/* YGU EĞİTİMİ (Oğuz'un tasarımı, 5 Kasım 2026: design/ana-sayfa-egitim.jpeg); görsel tasarımdan kesildi (ana-egitim-merkezi) */
+.ae-kart{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);align-items:center;overflow:hidden;border:1px solid rgba(255,255,255,.16);border-radius:22px;
+  background:radial-gradient(circle at 20% 0,#1F2B36,#131D26 60%);color:#fff;box-shadow:0 30px 50px -30px rgba(0,0,0,.6)}
+.ae-gorsel{align-self:end;display:block}
+.ae-gorsel img{width:100%;height:auto;-webkit-mask-image:linear-gradient(90deg,#000 80%,transparent);mask-image:linear-gradient(90deg,#000 80%,transparent)}
+.ae-ic{padding:clamp(28px,3.4vw,48px) clamp(24px,3.4vw,48px) clamp(28px,3.4vw,48px) 0}
+.ae-ust{display:block;padding-bottom:14px;margin-bottom:18px;position:relative;font-size:clamp(17px,1.6vw,22px);font-weight:700;text-transform:uppercase;color:#fff}
+.ae-ust::after,.ae-ic h2::after{content:"";position:absolute;left:0;bottom:0;width:70px;height:5px;border-radius:3px;background:var(--amber)}
+.ae-ic h2{position:relative;padding-bottom:22px;font-family:var(--body);font-size:clamp(30px,3.4vw,50px);font-weight:700;line-height:1.12;letter-spacing:-.01em}
+.ae-ic p{margin:18px 0 0;font-size:clamp(15px,1.3vw,18px);line-height:1.6;color:#E4E7EA}
+.ae-kartlar{list-style:none;margin:24px 0 0;padding:0;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}
+.ae-kartlar li{grid-column:span 2}
+.ae-kartlar li:nth-child(n+4){grid-column:span 3}
+.ae-mini{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;height:100%;min-height:96px;padding:12px;border:1.5px solid rgba(255,255,255,.45);border-radius:12px;
+  text-align:center;text-decoration:none;color:#fff;font-size:15px;font-weight:600;line-height:1.25;transition:border-color .2s ease,background .2s ease}
+.ae-kartlar li:nth-child(n+4) .ae-mini{flex-direction:row;gap:16px;min-height:72px}
+.ae-mini .ikon{font-size:34px;color:var(--amber)}
+.ae-mini:hover{border-color:var(--amber);background:rgba(255,193,7,.06)}
+.ae-dugme{width:100%;margin-top:20px;min-height:64px;border-radius:12px;font-family:var(--body);font-size:clamp(17px,1.6vw,22px)}
+@media (max-width:980px){
+  .ae-kart{grid-template-columns:1fr}
+  .ae-gorsel img{max-height:360px;width:100%;object-fit:cover;object-position:center 30%;-webkit-mask-image:linear-gradient(#000 75%,transparent);mask-image:linear-gradient(#000 75%,transparent)}
+  .ae-ic{padding:4px clamp(20px,4vw,40px) clamp(24px,4vw,40px)}
+}
+@media (max-width:560px){
+  .ae-kartlar{grid-template-columns:1fr 1fr}
+  .ae-kartlar li,.ae-kartlar li:nth-child(n+4){grid-column:auto}
+  .ae-kartlar li:last-child{grid-column:1 / -1}
+  .ae-kartlar li:nth-child(n+4) .ae-mini{flex-direction:column;gap:8px;min-height:96px}
+}
 
 .hizli{padding:22px 0 44px}
 .hizli-slider{position:relative}

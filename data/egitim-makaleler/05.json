@@ -1,0 +1,187 @@
+{
+  "no": "05",
+  "baslik": "Yangın Güvenlik Uzmanı (YGU) Nasıl Olunur? Yangın Güvenlik Uzmanlığı (YGU) Eğitimi, Sınav ve Yetkilendirme Süreci",
+  "ozet": "Yangın güvenlik uzmanı (YGU) nasıl olunur sorusunun cevabı, yalnızca bir kursa kayıt olmaktan ibaret değildir. Yangın Güvenlik Uzmanlığı (YGU) için uygun öğrenim alanının bulunması, doğru seviyeye başvurulması, resmî teorik ve uygulamalı eğitim, sınav ve yetkilendirme aşamalarının tamamlanması gerekir. Bu aşamaları birbirine karıştırmak, bir eğitim sertifikasının resmî uzmanlık yetkisiyle eş tutulmasına yol açabilir.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU",
+      "metin": "22 Mayıs 2026 tarihli kanun değişikliğiyle yangın güvenliği periyodik kontrollerine ilişkin kanuni çerçeve kurulmuştur. Aşağıdaki seviye, eğitim, sınav, belge ve uygulama ayrıntıları ise YGU yönetmelik TASLAĞIndan aktarılmıştır; kesinleşmiş uygulama kuralı değildir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Eğitim ve sınav akışı YGU yönetmelik TASLAĞININ 5 ve 9–14 üncü maddelerine dayanmaktadır. Taslak 30 uncu maddede periyodik kontroller için 1 Ocak 2028 başlangıcı öngörse de, nihai düzenlemenin yayımlandığı ve bu tarihin kesin yürürlük tarihi olduğu resmî olarak doğrulanmamıştır. 2025 BYKHY taslağındaki ayrı yürürlük planı bu tarihi kesinleştirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "1-hangi-ygu-seviyesi-benim-icin-uygun",
+      "metin": "1. Hangi YGU seviyesi benim için uygun?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 5, dört uzmanlık seviyesini düzenler. YGU-1, belirli teknikerlik ve itfaiyecilik ön lisans öğrenimlerine; YGU-2, belirtilen mühendislik dalları ile mimarlığa; YGU-K, kimya mühendisliği veya kimya lisans öğrenimine yöneliktir. YGU-3 için genel geçiş yolu, YGU-2 yetki belgesi ve son bir yılda en az iki farklı kullanım sınıfından dört yapıda usulüne uygun yangın güvenlik raporu düzenleme şartını içerir."
+    },
+    {
+      "tip": "p",
+      "metin": "Başvuru hakkı bir kişinin mevcut iş unvanından değil, taslakta açıkça tanımlanan öğrenim ve diğer koşullardan değerlendirilmelidir. Örneğin A sınıfı iş güvenliği uzmanlığı belgesi, bütün mühendislik dalları için YGU-2 başvuru hakkı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yangin-guvenlik-uzmanligi-ygu-egitimi-nasil-duzenlenebilir",
+      "metin": "2. Yangın Güvenlik Uzmanlığı (YGU) eğitimi nasıl düzenlenebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9 iki aşamalı sistem öngörür. Teorik eğitim Bakanlık veya Bakanlığın yetkilendirdiği eğitici kuruluşlar; uygulama eğitimi mahalli itfaiye teşkilatı tarafından verilir. Teorik dersler yüz yüze veya uzaktan yapılabilir. Taslakta katılım belgesi için teorik eğitime en az %90 devam şartı bulunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulama eğitimi, farklı kullanım sınıfındaki iki yapıyla ilgili yangın güvenlik raporu düzenleme ve uygulama gözetimi faaliyetlerini içerir. Bu nedenle yalnızca teorik derslerde bulunmak, taslağın öngördüğü bütün eğitim aşamalarının tamamlandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "3-ygu-1-ygu-2-ygu-3-ve-ygu-k-teorik-egitim-sureleri",
+      "metin": "3. YGU-1, YGU-2, YGU-3 ve YGU-K teorik eğitim süreleri"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK EK-2 modül toplamları, YGU-1 için 65 saat, YGU-2 için 85 saat, YGU-3 için 40 saatlik ek eğitim ve YGU-K için 35 saat öngörmektedir. Bu toplamlar EK-2 tablosundaki modül süreleri yeniden toplanarak doğrulanmıştır. Uygulamalı eğitimin gerçek takvimi, teorik modül toplamlarından çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-1 ile YGU-2'nin konu başlıkları yer yer benzese de modüllerin derinliği farklıdır. YGU-3'te yüksek tehlikeli yapılar ve uluslararası teknik dokümanlar; YGU-K'de tehlikeli maddelerin tespiti ve sınıflandırılması öne çıkmaktadır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-ygu-egitim-basvurusunda-hangi-belgeler-gerekir",
+      "metin": "4. YGU eğitim başvurusunda hangi belgeler gerekir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 10, kimlik ve fotoğraf, adli sicil, diploma/mezuniyet veya denklik, gerektiğinde meslek odası kaydı, YGU-3 için deneyim kanıtı, KEP adresi belgesi ve belirtilen bilgilendirme iznine ilişkin belgeyi saymaktadır. Başvuru ilanı yetkili kurumun resmî sayfasında duyurulmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU eğitim başvurusu, bir binanın periyodik kontrolü için kullanılan EK-5 formuyla karıştırılmamalıdır. EK-5 yapı ve kontrol başvurusuna ilişkin olup adayın resmî eğitim belgesi listesi Madde 10'da yer alır."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yangin-guvenlik-uzmanligi-ygu-sinavi-nasil-olacak",
+      "metin": "5. Yangın Güvenlik Uzmanlığı (YGU) sınavı nasıl olacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 11, sınavın Bakanlıkça teorik eğitim konularını kapsayacak biçimde düzenlenmesini öngörür. YGU-1/2/3 için en az 50, YGU-K için en az 25 çoktan seçmeli soru ve 100 üzerinden en az 70 başarı koşulu taslakta belirtilmiştir. Bu bilgiler nihai sınav ilanının yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddenin 4. fıkrası, Komisyonun zorunlu belgelerde eksiklik tespit etmesi halinde 15 günlük tamamlama süresi öngörür; eksiklik tamamlanmazsa kişinin sınava alınmaması düzenlenir. Bu hüküm her üniversitenin kayıt koşulu olarak ayrı yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-sinavdan-sonra-ygu-yetki-belgesi-nasil-alinabilir",
+      "metin": "6. Sınavdan sonra YGU yetki belgesi nasıl alınabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 13, sınavda başarılı olanlara elektronik ortamdan doğrulanabilir yetki belgesi düzenlenmesini ve beş yıllık geçerlilik süresini öngörür. Yenilemenin eğitimlere yeniden katılmadan sınavla yapılabilmesine ilişkin koşullar da taslakta vardır. Bunlar belgenin fiilen verilmeye başlandığına ilişkin bir duyuru değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kişinin belgesinin bulunması bile tek başına bütün binalarda sınırsız kontrol yetkisi sağlamaz. Hangi yapı ve işlem için görev alabileceği, mahalli itfaiye teşkilatının kanuni rolü, taslak Madde 6 ve EK-1 ile ilişkilidir."
+    },
+    {
+      "tip": "h2",
+      "id": "7-sahada-yangin-guvenlik-uzmaninin-ygu-calisma-yontemi",
+      "metin": "7. Sahada Yangın Güvenlik Uzmanının (YGU) çalışma yöntemi"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir ticaret yapısında kontrol yapılacağını düşünelim. Yangın Güvenlik Uzmanı (YGU), görevinin kapsamına göre önce yapının onaylı projelerini, kullanım izinlerini ve varsa tadilat kayıtlarını inceler; gerçek kullanım sınıfını belirler. Kaçış yolları, yangın kapıları, alarm ve söndürme sistemlerine ilişkin gözlem ve teknik belgeleri karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Proje ile sahada farklılık görülmesi otomatik uygunsuzluk sonucuna eşit değildir. Hangi mevzuat hükmünün uygulanacağı ve değişikliğin teknik etkisi ayrı gerekçelendirilmelidir. Özel tasarım, ölçüm ve test işlemleri, YGU'nun genel görevinin kendiliğinden uzantısı olarak kabul edilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU olmak için yalnızca sertifika yeterli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; taslak, meslek şartı, eğitim, sınav ve resmî yetkilendirmeyi ayrı aşamalar olarak düzenler."
+    },
+    {
+      "tip": "h3",
+      "metin": "Bütün üniversiteler YGU eğitimi verebilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Genel kurs açabilmek resmî YGU eğitim yetkisi demek değildir; kurumun ilgili yetkilendirmesi doğrulanmalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimleri ne zaman başlayacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğrulanmış yetkili kurum ilanı olmadan kesin tarih verilemez."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-K, YGU-3'ten sonra alınan kademe mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Kimya alanıyla ilişkili özel uzmanlık grubudur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olma yolu, doğru seviyenin belirlenmesiyle başlar; resmî eğitim, uygulama, sınav ve yetkilendirme ile devam eder. Taslak, bu sürecin ayrıntılarını göstermektedir; ancak fiili başvuru ve yetki kararlarında nihai mevzuat ile resmî duyurular esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 Sayılı Tapu Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU olmak için yalnızca sertifika yeterli mi?",
+      "yanit": "Hayır; taslak, meslek şartı, eğitim, sınav ve resmî yetkilendirmeyi ayrı aşamalar olarak düzenler."
+    },
+    {
+      "soru": "Bütün üniversiteler YGU eğitimi verebilir mi?",
+      "yanit": "Genel kurs açabilmek resmî YGU eğitim yetkisi demek değildir; kurumun ilgili yetkilendirmesi doğrulanmalıdır."
+    },
+    {
+      "soru": "YGU eğitimleri ne zaman başlayacak?",
+      "yanit": "Doğrulanmış yetkili kurum ilanı olmadan kesin tarih verilemez."
+    },
+    {
+      "soru": "YGU-K, YGU-3'ten sonra alınan kademe mi?",
+      "yanit": "Hayır. Kimya alanıyla ilişkili özel uzmanlık grubudur."
+    }
+  ]
+}

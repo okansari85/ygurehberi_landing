@@ -1,0 +1,174 @@
+{
+  "no": "14",
+  "baslik": "Yangın Güvenlik Uzmanı (YGU) Belgesi Nasıl Alınır? Yangın Güvenlik Uzmanlığı (YGU) Yetkilendirme Süreci",
+  "ozet": "Yangın Güvenlik Uzmanı (YGU) belgesi, genel yangın güvenliği kurs sertifikasıyla karıştırılmamalıdır. Yangın Güvenlik Uzmanlığı (YGU) sisteminde mesleki kabul, teorik ve uygulama eğitimi, sınav ve resmî yetkilendirme birbirinden farklı aşamalardır. Bir kişinin yangın güvenliği konusunda deneyimli olması veya üniversite katılım belgesi alması, kendiliğinden YGU yetkisi kazandığı anlamına gelmez.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki beş yıllık geçerlilik, elektronik doğrulama, yenileme ve askı koşulları özgün YGU yönetmelik taslağının 13. maddesine dayanmaktadır. Yayımlanmış nihai belge düzeni olarak sunulmamaktadır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Elektronik doğrulama, beş yıllık yetki belgesi süresi ve yenileme usulleri YGU TASLAĞI Madde 13'te bulunmaktadır. Bu yetki belgesinin fiilen düzenlenmeye başladığı ya da 2025 BYKHY taslağının yayımlanmasıyla kendiliğinden geçerli hale geldiği varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-yetki-belgesi-hangi-islemi-gosterir",
+      "metin": "1. YGU yetki belgesi hangi işlemi gösterir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) yetki belgesi, kişinin ilgili seviyede mevzuatla tanımlanan görevleri üstlenebilecek resmî yetkilendirme durumunu gösterir. Taslak Madde 13/1, belgenin Bakanlıkça elektronik ortam üzerinden doğrulanabilir biçimde düzenlenmesini öngörür. Bu, belgenin doğrulanabilirliğinin önemini gösterir; ancak kesin erişim ekranı veya belge numarası sisteminin fiilen kullanıldığını kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir katılım sertifikasının üzerinde “yangın güvenliği” veya “üniversite” yazması, Bakanlıkça düzenlenmiş YGU yetki belgesiyle aynı anlama gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-belgeye-ulasmak-icin-hangi-asamalar-ongoruluyor",
+      "metin": "2. Belgeye ulaşmak için hangi aşamalar öngörülüyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce taslak Madde 5'teki meslek ve seviye koşulları sağlanmalıdır. Madde 9, teorik ve uygulamalı eğitimi; Madde 11, sınavı; Madde 13 ise başarılı olan kişinin belge hakkını ve belge düzenini ele alır."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 11, YGU-1/2/3 için en az 50, YGU-K için en az 25 çoktan seçmeli soru ve 100 üzerinden en az 70 başarı koşulu öngörür. Bu rakamlar resmî sınav sisteminin kesinleştiği anlamına gelmez; taslak uzmanlık belgelendirme düzeninin bir parçasıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "3-ygu-belgesinin-gecerlilik-suresi-ne-kadar-olacak",
+      "metin": "3. YGU belgesinin geçerlilik süresi ne kadar olacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 13/3, yetki belgesinin geçerlilik süresini beş yıl olarak öngörür. Yenileme için yeniden eğitime katılmaksızın tekrar sınava girilip başarılı olunmasına ilişkin yol tarif edilir. İki sınav girişinde başarısız olunduğunda yeniden eğitime katılma şartı da aynı taslakta bulunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 13/4, süresi içinde yenileme yapılmadığında yetkinin yenilemeye kadar askıya alınmasını ve bu sırada YGU olarak faaliyet gösterilememesini öngörür. İhtiyaç duyulan ilave eğitimlere katılmama halinde askıya alma hakkında da ayrı hükümler vardır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-belge-dogrulamada-yalnizca-isim-yeterli-mi",
+      "metin": "4. Belge doğrulamada yalnızca isim yeterli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Resmî yetkilendirme değerlendirmesinde kişinin kimliği, uzmanlık seviyesi, belgenin geçerliliği, varsa askı veya iptal kararı ve yapılacak işin bu seviyeye uygunluğu birlikte kontrol edilmelidir. Taslak Madde 13/6, geçerli belge sahipleri ile askı veya iptal durumlarına ilişkin bilgilerin Bakanlık tarafından yayımlanmasını öngörür."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir YGU belgesinin bulunması, bir yapıda yapılan bütün işlemlere uygun yetki bulunduğunu göstermez. Taslak Madde 6 ve EK-1, görev türünü ve yapı sınıfı/sınırlarını birlikte ele alır."
+    },
+    {
+      "tip": "h2",
+      "id": "5-bagimsizlik-ve-cikar-catismasi-neden-onemli",
+      "metin": "5. Bağımsızlık ve çıkar çatışması neden önemli?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 8, Yangın Güvenlik Uzmanının (YGU) tarafsız ve bağımsız hareket etmesini, belirli ticari faaliyetlerde bulunduğu proje ve yapılarda görev almamasını ve görevini başkasına devretmemesini düzenler. Bu tür koşullar, resmî kontrolün güvenilirliği ve bulguların objektif biçimde raporlanması açısından önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU'nun bir projeye danışmanlık yapmış olması ile aynı projede bağımsız resmî kontrol görevi üstlenmesi arasındaki olası çıkar çatışması, taslak kapsamındaki sınırlamalar dikkate alınmadan geçiştirilemez. Ancak bu düzenlemeler de nihai hüküm olarak gösterilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "6-saha-ornegi-belgeyi-gorevle-eslestirme",
+      "metin": "6. Saha örneği: belgeyi görevle eşleştirme"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kimyasal depo binasında periyodik kontrol yapılması planlandığında yalnızca “belgeli bir Yangın Güvenlik Uzmanı (YGU) geldi” denilmesi yeterli değildir. Yapının kullanım sınıfı ve tehlike düzeyi, taslak EK-1'deki ilgili satır ve Madde 6'daki görev ayrımı belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-K'nin tehlikeli maddelerin tespiti ve sınıflandırılmasına ilişkin rolü, genel bina kontrol uzmanlığından ayrıdır. Yetkinin kapsamı ile yapılan iş arasında ilişki kurulmadan hazırlanmış rapor, eğitim sertifikası veya eski bir belge kopyasıyla karıştırılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Sertifika YGU belgesi yerine geçer mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; eğitim tamamlama ve resmî yetkilendirme ayrı işlemlerdir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Taslakta belge süresi beş yıl mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Evet; Madde 13/3'te öyle yazılıdır, ancak yürürlükteki kesin kural olarak sunulmamalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Belge süre dolunca kullanılabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak yenileme yapılana kadar askı öngörür."
+    },
+    {
+      "tip": "h3",
+      "metin": "İSG uzmanlığı belgesi YGU belgesi yerine geçer mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; farklı mevzuatla düzenlenen ayrı yetkilerdir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) belgesi, yalnızca eğitim katılımını değil resmî yetkilendirmeyi gösterir. Belgenin geçerliliği, seviyesi ve ilgili görev kapsamı birlikte değerlendirilmelidir. Taslaktaki elektronik doğrulama ve yenileme hükümleri, nihai düzenleme ve resmî sistem açıklanana kadar kesinleşmiş işlem gibi sunulamaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 Sayılı Tapu Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Sertifika YGU belgesi yerine geçer mi?",
+      "yanit": "Hayır; eğitim tamamlama ve resmî yetkilendirme ayrı işlemlerdir."
+    },
+    {
+      "soru": "Taslakta belge süresi beş yıl mı?",
+      "yanit": "Evet; Madde 13/3'te öyle yazılıdır, ancak yürürlükteki kesin kural olarak sunulmamalıdır."
+    },
+    {
+      "soru": "Belge süre dolunca kullanılabilir mi?",
+      "yanit": "Taslak yenileme yapılana kadar askı öngörür."
+    },
+    {
+      "soru": "İSG uzmanlığı belgesi YGU belgesi yerine geçer mi?",
+      "yanit": "Hayır; farklı mevzuatla düzenlenen ayrı yetkilerdir."
+    }
+  ]
+}

@@ -14,7 +14,10 @@ const bloklar = computed(() => [...props.bloklar.filter((b) => !bilgilendirmeMi(
   <div class="makale">
     <template v-for="(b, i) in bloklar" :key="i">
       <p v-if="b.tip === 'giris'" class="giris">{{ b.metin }}</p>
-      <p v-else-if="b.tip === 'p'">{{ b.metin }}</p>
+      <p v-else-if="b.tip === 'p'"><template v-if="b.vurgu"><strong>{{ b.vurgu }}</strong> </template>{{ b.metin }}</p>
+      <component :is="b.numarali ? 'ol' : 'ul'" v-else-if="b.tip === 'liste'" class="liste">
+        <li v-for="(madde, j) in b.maddeler" :key="j">{{ madde }}</li>
+      </component>
       <h2 v-else-if="b.tip === 'h2'" :id="b.id">{{ b.metin }}</h2>
       <h3 v-else-if="b.tip === 'h3'">{{ b.metin }}</h3>
       <aside v-else-if="b.tip === 'not'" class="not"><Ikon ad="bilgi" /><p><strong>{{ b.etiket }}:</strong> {{ b.metin }}</p></aside>
@@ -57,6 +60,8 @@ const bloklar = computed(() => [...props.bloklar.filter((b) => !bilgilendirmeMi(
 .makale .giris{font-size:clamp(19px,1.7vw,22px);line-height:1.55;color:var(--text);font-weight:500}
 .makale h2{font-size:clamp(28px,2.8vw,38px);margin:48px 0 16px;scroll-margin-top:100px}
 .makale h3{font-size:22px;margin:28px 0 10px}
+.makale > .liste{margin:0 0 20px;padding-left:24px;display:grid;gap:8px}
+.makale > .liste li::marker{color:var(--amber-ink);font-weight:700}
 .makale h2::before{content:"";display:block;width:46px;height:5px;border-radius:3px;background:var(--amber);margin-bottom:16px}
 
 .not{display:flex;gap:14px;align-items:flex-start;background:#FFF8E1;border-left:4px solid var(--amber);border-radius:6px;padding:16px 18px;margin:24px 0}

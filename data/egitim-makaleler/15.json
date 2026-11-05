@@ -1,0 +1,159 @@
+{
+  "no": "15",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Eğitiminde Teorik ve Uygulamalı Dersler Neden Önemlidir?",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde teori ve uygulama iki ayrı öğrenme alanıdır. Yangın Güvenlik Uzmanı (YGU), yönetmeliğin ne söylediğini bilmekle yetinmemeli; hükmün hangi projeye, yapı bölümüne ve saha koşuluna uygulanacağını anlayabilmelidir. Bu nedenle teknik eğitim, mevzuatın yapıyla ve gerçek kullanım koşullarıyla eşleştirilmesini sağlamalıdır.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki eğitim yöntemi ve devam koşulları, özgün YGU yönetmelik taslağı Madde 9'daki önerilerdir. Kendi başına yürürlüğe girmiş bir eğitim duyurusu değildir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "YGU eğitiminin iki aşamalı yapısı ve uygulama gözetimi YGU yönetmelik TASLAĞI Madde 9'a dayanır. 2025 tarihli BYKHY yeniden düzenleme TASLAĞI, yapıların yangın güvenliği koşullarını ayrıca ele alır; bu yeni taslaktaki teknik değerler ve madde numaraları yürürlükteki BYKHY olarak öğretilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "1-teorik-ygu-egitimi-hangi-amaci-tasir",
+      "metin": "1. Teorik YGU eğitimi hangi amacı taşır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın bilimi, BYKHY'nin sistematiği, yapı ve malzeme davranışı, kaçış düzeni, yangın algılama/söndürme sistemleri ve raporlama bilgileri teorik eğitimin temel alanlarıdır. Örneğin yangın kapısının neden gerekli olduğu ve bir yangın bölmesinin sürekliliğinin nasıl korunduğu anlaşılmadan sahada doğru değerlendirme yapmak zordur."
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2 modülleri, bu bilgileri YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerine göre farklı kapsamda düzenler. YGU-1'in tüm kazanımları YGU-2'ninkilerle aynı değildir; YGU-K'nin tehlikeli madde sınıflandırmasına ilişkin özel odağı bulunmaktadır."
+    },
+    {
+      "tip": "h2",
+      "id": "2-taslakta-teorik-egitim-nerede-ve-nasil-verilir",
+      "metin": "2. Taslakta teorik eğitim nerede ve nasıl verilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9/1-2, teorik eğitimin Bakanlık veya yetkilendirilmiş eğitici kuruluşça verilmesini, yüz yüze ya da uzaktan düzenlenebilmesini öngörür. Madde 9/3 teorik eğitime en az %90 devamı katılım belgesi koşulu olarak tarif eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu oran, eğitim ünitesi içinde ayrıca kurulmuş bir ölçme-değerlendirme veya puanlama sistemi değildir. Taslakta tarif edilen bir devam şartıdır. Resmî kursun kesin uygulama şartları nihai metin ve eğitim ilanıyla belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-uygulama-egitiminin-gorevli-kurumu-ve-kapsami-nedir",
+      "metin": "3. Uygulama eğitiminin görevli kurumu ve kapsamı nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9/1, uygulama eğitiminin mahalli itfaiye teşkilatınca verilmesini öngörür. Madde 9/5 ise adayların farklı kullanım sınıfındaki iki yapıya ilişkin yangın güvenlik raporu düzenleme ve uygulama gözetimi faaliyetlerine katılmasını tarif eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu düzenleme, teorik eğitimin uzaktan verilebilmesiyle uygulama çalışmasının aynı şey olmadığını gösterir. Adayın örnek yapıdaki görevleri, kendi mesleki/öğrenme kapsamına uygun biçimde yürütülmelidir; herhangi bir dış elektrik, makine veya kimya mühendisine eğitim dokümanını ayrıca imzalatma gibi bir zorunluluk çıkarılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-proje-okuma-uygulamasi-nasil-ogretici-olur",
+      "metin": "4. Proje okuma uygulaması nasıl öğretici olur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir büro binasının kat planındaki kaçış merdiveni, yangın kapıları ve yangın bölmeleri işaretlenebilir. Ardından sahadaki düzenlemelerle proje karşılaştırılır. Bu karşılaştırmada öncelikle geçerli onaylı proje ve yapının kullanım izni belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Proje ile saha arasında fark görülürse önce değişikliğin izin durumu ve uygulanabilir BYKHY hükümleri araştırılır. Her farklılık otomatik uygunsuzluk sayılmaz. Yangın Güvenlik Uzmanı (YGU), belirsizlikleri ve ek belge ihtiyaçlarını teknik gerekçeleriyle ifade edebilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yangin-tesisatlarinda-uygulama-egitimi-neye-odaklanmali",
+      "metin": "5. Yangın tesisatlarında uygulama eğitimi neye odaklanmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılama, sprinkler, yangın dolapları, pompalar ve duman kontrol sistemleriyle ilişkili proje ve teknik belgelerin okunması önemlidir. Bir sistemin sahada görünmesi, çalışmasının uygun olduğunu kanıtlamaz; test ve bakım kayıtları ayrıca değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevine göre kanıtları ve eksiklikleri belirlemelidir. Özel hidrolik hesap veya cihaz performans testlerinin bütün katılımcılar tarafından yerine getirilmesi, genel YGU eğitiminin otomatik sonucu olarak yorumlanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "6-ornek-vaka-mevcut-yapida-tadilat",
+      "metin": "6. Örnek vaka: mevcut yapıda tadilat"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir konaklama yapısında iki oda birleştirilmiş ve aradaki koridor düzeni değiştirilmiş olsun. Önce yapı kullanma izni ve tadilat projesi araştırılır. Kaçış yolu genişliği, kapı düzeni, yangın bölmesi ve algılama sistemi yeni kullanımla birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu uygulamada Yangın Güvenlik Uzmanlığı (YGU) eğitimindeki mevzuat, mimari proje, sistemler ve raporlama modülleri birlikte kullanılır. Öğretici sonuç, yalnız “uygun/uygunsuz” işareti değil, kanıt ve gerekçelerin açık biçimde gösterilmesidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Teorik YGU eğitimi yalnızca çevrim içi olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak teorik bölüm için uzaktan yönteme izin verir; uygulama eğitimi ayrıca düzenlenir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Taslakta teorik devam şartı ne kadar?"
+    },
+    {
+      "tip": "p",
+      "metin": "En az %90; kesin uygulama nihai düzenlemeye bağlıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Uygulamada neden iki farklı yapı var?"
+    },
+    {
+      "tip": "p",
+      "metin": "Farklı kullanım sınıflarının farklı teknik ve mevzuat gerekliliklerini karşılaştırabilmek açısından öğreticidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminin amacı, teknik bilgiyi saha değerlendirmesinde kullanılabilir hale getirmektir. Taslakta teorik/uygulamalı ayrım ve iki farklı yapı üzerinde çalışma açıkça düzenlenmiştir; ancak eğitim yeri, takvim ve kesin yetkilendirme nihai mevzuatla doğrulanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Teorik YGU eğitimi yalnızca çevrim içi olabilir mi?",
+      "yanit": "Taslak teorik bölüm için uzaktan yönteme izin verir; uygulama eğitimi ayrıca düzenlenir."
+    },
+    {
+      "soru": "Taslakta teorik devam şartı ne kadar?",
+      "yanit": "En az %90; kesin uygulama nihai düzenlemeye bağlıdır."
+    },
+    {
+      "soru": "Uygulamada neden iki farklı yapı var?",
+      "yanit": "Farklı kullanım sınıflarının farklı teknik ve mevzuat gerekliliklerini karşılaştırabilmek açısından öğreticidir."
+    }
+  ]
+}

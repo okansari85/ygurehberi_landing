@@ -11,6 +11,8 @@ import { VAKA_SAYFA } from '../../data/vakalar'
 import { YASAM_DONGUSU as Y } from '../../data/yasamDongusu'
 import { CALISMA_SAYFA as CS, CA_YONETMELIK } from '../../data/calismaAlanlari'
 import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/yguBilgi'
+import { EGITIM_REHBERI as ER, EGITIM_MAKALELERI, egitimMakalesi, egitimMakaleYolu } from '../../data/egitim'
+import { EGITIM_ICERIK } from '../../data/egitimMakaleIcerik'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
 const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
@@ -22,6 +24,8 @@ const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
   if (b.tip === 'altlar') return b.liste.map((a, i) => `- ${b.numarali ? `${i + 1}. ` : ''}${a.baslik}: ${a.metin}`).join('\n')
   if (b.tip === 'denklem') return `    ${b.metin}`
   if (b.tip === 'gorsel') return `![${b.aciklama}](https://ygurehberi.com${b.src})`
+  if (b.tip === 'liste') return b.maddeler.map((x, i) => `${b.numarali ? `${i + 1}.` : '-'} ${x}`).join('\n')
+  if (b.tip === 'p' && b.vurgu) return `**${b.vurgu}** ${b.metin}`
   if (b.tip === 'yapilar') return CALISMA_ALANLARI.yapilar.map((y) => `- ${y.ad} ${y.alt}`).join('\n')
   return b.metin
 }).join('\n\n')
@@ -41,6 +45,8 @@ export default defineEventHandler((event) => {
 - [YGU Hakkında](${u}/ygu-hakkinda): YGU tanımı, dört temel görev, YGU seviyeleri
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
+- [YGU Eğitim Rehberi](${u}${ER.yol}): ${ER.hero.metin}
+${EGITIM_MAKALELERI.map((m) => `- [${m.baslik}](${u}${egitimMakaleYolu(m)}): ${m.aciklama}`).join('\n')}
 - [YGU Görevleri](${u}/yangin-guvenlik-uzmani-gorevleri): Proje inceleme, yapı kullanma izni değerlendirmesi, periyodik kontrol ve tatbikat görevleri, belgeler ve yetki sınırları
 - [YGU Serbest Çalışma](${u}/serbest-calisma): YGU kendi adına veya şirket üzerinden çalışabilir mi, görevlendirme, hizmet bedeli, bağımsızlık ve bilinmesi gerekenler
 ${Object.entries(KONULAR).map(([y, k]) => `- [${k.baslik}](${u}${konuYolu(y)}): ${k.aciklama}`).join('\n')}
@@ -263,6 +269,21 @@ Kısaca: ${m.ozetle}
 ${konuMetni(m.bloklar)}
 
 Dayanak: ${m.dayanak.join('; ')}`).join('\n\n')}`).join('\n\n')}
+
+## ${ER.makaleler.baslik}
+
+Kaynak sayfa: ${u}${ER.yol} · ${ER.makaleler.metin}
+
+${EGITIM_ICERIK.map((m) => `### ${m.baslik}
+
+Kaynak sayfa: ${u}${egitimMakaleYolu(egitimMakalesi(m.no))}
+
+${m.ozet}
+
+${konuMetni(m.bloklar)}
+
+${m.kaynakBaslik}:
+${m.kaynaklar.map((k) => `- ${k.metin}`).join('\n')}`).join('\n\n')}
 
 ## Teknik makaleler
 

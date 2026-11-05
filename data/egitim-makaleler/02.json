@@ -1,0 +1,321 @@
+{
+  "no": "02",
+  "baslik": "Mühendisler ve Mimarlar İçin Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Ne Anlama Geliyor?",
+  "ozet": "Yangın güvenliği, mühendislik ve mimarlık disiplinlerinin birlikte değerlendirilmesini gerektiren önemli bir teknik alandır. Bir binanın yangın karşısındaki güvenliği yalnızca mimari projesine, elektrik tesisatına veya mekanik yangından korunma sistemlerine bağlı değildir. Bütün bu unsurların birbiriyle uyumlu olması gerekir.",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Türkiye'de Yangın Güvenlik Uzmanlığı (YGU) sistemine ilişkin düzenlemeler, mühendisler ve mimarlar açısından yeni bir mesleki uzmanlaşma alanını gündeme getirmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "Peki, mühendisler ve mimarlar Yangın Güvenlik Uzmanı (YGU) olabilir mi? Yangın Güvenlik Uzmanlığı (YGU) eğitimi bu meslek gruplarına hangi yetkinlikleri kazandırabilir? YGU eğitimi ile mevcut mühendislik ve mimarlık hizmetleri arasında nasıl bir ilişki vardır?"
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Mühendislik ve mimarlık diplomasının hangi YGU seviyesine başvuruya esas olacağı, incelenen YGU yönetmelik TASLAĞININ 5 inci maddesinde sayılmıştır. 2025 BYKHY taslağı ise yapı yangın güvenliğinin teknik kurallarına ilişkin farklı bir metindir. Bu iki taslak meslek yetkisi ve yangın tedbiri bakımından birbirinin yerine kullanılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "1-yangin-guvenlik-uzmanligi-ygu-neden-muhendislik-ve-mimarlikla-iliskilidir",
+      "metin": "1. Yangın Güvenlik Uzmanlığı (YGU) Neden Mühendislik ve Mimarlıkla İlişkilidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın yangın güvenliği, daha tasarım aşamasında alınan kararlarla şekillenmeye başlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari yerleşim, kullanım sınıfı, kaçış yolları, yangın bölmeleri, yapı elemanları, yangın algılama sistemleri, söndürme tesisatları ve duman kontrolü birbiriyle ilişkili teknik düzenlemelerdir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görev ve yetki kapsamındaki incelemelerde bu düzenlemelerin yangın güvenliği açısından ne anlama geldiğini değerlendirebilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir projede kaçış merdiveninin doğru konumlandırılması mimari tasarım bakımından önem taşırken, merdivenin korunması, basınçlandırılması ve yangın kapılarıyla ilişkisi farklı teknik disiplinleri ilgilendirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminin önemi, bu farklı unsurları tek bir yangın güvenliği değerlendirmesi içerisinde anlayabilme ihtiyacından kaynaklanmaktadır."
+    },
+    {
+      "tip": "h2",
+      "id": "2-mimarlar-icin-yangin-guvenlik-uzmanligi-ygu-egitimi",
+      "metin": "2. Mimarlar İçin Yangın Güvenlik Uzmanlığı (YGU) Eğitimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimarlar, yapıların mekansal düzenini ve kullanım ilişkilerini değerlendirme konusunda önemli bir mesleki altyapıya sahiptir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu altyapı, Yangın Güvenlik Uzmanlığı (YGU) eğitiminde özellikle mimari yangın güvenliği ve kaçış düzenlemeleri bakımından yararlı olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir mimarın YGU eğitiminde geliştirebileceği başlıca yetkinlikler; yapı kullanım sınıflarını değerlendirmek, kaçış düzenlemelerinin teknik gerekçelerini anlamak, yangın bölmelerinin sürekliliğini incelemek ve mevcut yapıyla onaylı projeyi karşılaştırmaktır."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak bir mimarın proje hazırlama veya mesleki onay yetkisi ile Yangın Güvenlik Uzmanı (YGU) olarak üstlenebileceği görevler aynı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Her görev kendi mevzuatı ve yetkilendirme koşulları içerisinde değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-insaat-muhendisleri-icin-yangin-guvenlik-uzmanligi-ygu",
+      "metin": "3. İnşaat Mühendisleri İçin Yangın Güvenlik Uzmanlığı (YGU)"
+    },
+    {
+      "tip": "p",
+      "metin": "İnşaat mühendisliği, yapı elemanlarının davranışı ve taşıyıcı sistemlerin teknik özellikleri açısından yangın güvenliğiyle ilişkilidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi bakımından yapı malzemelerinin yangına tepkisi, yangına dayanım kavramları, yapı elemanlarının korunması ve mevcut yapılarda meydana gelen değişikliklerin değerlendirilmesi önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir yapıda sonradan oluşturulan tesisat geçişlerinin yangın bölmelerinin sürekliliğini etkileyip etkilemediği incelenebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), böyle bir durumu kendi inceleme kapsamı içinde tespit edip gerekçelendirebilir. Ancak bu görev, taşıyıcı sistemin yangın altındaki performansına ilişkin özel mühendislik hesaplarını otomatik olarak yapma yetkisi anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "4-makine-muhendisleri-icin-yangin-guvenlik-uzmanligi-ygu-egitimi",
+      "metin": "4. Makine Mühendisleri İçin Yangın Güvenlik Uzmanlığı (YGU) Eğitimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın söndürme, duman kontrolü, yangın pompaları ve ilgili mekanik tesisatlar makine mühendisliği ile yakından ilişkilidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde bu sistemlerin ne amaçla kullanıldığı, hangi yapı özellikleriyle ilişkili olduğu ve diğer yangından korunma önlemleriyle nasıl çalıştığı anlaşılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin sprinkler tesisatının projede bulunması ile sistemin gerçek yapıda öngörülen alanları koruyacak şekilde uygulanmış olması farklı değerlendirmelerdir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), ilgili görevi kapsamında onaylı projeleri, saha uygulamasını ve mevcut teknik belgeleri birlikte inceleyebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sistemin tasarımı, özel teknik hesapları ve mevzuatla belirlenmiş test veya onay faaliyetleri ise ilgili yetki sınırları içerisinde yürütülür."
+    },
+    {
+      "tip": "h2",
+      "id": "5-elektrik-ve-elektronik-muhendisleri-icin-yangin-guvenlik-uzmanligi-ygu",
+      "metin": "5. Elektrik ve Elektronik Mühendisleri İçin Yangın Güvenlik Uzmanlığı (YGU)"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılama ve alarm sistemleri, acil durum aydınlatması, yönlendirme düzeni ve bazı güvenlik sistemleri elektrik ve elektronik mühendisliği ile ilişkilidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi, bu sistemlerin yangın güvenliği içerisindeki işlevlerinin anlaşılmasına katkı sağlayabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin yangın alarm sisteminden gelen bir sinyalin diğer güvenlik sistemleriyle ilişkisi, binanın kullanım özellikleri dikkate alınarak değerlendirilebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), teknik raporlar ve projeler üzerinden gerekli bilgileri inceleyebilmelidir. Bununla birlikte uzmanlık yetkisi, elektrik tesisatına ilişkin bütün test ve ölçümleri doğrudan gerçekleştirme yetkisi olarak yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-kimya-muhendisleri-ve-diger-muhendislik-disiplinleri-icin-ygu-egitimi",
+      "metin": "6. Kimya Mühendisleri ve Diğer Mühendislik Disiplinleri İçin YGU Eğitimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Endüstriyel tesislerde yangın güvenliği, kullanılan maddelerin özellikleri, üretim prosesleri, depolama düzeni ve işletme koşullarıyla doğrudan ilişkilidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kimya mühendisliği başta olmak üzere farklı mühendislik disiplinlerinin teknik bilgisi, Yangın Güvenlik Uzmanlığı (YGU) açısından değerli bir altyapı oluşturabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle yanıcı ve parlayıcı maddelerin bulunduğu işletmelerde bir yangın tehlikesinin doğru değerlendirilmesi için madde özelliklerinin ve proses koşullarının anlaşılması gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak Yangın Güvenlik Uzmanı (YGU) olmak, proses tasarımı veya özel güvenlik analizlerine ilişkin bütün mesleki yetkilerin kazanıldığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "7-muhendisler-ve-mimarlar-yangin-guvenlik-uzmani-ygu-olabilir-mi",
+      "metin": "7. Mühendisler ve Mimarlar Yangın Güvenlik Uzmanı (YGU) Olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sorunun cevabı yalnızca kişinin mühendislik veya mimarlık diplomasına sahip olmasına bakılarak verilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) için hangi meslek gruplarının hangi seviyeye başvurabileceği, ilgili mevzuatta düzenlenen öğrenim, eğitim, sınav ve yetkilendirme şartlarına bağlıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK",
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı, uzmanlık seviyeleri ve yetkilendirme sistemine ilişkin önerilen hükümler içermektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle mesleki diploma ile resmî YGU yetkisinin birbirinden ayrılması gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir mühendis veya mimarın yangın güvenliği konusunda eğitim alması mümkündür; ancak resmî Yangın Güvenlik Uzmanı (YGU) olarak görev yapabilmesi, mevzuatta aranan koşulların sağlanmasına bağlıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK KARŞILAŞTIRMASI — TASLAK Madde 5/2-b, YGU-2 için mimar ile inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendisi unvanlarını saymaktadır. Kimya mühendisleri ve kimya lisans mezunları ise YGU-K başvuru grubunda düzenlenmiştir. Bu liste bütün mühendislik dallarına otomatik başvuru hakkı vermez; meslek öğrenimi ve nihai başvuru şartları ayrıca doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "8-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "8. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın onaylı mimari projesinde yangın bölmesi olarak düzenlenen alanın, sonraki kullanım değişiklikleri nedeniyle farklı hale geldiğini düşünelim."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), inceleme kapsamına göre önce yapının onaylı projelerini, izinlerini ve varsa tadilat belgelerini değerlendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ardından sahadaki gerçek kullanım biçimini, duvarları, kapıları ve tesisat geçişlerini gözlemler. İlgili teknik belgeleri ve mevcut test raporlarını inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada önemli olan, her değişikliğin otomatik olarak mevzuata aykırı ilan edilmesi değildir. Değişikliğin hangi mevzuat hükmüne tabi olduğunun ve yangın güvenliği üzerindeki etkisinin gerekçelendirilmesidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), gerekli teknik bulguları raporlayabilir; başka uzmanlıkların tasarım, hesap, test veya onay yetkilerini ise kendi görevinin doğal uzantısı olarak kabul etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "9-yangin-guvenlik-uzmanligi-ygu-egitimi-muhendislere-ve-mimarlara-ne-kazandirabilir",
+      "metin": "9. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Mühendislere ve Mimarlara Ne Kazandırabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi, farklı meslek disiplinlerinden gelen kişilerin yapı yangın güvenliğini daha bütüncül değerlendirmelerine yardımcı olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mühendisler ve mimarlar için bunun önemli kazanımlarından biri, yalnızca kendi uzmanlık alanlarındaki bir bileşene değil, binanın yangın güvenliği düzenine bütün olarak bakabilmektir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu yetkinlik, mevcut mesleki çalışmaların geliştirilmesi açısından da değerlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak YGU eğitimi sonucunda elde edilebilecek resmî görevler ve çalışma alanları, ilgili uzmanlık seviyesine ve geçerli yetkilendirmeye göre belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "10-muhendisler-ve-mimarlar-icin-ygu-egitimi-hakkinda-sik-sorulan-sorular",
+      "metin": "10. Mühendisler ve Mimarlar İçin YGU Eğitimi Hakkında Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Mimarlar Yangın Güvenlik Uzmanı (YGU) olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Başvuru ve yetkilendirme hakkı, ilgili mevzuatta mimarlar için düzenlenen koşullara göre değerlendirilmelidir. Mimarlık diploması tek başına resmî YGU yetkisi vermez."
+    },
+    {
+      "tip": "h3",
+      "metin": "Makine mühendisleri için Yangın Güvenlik Uzmanlığı (YGU) eğitimi gerekli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU yetkisi hedefleniyorsa ilgili seviyenin eğitim ve yetkilendirme şartları esas alınmalıdır. Genel mesleki gelişim eğitimi ile resmî YGU eğitimi birbirinden ayrılmalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteler hangileridir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yetkilendirilmiş eğitim kurumları resmî duyurular üzerinden doğrulanmalıdır. Genel sertifika programları otomatik olarak resmî YGU eğitimi sayılmaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "İş güvenliği uzmanları aynı zamanda Yangın Güvenlik Uzmanı (YGU) olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "İş güvenliği uzmanlığı belgesi ile YGU yetkisi ayrı sistemlerdir. Bir kişinin her iki alanda görev alabilmesi, her birinin ilgili koşullarını sağlamasına bağlıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU), mühendislik ve mimarlık disiplinlerinin teknik bilgi birikiminden yararlanabilecek, ancak kendine özgü görev ve yetki sınırları bulunan bir uzmanlık alanıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi, yapıların yangın güvenliğini proje, mevzuat, teknik sistemler ve gerçek kullanım koşullarıyla birlikte değerlendirebilme yetkinliğine katkı sağlayabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mühendisler ve mimarlar için YGU uzmanlığına ilişkin en önemli konu, mevcut mesleki unvanlarının hangi uzmanlık seviyesine başvuru hakkı sağladığını ve resmî yetkilendirme için hangi koşulların arandığını güncel mevzuattan doğrulamaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Mimarlar Yangın Güvenlik Uzmanı (YGU) olabilir mi?",
+      "yanit": "Başvuru ve yetkilendirme hakkı, ilgili mevzuatta mimarlar için düzenlenen koşullara göre değerlendirilmelidir. Mimarlık diploması tek başına resmî YGU yetkisi vermez."
+    },
+    {
+      "soru": "Makine mühendisleri için Yangın Güvenlik Uzmanlığı (YGU) eğitimi gerekli mi?",
+      "yanit": "YGU yetkisi hedefleniyorsa ilgili seviyenin eğitim ve yetkilendirme şartları esas alınmalıdır. Genel mesleki gelişim eğitimi ile resmî YGU eğitimi birbirinden ayrılmalıdır."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteler hangileridir?",
+      "yanit": "Yetkilendirilmiş eğitim kurumları resmî duyurular üzerinden doğrulanmalıdır. Genel sertifika programları otomatik olarak resmî YGU eğitimi sayılmaz."
+    },
+    {
+      "soru": "İş güvenliği uzmanları aynı zamanda Yangın Güvenlik Uzmanı (YGU) olabilir mi?",
+      "yanit": "İş güvenliği uzmanlığı belgesi ile YGU yetkisi ayrı sistemlerdir. Bir kişinin her iki alanda görev alabilmesi, her birinin ilgili koşullarını sağlamasına bağlıdır."
+    }
+  ]
+}

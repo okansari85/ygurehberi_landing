@@ -1,0 +1,237 @@
+{
+  "no": "13",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Sınavı Nasıl Olacak? Yangın Güvenlik Uzmanı (YGU) Sınavına Hazırlık Rehberi",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) sınavı, yangın güvenlik uzmanı olarak resmî yetkilendirmeye ulaşmak isteyen kişilerin eğitim sonrasında karşılaşacağı bilgi değerlendirme aşamasıdır. Eğitim süreci, sınav başarısı ve yetki belgesinin düzenlenmesi birbirine bağlı olsa da aynı işlem değildir. Bu nedenle YGU sınavına hazırlanırken hem teknik konular hem de başvuru, itiraz ve yeniden sınava girme hükümleri ayrı değerlendirilmelidir.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Bu makalede verilen soru sayıları, başarı koşulu, itiraz ve yeniden sınava girme hükümleri, özgün YGU yönetmelik taslağının 11. maddesinden alınmıştır. Bunlar yayımlanmış nihai sınav kılavuzu değildir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "En az 50/25 soru, 70 başarı puanı, itiraz ve tekrar sınav hükümleri YGU TASLAĞI Madde 11'in önerileridir. Yürürlükteki BYKHY veya 2025 BYKHY taslağı bu uzmanlık sınavının kesin takvimi ya da nihai sınav kılavuzu değildir. Resmî ilan doğrulanmadıkça kesin uygulama koşulu gibi sunulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-sinavinin-kanuni-ve-taslak-dayanagi",
+      "metin": "1. YGU sınavının kanuni ve taslak dayanağı"
+    },
+    {
+      "tip": "p",
+      "metin": "22 Mayıs 2026 tarihli 7579 sayılı Kanun'un 3194 sayılı İmar Kanunu'na getirdiği düzenleme, eğitim ve sınavda başarılı olarak yetkilendirilen Yangın Güvenlik Uzmanlarının (YGU) belirli koşullarda yangın güvenlik raporu düzenleyebilmesine ilişkin çerçeveyi oluşturmuştur. Uygulama ayrıntıları ise yönetmeliğe bırakılmıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 11, sınavın Bakanlıkça düzenleneceğini ve teorik eğitim konularını kapsayacağını belirtir. Sınavın kesin tarihi ve uygulama merkezi ise Bakanlığın resmî açıklamalarıyla belirlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "2-kimler-ygu-sinavina-girebilecek",
+      "metin": "2. Kimler YGU sınavına girebilecek?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 11/3, Madde 14'teki özel muafiyete sahip olanlar dışında, öngörülen eğitimleri tamamlayanların sınava başvurabileceğini düzenler. Bunun temelinde, Madde 5'te belirtilen meslek/seviye koşulları ve Madde 9'daki teorik ve uygulamalı eğitim süreci bulunur."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-1, YGU-2, YGU-3 ve YGU-K seviyeleri için öğrenim ve geçiş şartları aynı değildir. Genel yangın güvenliği sertifikası sahibi olmak veya iş güvenliği uzmanlığı belgesi taşımak, tek başına resmî YGU sınavına girme hakkı sağlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "3-taslakta-sinavin-soru-sayisi-ve-basari-kosulu",
+      "metin": "3. Taslakta sınavın soru sayısı ve başarı koşulu"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 11/5",
+      "metin": "YGU-1, YGU-2 ve YGU-3 sınavlarının en az 50 çoktan seçmeli sorudan; YGU-K sınavının en az 25 çoktan seçmeli sorudan oluşması öngörülmektedir. 100 üzerinden 70 ve üstünde puan alan adayların başarılı sayılması önerilmektedir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Seviye",
+        "Taslak asgari soru sayısı",
+        "Taslak başarı sınırı"
+      ],
+      "satirlar": [
+        [
+          "YGU-1",
+          "50",
+          "70/100"
+        ],
+        [
+          "YGU-2",
+          "50",
+          "70/100"
+        ],
+        [
+          "YGU-3",
+          "50",
+          "70/100"
+        ],
+        [
+          "YGU-K",
+          "25",
+          "70/100"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki “en az” ifadesi önemlidir; tablo sınavın kesinlikle yalnız bu sayıda soru içereceği anlamına gelmez. Bu sayılar resmî eğitim belgelerine eklenecek puanlama sistemi değil, taslak yönetmelikte önerilen sınav hükümleridir. Eğitim üniteleri için ayrıca rubrik, puan dağılımı veya notlandırma oluşturulmamaktadır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-eksik-basvuru-belgesi-ve-15-gunluk-sure",
+      "metin": "4. Eksik başvuru belgesi ve 15 günlük süre"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 11/4'e göre Madde 10'daki başvuru belgelerini Komisyon inceler. Zorunlu belgeler eksikse tamamlamak için 15 gün süre öngörülür. Süre içinde tamamlanmayan belgeler Bakanlıkça iade edilir ve ilgili kişi sınava katılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 11/4'ün belge incelemesini sınava kabul sonucu ile ilişkilendirmesi nedeniyle, bu hüküm doğrudan “üniversite kaydını kesinleştirmek için herkese 15 gün verilir” şeklinde anlatılmamalıdır. Eğitim ilanı ve sınav kabul süreci ayrı incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-taslakta-itiraz-hakki-ve-sinava-tekrar-giris",
+      "metin": "5. Taslakta itiraz hakkı ve sınava tekrar giriş"
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 11/6",
+      "metin": "Sınav sonucuna itiraz, sonuçların ilanını izleyen yedi iş günü içinde yapılır; Bakanlığın itirazı on beş iş günü içinde karara bağlaması öngörülür."
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK Madde 11/7",
+      "metin": "Sınavda başarılı olamayan veya geçerli mazeret nedeniyle sınava katılamayan kişiye, yeniden eğitime katılmaksızın en fazla bir kez daha sınava girme hakkı öngörülmektedir. Bu hakkın hangi koşullarda kullanılacağına ilişkin sınav duyurusu ayrıca takip edilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hükümler gelecekteki sınav takviminin ilan edildiği anlamına gelmez; başvuru ve değerlendirme usulüne ilişkin taslak kurallardır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-ygu-sinavina-teknik-hazirlik-hangi-konularla-baslamali",
+      "metin": "6. YGU sınavına teknik hazırlık hangi konularla başlamalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) adayları, EK-2 eğitim müfredatını kendi seviyelerine göre okumalıdır. Ortak başlangıç alanları yangın bilimi, yangın mevzuatı ve proje okuma yaklaşımıdır. YGU-1 ile YGU-2'nin yapı, kaçış yolları, elektrik ve mekanik yangın güvenliği sistemlerine ilişkin modülleri aynı teknik derinlikte düzenlenmemiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-3 için yüksek tehlikeli yapılar ve uluslararası teknik dokümanlar; YGU-K için tehlikeli maddeler, sınıflandırma ve ilgili kontrol süreçleri öne çıkar. Ancak sınavın kesin soru dağılımı taslak eğitim modüllerinden varsayılarak uydurulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-saha-ornegi-mevzuati-dogru-uygulama",
+      "metin": "7. Saha örneği: mevzuatı doğru uygulama"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir konaklama yapısında kaçış kapısının sürekli kilitli tutulduğunu düşünelim. Yangın Güvenlik Uzmanı (YGU) incelemesinde önce yapının onaylı projesi, ilgili kullanım ve ruhsat bilgileri, kapının kaçış düzenindeki yeri ve gerçek saha koşulları belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonrasında uygulanabilir BYKHY hükümleri araştırılır; varsa teknik belgeler ve istisnalar birlikte değerlendirilir. Sadece “kapı kilitli” gözlemi değil, bu tespitin kaçış güvenliğine etkisi ve dayanağı raporlanır. Mesleki hazırlıkta doğru bilgi–belge–hüküm bağlantısı kurabilmek, salt tanım ezberinden daha değerlidir."
+    },
+    {
+      "tip": "h2",
+      "id": "8-yetki-belgesi-sinavdan-hemen-sonra-mi-verilir",
+      "metin": "8. Yetki belgesi sınavdan hemen sonra mı verilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 13, başarılı olanların yetki belgesi almaya hak kazanacağını ve belgenin Bakanlıkça elektronik doğrulanabilir biçimde düzenleneceğini söyler. Bununla birlikte sınav sonucunun açıklanması ile belge kaydının tamamlanması aynı anda olmak zorunda değildir; resmî işlemler takip edilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınavın yapılması, kişinin bütün yapılar için sınırsız yangın güvenliği kontrolü yapabileceği anlamına da gelmez. Görev ve yetki sınırları, taslak Madde 6 ile EK-1'in ilgili kullanım sınıfı tablosuna bağlıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU sınavı 50 soru mu olacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak YGU-1, YGU-2 ve YGU-3 için en az 50, YGU-K için en az 25 soru der. Kesin sınav duyurusu ayrıca gerekir."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU sınavı geçme puanı 70 mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen taslakta 100 üzerinden 70 yer alır; yürürlükteki kesin koşul olarak sunulmamalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sonuca itiraz mümkün mü?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak, yedi iş günü içinde itiraz ve on beş iş günü içinde karara bağlama öngörmektedir."
+    },
+    {
+      "tip": "h3",
+      "metin": "A sınıfı iş güvenliği uzmanı sınavdan muaf mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Böyle genel bir muafiyet yoktur. Taslak Madde 14'ün dar kurum, meslek ve deneyim koşulları ayrıca incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) sınavında hazırlığın temeli, resmî müfredatı seviyeye göre çalışmak ve mevzuat uygulama becerisini geliştirmektir. Taslaktaki soru, başarı, itiraz ve tekrar sınav hükümleri artık somut olarak görülebilmektedir; ancak nihai yönetmelik ve sınav kılavuzu çıkmadan kesin takvim ve hak iddiasında bulunulmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 Sayılı Tapu Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU sınavı 50 soru mu olacak?",
+      "yanit": "Taslak YGU-1, YGU-2 ve YGU-3 için en az 50, YGU-K için en az 25 soru der. Kesin sınav duyurusu ayrıca gerekir."
+    },
+    {
+      "soru": "YGU sınavı geçme puanı 70 mi?",
+      "yanit": "İncelenen taslakta 100 üzerinden 70 yer alır; yürürlükteki kesin koşul olarak sunulmamalıdır."
+    },
+    {
+      "soru": "Sonuca itiraz mümkün mü?",
+      "yanit": "Taslak, yedi iş günü içinde itiraz ve on beş iş günü içinde karara bağlama öngörmektedir."
+    },
+    {
+      "soru": "A sınıfı iş güvenliği uzmanı sınavdan muaf mı?",
+      "yanit": "Böyle genel bir muafiyet yoktur. Taslak Madde 14'ün dar kurum, meslek ve deneyim koşulları ayrıca incelenmelidir."
+    }
+  ]
+}

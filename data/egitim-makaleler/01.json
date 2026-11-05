@@ -1,0 +1,561 @@
+{
+  "no": "01",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Nasıl Olacak? Yangın Güvenlik Uzmanı (YGU) Eğitim Rehberi",
+  "ozet": "Yangın güvenliği, yalnızca yangın söndürme cihazlarının bulundurulması veya yangın algılama sistemlerinin kurulmasıyla sağlanamaz. Bir binanın mimari özellikleri, kullanım amacı, kaçış yolları, yangından korunma tesisatları ve işletme koşulları bir bütün olarak değerlendirilmelidir.",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Türkiye'de yangın güvenliğinin değerlendirilmesine yönelik düzenlemeler, Yangın Güvenlik Uzmanlığı (YGU) alanını önemli bir mesleki gündem haline getirmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "22 Mayıs 2026 tarihinde yayımlanan kanuni düzenleme, yangın güvenliği periyodik kontrolleri ve yetkilendirilecek Yangın Güvenlik Uzmanları (YGU) bakımından yeni bir çerçeve oluşturmuştur."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu gelişmeyle birlikte Yangın Güvenlik Uzmanlığı (YGU) eğitimi, YGU eğitimi veren üniversiteler, yangın güvenlik uzmanı eğitim şartları, YGU eğitim başvurusu, YGU eğitim ücretleri ve YGU eğitim tarihleri merak edilen konular arasında yer almaya başlamıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Peki, Yangın Güvenlik Uzmanlığı (YGU) eğitimi nasıl olacak? Yangın Güvenlik Uzmanı (YGU) olmak isteyen kişiler hangi konuları öğrenmeli? YGU eğitimi veren yerler nasıl belirlenecek?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu makalede Yangın Güvenlik Uzmanlığı (YGU) eğitimini, mevcut mevzuat çerçevesini, eğitim içeriğini, uzmanlık seviyelerini ve mesleki hazırlık sürecini ele alıyoruz."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Kanuni periyodik kontrol çerçevesi 22 Mayıs 2026'da yayımlandı. YGU eğitimi ve uzmanlık seviyesi ayrıntıları incelenen YGU yönetmelik TASLAĞINA aittir. Ayrı bir kaynak olan 2025 tarihli 99 sayfalık BYKHY yeniden düzenleme taslağı yürürlükteki BYKHY değildir; eğitimde o taslağın hükümleri bağlayıcı mevzuat gibi gösterilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "1-yangin-guvenlik-uzmanligi-ygu-egitimi-nedir",
+      "metin": "1. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi, yapıların yangın güvenliğinin mevzuat ve teknik gereklilikler çerçevesinde değerlendirilmesine yönelik mesleki bilgi ve uygulama becerilerini geliştirmeyi amaçlayan eğitim sürecidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) için yalnızca yönetmelik hükümlerini bilmek yeterli değildir. Uzmanın yapının özelliklerini değerlendirebilmesi, ilgili projeleri okuyabilmesi, saha koşullarını inceleyebilmesi ve tespitlerini teknik gerekçelerle açıklayabilmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir binada yangın merdiveni bulunması, kaçış güvenliğinin bütün koşullarıyla sağlandığını tek başına göstermez. Merdivenin hangi katlara hizmet ettiği, kaçış yoluyla bağlantısı, korunma özellikleri ve mevcut kullanım koşulları birlikte değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle Yangın Güvenlik Uzmanlığı (YGU) eğitiminin temelinde, yangın güvenliği mevzuatı ile gerçek yapı uygulamalarının ilişkilendirilmesi bulunmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yangin-guvenlik-uzmanligi-ygu-egitiminin-mevzuat-dayanagi",
+      "metin": "2. Yangın Güvenlik Uzmanlığı (YGU) Eğitiminin Mevzuat Dayanağı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) sisteminin kanuni dayanağı ile eğitimlerin uygulanmasına ilişkin ayrıntılar birbirinden ayrılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "7579 sayılı Kanun ile 3194 sayılı İmar Kanunu'nda yapılan değişiklikler, yangın güvenliği periyodik kontrolleri ve Yangın Güvenlik Uzmanı (YGU) yetkilendirme sistemi bakımından kanuni çerçeveyi oluşturmuştur."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu düzenlemeler kapsamında yangın güvenliği periyodik kontrollerinin yürütülmesine ve yangın güvenlik raporlarının düzenlenmesine ilişkin hükümler yer almaktadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bununla birlikte Yangın Güvenlik Uzmanlığı (YGU) eğitiminin ayrıntılı uygulama koşulları, sınav, uzmanlık seviyeleri ve yetkilendirme usulleri ilgili ikincil mevzuatla değerlendirilmelidir."
+    },
+    {
+      "tip": "not",
+      "etiket": "TASLAK",
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı, YGU eğitimi ve uzmanlık sistemi hakkında önerilen düzenlemeleri içermektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta yer alan eğitim ve yetkilendirme koşulları, kesinleşmiş mevzuat hükümleriyle karıştırılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "3-yangin-guvenlik-uzmanligi-ygu-egitimi-hangi-konulari-kapsayacak",
+      "metin": "3. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Hangi Konuları Kapsayacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olarak görev yapacak kişilerin, yangın güvenliğini farklı teknik disiplinler açısından değerlendirebilmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi bakımından önem taşıyan temel teknik alanlar aşağıda açıklanmaktadır."
+    },
+    {
+      "tip": "h3",
+      "metin": "3.1. Yangın bilimi ve yangın davranışı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde yangının oluşumu, yanma mekanizması, ısı transferi, duman hareketi ve yangının yapı içerisindeki gelişimi temel bilgi alanlarıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), bu bilgileri yangının yayılma yollarını ve korunma önlemlerinin işlevini anlayabilmek için kullanır."
+    },
+    {
+      "tip": "h3",
+      "metin": "3.2. Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminin en önemli teknik dayanaklarından biri Binaların Yangından Korunması Hakkında Yönetmelik'tir (BYKHY)."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), yapının kullanım sınıfını, yüksekliğini, kullanıcı yükünü, mevcut veya yeni yapı niteliğini ve diğer ilgili özelliklerini dikkate alarak uygulanabilir hükümleri değerlendirebilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle mevcut yapılarda geçmiş ruhsat ve izin belgeleri, onaylı projeler ve sonraki tadilatlar birlikte ele alınmalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "3.3. Mimari yangın güvenliği ve kaçış yolları"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış yolları, yangın merdivenleri, çıkışlar, yangın kapıları, yangın bölmeleri ve yapı elemanlarının yangına dayanımı, Yangın Güvenlik Uzmanlığı (YGU) eğitiminin temel teknik konuları arasındadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), yalnızca bir elemanın bulunup bulunmadığını değil, ilgili düzenlemenin yapı içerisinde doğru biçimde uygulanıp uygulanmadığını değerlendirmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "3.4. Yangın algılama ve uyarı sistemleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılama ve alarm sistemlerinin bileşenleri, çalışma prensipleri ve diğer yangın güvenliği sistemleriyle ilişkileri, Yangın Güvenlik Uzmanlığı (YGU) eğitiminde önemli yer tutar."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendi görev ve yetki kapsamındaki incelemelerde onaylı proje, saha uygulaması ve mevcut teknik raporlar arasındaki ilişkiyi değerlendirebilmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "3.5. Yangın söndürme ve duman kontrol sistemleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Sprinkler sistemleri, yangın dolapları, hidrantlar, yangın pompaları, su depoları ve duman kontrol sistemleri, yapıların yangından korunmasında önemli işlevlere sahiptir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi kapsamında bu sistemlerin temel çalışma prensiplerinin öğrenilmesi, saha incelemelerinde teknik değerlendirme yapılmasını kolaylaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) yetkisi, diğer mesleklerin mevzuatla belirlenmiş tasarım, ölçüm, test ve özel teknik onay yetkilerini kendiliğinden kapsamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "3.6. Proje inceleme ve saha kontrolü"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde onaylı projeler ile mevcut yapıların karşılaştırılması önemli bir uygulama alanıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), ilgili görevi kapsamında projede öngörülen yangın güvenlik önlemleri ile gerçek mahal, faaliyet ve işletme koşullarını karşılaştırabilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu değerlendirmede teknik belgeler, bakım ve kontrol raporları ile saha gözlemleri birlikte ele alınır."
+    },
+    {
+      "tip": "not",
+      "etiket": "Eğitim müfredatı notu",
+      "metin": "Bu bölüm Yangın Güvenlik Uzmanlığı (YGU) açısından önemli teknik alanları açıklamaktadır. Kesin modül isimleri ve zorunlu ders saatleri, yürürlükteki eğitim düzenlemesi ve resmî müfredat üzerinden ayrıca doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-yangin-guvenlik-uzmanligi-ygu-egitim-seviyeleri-nelerdir",
+      "metin": "4. Yangın Güvenlik Uzmanlığı (YGU) Eğitim Seviyeleri Nelerdir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) yönetmelik taslağında YGU-1, YGU-2, YGU-3 ve YGU-K uzmanlık seviyeleri öngörülmektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu seviyeler, Yangın Güvenlik Uzmanı (YGU) olarak görev alacak kişilerin uzmanlık ve yetki kapsamlarının farklılaştırılması amacıyla düzenleme çalışmalarına konu olmuştur."
+    },
+    {
+      "tip": "p",
+      "vurgu": "YGU-1:",
+      "metin": "Taslakta düzenlenen uzmanlık seviyelerinden biridir."
+    },
+    {
+      "tip": "p",
+      "vurgu": "YGU-2:",
+      "metin": "Taslakta ayrı yeterlilik ve görev kapsamıyla ele alınan uzmanlık seviyesidir."
+    },
+    {
+      "tip": "p",
+      "vurgu": "YGU-3:",
+      "metin": "Taslakta ayrıca tanımlanan uzmanlık seviyesidir."
+    },
+    {
+      "tip": "p",
+      "vurgu": "YGU-K:",
+      "metin": "Taslakta özel kapsamı bulunan Yangın Güvenlik Uzmanlığı (YGU) seviyesidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu seviyelerin birbirinden hangi öğrenim, mesleki yeterlilik ve görev koşullarıyla ayrıldığı, kesinleşmiş mevzuatla birlikte değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimine katılmak isteyen kişiler, öncelikle kendi mesleki niteliklerinin hangi uzmanlık seviyesi için uygun olduğunu araştırmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yangin-guvenlik-uzmanligi-ygu-egitimi-teorik-ve-uygulamali-mi-olacak",
+      "metin": "5. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Teorik ve Uygulamalı mı Olacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde teorik bilgi ile uygulama becerilerinin birbirini tamamlaması önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin kaçış yolları anlatılırken yalnızca yönetmelik hükümlerinin gösterilmesi yerine, bir mimari proje üzerinden kaçış düzeninin incelenmesi daha öğretici olacaktır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmak isteyen kişiler, projede gösterilen yangın güvenlik düzenlemelerinin sahada nasıl karşılık bulduğunu anlayabilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Benzer şekilde yangın algılama veya söndürme sistemleri anlatılırken sistem bileşenlerinin birbirleriyle ilişkisi ve saha uygulamalarında karşılaşılabilecek farklılıklar değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bununla birlikte Yangın Güvenlik Uzmanlığı (YGU) eğitiminin zorunlu teorik ve uygulamalı süreleri ile eğitim biçimi, ilgili düzenlemelerin kesinleşmiş hükümlerine göre belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK KARŞILAŞTIRMASI — Özgün YGU yönetmelik taslağı Madde 9, teorik eğitimin Bakanlık veya Bakanlıkça yetkilendirilmiş kuruluşlar tarafından; uygulama eğitiminin ise mahalli itfaiye teşkilatı tarafından verilmesini öngörmektedir. Teorik eğitim yüz yüze veya uzaktan düzenlenebilir; taslakta katılım belgesi için teorik eğitime en az %90 devam şartı bulunmaktadır. Uygulama bölümünde farklı kullanım sınıfındaki iki yapıya ilişkin rapor hazırlama ve uygulama gözetimi öngörülmüştür. Bunlar nihai yönetmelik hükümleri değil, TASLAK Madde 9 kurallarıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yangin-guvenlik-uzmanligi-ygu-egitimi-veren-universiteler",
+      "metin": "6. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Veren Üniversiteler"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteler konusu, YGU eğitimi almak isteyen kişilerin en çok araştırdığı başlıklardan biridir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak bir üniversitenin yangın güvenliği alanında sertifika programı veya mesleki eğitim düzenlemesi, o kurumun resmî Yangın Güvenlik Uzmanlığı (YGU) eğitimi vermeye yetkili olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle YGU eğitimi veren üniversiteler araştırılırken ilgili kurumun yetkilendirme durumu, eğitim programının niteliği ve resmî duyuruları kontrol edilmelidir."
+    },
+    {
+      "tip": "not",
+      "etiket": "Güncel durum",
+      "metin": "Bu makalede yetkilendirmesi doğrulanmamış bir üniversite, resmî YGU eğitimi veren kuruluş olarak gösterilmemektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "7-yangin-guvenlik-uzmanligi-ygu-egitimi-veren-yerler",
+      "metin": "7. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Veren Yerler"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren yerler araştırılırken genel yangın güvenliği eğitimleri ile resmî uzmanlık eğitimleri birbirinden ayrılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmaya yönelik hazırlık eğitimi sunan bir kurum ile mevzuat kapsamında yetkilendirilmiş bir eğitim kuruluşunun verdiği program aynı nitelikte olmayabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle Yangın Güvenlik Uzmanlığı (YGU) eğitimi almak isteyen kişiler yalnızca eğitim ilanının başlığına değil, programın yetkilendirme kapsamına ve verilen belgenin niteliğine dikkat etmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "8-yangin-guvenlik-uzmanligi-ygu-egitim-basvurusu-nasil-yapilacak",
+      "metin": "8. Yangın Güvenlik Uzmanlığı (YGU) Eğitim Başvurusu Nasıl Yapılacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurusu, uzmanlık seviyesine ve ilgili mevzuatta aranan yeterlilik koşullarına göre değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmak isteyen kişinin yalnızca bir eğitim programına katılması, resmî uzmanlık yetkisini kendiliğinden kazandığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim, sınav ve yetkilendirme süreçleri ilgili mevzuatın öngördüğü koşullara göre yürütülmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU eğitim başvurusu sırasında hangi belgelerin isteneceği, başvuruların nereden yapılacağı ve başvuru takviminin nasıl işleyeceği, yetkili kurumların kesinleşmiş duyurularıyla belirlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "9-yangin-guvenlik-uzmanligi-ygu-egitim-sartlari-nelerdir",
+      "metin": "9. Yangın Güvenlik Uzmanlığı (YGU) Eğitim Şartları Nelerdir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim şartları, uzmanlık seviyelerine göre farklı yeterlilik koşullarını içerebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmak isteyen kişiler açısından öğrenim durumu, mesleki nitelikler, eğitim ve sınav koşulları birlikte önem taşır."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak mühendis, mimar, teknik personel veya iş güvenliği uzmanı olmak, ilgili mevzuattaki koşullar ayrıca sağlanmadan otomatik Yangın Güvenlik Uzmanı (YGU) yetkisi kazanıldığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle YGU eğitim şartları incelenirken taslak hükümler ile yürürlükteki kesin şartlar birbirinden ayrılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "10-yangin-guvenlik-uzmanligi-ygu-egitim-ucretleri-ne-kadar",
+      "metin": "10. Yangın Güvenlik Uzmanlığı (YGU) Eğitim Ücretleri Ne Kadar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim ücretleri, YGU eğitimi almak isteyen kişilerin eğitim planlamasında önemli bir konudur."
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim ücretinin hangi hizmetleri kapsadığı, toplam ders süresi, uygulama faaliyetleri ve varsa ek giderler, eğitim programı değerlendirilirken dikkate alınmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim ücreti ile sınav veya yetkilendirme işlemlerine ilişkin olası bedeller aynı kalemler olmayabilir."
+    },
+    {
+      "tip": "not",
+      "etiket": "Güncel ücret durumu",
+      "metin": "Bu makalede doğrulanmış bir Yangın Güvenlik Uzmanlığı (YGU) eğitim ücreti bulunmadığından kesin tutar verilmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "11-yangin-guvenlik-uzmanligi-ygu-egitim-tarihleri-ne-zaman",
+      "metin": "11. Yangın Güvenlik Uzmanlığı (YGU) Eğitim Tarihleri Ne Zaman?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim tarihleri ve başvuru takvimi, YGU eğitimi almak isteyen kişilerin takip ettiği önemli konular arasındadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yönetmelik taslağının yayımlanmış olması, Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurularının başladığı veya eğitim takviminin kesinleştiği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle YGU eğitim tarihleri araştırılırken resmî duyurunun yayımlandığı tarih, ilgili eğitim kurumunun yetkilendirme durumu ve programın kapsamı kontrol edilmelidir."
+    },
+    {
+      "tip": "not",
+      "etiket": "Güncel takvim durumu",
+      "metin": "Bu makalede doğrulanmış bir Yangın Güvenlik Uzmanlığı (YGU) eğitim başlangıç tarihi veya başvuru takvimi belirtilmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "12-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "12. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminin mesleki karşılığı, gerçek bir yapının yangın güvenliği bakımından incelenmesinde ortaya çıkar."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir üretim tesisinde yangın güvenliği değerlendirmesi yapılırken öncelikle yapının onaylı projeleri, kullanım izinleri, mevcut faaliyetleri ve işletme koşulları incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), ilgili görev kapsamında projede öngörülen yangın güvenlik önlemlerini sahadaki gerçek uygulamalarla karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin onaylı projede kaçış yolu olarak düzenlenen bir alanın işletme sırasında depolama amacıyla kullanılması, kaçış güvenliği bakımından incelenmesi gereken bir durumdur."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), böyle bir tespitte mevcut durumu, ilgili teknik belgeleri ve uygulanabilir mevzuat hükümlerini birlikte değerlendirerek gerekçeli raporlama yapmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Özel test, ölçüm ve teknik tasarım faaliyetleri ise ilgili mesleklerin mevzuatla belirlenmiş yetki sınırları dikkate alınarak değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminin en önemli kazanımlarından biri, bir binanın yalnızca projede gösterilen halinin değil, gerçek kullanım koşullarının da yangın güvenliği açısından değerlendirilmesidir."
+    },
+    {
+      "tip": "h2",
+      "id": "13-yangin-guvenlik-uzmani-ygu-olmak-isteyenler-egitime-nasil-hazirlanabilir",
+      "metin": "13. Yangın Güvenlik Uzmanı (YGU) Olmak İsteyenler Eğitime Nasıl Hazırlanabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimine hazırlanmak isteyen kişiler öncelikle Binaların Yangından Korunması Hakkında Yönetmelik'in temel sistematiğini öğrenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenliği mevzuatı, yangın davranışı, mimari proje okuma, kaçış düzenlemeleri ve yangından korunma sistemleri, YGU eğitimine hazırlık açısından önemli bilgi alanlarıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmak isteyen kişiler için özellikle proje ile saha arasındaki farklılıkların değerlendirilmesi üzerinde çalışmak yararlıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir eksikliğin yalnızca varlığını belirlemek değil, bu eksikliğin hangi teknik gerekçeyle önem taşıdığını açıklayabilmek de Yangın Güvenlik Uzmanlığı (YGU) bakımından önemli bir mesleki beceridir."
+    },
+    {
+      "tip": "h2",
+      "id": "14-yangin-guvenlik-uzmanligi-ygu-egitimi-hakkinda-sik-sorulan-sorular",
+      "metin": "14. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Hakkında Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenliği mevzuatı, yapı özellikleri, yangından korunma sistemleri ve saha değerlendirme yöntemlerine ilişkin mesleki eğitim sürecidir. Resmî programın kapsamı ilgili mevzuatla belirlenir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteler hangileri?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yetkilendirilmiş üniversiteler, ilgili kurumların resmî duyurularıyla belirlenmelidir. Genel yangın güvenliği sertifika programlarıyla resmî YGU eğitimleri aynı kabul edilmemelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurusu ne zaman yapılacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kesin başvuru tarihleri, yetkili kurumların açıklayacağı eğitim takvimine göre değerlendirilmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim şartları nelerdir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Başvuru koşulları uzmanlık seviyesi, mesleki nitelikler ve ilgili mevzuat hükümlerine göre belirlenmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim ücretleri belli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu makalede doğrulanmış bir ücret bulunmadığından kesin tutar verilmemiştir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim tarihleri belli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim ve başvuru takvimleri için ilgili kurumların kesinleşmiş resmî duyuruları esas alınmalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmak için yalnızca eğitim almak yeterli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Resmî yetkilendirme için ilgili mevzuatta öngörülen eğitim, sınav ve diğer koşulların sağlanması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU), yapıların yangın güvenliğinin değerlendirilmesinde teknik bilgi, mevzuat bilgisi ve saha inceleme becerilerini bir araya getiren bir uzmanlık alanıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi, yangın güvenliği mevzuatının gerçek yapı ve işletme koşullarında nasıl uygulanacağının anlaşılması bakımından önem taşımaktadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) olmak isteyen kişilerin, eğitim şartları, başvuru tarihleri, yetkili eğitim kurumları ve eğitim ücretleri konusunda doğrulanmış bilgileri takip etmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU Rehberi, Yangın Güvenlik Uzmanlığı (YGU) eğitimi, YGU eğitim başvurusu, yangın güvenlik uzmanlığı eğitim şartları, YGU eğitimi veren üniversiteler ve YGU eğitim tarihleri hakkında güncel ve doğrulanmış bilgileri bir araya getirmeyi amaçlamaktadır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 Sayılı Tapu Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi nedir?",
+      "yanit": "Yangın güvenliği mevzuatı, yapı özellikleri, yangından korunma sistemleri ve saha değerlendirme yöntemlerine ilişkin mesleki eğitim sürecidir. Resmî programın kapsamı ilgili mevzuatla belirlenir."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteler hangileri?",
+      "yanit": "Yetkilendirilmiş üniversiteler, ilgili kurumların resmî duyurularıyla belirlenmelidir. Genel yangın güvenliği sertifika programlarıyla resmî YGU eğitimleri aynı kabul edilmemelidir."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurusu ne zaman yapılacak?",
+      "yanit": "Kesin başvuru tarihleri, yetkili kurumların açıklayacağı eğitim takvimine göre değerlendirilmelidir."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitim şartları nelerdir?",
+      "yanit": "Başvuru koşulları uzmanlık seviyesi, mesleki nitelikler ve ilgili mevzuat hükümlerine göre belirlenmelidir."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitim ücretleri belli mi?",
+      "yanit": "Bu makalede doğrulanmış bir ücret bulunmadığından kesin tutar verilmemiştir."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanlığı (YGU) eğitim tarihleri belli mi?",
+      "yanit": "Eğitim ve başvuru takvimleri için ilgili kurumların kesinleşmiş resmî duyuruları esas alınmalıdır."
+    },
+    {
+      "soru": "Yangın Güvenlik Uzmanı (YGU) olmak için yalnızca eğitim almak yeterli mi?",
+      "yanit": "Hayır. Resmî yetkilendirme için ilgili mevzuatta öngörülen eğitim, sınav ve diğer koşulların sağlanması gerekir."
+    }
+  ]
+}

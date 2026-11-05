@@ -2,7 +2,9 @@
 // Sayfa: pages/[konu].vue. Mevzuat bilgisi uydurulmaz; metin değişikliği önce kullanıcıya sorulur.
 
 export type KonuBlok =
-  | { tip: 'giris' | 'p' | 'h3'; metin: string }
+  | { tip: 'giris' | 'h3'; metin: string }
+  | { tip: 'p'; metin: string; vurgu?: string } // vurgu: paragraf başındaki kalın giriş ("YGU-1:")
+  | { tip: 'liste'; numarali: boolean; maddeler: string[] }
   | { tip: 'h2'; id: string; metin: string }
   | { tip: 'not'; etiket: string; metin: string }
   | { tip: 'tablo'; basliklar: string[]; satirlar: string[][] }

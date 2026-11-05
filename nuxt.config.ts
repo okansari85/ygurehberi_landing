@@ -4,6 +4,7 @@ import { KONULAR } from './data/konular'
 import { MAKALELER } from './data/makaleler'
 import { YGU_KATEGORILER, YGU_MAKALELER, konuYolu } from './data/yguBilgi'
 import { ANALYTICS_ID } from './data/icerik'
+import { EGITIM_MAKALELERI, egitimMakaleYolu } from './data/egitim'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-10-07',
@@ -14,7 +15,7 @@ export default defineNuxtConfig({
   // Derlenmiş çıktı klasörleri dev sunucusunda izlenmesin.
   ignore: ['deploy/**', 'dist/**'],
   nitro: {
-    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/kvkk-aydinlatma-metni', '/sss', '/vakalarla-ogren', '/calisma-alanlari', '/yangin-guvenligi-yasam-dongusu', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/serbest-calisma', '/yangin-guvenlik-uzmani-gorevleri', ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
+    prerender: { routes: ['/', '/ygu-hakkinda', '/on-kayit', '/kvkk-aydinlatma-metni', '/sss', '/vakalarla-ogren', '/calisma-alanlari', '/yangin-guvenligi-yasam-dongusu', '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme', '/serbest-calisma', '/yangin-guvenlik-uzmani-gorevleri', '/ygu-egitimi', ...EGITIM_MAKALELERI.map(egitimMakaleYolu), ...Object.keys(KONULAR).map(konuYolu), '/teknik-makaleler', ...MAKALELER.map((m) => `/teknik-makaleler/${m.yol}`), ...YGU_KATEGORILER.map((k) => `/ygu-hakkinda/${k.yol}`), ...YGU_MAKALELER.map((m) => `/ygu-hakkinda/${m.kategori}/${m.yol}`), '/llms.txt', '/sitemap.xml'], crawlLinks: true }
   },
   app: {
     head: {

@@ -1,0 +1,301 @@
+{
+  "no": "16",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Eğitim Müfredatı: YGU Eğitiminde Hangi Konular Öğrenilecek?",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitim müfredatı, yangın güvenlik uzmanı olmak isteyen kişinin yalnızca hangi derslere katılacağını değil, yapıların yangın güvenliğini nasıl değerlendirebileceğini de gösterir. Özgün yönetmelik taslağının EK-2 tablosunda modül başlıkları, içerikler, kazanımlar, asgari teorik süreler, hedef uzmanlık seviyeleri ve eğitici branşları ayrı sütunlarda tanımlanmıştır.",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Bu makalede EK-2'nin modülleri tek tek özetlenirken yönetmelik taslağının Madde 9'unda öngörülen uygulama eğitimi ayrıca açıklanmaktadır. YGU eğitiminin bilimsel/teknik içeriğiyle resmî yetkilendirme süreci aynı şey değildir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki modül adları ve saatler Kitaplık'taki YGU yönetmelik taslağı EK-2 sürümünden alınmıştır. Yürürlükteki kesin eğitim müfredatı veya ilan edilmiş kurs takvimi olarak yorumlanmamalıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "EK-2 modül listesi incelenen YGU yönetmelik TASLAĞININ eğitim ekidir. Bu taslak 'Bina Yangın Yönetmeliği (BYY)' adını kullanmakta ve henüz kesinleşmemiş madde sistemine atıflar içermektedir. 2025 tarihli 99 sayfalık BYKHY taslağındaki konu ve madde numaralarıyla eşleşme ayrıca kontrol edilmeli, bir metindeki numara diğerine doğrudan aktarılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-egitiminde-ortak-baslangic-modulleri",
+      "metin": "1. YGU eğitiminde ortak başlangıç modülleri"
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2'de Modül 1-A Yangın Bilimi (2 saat), Modül 1-B Yasal Çerçeve (4 saat) olarak yer alır. Bu iki modül YGU-1, YGU-2 ve YGU-K için ortaktır. Yangın Bilimi, yanma ve yangın davranışına ilişkin temel kavramları; Yasal Çerçeve, ulusal yangın mevzuatını okuma, yetki ve etik konularını ele alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 1-C Yangın Projeleri (3 saat) ise YGU-1 ve YGU-2 için proje okumaya odaklanır. Bu modülde teknik çizimin bütün ayrıntılarının tasarlanması değil, projedeki yangın güvenliği düzenlemelerinin anlaşılması hedeflenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), çalışma sırasında bir kuralı yalnızca ezberlemekle kalmamalı; hangi bina verisine bağlı olduğunu ve sahada hangi kanıtla doğrulanabileceğini anlayabilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yapi-malzeme-ve-tahliye-modulleri",
+      "metin": "2. Yapı, malzeme ve tahliye modülleri"
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2, Yapı ve Malzeme konusunda YGU-1 için Modül 2-A'yı 4 saat, YGU-2 için Modül 2-B'yi 6 saat düzenler. Her iki programda yapı malzemelerinin yangın davranışı ve yapı elemanlarının korunması ele alınır; ancak kazanımların teknik derinliği farklıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 3-A Kaçış Yolları YGU-1 için 8 saat; Modül 3-B Tahliye YGU-2 için 14 saattir. Bina kullanım sınıfları, kaçış düzenlemeleri, kullanıcı davranışı ve tahliye ilişkileri bu alanın odağındadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminde örnek bir kat planındaki kaçış kapısının türü, merdiven konumu ve korunmuş alan ilişkisi birlikte incelenmelidir. Plan üzerinde görülen bir düzenlemenin sahadaki karşılığı değerlendirilmeden uygunluk sonucu verilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "3-elektrik-tesisati-ve-yangin-guvenligi-sistemleri",
+      "metin": "3. Elektrik tesisatı ve yangın güvenliği sistemleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 4-A Yangın Güvenliği Sistemleri-1, YGU-1 için 8 saattir. Modül 4-B ise YGU-2 için 12 saat olarak düzenlenmiştir. Her iki modül elektrik tesisatı ve sistemlerine ilişkindir: asansör, yıldırımdan korunma, transformatör, jeneratör, elektrik tesisatı, güneş enerjisi sistemleri, acil aydınlatma, yönlendirme ve yangın algılama/uyarı sistemleri gibi alanları kapsar."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki eğitim, özel mühendislik test veya tasarım yetkilerinin tüm katılımcılara kendiliğinden verildiği anlamına gelmez. Yangın Güvenlik Uzmanı (YGU), kendi görevindeki uygunluk değerlendirmesi için teknik belge, proje ve saha bilgilerinin ilişkisini öğrenir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-mekanik-sondurme-ve-duman-kontrolu-modulleri",
+      "metin": "4. Mekanik söndürme ve duman kontrolü modülleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 5-A Yangın Güvenliği Sistemleri-2 YGU-1 için 8 saat; Modül 5-B YGU-2 için 12 saattir. Duman kontrolü, basınçlandırma, sulu söndürme sistemleri, köpüklü/gazlı/tozlu sabit söndürme ve taşınabilir söndürücüler bu modül ailesine dahildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sprinkler sisteminin sadece projede çizilmiş olması, gerçek binada doğru kurulduğunun veya gerekli bakım/testlerinin yapılmış olduğunun tek başına kanıtı değildir. Yangın Güvenlik Uzmanı (YGU), proje, gözlem, bakım ve test kayıtlarını uygun kanıt türleri olarak ayrı ayrı okuyabilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yuksek-tehlikeli-yapilar-ve-tehlikeli-maddeler",
+      "metin": "5. Yüksek tehlikeli yapılar ve tehlikeli maddeler"
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 6-A YGU-1 ve YGU-2 için 4 saatlik temel içeriktir. Modül 6-B YGU-3 ve YGU-K için 24 saattir. Tehlikeli maddelerin depolanması ve kullanılması, patlayıcı maddeler, parlayıcı gazlar, yanıcı ve parlayıcı sıvılar, ilgili tehlike sınıflandırması ve alınacak yangın tedbirleri bu grubun konularıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-K'nin bu alandaki eğitimi, yüksek tehlikeli yapıların periyodik kontrolünde maddelerin tespit ve sınıflandırılması yönündeki taslak göreviyle ilişkilidir. Genel yapı yangın güvenliği kontrolü ile özel tehlikeli madde değerlendirmesi birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-periyodik-kontrol-tatbikat-proje-uygunlugu-ve-standart-okuma",
+      "metin": "6. Periyodik kontrol, tatbikat, proje uygunluğu ve standart okuma"
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 7-A Periyodik Kontrol ve Süreçleri YGU-1/YGU-2 için 20 saat; Modül 7-B YGU-K için 5 saattir. Kontrol süreci, formlar, teknik bulguların sunumu ve raporlama bu modüllerde açıklanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 8 Yangın Güvenliği Sorumluluğu YGU-1/YGU-2 için 4 saatlik tatbikat, eğitim ve ekip konularını; Modül 9 Yapı Ruhsatı ve Yapı Kullanma İzni Aşamalarındaki Kontroller YGU-2 için 4 saatlik uygunluk incelemesini kapsar."
+    },
+    {
+      "tip": "p",
+      "metin": "Modül 10 Uluslararası Doküman ve Standart Okuma, YGU-3 için 16 saattir. Buradaki amaç, ulusal mevzuatta hüküm bulunmayan durumlarda teknik kaynakların nasıl değerlendirileceğini anlamaktır. Bu modül ulusal mevzuatın yerine kendiliğinden yabancı standart uygulanabileceği şeklinde yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-ek-2-modul-ve-saat-tablosu",
+      "metin": "7. EK-2 modül ve saat tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "EK-2 modülü",
+        "Başlık",
+        "Saat",
+        "Seviye"
+      ],
+      "satirlar": [
+        [
+          "1-A",
+          "Yangın Bilimi",
+          "2",
+          "YGU-1, YGU-2, YGU-K"
+        ],
+        [
+          "1-B",
+          "Yasal Çerçeve",
+          "4",
+          "YGU-1, YGU-2, YGU-K"
+        ],
+        [
+          "1-C",
+          "Yangın Projeleri",
+          "3",
+          "YGU-1, YGU-2"
+        ],
+        [
+          "2-A / 2-B",
+          "Yapı ve Malzeme",
+          "4 / 6",
+          "YGU-1 / YGU-2"
+        ],
+        [
+          "3-A / 3-B",
+          "Kaçış Yolları / Tahliye",
+          "8 / 14",
+          "YGU-1 / YGU-2"
+        ],
+        [
+          "4-A / 4-B",
+          "Yangın Güvenliği Sistemleri-1",
+          "8 / 12",
+          "YGU-1 / YGU-2"
+        ],
+        [
+          "5-A / 5-B",
+          "Yangın Güvenliği Sistemleri-2",
+          "8 / 12",
+          "YGU-1 / YGU-2"
+        ],
+        [
+          "6-A / 6-B",
+          "Yüksek Tehlikeli Binalar ve Tehlikeli Maddeler",
+          "4 / 24",
+          "YGU-1 ve YGU-2 / YGU-3 ve YGU-K"
+        ],
+        [
+          "7-A / 7-B",
+          "Periyodik Kontrol ve Süreçleri",
+          "20 / 5",
+          "YGU-1 ve YGU-2 / YGU-K"
+        ],
+        [
+          "8",
+          "Yangın Güvenliği Sorumluluğu",
+          "4",
+          "YGU-1, YGU-2"
+        ],
+        [
+          "9",
+          "Yapı Ruhsatı ve Yapı Kullanma İzni Aşamalarındaki Kontroller",
+          "4",
+          "YGU-2"
+        ],
+        [
+          "10",
+          "Uluslararası Doküman ve Standart Okuma",
+          "16",
+          "YGU-3"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2 modüllerinin seviye bazında toplamı: YGU-1 = 65 saat, YGU-2 = 85 saat, YGU-3 = 40 saat ek eğitim, YGU-K = 35 saat. Modül 6-B'nin 24 saati, YGU-3 ve YGU-K hesaplarında ayrı ayrı yer alır; bir kez ortak modül gibi toplanıp ikiye bölünmez."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat sürümü örneği",
+      "metin": "YGU taslağı eğitim müfredatında atıf yapılan 'BYY' ibaresi, bugün yürürlükteki 2007 tarihli BYKHY ile aynı madde numaralarını kullandığı varsayılabilecek bir referans değildir. 2025 tarihli 99 sayfalık BYKHY taslağında tatbikat Madde 132'de yer alırken YGU taslağı Madde 6/1-ç'de BYY Madde 134/2'ye atıf yapılmıştır. Bu tür uyuşmazlıklar konu temelli açıklanmalı, numara eşitliği varsayılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "8-teorik-mufredat-ile-uygulama-egitimi-ayri-sureclerdir",
+      "metin": "8. Teorik müfredat ile uygulama eğitimi ayrı süreçlerdir"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9, teorik eğitimin Bakanlık veya Bakanlıkça yetkilendirilen eğitici kuruluşça, uygulamanın ise mahalli itfaiye teşkilatınca verilmesini öngörmektedir. Teorik eğitim yüz yüze veya uzaktan yapılabilir; katılım belgesi için en az %90 devam şartı önerilmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulamada farklı kullanım sınıfındaki iki yapıya ilişkin yangın güvenlik raporu düzenleme ve uygulama gözetimi bulunur. Bu uygulama, yukarıdaki teorik saat toplamlarıyla aynı kalem değildir. Eğitimin fiili süresi ve takvimi, resmî program düzenlenmeden varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "9-saha-ornegi-ek-2-kazanimlarinin-birlestirilmesi",
+      "metin": "9. Saha örneği: EK-2 kazanımlarının birleştirilmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir depoda tadilat sonrası yeni bir bölme oluşturulduğunda Yangın Güvenlik Uzmanı (YGU), önce yapının kullanım sınıfını ve geçerli proje sürümünü belirler. Ardından kaçış düzeninin değişip değişmediğini, yangın bölmesi sürekliliğini ve tesisat sistemleriyle ilişkisini inceler. Eğer depolanan maddelerin niteliği de değişmişse tehlikeli madde sınıflandırması ayrıca ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu tek örnekte mevzuat, proje okuma, yapı/malzeme, elektrik ve mekanik sistemler, tehlikeli maddeler ve raporlama modülleri birlikte kullanılır. Eğitim müfredatının amacı bu bağlantıyı kurmak olmalıdır; her branşın bütün özel hesaplarının aynı kişi tarafından yapılması değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-K eğitiminde 35 saat doğru mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen taslak EK-2'nin modül toplamıdır; yayımlanmış nihai eğitim süresi olarak açıklanmamalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-3'ün 40 saati temel eğitim yerine geçer mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta YGU-3, önceden YGU-2 yeterliliğine bağlı ek seviye olarak düzenlenir."
+    },
+    {
+      "tip": "h3",
+      "metin": "EK-2'de eğitici branşı yazması dış uzman onayı gerektiği anlamına mı gelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Eğitici branşı, dersin kim tarafından verilebileceğine ilişkin taslak yeterlilik alanıdır; hazırlanan her eğitim dokümanına bağımsız mühendis veya kimyager imzası aranması anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim müfredatı, seviyeye özel teknik kazanımların tutarlı biçimde bir araya getirilmesini sağlar. EK-2'nin saat toplamları ve modül grupları doğrulandı; yine de bunlar taslak hükümleridir. YGU eğitimi, proje–mevzuat–saha–rapor bağlantısını öğreterek gerçek görevleri karşılayacak biçimde değerlendirilmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU-K eğitiminde 35 saat doğru mu?",
+      "yanit": "İncelenen taslak EK-2'nin modül toplamıdır; yayımlanmış nihai eğitim süresi olarak açıklanmamalıdır."
+    },
+    {
+      "soru": "YGU-3'ün 40 saati temel eğitim yerine geçer mi?",
+      "yanit": "Taslakta YGU-3, önceden YGU-2 yeterliliğine bağlı ek seviye olarak düzenlenir."
+    },
+    {
+      "soru": "EK-2'de eğitici branşı yazması dış uzman onayı gerektiği anlamına mı gelir?",
+      "yanit": "Hayır. Eğitici branşı, dersin kim tarafından verilebileceğine ilişkin taslak yeterlilik alanıdır; hazırlanan her eğitim dokümanına bağımsız mühendis veya kimyager imzası aranması anlamına gelmez."
+    }
+  ]
+}

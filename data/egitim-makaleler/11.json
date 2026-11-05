@@ -1,0 +1,208 @@
+{
+  "no": "11",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Eğitim Başvurusu Nasıl Yapılır? Gerekli Belgeler ve Başvuru Şartları",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurusunun doğru yapılabilmesi için kişinin önce başvuracağı uzmanlık seviyesini ve o seviyeye ilişkin öğrenim koşullarını belirlemesi gerekir. Başvuru dosyasının hazırlanması, teorik eğitimin alınması, uygulama eğitimi, sınav ve yetki belgesinin düzenlenmesi birbirinden farklı işlemlerdir. Bu aşamalardan birinin tamamlanması, diğerlerinin kendiliğinden gerçekleştiği anlamına gelmez.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki başvuru usulleri, incelenen YGU yönetmelik taslağının 5, 9, 10, 11 ve 13. maddelerine dayanmaktadır. Kurum, takvim ve belge biçimleri bakımından kesin işlem bilgisi için yürürlüğe girmiş metin ve resmî ilan gereklidir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Adayın eğitim başvurusunda esas alınan YGU TASLAĞI Madde 10'dur; eksik belge süresi Madde 11/4'te düzenlenmiştir. YGU taslağı EK-5 yapı periyodik kontrol başvuru ve taahhütname örneklerini içerir; eğitim adayı evrak listesi değildir. 2025 BYKHY taslağındaki kontrol başvuruları da ayrı işlemlerdir."
+    },
+    {
+      "tip": "h2",
+      "id": "1-basvuruya-baslanmadan-once-uzmanlik-seviyesi-belirlenir",
+      "metin": "1. Başvuruya başlanmadan önce uzmanlık seviyesi belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 5, YGU-1 için belirtilen teknik ön lisans ve itfaiyecilik mezunlarını; YGU-2 için belirtilen mühendislik dalları ile mimarları; YGU-K için kimya mühendisleri ve kimya lisans mezunlarını saymaktadır. YGU-3 için ise YGU-2 yetkisi yanında belirli raporlama deneyimi öngörülmüştür. Bu nedenle “önce eğitim kurumuna kayıt olayım, sonra seviyeyi seçerim” yaklaşımı resmî kabul koşullarını gözden kaçırabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Adayın diplomasındaki alan, uzmanlık seviyesinin başlıca dayanağıdır. İş güvenliği uzmanlığı sınıfı veya işyerindeki görev unvanı bu diploma alanının yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-ygu-egitim-basvurusu-hangi-kurumdan-takip-edilir",
+      "metin": "2. YGU eğitim başvurusu hangi kurumdan takip edilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 10/1, teorik eğitim başvuru ilanının Bakanlığın veya Bakanlığın yetkilendirdiği kuruluşun resmî internet sayfasında yayımlanmasını öngörmektedir. Madde 15 ise üniversitelerin ve kamu kurumu niteliğindeki meslek kuruluşları ile bunların ticari iştiraklerinin belirli koşullarla eğitici kuruluş olarak yetkilendirilebileceğini düzenler."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle bir kursun reklamında “yangın sertifikası” yazması, resmî YGU eğitim başvurusu açıldığı anlamına gelmez. Eğitimin seviyesi, yetkilendirme kapsamı, başvuru adresi ve kesin takvim aynı resmî duyuruda doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "3-ygu-egitim-basvurusunda-istenen-belgeler",
+      "metin": "3. YGU eğitim başvurusunda istenen belgeler"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 10/2 aşağıdaki belgeleri öngörmektedir:"
+    },
+    {
+      "tip": "liste",
+      "numarali": true,
+      "maddeler": [
+        "Türkiye Cumhuriyeti vatandaşları için T.C. kimlik numarası; yabancılar için pasaport veya yabancı kimlik numarası ile çalışma iznini gösterir belge.",
+        "Bir adet vesikalık fotoğraf.",
+        "Başvuru tarihinden önceki son üç ay içerisinde alınmış adli sicil belgesi.",
+        "Diploma, mezuniyet, geçici mezuniyet veya diploma denklik belgesi.",
+        "Mesleğini icra etmek için meslek kuruluşu üyeliği aranan kişilerde son altı ay içinde alınmış oda faaliyet veya oda kayıt belgesi.",
+        "YGU-3 başvurularında mesleki tecrübeyi tevsik eden belge.",
+        "KEP adresini gösterir belge.",
+        "Taslakta tarif edilen kişisel bilgilerin Bakanlık internet sayfasında yayımlanmasına izin verildiğini gösterir belge."
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Belgelerin güncellik sınırları bütün kalemlerde aynı değildir: örneğin taslakta adli sicil belgesi üç ay, ilgili oda belgeleri altı ay olarak belirtilmiştir. Kesin başvuru sistemi açıldığında elektronik doğrulama yöntemi ve belge biçimi ayrıca kontrol edilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-ek-5-neden-egitim-basvurusu-eki-degildir",
+      "metin": "4. EK-5 neden eğitim başvurusu eki değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın EK-5'i, yapıların periyodik kontrol başvuru ve taahhütname formlarını içerir. Bu ek, YGU adayının teorik eğitime başvururken sunacağı belgelerin doğrudan listesi değildir. YGU adayının belge listesi için Madde 10, yapı sahibinin periyodik kontrol başvurusu için EK-5 okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ayrımı yapmamak, yanlış formun eğitim başvurusunda aranmasına veya yapı kontrol sürecinin aday eğitim süreciyle karıştırılmasına yol açabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-teorik-ve-uygulama-egitimi-nasil-ayrilir",
+      "metin": "5. Teorik ve uygulama eğitimi nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9 teorik eğitimin Bakanlık veya yetkili eğitici kuruluşça, uygulama eğitiminin ise mahalli itfaiye teşkilatınca verilmesini öngörür. Teorik eğitim yüz yüze veya uzaktan yapılabilir. Katılım belgesi için teorik derslerin en az %90'ına devam şartı taslakta yer alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulama eğitimi, farklı kullanım sınıfındaki iki yapı için yangın güvenlik raporu düzenleme ve uygulama gözetimi faaliyetlerini içerir. Bu nedenle uygulama süreci, yalnızca teorik derslerin bitişinden ibaret değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "6-eksik-belgeye-iliskin-15-gunluk-sure-hangi-asamada-duzenleniyor",
+      "metin": "6. Eksik belgeye ilişkin 15 günlük süre hangi aşamada düzenleniyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 11/4 belirleyici hükümdür: Madde 10'da sayılan belgelerin Komisyon tarafından inceleneceği, başvuru dilekçesine eklenmesi zorunlu belgenin eksik olması halinde 15 gün süre verileceği, eksiklik giderilmezse belgelerin Bakanlıkça iade edilerek kişinin sınava alınmayacağı yazılıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Metin, eğitim başvurusu belgelerine gönderme yapmakla birlikte eksikliğin sonucunu sınava katılamama üzerinden kurmaktadır. Bu nedenle 15 günün her kayıt işleminde otomatik uygulanan bir “eğitime kabul süresi” olduğu kesin biçimde söylenmemelidir. Başvuru ilanındaki işlem adımı, komisyon incelemesi ve sınav kabulü birlikte okunmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-egitim-basvurusu-sinav-ve-yetki-belgesi-arasindaki-sira",
+      "metin": "7. Eğitim başvurusu, sınav ve yetki belgesi arasındaki sıra"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak sistemde adayın uygun mesleki öğrenim koşulunu sağlaması, resmî teorik ve uygulama eğitimini tamamlaması, sınava kabul edilmesi ve başarı sağlaması sonrasında resmî yetkilendirmesi öngörülmektedir. Madde 13, yetki belgesinin Bakanlıkça elektronik ortamda doğrulanabilir biçimde düzenlenmesini tarif eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Dolayısıyla üniversiteden alınan eğitim katılım belgesi, tek başına Yangın Güvenlik Uzmanı (YGU) yetki belgesi değildir. Eğitim tamamlandığında sınava veya yetkilendirmeye ilişkin duyurunun ayrıca izlenmesi gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "8-saha-ornegi-dogru-belgeyi-dogru-islemde-kullanmak",
+      "metin": "8. Saha örneği: Doğru belgeyi doğru işlemde kullanmak"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir Yangın Güvenlik Uzmanı (YGU) adayı, kimya mühendisliği diplomasıyla YGU-K başvurusu yapmak istiyor olsun. Bu aşamada temel öğrenimini, adaylığa ilişkin belgelerini ve resmî eğitim duyurusunu doğrulaması gerekir. Henüz sahada bir deponun periyodik kontrolüne ilişkin EK-5/A başvuru formu doldurması beklenmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı kişi ileride yetki sahibi olduğunda yüksek tehlikeli tesiste görev alırsa, hangi belgelerin yapı sahibine, hangilerinin itfaiye teşkilatına veya yetkili uzmana ait olduğunu ayrıca bilmelidir. Böylece başvuru dosyasıyla teknik kontrol dosyası karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitim başvurusu için yalnızca diploma yeterli midir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 10'da diploma dışında kimlik, fotoğraf, adli sicil, KEP ve duruma göre diğer belgeler de sayılmıştır."
+    },
+    {
+      "tip": "h3",
+      "metin": "KEP belgesi taslakta geçiyor mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "Evet, Madde 10/2-f'de yer alır. Nihai şartlar resmî ilanla doğrulanmalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eksik belge 15 gün içinde tamamlanmazsa ne olur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 11/4, Komisyon incelemesi kapsamında belgelerin iadesini ve sınava katılamamayı öngörür."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitim ücreti yatırmak yetki kazandırır mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Ücret, eğitim, sınav başarısı ve yetkilendirme ayrı aşamalardır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurusunun güvenilir yolu, önce meslek ve seviye koşullarını doğrulamak, sonra resmî yetkili kurum ilanından belge listesini takip etmektir. Madde 10'daki aday belgeleriyle EK-5'teki yapı kontrol formları kesinlikle birbirine karıştırılmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitim başvurusu için yalnızca diploma yeterli midir?",
+      "yanit": "Taslak Madde 10'da diploma dışında kimlik, fotoğraf, adli sicil, KEP ve duruma göre diğer belgeler de sayılmıştır."
+    },
+    {
+      "soru": "KEP belgesi taslakta geçiyor mu?",
+      "yanit": "Evet, Madde 10/2-f'de yer alır. Nihai şartlar resmî ilanla doğrulanmalıdır."
+    },
+    {
+      "soru": "Eksik belge 15 gün içinde tamamlanmazsa ne olur?",
+      "yanit": "Taslak Madde 11/4, Komisyon incelemesi kapsamında belgelerin iadesini ve sınava katılamamayı öngörür."
+    },
+    {
+      "soru": "YGU eğitim ücreti yatırmak yetki kazandırır mı?",
+      "yanit": "Hayır. Ücret, eğitim, sınav başarısı ve yetkilendirme ayrı aşamalardır."
+    }
+  ]
+}

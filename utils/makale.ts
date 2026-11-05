@@ -8,6 +8,7 @@ export function makaleOkumaSuresi(m: Okunur) {
   for (const b of [...m.bloklar, ...(m.sonNotlar ?? [])]) {
     if ('metin' in b) parcalar.push(b.metin)
     if (b.tip === 'tablo') parcalar.push(...b.basliklar, ...b.satirlar.flat())
+    if (b.tip === 'liste') parcalar.push(...b.maddeler)
     if (b.tip === 'altlar' || b.tip === 'adimlar') parcalar.push(...b.liste.flatMap((x) => [x.baslik, x.metin]))
   }
   parcalar.push(...(m.kaynaklar ?? []).map((k) => k.metin))

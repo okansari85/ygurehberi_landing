@@ -1,0 +1,180 @@
+{
+  "no": "17",
+  "baslik": "Yangın Güvenlik Uzmanı (YGU) Ne İş Yapar? Yangın Güvenlik Uzmanlığı (YGU) Görevleri ve Sorumlulukları",
+  "ozet": "Yangın Güvenlik Uzmanı (YGU) ne iş yapar sorusu, yangın güvenliğine ilişkin bütün projeleri, denetimleri ve bakımları tek kişinin yürüttüğü düşüncesiyle cevaplanmamalıdır. Yangın Güvenlik Uzmanlığı (YGU), kanuni çerçeve ve ilgili uygulama düzenlemesinde tanımlanan işlerde görev yapmayı ifade eder. Yapıların onaylı projeleri, gerçek saha koşulları ve yangından korunma sistemlerine ilişkin teknik kayıtların karşılaştırılması bu uzmanlığın önemli çalışma alanlarıdır.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU",
+      "metin": "7579 sayılı Kanun'la getirilen yangın güvenliği periyodik kontrol çerçevesi yürürlüktedir. Aşağıdaki dört görev türü ve uzmanlık seviyesi dağılımı, YGU yönetmelik TASLAĞI Madde 6 hükümlerine dayanmaktadır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "KAYNAK SÜRÜMÜ UYUŞMAZLIĞI: YGU TASLAĞI Madde 6/1-ç, tatbikat için 'BYY Madde 134/2'ye gönderme yapıyor; karşılaştırılan 2025 tarihli 99 sayfalık BYKHY TASLAĞINDA ilgili tatbikat hükmü Madde 132/2'de. Aynı 2025 taslağında Madde 134/2 tatbikat değil, ödenek konusudur. Bu nedenle numaralar kesinleşmiş ortak madde atfı olarak gösterilmez; nihai metinle uyumlandırılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "1-proje-uygunluguna-esas-rapor-hazirlama",
+      "metin": "1. Proje uygunluğuna esas rapor hazırlama"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 6/1-a, yangın algılama, söndürme ve tahliye projeleri ile yangın tedbirlerinin gösterildiği diğer projelerin ilgili yangın mevzuatına uygunluğuna ilişkin, uygunluk görüşüne esas rapor düzenlenmesini öngörür. Burada YGU'nun işi, proje müellifliği ve bütün teknik onay yetkilerini üstlenmek olarak tanımlanmamıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Proje incelemesinde hangi düzenlemenin hangi yapı kullanım koşuluna karşılık geldiği belirlenmelidir. Örneğin bir çıkış kapısının planda bulunması, bütün kaçış düzeninin uygun olduğu sonucunu tek başına doğurmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yapi-kullanma-izni-asamasinda-uygunluga-esas-rapor",
+      "metin": "2. Yapı kullanma izni aşamasında uygunluğa esas rapor"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 6/1-b, yapı kullanma izin belgesi verilmesi aşamasında projenin sahada nasıl uygulandığının ve sistemlerin test edilip devreye alındığını gösteren belgelerin bulunup bulunmadığının değerlendirilmesini öngörür."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), proje ile as-built/uygulama kayıtları ve gerçek saha arasındaki farkları tespit edebilir. Bir test raporunu incelemek ile testi bizzat yapmak farklı işlemlerdir. Testin yapıldığı veya geçerli olduğu doğrulanmadıysa rapora “test edildi” sonucu yazılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "3-yangin-guvenligi-periyodik-kontrolu",
+      "metin": "3. Yangın güvenliği periyodik kontrolü"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 6/1-c, 3194 sayılı İmar Kanunu kapsamında kullanıma ilişkin belgeye sahip olup EK-1'de sayılan yapıların periyodik kontrolünü ele alır. Bu kontroller, taslakta ilgili kullanım sınıfına, bina sınırlarına ve YGU seviyesine göre ayrılmıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrolün başlaması, yapının onaylı projeleri, kullanım izni, varsa tadilat belgeleri, bakım ve test kayıtları gibi kaynakların belirlenmesini gerektirir. Taslak Madde 24 hazırlık, yerinde kontrol ve raporlama aşamalarını düzenlemektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-belirli-yangin-tatbikatlarini-birlikte-planlama",
+      "metin": "4. Belirli yangın tatbikatlarını birlikte planlama"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 6/1-ç, ilgili Bina Yangın Yönetmeliği hükmünde belirtilen yapıların tatbikatının yapı sahibi, yöneticisi veya görevlendirilen birim amirinin sorumluluğunda birlikte planlanmasını öngörür. Bu, YGU'nun bütün işyerlerinin acil durum yönetiminden tek başına sorumlu olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Tatbikat planlamasının yeri, amacı ve ilgili görev dağılımı ayrı belirlenmelidir. İşyerinin iş sağlığı ve güvenliği kapsamındaki acil durum yükümlülükleri bu nedenle kendiliğinden ortadan kalkmaz."
+    },
+    {
+      "tip": "not",
+      "etiket": "Tatbikat hükmüne ilişkin özgün kaynak farkı",
+      "metin": "İncelenen YGU taslağı Madde 6/1-ç, BYY Madde 134/2'ye atıf yapmaktadır. Buna karşılık 2025 tarihli 99 sayfalık BYKHY taslağında yangın tatbikatı Madde 132/2'de düzenlenmiş, Madde 134 ödeneğe ayrılmıştır. Atıf güncel BYKHY maddesi olarak gösterilmemeli; taslaklar arasındaki uyumsuzluk nihai düzenlemede giderilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-hangi-seviyeler-hangi-gorevleri-yurutur",
+      "metin": "5. Hangi seviyeler hangi görevleri yürütür?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 6/2-a, proje uygunluğuna esas rapor, yapı kullanma izni aşamasındaki rapor ve belirli tatbikat planlaması görevlerini YGU-2 veya YGU-3 seviyelerine ayırmaktadır. Madde 6/2-b ise EK-1 sınırları dahilindeki periyodik kontrolleri YGU-1, YGU-2 veya YGU-3 seviyeleriyle ilişkilendirir. YGU-K'nin yüksek tehlikeli yapılarda tehlikeli maddelerin tespiti ve sınıflandırılması bakımından özel görevi vardır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yalnızca bir yetki belgesine sahip olmak, mahalli itfaiye teşkilatının kanuni rolü ve görevlendirme koşulları olmadan sınırsız resmî kontrol yetkisi vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-ygu-nun-bagimsizligi-ve-kayit-sorumlulugu",
+      "metin": "6. YGU'nun bağımsızlığı ve kayıt sorumluluğu"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 8, tarafsızlık, bağımsızlık, çıkar çatışmasından kaçınma, bilgilerin gizliliği ve görevi bizzat yürütme konusunda ayrıntılı hükümler içerir. Bu hükümler nihai metinle doğrulanmadan yürürlükteymiş gibi sunulmamalıdır; ancak objektif teknik raporlama açısından önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemediği belgeyi incelemiş, yapılmayan testi yapılmış veya sahada görülmeyen bir uygulamayı doğrulanmış gibi gösteremez. Bulgunun dayanağı, belirsizliği ve gerekiyorsa ek inceleme ihtiyacı açıkça belirtilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "7-saha-ornegi-projeden-gercege-kontrol-zinciri",
+      "metin": "7. Saha örneği: projeden gerçeğe kontrol zinciri"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir hastane binasının onaylı projesinde yangın bölmesi olarak ayrılmış alanda sonradan tesisat geçişi açılmış olsun. Yangın Güvenlik Uzmanı (YGU), önce geçerli projenin hangisi olduğunu, değişikliğin onaylanıp onaylanmadığını ve sahadaki gerçek durumu belirler. Geçişin yangın bölmesinin sürekliliği bakımından anlamı, uygulanabilir mevzuat ve teknik belgeler üzerinden değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygunsuzluk tespit edilirse mahal, belge ve mevzuat ilişkisiyle gerekçelendirilir. Ancak YGU'nun bu görevi, eksik tasarımın yeniden çizilmesi, test raporunun üretilmesi veya başka mesleklerin özel hesaplarının otomatik olarak yapılması anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU her binada kontrol yapabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; görevlendirme, yapı sınıfı ve uzmanlık seviyesi dikkate alınmalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU bütün yangın projelerini onaylar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak, uygunluk görüşüne esas raporlamayı düzenler; bütün proje müellifliği veya onay yetkisi değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU bakım yapar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Resmî yangın güvenliği kontrolü ile sistemlerin periyodik bakım/test yükümlülükleri aynı işlem değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) görevleri, taslakta dört ayrı iş türü altında düzenlenmiştir. Her görevde proje, saha, teknik kanıt ve mevzuat arasındaki ilişki kurulmalı; uzmanlık seviyesi ile yetki sınırları açık tutulmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU her binada kontrol yapabilir mi?",
+      "yanit": "Hayır; görevlendirme, yapı sınıfı ve uzmanlık seviyesi dikkate alınmalıdır."
+    },
+    {
+      "soru": "YGU bütün yangın projelerini onaylar mı?",
+      "yanit": "Taslak, uygunluk görüşüne esas raporlamayı düzenler; bütün proje müellifliği veya onay yetkisi değildir."
+    },
+    {
+      "soru": "YGU bakım yapar mı?",
+      "yanit": "Resmî yangın güvenliği kontrolü ile sistemlerin periyodik bakım/test yükümlülükleri aynı işlem değildir."
+    }
+  ]
+}

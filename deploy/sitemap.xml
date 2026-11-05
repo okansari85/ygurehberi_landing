@@ -2,8 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ygurehberi.com/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <image:image><image:loc>https://ygurehberi.com/img/hero-ygu.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/ana-egitim-merkezi.webp</image:loc></image:image>
     <image:image><image:loc>https://ygurehberi.com/img/anasayfa-surec-proje.webp</image:loc></image:image>
     <image:image><image:loc>https://ygurehberi.com/img/anasayfa-surec-uygulama.webp</image:loc></image:image>
     <image:image><image:loc>https://ygurehberi.com/img/anasayfa-surec-dogrulama.webp</image:loc></image:image>
@@ -105,6 +106,121 @@
     <image:image><image:loc>https://ygurehberi.com/img/serbest-sayfa-sirket.webp</image:loc></image:image>
     <image:image><image:loc>https://ygurehberi.com/img/serbest-sayfa-bedel.webp</image:loc></image:image>
     <image:image><image:loc>https://ygurehberi.com/img/serbest-sayfa-bagimsizlik.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-rehberi-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-4.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-5.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-6.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-7.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-8.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-bilgi-9.webp</image:loc></image:image>
+    <image:image><image:loc>https://ygurehberi.com/img/egitim-kaydol.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitimi-nasil-olacak</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/muhendis-ve-mimarlar-icin-ygu</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-ile-kariyer-firsatlari</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitimine-nasil-hazirlanilir</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/yangin-guvenlik-uzmani-nasil-olunur</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-basvuru-sartlari</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/isg-uzmanlari-ygu-olabilir-mi</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-seviyeleri-ve-yetkileri</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitimi-veren-universiteler</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitim-kurumlari</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitim-basvurusu-ve-belgeler</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitim-ucretleri-ve-tarihleri</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-sinav-rehberi</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-yetki-belgesi-nasil-alinir</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-teorik-ve-uygulamali-egitim</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-egitim-mufredati</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-gorev-ve-sorumluluklari</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-ile-isg-uzmanligi-farklari</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-hangi-binalarda-gorev-alabilir</loc>
+    <lastmod>2026-11-06</lastmod>
+
+  </url>
+  <url>
+    <loc>https://ygurehberi.com/ygu-egitimi/ygu-mesleginin-gelecegi</loc>
+    <lastmod>2026-11-06</lastmod>
+
   </url>
   <url>
     <loc>https://ygurehberi.com/kvkk-aydinlatma-metni</loc>

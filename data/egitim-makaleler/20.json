@@ -1,0 +1,202 @@
+{
+  "no": "20",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Mesleğinin Geleceği: Eğitim, İş İmkanları ve Çalışma Alanları",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) mesleğinin geleceği, yalnızca kaç kişinin yeni bir yetki belgesi alacağıyla açıklanamaz. Yapıların yangın güvenliğine ilişkin periyodik kontrol ihtiyacının nasıl uygulanacağı, mahalli itfaiye teşkilatlarının rolü, eğitim ve sınav sisteminin ne zaman işler hale geleceği ve yapı sahiplerinin teknik belge düzeni, bu alanın gelişimini etkileyecektir.",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Bu nedenle yangın güvenlik uzmanı olmak isteyen kişilere iş garantisi, sabit kazanç veya bütün işletmelerde zorunlu kadro gibi doğrulanmamış vaatlerde bulunmak yerine, kanuni çerçeve, taslak uygulama modeli ve olası mesleki gelişme alanları ayrı değerlendirilmelidir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Kanuni periyodik kontrol çerçevesi ile YGU yönetmelik TASLAĞININ gelecekteki eğitim ve görev koşulları birbirinden ayrılmalıdır. 2025 tarihli BYKHY yeniden düzenleme taslağının kontrol yaklaşımı mesleki gelişim senaryolarına katkı sağlayabilir, ancak yürürlükteki otomatik istihdam yükümlülüğü veya pazar büyüklüğü kanıtı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-mesleginin-kanuni-zemini-ne-durumda",
+      "metin": "1. YGU mesleğinin kanuni zemini ne durumda?"
+    },
+    {
+      "tip": "p",
+      "metin": "22 Mayıs 2026 tarihinde yayımlanan 7579 sayılı Kanun, 3194 sayılı İmar Kanunu'na kullanıma yönelik belgeye sahip yapılarda yangın güvenliği periyodik kontrolü ve yangın güvenlik raporuna ilişkin hükümler getirmiştir. Kanuni sistemde mahalli itfaiye teşkilatının kontrol görevi ve gerekli gördüğü durumlarda eğitim/sınavla yetkilendirilmiş Yangın Güvenlik Uzmanlarının (YGU) görev alabilmesi düzenlenmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrole tabi yapılar, periyotlar ve uzmanların nitelikleri gibi ayrıntılar ikincil düzenlemeye bırakılmıştır. Temmuz 2026'da görüşe açılan YGU yönetmelik taslağının varlığı, bütün bu ayrıntıların yürürlükteki kesin kurallar haline geldiği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yangin-guvenlik-uzmanligi-ygu-icin-talep-hangi-kosullarda-olusabilir",
+      "metin": "2. Yangın Güvenlik Uzmanlığı (YGU) için talep hangi koşullarda oluşabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapılar kullanım ömürleri boyunca değişir. Bir fabrika üretim hattını yenileyebilir, bir depo yeni tür maddeler depolayabilir, bir otel tadilat yapabilir veya büro alanları farklı kullanım amaçlarına dönüştürülebilir. Yangın güvenliğinin yalnız inşa aşamasında değil, kullanım süresince de değerlendirilmesi teknik açıdan önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ancak bir bölgede çok sayıda tesis bulunması, o bölgedeki bütün işletmelerin sürekli YGU çalıştıracağı anlamına gelmez. Fiili hizmet talebi, yönetmeliğin son hali, görevlendirme modeli, itfaiye kapasitesi, ilk kontrol dönemleri ve gerçek başvurulara göre oluşacaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "3-ygu-1-ygu-2-ygu-3-ve-ygu-k-is-alanlarini-nasil-farklilastirabilir",
+      "metin": "3. YGU-1, YGU-2, YGU-3 ve YGU-K iş alanlarını nasıl farklılaştırabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 5, belirli mesleki öğrenim gruplarına bağlı dört uzmanlık seviyesi öngörür. Madde 6, uygunluk görüşüne esas raporlar, yapı kullanma izni aşaması, periyodik kontrol ve belirli tatbikatların birlikte planlanması gibi görevleri ayırır. EK-1, yapı kullanım sınıfı/sınırına göre farklı yetki seviyeleri gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-K'nin yüksek tehlikeli yapılarda tehlikeli maddelerin tespiti ve sınıflandırılmasındaki özel rolü, genel bina kontrol görevleriyle karıştırılmamalıdır. Bu ayrım, ileride farklı teknik bilgi birikimlerine dayalı iş bölümü oluşabileceğini düşündürür; ancak kesin istihdam büyüklüğünü göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "4-egitim-sistemi-mesleki-kaliteyi-nasil-etkileyebilir",
+      "metin": "4. Eğitim sistemi mesleki kaliteyi nasıl etkileyebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 9, teorik ve uygulama eğitimini ayrı düzenlemektedir. Teorik eğitim Bakanlık veya yetkilendirilmiş eğitici kuruluş, uygulama eğitimi ise mahalli itfaiye teşkilatı tarafından verilebilecektir. Taslak EK-2, seviyelere göre 65, 85, 40 ek ve 35 saatlik teorik eğitim toplamları öngörür."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU eğitiminde gerçek kazanım, projenin ne gösterdiğini, sahada ne bulunduğunu, hangi belgeye güvenilebileceğini ve hangi mevzuat hükmünün uygulanacağını birlikte değerlendirebilmektir. Yalnızca sertifika sayısının artması, bu becerilerin yeterince geliştiğini tek başına kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "5-dijitallesme-ygu-calismalarini-nasil-degistirebilir",
+      "metin": "5. Dijitalleşme YGU çalışmalarını nasıl değiştirebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenliği kontrollerinde onaylı projeler, kullanım ve tadilat izinleri, test ve bakım kayıtları, önceki raporlar, fotoğraflar ve sahadaki değişiklikler arasında veri ilişkisi kurmak gerekir. Dijital doküman yönetimi, yapı modellemesi ve kontrol kayıtlarının izlenebilirliği bu süreçleri kolaylaştırabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin önceki kontrolde belirlenen bir yangın bölmesi açıklığının kapatılıp kapatılmadığı, eski ve yeni kanıtların ilişkilendirilmesiyle daha güvenilir takip edilebilir. Ancak yazılımın bir kural hakkında öneri üretmesi, Yangın Güvenlik Uzmanının (YGU) resmî karar sorumluluğunun otomatik olarak yazılıma geçtiği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-genel-yangin-danismanligi-ile-resmi-ygu-kontrolu-ayni-pazar-mi",
+      "metin": "6. Genel yangın danışmanlığı ile resmî YGU kontrolü aynı pazar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletmeler mevzuat danışmanlığı, proje inceleme, yangından korunma sistemlerinin teknik değerlendirmesi ve bakım/test organizasyonu gibi farklı hizmetlere ihtiyaç duyabilir. Bununla birlikte genel danışmanlık hizmeti, YGU yetki belgesi ve itfaiye görevlendirmesi gerektiren resmî kontrollerle aynı işlem olarak pazarlanmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Tasarım, montaj, malzeme tedariki, bakım ve kontrol faaliyetlerinde görev ayrımı önemlidir. TASLAK Madde 8, aynı projede belirli ticari faaliyetleri yürüten kişilerin resmî YGU görevinde bulunmasına ilişkin çıkar çatışması sınırlamaları öngörmektedir. Bu durum mesleğin geleceğinde güvenilirlik ve bağımsızlık tartışmalarının önemli olabileceğini göstermektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "7-saha-ornegi-degisen-bir-endustriyel-tesis",
+      "metin": "7. Saha örneği: değişen bir endüstriyel tesis"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir organize sanayi bölgesindeki tesiste üretim ve depolama düzeni yıllar içinde değişmiş olsun. Yangın Güvenlik Uzmanı (YGU), yetki ve görevlendirme koşulları dahilinde geçerli onaylı projeleri, izin geçmişini ve gerçek kullanım düzenini karşılaştırır. Depolanan maddeler değişmişse tehlike sınıflandırması, sistemlerin koruma alanları ve kaçış koşulları ayrıca değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir değişikliğin görülmesi, sistemlerin otomatik olarak yetersiz olduğu anlamına gelmez. Teknik karar, belgelendirilmiş gözlem ve uygulanabilir mevzuatla gerekçelendirilir. Gerekli özel mühendislik hesapları, tasarım veya testler kendi yetki sınırları içinde yürütülür."
+    },
+    {
+      "tip": "h2",
+      "id": "8-ygu-meslegi-hakkinda-hangi-beklentilerden-kacinilmali",
+      "metin": "8. YGU mesleği hakkında hangi beklentilerden kaçınılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bütün tesislerde tam zamanlı YGU istihdamı zorunlu olacağı, her uzman için sabit bir yıllık kontrol sayısı oluşacağı veya eğitim belgesi alan herkesin doğrudan iş bulacağı yönündeki iddialar kanuni metinden çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı şekilde “periyodik kontrolün başlayacağı tarih” konusunda taslağın 1 Ocak 2028 hükmü, nihai yönetmelik yayımlanmadan kesin uygulama takvimi şeklinde sunulmamalıdır. İş ve gelir projeksiyonları, uygulama başladıktan sonra somut verilerle değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimi iş garantisi sağlar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Eğitim ve yetkilendirme, tek başına istihdam veya gelir garantisi değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU dijital yazılımlarla çalışabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yazılımlar belge, proje ve saha verilerini destekleyebilir; resmî uzmanlık yetkisini kendiliğinden devralmaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Bütün işyerleri YGU kadrosu açmak zorunda mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Böyle genel bir zorunluluk kanuni çerçeveden çıkarılamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-K daha yüksek maaş garantisi verir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Uzmanlık seviyesinden kesin gelir sonucu üretilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) mesleğinin geleceği; mevzuatın uygulanması, nitelikli eğitim, resmî kontrol süreçleri, yapıların gerçek teknik ihtiyaçları ve kayıtların güvenilirliğiyle şekillenecektir. Geleceğe yönelik değerlendirmelerin sağlam olması için kanuni hükümler, taslak önerileri ve ekonomik beklentiler açıkça ayrılmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 Sayılı Tapu Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitimi iş garantisi sağlar mı?",
+      "yanit": "Hayır. Eğitim ve yetkilendirme, tek başına istihdam veya gelir garantisi değildir."
+    },
+    {
+      "soru": "YGU dijital yazılımlarla çalışabilir mi?",
+      "yanit": "Yazılımlar belge, proje ve saha verilerini destekleyebilir; resmî uzmanlık yetkisini kendiliğinden devralmaz."
+    },
+    {
+      "soru": "Bütün işyerleri YGU kadrosu açmak zorunda mı?",
+      "yanit": "Böyle genel bir zorunluluk kanuni çerçeveden çıkarılamaz."
+    },
+    {
+      "soru": "YGU-K daha yüksek maaş garantisi verir mi?",
+      "yanit": "Uzmanlık seviyesinden kesin gelir sonucu üretilemez."
+    }
+  ]
+}

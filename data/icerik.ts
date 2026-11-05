@@ -39,6 +39,8 @@ export const MENU: MenuOge[] = [
       { ad: 'Çalışma Alanları', to: '/calisma-alanlari' }
     ]
   },
+  // 5 Kasım 2026 (kullanıcı): YGU eğitim rehberi, design/egitim-sayfa.jpeg
+  { ad: 'Eğitim Süreci', to: '/ygu-egitimi' },
   { ad: 'Vakalarla Öğren', to: '/vakalarla-ogren' },
   {
     ad: 'Kaynaklar',

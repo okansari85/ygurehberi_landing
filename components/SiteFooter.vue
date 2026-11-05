@@ -12,7 +12,7 @@ const SITE_LINKLER = MENU.filter((m) => m.to !== '/ygu-hakkinda').flatMap((m) =>
 
 <template>
   <footer class="ftr">
-    <section v-if="route.path !== ON_KAYIT.to" id="on-kayit" class="ftr-kayit" aria-labelledby="on-kayit-baslik">
+    <section v-if="route.path !== ON_KAYIT.to && route.path !== '/ygu-egitimi'" id="on-kayit" class="ftr-kayit" aria-labelledby="on-kayit-baslik">
       <div class="wrap ftr-kayit-ic">
         <div class="ftr-kayit-metin">
           <span class="ftr-alev"><Ikon ad="alev" /></span>

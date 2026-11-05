@@ -1,0 +1,251 @@
+{
+  "no": "08",
+  "baslik": "YGU-1, YGU-2, YGU-3 ve YGU-K: Yangın Güvenlik Uzmanlığı (YGU) Eğitim Seviyeleri ve Aralarındaki Farklar",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitim seviyeleri, yalnızca ders saatlerini değil; mesleki kabul koşullarını, uzmanlık derinliğini ve görevlendirme alanını birbirinden ayırır. Yangın Güvenlik Uzmanı (YGU) olmayı planlayan kişinin kendi seviyesini belirlemesi için üç farklı kaynağı birlikte okuması gerekir: Taslak Madde 5 meslek ve geçiş şartlarını, Madde 6 görev türlerini, EK-1 yapı ve kontrol kapsamını, EK-2 ise eğitim modüllerini gösterir.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Aşağıdaki bütün seviye, saat, yapı sınırı ve periyot bilgileri yönetmelik taslağındaki düzenlemelerdir. Bunlar yürürlüğe girmiş kesin yetki olarak kullanılmamalıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Buradaki YGU-1/2/3/K görev sınırları ve 3–5 yıllık kontrol periyotları YGU yönetmelik TASLAĞININ EK-1'indendir. 2025 tarihli BYKHY taslağındaki periyodik kontrol maddesi 131, kontrol periyotlarına ilişkin eki ise Ek-16 olarak düzenlenmiştir. Farklı taslaklara ait EK-1 ve Ek-16 aynı tablo sayılmamalı; YGU taslağının EK-1'indeki 'YGU-4' ifadesi de kesin seviye olarak benimsenmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-1-hangi-ogrenim-grubu-icin-ongoruluyor",
+      "metin": "1. YGU-1 hangi öğrenim grubu için öngörülüyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-1, taslak Madde 5'te sayılan makine, inşaat, elektrik ve elektrik-elektronik teknikerleri ile itfaiyecilik alanındaki iki yıllık ön lisans mezunları için öngörülmektedir. Taslak Madde 6/2-b, uygun kullanım sınıfı ve sınırlar dahilinde YGU-1'in periyodik kontrol görevlerinde yer alabileceğini belirtir; proje uygunluğu, yapı kullanma izni ve belirli tatbikat planlama görevleri ise YGU-2 veya YGU-3'e ayrılmıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin küçük bir büro yapısının EK-1'de YGU-1'e açık olması, her büro binasının veya bütün yapıların YGU-1 tarafından kontrol edilebileceği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-ygu-2-neyi-farkli-yapar",
+      "metin": "2. YGU-2 neyi farklı yapar?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-2 başlangıç grubu, taslakta sayılan mimarlar ile inşaat, makine, elektrik, elektronik ve elektrik-elektronik mühendislerinden oluşur. Bu seviyede daha geniş kullanım sınıfı/sınır kombinasyonları öngörülür. Ayrıca Madde 6'da proje uygunluğu görüşüne esas raporlama, yapı kullanma izni aşamasındaki inceleme ve belirli tatbikatların birlikte planlanması YGU-2/YGU-3 görevleri arasında belirtilmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki “uygunluk görüşüne esas rapor” ifadesi önemlidir: YGU-2 belgesi, bütün projelerin müellifliği veya bütün teknik projelerin resmî onayı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "3-ygu-3-icin-neden-onceki-uygulama-deneyimi-isteniyor",
+      "metin": "3. YGU-3 için neden önceki uygulama deneyimi isteniyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-3, taslakta doğrudan genel başlangıç seviyesi değildir. Madde 5/2-c uyarınca önce YGU-2 yetki belgesine sahip olunması; son bir yıl içinde en az iki farklı kullanım sınıfından dört yapı için yangın güvenlik raporu düzenlenmesi öngörülmüştür. Bazı Bakanlık personeline ilişkin özel muafiyet Madde 14'te ayrıca ele alınmıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "EK-1 yüksek tehlikeli endüstriyel ve bazı depolama yapılarında YGU-3'ü öne çıkarmaktadır. YGU-3'ün teknik kapsama ilişkin eğitim içeriği ise EK-2'de yüksek tehlikeli yapılar ve uluslararası doküman/standart okuma modüllerinde yoğunlaşır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-ygu-k-diger-seviyelerin-ustu-mudur",
+      "metin": "4. YGU-K diğer seviyelerin üstü müdür?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. YGU-K, kimya mühendisleri ve kimya lisans mezunlarına ilişkin özel gruptur. Taslak Madde 6/2-b, yüksek tehlikeli yapıların periyodik kontrolünde tehlikeli maddelerin tespiti ve sınıflandırılmasındaki görevini tanımlar. YGU-K'yi “bütün kontrollerde YGU-3'ten üstün” bir unvan veya tasarım onay yetkisi olarak tanımlamak doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-ek-2-de-tasarlanan-teorik-egitim-sureleri",
+      "metin": "5. EK-2'de tasarlanan teorik eğitim süreleri"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Seviye",
+        "Taslak teorik eğitim toplamı",
+        "Özellik"
+      ],
+      "satirlar": [
+        [
+          "YGU-1",
+          "65 saat",
+          "Temel yapı ve sistem bilgisi, periyodik kontrol, tahliye"
+        ],
+        [
+          "YGU-2",
+          "85 saat",
+          "Daha ayrıntılı yapı, elektrik ve mekanik sistemler, proje ve uygulama incelemesi"
+        ],
+        [
+          "YGU-3",
+          "40 saat ek",
+          "Yüksek tehlikeli yapılar ve uluslararası teknik dokümanlar"
+        ],
+        [
+          "YGU-K",
+          "35 saat",
+          "Temel yangın/mevzuat, yüksek tehlikeli maddeler, kontrol ve raporlama"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu toplamlar EK-2'de ilgili seviye için işaretlenen modüllerin saatleri toplanarak doğrulanmıştır. Taslak Madde 9'a göre teorik eğitim dışında, farklı kullanım sınıfındaki iki yapıyla ilişkili uygulama eğitimi de öngörülür. Dolayısıyla tabloda yer alan saatler resmî eğitimin bütün süreç yükünü tek başına göstermemektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "6-ek-1-e-gore-yapi-ve-gorev-sinirlari-nasil-okunmali",
+      "metin": "6. EK-1'e göre yapı ve görev sınırları nasıl okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "EK-1'de aynı kullanım sınıfında farklı bina özelliklerine göre kontrol periyodu ve uzmanlık seviyesi değişebilir. Örnekler:"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Yapı durumu (TASLAK)",
+        "Kontrol aralığı",
+        "EK-1'deki YGU seviyesi"
+      ],
+      "satirlar": [
+        [
+          "Büro, yapı inşaat alanı 1.000 m² ve altı",
+          "5 yıl",
+          "YGU-1 veya YGU-2 veya YGU-3"
+        ],
+        [
+          "Büro, yapı inşaat alanı 1.000 m² üstü",
+          "4 yıl",
+          "YGU-2 veya YGU-3"
+        ],
+        [
+          "Konaklama, yatılan oda sayısı 25 ve altında",
+          "5 yıl",
+          "YGU-1 veya YGU-2 veya YGU-3"
+        ],
+        [
+          "Konaklama, yatılan oda sayısı 25'in üstünde",
+          "4 yıl",
+          "YGU-2 veya YGU-3"
+        ],
+        [
+          "Yüksek tehlikeli endüstriyel tesis",
+          "3 yıl",
+          "YGU-3 ve YGU-K"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "EK-1 tablosunun satırı belirlenmeden yalnızca “bina küçük”, “tesis sanayi içinde” veya “burası otel” denilerek kesin yetki kararı verilmemelidir. Karma kullanımlı yapılara ilişkin tablo notları da dikkate alınmalıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "Kaynak metin uyarısı",
+      "metin": "İncelenen EK-1'de yüksek tehlikeli depolama amaçlı tesisler satırında “YGU-3 ve YGU-4” ibaresi bulunmaktadır. Oysa Madde 5'te YGU-4 tanımlanmamıştır; başka ilgili satırlarda YGU-K yazılıdır. Bu satır taslak içi tutarsızlık taşıdığından, yayımlanmış nihai metin olmadan “YGU-4 diye yeni bir seviye vardır” sonucu çıkarılamaz."
+    },
+    {
+      "tip": "not",
+      "etiket": "BYKHY ile YGU ekleri birbirinden farklıdır",
+      "metin": "2025 tarihli BYKHY taslağının Madde 131'inde yapıların yangın güvenlik kontrolünün çerçevesi ve Ek-16'ya gönderme; YGU taslağının EK-1'inde ise yapı sınıfı/sınırları, periyotlar ve uzmanlık seviyeleri bulunmaktadır. Bir metinde geçen periyodu diğerinin kesin yürürlük kuralı saymak doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "7-saha-ornegi-ayni-isletmede-farkli-bina-kullanimlari",
+      "metin": "7. Saha örneği: aynı işletmede farklı bina kullanımları"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sanayi parselinde üretim binası, idari büro ve tehlikeli madde deposu bulunabilir. Yangın Güvenlik Uzmanı (YGU) görevine ilişkin uygunluk değerlendirmesinde önce bu bölümlerin gerçekten nasıl kullanıldığı, ruhsat/proje kayıtları ve hangi yapısal sınıra girdiği belirlenir. Üretim alanına verilen YGU yetki kararı, komşu idari bloğa otomatik uygulanamaz; depolamanın tehlike düzeyi de ayrı incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada doğru yöntem, hangi yapı, hangi kullanım sınıfı, hangi teknik sınır, hangi işlem, hangi uzmanlık seviyesi sorularını sırayla cevaplamaktır. Onaylı proje, gerçek saha ve teknik belgeler bu değerlendirmenin dayanaklarıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "8-sik-sorulan-sorular",
+      "metin": "8. Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-1 belgesi olan herkes 1.000 m²'ye kadar bütün yapılara bakabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; kullanım sınıfı ve EK-1'in ilgili satırı ayrıca belirlenmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-2 doğrudan YGU-3 sayılır mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Taslakta genel geçiş için YGU-2 belgesiyle birlikte raporlama deneyimi öngörülür."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-K bağımsız olarak her yüksek tehlikeli tesisi kontrol eder mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta tehlikeli maddelerin tespiti ve sınıflandırılmasına yönelik özel görev tanımlanmıştır; genel kontrol göreviyle eşit değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim saatleri yürürlüğe girdi mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır; tabloda yalnız incelenen taslaktaki EK-2 değerleri gösterilmektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) seviyelerini yalnızca diploma veya ders saatiyle açıklamak eksik kalır. Yetki değerlendirmesinde Madde 5, Madde 6, EK-1 ve EK-2 birlikte okunmalı; taslak kaynak içindeki YGU-4 yazım sorunu da gizlenmemelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU-1 belgesi olan herkes 1.000 m²'ye kadar bütün yapılara bakabilir mi?",
+      "yanit": "Hayır; kullanım sınıfı ve EK-1'in ilgili satırı ayrıca belirlenmelidir."
+    },
+    {
+      "soru": "YGU-2 doğrudan YGU-3 sayılır mı?",
+      "yanit": "Hayır. Taslakta genel geçiş için YGU-2 belgesiyle birlikte raporlama deneyimi öngörülür."
+    },
+    {
+      "soru": "YGU-K bağımsız olarak her yüksek tehlikeli tesisi kontrol eder mi?",
+      "yanit": "Taslakta tehlikeli maddelerin tespiti ve sınıflandırılmasına yönelik özel görev tanımlanmıştır; genel kontrol göreviyle eşit değildir."
+    },
+    {
+      "soru": "Eğitim saatleri yürürlüğe girdi mi?",
+      "yanit": "Hayır; tabloda yalnız incelenen taslaktaki EK-2 değerleri gösterilmektedir."
+    }
+  ]
+}

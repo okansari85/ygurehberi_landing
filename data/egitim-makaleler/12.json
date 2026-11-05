@@ -1,0 +1,169 @@
+{
+  "no": "12",
+  "baslik": "Yangın Güvenlik Uzmanlığı (YGU) Eğitim Ücretleri, Eğitim Tarihleri ve Kontenjanları Nasıl Öğrenilir?",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) eğitim ücreti, eğitim tarihi ve kontenjan bilgileri, yangın güvenlik uzmanı olmak isteyen kişinin kayıt kararında önemli yer tutar. Ancak eğitim bedeli, sınav bedeli ve resmî kontrol hizmet bedeli birbirinden farklıdır. Taslak bir rakamın veya internette paylaşılan ön kayıt duyurusunun kesinleşmiş program ilanı sanılması, yanlış beklenti oluşturabilir.",
+  "bloklar": [
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT DURUMU – TASLAK",
+      "metin": "Ücret belirleme ve duyuru usulleri, YGU yönetmelik taslağının 9, 10, 12 ve ilgili diğer hükümlerine dayanmaktadır. Makale 5 Kasım 2026 tarihi itibarıyla doğrulanmış bir eğitim bedeli veya kurum bazlı kesin takvim göstermemektedir."
+    },
+    {
+      "tip": "not",
+      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
+      "metin": "Ücret belirleme usulleri YGU yönetmelik TASLAĞI Madde 12'de yer alır; fiilen ilan edilmiş bir eğitim bedeli veya başvuru takvimi doğrulanmadığından tutar belirtilmemiştir. 2025 BYKHY taslağının yapı kontrol hükümleri eğitim, sınav ve yetki belgesi ücretinin resmî tarifesi olarak gösterilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "1-ygu-egitim-bedelini-kim-belirleyebilir",
+      "metin": "1. YGU eğitim bedelini kim belirleyebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 12/1 Bakanlığın düzenlediği eğitimlerin bedelinin Bakanlıkça, yetkilendirilmiş eğitici kuruluşlarca düzenlenen eğitimin bedelinin ise ilgili eğitici kuruluşlarca belirlenmesini öngörür. Bu yaklaşım, bütün üniversitelerin ve bütün YGU seviyelerinin kesin olarak aynı ücreti alacağı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK Madde 12/2, Bakanlıkça düzenlenen eğitim ve sınav için Bakanlığın belirleyip duyuracağı bedelin Bakanlık Döner Sermaye hesabına yatırılmasını öngörmektedir. Madde 12/3, yatırılan eğitim ve sınav bedelinin iade edilmemesine yönelik düzenleme içerir. Bunların tamamı taslak hükümleridir."
+    },
+    {
+      "tip": "h2",
+      "id": "2-egitim-ve-sinav-ucretleri-neden-ayri-incelenmelidir",
+      "metin": "2. Eğitim ve sınav ücretleri neden ayrı incelenmelidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitimi, teorik ve uygulama aşamaları ile sınav ve yetkilendirmeden oluşabilecek bir sistemdir. Eğitim ilanında verilen rakamın hangi hizmete ait olduğu açıkça yazılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sadece eğitim ücreti duyurulmuş olması, sınav bedelinin veya diğer işlem bedellerinin o tutara dahil olduğunu kanıtlamaz. Aynı şekilde taslağın periyodik kontrol hizmetleri için öngördüğü ücret mekanizması, YGU adayının eğitim ücreti olarak gösterilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-dort-ygu-seviyesi-icin-ucretler-farkli-mi-olacak",
+      "metin": "3. Dört YGU seviyesi için ücretler farklı mı olacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK EK-2'de YGU-1 için 65, YGU-2 için 85, YGU-3 için 40 ek ve YGU-K için 35 teorik saat öngörülmektedir. Ancak ders süresinden fiyat hesaplanamaz. “YGU-2 eğitimi YGU-1'den yüzde şu kadar pahalı olacaktır” gibi ifadeler, doğrulanmış resmî fiyat olmadan kullanılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Ücret konusunda program seviyesi, eğitim veren yetkili kurum, duyurulan hizmet kapsamı ve ödeme şartları bir arada değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-egitim-tarihi-ile-basvuru-tarihi-ayni-mi",
+      "metin": "4. Eğitim tarihi ile başvuru tarihi aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Başvuru başlangıcı ve bitişi, teorik eğitimin başlangıcı, uygulama eğitiminin yapılacağı dönem, sınav tarihi ve belge düzenlenme işlemleri ayrı zamanlardır. TASLAK Madde 10/1, başvuru ilanının Bakanlık veya yetkili eğitici kuruluşun resmî sayfasında yayımlanmasını öngörür; Madde 11/2, sınava ilişkin bilgilerin ayrıca Bakanlıkça duyurulacağını söyler."
+    },
+    {
+      "tip": "p",
+      "metin": "Ön kayıt formu açılması, eğitim başlangıcının kesinleştiğini veya sınav yerinin belirlendiğini göstermez. Yangın Güvenlik Uzmanı (YGU) adayının takvimini bu aşamaları ayırarak oluşturması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-kontenjan-neye-gore-belirlenir",
+      "metin": "5. Kontenjan neye göre belirlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kursun ilan ettiği kontenjan, o program için kabul edilebilecek katılımcı sayısını ifade eder. Ancak taslak metinden bütün YGU seviyeleri için sabit ulusal kontenjan sayısı çıkarılamaz. Eğitici kuruluşun yetkilendirme kapsamı ve resmî duyurusu görülmeden kesin kontenjan belirtilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Başvurunun erken yapılması da diğer koşullar sağlanmadan otomatik kabul veya resmî yetki garantisi vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-5-kasim-2026-itibariyla-kesin-ucret-ve-tarih-var-mi",
+      "metin": "6. 5 Kasım 2026 itibarıyla kesin ücret ve tarih var mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu makalenin kontrolünde yetkili kurumlara ait toplu ve eksiksiz bir kesin fiyat/takvim listesi elde edilmedi. Bu nedenle “YGU eğitimi ... TL”, “tüm eğitimler ... tarihinde başlıyor” veya “şu kadar kişilik kontenjan var” gibi ifadeler kullanılmamıştır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bilgi güncellenecekse kaynak duyurunun tarihi, kurum adı, program seviyesi, ücretin kapsadığı işlemler ve başvuru süresi birlikte doğrulanmalıdır. Daha önce hazırlanmış blog yazılarındaki tarih ve rakamlar, resmî ilanla karşılaştırılmadan aynen taşınmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-saha-ve-meslek-baglantisi",
+      "metin": "7. Saha ve meslek bağlantısı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitiminin amacı yalnızca sertifika almak değildir. Yapının onaylı projelerini, işletme değişikliklerini ve yangından korunma sistemlerine ilişkin belgeleri ilişkilendirebilecek teknik yeterlilik kazanmak önemlidir. Örneğin bir büro alanının depoya dönüştürülmesinde değişen kullanımın kaçış koşullarına etkisini değerlendirmek, ilgili mevzuat ve proje bilgisi gerektirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurs seçerken fiyat kadar programın resmî niteliği, müfredat kapsamı ve uygulama yaklaşımı da önem taşır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık sorulan sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimi ücretsiz mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kesin kurum ilanı görülmeden ücretsiz veya ücretli olduğu her program için genellenemez."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sınav bedeli eğitim ücretine dahil mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Ödeme kalemleri resmî duyurudan kontrol edilmelidir; taslak Madde 12 bunları ayrı ele alır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Kontenjanı dolan üniversite diğer şehirlerdeki kursları etkiler mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Her programın ilanı ve kontenjanı ayrı doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığı (YGU) eğitim ücretleri, tarihler ve kontenjanlar tahminle değil, yetkilendirilmiş kuruluşların resmî duyurularıyla yayımlanmalıdır. Eğitim bedeliyle sınav ve yapı kontrol hizmet bedeli kesinlikle karıştırılmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "3194 Sayılı İmar Kanunu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitimi ücretsiz mi?",
+      "yanit": "Kesin kurum ilanı görülmeden ücretsiz veya ücretli olduğu her program için genellenemez."
+    },
+    {
+      "soru": "Sınav bedeli eğitim ücretine dahil mi?",
+      "yanit": "Ödeme kalemleri resmî duyurudan kontrol edilmelidir; taslak Madde 12 bunları ayrı ele alır."
+    },
+    {
+      "soru": "Kontenjanı dolan üniversite diğer şehirlerdeki kursları etkiler mi?",
+      "yanit": "Her programın ilanı ve kontenjanı ayrı doğrulanmalıdır."
+    }
+  ]
+}
