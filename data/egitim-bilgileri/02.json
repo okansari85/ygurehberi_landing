@@ -1,0 +1,248 @@
+{
+  "no": "02",
+  "baslik": "YGU Eğitimi",
+  "ozet": "Eğitim yöntemi, EK-2 müfredatı, süreler ve sınav",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ygu-egitimi-nasil-yapilir",
+      "metin": "YGU Eğitimi Nasıl Yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU eğitimi, yangın güvenlik uzmanlığı görevlerini yerine getirebilmek için gerekli mevzuat ve teknik bilgiyi kazandırmaya yönelik modüler bir program olarak öngörülmektedir. Taslak düzenlemede teorik eğitim ile uygulama eğitimi birbirini tamamlayan fakat farklı kurumlarca yürütülen iki aşamadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Teorik eğitimde konu başlıklarının bilinmesi, sahadaki uygulama eğitiminin yerine geçmez. Aynı şekilde uygulama tecrübesi de yönetmelik taslağında aranan eğitim ve sınav koşullarını kendiliğinden ortadan kaldırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "teorik-egitimin-modulleri",
+      "metin": "Teorik Eğitimin Modülleri"
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2 müfredatında yer alan konular uzmanlık seviyesiyle bağlantılıdır. Genel çerçeve şu teknik alanları kapsar:"
+    },
+    {
+      "tip": "p",
+      "vurgu": "Yangın bilimi:",
+      "metin": "Yanmanın temel mekanizmaları, yangının gelişimi ve insan davranışıyla ilişkili temel ilkeler."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Mevzuat, yetki ve etik:",
+      "metin": "Bina yangın mevzuatının okunması, YGU görev sınırları, ilgili mevzuatla ilişki, tarafsızlık ve mesleki özen."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Proje okuma:",
+      "metin": "Yangın güvenliği tedbirlerinin plan ve proje üzerinde tanınması; projedeki kararlarla saha uygulamasının ilişkilendirilmesi. Proje okuma eğitimi almak her seviyeye proje uygunluk görüşü verme yetkisi kazandırmaz."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Yapı ve malzemeler:",
+      "metin": "Yapı elemanlarının ve malzemelerin yangın davranışı, taşıyıcı sistemlerin korunmasına ilişkin temel bilgiler."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Kaçış, tahliye ve insan davranışı:",
+      "metin": "Kullanım sınıfları, kaçış yolları, merdivenler, tahliye düzeni ve yangın anındaki hareket koşulları."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Elektrik ve algılama sistemleri:",
+      "metin": "Elektrik tesisatları, acil aydınlatma ve yönlendirme, yangın algılama ve uyarı sistemleri ile ilgili test, bakım ve belge ilişkisi."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Söndürme ve duman kontrol sistemleri:",
+      "metin": "Sulu, köpüklü, gazlı ve diğer uygun söndürme sistemleri, duman kontrolü, basınçlandırma ve taşınabilir söndürücülerin teknik bağlamı."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Tehlikeli maddeler:",
+      "metin": "Özellikle yüksek tehlikeli yapıların ve kimyasal madde risklerinin değerlendirilmesi; ilgili seviyelerde daha ayrıntılı içerik."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Kontrol ve raporlama:",
+      "metin": "İnceleme bulgularının kaydı, teknik raporun gerekçelendirilmesi, proje–uygulama–kullanım zincirinin izlenebilirliği ve gerektiğinde uluslararası dokümanları değerlendirme."
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2'deki modül/saat dağılımı seviyeye göre farklıdır; her adayın aynı içerik derinliğinde eğitim alacağı varsayılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-egitim-sureleri",
+      "metin": "YGU Eğitim Süreleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik taslağındaki EK-2’nin toplam asgari teorik eğitim süreleri:"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Seviye",
+        "Taslaktaki asgari süre"
+      ],
+      "satirlar": [
+        [
+          "YGU-1",
+          "65 saat"
+        ],
+        [
+          "YGU-2",
+          "85 saat"
+        ],
+        [
+          "YGU-3",
+          "40 saat"
+        ],
+        [
+          "YGU-K",
+          "35 saat"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu süreler kesin ilan edilmiş bir kursun ders takvimi veya ücretlendirme birimi değildir. Nihai programdaki süre ve dağılım ayrıca doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yuz-yuze-egitim-ve-uzaktan-egitim",
+      "metin": "Yüz Yüze Eğitim ve Uzaktan Eğitim"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9/2 hükmü teorik eğitimlerin yüz yüze veya uzaktan eğitim yoluyla yapılabileceğini öngörür. Bu ifade uygulama eğitiminin tamamen çevrim içi yapılabileceği anlamına gelmez. Uygulama eğitimi mahalli itfaiye teşkilatı üzerinden düzenlenen farklı bir aşamadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yetkili kuruluşun teorik eğitimi uzaktan vermesi hâlinde kullanılacak altyapı ve Bakanlığın gözetimine ilişkin bilgiler kuruluşun yetkilendirme ve bildirim süreçleri kapsamında önem taşır."
+    },
+    {
+      "tip": "h2",
+      "id": "devam-sarti-ve-katilim-belgesi",
+      "metin": "Devam Şartı ve Katılım Belgesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağa göre teorik eğitimin en az %90'ına devam zorunludur. Programın başlamasıyla birlikte yoklama, katılım kayıtları ve eğitimin tamamlandığını gösteren belgelerin korunması gerekir. Aday, yalnızca eğitici kuruluşa ücret ödeyerek katılım belgesi kazanmış sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitici kuruluşların teorik eğitime katılanların bilgilerini, belgelerini ve devam çizelgesini belirli süre içinde Bakanlığa iletmesine ilişkin yükümlülükler taslağın 16. maddesinde açıklanır."
+    },
+    {
+      "tip": "h2",
+      "id": "uygulama-egitimi-nasil-yapilir",
+      "metin": "Uygulama Eğitimi Nasıl Yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9/5 hükmüne göre uygulama eğitiminde farklı kullanım sınıfından iki yapı için yangın güvenlik raporu düzenleme ve uygulama gözetimi faaliyetleri yer alır. Mahalli itfaiye teşkilatı uygulama eğitimi tamamlandığında aday bilgilerini teorik eğitimin alındığı kuruluşa bildirmekle görevlendirilmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada amaç gerçek yapılardaki tedbirlerle kayıt ve proje verilerinin ilişkilendirilmesini öğrenmektir. Uygulama eğitimindeki faaliyetler, adayın yetki belgesi almadan bağımsız biçimde resmî YGU raporu düzenleyebildiği şeklinde yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-sonrasi-sinav",
+      "metin": "Eğitim Sonrası Sınav"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 11. maddesinde sınavın Bakanlık tarafından teorik konulardan düzenlenmesi öngörülür. YGU-1, YGU-2 ve YGU-3 için en az 50, YGU-K için en az 25 çoktan seçmeli soru; başarı için 100 üzerinden en az 70 puan düzenlenmiştir. Bu değerler taslak hükümleridir; kesin sınav duyurusuyla doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim saatleri bütün seviyelerde aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. EK-2'nin asgari toplamları farklıdır ve müfredat seviyeyle değişir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Uzaktan eğitim alan kişi uygulama eğitiminden muaf mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Sırf teorik eğitim uzaktan yapıldığı için böyle bir muafiyet öngörülmemektedir."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-3 eğitimi doğrudan herkes için açık mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Taslağın 5. maddesi YGU-3'e geçiş için YGU-2 yetkisi ve belirli raporlama deneyimi öngörür."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sınavdan önce neler tamamlanmalıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlgili eğitimlerin tamamlanması ve Bakanlık sınav ilanında istenen koşulların karşılanması gerekir. Taslağın 14. maddesinde belirli kişiler için özel muafiyet ayrıca düzenlenmiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "egitime-hazirlanirken-nasil-bir-calisma-yontemi-izlenebilir",
+      "metin": "Eğitime hazırlanırken nasıl bir çalışma yöntemi izlenebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce EK-2’deki ilgili seviyeye ait modül başlıkları ve öğrenme hedefleri incelenebilir. Ardından bir örnek yapının kullanım sınıfı, kaçış düzeni, yangın algılama ve söndürme sistemleri, kontrol kayıtları ile proje belgeleri birlikte değerlendirilerek konu bilgisi somutlaştırılabilir. Bu öneri, Bakanlıkça ilan edilecek resmî müfredatın veya uygulama eğitiminin yerine geçmez."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Eğitim saatleri bütün seviyelerde aynı mı?",
+      "yanit": "Hayır. EK-2'nin asgari toplamları farklıdır ve müfredat seviyeyle değişir."
+    },
+    {
+      "soru": "Uzaktan eğitim alan kişi uygulama eğitiminden muaf mı?",
+      "yanit": "Sırf teorik eğitim uzaktan yapıldığı için böyle bir muafiyet öngörülmemektedir."
+    },
+    {
+      "soru": "YGU-3 eğitimi doğrudan herkes için açık mı?",
+      "yanit": "Hayır. Taslağın 5. maddesi YGU-3'e geçiş için YGU-2 yetkisi ve belirli raporlama deneyimi öngörür."
+    },
+    {
+      "soru": "Sınavdan önce neler tamamlanmalıdır?",
+      "yanit": "İlgili eğitimlerin tamamlanması ve Bakanlık sınav ilanında istenen koşulların karşılanması gerekir. Taslağın 14. maddesinde belirli kişiler için özel muafiyet ayrıca düzenlenmiştir."
+    }
+  ]
+}

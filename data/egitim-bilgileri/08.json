@@ -1,0 +1,221 @@
+{
+  "no": "08",
+  "baslik": "YGU Eğitim Ücretleri",
+  "ozet": "Ücretlerin belirlenmesi, kapsamı ve doğrulanması",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ygu-egitimi-ucretleri-belli-mi",
+      "metin": "YGU Eğitimi Ücretleri Belli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenlik uzmanlığı eğitimi almak isteyenlerin en sık araştırdığı sorulardan biri “YGU eğitimi ne kadar?” sorusudur. Bunun doğru cevabı, henüz yetkisi ve programı doğrulanmamış bir kuruluşun tahmini fiyatını ilan etmek değildir. Ücret, program ve düzenleyen kuruluş bilgilerinin resmî duyuruya dayanması gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu çalışma kapsamında bu çalışma kapsamında doğrulanabilen, YGU seviyelerine göre ilan edilmiş genel ve resmî bir eğitim ücret tarifesine ulaşılamamıştır. Bu nedenle bu sayfada örnek ücret veya fiyat aralığı yayınlanmamaktadır."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-ucretini-kim-belirler",
+      "metin": "Eğitim Ücretini Kim Belirler?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik taslağının 12/1 hükmüne göre Bakanlık tarafından düzenlenecek eğitimin bedeli Bakanlıkça; Bakanlıkça yetkilendirilen eğitici kuruluşlarca düzenlenen eğitimin bedeli ise taraflarınca belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu düzenleme, her eğitici kuruluşun bütün YGU seviyeleri için aynı ücreti isteyeceği anlamına gelmez. İlan edilen programın seviyesi, kapsamı ve eğitim organizasyonu bedelin açıklanmasında önemli olabilir. Ancak farklılıkları doğrulanmış bir tarife olmadan rakama dönüştürmek doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "teorik-egitim-uygulama-ve-sinav-bedelleri",
+      "metin": "Teorik Eğitim, Uygulama ve Sınav Bedelleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim planlanırken teorik eğitim, uygulama eğitimi, sınav ve yetki belgesi süreçleri birbirinden ayrılmalıdır. Taslakta Bakanlığın düzenlediği eğitime katılacak ve sınava gireceklerin ilan edilen bedeli Bakanlık Döner Sermaye hesabına yatırması düzenlenmektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Adayın bir duyuruda gördüğü ücretin hangi hizmeti kapsadığı açıkça anlaşılmalıdır. “Eğitim ücreti” ifadesi sınav, uygulama, yol, konaklama veya diğer giderleri otomatik kapsıyor kabul edilmemelidir. Ücret kapsamının ilan ve sözleşmede açıkça belirtilmesi beklenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-seviyesine-gore-ucretler-neden-farkli-olabilir",
+      "metin": "YGU Seviyesine Göre Ücretler Neden Farklı Olabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik taslağının EK-2 bölümünde farklı uzmanlık seviyeleri için farklı asgari teorik eğitim süreleri öngörülmektedir:"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Seviye",
+        "Taslaktaki asgari teorik süre",
+        "Doğrulanmış ücret"
+      ],
+      "satirlar": [
+        [
+          "YGU-1",
+          "65 saat",
+          "Henüz doğrulanmadı"
+        ],
+        [
+          "YGU-2",
+          "85 saat",
+          "Henüz doğrulanmadı"
+        ],
+        [
+          "YGU-3",
+          "40 saat",
+          "Henüz doğrulanmadı"
+        ],
+        [
+          "YGU-K",
+          "35 saat",
+          "Henüz doğrulanmadı"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Sürelerin farklı olması, ücretlerin saat başına belirli bir bedelle hesaplandığı sonucunu doğurmaz. Tablo yalnızca eğitim sürelerini ve güncel ücret teyidi durumunu göstermektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "odeme-yapmadan-once-kontrol-edilecek-hususlar",
+      "metin": "Ödeme Yapmadan Önce Kontrol Edilecek Hususlar"
+    },
+    {
+      "tip": "p",
+      "vurgu": "Yetkilendirme:",
+      "metin": "Eğitim düzenleyen kuruluş Bakanlığın güncel listesinde yer alıyor mu? Bakanlığın doğrudan eğitimi mi?"
+    },
+    {
+      "tip": "p",
+      "vurgu": "İlan:",
+      "metin": "Eğitim tarihi, programı, seviyesi ve ücret bilgisi yetkili kuruluşun resmî sayfasında var mı?"
+    },
+    {
+      "tip": "p",
+      "vurgu": "Kapsam:",
+      "metin": "Bedel sadece teorik eğitimi mi, başka giderleri de mi kapsıyor?"
+    },
+    {
+      "tip": "p",
+      "vurgu": "Ödeme kanalı:",
+      "metin": "Alıcı hesap, ödeme açıklaması ve varsa resmî belge ilanla uyumlu mu?"
+    },
+    {
+      "tip": "p",
+      "vurgu": "İade hükümleri:",
+      "metin": "Taslağın 12/3 maddesinde yatırılan eğitim ve sınav bedelinin iade edilmemesi öngörülür. Bu bir taslak hükmüdür; aday, bağlayıcı ödeme ve iade koşullarını işlem yapmadan önce güncel mevzuat ve sözleşmeden kontrol etmelidir."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Belge vaadi:",
+      "metin": "Ücret ödemek veya eğitim almak, sınavı geçmeden ve yetkilendirilmeden YGU belgesi alınacağı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-egitim-ucretleri-nereden-takip-edilecek",
+      "metin": "YGU Eğitim Ücretleri Nereden Takip Edilecek?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kesin ücret açıklandığında bu sayfada ilanı veren kuruluş, seviye, eğitim kapsamı, duyuru tarihi, ödeme koşulları ve son doğrulama tarihi gösterilecektir. Eski fiyatlar güncel fiyat gibi bırakılmayacak; gerekli olduğunda önceki duyuru olarak ayrı işaretlenecektir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ücretler hakkında soru soran bir ziyaretçiye, şu anda doğrulanmamış tek fiyat söylemek yerine “resmî tarife henüz doğrulanmadı” bilgisinin verilmesi daha güvenilirdir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimi ücretsiz olacak mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak eğitim ve sınav bedellerinin belirlenmesini öngörür; ücretsiz olduğuna ilişkin genel bir garanti çıkarılamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Bütün üniversitelerin fiyatı aynı mı olacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta bütün yetkili kuruluşlar için tek bir sabit ücret hükmü bulunmamaktadır."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-K eğitiminin fiyatı belli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu çalışma kapsamında doğrulanmış bir YGU-K eğitim ücreti tespit edilememiştir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Ön başvuru yapınca ödeme gerekir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU Rehberi'nin mevcut ön başvuru ve bilgilendirme akışı resmî eğitim kaydı değildir; duyurusu doğrulanmış bir eğitim hizmetiyle açıkça ilişkilendirilmeden ücret talebi oluşturulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ucret-duyurusu-okurken-kapsami-nasil-ayirmali",
+      "metin": "Ücret duyurusu okurken kapsamı nasıl ayırmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlan edilen toplam bedelin hangi YGU seviyesine ait olduğu, teorik eğitimi kapsayıp kapsamadığı, uygulama eğitimi veya sınav bedeliyle ilişkisinin ne olduğu ve varsa iade koşulları ayrı ayrı anlaşılmalıdır. Taslakta Bakanlık eğitiminin bedelini Bakanlığın, yetkili eğitici kuruluş eğitiminin bedelini ise ilgili kuruluşun belirlemesi öngörülmektedir. Hiçbir örnek tutar resmî fiyat olarak sunulmamalıdır."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitimi ücretsiz olacak mı?",
+      "yanit": "Taslak eğitim ve sınav bedellerinin belirlenmesini öngörür; ücretsiz olduğuna ilişkin genel bir garanti çıkarılamaz."
+    },
+    {
+      "soru": "Bütün üniversitelerin fiyatı aynı mı olacak?",
+      "yanit": "Taslakta bütün yetkili kuruluşlar için tek bir sabit ücret hükmü bulunmamaktadır."
+    },
+    {
+      "soru": "YGU-K eğitiminin fiyatı belli mi?",
+      "yanit": "Bu çalışma kapsamında doğrulanmış bir YGU-K eğitim ücreti tespit edilememiştir."
+    },
+    {
+      "soru": "Ön başvuru yapınca ödeme gerekir mi?",
+      "yanit": "YGU Rehberi'nin mevcut ön başvuru ve bilgilendirme akışı resmî eğitim kaydı değildir; duyurusu doğrulanmış bir eğitim hizmetiyle açıkça ilişkilendirilmeden ücret talebi oluşturulmamalıdır."
+    }
+  ]
+}

@@ -15,7 +15,7 @@ export type EgitimMakaleIcerik = {
   kaynaklar: { metin: string }[]
   sss: { soru: string; yanit: string }[]
 }
-// Makalelerin yayın tarihi (kullanıcı 5 Kasım 2026'da gönderdi; metinlerdeki sürüm notu 05.11.2026)
+// Yayın tarihi (makaleler ve bilgi sayfaları 5–6 Kasım 2026 gecesi geldi; metinlerdeki sürüm notu 05.11.2026)
 export const EGITIM_YAYIN = '2026-11-06'
 
 // Kartlardaki kısa başlıklar ve açıklamalar tasarımdan; uzun başlık makalenin kendisinde (JSON › baslik).
@@ -42,7 +42,24 @@ export const EGITIM_MAKALELERI: EgitimMakalesi[] = [
   { no: '20', yol: 'ygu-mesleginin-gelecegi', baslik: 'YGU Mesleğinin Geleceği', aciklama: 'YGU mesleğinin önemi, sektördeki ihtiyaç ve gelecek dönemdeki beklentiler.', ikon: 'grafik' }
 ]
 
+// 9 bilgi sayfası (rehberdeki "YGU Eğitim Bilgileri" kartları): kart başlığı ve açıklaması tasarımdan, gövde kullanıcının
+// "YGU_Egitim_Bilgileri_9_Word" dosyalarından data/egitim-bilgileri/NN.json (betik: --bilgi). Adresler makalelerle çakışmaz
+// (makale 09 "ygu-egitimi-veren-universiteler" 5 Kasım'dan beri canlıda; bilgi 03 bu yüzden "yetkili-ygu-egitim-universiteleri").
+export const EGITIM_BILGILERI: EgitimMakalesi[] = [
+  { no: '01', yol: 'yangin-guvenlik-uzmanligi-egitimi', baslik: 'Yangın Güvenlik Uzmanlığı Eğitimi', aciklama: 'Eğitimin amacı, kapsamı ve genel yapısı', ikon: 'kep' },
+  { no: '02', yol: 'ygu-egitimi-nasil-yapilir', baslik: 'YGU Eğitimi', aciklama: 'Eğitim müfredatı, süreç ve uygulama esasları', ikon: 'liste' },
+  { no: '03', yol: 'yetkili-ygu-egitim-universiteleri', baslik: 'YGU Eğitimi Veren Üniversiteler', aciklama: 'Yetkilendirilmiş üniversiteler ve eğitim duyuruları', ikon: 'okul' },
+  { no: '04', yol: 'ygu-egitimi-veren-yerler', baslik: 'YGU Eğitimi Veren Yerler', aciklama: 'Eğitim kuruluşları, merkezler ve uygulama alanları', ikon: 'pusula' },
+  { no: '05', yol: 'yangin-guvenlik-uzmani-egitimi', baslik: 'Yangın Güvenlik Uzmanı Eğitimi', aciklama: 'Mesleki yetkinlikler, teknik bilgi ve uygulamalar', ikon: 'plan' },
+  { no: '06', yol: 'ygu-egitim-basvurusu', baslik: 'YGU Eğitim Başvurusu', aciklama: 'Başvuru süreci, gerekli belgeler ve değerlendirme', ikon: 'belge' },
+  { no: '07', yol: 'ygu-egitim-sartlari', baslik: 'YGU Eğitim Şartları', aciklama: 'Katılım koşulları, öğrenim ve mesleki yeterlilikler', ikon: 'takvimOnay' },
+  { no: '08', yol: 'ygu-egitim-ucretleri', baslik: 'YGU Eğitim Ücretleri', aciklama: 'Eğitim ve sınav ücretlerine ilişkin bilgiler', ikon: 'para' },
+  { no: '09', yol: 'ygu-egitim-tarihleri', baslik: 'YGU Eğitim Tarihleri', aciklama: 'Eğitim takvimi, başvuru ve sınav dönemleri', ikon: 'takvim' }
+]
+
 export const egitimMakalesi = (no: string) => EGITIM_MAKALELERI.find((m) => m.no === no)!
+export const egitimBilgisi = (no: string) => EGITIM_BILGILERI.find((m) => m.no === no)!
+// Bilgi sayfaları ve makaleler aynı klasörde: /ygu-egitimi/<yol>
 export const egitimMakaleYolu = (m: { yol: string }) => `/ygu-egitimi/${m.yol}`
 
 export const EGITIM_REHBERI = {
@@ -68,18 +85,6 @@ export const EGITIM_REHBERI = {
     ust: 'Sayfa İçerikleri · Eğitim Rehberi',
     baslik: 'YGU Eğitim Bilgileri',
     metin: 'Yangın güvenlik uzmanlığı eğitimi hakkında en çok araştırılan dokuz konu. Her başlık, kendi içeriği ve güncel duyurularıyla ayrı bir sayfada ele alınacak.',
-    // Konuların kendi sayfaları gelene kadar her kart konusu en yakın eğitim makalesine gider (no).
-    kartlar: [
-      { baslik: 'Yangın Güvenlik Uzmanlığı Eğitimi', metin: 'Eğitimin amacı, kapsamı ve genel yapısı', makale: '01' },
-      { baslik: 'YGU Eğitimi', metin: 'Eğitim müfredatı, süreç ve uygulama esasları', makale: '16' },
-      { baslik: 'YGU Eğitimi Veren Üniversiteler', metin: 'Yetkilendirilmiş üniversiteler ve eğitim duyuruları', makale: '09' },
-      { baslik: 'YGU Eğitimi Veren Yerler', metin: 'Eğitim kuruluşları, merkezler ve uygulama alanları', makale: '10' },
-      { baslik: 'Yangın Güvenlik Uzmanı Eğitimi', metin: 'Mesleki yetkinlikler, teknik bilgi ve uygulamalar', makale: '15' },
-      { baslik: 'YGU Eğitim Başvurusu', metin: 'Başvuru süreci, gerekli belgeler ve değerlendirme', makale: '11' },
-      { baslik: 'YGU Eğitim Şartları', metin: 'Katılım koşulları, öğrenim ve mesleki yeterlilikler', makale: '06' },
-      { baslik: 'YGU Eğitim Ücretleri', metin: 'Eğitim ve sınav ücretlerine ilişkin bilgiler', makale: '12' },
-      { baslik: 'YGU Eğitim Tarihleri', metin: 'Eğitim takvimi, başvuru ve sınav dönemleri', makale: '12' }
-    ]
   },
   makaleler: {
     ust: 'Mesleği Yakından Tanıyın',

@@ -1,0 +1,195 @@
+{
+  "no": "07",
+  "baslik": "YGU Eğitim Şartları",
+  "ozet": "Seviyelere göre meslek, öğrenim, deneyim ve muafiyet şartları",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ygu-egitimine-kimler-katilabilir",
+      "metin": "YGU Eğitimine Kimler Katılabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU eğitim şartları, başvurulacak uzmanlık seviyesine göre farklılaşır. Yönetmelik taslağında herkesin aynı programa serbestçe kayıt yaptırıp yangın güvenlik uzmanı olabileceği bir sistem öngörülmemiştir. Öğrenim ve meslek unvanı, mevcut yetki belgesi, bazı seviyeler için deneyim ve genel kabul koşulları ayrı ayrı değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki nitelikler taslağın 5. maddesinde yer alan gruplara dayanmaktadır; meslek listeleri kullanıcı yorumuyla genişletilmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-1-egitim-sartlari",
+      "metin": "YGU-1 Eğitim Şartları"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta YGU-1 seviyesi için şu mesleki/öğrenim grupları sayılır: makine teknikeri, inşaat teknikeri, elektrik teknikeri, elektrik ve elektronik teknikeri ile itfaiyecilik alanında iki yıllık ön lisans öğrenimini tamamlayanlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kişinin “teknik bölüm mezunuyum” demesi tek başına yeterli değildir; diploma ve ilgili unvanın taslaktaki ifadeyle karşılaştırılması gerekir. YGU-1'in görevleri de sınırsız değildir: Taslağa göre proje uygunluk görüşü, yapı kullanma izni aşamasındaki görüş ve tatbikat planlama görevleri YGU-2/3 seviyelerine ayrılmıştır. YGU-1 için belirlenen yapılarda periyodik kontrol görevi öngörülmektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-2-egitim-sartlari",
+      "metin": "YGU-2 Eğitim Şartları"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta YGU-2 için mimar, inşaat mühendisi, makine mühendisi, elektrik mühendisi, elektronik mühendisi ve elektrik ve elektronik mühendisi unvanları sayılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu liste dışındaki mesleklerin yalnızca ilgili sektörde deneyim sahibi olması YGU-2 başvurusu hakkı doğurduğu biçiminde yorumlanmamalıdır. Taslak YGU-2'ye, görevlendirme ve yapı sınırları kapsamında proje uygunluk görüşü, yapı kullanma izni değerlendirmesi, periyodik kontrol ve tatbikat planlama görevleri öngörmektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-3-egitim-sartlari",
+      "metin": "YGU-3 Eğitim Şartları"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-3, yalnızca diploma alarak doğrudan başvurulan genel bir seviye değildir. Taslağın 5/2(c) hükmünde YGU-2 yetki belgesine sahip olmak ve son bir yıl içinde en az iki farklı bina kullanım sınıfından en az dört yapıya ilişkin yangın güvenlik raporunu usulüne uygun düzenlemiş olmak koşulları yer alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu şart, “dört bina gezmiş olmak” veya “dört proje çizmiş olmak” ile aynı değildir. Metin, ilgili yangın güvenlik raporlarının düzenlenmesini aramaktadır. Belge ve kayıtların resmî başvuru sırasında doğrulanması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-k-egitim-sartlari",
+      "metin": "YGU-K Eğitim Şartları"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak YGU-K seviyesini kimya mühendisleri ve kimya alanında lisans eğitimini tamamlayanlar için düzenlemektedir. YGU-K yüksek tehlikeli yapıların periyodik kontrolü sırasında tehlikeli maddelerin tespiti ve sınıflandırılmasıyla ilişkili özel görev alanına sahiptir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU-K, YGU-3'ün üstünde genel bir yetki seviyesi değildir. Taslağın EK-1 genel notlarında yüksek tehlikeli yapı ve yerlerde YGU-3 ve YGU-K'nın birlikte görev almasına ilişkin düzenleme vardır. Bu özel görev ilişkisinin nihai metinde nasıl düzenlendiği ayrıca kontrol edilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "genel-kabul-kosullari",
+      "metin": "Genel Kabul Koşulları"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 7. maddesi, mesleki seviyeye ilişkin koşulların yanında bazı mahkûmiyet, meslekten çıkarılma veya sürekli yasaklılık durumları, terör örgütleriyle irtibat veya iltisak, eğitim ve sınav başarısı gibi genel kabul şartları da içerir. Ayrıca 75 yaşını dolduranlar için görevin yapılmasına engel durum bulunmadığını gösteren ve her yıl yenilenen sağlık belgesine ilişkin düzenleme vardır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu koşullar yalnızca meslek listesine bakılarak başvuru kabulü garantisi verilemeyeceğini gösterir. Başvuruya ilişkin resmî değerlendirmeyi yetkili kurum yapacaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-ve-sinav-sartlari",
+      "metin": "Eğitim ve Sınav Şartları"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta teorik ve uygulama eğitiminin tamamlanması ile sınav başarısı birbirinden ayrı aşamalar olarak yer alır. EK-2'deki asgari teorik eğitim süreleri YGU-1 için 65 saat, YGU-2 için 85 saat, YGU-3 için 40 saat, YGU-K için 35 saat şeklindedir. Taslağın 9. maddesinde teorik eğitime %90 devam koşulu bulunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 11. maddesinde teorik konulardan Bakanlık sınavı, soru sayısına ilişkin asgari değerler ve 70/100 başarı eşiği öngörülmektedir. Başvuruya uygun olmakla sınavı geçmek aynı şey değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-ve-sinav-muafiyeti-kimleri-kapsar",
+      "metin": "Eğitim ve Sınav Muafiyeti Kimleri Kapsar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 14. maddesinde özel muafiyet düzenlenmiştir: Bakanlığın merkez teşkilatında yangın mevzuatı konusunda en az üç yıl çalışmış ve taslağın 5. maddesinde sayılan ilgili meslek gruplarındaki personele, meslek grubuna göre YGU-1, YGU-3 veya YGU-K yetki belgesi alma yönünde eğitim ve sınav muafiyeti öngörülmektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu bir genel mühendis muafiyeti, genel itfaiye personeli muafiyeti veya herkese tanınmış kıdem muafiyeti değildir. Taslakta belirli kurum, görev alanı, süre ve meslek grubu birlikte aranır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Kimya mühendisi YGU-2'ye de otomatik başvurabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslaktaki YGU-2 meslek listesinde kimya mühendisliği sayılmamıştır. YGU-K kapsamıyla YGU-2 kapsamı birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "İş güvenliği uzmanlığı belgesi YGU-1 veya YGU-2 sağlar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak mesleki yeterlilikleri ayrıca saymıştır; İSG uzmanlığı belgesi tek başına yeterlilik değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU-3 için dört rapor şartı ne zaman oluşur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak, YGU-2 belgesiyle bağlantılı şekilde son bir yılda, iki ayrı bina kullanım sınıfından en az dört yangın güvenlik raporu öngörür."
+    },
+    {
+      "tip": "h3",
+      "metin": "Başvurumun kabul edileceğini nasıl öğrenirim?"
+    },
+    {
+      "tip": "p",
+      "metin": "Nihai yönetmelik, resmî ilan ve belgelerin yetkili makamca değerlendirilmesi esas alınmalıdır. Bu sayfa bireysel uygunluk kararı vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-ve-sinav-muafiyetinde-kurum-ve-gorev-ayrimi",
+      "metin": "Eğitim ve sınav muafiyetinde kurum ve görev ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 14, Bakanlığın merkez teşkilatında yangın mevzuatı alanında en az üç yıl çalışmış olma koşulunu belirli meslek gruplarıyla birlikte değerlendirir. Madde 5/2(a) grubundakiler için YGU-1, 5/2(b) grubundakiler için YGU-3 ve 5/2(d) grubundakiler için YGU-K yönünden özel düzenleme öngörülür. Yalnızca özel sektörde kıdem sahibi olmak, mühendis olmak veya İSG belgesine sahip olmak bu istisnaya kendiliğinden girmez."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Kimya mühendisi YGU-2'ye de otomatik başvurabilir mi?",
+      "yanit": "Taslaktaki YGU-2 meslek listesinde kimya mühendisliği sayılmamıştır. YGU-K kapsamıyla YGU-2 kapsamı birbirine karıştırılmamalıdır."
+    },
+    {
+      "soru": "İş güvenliği uzmanlığı belgesi YGU-1 veya YGU-2 sağlar mı?",
+      "yanit": "Taslak mesleki yeterlilikleri ayrıca saymıştır; İSG uzmanlığı belgesi tek başına yeterlilik değildir."
+    },
+    {
+      "soru": "YGU-3 için dört rapor şartı ne zaman oluşur?",
+      "yanit": "Taslak, YGU-2 belgesiyle bağlantılı şekilde son bir yılda, iki ayrı bina kullanım sınıfından en az dört yangın güvenlik raporu öngörür."
+    },
+    {
+      "soru": "Başvurumun kabul edileceğini nasıl öğrenirim?",
+      "yanit": "Nihai yönetmelik, resmî ilan ve belgelerin yetkili makamca değerlendirilmesi esas alınmalıdır. Bu sayfa bireysel uygunluk kararı vermez."
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import { GOREVLER_SAYFA } from '../../data/gorevler'
 import { MAKALELER } from '../../data/makaleler'
 import { VAKA_SAYFA } from '../../data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, kategoriMakaleleri, konuYolu } from '../../data/yguBilgi'
-import { EGITIM_MAKALELERI, EGITIM_YAYIN, egitimMakaleYolu } from '../../data/egitim'
+import { EGITIM_MAKALELERI, EGITIM_BILGILERI, EGITIM_YAYIN, egitimMakaleYolu } from '../../data/egitim'
 
 type Sayfa = { yol: string; guncelleme: string; gorseller: string[] }
 
@@ -69,7 +69,7 @@ const SAYFALAR: Sayfa[] = [
     guncelleme: EGITIM_YAYIN,
     gorseller: ['egitim-rehberi-hero', ...[1, 2, 3, 4, 5, 6, 7, 8, 9].map((n) => `egitim-bilgi-${n}`), 'egitim-kaydol']
   },
-  ...EGITIM_MAKALELERI.map((m) => ({ yol: egitimMakaleYolu(m), guncelleme: EGITIM_YAYIN, gorseller: [] })),
+  ...[...EGITIM_BILGILERI, ...EGITIM_MAKALELERI].map((m) => ({ yol: egitimMakaleYolu(m), guncelleme: EGITIM_YAYIN, gorseller: [] })),
   {
     yol: '/kvkk-aydinlatma-metni',
     guncelleme: '2026-10-31',

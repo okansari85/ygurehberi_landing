@@ -1,0 +1,220 @@
+{
+  "no": "09",
+  "baslik": "YGU Eğitim Tarihleri",
+  "ozet": "Eğitim ilanları, teorik/uygulamalı takvim ve sınav duyuruları",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ygu-egitimleri-ne-zaman-baslayacak",
+      "metin": "YGU Eğitimleri Ne Zaman Başlayacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenlik uzmanlığı (YGU) eğitimi tarihleri, eğitim almak isteyenlerin başvuru kararını doğrudan etkileyen bilgiler arasındadır. Ancak yönetmelik taslağında eğitim usullerinin yazılmış olması belirli bir gün ve saatte resmî eğitim başlayacağı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Bu çalışma kapsamında:",
+      "metin": "Bu içerik hazırlanırken Bakanlık tarafından yayımlandığı doğrulanabilen kesin ve genel bir YGU eğitim takvimi, adlandırılmış eğitim sınıfı başlangıç tarihi veya kurum bazında teyitli başvuru dönemi tespit edilememiştir. Bu nedenle resmî ilan bulunmadan başlangıç tarihi öngörülmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-takvimini-kim-aciklar",
+      "metin": "Eğitim Takvimini Kim Açıklar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9/4 hükmünde Bakanlığın düzenlediği teorik eğitimlerin tarih ve yerlerinin Bakanlığın resmî internet sayfasında duyurulması öngörülür. 10/1 hükmüne göre teorik eğitime başvuru ilanı, Bakanlık veya Bakanlıkça yetkilendirilmiş eğitici kuruluşun resmî internet sayfasında yayımlanacaktır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınava ilişkin bilgiler içinse taslağın 11/2 maddesi Bakanlığın resmî internet sayfasını işaret eder. Teorik eğitim, uygulama eğitimi ve sınavın duyuruları farklı zamanlarda yapılabileceği için tek bir ilan bütün süreci kapsıyor varsayılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-takvimindeki-asamalar",
+      "metin": "Eğitim Takvimindeki Aşamalar"
+    },
+    {
+      "tip": "p",
+      "vurgu": "1. Eğitici kuruluşun yetki durumu:",
+      "metin": "İlanı veren kuruluşun resmî YGU eğitici kuruluş yetkisi ve duyurusunun güncelliği doğrulanır."
+    },
+    {
+      "tip": "p",
+      "vurgu": "2. Teorik eğitim ilanı:",
+      "metin": "Seviyesi, tarihi, yeri veya uzaktan eğitim yöntemi, başvuru kapanışı ve gerekli belgeler açıklanır."
+    },
+    {
+      "tip": "p",
+      "vurgu": "3. Teorik eğitimin tamamlanması:",
+      "metin": "Taslağın öngördüğü devam koşulları ve katılım belgesi süreci işletilir."
+    },
+    {
+      "tip": "p",
+      "vurgu": "4. Uygulama eğitimi:",
+      "metin": "Mahalli itfaiye teşkilatında yapılacak uygulama eğitiminin takvimi ve katılım koşulları belirlenir."
+    },
+    {
+      "tip": "p",
+      "vurgu": "5. Sınav:",
+      "metin": "Bakanlık sınav ilanı, başvuru koşulları, sınav tarihi ve sonuçları ayrıca duyurulur."
+    },
+    {
+      "tip": "p",
+      "vurgu": "6. Yetki belgesi:",
+      "metin": "Başarı ve diğer kabul şartlarının değerlendirilmesi sonrasında Bakanlık tarafından belge süreci yürütülür."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sıralama eğitim programının genel işleyişini anlatır; ilan edilmemiş bir açılış tarihi veya aday için süre garantisi içermez."
+    },
+    {
+      "tip": "h2",
+      "id": "teorik-ve-uygulamali-egitimin-tarihleri-ayni-mi",
+      "metin": "Teorik ve Uygulamalı Eğitimin Tarihleri Aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik taslağında teorik eğitim Bakanlık veya yetkilendirilmiş eğitici kuruluşlar; uygulama eğitimi ise mahalli itfaiye teşkilatı üzerinden öngörülmektedir. Bu nedenle teorik eğitim takvimi ile uygulama eğitiminin tarihi farklı olabilir. Adayların yalnızca teorik ders başlangıcına bakarak tüm sürecin bitişini tahmin etmemesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9/6 hükmü, mahalli itfaiyenin uygulama eğitimi tamamlanan adaylara ilişkin bilgileri 15 gün içinde teorik eğitimin alındığı kuruluşa göndermesini öngörmektedir. Bu süre, adayın uygulama eğitimine 15 gün içinde başlayacağını veya toplam eğitimin 15 günde tamamlanacağını söylemez."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-egitim-takvimi-nasil-yayimlanacak",
+      "metin": "YGU Eğitim Takvimi Nasıl Yayımlanacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sayfada yeni bir duyuru bulunduğunda şu bilgiler ayrı ayrı gösterilmelidir: duyuru tarihi, eğitim düzenleyicisi, yetki teyidi, YGU seviyesi, eğitim biçimi, şehir veya uzaktan eğitim bilgisi, başvuru başlangıç/bitiş tarihi, teorik ders tarihleri, uygulama eğitimi açıklaması, son doğrulama tarihi."
+    },
+    {
+      "tip": "p",
+      "metin": "Duyuru süresi sona erdiğinde kayıt “tamamlanan duyuru” olarak arşivlenebilir. Geçmiş tarihli eğitim kartlarının güncel kayıt topluyormuş gibi sunulmaması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "resmi-egitim-basvurusu-baslamadan-ne-yapilabilir",
+      "metin": "Resmî Eğitim Başvurusu Başlamadan Ne Yapılabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Adaylar hangi YGU seviyesine uygun olabileceklerini öğrenebilir; diplomalarını ve mesleki belgelerini inceleyebilir, taslaktaki eğitim programını okuyabilir ve duyuruları takip edebilir. Ancak ilanda yer almayan kurum adına kesin kayıt veya kontenjan garantisi verilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU Rehberi'nde mevcut ön başvuru sistemi, eğitim ve başvuru gelişmelerini takip etmek isteyenlerle iletişim kurulmasını sağlayabilir. Bu sistem Bakanlık veya yetkili eğitici kuruluşun resmî başvurusu değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "guncel-ygu-egitim-tarihleri-durumu",
+      "metin": "Güncel YGU Eğitim Tarihleri Durumu"
+    },
+    {
+      "tip": "p",
+      "vurgu": "Bakanlık tarafından ilan edilmiş doğrulanmış genel eğitim takvimi:",
+      "metin": "Henüz doğrulanmadı."
+    },
+    {
+      "tip": "p",
+      "vurgu": "Yetkilendirilmiş kuruluşlara ait doğrulanmış isimli dönem listesi:",
+      "metin": "Henüz doğrulanmadı."
+    },
+    {
+      "tip": "p",
+      "vurgu": "YGU-1, YGU-2, YGU-3 veya YGU-K için ilan edilmiş kesin kurs başlangıcı:",
+      "metin": "Henüz doğrulanmadı."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni gelişme olduğunda sayfa gerçek ilan bilgileriyle güncellenmeli; doğrulama tarihi de değişmelidir. Güncellenmeyen bir sayfaya yalnızca yeni tarih yazılmış görüntüsü verilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimlerinin kesin başlangıç tarihi açıklandı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Böyle bir kesin takvim bu çalışma sırasında doğrulanamadı. Tarih ancak resmî duyuruya dayalı olarak açıklanabilir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Üniversitelerin başlangıç tarihleri farklı olabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yetkilendirilmiş kuruluşların eğitim ilanları ayrı olabileceğinden farklı program takvimleri söz konusu olabilir; doğrulanmış ilan gerekir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sınav eğitim biter bitmez mi yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Bakanlık sınavına ilişkin ayrıca duyuru yapılmasını öngörür; eğitim bitişinden itibaren kesin bir otomatik sınav günü varsayılmamalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim takvimini nereden izleyebilirim?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık ve yetkili eğitici kuruluşların resmî duyuruları esas alınmalı; YGU Rehberi'nin eğitim tarihleri sayfası da tarih ve kaynak doğrulamasıyla güncellenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "resmi-tarih-yayinlandiginda-kontrol-edilecek-bilgiler",
+      "metin": "Resmî tarih yayınlandığında kontrol edilecek bilgiler"
+    },
+    {
+      "tip": "p",
+      "metin": "Her duyuru için yayımlayan kurum, YGU seviyesi, eğitim biçimi, şehir veya uzaktan eğitim bilgisi, başvurunun açılış ve kapanış zamanı, teorik program başlangıcı, uygulama eğitiminin ayrıca planlanma durumu ve son kontrol bilgisi birlikte gösterilmelidir. Eğitim ilanıyla sınav ilanının aynı belge olduğu varsayılmamalıdır; tamamlanan dönemler eski ilan olarak arşivlenmelidir."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitimlerinin kesin başlangıç tarihi açıklandı mı?",
+      "yanit": "Böyle bir kesin takvim bu çalışma sırasında doğrulanamadı. Tarih ancak resmî duyuruya dayalı olarak açıklanabilir."
+    },
+    {
+      "soru": "Üniversitelerin başlangıç tarihleri farklı olabilir mi?",
+      "yanit": "Yetkilendirilmiş kuruluşların eğitim ilanları ayrı olabileceğinden farklı program takvimleri söz konusu olabilir; doğrulanmış ilan gerekir."
+    },
+    {
+      "soru": "Sınav eğitim biter bitmez mi yapılır?",
+      "yanit": "Taslak Bakanlık sınavına ilişkin ayrıca duyuru yapılmasını öngörür; eğitim bitişinden itibaren kesin bir otomatik sınav günü varsayılmamalıdır."
+    },
+    {
+      "soru": "Eğitim takvimini nereden izleyebilirim?",
+      "yanit": "Bakanlık ve yetkili eğitici kuruluşların resmî duyuruları esas alınmalı; YGU Rehberi'nin eğitim tarihleri sayfası da tarih ve kaynak doğrulamasıyla güncellenmelidir."
+    }
+  ]
+}

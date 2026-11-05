@@ -11,8 +11,9 @@ import { VAKA_SAYFA } from '../../data/vakalar'
 import { YASAM_DONGUSU as Y } from '../../data/yasamDongusu'
 import { CALISMA_SAYFA as CS, CA_YONETMELIK } from '../../data/calismaAlanlari'
 import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/yguBilgi'
-import { EGITIM_REHBERI as ER, EGITIM_MAKALELERI, egitimMakalesi, egitimMakaleYolu } from '../../data/egitim'
+import { EGITIM_REHBERI as ER, EGITIM_MAKALELERI, EGITIM_BILGILERI, egitimMakalesi, egitimBilgisi, egitimMakaleYolu, type EgitimMakaleIcerik, type EgitimMakalesi } from '../../data/egitim'
 import { EGITIM_ICERIK } from '../../data/egitimMakaleIcerik'
+import { EGITIM_BILGI_ICERIK } from '../../data/egitimBilgiIcerik'
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
 const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
@@ -30,6 +31,18 @@ const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
   return b.metin
 }).join('\n\n')
 
+// Eğitim bilgi sayfası / makalesi düz metin
+const egitimMetni = (m: EgitimMakaleIcerik, kart: EgitimMakalesi) => `### ${m.baslik}
+
+Kaynak sayfa: ${SITE.url}${egitimMakaleYolu(kart)}
+
+${m.ozet}
+
+${konuMetni(m.bloklar)}
+
+${m.kaynakBaslik}:
+${m.kaynaklar.map((k) => `- ${k.metin}`).join('\n')}`
+
 export default defineEventHandler((event) => {
   setHeader(event, 'Content-Type', 'text/plain; charset=utf-8')
   const u = SITE.url
@@ -46,6 +59,7 @@ export default defineEventHandler((event) => {
 - [YGU Ön Kayıt](${u}/on-kayit): YGU olmak isteyenler için ön kayıt; eğitim, sınav ve belgelendirme sürecine dair bilgilendirme
 - [YGU Eğitim, Sınav ve Belgelendirme](${u}/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-sinav-belgelendirme): YGU eğitimine kimler katılabilir, seviyelere göre eğitim süreleri, sınav ve YGU belgesi
 - [YGU Eğitim Rehberi](${u}${ER.yol}): ${ER.hero.metin}
+${EGITIM_BILGILERI.map((m) => `- [${m.baslik}](${u}${egitimMakaleYolu(m)}): ${m.aciklama}`).join('\n')}
 ${EGITIM_MAKALELERI.map((m) => `- [${m.baslik}](${u}${egitimMakaleYolu(m)}): ${m.aciklama}`).join('\n')}
 - [YGU Görevleri](${u}/yangin-guvenlik-uzmani-gorevleri): Proje inceleme, yapı kullanma izni değerlendirmesi, periyodik kontrol ve tatbikat görevleri, belgeler ve yetki sınırları
 - [YGU Serbest Çalışma](${u}/serbest-calisma): YGU kendi adına veya şirket üzerinden çalışabilir mi, görevlendirme, hizmet bedeli, bağımsızlık ve bilinmesi gerekenler
@@ -270,20 +284,17 @@ ${konuMetni(m.bloklar)}
 
 Dayanak: ${m.dayanak.join('; ')}`).join('\n\n')}`).join('\n\n')}
 
+## ${ER.bilgiler.baslik}
+
+Kaynak sayfa: ${u}${ER.yol} · ${ER.bilgiler.metin}
+
+${EGITIM_BILGI_ICERIK.map((m) => egitimMetni(m, egitimBilgisi(m.no))).join('\n\n')}
+
 ## ${ER.makaleler.baslik}
 
 Kaynak sayfa: ${u}${ER.yol} · ${ER.makaleler.metin}
 
-${EGITIM_ICERIK.map((m) => `### ${m.baslik}
-
-Kaynak sayfa: ${u}${egitimMakaleYolu(egitimMakalesi(m.no))}
-
-${m.ozet}
-
-${konuMetni(m.bloklar)}
-
-${m.kaynakBaslik}:
-${m.kaynaklar.map((k) => `- ${k.metin}`).join('\n')}`).join('\n\n')}
+${EGITIM_ICERIK.map((m) => egitimMetni(m, egitimMakalesi(m.no))).join('\n\n')}
 
 ## Teknik makaleler
 

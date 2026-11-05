@@ -3,13 +3,14 @@
 // Eğitim rehberindeki listede ve makale sayfasının altındaki "Diğer Eğitim Makaleleri"nde kullanılır.
 import { egitimMakaleYolu, type EgitimMakalesi } from '~/data/egitim'
 
-defineProps<{ makale: EgitimMakalesi; baslikDuzeyi?: 'h3' | 'h2' }>()
+// etiket: panelde "Makale / 01" ya da bilgi sayfalarında "Bilgi / 01"
+defineProps<{ makale: EgitimMakalesi; baslikDuzeyi?: 'h3' | 'h2'; etiket?: string }>()
 </script>
 
 <template>
   <NuxtLink :to="egitimMakaleYolu(makale)" class="em">
     <span class="em-panel">
-      <span class="em-no">Makale / {{ makale.no }}</span>
+      <span class="em-no">{{ etiket ?? 'Makale' }} / {{ makale.no }}</span>
       <Ikon :ad="makale.ikon" class="em-ikon" />
     </span>
     <span class="em-ic">

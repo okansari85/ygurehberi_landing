@@ -6,7 +6,7 @@ import { konuYolu } from '~/data/yguBilgi'
 import { GOREVLER_SAYFA } from '~/data/gorevler'
 import { VAKA_SAYFA } from '~/data/vakalar'
 import { YGU_KATEGORILER, YGU_MAKALELER, yguKategori } from '~/data/yguBilgi'
-import { EGITIM_REHBERI, EGITIM_MAKALELERI, egitimMakaleYolu } from '~/data/egitim'
+import { EGITIM_REHBERI, EGITIM_MAKALELERI, EGITIM_BILGILERI, egitimMakaleYolu } from '~/data/egitim'
 
 const props = defineProps<{ otomatikOdak?: boolean; buyuk?: boolean }>()
 
@@ -44,6 +44,7 @@ const DIZIN = [
     ...m.bloklar.flatMap((b) => (b.tip === 'h2' ? [{ baslik: b.metin, metin: m.baslik, to: `/ygu-hakkinda/${m.kategori}/${m.yol}#${b.id}` }] : []))
   ]),
   { baslik: 'YGU Eğitimi Rehberi', metin: EGITIM_REHBERI.hero.metin, to: EGITIM_REHBERI.yol },
+  ...EGITIM_BILGILERI.map((m) => ({ baslik: m.baslik, metin: `YGU eğitim bilgileri · ${m.aciklama}`, to: egitimMakaleYolu(m) })),
   ...EGITIM_MAKALELERI.map((m) => ({ baslik: m.baslik, metin: `YGU eğitim makalesi · ${m.aciklama}`, to: egitimMakaleYolu(m) })),
   ...SSS.liste.map((s) => ({ baslik: s.soru, metin: 'Sık sorulan sorular', to: '/sss' })),
   { baslik: 'Mevzuat', metin: 'YGU yönetmelik taslağı ve ilgili düzenlemeler', to: '/ygu-hakkinda/mevzuat' }

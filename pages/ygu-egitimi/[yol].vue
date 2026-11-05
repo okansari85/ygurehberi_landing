@@ -1,26 +1,34 @@
 <script setup lang="ts">
-// YGU eğitim makalesi: metin data/egitim-makaleler/NN.json (kullanıcının docx'inden birebir), kart bilgisi data/egitim.ts.
+// YGU eğitim makalesi ya da eğitim bilgi sayfası (aynı adres düzeyi, /ygu-egitimi/<yol>): metin data/egitim-makaleler/NN.json
+// veya data/egitim-bilgileri/NN.json (kullanıcının docx'lerinden birebir), kart bilgisi data/egitim.ts.
 // Görünüm teknik makale sayfasıyla aynı dil: koyu hero + KonuBloklar + yan "Bu makalede". Bilinmeyen yol 404.
 // Gövde yalnız prerender'da okunur; tarayıcıya yalnız bu sayfanın payload'ı gider.
 import { SITE, ON_KAYIT } from '~/data/icerik'
-import { EGITIM_MAKALELERI, EGITIM_REHBERI, EGITIM_YAYIN, egitimMakaleYolu } from '~/data/egitim'
+import { EGITIM_MAKALELERI, EGITIM_BILGILERI, EGITIM_REHBERI, EGITIM_YAYIN, egitimMakaleYolu } from '~/data/egitim'
 
 const route = useRoute()
 const yolAdi = String(route.params.yol)
-const kart = EGITIM_MAKALELERI.find((m) => m.yol === yolAdi)
+const bilgiKart = EGITIM_BILGILERI.find((m) => m.yol === yolAdi)
+const kart = bilgiKart ?? EGITIM_MAKALELERI.find((m) => m.yol === yolAdi)
 if (!kart) throw createError({ statusCode: 404, statusMessage: 'Makale bulunamadı', fatal: true })
+const BILGI = !!bilgiKart
+const TUR = BILGI
+  ? { ad: 'Bilgi', liste: EGITIM_BILGILERI, bolum: EGITIM_REHBERI.bilgiler.baslik, capa: '#bilgiler', tum: 'Tüm eğitim bilgileri', diger: 'Diğer Eğitim Bilgileri', tumKisa: 'Tüm Konular' }
+  : { ad: 'Makale', liste: EGITIM_MAKALELERI, bolum: EGITIM_REHBERI.makaleler.baslik, capa: '#makaleler', tum: 'Tüm eğitim makaleleri', diger: 'Diğer Eğitim Makaleleri', tumKisa: 'Tüm Makaleler' }
 
 const { data } = await useAsyncData(`egitim:${yolAdi}`, async () => {
-  const { EGITIM_ICERIK } = await import('~/data/egitimMakaleIcerik')
-  const icerik = EGITIM_ICERIK.find((m) => m.no === kart.no)
+  const liste = BILGI ? (await import('~/data/egitimBilgiIcerik')).EGITIM_BILGI_ICERIK : (await import('~/data/egitimMakaleIcerik')).EGITIM_ICERIK
+  const icerik = liste.find((m) => m.no === kart.no)
   return icerik ? { icerik, okuma: makaleOkumaSuresi(icerik) } : null
 })
 if (!data.value) throw createError({ statusCode: 404, statusMessage: 'Makale bulunamadı', fatal: true })
 const { icerik: m, okuma } = data.value
 
-// Sıradaki dört makale (dönerek): her makaleden diğerlerine iç bağlantı.
-const sira = EGITIM_MAKALELERI.indexOf(kart)
-const digerleri = [1, 2, 3, 4].map((i) => EGITIM_MAKALELERI[(sira + i) % EGITIM_MAKALELERI.length])
+// Aynı türden sıradaki dört sayfa (dönerek): her sayfadan diğerlerine iç bağlantı.
+const sira = TUR.liste.indexOf(kart)
+const digerleri = [1, 2, 3, 4].map((i) => TUR.liste[(sira + i) % TUR.liste.length])
+// Bilgi sayfasının özeti kısa bir alt başlık; arama açıklaması için ilk paragraf kullanılır.
+const ilkParagraf = (m.bloklar.find((b) => b.tip === 'p') as { metin: string } | undefined)?.metin ?? m.ozet
 
 const YOL = egitimMakaleYolu(kart)
 const basliklar = [
@@ -31,7 +39,7 @@ const basliklar = [
 useSayfaSeo({
   // Uzun soru başlığı arama sonucunda kesilir: sayfa başlığında kartın kısa başlığı, H1'de makalenin tam başlığı.
   baslik: `${kart.baslik} | YGU Rehberi`,
-  aciklama: metaAciklama(`${kart.aciklama} ${m.ozet}`),
+  aciklama: metaAciklama(BILGI ? ilkParagraf : `${kart.aciklama} ${m.ozet}`),
   yol: YOL,
   gorsel: '/img/egitim-rehberi-hero.webp',
   gorselBoyut: [814, 392],
@@ -45,7 +53,7 @@ useSayfaSeo({
       description: kart.aciklama,
       inLanguage: 'tr-TR',
       image: `${SITE.url}/img/egitim-rehberi-hero.webp`,
-      articleSection: EGITIM_REHBERI.makaleler.baslik,
+      articleSection: TUR.bolum,
       about: { '@type': 'Thing', name: 'Yangın güvenlik uzmanlığı eğitimi' },
       datePublished: EGITIM_YAYIN,
       dateModified: EGITIM_YAYIN,
@@ -77,9 +85,9 @@ useSayfaSeo({
         <Ikon ad="sag" />
         <NuxtLink :to="EGITIM_REHBERI.yol">YGU Eğitimi</NuxtLink>
         <Ikon ad="sag" />
-        <span aria-current="page">Makale {{ kart.no }}</span>
+        <span aria-current="page">{{ TUR.ad }} {{ kart.no }}</span>
       </nav>
-      <p class="mk-ust"><span class="mk-kod">{{ kart.no }}</span> {{ EGITIM_REHBERI.makaleler.baslik }}</p>
+      <p class="mk-ust"><span class="mk-kod">{{ kart.no }}</span> {{ TUR.bolum }}</p>
       <h1 id="sayfa-baslik">{{ m.baslik }}</h1>
       <p class="mk-ozet">{{ m.ozet }}</p>
       <ul class="kunye">
@@ -106,7 +114,7 @@ useSayfaSeo({
           <span class="ust">Bu makalede</span>
           <a v-for="h in basliklar" :key="h.id" :href="`#${h.id}`">{{ h.metin }}</a>
         </nav>
-        <NuxtLink :to="`${EGITIM_REHBERI.yol}#makaleler`" class="tum"><Ikon ad="kep" /> Tüm eğitim makaleleri</NuxtLink>
+        <NuxtLink :to="`${EGITIM_REHBERI.yol}${TUR.capa}`" class="tum"><Ikon ad="kep" /> {{ TUR.tum }}</NuxtLink>
         <div class="yan-kayit">
           <strong>Yangın güvenlik uzmanı olmak mı istiyorsunuz?</strong>
           <NuxtLink :to="ON_KAYIT.to" class="btn btn-amber">Ön Kayıt <Ikon ad="ok" /></NuxtLink>
@@ -118,11 +126,11 @@ useSayfaSeo({
   <section class="bolum bolum-gri" aria-labelledby="diger-baslik">
     <div class="wrap">
       <div class="diger-ust">
-        <h2 id="diger-baslik">Diğer Eğitim Makaleleri</h2>
-        <NuxtLink :to="`${EGITIM_REHBERI.yol}#makaleler`" class="btn btn-amber">Tüm Makaleler <Ikon ad="ok" /></NuxtLink>
+        <h2 id="diger-baslik">{{ TUR.diger }}</h2>
+        <NuxtLink :to="`${EGITIM_REHBERI.yol}${TUR.capa}`" class="btn btn-amber">{{ TUR.tumKisa }} <Ikon ad="ok" /></NuxtLink>
       </div>
       <ul class="diger">
-        <li v-for="d in digerleri" :key="d.no"><EgitimMakaleKart :makale="d" /></li>
+        <li v-for="d in digerleri" :key="d.no"><EgitimMakaleKart :makale="d" :etiket="TUR.ad" /></li>
       </ul>
     </div>
   </section>

@@ -1,0 +1,186 @@
+{
+  "no": "01",
+  "baslik": "Yangın Güvenlik Uzmanlığı Eğitimi",
+  "ozet": "Eğitimin amacı, seviyeler, teorik ve uygulamalı aşamalar",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmanligi-egitimi-nedir",
+      "metin": "Yangın Güvenlik Uzmanlığı Eğitimi Nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenlik uzmanlığı (YGU) eğitimi, yapılarda yangına karşı alınan tedbirlerin projelendirme, uygulama ve kullanım süreçlerinde değerlendirilmesine ilişkin bilgi ve becerilerin kazandırılmasını amaçlayan mesleki eğitim sistemidir. Amaç yalnızca yangın söndürme ekipmanlarını tanıtmak değildir; yapıların özelliklerini, ilgili mevzuatı, yangın güvenliği projelerini, sistemlerin işlevselliğini ve teknik raporlama sorumluluğunu birlikte ele almaktır."
+    },
+    {
+      "tip": "p",
+      "metin": "22 Mayıs 2026 tarihli kanuni düzenleme, yangın güvenlik uzmanlarının eğitim ve sınavda başarılı olduktan sonra yetkilendirilebilmesine ilişkin temel çerçeveyi oluşturmuştur. Eğitimin süresi, müfredatı ve başvuru yöntemleri gibi ayrıntılar ise yönetmelik taslağında düzenlenmektedir. Taslak hükümleri ile kesinleşmiş mevzuat birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "egitimin-amaci-ve-mesleki-karsiligi",
+      "metin": "Eğitimin Amacı ve Mesleki Karşılığı"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yangın güvenlik uzmanı görevini yerine getirirken aynı anda birkaç soruya cevap arar: Yapıda hangi yangın güvenliği tedbirleri öngörülmüş? Projede bu tedbirler nasıl çözülmüş? Sahada uygulanan sistemler projeyle uyumlu mu? Kullanım sürecindeki tedbirler korunuyor mu? İnceleme sonucunda hangi tespitler ve belgeler hazırlanmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim sisteminin yangın bilimi, yapı bilgisi, kaçış ve tahliye, aktif ve pasif sistemler, mevzuat, proje okuma, kontrol ve raporlama başlıklarını birlikte ele alması bu nedenledir. Eğitimde edinilen bilgi, görevlendirilen uzmanın yetki sınırları içerisinde kullanılır; her seviyenin tüm görevleri yapabileceği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "dort-uzmanlik-seviyesi",
+      "metin": "Dört Uzmanlık Seviyesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak, YGU-1, YGU-2, YGU-3 ve YGU-K olmak üzere dört seviyeden söz eder. YGU-1 ve YGU-2 için öğrenim ve mesleki unvan grupları farklıdır. YGU-3 için öncelikle YGU-2 belgesi ve ayrıca belirlenmiş mesleki raporlama deneyimi gerekir. YGU-K ise kimya mühendisliği veya kimya alanındaki lisans öğrenimiyle ilişkili özel uzmanlık alanıdır; YGU-3'ün üzerinde genel bir üst kademe değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Başvuru şartlarını yalnızca meslek adından hareketle genellemek doğru olmaz. Mezuniyet unvanı, önceki yetki belgesi, deneyim ve diğer kabul koşulları birlikte ele alınmalıdır. Ayrıntılı koşullar YGU Eğitim Şartları sayfasında açıklanmıştır."
+    },
+    {
+      "tip": "h2",
+      "id": "teorik-egitim-ve-uygulama-egitimi",
+      "metin": "Teorik Eğitim ve Uygulama Eğitimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9. maddesi eğitimi iki aşamada tanımlar. Teorik eğitim, Bakanlıkça veya Bakanlığın yetkilendirdiği eğitici kuruluş tarafından; uygulama eğitimi, mahalli itfaiye teşkilatı tarafından verilir. Teorik eğitim yüz yüze ya da uzaktan yapılabilir; uygulama eğitiminin kapsamı bundan ayrıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulama bölümünde, farklı bina kullanım sınıfına sahip iki yapı için yangın güvenlik raporu düzenleme ve uygulama gözetimi faaliyetleri öngörülür. Bu, yalnızca sınıf içi test çözmekten farklı, sahadaki tespitleri belgeye dönüştürmeye yönelik bir aşamadır."
+    },
+    {
+      "tip": "h2",
+      "id": "seviyelere-gore-asgari-teorik-egitim-sureleri",
+      "metin": "Seviyelere Göre Asgari Teorik Eğitim Süreleri"
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2'de belirtilen taslak asgari süreler YGU-1 için 65 saat, YGU-2 için 85 saat, YGU-3 için 40 saat, YGU-K için 35 saat şeklindedir. Eğitim programları uzmanlık seviyesine uygun modüller içerir. Bu rakamlar ilan edilmiş üniversite veya kurs programı süreleri değil, yönetmelik taslağındaki müfredat toplamlarıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağa göre teorik eğitime en az %90 devam katılım belgesi için koşuldur. Devam koşulu, programı bitirme ve sınavda başarılı olma yükümlülüklerini ortadan kaldırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "egitimden-yetki-belgesine-giden-yol",
+      "metin": "Eğitimden Yetki Belgesine Giden Yol"
+    },
+    {
+      "tip": "liste",
+      "numarali": false,
+      "maddeler": [
+        "Öğrenim, unvan ve varsa deneyim açısından başvurulacak seviyenin uygunluğunu değerlendirmek.",
+        "Resmî ilan üzerinden uygun teorik eğitim için başvurmak ve gerekli belgeleri sunmak.",
+        "Teorik eğitim programını devam koşuluyla tamamlamak.",
+        "Mahalli itfaiye teşkilatında öngörülen uygulama eğitimini tamamlamak.",
+        "Bakanlığın düzenleyeceği sınava ilişkin ilanı takip etmek, koşulları taşıyarak sınava katılmak.",
+        "Başarılı olunduğunda yetki belgesine ilişkin Bakanlık işlemlerini takip etmek."
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Yetki belgesi ile belirli bir yapıda görevlendirilme aynı şey değildir. Uzmanın sahadaki görevi, ilgili mahalli itfaiye teşkilatının gerekli görmesi, yetki seviyesi ve görevlendirme ilişkisi çerçevesinde değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-egitimi-hakkinda-sik-sorulan-sorular",
+      "metin": "YGU Eğitimi Hakkında Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimi herkese açık mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Taslakta seviyelere göre öğrenim, meslek, deneyim ve genel kabul koşulları yer almaktadır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Yalnızca üniversiteler mi eğitim verebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Bakanlık doğrudan teorik eğitim verebilir; taslak ayrıca Bakanlıkça yetkilendirilecek üniversiteleri, kamu kurumu niteliğindeki meslek kuruluşlarını ve bunların ticari iştiraklerini düzenler. Uygulama eğitimi mahalli itfaiye teşkilatınca verilir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim alan kişi doğrudan YGU olur mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitimin tamamlanması tek başına yetkilendirme değildir. Sınav, diğer koşullar ve Bakanlığın belge düzenleme süreci ayrıca değerlendirilir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim başvuruları açık mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Belirli bir resmî başvuru ilanı ve tarihi bu içerik hazırlanırken doğrulanamamıştır. Eğitim duyurularını güncel resmî ilanlarla karşılaştırmak gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "ilgili-rehberler",
+      "metin": "İlgili Rehberler"
+    },
+    {
+      "tip": "p",
+      "metin": "Daha fazla ayrıntı için YGU Eğitimi, YGU Eğitim Şartları, YGU Eğitim Başvurusu ve YGU Eğitim Tarihleri başlıklarına geçebilirsiniz. Eğitim almak isteyenler, YGU Rehberi'nin mevcut ön başvuru alanını resmî kurs kaydıyla karıştırmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "teknik-degerlendirme-neden-yalnizca-belge-incelemesi-degildir",
+      "metin": "Teknik değerlendirme neden yalnızca belge incelemesi değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapının onaylı projesinde yangın güvenliği tedbiri bulunması ile bu tedbirin sahada doğru uygulanması ve kullanım döneminde işler durumda tutulması aynı konu değildir. YGU eğitiminde proje, uygulama ve kullanım verilerinin ayrı ayrı okunması; bulgunun dayanağıyla raporlanması ve uzmanlık seviyesinin aşılmaması öğretilmelidir. Bu açıklama mesleki eğitim hedefidir; tek başına resmî görev verme yetkisi değildir."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitimi herkese açık mı?",
+      "yanit": "Hayır. Taslakta seviyelere göre öğrenim, meslek, deneyim ve genel kabul koşulları yer almaktadır."
+    },
+    {
+      "soru": "Yalnızca üniversiteler mi eğitim verebilir?",
+      "yanit": "Hayır. Bakanlık doğrudan teorik eğitim verebilir; taslak ayrıca Bakanlıkça yetkilendirilecek üniversiteleri, kamu kurumu niteliğindeki meslek kuruluşlarını ve bunların ticari iştiraklerini düzenler. Uygulama eğitimi mahalli itfaiye teşkilatınca verilir."
+    },
+    {
+      "soru": "Eğitim alan kişi doğrudan YGU olur mu?",
+      "yanit": "Eğitimin tamamlanması tek başına yetkilendirme değildir. Sınav, diğer koşullar ve Bakanlığın belge düzenleme süreci ayrıca değerlendirilir."
+    },
+    {
+      "soru": "Eğitim başvuruları açık mı?",
+      "yanit": "Belirli bir resmî başvuru ilanı ve tarihi bu içerik hazırlanırken doğrulanamamıştır. Eğitim duyurularını güncel resmî ilanlarla karşılaştırmak gerekir."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "no": "05",
+  "baslik": "Yangın Güvenlik Uzmanı Eğitimi",
+  "ozet": "YGU görevlerini yapabilmek için gerekli mesleki teknik yetkinlikler",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmani-egitiminde-hangi-yetkinlikler-kazanilmali",
+      "metin": "Yangın Güvenlik Uzmanı Eğitiminde Hangi Yetkinlikler Kazanılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "“Yangın güvenlik uzmanı eğitimi” yalnızca bir sınava hazırlık olarak düşünülmemelidir. Mesleğin temelinde, bir yapıda yangına karşı alınan önlemlerin tasarım kararlarını, sahadaki uygulamasını ve kullanım dönemindeki sürekliliğini bir bütün olarak değerlendirebilmek bulunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzmanın teknik değerlendirme yapabilmesi için hangi proje ve belgelerin geçerli olduğu, neyin kontrol edileceği, uygunsuzluğun nasıl belgeleneceği ve rapor sonucunun nasıl gerekçelendirileceği bilinmelidir. Ancak bu yetkinlikler, sahip olunan YGU seviyesinin görev sınırlarını genişletmez."
+    },
+    {
+      "tip": "h2",
+      "id": "1-yangin-bilimi-ve-yanginin-gelisimi",
+      "metin": "1. Yangın Bilimi ve Yangının Gelişimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Yanma koşulları, ısı transferi, yangın yükü, duman hareketi ve insanın yangın anındaki davranışının temel ilkeleri, güvenlik tedbirlerinin neden gerekli olduğunu anlamayı sağlar. Örneğin bir kaçış kapısının duman sızdırmazlık niteliğini değerlendirirken dumanın yayılımının tahliye üzerindeki etkisi dikkate alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Amaç ileri düzey akademik hesaplar yapmak değil, kontrol ve uygunluk değerlendirmesi için gerekli teknik neden–sonuç ilişkisini kurmaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "2-bina-kullanim-siniflari-ve-kacis-duzeni",
+      "metin": "2. Bina Kullanım Sınıfları ve Kaçış Düzeni"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir hastane, konut, otel, fabrika veya depo aynı risk ve tahliye koşullarına sahip değildir. Yapıların kullanım sınıfları; kaçış yollarının düzenini, bazı güvenlik sistemlerinin gerekliliğini ve YGU'nun hangi kapsamda görev alabileceğini etkileyebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitimde kaçış yolu sürekliliği, kaçış merdivenlerinin korunması, yangın kapıları, yönlendirme ve acil aydınlatma gibi tedbirlerin birbiriyle ilişkisi değerlendirilmelidir. Bir yapıdaki tek ekipmanın varlığına bakmak, tahliye güvenliğinin bütünü hakkında olumlu karar vermek için yeterli değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-proje-okuma-ve-sahada-uygulamayi-karsilastirma",
+      "metin": "3. Proje Okuma ve Sahada Uygulamayı Karşılaştırma"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU'nun değerlendirme akışında geçerli onaylı proje, varsa uygulama sonu kayıtları ve gerçek saha durumu farklı bilgi kaynaklarıdır. Eğitim sırasında projede gösterilen sistemin sahada bulunup bulunmadığı, aynı yerde olup olmadığı ve teknik özelliğinin korunup korunmadığı gibi sorular birlikte ele alınmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede gösterilen yangın kapısı sahada başka bir noktaya taşınmışsa yalnızca “kapı mevcut” bilgisi yeterli değildir. Değişikliğin yangın güvenliği açısından sonucu ve varsa onaylı proje ilişkisi incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-algilama-sondurme-ve-duman-kontrol-sistemleri",
+      "metin": "4. Algılama, Söndürme ve Duman Kontrol Sistemleri"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU eğitiminde alarm ve algılama sistemleri, sabit söndürme sistemleri, yangın suyu beslemesi, duman kontrolü, basınçlandırma, elektrik ve acil aydınlatma bileşenleri arasında teknik bağlantı kurulmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle bakım kayıtları, test-devreye alma belgeleri, periyodik kontrol raporları ve uygunluk değerlendirmesi arasındaki fark açıkça öğretilmelidir. Bir tesisatın geçmişte test edilmiş olması, bugünkü saha durumunun ayrıca incelenmeyeceği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yangin-guvenligi-raporlama-yetkinligi",
+      "metin": "5. Yangın Güvenliği Raporlama Yetkinliği"
+    },
+    {
+      "tip": "p",
+      "metin": "Teknik raporun en önemli niteliği bulgu ile sonuç arasında izlenebilir bir bağlantı kurmasıdır. İncelenen belge, yer, sistem, gözlenen durum ve ilgili mevzuat gerekçesi açık olmalıdır. İncelenmeyen veya belgesi bulunmayan hususlar incelenmiş ve uygun bulunmuş gibi sunulmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulama eğitiminde farklı kullanım sınıfından iki yapıya ilişkin raporlama faaliyeti öngörülmesi, bu teknik becerinin önemini göstermektedir. Ancak eğitim sırasında düzenlenen örnek veya uygulama raporu, yetkisiz kişinin bağımsız resmî periyodik kontrol raporu düzenlemesine izin vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-tehlikeli-maddeler-ve-kimyasal-uzmanlik",
+      "metin": "6. Tehlikeli Maddeler ve Kimyasal Uzmanlık"
+    },
+    {
+      "tip": "p",
+      "metin": "Endüstriyel tesislerde ve depolama yapılarında yanıcı, parlayıcı, patlayıcı ve diğer tehlikeli maddelerin özellikleri yangın güvenliğini belirgin biçimde etkiler. YGU-K, taslakta özellikle tehlikeli maddelerin tespiti ve sınıflandırılmasıyla ilişkilendirilmiş farklı bir uzmanlık alanıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu alan, YGU-1/2/3'ün üstünde genel bir kademe olarak değil; yüksek tehlikeli yapıların periyodik kontrolünde görevi bulunan özel uzmanlık olarak tanımlanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-mesleki-bagimsizlik-cikar-catismasi-ve-sorumluluk",
+      "metin": "7. Mesleki Bağımsızlık, Çıkar Çatışması ve Sorumluluk"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 8. maddesinde bağımsızlık, tarafsızlık, mesleki özen ve çıkar çatışmasından kaçınmaya ilişkin hükümler bulunmaktadır. YGU'nun daha önce tasarım, yapım, denetim, danışmanlık veya malzeme satışı yaptığı projelerde görev almasına ilişkin yasaklar da bu bağlamda değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman raporunda yalnızca teknik bilgiyi değil, neyi bağımsız biçimde değerlendirebileceğini ve hangi görevi üstlenemeyeceğini bilmelidir. Eğitim sistemi bu nedenle etik ve yetki sınırlarını teknik konularla birlikte ele alır."
+    },
+    {
+      "tip": "h2",
+      "id": "uzmanlik-seviyeleri-yetkinligi-nasil-etkiler",
+      "metin": "Uzmanlık Seviyeleri Yetkinliği Nasıl Etkiler?"
+    },
+    {
+      "tip": "p",
+      "metin": "EK-2'nin taslak toplamları YGU-1 için 65, YGU-2 için 85, YGU-3 için 40 ve YGU-K için 35 saat şeklindedir. Bu farklılık uzmanlık seviyelerinin öğrenim, deneyim ve görev kapsamlarıyla bağlantılıdır. YGU-1'in eğitimde proje okuma konusu görmesi, taslakta YGU-2/3 için ayrılan proje uygunluk görüşü görevini otomatik olarak kazanması demek değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "İş güvenliği uzmanı olmak doğrudan YGU yetkisi sağlar mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslaktaki YGU koşulları ayrıca düzenlenmiştir; yalnızca iş güvenliği uzmanlığı belgesinden hareketle YGU yetkisi çıkarılamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Bir mühendis YGU eğitiminden muaf olur mu?"
+    },
+    {
+      "tip": "p",
+      "metin": "Meslek unvanı tek başına genel bir muafiyet değildir. Taslağın 14. maddesinde belirli Bakanlık merkez teşkilatı deneyimine bağlanan özel muafiyet bulunur."
+    },
+    {
+      "tip": "h3",
+      "metin": "Hangi teknik konulara önceden çalışılabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların yangından korunmasına ilişkin yürürlükteki mevzuat, yapı kullanım sınıfları, kaçış düzeni, algılama ve söndürme sistemlerinin temel işleyişi, onaylı proje okuma ve raporlama mantığı iyi bir başlangıç oluşturur."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-degerlendirmesinde-izlenebilir-kontrol-yaklasimi",
+      "metin": "Saha değerlendirmesinde izlenebilir kontrol yaklaşımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulamada önce geçerli ve onaylı projeler belirlenir; ardından projede öngörülen tedbir, uygulama sonu belge ve kayıtları ve gerçek saha durumu karşılaştırılır. Sistem aynı mı, doğru yerde mi, teknik özelliği uygun mu, işletme ve bakım kayıtları ne gösteriyor soruları ayrı ayrı cevaplanır. Gözlemle doğrulanamayan bir unsur için “uygundur” sonucu üretmek yerine eksik kanıt veya kontrol sınırı açıkça yazılır."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "İş güvenliği uzmanı olmak doğrudan YGU yetkisi sağlar mı?",
+      "yanit": "Taslaktaki YGU koşulları ayrıca düzenlenmiştir; yalnızca iş güvenliği uzmanlığı belgesinden hareketle YGU yetkisi çıkarılamaz."
+    },
+    {
+      "soru": "Bir mühendis YGU eğitiminden muaf olur mu?",
+      "yanit": "Meslek unvanı tek başına genel bir muafiyet değildir. Taslağın 14. maddesinde belirli Bakanlık merkez teşkilatı deneyimine bağlanan özel muafiyet bulunur."
+    },
+    {
+      "soru": "Hangi teknik konulara önceden çalışılabilir?",
+      "yanit": "Binaların yangından korunmasına ilişkin yürürlükteki mevzuat, yapı kullanım sınıfları, kaçış düzeni, algılama ve söndürme sistemlerinin temel işleyişi, onaylı proje okuma ve raporlama mantığı iyi bir başlangıç oluşturur."
+    }
+  ]
+}

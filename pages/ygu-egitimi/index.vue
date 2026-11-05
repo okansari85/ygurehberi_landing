@@ -2,10 +2,10 @@
 // YGU Eğitim Rehberi (menü: Eğitim Süreci): design/egitim-sayfa.jpeg (Oğuz, 5 Kasım 2026). Üst menü ve alt bilgi sitenin kendisinden.
 // Görseller tasarımdan kesildi (egitim-rehberi-hero, egitim-bilgi-1…9, egitim-kaydol; düşük çözünürlük). Metinler data/egitim.ts.
 import { SITE, ON_KAYIT } from '~/data/icerik'
-import { EGITIM_REHBERI as E, EGITIM_MAKALELERI, egitimMakalesi, egitimMakaleYolu } from '~/data/egitim'
+import { EGITIM_REHBERI as E, EGITIM_MAKALELERI, EGITIM_BILGILERI, egitimMakaleYolu } from '~/data/egitim'
 
 const YOL = E.yol
-const bilgiler = E.bilgiler.kartlar.map((k, i) => ({ ...k, no: String(i + 1).padStart(2, '0'), to: egitimMakaleYolu(egitimMakalesi(k.makale)) }))
+const bilgiler = EGITIM_BILGILERI.map((k) => ({ ...k, to: egitimMakaleYolu(k) }))
 
 useSayfaSeo({
   baslik: E.seo.baslik,
@@ -25,8 +25,8 @@ useSayfaSeo({
       breadcrumb: { '@id': `${SITE.url}${YOL}#yol` },
       mainEntity: {
         '@type': 'ItemList',
-        name: E.makaleler.baslik,
-        itemListElement: EGITIM_MAKALELERI.map((m, i) => ({ '@type': 'ListItem', position: i + 1, name: m.baslik, url: `${SITE.url}${egitimMakaleYolu(m)}` }))
+        name: `${E.bilgiler.baslik} ve ${E.makaleler.baslik}`,
+        itemListElement: [...EGITIM_BILGILERI, ...EGITIM_MAKALELERI].map((m, i) => ({ '@type': 'ListItem', position: i + 1, name: m.baslik, url: `${SITE.url}${egitimMakaleYolu(m)}` }))
       }
     },
     {
@@ -77,7 +77,7 @@ useHead({ link: [{ rel: 'preload', as: 'image', href: '/img/egitim-rehberi-hero.
             <img :src="`/img/egitim-bilgi-${i + 1}.webp`" alt="" width="250" height="245" loading="lazy">
             <span class="e-no">{{ k.no }}</span>
             <h3>{{ k.baslik }}</h3>
-            <p>{{ k.metin }}</p>
+            <p>{{ k.aciklama }}</p>
             <span class="e-incele"><span class="e-ok"><Ikon ad="ok" /></span> İçeriği İncele</span>
           </NuxtLink>
         </li>

@@ -1,0 +1,173 @@
+{
+  "no": "03",
+  "baslik": "YGU Eğitimi Veren Üniversiteler",
+  "ozet": "Üniversitelerde eğitim yetkisi, sürekli eğitim merkezleri ve doğrulama",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "universiteler-yangin-guvenlik-uzmanligi-egitimi-verebilir-mi",
+      "metin": "Üniversiteler Yangın Güvenlik Uzmanlığı Eğitimi Verebilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik taslağı üniversitelerin YGU için teorik eğitim veren kuruluşlar arasında yer alabilmesini öngörmektedir. Ancak bir üniversite olmak, resmî YGU eğitimi verme yetkisini kendiliğinden sağlamaz. Taslağın 15. maddesine göre üniversitenin, Bakanlık tarafından eğitici kuruluş olarak yetkilendirilmiş olması gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ayrım, eğitim araştıran adaylar açısından çok önemlidir. Üniversitelerin düzenlediği genel yangın güvenliği seminerleri, sertifika programları ve meslek içi eğitimler bulunabilir; bunların her biri otomatik olarak YGU yetki belgesine götüren resmî eğitim değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yetkili-universite-nasil-belirlenir",
+      "metin": "Yetkili Üniversite Nasıl Belirlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 15/1 hükmü, üniversiteler ile diğer belirli kuruluşların EK-3 protokolü üzerinden eğitici kuruluş olarak Bakanlıkça yetkilendirilebilmesini düzenler. Aynı maddenin 15/5 hükmünde yetki verilen kuruluş listesinin Bakanlığın resmî internet sayfasında yayımlanması öngörülür."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir üniversiteyi değerlendirmeden önce şu bilgi zinciri doğrulanmalıdır:"
+    },
+    {
+      "tip": "liste",
+      "numarali": false,
+      "maddeler": [
+        "Üniversitenin veya ilgili eğitim düzenleyici birimin açık unvanı.",
+        "Bakanlığın yetkilendirme açıklaması ve güncel listede yer alma durumu.",
+        "İlan edilen eğitim programının YGU seviyesi ve içerik kapsamı.",
+        "Teorik eğitim biçimi, eğitim tarihleri ve duyurunun güncelliği.",
+        "Uygulama eğitiminde mahalli itfaiye teşkilatıyla kurulacak iş birliğinin kapsamı.",
+        "Başvuru belgeleri, ödeme ve iletişim kanallarının resmî duyuru ile uyuşması."
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bir tanıtım görseli, sosyal medya paylaşımı veya özel bir şirketin üniversiteyle iş birliği yaptığını söylemesi bu denetimin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "surekli-egitim-merkezleri-sem-ve-ygu-egitimi",
+      "metin": "Sürekli Eğitim Merkezleri (SEM) ve YGU Eğitimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Üniversiteler, farklı mesleki eğitim ve sertifika programlarını sürekli eğitim merkezleri veya benzeri birimleri üzerinden duyurabilir. Bununla birlikte SEM tarafından program ilan edilmesi ile Bakanlıkça YGU eğitici kuruluşu olarak yetkilendirilme farklı hususlardır. YGU'ya özgü eğitim yetkisi ayrıca açıklanmalı ve doğrulanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Başka bir ifadeyle; üniversiteden alınan herhangi bir yangın güvenliği katılım belgesi, Bakanlığın düzenleyeceği YGU sınavına doğrudan girme hakkı veya YGU yetki belgesi anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "universite-is-birligiyle-egitim-duzenlenmesi",
+      "metin": "Üniversite İş Birliğiyle Eğitim Düzenlenmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağa göre eğitim yetkisini taşıyan tarafın kim olduğu, üniversite ve iş birliği yapan diğer kuruluşların hangi işlemleri yürüteceği açık olmalıdır. Duyuruda eğitimi düzenleyen yetkili kuruluş ile başvuruya aracılık veya eğitim organizasyonuna destek veren diğer taraflar birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sayfa, üniversitelerle yapılan özel iş birliği görüşmelerini veya planlamaları resmî yetkilendirme belgesi gibi sunmaz. Resmî eğitim açıldığı doğrulandığında ilgili üniversitenin adı, duyuru tarihi, hangi YGU seviyesi için eğitim düzenlediği ve başvuru koşulları somut verilerle yayımlanabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "universite-listesi-ve-guncel-durum",
+      "metin": "Üniversite Listesi ve Güncel Durum"
+    },
+    {
+      "tip": "p",
+      "vurgu": "Bu çalışma kapsamında:",
+      "metin": "Bu çalışma kapsamında Bakanlık tarafından yayımlanmış ve doğrulanmış isimli bir YGU eğitici üniversite listesi tespit edilememiştir. Bu, hiçbir üniversitenin ileride yetkilendirilmeyeceği anlamına gelmez. Dolayısıyla bu sayfada yetkili olduğu doğrulanmamış üniversite isimleri sıralanmamaktadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir liste yayımlandığında her kayıt için üniversite adı, yetki teyit tarihi, eğitim seviyesi, duyuru durumu ve son kontrol tarihi ayrı ayrı gösterilecektir. Listeye eklenmeyen veya yetkisi askıya alınan kuruluşlar eski duyurularıyla birlikte güncel yetkili kuruluş gibi sunulmayacaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "universite-secerken-sik-sorulan-sorular",
+      "metin": "Üniversite Seçerken Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "Her üniversite YGU eğitimi açabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak uyarınca hayır; resmî YGU teorik eğitimi için Bakanlık yetkilendirmesi gerekir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Üniversiteyle anlaşmalı bir şirket doğrudan YGU eğitimi verebilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Anlaşmanın varlığı tek başına resmî eğitici kuruluş yetkisini ispatlamaz. Yetkilendirilen taraf ve resmî program kontrol edilmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Üniversite uzaktan eğitim verebilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak teorik eğitim için uzaktan eğitimi öngörür; yetkili kuruluş ve sistem altyapısı koşulları ayrıca aranır. Uygulama eğitimi bununla karıştırılmamalıdır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Üniversiteler dışında kimler eğitim verebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık doğrudan teorik eğitim verebilir; taslak ayrıca Bakanlıkça yetkilendirilecek kamu kurumu niteliğindeki meslek kuruluşları ve bunların ticari iştiraklerini sayar. Ayrıntıları YGU Eğitimi Veren Yerler sayfasında bulabilirsiniz."
+    },
+    {
+      "tip": "h2",
+      "id": "yetki-teyidinde-neden-kurulusun-adi-onemlidir",
+      "metin": "Yetki teyidinde neden kuruluşun adı önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir üniversitenin kendi adıyla düzenlediği eğitim, üniversite bünyesindeki bir birimin duyurusu ve üçüncü tarafın üniversiteyle yaptığı organizasyon anlaşması birbirinden farklı kayıtlardır. Aday, yetkilendirme belgesinin hangi kuruluşa verildiğini ve resmî eğitim ilanının aynı kuruluş tarafından yayımlandığını doğrulamalıdır. İlan edilen programın YGU uzmanlık seviyesini ve teorik eğitimin türünü açıkça belirtmesi beklenir."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "Her üniversite YGU eğitimi açabilir mi?",
+      "yanit": "Taslak uyarınca hayır; resmî YGU teorik eğitimi için Bakanlık yetkilendirmesi gerekir."
+    },
+    {
+      "soru": "Üniversiteyle anlaşmalı bir şirket doğrudan YGU eğitimi verebilir mi?",
+      "yanit": "Anlaşmanın varlığı tek başına resmî eğitici kuruluş yetkisini ispatlamaz. Yetkilendirilen taraf ve resmî program kontrol edilmelidir."
+    },
+    {
+      "soru": "Üniversite uzaktan eğitim verebilir mi?",
+      "yanit": "Taslak teorik eğitim için uzaktan eğitimi öngörür; yetkili kuruluş ve sistem altyapısı koşulları ayrıca aranır. Uygulama eğitimi bununla karıştırılmamalıdır."
+    },
+    {
+      "soru": "Üniversiteler dışında kimler eğitim verebilir?",
+      "yanit": "Bakanlık doğrudan teorik eğitim verebilir; taslak ayrıca Bakanlıkça yetkilendirilecek kamu kurumu niteliğindeki meslek kuruluşları ve bunların ticari iştiraklerini sayar. Ayrıntıları YGU Eğitimi Veren Yerler sayfasında bulabilirsiniz."
+    }
+  ]
+}

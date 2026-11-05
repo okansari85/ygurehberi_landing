@@ -1,0 +1,191 @@
+{
+  "no": "04",
+  "baslik": "YGU Eğitimi Veren Yerler",
+  "ozet": "Eğitici kuruluş türleri, şehirler, eğitim ortamları ve uygulama",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ygu-egitimi-nerede-ve-kimler-tarafindan-verilir",
+      "metin": "YGU Eğitimi Nerede ve Kimler Tarafından Verilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenlik uzmanlığı eğitiminde “eğitim veren yer” ifadesi birden fazla anlam taşıyabilir: Bakanlığın kendi teorik eğitimi, Bakanlıkça yetkilendirilmiş bir eğitici kuruluşun eğitim ortamı veya mahalli itfaiye teşkilatının uygulama eğitimi. Bu kategorilerin yetki ve sorumlulukları farklıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9. maddesine göre teorik eğitimi Bakanlık veya Bakanlıkça yetkilendirilen eğitici kuruluşlar verirken uygulama eğitimi mahalli itfaiye teşkilatı tarafından verilir. Teorik eğitimin yapıldığı sınıfın ya da çevrim içi platformun konumu, uygulama eğitimi yapılan yapıyla aynı olmak zorunda değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-kuruluslar-yetkilendirilebilir",
+      "metin": "Hangi Kuruluşlar Yetkilendirilebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 15. maddesi, Bakanlığın teorik eğitimleri kendisinin verebilmesi dışında yetkilendirilebilir kuruluşlar olarak şu grupları sayar:"
+    },
+    {
+      "tip": "liste",
+      "numarali": false,
+      "maddeler": [
+        "Üniversiteler.",
+        "Kamu kurumu niteliğindeki meslek kuruluşları.",
+        "Bu kuruluşların ticari iştirakleri."
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Her özel eğitim şirketi veya kurs merkezi bu listede bağımsız bir kuruluş türü olarak sayılmamıştır. Eğitici kuruluşun kimliği ve Bakanlık yetkilendirmesi kontrol edilmeden “resmî YGU eğitimi veriyor” denmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yetkilendirme-surecinde-hangi-bilgiler-aranir",
+      "metin": "Yetkilendirme Sürecinde Hangi Bilgiler Aranır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik taslağına göre eğitici kuruluş olmak isteyen tarafın kuruluş bilgileri, eğitim programı, eğiticilerin nitelikleri, yüz yüze eğitim yapılacak mekân veya uzaktan eğitim altyapısı ve uygulama eğitimi için iş birliği yapılacak mahalli itfaiye teşkilatına ilişkin bilgileri sunması öngörülür."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta başvurunun Komisyon tarafından en geç 30 gün içinde incelenmesi ve yetki verilen kuruluşların Bakanlık sitesinde duyurulması düzenlenmiştir. Bu süre kesin resmî başvuru hizmet taahhüdü olarak değil, taslak hükmü olarak değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitici kuruluşların yetkisinin askıya alınması veya iptal edilmesi de mümkündür. Bu nedenle bir kuruluşun geçmişte duyuru yapmış olması, bugün yetkili olduğunu tek başına kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yuz-yuze-egitim-yerleri",
+      "metin": "Yüz Yüze Eğitim Yerleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Yetkili kuruluş yüz yüze teorik eğitim düzenliyorsa eğitimin yapılacağı mekân eğitim ilanında ve Bakanlığa yapılan bildirimlerde belirli olmalıdır. Adayın başvurmadan önce eğitim yerini, ulaşım koşullarını, program saatlerini ve hangi YGU seviyesi için eğitimin açıldığını doğrulaması yararlıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Resmî duyuruda yer almayan “Bursa'da”, “İstanbul'da” veya “Ankara'da kesin sınıf açılıyor” gibi iddialar yalnızca ticari tanıtıma dayanarak doğrulanmış kabul edilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "uzaktan-ygu-egitimi",
+      "metin": "Uzaktan YGU Eğitimi"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 9/2 hükmü teorik eğitimlerin uzaktan yapılabilmesini öngörür. Bu, teorik eğitimin herhangi bir video paketi satın alınarak resmî olarak tamamlanacağı anlamına gelmez. Yetkili kuruluş, kayıt ve devam sistemi, içerik uygunluğu ve Bakanlık gözetimi önem taşır."
+    },
+    {
+      "tip": "p",
+      "metin": "Katılım belgesi için taslakta teorik eğitime en az %90 devam şartı vardır. Çevrim içi yöntem seçilse bile devam kaydının nasıl tutulacağı resmî uygulama koşullarına göre netleşmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "uygulama-egitimi-nerede-yapilir",
+      "metin": "Uygulama Eğitimi Nerede Yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın 10/3 hükmü, adayın uygulama eğitimi için eğitici kuruluşun iş birliği protokolü yaptığı mahalli itfaiye teşkilatına veya talebi hâlinde başka bir mahalli itfaiye teşkilatına başvurabilmesini düzenlemektedir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulama eğitiminde farklı kullanım sınıfına sahip iki yapıya ilişkin yangın güvenlik raporu düzenleme ve uygulama gözetimi faaliyetleri öngörülür. Uygulama eğitiminin teorik eğitim kuruluşu tarafından tek başına verildiği biçiminde tanıtım yapılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sehre-gore-egitim-aramasi-nasil-yapilmali",
+      "metin": "Şehre Göre Eğitim Araması Nasıl Yapılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim ilanları yayımlandığında bu sayfada şehir, düzenleyen yetkili kuruluş, YGU seviyesi, eğitim biçimi, ilan tarihi ve başvuru durumu ayrı alanlar hâlinde gösterilebilir. Şehir listesi boşsa doğrulanmış eğitim merkezi olmadığı varsayımı yapılmaz; yalnızca güncel resmî duyurunun henüz saptanamadığı belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-sorulan-sorular",
+      "metin": "Sık Sorulan Sorular"
+    },
+    {
+      "tip": "h3",
+      "metin": "YGU eğitimi herhangi bir OSGB'den alınabilir mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak, OSGB'yi bağımsız bir eğitici kuruluş kategorisi olarak saymaz. Yetkilendirilmiş kuruluşun kimliği kontrol edilmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Teorik ve uygulama eğitimi aynı şehirde mi olmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak bunu genel bir zorunluluk olarak ifade etmez; uygulama eğitimi için ilgili mahalli itfaiye teşkilatına başvuru koşulları vardır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim veren merkezlerin resmî listesi nerede yayımlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağa göre yetkili eğitici kuruluş listesi Bakanlığın resmî internet sitesinde yayımlanacaktır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Eğitim kayıtları ne zaman alınır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Geçerli resmî duyuruya göre belirlenir. YGU Rehberi'ndeki ön başvuru, resmî eğitim kaydı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-yeri-ile-egitici-kurulus-arasindaki-fark",
+      "metin": "Eğitim yeri ile eğitici kuruluş arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğitim yeri fiziksel derslik, uzaktan eğitim platformu veya uygulama sahası olabilir; eğitici kuruluş ise Bakanlıkça yetkilendirilmesi öngörülen kurum veya kuruluştur. Bir salonun kiralanması, özel eğitim merkezi tabelası veya herhangi bir eğitim platformuna kayıt açılması tek başına resmî YGU eğitici kuruluş yetkisi doğurmaz."
+    },
+    {
+      "tip": "not",
+      "etiket": "Mevzuat bilgilendirmesi",
+      "metin": "Yangın güvenlik uzmanlığına ilişkin kanuni çerçeve yürürlüktedir. Bu belgede açıklanan uzmanlık seviyeleri, eğitim süreleri, başvuru usulleri, sınav, eğitici kuruluş yetkilendirmesi ve ilgili ayrıntılar ise \"Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı\" ve ekleri esas alınarak değerlendirilmiştir. Taslak hükümler kesinleşmiş uygulama kuralları değildir. Güncel resmî ilan, nihai yönetmelik, ücret ve eğitim takvimi esas alınmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynaklar",
+  "kaynaklar": [
+    {
+      "metin": "3194 sayılı İmar Kanunu"
+    },
+    {
+      "metin": "7579 sayılı Kanun"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenliği Uzmanlığı Eğitim Müfredatı (EK-2)"
+    }
+  ],
+  "sss": [
+    {
+      "soru": "YGU eğitimi herhangi bir OSGB'den alınabilir mi?",
+      "yanit": "Taslak, OSGB'yi bağımsız bir eğitici kuruluş kategorisi olarak saymaz. Yetkilendirilmiş kuruluşun kimliği kontrol edilmelidir."
+    },
+    {
+      "soru": "Teorik ve uygulama eğitimi aynı şehirde mi olmalı?",
+      "yanit": "Taslak bunu genel bir zorunluluk olarak ifade etmez; uygulama eğitimi için ilgili mahalli itfaiye teşkilatına başvuru koşulları vardır."
+    },
+    {
+      "soru": "Eğitim veren merkezlerin resmî listesi nerede yayımlanır?",
+      "yanit": "Taslağa göre yetkili eğitici kuruluş listesi Bakanlığın resmî internet sitesinde yayımlanacaktır."
+    },
+    {
+      "soru": "Eğitim kayıtları ne zaman alınır?",
+      "yanit": "Geçerli resmî duyuruya göre belirlenir. YGU Rehberi'ndeki ön başvuru, resmî eğitim kaydı değildir."
+    }
+  ]
+}
