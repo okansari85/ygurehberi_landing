@@ -111,7 +111,6 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
   <!-- YGU NEDİR (Oğuz'un tasarımı, 4 Kasım 2026) -->
   <section id="ygu-nedir" class="bolum ana-nedir" aria-labelledby="nedir-baslik">
     <div class="an-cerceve">
-      <div class="an-ekran">
       <div class="wrap ana-nedir-ic">
       <div class="an-sol">
         <span class="an-ust">{{ ANA_YGU_NEDIR.ust }}</span>
@@ -127,7 +126,6 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
             <NuxtLink :to="k.to" class="an-kart"><Ikon :ad="k.ikon" /><span>{{ k.ad }}</span></NuxtLink>
           </li>
         </ul>
-      </div>
       </div>
       </div>
     </div>
@@ -367,19 +365,17 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 
 /* HIZLI KARTLAR */
 /* YGU NEDİR (Oğuz'un tasarımı, 4 Kasım 2026); kartlar şeridinin amber alt çizgisi bu bölüme geçti */
-.ana-nedir{padding:clamp(28px,3vw,44px) 0 0;border-bottom:4px solid #F5B000}
-/* Siyah zemin müşteri isteği: ekranın iki kenarına yaslanan şerit; ortadaki beyaz "ekran" site genişliğinde (kullanıcı 4 Kasım, seçenek 2) */
-.an-cerceve{padding:clamp(20px,3.4vw,52px) 0;background:linear-gradient(160deg,#1E1E1E,#0B0B0B 45%,#161616)}
-.an-ekran{width:calc(100% - 2 * var(--gutter));max-width:1320px;margin:0 auto;padding:clamp(26px,4.4vw,64px) 0;border-radius:clamp(16px,2vw,26px);background:#fff;
-  box-shadow:0 0 0 1px rgba(255,255,255,.06),0 24px 48px -30px rgba(0,0,0,.9)}
-.ana-nedir-ic{display:grid;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);gap:clamp(24px,3vw,44px);align-items:center}
+.ana-nedir{padding:clamp(28px,3vw,44px) 0 0;border-bottom:5px solid var(--amber)}
+/* 5 Kasım tasarımı (design/ana-sayfa-ygu-nedir-2.png): tablet çerçevesi yok; üstte siyah şerit + amber çizgi, beyaz alan tam genişlik, altta amber çizgi + koyu Çalışma Yaklaşımı */
+.an-cerceve{padding:calc(21px + clamp(32px,3.6vw,56px)) 0 clamp(36px,4.6vw,72px);background:linear-gradient(#0B0B0B 0 16px,var(--amber) 16px 21px,#fff 21px)}
+.ana-nedir-ic{max-width:1200px;display:grid;grid-template-columns:minmax(0,.86fr) minmax(0,1fr);gap:clamp(24px,4vw,64px);align-items:center}
 .an-ust{display:inline-block;padding:7px 18px;border-radius:8px;background:var(--amber);font-family:var(--body);font-size:13.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:#111}
 .an-sol h2{position:relative;margin-top:22px;padding-bottom:26px;font-family:var(--body);font-size:clamp(30px,2.75vw,42px);font-weight:700;line-height:1.16;letter-spacing:-.01em;text-transform:none;color:#111}
 .an-sol h2::after{content:"";position:absolute;left:0;bottom:0;width:72px;height:5px;border-radius:3px;background:var(--amber)}
 .an-sol p{margin:22px 0 0;font-size:16px;line-height:1.75;color:#2A2825;max-width:540px}
 .an-sol p+p{margin-top:16px}
 .an-dugme{margin-top:34px;min-height:58px;padding:0 30px;border-radius:10px;font-family:var(--body);font-size:18px}
-.an-gorsel{display:block;width:100%;aspect-ratio:1580/992;object-fit:cover;border-radius:14px;box-shadow:0 18px 36px -26px rgba(0,0,0,.55)}
+.an-gorsel{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;box-shadow:0 18px 36px -26px rgba(0,0,0,.55)}
 .an-kartlar{list-style:none;margin:16px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
 .an-kart{display:flex;align-items:center;gap:12px;height:100%;min-height:88px;padding:14px;border-radius:12px;background:#F4F4F3;text-decoration:none;color:#111;
   font-family:var(--body);font-weight:700;font-size:clamp(14px,1.15vw,16.5px);line-height:1.25;transition:background .15s ease, transform .2s ease}
@@ -388,7 +384,6 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 .an-kart span{min-width:0;padding-left:12px;border-left:2.5px solid var(--amber)}
 @media (max-width:1180px) and (min-width:561px){.an-kart{flex-direction:column;justify-content:center;gap:8px;text-align:center}.an-kart span{padding-left:0;border-left:0}}
 @media (max-width:980px){.ana-nedir-ic{grid-template-columns:1fr}}
-@media (max-width:560px){.an-ekran{width:calc(100% - 20px)}}
 @media (max-width:560px){.an-kartlar{grid-template-columns:1fr}.an-kart{min-height:68px}}
 
 .hizli{padding:22px 0 44px}
