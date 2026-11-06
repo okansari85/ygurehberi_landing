@@ -9,11 +9,6 @@
       "metin": "7579 sayılı Kanun'la 3194 sayılı İmar Kanunu'na eklenen periyodik kontrol çerçevesi yürürlüktedir. Aşağıdaki 3–5 yıllık periyotlar, bina sınırları ve YGU-1/2/3/K ayrımları ise incelenen YGU yönetmelik taslağının EK-1'ine dayanmaktadır; kesinleşmiş kontrol takvimi veya yetki belgesi kapsamı değildir."
     },
     {
-      "tip": "not",
-      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
-      "metin": "ÇAPRAZ DENETİM: İncelenen 2025 tarihli 99 sayfalık BYKHY TASLAĞINDA yapıların kontrolü Madde 131, tatbikat Madde 132/2, kontrol periyotları Ek-16'dadır. Buna karşılık YGU TASLAĞINDA dayanak için BYY Madde 133, tatbikat için BYY Madde 134/2 yazmakta; YGU yetki/periyot tablosu EK-1'de yer almaktadır. Bu atıf farklılıkları çözümlenmiş değildir. Hiçbir taslak tablo güncel kesin görev yetkisi olarak kullanılamaz."
-    },
-    {
       "tip": "h2",
       "id": "1-yangin-guvenlik-uzmanligi-ygu-yetkisi-otomatik-olarak-her-binayi-kapsar-mi",
       "metin": "1. Yangın Güvenlik Uzmanlığı (YGU) yetkisi otomatik olarak her binayı kapsar mı?"
@@ -186,11 +181,6 @@
     {
       "tip": "p",
       "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) ile yeni BYKHY değişiklik taslağı birbirine karıştırılmamalıdır. İncelenen YGU taslağı bazı yerlerde “Bina Yangın Yönetmeliği (BYY)” ve henüz kesinleşmemiş madde numaraları kullanmaktadır. Bu ifadelerin yürürlükteki BYKHY hükümleri olduğu varsayılamaz."
-    },
-    {
-      "tip": "not",
-      "etiket": "Taslak sürümleri arasında doğrudan atıf eşleşmiyor",
-      "metin": "2025 BYKHY taslağında yangın güvenliği denetim ve kontrolü Madde 131, tatbikat Madde 132/2; periyotların gösterildiği ek Ek-16'dır. İncelenen YGU taslağında ise dayanak için BYY Madde 133, tatbikat için Madde 134/2 ve periyot/yetki için EK-1 kullanılmaktadır. İki belgenin madde ve ek numaraları arasında doğrulanmamış bir köprü kurulmamalıdır. YGU taslağının Madde 30'unda yer alan 1 Ocak 2028 tarihi, nihai yayımlama teyidi olmadan kesin başlangıç tarihi olarak aktarılamaz."
     },
     {
       "tip": "h2",

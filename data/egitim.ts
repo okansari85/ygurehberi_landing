@@ -15,7 +15,7 @@ export type EgitimMakaleIcerik = {
   kaynaklar: { metin: string }[]
   sss: { soru: string; yanit: string }[]
 }
-// Yayın tarihi (makaleler ve bilgi sayfaları 5–6 Kasım 2026 gecesi geldi; metinlerdeki sürüm notu 05.11.2026)
+// Yayın tarihi (makaleler ve bilgi sayfaları 5–6 Kasım 2026 gecesi geldi)
 export const EGITIM_YAYIN = '2026-11-06'
 
 // Kartlardaki kısa başlıklar ve açıklamalar tasarımdan; uzun başlık makalenin kendisinde (JSON › baslik).

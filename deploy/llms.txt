@@ -3219,8 +3219,6 @@ Peki, Yangın Güvenlik Uzmanlığı (YGU) eğitimi nasıl olacak? Yangın Güve
 
 Bu makalede Yangın Güvenlik Uzmanlığı (YGU) eğitimini, mevcut mevzuat çerçevesini, eğitim içeriğini, uzmanlık seviyelerini ve mesleki hazırlık sürecini ele alıyoruz.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Kanuni periyodik kontrol çerçevesi 22 Mayıs 2026'da yayımlandı. YGU eğitimi ve uzmanlık seviyesi ayrıntıları incelenen YGU yönetmelik TASLAĞINA aittir. Ayrı bir kaynak olan 2025 tarihli 99 sayfalık BYKHY yeniden düzenleme taslağı yürürlükteki BYKHY değildir; eğitimde o taslağın hükümleri bağlayıcı mevzuat gibi gösterilmemelidir.
-
 ### 1. Yangın Güvenlik Uzmanlığı (YGU) Eğitimi Nedir?
 
 Yangın Güvenlik Uzmanlığı (YGU) eğitimi, yapıların yangın güvenliğinin mevzuat ve teknik gereklilikler çerçevesinde değerlendirilmesine yönelik mesleki bilgi ve uygulama becerilerini geliştirmeyi amaçlayan eğitim sürecidir.
@@ -3467,8 +3465,6 @@ Türkiye'de Yangın Güvenlik Uzmanlığı (YGU) sistemine ilişkin düzenlemele
 
 Peki, mühendisler ve mimarlar Yangın Güvenlik Uzmanı (YGU) olabilir mi? Yangın Güvenlik Uzmanlığı (YGU) eğitimi bu meslek gruplarına hangi yetkinlikleri kazandırabilir? YGU eğitimi ile mevcut mühendislik ve mimarlık hizmetleri arasında nasıl bir ilişki vardır?
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Mühendislik ve mimarlık diplomasının hangi YGU seviyesine başvuruya esas olacağı, incelenen YGU yönetmelik TASLAĞININ 5 inci maddesinde sayılmıştır. 2025 BYKHY taslağı ise yapı yangın güvenliğinin teknik kurallarına ilişkin farklı bir metindir. Bu iki taslak meslek yetkisi ve yangın tedbiri bakımından birbirinin yerine kullanılamaz.
-
 ### 1. Yangın Güvenlik Uzmanlığı (YGU) Neden Mühendislik ve Mimarlıkla İlişkilidir?
 
 Bir binanın yangın güvenliği, daha tasarım aşamasında alınan kararlarla şekillenmeye başlar.
@@ -3614,8 +3610,6 @@ Türkiye'de yangın güvenliği periyodik kontrollerine ilişkin kanuni düzenle
 Yangın Güvenlik Uzmanı (YGU) olmak yeni bir kariyer fırsatı sağlayabilir mi? YGU eğitimi almak mesleki gelişim açısından ne ifade eder? Yangın güvenlik uzmanlığı hangi çalışma alanlarıyla ilişkilidir?
 
 Bu sorulara cevap verirken gelecekte oluşabilecek fırsatlarla bugün mevcut olan resmî görev ve yetkileri birbirinden ayırmak gerekir.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): YGU için meslek ve seviye koşulları incelenen 2026 uygulama yönetmeliği TASLAĞINDADIR. 2025 BYKHY yeniden düzenleme taslağındaki kontrol hükümleri de henüz mesleki istihdam veya gelir garantisi oluşturmaz. Resmî uygulamanın fiilen başladığı, yetkili uzman listesi veya işe ilişkin kesin talep oluştuğu bu kaynaklardan çıkarılamaz.
 
 ### 1. Yangın Güvenlik Uzmanlığı (YGU) Neden Önem Kazanıyor?
 
@@ -3784,8 +3778,6 @@ Yangın Güvenlik Uzmanı (YGU) olmak isteyen bir kişinin yapının kullanım �
 Peki, Yangın Güvenlik Uzmanlığı (YGU) eğitimine hazırlanırken hangi konulara çalışılmalı? YGU eğitimine başlamadan önce hangi teknik beceriler geliştirilmelidir? Yangın güvenlik uzmanlığı eğitim müfredatı nasıl incelenmelidir?
 
 Bu rehberde eğitim öncesinde yapılabilecek teknik hazırlıkları sistemli biçimde ele alıyoruz.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, eğitimde temel teknik mevzuat kaynağıdır. 2025 tarihli 99 sayfalık yeni BYKHY TASLAĞI farklı madde numaraları ve bazı farklı kavramlar içerir; eğitim hazırlığı sırasında taslak hükümler mevcut binalara bugün uygulanan zorunlu hükümler olarak sunulmamalıdır.
 
 ### 1. Yangın Güvenlik Uzmanlığı (YGU) Eğitimine Hazırlık Neden Önemlidir?
 
@@ -4001,8 +3993,6 @@ Yangın güvenlik uzmanı (YGU) nasıl olunur sorusunun cevabı, yalnızca bir k
 
 > MEVZUAT DURUMU: 22 Mayıs 2026 tarihli kanun değişikliğiyle yangın güvenliği periyodik kontrollerine ilişkin kanuni çerçeve kurulmuştur. Aşağıdaki seviye, eğitim, sınav, belge ve uygulama ayrıntıları ise YGU yönetmelik TASLAĞIndan aktarılmıştır; kesinleşmiş uygulama kuralı değildir.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Eğitim ve sınav akışı YGU yönetmelik TASLAĞININ 5 ve 9–14 üncü maddelerine dayanmaktadır. Taslak 30 uncu maddede periyodik kontroller için 1 Ocak 2028 başlangıcı öngörse de, nihai düzenlemenin yayımlandığı ve bu tarihin kesin yürürlük tarihi olduğu resmî olarak doğrulanmamıştır. 2025 BYKHY taslağındaki ayrı yürürlük planı bu tarihi kesinleştirmez.
-
 ### 1. Hangi YGU seviyesi benim için uygun?
 
 TASLAK Madde 5, dört uzmanlık seviyesini düzenler. YGU-1, belirli teknikerlik ve itfaiyecilik ön lisans öğrenimlerine; YGU-2, belirtilen mühendislik dalları ile mimarlığa; YGU-K, kimya mühendisliği veya kimya lisans öğrenimine yöneliktir. YGU-3 için genel geçiş yolu, YGU-2 yetki belgesi ve son bir yılda en az iki farklı kullanım sınıfından dört yapıda usulüne uygun yangın güvenlik raporu düzenleme şartını içerir.
@@ -4080,8 +4070,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-basvuru-sartlari
 Yangın Güvenlik Uzmanlığı (YGU) eğitimine kimlerin başvurabileceği sorusu, yalnızca meslek unvanına bakılarak cevaplandırılamaz. Temel öğrenim, başvurulacak uzmanlık seviyesi, varsa uygulama deneyimi ve genel kabul şartları birlikte değerlendirilmelidir. Bir kişinin iş güvenliği uzmanı, itfaiye personeli veya yangın sistemleri konusunda deneyimli olması, kendiliğinden bütün YGU seviyelerine kabul hakkı sağlamaz.
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki meslek eşleştirmeleri ve eğitim başvurusu koşulları, Kitaplık'taki Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağına dayanmaktadır. Nihai yönetmelik ve resmî başvuru duyurusu doğrulanmadan kesin başvuru hakkı olarak yorumlanmamalıdır.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Diploma, unvan ve kabul şartları yalnızca YGU yönetmelik TASLAĞINA göre açıklanır; 2025 BYKHY taslağının yapı kullanım ve tehlike sınıfları adayın eğitim hakkını doğrudan belirlemez. Taslak Madde 5 ve 7 ile istisnai Madde 14 birlikte okunmalı; taslaktan kesin kazanılmış hak sonucu çıkarılmamalıdır.
 
 ### 1. Yangın Güvenlik Uzmanlığı (YGU) başvurusunda önce hangi bilgiye bakılır?
 
@@ -4174,8 +4162,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/isg-uzmanlari-ygu-olabilir-mi
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki YGU seviye ve muafiyet değerlendirmeleri YGU yönetmelik taslağının 5, 7 ve 14. maddelerine dayanır. İş güvenliği uzmanlığına ilişkin mevcut hak ve görevler ise kendi mevzuatı kapsamında kalır.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): İş güvenliği uzmanlığı belgesi YGU seviyesinin otomatik eşdeğeri değildir. YGU başvuru ve muafiyet şartları incelenen YGU yönetmelik TASLAĞINDA düzenlenmiştir. 2025 BYKHY taslağındaki yapı denetimi ve tatbikat hükümleri, İSG belgelerinin YGU yetki belgesine dönüşmesini öngören bir hüküm olarak yorumlanmamalıdır.
-
 ### 1. A sınıfı iş güvenliği uzmanı otomatik YGU olur mu?
 
 Hayır. A sınıfı belge, iş sağlığı ve güvenliği alanında bir yetki sınıfıdır; Yangın Güvenlik Uzmanlığı (YGU) belgesinin yerine geçmez. Örneğin temel öğrenimi makine mühendisliği olan bir A sınıfı iş güvenliği uzmanı taslaktaki YGU-2 meslek listesinde yer alabilir. Buna karşılık başka bir mühendislik dalından mezun olmak, A sınıfı belgenin bulunması nedeniyle aynı otomatik YGU-2 başvuru hakkını doğurmaz.
@@ -4249,8 +4235,6 @@ Yangın Güvenlik Uzmanlığı (YGU) eğitim seviyeleri, yalnızca ders saatleri
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki bütün seviye, saat, yapı sınırı ve periyot bilgileri yönetmelik taslağındaki düzenlemelerdir. Bunlar yürürlüğe girmiş kesin yetki olarak kullanılmamalıdır.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Buradaki YGU-1/2/3/K görev sınırları ve 3–5 yıllık kontrol periyotları YGU yönetmelik TASLAĞININ EK-1'indendir. 2025 tarihli BYKHY taslağındaki periyodik kontrol maddesi 131, kontrol periyotlarına ilişkin eki ise Ek-16 olarak düzenlenmiştir. Farklı taslaklara ait EK-1 ve Ek-16 aynı tablo sayılmamalı; YGU taslağının EK-1'indeki 'YGU-4' ifadesi de kesin seviye olarak benimsenmemelidir.
-
 ### 1. YGU-1 hangi öğrenim grubu için öngörülüyor?
 
 YGU-1, taslak Madde 5'te sayılan makine, inşaat, elektrik ve elektrik-elektronik teknikerleri ile itfaiyecilik alanındaki iki yıllık ön lisans mezunları için öngörülmektedir. Taslak Madde 6/2-b, uygun kullanım sınıfı ve sınırlar dahilinde YGU-1'in periyodik kontrol görevlerinde yer alabileceğini belirtir; proje uygunluğu, yapı kullanma izni ve belirli tatbikat planlama görevleri ise YGU-2 veya YGU-3'e ayrılmıştır.
@@ -4298,10 +4282,6 @@ EK-1'de aynı kullanım sınıfında farklı bina özelliklerine göre kontrol p
 
 EK-1 tablosunun satırı belirlenmeden yalnızca “bina küçük”, “tesis sanayi içinde” veya “burası otel” denilerek kesin yetki kararı verilmemelidir. Karma kullanımlı yapılara ilişkin tablo notları da dikkate alınmalıdır.
 
-> Kaynak metin uyarısı: İncelenen EK-1'de yüksek tehlikeli depolama amaçlı tesisler satırında “YGU-3 ve YGU-4” ibaresi bulunmaktadır. Oysa Madde 5'te YGU-4 tanımlanmamıştır; başka ilgili satırlarda YGU-K yazılıdır. Bu satır taslak içi tutarsızlık taşıdığından, yayımlanmış nihai metin olmadan “YGU-4 diye yeni bir seviye vardır” sonucu çıkarılamaz.
-
-> BYKHY ile YGU ekleri birbirinden farklıdır: 2025 tarihli BYKHY taslağının Madde 131'inde yapıların yangın güvenlik kontrolünün çerçevesi ve Ek-16'ya gönderme; YGU taslağının EK-1'inde ise yapı sınıfı/sınırları, periyotlar ve uzmanlık seviyeleri bulunmaktadır. Bir metinde geçen periyodu diğerinin kesin yürürlük kuralı saymak doğru değildir.
-
 ### 7. Saha örneği: aynı işletmede farklı bina kullanımları
 
 Bir sanayi parselinde üretim binası, idari büro ve tehlikeli madde deposu bulunabilir. Yangın Güvenlik Uzmanı (YGU) görevine ilişkin uygunluk değerlendirmesinde önce bu bölümlerin gerçekten nasıl kullanıldığı, ruhsat/proje kayıtları ve hangi yapısal sınıra girdiği belirlenir. Üretim alanına verilen YGU yetki kararı, komşu idari bloğa otomatik uygulanamaz; depolamanın tehlike düzeyi de ayrı incelenir.
@@ -4342,8 +4322,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-egitimi-veren-universiteler
 Yangın Güvenlik Uzmanlığı (YGU) eğitimi veren üniversiteleri araştırırken en önemli konu, üniversitenin tanınmışlığı değil, ilgili uzmanlık programını düzenlemek için resmî olarak yetkilendirilmiş olmasıdır. Bir üniversitenin yangın güvenliği, acil durum veya BYKHY konusunda sertifika programı açabilmesi, o programın doğrudan resmî Yangın Güvenlik Uzmanlığı (YGU) eğitimi olduğu anlamına gelmez.
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki kurum türleri, yetkilendirme şartları ve eğitim yöntemi, YGU yönetmelik taslağının 9 ve 15. maddelerine dayanmaktadır. Yetkilendirilmiş üniversitelerin kesin listesi ve fiilen açılmış programlar yalnızca resmî duyurulardan doğrulanmalıdır.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): YGU TASLAĞI Madde 15'te belirtilen olası eğitici kuruluş türleri, fiilen yetkilendirilmiş eğitim veren üniversitelerin listesi değildir. 2025 BYKHY taslağında yer alan eğitim/yangın denetimi hükümleri de herhangi bir üniversiteye YGU eğitimi verme yetkisi tanındığını göstermez.
 
 ### 1. YGU eğitimi veren üniversite nasıl yetkilendirilebilir?
 
@@ -4412,8 +4390,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-egitim-kurumlari
 
 > MEVZUAT DURUMU – TASLAK: Eğitim kurumlarının yetkilendirilmesi ve ders yöntemleri yönetmelik taslağının 9 ve 15. maddelerinden aktarılmaktadır. Kesin eğitim yeri ve takvimi için resmî ilan gereklidir.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Teorik ve uygulamalı eğitime ilişkin açıklamalar YGU yönetmelik TASLAĞI Madde 9'a dayanır. 2025 BYKHY taslağının genel yangın eğitimi ve tatbikata ilişkin hükümleri, resmî YGU eğitim merkezi açıldığı veya belirli şehirlerde eğitimlerin başladığı anlamına gelmez.
-
 ### 1. Yetkili YGU eğitim kurumu hangi tür kuruluş olabilir?
 
 TASLAK Madde 15, üniversitelerin yanında kamu kurumu niteliğindeki meslek kuruluşları ve bunların ticari iştirakleri için de yetkilendirme yolu öngörmektedir. Bu hüküm, herhangi bir özel kursun kendiliğinden resmî Yangın Güvenlik Uzmanlığı (YGU) eğitimi vereceği anlamına gelmez.
@@ -4479,8 +4455,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-egitim-basvurusu-ve-belgele
 Yangın Güvenlik Uzmanlığı (YGU) eğitim başvurusunun doğru yapılabilmesi için kişinin önce başvuracağı uzmanlık seviyesini ve o seviyeye ilişkin öğrenim koşullarını belirlemesi gerekir. Başvuru dosyasının hazırlanması, teorik eğitimin alınması, uygulama eğitimi, sınav ve yetki belgesinin düzenlenmesi birbirinden farklı işlemlerdir. Bu aşamalardan birinin tamamlanması, diğerlerinin kendiliğinden gerçekleştiği anlamına gelmez.
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki başvuru usulleri, incelenen YGU yönetmelik taslağının 5, 9, 10, 11 ve 13. maddelerine dayanmaktadır. Kurum, takvim ve belge biçimleri bakımından kesin işlem bilgisi için yürürlüğe girmiş metin ve resmî ilan gereklidir.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Adayın eğitim başvurusunda esas alınan YGU TASLAĞI Madde 10'dur; eksik belge süresi Madde 11/4'te düzenlenmiştir. YGU taslağı EK-5 yapı periyodik kontrol başvuru ve taahhütname örneklerini içerir; eğitim adayı evrak listesi değildir. 2025 BYKHY taslağındaki kontrol başvuruları da ayrı işlemlerdir.
 
 ### 1. Başvuruya başlanmadan önce uzmanlık seviyesi belirlenir
 
@@ -4573,8 +4547,6 @@ Yangın Güvenlik Uzmanlığı (YGU) eğitim ücreti, eğitim tarihi ve kontenja
 
 > MEVZUAT DURUMU – TASLAK: Ücret belirleme ve duyuru usulleri, YGU yönetmelik taslağının 9, 10, 12 ve ilgili diğer hükümlerine dayanmaktadır. Makale 5 Kasım 2026 tarihi itibarıyla doğrulanmış bir eğitim bedeli veya kurum bazlı kesin takvim göstermemektedir.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Ücret belirleme usulleri YGU yönetmelik TASLAĞI Madde 12'de yer alır; fiilen ilan edilmiş bir eğitim bedeli veya başvuru takvimi doğrulanmadığından tutar belirtilmemiştir. 2025 BYKHY taslağının yapı kontrol hükümleri eğitim, sınav ve yetki belgesi ücretinin resmî tarifesi olarak gösterilmemelidir.
-
 ### 1. YGU eğitim bedelini kim belirleyebilir?
 
 TASLAK Madde 12/1 Bakanlığın düzenlediği eğitimlerin bedelinin Bakanlıkça, yetkilendirilmiş eğitici kuruluşlarca düzenlenen eğitimin bedelinin ise ilgili eğitici kuruluşlarca belirlenmesini öngörür. Bu yaklaşım, bütün üniversitelerin ve bütün YGU seviyelerinin kesin olarak aynı ücreti alacağı anlamına gelmez.
@@ -4646,8 +4618,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-sinav-rehberi
 Yangın Güvenlik Uzmanlığı (YGU) sınavı, yangın güvenlik uzmanı olarak resmî yetkilendirmeye ulaşmak isteyen kişilerin eğitim sonrasında karşılaşacağı bilgi değerlendirme aşamasıdır. Eğitim süreci, sınav başarısı ve yetki belgesinin düzenlenmesi birbirine bağlı olsa da aynı işlem değildir. Bu nedenle YGU sınavına hazırlanırken hem teknik konular hem de başvuru, itiraz ve yeniden sınava girme hükümleri ayrı değerlendirilmelidir.
 
 > MEVZUAT DURUMU – TASLAK: Bu makalede verilen soru sayıları, başarı koşulu, itiraz ve yeniden sınava girme hükümleri, özgün YGU yönetmelik taslağının 11. maddesinden alınmıştır. Bunlar yayımlanmış nihai sınav kılavuzu değildir.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): En az 50/25 soru, 70 başarı puanı, itiraz ve tekrar sınav hükümleri YGU TASLAĞI Madde 11'in önerileridir. Yürürlükteki BYKHY veya 2025 BYKHY taslağı bu uzmanlık sınavının kesin takvimi ya da nihai sınav kılavuzu değildir. Resmî ilan doğrulanmadıkça kesin uygulama koşulu gibi sunulmamalıdır.
 
 ### 1. YGU sınavının kanuni ve taslak dayanağı
 
@@ -4742,8 +4712,6 @@ Yangın Güvenlik Uzmanı (YGU) belgesi, genel yangın güvenliği kurs sertifik
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki beş yıllık geçerlilik, elektronik doğrulama, yenileme ve askı koşulları özgün YGU yönetmelik taslağının 13. maddesine dayanmaktadır. Yayımlanmış nihai belge düzeni olarak sunulmamaktadır.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Elektronik doğrulama, beş yıllık yetki belgesi süresi ve yenileme usulleri YGU TASLAĞI Madde 13'te bulunmaktadır. Bu yetki belgesinin fiilen düzenlenmeye başladığı ya da 2025 BYKHY taslağının yayımlanmasıyla kendiliğinden geçerli hale geldiği varsayılamaz.
-
 ### 1. YGU yetki belgesi hangi işlemi gösterir?
 
 Yangın Güvenlik Uzmanı (YGU) yetki belgesi, kişinin ilgili seviyede mevzuatla tanımlanan görevleri üstlenebilecek resmî yetkilendirme durumunu gösterir. Taslak Madde 13/1, belgenin Bakanlıkça elektronik ortam üzerinden doğrulanabilir biçimde düzenlenmesini öngörür. Bu, belgenin doğrulanabilirliğinin önemini gösterir; ancak kesin erişim ekranı veya belge numarası sisteminin fiilen kullanıldığını kanıtlamaz.
@@ -4816,8 +4784,6 @@ Yangın Güvenlik Uzmanlığı (YGU) eğitiminde teori ve uygulama iki ayrı ö�
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki eğitim yöntemi ve devam koşulları, özgün YGU yönetmelik taslağı Madde 9'daki önerilerdir. Kendi başına yürürlüğe girmiş bir eğitim duyurusu değildir.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): YGU eğitiminin iki aşamalı yapısı ve uygulama gözetimi YGU yönetmelik TASLAĞI Madde 9'a dayanır. 2025 tarihli BYKHY yeniden düzenleme TASLAĞI, yapıların yangın güvenliği koşullarını ayrıca ele alır; bu yeni taslaktaki teknik değerler ve madde numaraları yürürlükteki BYKHY olarak öğretilmemelidir.
-
 ### 1. Teorik YGU eğitimi hangi amacı taşır?
 
 Yangın bilimi, BYKHY'nin sistematiği, yapı ve malzeme davranışı, kaçış düzeni, yangın algılama/söndürme sistemleri ve raporlama bilgileri teorik eğitimin temel alanlarıdır. Örneğin yangın kapısının neden gerekli olduğu ve bir yangın bölmesinin sürekliliğinin nasıl korunduğu anlaşılmadan sahada doğru değerlendirme yapmak zordur.
@@ -4887,8 +4853,6 @@ Bu makalede EK-2'nin modülleri tek tek özetlenirken yönetmelik taslağının 
 
 > MEVZUAT DURUMU – TASLAK: Aşağıdaki modül adları ve saatler Kitaplık'taki YGU yönetmelik taslağı EK-2 sürümünden alınmıştır. Yürürlükteki kesin eğitim müfredatı veya ilan edilmiş kurs takvimi olarak yorumlanmamalıdır.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): EK-2 modül listesi incelenen YGU yönetmelik TASLAĞININ eğitim ekidir. Bu taslak 'Bina Yangın Yönetmeliği (BYY)' adını kullanmakta ve henüz kesinleşmemiş madde sistemine atıflar içermektedir. 2025 tarihli 99 sayfalık BYKHY taslağındaki konu ve madde numaralarıyla eşleşme ayrıca kontrol edilmeli, bir metindeki numara diğerine doğrudan aktarılmamalıdır.
-
 ### 1. YGU eğitiminde ortak başlangıç modülleri
 
 EK-2'de Modül 1-A Yangın Bilimi (2 saat), Modül 1-B Yasal Çerçeve (4 saat) olarak yer alır. Bu iki modül YGU-1, YGU-2 ve YGU-K için ortaktır. Yangın Bilimi, yanma ve yangın davranışına ilişkin temel kavramları; Yasal Çerçeve, ulusal yangın mevzuatını okuma, yetki ve etik konularını ele alır.
@@ -4950,8 +4914,6 @@ Modül 10 Uluslararası Doküman ve Standart Okuma, YGU-3 için 16 saattir. Bura
 
 EK-2 modüllerinin seviye bazında toplamı: YGU-1 = 65 saat, YGU-2 = 85 saat, YGU-3 = 40 saat ek eğitim, YGU-K = 35 saat. Modül 6-B'nin 24 saati, YGU-3 ve YGU-K hesaplarında ayrı ayrı yer alır; bir kez ortak modül gibi toplanıp ikiye bölünmez.
 
-> Mevzuat sürümü örneği: YGU taslağı eğitim müfredatında atıf yapılan 'BYY' ibaresi, bugün yürürlükteki 2007 tarihli BYKHY ile aynı madde numaralarını kullandığı varsayılabilecek bir referans değildir. 2025 tarihli 99 sayfalık BYKHY taslağında tatbikat Madde 132'de yer alırken YGU taslağı Madde 6/1-ç'de BYY Madde 134/2'ye atıf yapılmıştır. Bu tür uyuşmazlıklar konu temelli açıklanmalı, numara eşitliği varsayılmamalıdır.
-
 ### 8. Teorik müfredat ile uygulama eğitimi ayrı süreçlerdir
 
 TASLAK Madde 9, teorik eğitimin Bakanlık veya Bakanlıkça yetkilendirilen eğitici kuruluşça, uygulamanın ise mahalli itfaiye teşkilatınca verilmesini öngörmektedir. Teorik eğitim yüz yüze veya uzaktan yapılabilir; katılım belgesi için en az %90 devam şartı önerilmiştir.
@@ -4996,8 +4958,6 @@ Yangın Güvenlik Uzmanı (YGU) ne iş yapar sorusu, yangın güvenliğine iliş
 
 > MEVZUAT DURUMU: 7579 sayılı Kanun'la getirilen yangın güvenliği periyodik kontrol çerçevesi yürürlüktedir. Aşağıdaki dört görev türü ve uzmanlık seviyesi dağılımı, YGU yönetmelik TASLAĞI Madde 6 hükümlerine dayanmaktadır.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): KAYNAK SÜRÜMÜ UYUŞMAZLIĞI: YGU TASLAĞI Madde 6/1-ç, tatbikat için 'BYY Madde 134/2'ye gönderme yapıyor; karşılaştırılan 2025 tarihli 99 sayfalık BYKHY TASLAĞINDA ilgili tatbikat hükmü Madde 132/2'de. Aynı 2025 taslağında Madde 134/2 tatbikat değil, ödenek konusudur. Bu nedenle numaralar kesinleşmiş ortak madde atfı olarak gösterilmez; nihai metinle uyumlandırılmalıdır.
-
 ### 1. Proje uygunluğuna esas rapor hazırlama
 
 TASLAK Madde 6/1-a, yangın algılama, söndürme ve tahliye projeleri ile yangın tedbirlerinin gösterildiği diğer projelerin ilgili yangın mevzuatına uygunluğuna ilişkin, uygunluk görüşüne esas rapor düzenlenmesini öngörür. Burada YGU'nun işi, proje müellifliği ve bütün teknik onay yetkilerini üstlenmek olarak tanımlanmamıştır.
@@ -5021,8 +4981,6 @@ Kontrolün başlaması, yapının onaylı projeleri, kullanım izni, varsa tadil
 TASLAK Madde 6/1-ç, ilgili Bina Yangın Yönetmeliği hükmünde belirtilen yapıların tatbikatının yapı sahibi, yöneticisi veya görevlendirilen birim amirinin sorumluluğunda birlikte planlanmasını öngörür. Bu, YGU'nun bütün işyerlerinin acil durum yönetiminden tek başına sorumlu olduğu anlamına gelmez.
 
 Tatbikat planlamasının yeri, amacı ve ilgili görev dağılımı ayrı belirlenmelidir. İşyerinin iş sağlığı ve güvenliği kapsamındaki acil durum yükümlülükleri bu nedenle kendiliğinden ortadan kalkmaz.
-
-> Tatbikat hükmüne ilişkin özgün kaynak farkı: İncelenen YGU taslağı Madde 6/1-ç, BYY Madde 134/2'ye atıf yapmaktadır. Buna karşılık 2025 tarihli 99 sayfalık BYKHY taslağında yangın tatbikatı Madde 132/2'de düzenlenmiş, Madde 134 ödeneğe ayrılmıştır. Atıf güncel BYKHY maddesi olarak gösterilmemeli; taslaklar arasındaki uyumsuzluk nihai düzenlemede giderilmelidir.
 
 ### 5. Hangi seviyeler hangi görevleri yürütür?
 
@@ -5071,8 +5029,6 @@ Kaynakça:
 Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-ile-isg-uzmanligi-farklari
 
 Yangın Güvenlik Uzmanlığı (YGU) ile iş güvenliği uzmanlığı benzer yangın tehlikeleri üzerinde çalışabilse de amaçları, mevzuatları ve resmî yetkilendirme süreçleri aynı değildir. Bir işyerindeki yangın riski hem çalışanların güvenliği hem de yapının yangından korunma koşulları açısından değerlendirilebilir; ancak bu iki değerlendirmenin belge türleri ve görev sınırları birbirine karıştırılmamalıdır.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): İSG mevzuatından doğan görevler ile YGU taslağının Madde 6'daki görevleri ayrıdır. 2025 BYKHY taslağı Madde 131–132'de yapı kontrolü ve tatbikatı düzenler; ancak bu taslak, iş güvenliği uzmanlığı sınıfını YGU resmî yetkisine eşitlemez. Her görev için yürürlükteki kendi düzenlemesi esas alınmalıdır.
 
 ### 1. İş güvenliği uzmanlığının bakış açısı
 
@@ -5156,8 +5112,6 @@ Yangın Güvenlik Uzmanı (YGU) hangi binalarda görev alabilir sorusu, uzmanlı
 
 > MEVZUAT DURUMU: 7579 sayılı Kanun'la 3194 sayılı İmar Kanunu'na eklenen periyodik kontrol çerçevesi yürürlüktedir. Aşağıdaki 3–5 yıllık periyotlar, bina sınırları ve YGU-1/2/3/K ayrımları ise incelenen YGU yönetmelik taslağının EK-1'ine dayanmaktadır; kesinleşmiş kontrol takvimi veya yetki belgesi kapsamı değildir.
 
-> MEVZUAT SÜRÜM NOTU (05.11.2026): ÇAPRAZ DENETİM: İncelenen 2025 tarihli 99 sayfalık BYKHY TASLAĞINDA yapıların kontrolü Madde 131, tatbikat Madde 132/2, kontrol periyotları Ek-16'dadır. Buna karşılık YGU TASLAĞINDA dayanak için BYY Madde 133, tatbikat için BYY Madde 134/2 yazmakta; YGU yetki/periyot tablosu EK-1'de yer almaktadır. Bu atıf farklılıkları çözümlenmiş değildir. Hiçbir taslak tablo güncel kesin görev yetkisi olarak kullanılamaz.
-
 ### 1. Yangın Güvenlik Uzmanlığı (YGU) yetkisi otomatik olarak her binayı kapsar mı?
 
 Hayır. Kanuni çerçevede yangın güvenliği periyodik kontrolleri belediyelerin ilgili itfaiye teşkilatı tarafından veya itfaiyenin gerekli gördüğü durumlarda, öngörülen eğitim ve sınavı tamamlayarak yetkilendirilmiş yangın güvenlik uzmanları tarafından yapılabilir. Yangın Güvenlik Uzmanı (YGU) olmak, tek başına her yapıya gidip resmî yangın güvenlik raporu düzenleme hakkının sınırsız bulunduğu anlamına gelmez.
@@ -5216,8 +5170,6 @@ Yangın Güvenlik Uzmanı (YGU) incelemesinde yapının inşaat veya kullanım i
 
 Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) ile yeni BYKHY değişiklik taslağı birbirine karıştırılmamalıdır. İncelenen YGU taslağı bazı yerlerde “Bina Yangın Yönetmeliği (BYY)” ve henüz kesinleşmemiş madde numaraları kullanmaktadır. Bu ifadelerin yürürlükteki BYKHY hükümleri olduğu varsayılamaz.
 
-> Taslak sürümleri arasında doğrudan atıf eşleşmiyor: 2025 BYKHY taslağında yangın güvenliği denetim ve kontrolü Madde 131, tatbikat Madde 132/2; periyotların gösterildiği ek Ek-16'dır. İncelenen YGU taslağında ise dayanak için BYY Madde 133, tatbikat için Madde 134/2 ve periyot/yetki için EK-1 kullanılmaktadır. İki belgenin madde ve ek numaraları arasında doğrulanmamış bir köprü kurulmamalıdır. YGU taslağının Madde 30'unda yer alan 1 Ocak 2028 tarihi, nihai yayımlama teyidi olmadan kesin başlangıç tarihi olarak aktarılamaz.
-
 ### 8. Periyodik kontrol ile diğer YGU görevleri aynı mı?
 
 Hayır. TASLAK Madde 6 birbirinden farklı dört görev öngörür: uygunluk görüşüne esas proje raporu; yapı kullanma izni aşamasında uygunluk görüşüne esas rapor; EK-1'e giren yapılarda periyodik kontrol; belirli yapılarda tatbikatın birlikte planlanması. YGU seviyesinin bu iş türlerine ilişkin sınırları farklıdır.
@@ -5265,8 +5217,6 @@ Kaynak sayfa: https://ygurehberi.com/ygu-egitimi/ygu-mesleginin-gelecegi
 Yangın Güvenlik Uzmanlığı (YGU) mesleğinin geleceği, yalnızca kaç kişinin yeni bir yetki belgesi alacağıyla açıklanamaz. Yapıların yangın güvenliğine ilişkin periyodik kontrol ihtiyacının nasıl uygulanacağı, mahalli itfaiye teşkilatlarının rolü, eğitim ve sınav sisteminin ne zaman işler hale geleceği ve yapı sahiplerinin teknik belge düzeni, bu alanın gelişimini etkileyecektir.
 
 Bu nedenle yangın güvenlik uzmanı olmak isteyen kişilere iş garantisi, sabit kazanç veya bütün işletmelerde zorunlu kadro gibi doğrulanmamış vaatlerde bulunmak yerine, kanuni çerçeve, taslak uygulama modeli ve olası mesleki gelişme alanları ayrı değerlendirilmelidir.
-
-> MEVZUAT SÜRÜM NOTU (05.11.2026): Kanuni periyodik kontrol çerçevesi ile YGU yönetmelik TASLAĞININ gelecekteki eğitim ve görev koşulları birbirinden ayrılmalıdır. 2025 tarihli BYKHY yeniden düzenleme taslağının kontrol yaklaşımı mesleki gelişim senaryolarına katkı sağlayabilir, ancak yürürlükteki otomatik istihdam yükümlülüğü veya pazar büyüklüğü kanıtı değildir.
 
 ### 1. YGU mesleğinin kanuni zemini ne durumda?
 

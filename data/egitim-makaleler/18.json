@@ -4,11 +4,6 @@
   "ozet": "Yangın Güvenlik Uzmanlığı (YGU) ile iş güvenliği uzmanlığı benzer yangın tehlikeleri üzerinde çalışabilse de amaçları, mevzuatları ve resmî yetkilendirme süreçleri aynı değildir. Bir işyerindeki yangın riski hem çalışanların güvenliği hem de yapının yangından korunma koşulları açısından değerlendirilebilir; ancak bu iki değerlendirmenin belge türleri ve görev sınırları birbirine karıştırılmamalıdır.",
   "bloklar": [
     {
-      "tip": "not",
-      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
-      "metin": "İSG mevzuatından doğan görevler ile YGU taslağının Madde 6'daki görevleri ayrıdır. 2025 BYKHY taslağı Madde 131–132'de yapı kontrolü ve tatbikatı düzenler; ancak bu taslak, iş güvenliği uzmanlığı sınıfını YGU resmî yetkisine eşitlemez. Her görev için yürürlükteki kendi düzenlemesi esas alınmalıdır."
-    },
-    {
       "tip": "h2",
       "id": "1-is-guvenligi-uzmanliginin-bakis-acisi",
       "metin": "1. İş güvenliği uzmanlığının bakış açısı"

@@ -9,11 +9,6 @@
       "metin": "7579 sayılı Kanun'la getirilen yangın güvenliği periyodik kontrol çerçevesi yürürlüktedir. Aşağıdaki dört görev türü ve uzmanlık seviyesi dağılımı, YGU yönetmelik TASLAĞI Madde 6 hükümlerine dayanmaktadır."
     },
     {
-      "tip": "not",
-      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
-      "metin": "KAYNAK SÜRÜMÜ UYUŞMAZLIĞI: YGU TASLAĞI Madde 6/1-ç, tatbikat için 'BYY Madde 134/2'ye gönderme yapıyor; karşılaştırılan 2025 tarihli 99 sayfalık BYKHY TASLAĞINDA ilgili tatbikat hükmü Madde 132/2'de. Aynı 2025 taslağında Madde 134/2 tatbikat değil, ödenek konusudur. Bu nedenle numaralar kesinleşmiş ortak madde atfı olarak gösterilmez; nihai metinle uyumlandırılmalıdır."
-    },
-    {
       "tip": "h2",
       "id": "1-proje-uygunluguna-esas-rapor-hazirlama",
       "metin": "1. Proje uygunluğuna esas rapor hazırlama"
@@ -64,11 +59,6 @@
     {
       "tip": "p",
       "metin": "Tatbikat planlamasının yeri, amacı ve ilgili görev dağılımı ayrı belirlenmelidir. İşyerinin iş sağlığı ve güvenliği kapsamındaki acil durum yükümlülükleri bu nedenle kendiliğinden ortadan kalkmaz."
-    },
-    {
-      "tip": "not",
-      "etiket": "Tatbikat hükmüne ilişkin özgün kaynak farkı",
-      "metin": "İncelenen YGU taslağı Madde 6/1-ç, BYY Madde 134/2'ye atıf yapmaktadır. Buna karşılık 2025 tarihli 99 sayfalık BYKHY taslağında yangın tatbikatı Madde 132/2'de düzenlenmiş, Madde 134 ödeneğe ayrılmıştır. Atıf güncel BYKHY maddesi olarak gösterilmemeli; taslaklar arasındaki uyumsuzluk nihai düzenlemede giderilmelidir."
     },
     {
       "tip": "h2",

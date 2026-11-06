@@ -9,11 +9,6 @@
       "metin": "Aşağıdaki bütün seviye, saat, yapı sınırı ve periyot bilgileri yönetmelik taslağındaki düzenlemelerdir. Bunlar yürürlüğe girmiş kesin yetki olarak kullanılmamalıdır."
     },
     {
-      "tip": "not",
-      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
-      "metin": "Buradaki YGU-1/2/3/K görev sınırları ve 3–5 yıllık kontrol periyotları YGU yönetmelik TASLAĞININ EK-1'indendir. 2025 tarihli BYKHY taslağındaki periyodik kontrol maddesi 131, kontrol periyotlarına ilişkin eki ise Ek-16 olarak düzenlenmiştir. Farklı taslaklara ait EK-1 ve Ek-16 aynı tablo sayılmamalı; YGU taslağının EK-1'indeki 'YGU-4' ifadesi de kesin seviye olarak benimsenmemelidir."
-    },
-    {
       "tip": "h2",
       "id": "1-ygu-1-hangi-ogrenim-grubu-icin-ongoruluyor",
       "metin": "1. YGU-1 hangi öğrenim grubu için öngörülüyor?"
@@ -147,16 +142,6 @@
     {
       "tip": "p",
       "metin": "EK-1 tablosunun satırı belirlenmeden yalnızca “bina küçük”, “tesis sanayi içinde” veya “burası otel” denilerek kesin yetki kararı verilmemelidir. Karma kullanımlı yapılara ilişkin tablo notları da dikkate alınmalıdır."
-    },
-    {
-      "tip": "not",
-      "etiket": "Kaynak metin uyarısı",
-      "metin": "İncelenen EK-1'de yüksek tehlikeli depolama amaçlı tesisler satırında “YGU-3 ve YGU-4” ibaresi bulunmaktadır. Oysa Madde 5'te YGU-4 tanımlanmamıştır; başka ilgili satırlarda YGU-K yazılıdır. Bu satır taslak içi tutarsızlık taşıdığından, yayımlanmış nihai metin olmadan “YGU-4 diye yeni bir seviye vardır” sonucu çıkarılamaz."
-    },
-    {
-      "tip": "not",
-      "etiket": "BYKHY ile YGU ekleri birbirinden farklıdır",
-      "metin": "2025 tarihli BYKHY taslağının Madde 131'inde yapıların yangın güvenlik kontrolünün çerçevesi ve Ek-16'ya gönderme; YGU taslağının EK-1'inde ise yapı sınıfı/sınırları, periyotlar ve uzmanlık seviyeleri bulunmaktadır. Bir metinde geçen periyodu diğerinin kesin yürürlük kuralı saymak doğru değildir."
     },
     {
       "tip": "h2",

@@ -13,11 +13,6 @@
       "metin": "Aşağıdaki modül adları ve saatler Kitaplık'taki YGU yönetmelik taslağı EK-2 sürümünden alınmıştır. Yürürlükteki kesin eğitim müfredatı veya ilan edilmiş kurs takvimi olarak yorumlanmamalıdır."
     },
     {
-      "tip": "not",
-      "etiket": "MEVZUAT SÜRÜM NOTU (05.11.2026)",
-      "metin": "EK-2 modül listesi incelenen YGU yönetmelik TASLAĞININ eğitim ekidir. Bu taslak 'Bina Yangın Yönetmeliği (BYY)' adını kullanmakta ve henüz kesinleşmemiş madde sistemine atıflar içermektedir. 2025 tarihli 99 sayfalık BYKHY taslağındaki konu ve madde numaralarıyla eşleşme ayrıca kontrol edilmeli, bir metindeki numara diğerine doğrudan aktarılmamalıdır."
-    },
-    {
       "tip": "h2",
       "id": "1-ygu-egitiminde-ortak-baslangic-modulleri",
       "metin": "1. YGU eğitiminde ortak başlangıç modülleri"
@@ -198,11 +193,6 @@
     {
       "tip": "p",
       "metin": "EK-2 modüllerinin seviye bazında toplamı: YGU-1 = 65 saat, YGU-2 = 85 saat, YGU-3 = 40 saat ek eğitim, YGU-K = 35 saat. Modül 6-B'nin 24 saati, YGU-3 ve YGU-K hesaplarında ayrı ayrı yer alır; bir kez ortak modül gibi toplanıp ikiye bölünmez."
-    },
-    {
-      "tip": "not",
-      "etiket": "Mevzuat sürümü örneği",
-      "metin": "YGU taslağı eğitim müfredatında atıf yapılan 'BYY' ibaresi, bugün yürürlükteki 2007 tarihli BYKHY ile aynı madde numaralarını kullandığı varsayılabilecek bir referans değildir. 2025 tarihli 99 sayfalık BYKHY taslağında tatbikat Madde 132'de yer alırken YGU taslağı Madde 6/1-ç'de BYY Madde 134/2'ye atıf yapılmıştır. Bu tür uyuşmazlıklar konu temelli açıklanmalı, numara eşitliği varsayılmamalıdır."
     },
     {
       "tip": "h2",
