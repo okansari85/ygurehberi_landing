@@ -205,28 +205,6 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
     </div>
   </section>
 
-  <!-- YGU EĞİTİMİ (Oğuz'un tasarımı, 5 Kasım 2026): tüm öğeler eğitim rehberine gider -->
-  <section id="ygu-egitimi" class="bolum ana-egitim" aria-labelledby="egitim-baslik">
-    <div class="wrap">
-      <div class="ae-kart">
-        <NuxtLink :to="EGITIM_REHBERI.yol" class="ae-gorsel" tabindex="-1" aria-hidden="true">
-          <img :src="`/img/${ANA_EGITIM.gorsel}.webp`" :alt="ANA_EGITIM.alt" width="758" height="738" loading="lazy">
-        </NuxtLink>
-        <div class="ae-ic">
-          <span class="ae-ust"><span class="vurgu">{{ ANA_EGITIM.ust }}</span> | {{ ANA_EGITIM.ustEk }}</span>
-          <h2 id="egitim-baslik">{{ ANA_EGITIM.baslik }}</h2>
-          <p>{{ ANA_EGITIM.metin }}</p>
-          <ul class="ae-kartlar">
-            <li v-for="k in ANA_EGITIM.kartlar" :key="k.ad">
-              <NuxtLink :to="EGITIM_REHBERI.yol" class="ae-mini"><Ikon :ad="k.ikon" /><span>{{ k.ad }}</span></NuxtLink>
-            </li>
-          </ul>
-          <NuxtLink :to="EGITIM_REHBERI.yol" class="btn btn-amber ae-dugme">{{ ANA_EGITIM.dugme }} <Ikon ad="ok" /></NuxtLink>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- YGU'NUN GÖREVLERİ -->
   <section id="gorevler" class="bolum bolum-gri" aria-labelledby="gorev-baslik">
     <div class="wrap">
@@ -354,6 +332,28 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
           </div>
         </li>
       </ul>
+    </div>
+  </section>
+
+  <!-- YGU EĞİTİMİ (Oğuz'un tasarımı, 5 Kasım 2026): tüm öğeler eğitim rehberine gider -->
+  <section id="ygu-egitimi" class="bolum ana-egitim" aria-labelledby="egitim-baslik">
+    <div class="wrap">
+      <div class="ae-kart">
+        <NuxtLink :to="EGITIM_REHBERI.yol" class="ae-gorsel" tabindex="-1" aria-hidden="true">
+          <img :src="`/img/${ANA_EGITIM.gorsel}.webp`" :alt="ANA_EGITIM.alt" width="758" height="738" loading="lazy">
+        </NuxtLink>
+        <div class="ae-ic">
+          <span class="ae-ust"><span class="vurgu">{{ ANA_EGITIM.ust }}</span> | {{ ANA_EGITIM.ustEk }}</span>
+          <h2 id="egitim-baslik">{{ ANA_EGITIM.baslik }}</h2>
+          <p>{{ ANA_EGITIM.metin }}</p>
+          <ul class="ae-kartlar">
+            <li v-for="k in ANA_EGITIM.kartlar" :key="k.ad">
+              <NuxtLink :to="EGITIM_REHBERI.yol" class="ae-mini"><Ikon :ad="k.ikon" /><span>{{ k.ad }}</span></NuxtLink>
+            </li>
+          </ul>
+          <NuxtLink :to="EGITIM_REHBERI.yol" class="btn btn-amber ae-dugme">{{ ANA_EGITIM.dugme }} <Ikon ad="ok" /></NuxtLink>
+        </div>
+      </div>
     </div>
   </section>
 </template>
