@@ -673,7 +673,7 @@ Not: Gösterilen süreler, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol U
 
 ## Konular
 
-- [YGU Nedir?](https://ygurehberi.com/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir): Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.
+- [YGU Nedir?](https://ygurehberi.com/ygu-hakkinda): Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.
 - [Nasıl YGU Olunur?](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur): YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.
 - [YGU Seviyeleri](https://ygurehberi.com/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri): YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.
 - [Görev ve Sorumluluklar](https://ygurehberi.com/yangin-guvenlik-uzmani-gorevleri): YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.

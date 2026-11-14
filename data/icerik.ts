@@ -76,7 +76,7 @@ export const HERO_KART_MADDELER: { ikon: Ikon; metin: string }[] = [
 // Ana sayfadaki kayan kutular (slider). İlk 6 kartın metni ve görseli Oğuz'un 1 Kasım 2026 tasarımından (design/ana-sayfa-kartlar.jpeg);
 // bu görsellerin rozeti resmin içinde. Son ikisinde tasarım yok: mevcut görsel + `rozet` (ikon kodla çizilir).
 export const HIZLI_KARTLAR: { ikon: Ikon; baslik: string; metin: string; to: string; gorsel: string; rozet?: boolean }[] = [
-  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir', gorsel: '/img/kart-ygu-nedir.webp' },
+  { ikon: 'belge', baslik: 'YGU Nedir?', metin: 'Yangın güvenlik uzmanlığının tanımı, önemi, yasal dayanağı ve görev kapsamı.', to: '/ygu-hakkinda', gorsel: '/img/kart-ygu-nedir-2.webp' },
   { ikon: 'kep', baslik: 'Nasıl YGU Olunur?', metin: 'YGU olmak için gereken başvuru koşulları, eğitim süreci, sınav ve belgelendirme adımları.', to: '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur', gorsel: '/img/kart-nasil-olunur.webp' },
   { ikon: 'ekip', baslik: 'YGU Seviyeleri', metin: 'YGU-1, YGU-2, YGU-3 ve YGU-K seviyelerinin farkları, yetki alanları ve başvuru koşulları.', to: '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri', gorsel: '/img/kart-seviyeler.webp' },
   { ikon: 'bina', baslik: 'Görev ve Sorumluluklar', metin: "YGU'nun proje inceleme, uygulama değerlendirme, periyodik kontrol, tatbikat ve raporlama görevleri.", to: '/yangin-guvenlik-uzmani-gorevleri', gorsel: '/img/kart-gorevler.webp' },
