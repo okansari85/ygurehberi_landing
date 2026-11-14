@@ -36,11 +36,11 @@ export const MENU: MenuOge[] = [
     to: '/ygu-hakkinda',
     alt: [
       { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
+      // Oğuz (14 Kas, panel isteği 21): YGU Nedir üst menüden bu açılıra alındı
+      { ad: 'YGU Nedir', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
       { ad: 'Çalışma Alanları', to: '/calisma-alanlari' }
     ]
   },
-  // Oğuz (4 Kasım): Çalışma Alanları'nın eski yerine YGU Nedir; ana sayfadaki "YGU Mesleğini Keşfedin" ile aynı sayfa
-  { ad: 'YGU Nedir', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
   // 5 Kasım 2026 (kullanıcı): YGU eğitim rehberi, design/egitim-sayfa.jpeg
   { ad: 'Eğitim Süreci', to: '/ygu-egitimi' },
   { ad: 'Vakalarla Öğren', to: '/vakalarla-ogren' },
