@@ -62,6 +62,36 @@ export const egitimBilgisi = (no: string) => EGITIM_BILGILERI.find((m) => m.no =
 // Bilgi sayfaları ve makaleler aynı klasörde: /ygu-egitimi/<yol>
 export const egitimMakaleYolu = (m: { yol: string }) => `/ygu-egitimi/${m.yol}`
 
+// Google çakışması (kullanıcı 14 Kas 2026, "en az zarar"): bu eğitim sayfaları sitede aynen kalır, ama aynı soruyu
+// daha önce cevaplayan (dizinde olan) sayfa asıl sayılır: canonical oraya gider, sayfa sitemap'ten çıkar. Gruplar: 6 Kas çakışma incelemesi.
+export const EGITIM_ASIL_SAYFA: Record<string, string> = {
+  'yangin-guvenlik-uzmanligi-egitimi': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimi-nasil-yapilir',
+  'ygu-egitimi-nasil-yapilir': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimi-nasil-yapilir',
+  'yangin-guvenlik-uzmani-egitimi': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimi-nasil-yapilir',
+  'ygu-egitimi-nasil-olacak': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimi-nasil-yapilir',
+  'ygu-teorik-ve-uygulamali-egitim': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimi-nasil-yapilir',
+  'yetkili-ygu-egitim-universiteleri': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimini-kimler-verebilir',
+  'ygu-egitimi-veren-yerler': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimini-kimler-verebilir',
+  'ygu-egitimi-veren-universiteler': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimini-kimler-verebilir',
+  'ygu-egitim-kurumlari': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimini-kimler-verebilir',
+  'ygu-egitim-sartlari': '/ygu-hakkinda/ygu-olma-sartlari/ygu-olmanin-genel-sartlari',
+  'ygu-basvuru-sartlari': '/ygu-hakkinda/ygu-olma-sartlari/ygu-olmanin-genel-sartlari',
+  'ygu-egitim-ucretleri': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-ve-sinav-ucreti',
+  'ygu-egitim-tarihleri': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-ve-sinav-ucreti',
+  'ygu-egitim-ucretleri-ve-tarihleri': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-ve-sinav-ucreti',
+  'ygu-egitim-basvurusu': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimine-basvuru-belgeleri',
+  'ygu-egitim-basvurusu-ve-belgeler': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitimine-basvuru-belgeleri',
+  'ygu-seviyeleri-ve-yetkileri': '/ygu-hakkinda/ygu-olma-sartlari/ygu-seviyeleri',
+  'isg-uzmanlari-ygu-olabilir-mi': '/ygu-hakkinda/ygu-olma-sartlari/is-guvenligi-uzmani-ygu-olabilir-mi',
+  'ygu-ile-isg-uzmanligi-farklari': '/ygu-hakkinda/ygu-olma-sartlari/is-guvenligi-uzmani-ygu-olabilir-mi',
+  'yangin-guvenlik-uzmani-nasil-olunur': '/ygu-hakkinda/ygu-olma-sartlari/yangin-guvenlik-uzmani-nasil-olunur',
+  'ygu-egitim-mufredati': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-egitim-mufredati-moduller-ve-saatler',
+  'ygu-sinav-rehberi': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-sinavi-soru-sayisi-gecme-notu-ve-sinav-hakki',
+  'ygu-yetki-belgesi-nasil-alinir': '/ygu-hakkinda/egitim-ve-belgelendirme/ygu-yetki-belgesi-gecerlilik-yenileme-askiya-alma-iptal',
+  'ygu-gorev-ve-sorumluluklari': '/yangin-guvenlik-uzmani-gorevleri',
+  'ygu-hangi-binalarda-gorev-alabilir': '/calisma-alanlari'
+}
+
 export const EGITIM_REHBERI = {
   yol: '/ygu-egitimi',
   hero: {

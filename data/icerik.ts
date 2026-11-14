@@ -39,6 +39,8 @@ export const MENU: MenuOge[] = [
       { ad: 'Çalışma Alanları', to: '/calisma-alanlari' }
     ]
   },
+  // Oğuz (4 Kasım): Çalışma Alanları'nın eski yerine YGU Nedir; ana sayfadaki "YGU Mesleğini Keşfedin" ile aynı sayfa
+  { ad: 'YGU Nedir', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
   // 5 Kasım 2026 (kullanıcı): YGU eğitim rehberi, design/egitim-sayfa.jpeg
   { ad: 'Eğitim Süreci', to: '/ygu-egitimi' },
   { ad: 'Vakalarla Öğren', to: '/vakalarla-ogren' },

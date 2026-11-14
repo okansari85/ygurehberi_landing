@@ -4,7 +4,7 @@
 // Görünüm teknik makale sayfasıyla aynı dil: koyu hero + KonuBloklar + yan "Bu makalede". Bilinmeyen yol 404.
 // Gövde yalnız prerender'da okunur; tarayıcıya yalnız bu sayfanın payload'ı gider.
 import { SITE, ON_KAYIT } from '~/data/icerik'
-import { EGITIM_MAKALELERI, EGITIM_BILGILERI, EGITIM_REHBERI, EGITIM_YAYIN, egitimMakaleYolu } from '~/data/egitim'
+import { EGITIM_MAKALELERI, EGITIM_BILGILERI, EGITIM_REHBERI, EGITIM_YAYIN, EGITIM_ASIL_SAYFA, egitimMakaleYolu } from '~/data/egitim'
 
 const route = useRoute()
 const yolAdi = String(route.params.yol)
@@ -41,6 +41,7 @@ useSayfaSeo({
   baslik: `${kart.baslik} | YGU Rehberi`,
   aciklama: metaAciklama(BILGI ? ilkParagraf : `${kart.aciklama} ${m.ozet}`),
   yol: YOL,
+  asilYol: EGITIM_ASIL_SAYFA[kart.yol],
   gorsel: '/img/egitim-rehberi-hero.webp',
   gorselBoyut: [814, 392],
   makaleTarihi: EGITIM_YAYIN,

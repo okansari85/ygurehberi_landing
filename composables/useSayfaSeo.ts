@@ -11,6 +11,8 @@ type Secenek = {
   // Makale sayfaları: og:type article + yayın tarihi.
   makaleTarihi?: string
   jsonLd?: Record<string, unknown>[]
+  // Aynı soruyu cevaplayan başka bir sayfa asıl sayılacaksa onun yolu (Google çakışması; sayfa sitede kalır).
+  asilYol?: string
 }
 
 export const KURULUS = {
@@ -23,8 +25,8 @@ export const KURULUS = {
   knowsAbout: ['Yangın güvenlik uzmanı', 'Yangın güvenlik uzmanlığı', 'Yangın güvenliği', 'Binaların Yangından Korunması Hakkında Yönetmelik', 'Yangın güvenliği periyodik kontrolü']
 }
 
-export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ygu.webp', gorselBoyut = [1600, 900], makaleTarihi, jsonLd = [] }: Secenek) {
-  const url = `${SITE.url}${yol}`
+export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ygu.webp', gorselBoyut = [1600, 900], makaleTarihi, jsonLd = [], asilYol }: Secenek) {
+  const url = `${SITE.url}${asilYol ?? yol}`
   const resim = `${SITE.url}${gorsel}`
 
   useSeoMeta({

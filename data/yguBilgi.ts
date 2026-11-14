@@ -82,6 +82,7 @@ export const YGU_KATEGORILER: YguKategori[] = [
   {
     yol: 'periyodik-kontroller',
     ad: 'Periyodik Kontroller',
+    sekme: 'Periyodik Yangın Kontrolü', // Oğuz'un YGU Hakkında tasarımı (4 Kasım)
     ikon: 'takvim',
     gorsel: 'surec-dogrulama',
     kisa: 'Kontrol süreleri, başvuru, aşamalar, rapor ve ücret',
