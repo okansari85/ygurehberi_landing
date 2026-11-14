@@ -211,7 +211,7 @@ export const KONTROL_SURELERI = {
   not: 'Gösterilen süreler, Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik **taslağındaki** düzenlemelere dayanmaktadır.'
 }
 
-// Kontrol süresi sorgulama aracı bandı. Araç henüz yok: düğme pasif, "Yakında".
+// Kontrol süresi sorgulama aracı bandı. Düğme FireTech'in ücretsiz kullanım sınıfı aracına gider (Oğuz, 2 Kas; panel isteği 17).
 export const KONTROL_ARACI = {
   ust: 'Yapınızın Periyodik Yangın',
   baslik: 'Kontrol Süresini Öğrenin',
@@ -223,7 +223,7 @@ export const KONTROL_ARACI = {
     { ikon: 'saat', ad: 'Kontrol Süresi Sonucu' }
   ] as { ikon: Ikon; ad: string }[],
   dugme: 'Kontrol Sürenizi Öğrenin',
-  not: 'Bu araç yakında kullanıma açılacaktır.',
+  url: 'https://firetech-ai.com/ucretsiz-kontrol/kullanim-sinifi',
   gorsel: 'ana-yapi-buro'
 }
 

@@ -279,9 +279,9 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
         </div>
         <div class="arac-sag">
           <img :src="`/img/${KONTROL_ARACI.gorsel}.webp`" alt="" width="371" height="156" loading="lazy" class="arac-gorsel">
-          <button type="button" class="arac-dugme" disabled :title="KONTROL_ARACI.not">
-            <Ikon ad="hesap" /> {{ KONTROL_ARACI.dugme }} <Ikon ad="ok" /><span class="arac-yakinda">Yakında</span>
-          </button>
+          <a :href="KONTROL_ARACI.url" target="_blank" rel="noopener" class="arac-dugme">
+            <Ikon ad="hesap" /> {{ KONTROL_ARACI.dugme }} <Ikon ad="ok" />
+          </a>
         </div>
       </aside>
     </div>
@@ -608,10 +608,9 @@ a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
   -webkit-mask-image:linear-gradient(90deg,transparent,#000 22%,#000 70%,transparent),linear-gradient(180deg,transparent,#000 30%);-webkit-mask-composite:source-in;
   mask-image:linear-gradient(90deg,transparent,#000 22%,#000 70%,transparent),linear-gradient(180deg,transparent,#000 30%);mask-composite:intersect}
 .arac-dugme{position:relative;display:inline-flex;align-items:center;gap:14px;min-height:64px;padding:0 26px;border:0;border-radius:12px;background:#15171D;color:#fff;
-  font-family:var(--display);font-weight:700;font-size:20px;cursor:not-allowed;box-shadow:0 6px 0 -1px var(--amber),0 16px 26px -14px rgba(0,0,0,.6)}
+  font-family:var(--display);font-weight:700;font-size:20px;text-decoration:none;box-shadow:0 6px 0 -1px var(--amber),0 16px 26px -14px rgba(0,0,0,.6)}
 .arac-dugme .ikon{font-size:22px}
 .arac-dugme .ikon:first-child{font-size:30px;color:var(--amber)}
-.arac-yakinda{position:absolute;top:-11px;right:14px;padding:2px 10px;border-radius:999px;background:#fff;border:1.5px solid #D93025;color:#D93025;font-family:var(--body);font-size:11.5px;font-weight:700}
 @media (max-width:1180px){.arac-bant{grid-template-columns:auto minmax(0,1fr)}.arac-sag{grid-column:1/-1;justify-content:center;min-height:180px;border-top:1.5px solid #EFE6CC}.arac-gorsel{width:100%;opacity:.55;-webkit-mask-image:linear-gradient(90deg,transparent,#000 20%,#000 80%,transparent);mask-image:linear-gradient(90deg,transparent,#000 20%,#000 80%,transparent)}}
 @media (max-width:760px){.arac-adimlar{flex-wrap:wrap}.arac-bant{grid-template-columns:1fr}.arac-cizim{justify-content:center;font-size:110px;border-right:0;border-bottom:1.5px solid #EFE6CC;padding:20px}.arac-metin{padding:22px 20px}.arac-adimlar li{padding:0 12px;font-size:15px}.arac-dugme{font-size:17px;padding:0 18px;gap:10px}}
 
