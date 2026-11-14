@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K187",
+  "yol": "mevcut-yapida-tasiyici-sistem-dayanimi-nasil-belgelenir",
+  "baslik": "Mevcut yapıda taşıyıcı sistem dayanımı nasıl belgelenir?",
+  "ozet": "Bir binanın kolonlarının ayakta olması, taşıyıcı sisteminin yangın sırasında gereken süre boyunca işlevini koruyacağını kanıtlamaz. Özellikle eski yapılarda çelik elemanların sonradan kapatılması, betonarme yüzeylerin onarılması veya kullanımın ağırlaştırılması, ilk projede öngörülen yangın koruması ile bugün görülen durum arasına fark koyabilir. Yangın güvenlik uzmanı (YGU) için mesele, yalnız görünür hasar aramak değil; hangi taşıyıcı elemanın hangi projeye, hangi malzemeye ve hangi koruma uygulamasına dayandığını izlenebilir biçimde ortaya çıkarmaktır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "deprem-dayanimi-ile-yangin-dayanimi-karistirilmamali",
+      "metin": "Deprem dayanımı ile yangın dayanımı karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Statik projenin bulunması, yapının taşıyıcı düzenini ve hesaplara esas bilgileri incelemek için başlangıçtır. Ancak statik yeterlilik veya deprem performansı raporu tek başına yangına dayanım süresini göstermez. Yangında taşıma kapasitesinin korunması, elemanın malzemesi, kesiti, bağlantıları, yangın etkisine maruz kalışı ve varsa koruma sistemiyle birlikte değerlendirilir. Bir çelik kolonun üzerindeki boya, sıradan son kat boya da olabilir, belgeli yangın koruyucu kaplama da. Görsel benzerlik bu ikisini eşdeğer hale getirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu yüzden dosyada “taşıyıcı sistem uygundur” şeklindeki genel bir kayıt yeterli görülmemelidir. İncelenen unsurun adı, konumu, malzeme türü, istenen yangına dayanım süresi ve bu sonuca dayanak yapılan proje veya teknik belge ayrı ayrı tanımlanmalıdır. Nihai mühendislik hesabının, gerekli yetkinliğe sahip tasarımcı ve ilgili teknik kişilerce yapılması; YGU incelemesinin kapsamıyla karıştırılmaması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "once-yapinin-tarihcesi-kurulur",
+      "metin": "Önce yapının tarihçesi kurulur"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk yapı ruhsatı ve eki onaylı projeler, yapı kullanma izin belgesi, varsa tadilat ruhsatları, statik hesaplar ve güncel mimari kullanım planı tarih sırasına alınır. Mevcut yapı hükümlerinin uygulanmasında ruhsat, onay ve kullanım değişikliği tarihleri belirleyicidir. Bir ilave kat, bölme veya faaliyet değişikliği varsa bunun taşıyıcı sistemi ve yangın yükünü nasıl etkilediği ilgili proje ve teknik raporlara bağlanmalıdır. Tarihi bilinmeyen çizim, onaylı proje gibi sunulamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Ardından koruma uygulaması için ürünün veya sistemin teknik dokümanı, uygunluk ya da sınıflandırma belgesi, tasarım ve uygulama ayrıntıları, iş bitim tutanağı, varsa bakım ve onarım kayıtları araştırılır. Belgenin yalnız ürün adına değil, sahada uygulandığı iddia edilen eleman ve detayla ilişkili olması gerekir. Koruma kaplaması sonradan sökülmüşse veya kiriş üzerinde yeni tesisat geçişleri açılmışsa, eski uygulama belgesinin geçerliliği ayrıca incelenir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge / kayıt",
+        "Cevap verdiği soru",
+        "YGU için kontrol noktası"
+      ],
+      "satirlar": [
+        [
+          "Onaylı statik ve mimari proje",
+          "Hangi taşıyıcı eleman ve kullanım öngörüldü?",
+          "Tarih, revizyon, eleman ve mahal eşleşmesi"
+        ],
+        [
+          "Yangın koruma detay/projesi",
+          "Hangi eleman, hangi yöntemle korunacak?",
+          "İstenen süre, kaplama ve bağlantı ayrıntısı"
+        ],
+        [
+          "Ürün ve uygulama belgesi",
+          "Uygulanan sistem neye dayanıyor?",
+          "Ürün kimliği, kalınlık/uygulama izi, kapsam"
+        ],
+        [
+          "Tadilat ve saha tutanağı",
+          "Koruma sonradan değişti mi?",
+          "Söküm, hasar, yeni geçiş ve onarım kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-taslak-ayni-kapsamda-degildir",
+      "metin": "Yürürlükteki BYKHY ile taslak aynı kapsamda değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 145/1, mevcut yapılarda taşıyıcı sistem stabilitesi bakımından Madde 23/4’e atıf yapar. Bu hüküm, çelik yapılardaki yangın korumasının değerlendirilmesinde önemlidir. Örneğin mevcut Madde 23/4’te belirli koşullar dışında, 5.000 m²’den küçük tek katlı yapılar hariç çeliğin sıcaktan uygun biçimde yalıtılması esas alınır. Bu ifadeden, alanı küçük her binanın bütün yangın önlemlerinden muaf olduğu sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yayımlanmamış değişiklik metninde ise mevcut yapılar bakımından Madde 139/11-c; Madde 23’ün dördüncü, beşinci ve altıncı fıkralarına atıf yapar (TASLAK). Aynı taslağın Madde 23/4 hükmünde 5.000 m²’den küçük tek katlı yapılara ek olarak 1.000 m²’den küçük iki katlı yapılar da istisna kapsamında anılır (TASLAK). Betonarme, ahşap ve kagir elemanlar bakımından 23/5-6’ya yapılan genişletilmiş atıf da taslak düzeyindedir. Bu hükümler yürürlüğe girmiş gibi kullanılarak mevcut yapıya kesin uygunluk kararı verilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 23/5’te 120 dakikalık yangın dayanımı bağlamında beton örtüsü için kolon, kiriş ve döşemeye ilişkin ölçüler yer alır (TASLAK). Ancak sahada yalnız dış yüzeyden bakılarak donatı örtüsü ölçüsü veya 120 dakikalık performans kesinleştirilemez. Bu konu proje, hesap, uygun inceleme yöntemi ve ilgili teknik uzman değerlendirmesi gerektirir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce bina içindeki taşıyıcı elemanları malzemelerine göre ve mahal bazında listeler. Çelik kolon, kiriş, betonarme perde, döşeme, ahşap çatı elemanı gibi bileşenler için mevcut koruma yöntemi, görünür süreksizlikler ve proje ile farklar kaydedilir. Özellikle tadilat görmüş mahaller, açıkta bırakılmış çelikler, sökülmüş kaplamalar ve sonradan açılmış geçişler incelenir. Fotoğraflar eleman numarası ve mahalle eşleştirilir; ölçülmemiş kalınlıklar veya bilinmeyen malzeme özellikleri tahmin edilerek rapora yazılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adım, kanıtın niteliğini sınıflandırmaktır: belge ve saha birbiriyle eşleşiyor mu; kayıt eksik mi; yoksa açık bir imalat farkı mı var? Bir ürün broşürü, sahadaki uygulamanın o ürünle ve öngörülen kalınlıkta yapıldığını kendiliğinden kanıtlamaz. Aynı biçimde belgenin bulunamaması tek başına elemanın dayanımını sıfır kabul ettirmez. Belirsizliğin hangi elemanda ve hangi yangın senaryosunda bulunduğu raporlanarak gerektiğinde yetkili tasarımcıdan teknik değerlendirme ve ilave inceleme istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü adımda aksiyon ve izleme kaydı oluşturulur. Projeye aykırı görülen uygulama, eksik teknik belge veya hasarlı kaplama için sorumlu, yapılacak iş, tamamlanma tarihi ve kapanış kanıtı belirlenir. Korumanın yenilenmesi gerekiyorsa uygulama sonrası teknik raporun ve güncellenen proje detayının dosyaya eklenmesi istenir. YGU, kendi saha tespitini statik proje onayı, yangın dayanım hesabı veya resmi uygunluk belgesi yerine kullanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "belgenin-kapsami-neden-ayrica-sinanir",
+      "metin": "Belgenin kapsamı neden ayrıca sınanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle yangın koruyucu boya ve kaplamalarda teknik belge, her ürünün bütün çelik profillerde aynı sonucu verdiği anlamına gelmez. Dayanım sınıflandırmasının geçerli olduğu kesit, yükleme ve uygulama koşulları ile sahadaki elemanın uyumu teknik dosyadan doğrulanmalıdır. Eski binada bir kolonun kaplaması yerinde kalsa bile komşu kirişin sonradan delinmesi, taşıyıcı bağlantının açığa çıkması veya korumanın yeni tesisat için sökülmesi farklı bir değerlendirme gerektirebilir. YGU, ürün sertifikasını uygulama tutanağıyla; uygulama tutanağını da elemanın bugünkü fotoğrafı ve varsa bakım geçmişiyle eşleştirir. Eşleşmeyen noktalar, teknik incelemeye sunulacak somut sorular olarak yazılır; tek cümlelik genel uygunluk beyanıyla kapatılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-atolyeden-depoya-donusturulen-celik-yapi",
+      "metin": "Örnek: atölyeden depoya dönüştürülen çelik yapı"
+    },
+    {
+      "tip": "p",
+      "metin": "Tek katlı eski bir atölyede çelik kolonların bir bölümü kaplama altında, diğer bölümü açıkta kalmış olsun. İşletme alanı zaman içinde yüksek raflı depoya çevirmiş ve onaylı tadilat dosyası sunamamıştır. YGU önce ilk projedeki kullanım, yapı alanı ve taşıyıcı sistem bilgilerini; ardından mevcut raf düzeni, depolanan malzeme ve koruma uygulamasını ayrı ayrı kaydeder. Duvar üzerindeki boya markasından bütün taşıyıcı sistem için dayanım süresi türetmez. Kaplama belgeleriyle uygulama alanları eşleşmiyorsa, bu fark mühendislik değerlendirmesine ve işletme aksiyonuna konu edilir. Sadece yapının eski olması veya tek katlı bulunması yeterli karar gerekçesi değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut bir binada taşıyıcı sistemin yangın dayanımı, tek bir rapor başlığıyla değil; yapı tarihçesi, onaylı projeler, koruma sistemi belgeleri, uygulama kayıtları ve güncel saha durumunun birbiriyle tutarlılığı üzerinden izlenir. YGU’nun temel katkısı teknik kanıt zincirini kurmak, eksik veya çelişkili halkaları göstermek ve gerekli uzman değerlendirmesi tamamlanmadan dayanım süresi veya uygunluk iddiasında bulunmamaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 23 ve Madde 138, 145."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 23 ve Madde 139 (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 187. makale konu ve belge eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

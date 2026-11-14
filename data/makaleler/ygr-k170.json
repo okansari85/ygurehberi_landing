@@ -1,0 +1,148 @@
+{
+  "kod": "YGR-K170",
+  "yol": "itfaiyenin-disaridan-su-basacagi-baglanti-nasil-taninir",
+  "baslik": "İtfaiyenin dışarıdan su basacağı bağlantı nasıl tanınır?",
+  "ozet": "Bina cephesindeki iki rakorlu bir bağlantı, ilk bakışta yangınla mücadeleye ait bir donanım gibi görünür. Fakat bağlantının gerçekten itfaiyenin dışarıdan sulu söndürme sistemine su vereceği nokta olup olmadığı, yalnız şekline bakılarak kesinleştirilemez. Yangın Güvenlik Uzmanı (YGU) için belirleyici olan, giriş ağzının projedeki görevini ve bağlı olduğu tesisatı bulmak; sonra etiket, vana düzeni, erişim ve bakım kaydıyla bu görevi doğrulamaktır. İtfaiye aracının ulaşamadığı veya iç hatta bağlantısı belirsiz bir giriş, dışarıdan besleme açısından ciddi bir belirsizlik yaratır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-islev-baglanti-suyu-nereye-gonderiyor",
+      "metin": "Önce işlev: Bağlantı suyu nereye gönderiyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "İtfaiye su verme bağlantısı, itfaiyenin dış kaynaktan getirdiği suyu binanın sulu yangın söndürme tesisatına aktarmasına hizmet eder. Bu yönüyle dış sahadaki hidrantla aynı şey değildir: Hidrant çoğunlukla suyun dış sahada alınmasına yönelik bir çıkış noktasıyken su verme bağlantısı binadaki koruma tesisatına dışarıdan besleme sağlar. İtfaiye su alma ağzı da bina içindeki sabit boru tesisatından su alınması için düzenlenmiş farklı bir bileşendir. Ancak bu ayrımı yaparken yalnız isim, renk veya rakor sayısına güvenilmez; tesisat şemasıyla bağlantının nereye gittiği izlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin otopark rampasının yanında iki bağlantı ağzı varsa her birinin ayrı bir sistemi beslediği varsayılmamalıdır. Biri yangın dolabı kolonuna, diğeri sprinkler besleme hattına bağlanabilir ya da her ikisi aynı tasarımın farklı noktaları olabilir. Sistem kapsamı, çek valfin konumu ve hat bağlantısı güncel mekanik projeyle kanıtlanmadan kesin cümle kurulmaz. Projede gösterilmediği halde sonradan takılmış bir rakor grubu da kendiliğinden doğru yangın suyu verme düzeni sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-degisiklik-taslagi-ayri-okunur",
+      "metin": "Yürürlükteki BYKHY ile değişiklik TASLAĞI ayrı okunur"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 97, yüksek binalar ile bina oturma alanı 1000 m²’den büyük veya cephe genişliği 75 m’yi aşan binalarda itfaiye su verme bağlantısına ilişkin koşulları düzenler. Maddenin öngördüğü bağlantı, en az 100 mm anma çapında tesisata bağlı iki adet 65 mm Storz rakor, çek valf ve çek valfle itfaiye bağlantısı arasındaki borulardaki suyun kendiliğinden boşalmasını sağlayacak elemanlarla değerlendirilir. İtfaiye aracı ile bağlantı ağzı arasındaki ulaşma mesafesine ilişkin 18 m sınırı da aynı maddededir. Bu ölçütlerin binaya uygulanması, yapının geçerli hukuki ve teknik verileri üzerinden yapılır."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞININ 99. maddesinde konu yeniden düzenlenmiştir (TASLAK). Taslakta alan eşiği “bina oturma alanı 1000 m²” yerine “toplam yapı inşaat alanı 800 m²” olarak yazılmaktadır (TASLAK); cephe genişliği, bağlantı unsurları ve ulaşma mesafesi düzenlemeleri korunmaktadır. Bu farklılık yürürlükteki yükümlülük gibi kullanılmaz. Bir yapı için “bağlantı zorunlu” veya “zorunlu değil” sonucu verilirken yürürlükteki hüküm, yapının niteliği, ruhsat ve proje durumu ile varsa uygulanabilir mevcut bina hükümleri birlikte doğrulanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-dort-temel-eslestirme",
+      "metin": "Sahada dört temel eşleştirme"
+    },
+    {
+      "tip": "p",
+      "metin": "Saha kontrolü, giriş ağzının bulunduğu cepheyi görmekle başlamalı; aynı noktayı onaylı yangın söndürme projesi, kolon şeması ve as-built revizyonlarında izleyerek sürdürülmelidir. İşaretleme okunaklı olmalı, koruyucu kapakların varlığı ve bağlantının fiziksel durumu kontrol edilmeli, araç yanaşmasını veya hortum bağlanmasını engelleyen duvar, park yeri, bariyer, peyzaj ve malzeme istifi kaydedilmelidir. Dışarıdan bakıldığında görülemeyen çek valf veya drenaj düzeni için ise erişilebilir teknik çizim, montaj belgesi ve bakım/test raporu aranır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Belge karşılığı",
+        "Sahadaki inceleme"
+      ],
+      "satirlar": [
+        [
+          "Görev ve hat bağlantısı",
+          "Onaylı mekanik yangın söndürme projesi, kolon şeması",
+          "Bağlantının hangi tesisata su verdiği ve mevcut hatla eşleşmesi"
+        ],
+        [
+          "Rakor, kapak ve etiket",
+          "Bağlantı detayı, vaziyet planı, cihaz envanteri",
+          "Etiket, rakor ve kapakların fiziksel hali ile konum eşleşmesi"
+        ],
+        [
+          "Çek valf ve drenaj",
+          "Akış şeması, as-built kayıt, bakım tutanağı",
+          "Gizli bileşenler için doğrulanabilir belge ve test kaydı"
+        ],
+        [
+          "İtfaiye erişimi",
+          "Yerleşim ve itfaiye araç ulaşım planı",
+          "Araç yanaşma hattı, hortum bağlama açıklığı ve gerçek engeller"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "bir-baglanti-neden-yerinde-bulunmasina-ragmen-kullanilamayabilir",
+      "metin": "Bir bağlantı neden yerinde bulunmasına rağmen kullanılamayabilir?"
+    },
+    {
+      "tip": "h3",
+      "metin": "Etiket var, ancak hat bağlantısı belirsiz"
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada “İtfaiye Su Verme” etiketi bulunsa da as-built projede bağlantı gösterilmiyorsa, yalnız etikete bakarak sistemin çalışır veya uygun olduğuna karar verilemez. Bağlantının bağlı olduğu hat, çek valf yönü ve tesisatla ilişkisi yetkili teknik personelden belgelenir. Özellikle tadilat sonrası boruların yeniden yönlendirildiği yerlerde eski çizim geçerli sayılmaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Rakor sağlam, ama araç yanaşamıyor"
+    },
+    {
+      "tip": "p",
+      "metin": "Bina girişinde yaya yolu yenilenirken sabit baba, saksı veya park cepleri eklenmiş olabilir. Bağlantı ağzı görülse bile itfaiye aracının fiili yaklaşımı ve hortumun emniyetle bağlanabileceği çalışma alanı ayrı kontrol edilir. Ulaşım hesabında kuş uçuşu görüntü değil, araç için kullanılabilir yaklaşım düzeni esas alınır; gerekli mesafe teknik plan ve saha kanıtıyla doğrulanır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Kapak eksik, iç bileşenler test edilmemiş"
+    },
+    {
+      "tip": "p",
+      "metin": "Ağzın kapaksız kalması kirlenme veya hasar riskini artırır; fakat kapağın bulunması da çek valfin ve drenajın doğru çalıştığını kanıtlamaz. Bunlar için bakım ve uygun işlevsel kontrol kaydı gerekir. YGU, bağlantıya basınçlı su vererek deneme yaptığını iddia etmek yerine yetkili ekip tarafından düzenlenmiş geçerli raporu inceler, rapor ile sahadaki tesisatın aynı sistem olduğunu doğrular."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) ilk olarak güncel kullanım ve yapı verileri üzerinden ilgili yükümlülüğü araştırır. Sonra su verme bağlantısını vaziyet planında işaretler; mekanik projedeki hat numarası, kontrol vanası, çek valf ve sistemin hizmet ettiği bölümü izler. İncelemede cihazın fotoğrafını, etiketini, bağlantı önündeki fiili engelleri ve ulaşılabilir bakım belgelerini bir araya getirir. Görülmeyen boru veya valf için gözlemsel uygunluk kararı vermez; belge eksikliğini ayrı yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU tasarımı yeniden onaylayan, hidrolik hesap yapan veya basınçlı su verme testini kendiliğinden gerçekleştiren kişi değildir. Kapsamındaki gözlemsel incelemenin ötesinde performans, bağlantı şeması veya bakım testi gerektiğinde yetkili mühendis ve bakım ekibinin teknik kayıtlarını ister; açık uygunsuzluk veya doğrulanamayan alanları sorumlu işletme yönetimine bildirir. YGU görevi ile periyodik kontrol formuna ilişkin hükümler de henüz yürürlüğe girmemiş mesleki taslak kapsamından mevcut bir yetki gibi sunulmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal bulgu örneği: “B Blok batı cephesinde SV-02 etiketli itfaiye su verme bağlantısı görülmüştür. Bağlantı önüne sabit metal bariyer yerleştirildiği, koruyucu kapağın birinin eksik olduğu ve güncel revizyon paftasında SV-02 hattının gösterilmediği belirlenmiştir. Saha erişim düzeni ile bağlantının bağlı olduğu sistem ve çek valf/drenaj kayıtları doğrulanmadan uygunluk değerlendirmesi tamamlanamamıştır.” Bu ifade örnek amaçlıdır, gerçek bir saha tespiti değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İtfaiye su verme bağlantısını tanımak; bir rakor grubunu göstermekten ibaret değildir. Bağlantı noktasının amacı, suyun tesisat içinde izlediği yol, etiket ve kapak durumu, çek valf ve drenaj kaydı, itfaiyenin yaklaşımı ve bakım sürekliliği birlikte doğrulanmalıdır. Projeyle açıklanamayan veya araç erişimi engellenen bir bağlantı için sadece “mevcut” ifadesi yeterli sonuç değildir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

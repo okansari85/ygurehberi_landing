@@ -1,0 +1,172 @@
+{
+  "kod": "YGR-K145",
+  "yol": "teknik-mahalin-depo-olarak-kullanilmasi-hangi-kararlari-bozar",
+  "baslik": "Teknik Mahalin Depo Olarak Kullanılması Hangi Kararları Bozar?",
+  "ozet": "Bir jeneratör odasına bırakılan karton kutular, ambalaj ruloları veya kullanılmayan ahşap paletler, yalnızca düzen ve temizlik sorunu değildir. Odanın projede tanımlanan teknik işlevi ile fiili kullanımını birbirinden ayırır; yangın yükünü artırabilir, hava girişini daraltabilir, ekipmana erişimi engelleyebilir ve acil durumda ihtiyaç duyulan sistemin işletilmesini zorlaştırabilir. Yangın Güvenlik Uzmanı (YGU) için doğru soru, “Depo düzenli mi?” değil, “Bu alan hangi amaçla onaylandı ve bugün gerçekte nasıl kullanılıyor?” sorusudur.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "teknik-mahal-neden-siradan-bir-depolama-alani-degildir",
+      "metin": "Teknik mahal neden sıradan bir depolama alanı değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Jeneratör odası, kazan dairesi, ana elektrik odası, transformatör merkezi, pompa mahalli ve yakıtla ilişkili teknik bölümler; ekipmanın yerleşimi, enerji ve yakıt bağlantıları, havalandırması, erişim alanı, bakım gereksinimi ve çevre mahallerden yangın bakımından ayrılması düşünülerek projelendirilir. Bir alana “boş yer var” gerekçesiyle stok konulması, bu tasarım varsayımlarını değiştirebilir. Odanın kapısının kapanıyor olması veya ekipmanın o anda çalışması, yerleşimin uygun olduğunun kanıtı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada bütün teknik odalar için tek bir mesafe, eşya sayısı veya stok miktarı icat edilmemelidir. Öncelikle odanın türü ve ilgili mevzuat hükmü belirlenmeli; ardından onaylı projedeki ekipman yerleşimi, üretici tarafından tanımlanan servis alanları, havalandırma yolu ve gerçek stok konumu birlikte incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-degisiklik-taslagi-nasil-ayrilir",
+      "metin": "Yürürlükteki BYKHY ile değişiklik TASLAĞI nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 53, yangın bakımından kritik nitelikteki kazan daireleri, yakıt depoları, sobalar ve bacalar, sığınaklar, otoparklar, mutfaklar, çatılar, asansörler, yıldırımdan korunma tesisatı, transformatör ve jeneratör gibi bölümleri sayar. Maddenin ikinci fıkrası, belirtilen yerlere yanıcı madde atılmasını veya depolanmasını yasaklar; bu yerlerin belirli aralıklarla temizlenmesini de bina sahibi veya yöneticisinin sorumluluğunda düzenler. Dolayısıyla örneğin jeneratör odasına karton ambalaj stoku konulması, yalnızca “erişimi biraz daraltıyor” diye ele alınamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddenin Kitaplıkta incelenen BYKHY değişiklik TASLAĞI sürümünde de yanıcı madde depolama yasağı korunmuştur. Bu nedenle söz konusu yasak, yalnız taslaktan doğan yeni bir şart değildir. Taslakta önerilen başka teknik değerler veya uygulama ayrıntıları varsa bunlar ayrı statüde değerlendirilmelidir; taslak hükümler yürürlükteki hüküm gibi yazılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 24/2, kazan dairesi, otopark, ana elektrik dağıtım odası, yapı içindeki trafo merkezi, orta gerilim merkezi ve jeneratör grubu odası gibi kapalı alanların duvar ve döşemelerinin yangın kompartımanı niteliğinde olmasını düzenler. Ancak yangına dayanıklı bir odanın bulunması, odanın depo olarak kullanılmasını meşru hale getirmez. Yangın ayırımı ile kullanım amacına uygunluk iki farklı denetim sorusudur."
+    },
+    {
+      "tip": "h2",
+      "id": "depolama-hangi-karar-zincirlerini-etkiler",
+      "metin": "Depolama hangi karar zincirlerini etkiler?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karar alanı",
+        "Stok konulduğunda sorulacak soru",
+        "Kanıt / kayıt"
+      ],
+      "satirlar": [
+        [
+          "Kullanım ve proje",
+          "Mahalin projedeki kullanım adı ve fiili kullanım aynı mı?",
+          "Onaylı mimari ve ilgili tesisat projeleri, yerinde fotoğraf"
+        ],
+        [
+          "Yanıcı yük ve tutuşturma",
+          "Karton, plastik, palet, bez veya ambalaj sıcak yüzey ve elektrik ekipmanına yakın mı?",
+          "Stok türü, yeri, miktarının betimi, saha kaydı"
+        ],
+        [
+          "Hava akışı ve ısı atımı",
+          "Jeneratörün veya kazan ekipmanının hava alma ve ısı atma güzergahı engelleniyor mu?",
+          "Havalandırma projesi, ekipman yerleşimi, üretici talimatı"
+        ],
+        [
+          "Bakım ve müdahale",
+          "Servis kapağı, acil durdurma, yakıt kesme veya pano önüne erişim kısıtlandı mı?",
+          "Erişim yolu, ekipman etiketi, bakım talimatı"
+        ],
+        [
+          "Yangın ayırımı",
+          "Kapı takozla açık mı, geçişlerde yeni açıklık veya hasar var mı?",
+          "Kapı detayı, bölme ve geçiş fotoğrafı"
+        ],
+        [
+          "İşletme yönetimi",
+          "Yeni stok kim tarafından, ne zaman ve hangi prosedürle yerleştirildi?",
+          "Görevlendirme, depo planı, değişiklik kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "jenerator-odasinda-ambalaj-stoku-kararin-dayanagi-nedir",
+      "metin": "Jeneratör odasında ambalaj stoku: kararın dayanağı nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek olarak, bir tesisin bodrum katındaki jeneratör odasında bakım için ayrılmış geçişe karton kolilerin ve boş plastik bidonların yerleştirildiğini düşünelim. Oda kapısı açılabiliyor ve jeneratör normal deneme çalışmasında devreye giriyor olabilir. Bu iki gözlem, stokun uygun olduğunu göstermeye yetmez. Önce odanın onaylı kullanım işlevi belirlenir; Madde 53 kapsamındaki depolama yasağıyla fiili stok karşılaştırılır. Daha sonra hava giriş ve çıkış açıklıkları, yakıt düzeni, kontrol paneli, acil durdurma noktası ve servis ulaşımı kontrol edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Jeneratör için ayrıca yürürlükteki BYKHY Madde 66 kapsamındaki oda ve yakıt düzenine ilişkin şartların uygulanabilirliği, onaylı proje ve belgeler üzerinden incelenir. Madde 66, bir mahal içinde jeneratör kurulması halinde yangın ayırımı, yangında dumanın kaçış yollarını etkilememesi ve ana yakıt deposunun ilgili koşulları gibi hususları düzenler. Bu maddelerden hareketle, bütün jeneratörlerde otomatik olarak aynı havalandırma debisinin veya aynı güvenlik mesafesinin geçerli olduğu sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Odada yanıcı stok bulunması kesin bir gözlem olabilir; fakat stokun belirli bir hava debisini ne ölçüde düşürdüğü veya jeneratörün test yükü altında hangi sıcaklığa çıkacağı, ölçüm ve doğrulanmış test olmaksızın sayısallaştırılamaz. Yangın Güvenlik Uzmanı (YGU), doğruladığı bulguyu ve belge gerektiren belirsizliği aynı cümlede karıştırmadan raporlamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, mahal kimliğinin sabitlenmesiyle başlar: bina, kat, oda numarası, güncel kullanım, sorumlu işletme birimi ve odadaki temel ekipman kaydedilir. Ardından geçerli onaylı mimari proje, yangın tahliye projesi, ilgili mekanik ve elektrik projeleri, varsa yapı kullanma izni belgeleri, ekipman teknik dokümanları, devreye alma ve bakım-test kayıtları birlikte okunur. YGU’nun hangi görev kapsamında inceleme yaptığı da açık belirtilir; taslak yönetmelikte öngörülen görevler, yürürlüğe girmiş bağımsız yetkiler gibi sunulmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha turunda stokun cinsi, konumu ve depolama biçimi fotoğrafla kayıt altına alınır. Ekipmanların önündeki erişim alanı, pano ve acil durdurma noktaları, havalandırma menfezleri, kapıların kapanması, yangın bölmesi sınırları, kablo-boru geçişleri ve varsa yangın algılama veya söndürme elemanlarının önü ayrıca gözlenir. Fotoğraftaki nesnenin ölçüsünü veya işlevini tahmin etmek yerine, gerekiyorsa onaylı yerleşim detayı ve ölçülü saha krokisi kullanılır."
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme sırasında “şebeke kesilirse jeneratör çalışmaz” veya “havalandırma yetersiz” gibi teknik sonuçlar, yalnız gözleme dayanılarak kesinleştirilmemelidir. Elektriksel, mekanik veya işlevsel test gerektiren hususlarda mevcut test raporu, test senaryosu ve bakım belgeleri değerlendirilir; eksik doğrulama ayrı kaydedilir. YGU, bu makale nedeniyle kendiliğinden elektriksel ölçüm, sistem tasarımı, teknik kabul veya bağımsız onay yetkisi kazanmış olmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "rapor-ve-duzeltici-faaliyet-kaydi-nasil-yazilir",
+      "metin": "Rapor ve düzeltici faaliyet kaydı nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kısa bir bulgu cümlesi yalnız “jeneratör odası düzensiz” dememelidir. Mahalin kimliği, fiziksel bulgu, dayanak, olası teknik etkiler ve uygulanacak kontrol ayrı olarak görünmelidir. Aşağıdaki metin gerçek bir tesise ait değildir; rapor yazım biçimini göstermek için hazırlanmış kurgusal örnektir."
+    },
+    {
+      "tip": "p",
+      "metin": "“B-1 katında J-01 olarak işaretli jeneratör mahallinde, jeneratörün servis geçişine ve hava giriş menfezi önüne karton ambalaj ve plastik malzeme istiflendiği gözlenmiştir. Sunulan onaylı projede mahal jeneratör odası olarak tanımlanmaktadır. Yanıcı malzemenin söz konusu bölümde depolanması BYKHY Madde 53/2 kapsamındaki yasakla bağdaşmamaktadır. İstifin servis erişimini ve hava giriş yolunu kısmen kapattığı fotoğrafla kaydedilmiştir; bunun sistem performansına sayısal etkisi ölçülmemiştir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Düzeltici faaliyet, yanıcı stokun teknik mahalden kaldırılması ve uygun depolama yerine taşınması ile başlar. Ardından açıklıklar ve servis erişimi yeniden kontrol edilir; yerleşim onaylı projeyle karşılaştırılır. Varsa kapı, bölme, tesisat geçişi veya ekipmanda oluşmuş hasar ilgili teknik süreçte ayrıca giderilir. Tamamlanma kanıtı olarak kaldırma sonrası fotoğraf, güncel mahal kullanım kaydı ve gerekiyorsa bakım/test belgesi istenir. Stok kaldırılmadan yalnız uyarı levhası asılması, maddi uygunsuzluğu tek başına gidermez."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-gorulen-uc-yanlis-cikarim",
+      "metin": "Sık görülen üç yanlış çıkarım"
+    },
+    {
+      "tip": "p",
+      "metin": "Birincisi, “malzeme düzenli raflarda” savunmasıdır. Madde 53 kapsamındaki teknik bölümde yanıcı stok yasağı, raf düzeniyle ortadan kalkmaz. İkincisi, “yangın kapısı var, o halde depolayabiliriz” yaklaşımıdır; yangın ayırımı başka bir şart, mahalin doğru kullanımı başka bir şarttır. Üçüncüsü, “jeneratör çalışıyor, sistem etkilenmedi” sonucudur; tek bir deneme, engellenen hava yolunun veya acil servis erişiminin bütün etkilerini doğrulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Teknik mahallin depo gibi kullanılması, yalnız yangın yükünü artırma ihtimaliyle değil, projenin tanımladığı işlevin değişmesiyle önem kazanır. Yangın Güvenlik Uzmanı (YGU), önce uygulanabilir yasağı ve mahalin kayıtlı amacını belirlemeli; ardından yanıcı stok, erişim, hava akışı, yangın bölmesi ve işletme değişikliği zincirini gözleme ve belgelere dayanarak kurmalıdır. Raporun gücü, tahmini risk cümlelerinde değil, hangi durumun görüldüğünü, hangi hükme aykırı olduğunu ve neyin henüz doğrulanmadığını birbirinden ayırmasındadır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

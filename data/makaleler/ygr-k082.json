@@ -1,0 +1,129 @@
+{
+  "kod": "YGR-K082",
+  "yol": "acil-durum-ekiplerinin-sayisi-ve-rolu-nasil-belgelenir",
+  "baslik": "Acil durum ekiplerinin sayısı ve rolü nasıl belgelenir?",
+  "ozet": "Bir işletmenin acil durum dosyasında dört ekip adı bulunması, yangın anında bu ekiplerin görev yapabileceğini tek başına göstermez. Sayıların doğru mevzuata göre hesaplanması, görevlendirmelerin yazılı olması ve ekip üyelerinin gerçekten çalıştıkları vardiyada erişilebilir bulunması birlikte değerlendirilmelidir. Yangın Güvenlik Uzmanı (YGU) için temel soru, kağıt üzerindeki listenin yapının ve işletmenin gerçek organizasyonuyla örtüşüp örtüşmediğidir.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-hangi-duzenlemenin-uygulandigi-belirlenir",
+      "metin": "Önce hangi düzenlemenin uygulandığı belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), belirli yapı türleri ve eşikler için söndürme, kurtarma, koruma ve ilk yardım ekiplerini düzenler. Yürürlükteki 126. maddede; yapı yüksekliği 30,50 m’yi aşan konut binaları, içinde 50 kişiden fazla insan bulunan konut dışı yapılar ve 200’den fazla kişinin barındığı siteler bakımından ekip kurulması öngörülür. Bu kapsamdaki söndürme ve kurtarma ekipleri en az üçer, koruma ve ilk yardım ekipleri en az ikişer kişiden oluşur. Kapsam dışında kalan yapılarda da bina sahibinin, yöneticisinin veya amirinin uygun tedbir alma sorumluluğu ortadan kalkmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik ise işyerinin tehlike sınıfı ve çalışan sayısı üzerinden söndürme, kurtarma ve koruma ekipleri için destek elemanı görevlendirmesini düzenler. Çok tehlikeli işyerlerinde her 30, tehlikeli işyerlerinde her 40, az tehlikeli işyerlerinde her 50 çalışana kadar her bir ekip için en az bir destek elemanı hesabı yapılır. On kişiden az çalışanı olan işyerlerine ilişkin özel hüküm ayrıca dikkate alınır. İlk yardımcı görevlendirmesi ise İlkyardım Yönetmeliği esaslarına göre ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu iki hesap aynı şey değildir: bina esaslı asgari ekip sayısı ile işyeri esaslı destek elemanı sayısı tek bir rakama indirgenmez. Her düzenlemenin kapsamı ayrı saptanır; ikisinin birlikte uygulanabildiği yerde gereklilikler ayrı ayrı kontrol edilir. Aynı kişinin birden fazla görevde gösterilmesi de her görev için fiili yeterliliğin ve mevzuata uygunluğun kendiliğinden kanıtı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sayi-kadar-onemli-olan-gorev-ve-vardiya-karsiligidir",
+      "metin": "Sayı kadar önemli olan görev ve vardiya karşılığıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Görevlendirme belgesinde yalnız isimler değil; ekip türü, sorumluluk alanı, ekip başı, iletişim bilgisi, görev kapsamı ve varsa yedek personel de izlenebilir olmalıdır. İşyerlerinde Acil Durumlar Hakkında Yönetmelik, destek elemanları ile yedekleri belirlenirken vardiya düzeninin dikkate alınmasını, personel ayrılması veya yer değişikliğinde yeniden görevlendirme yapılmasını ve listenin görünür yerde bulundurulmasını düzenler."
+    },
+    {
+      "tip": "p",
+      "metin": "Üç vardiya çalışan bir tesiste tek gündüz listesi, gece ve hafta sonu görev dağılımının karşılandığını göstermez. Ekip üyelerinin vardiya çizelgesinde aynı anda bulunup bulunmadığı, izin ve devamsızlık halinde kimin devreye gireceği, taşeron ve ziyaretçilerin tahliyesinin nasıl koordine edileceği kontrol edilmelidir. Vardiya bazlı bir erişilebilirlik tablosu, mevzuatın yerine geçen yeni bir form değil; eksik görevlendirmeyi görünür kılan yardımcı işletme kaydıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-kayit-hangi-soruya-cevap-verir",
+      "metin": "Hangi kayıt, hangi soruya cevap verir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen kayıt",
+        "Aranan kanıt"
+      ],
+      "satirlar": [
+        [
+          "Güncel personel ve vardiya çizelgesi",
+          "Çalışan sayısı, fiili vardiya dağılımı, görevlinin bulunduğu mahal ve yedekleme"
+        ],
+        [
+          "Yazılı görevlendirme ve ekip listesi",
+          "Ekip türü, isim, görev, ekip başı, iletişim ve onay zinciri"
+        ],
+        [
+          "Eğitim ve ilk yardım belgeleri",
+          "Görevle ilişkili eğitim, yetkinlik ve geçerlilik durumu"
+        ],
+        [
+          "Acil durum planı, tatbikat ve bakım kayıtları",
+          "Bildirim, tahliye, sayım, koordinasyon ve müdahale araçlarının bakım durumu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce yapının onaylı projelerini, ruhsat ve yapı kullanma izin belgelerini, kullanım amacını, yapı yüksekliğini ve fiili kişi sayısını inceler. İşletmede üretim, depolama, ofis ve ortak alanların güncel kullanımıyla bu belgeler arasında değişiklik olup olmadığını belirler. Ardından acil durum planını, görevlendirme yazılarını, vardiya listelerini, eğitim ve tatbikat kayıtlarını karşılaştırır. İşyerinin tehlike sınıfını ve çalışan sayısını ilgili resmi kayıtlarla doğrulamadan destek elemanı hesabını kesinleştirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada ekip listelerinin erişilebilir yerlerde bulunup bulunmadığını, görevlilerin görevlerini bilip bilmediğini, gece vardiyasında kimlerin görevli olduğunu ve toplanma yerindeki sayım sorumluluğunu gözlemsel olarak değerlendirir. Örneğin belgede kurtarma ekibinde gösterilen kişinin başka lokasyona geçtiği anlaşılıyorsa, bunu “ekip yok” gibi genelleyici bir hüküm yerine ilgili liste, vardiya ve görevlendirme tarihleriyle somut olarak kaydeder; güncelleme ve yeterlilik kanıtı ister."
+    },
+    {
+      "tip": "p",
+      "metin": "Gerekçeli raporda hangi mevzuat kapsamının uygulandığı, hangi belgenin incelendiği, hangi gözlemin yapıldığı ve hangi kanıtın eksik kaldığı ayrılır. YGU, işverenin yerine personel ataması yapmaz; yetkili eğitim kuruluşunun sertifikasını, ilk yardım yeterliliğini veya diğer uzmanlıkların test ve onaylarını kendiliğinden vermez. Proje değişikliği, teknik ölçüm veya özel eğitim gerektiren konuları yetkili kişi ve kuruluşlara yönlendirir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-metinle-yururlukteki-hukum-karistirilmamalidir",
+      "metin": "Taslak metinle yürürlükteki hüküm karıştırılmamalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağının ekiplerin kuruluşu, görevleri ve çalışma esaslarına ilişkin 128. maddesi, İş Sağlığı ve Güvenliği Kanunu kapsamındaki yürürlükteki ilgili düzenlemeye gönderme yapan farklı bir yaklaşım önermektedir. Bu öneri henüz yürürlükteki BYKHY’nin 126–128. maddelerinin yerine geçmiş kabul edilemez. Dolayısıyla mevcut ekip sayıları taslaktaki gönderme esas alınarak yeniden hesaplanmış gibi sunulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Acil durum ekibi yeterliliği, yalnız “dört ekip kuruldu” kutusunun işaretlenmesiyle belirlenmez. Doğru mevzuat kapsamı, çalışan ve kullanıcı sayısı, yazılı görev dağılımı, vardiya karşılığı, eğitim, tatbikat ve güncel işletme kayıtları birbirini doğrulamalıdır. Bir eksiklik saptandığında sonuç, hangi görev ve hangi vardiya için kanıtın bulunmadığını gösterecek açıklıkta raporlanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik"
+    },
+    {
+      "metin": "İlkyardım Yönetmeliği"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

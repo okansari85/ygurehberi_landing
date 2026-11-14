@@ -1,0 +1,150 @@
+{
+  "kod": "YGR-K091",
+  "yol": "mevcut-binada-kacis-merdiveni-genisligi-nasil-kontrol-edilir",
+  "baslik": "Mevcut binada kaçış merdiveni genişliği nasıl kontrol edilir?",
+  "ozet": "Eski bir büro binasının kaçış merdiveni projede yeterli görünse bile, sahada sonradan yapılan kaplama, yeni korkuluk, tesisat kutusu veya merdiven altına yerleştirilen eşya geçişi daraltabilir. Tersine, merdivenin dar görünmesi de tek başına hangi yönetmelik hükmünün ihlal edildiğini göstermez. Önce binanın hangi mevzuat rejimine tabi olduğu, merdivenin hangi katlara hizmet ettiği ve o katların gerçek kullanıcı yükü belirlenir. Ardından ölçülü proje, uygulanabilir genişlik şartı ve sahadaki kullanılabilir geçiş aynı değerlendirmede buluşturulur.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "genislik-kontrolu-neden-tek-bir-rakamdan-ibaret-degildir",
+      "metin": "Genişlik kontrolü neden tek bir rakamdan ibaret değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Burada iki ayrı soru vardır: Merdiven kolunun ve sahanlığın kullanılabilir temiz genişliği nedir? Bu genişlik, o yapıya uygulanacak mevzuat ile kaçış kapasitesi bakımından yeterli midir? Birinci soru fiziksel ve belgesel durumu ortaya koyar; ikinci soru teknik ve hukuki değerlendirmeyi gerektirir."
+    },
+    {
+      "tip": "h2",
+      "id": "once-hangi-hukmun-uygulanacagi-belirlenir",
+      "metin": "Önce hangi hükmün uygulanacağı belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, mevcut yapılara ilişkin özel hükümler içerir. Mevcut yapı statüsü yalnız binanın eski görünmesine göre değil; ilk ruhsat ve onaylı proje tarihleri, varsa kullanım değişikliği, tadilatlar ve önceki yangın tedbirlerinin belgeleriyle belirlenir. Bazı kullanım değişiklikleri yeni yapılara ilişkin kuralların uygulanmasını gerektirebilir. Bu ayrım yapılmadan yeni bina için öngörülen bir genişlik değeri, her eski binaya otomatik uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut yapılara ilişkin hükümlerin uygulanabildiği durumlarda Yönetmeliğin 148. maddesi, toplam kaçış yolu genişliğinin hesaplanmasını ve merdiven türüne göre asgari temiz genişlikleri ayrıca düzenler. Düz kollu sahanlıklı merdiven için 60 cm, dairesel merdiven için 70 cm alt sınırı; ilgili katta toplam kullanıcı sayısının 60 kişiden fazla olması halinde sırasıyla 70 cm ve 80 cm alt sınırı yer alır. Hastane, huzurevi, anaokulu ve ilköğretim okulu için ise yalnız sahanlıklı düz kollu merdivene izin verilmesi ve en az 100 cm genişlik öngörülmesi gibi özel hükümler vardır. Bu değerler, ancak ilgili mevcut yapı hükümleri gerçekten uygulanabiliyorsa değerlendirmeye alınır; merdivenin bütünüyle uygun olduğunu tek başına kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddede toplam kaçış yolu genişliği, ilgili kattaki toplam kullanıcı sayısının 0,4 ile çarpılmasıyla santimetre cinsinden belirlenir. Merdiven sayısı, çıkışların dağılımı ve her bir kaçış yolunun kapasitesi de birlikte incelenmelidir. Merdivenin asgari ölçüyü sağlaması, toplam çıkış kapasitesinin ve alternatif kaçış gereğinin sağlandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "temiz-genislik-hangi-yuzeyler-arasinda-degerlendirilir",
+      "metin": "Temiz genişlik hangi yüzeyler arasında değerlendirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Duvarlarla sınırlı bir merdiven kolunda temiz genişlik, duvarların bitmiş yüzeyleri arasındaki açıklıktır. Bir tarafta duvar, diğer tarafta korkuluk varsa duvarın bitmiş yüzeyi ile korkuluğun iç yüzeyi esas alınır. Yürürlükteki düzenleme, küpeştenin yaptığı çıkıntının 80 mm’lik bölümünün temiz genişliğe dahil edilmesine izin verir. Bu istisna, her çıkıntının geçiş alanına dahil edilebileceği veya sonradan eklenen bütün engellerin yok sayılacağı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrol yalnız basamakların orta bölümünde yapılmaz. Sahanlığa açılan kapının kanadı, dönüşteki daralma, korkuluk bağlantıları, merdiven kolunun başlangıcı ve bitişi ile geçişi kesen sabit donanımlar ayrıca ele alınır. Yönetmeliğin 152. maddesi uyarınca mevcut yapılarda, aksi belirtilmedikçe sahanlığın genişliği ve uzunluğu merdiven genişliğinden az olamaz. Bu nedenle yalnız merdiven kolu genişliği üzerinden olumlu karar verilmesi eksik incelemedir."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-saha-incelemesinde-pratik-sira",
+      "metin": "Belge–saha incelemesinde pratik sıra"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemenin başlangıcında ruhsat, onaylı mimari proje, varsa tadilat ve tahliye planları ile yapı kullanma izin belgeleri bir araya getirilir. Daha sonra merdivenin hizmet verdiği katlar ve fiili kullanım alanları belirlenir. Sonradan bölünmüş bürolar, artırılmış personel yoğunluğu veya başka amaçla kullanılan katlar, önceki kapasite varsayımını değiştirmiş olabilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Başlıca kanıt",
+        "Karar sorusu"
+      ],
+      "satirlar": [
+        [
+          "Yapı ve kullanım statüsü",
+          "İlk ruhsat, proje onayları, kullanım izinleri, tadilat belgeleri",
+          "Mevcut yapı hükmü mü, farklı bir uygulama mı söz konusu?"
+        ],
+        [
+          "Merdivenin geometrisi",
+          "Ölçülü plan, kesit, merdiven detayları",
+          "Düz kollu, sahanlıklı veya dairesel düzen hangisi?"
+        ],
+        [
+          "Temiz geçiş ve sahanlık",
+          "Onaylı ölçüler, güncel ölçüm kaydı, yerinde gözlem",
+          "Duvar, korkuluk, kapı ve sabit donanım geçişi daraltıyor mu?"
+        ],
+        [
+          "Kullanıcı yükü ve kapasite",
+          "Katların fiili kullanımı, kişi yükü hesabı, kaçış projesi",
+          "En dar geçiş ve toplam çıkış kapasitesi yeterli mi?"
+        ],
+        [
+          "Değişiklik ve uygunsuzluk",
+          "Revizyon projeleri, fotoğraf, bakım ve kontrol kayıtları",
+          "Yeni daralma hangi mahalde, hangi kanıtla gösteriliyor?"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo, bir ölçüm tutanağı veya proje onay formu değildir. Amaç, sahadaki bulgunun hangi belge ve teknik soruyla ilişkilendirildiğini görünür kılmaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye binanın ilk ruhsatını, onaylı mimari ve tahliye projelerini, yapı kullanma iznini ve varsa kullanım değişikliği ile tadilat onaylarını okuyarak başlar. Katların bugün hangi faaliyet için kullanıldığını, merdivene hangi mahallerin bağlandığını ve kaçış yolunda sonradan oluşmuş bir daralma bulunup bulunmadığını gözlemsel olarak karşılaştırır. Merdivenin dönüş noktasına yerleştirilen dolap, sahanlığa taşan kapı kanadı veya yeni korkuluk gibi durumlarda bulgunun tam yerini ve kaçışa etkisini fotoğraf ve plan üzerinde tanımlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Genişliğin sayısal doğrulanması gerektiğinde onaylı ölçülü proje ve yetkili kişilerce düzenlenmiş ölçüm, hesap veya teknik inceleme belgeleri esas alınır; eksikse bu belgelerin temin edilmesini ister. Uzman, yalnız gözleme dayanarak ölçülmemiş bir genişliği kesin sayı gibi yazmaz; merdiven tasarımı yapmaz, yetkili proje müellifinin kapasite hesabının veya ilgili idarenin onayının yerine geçmez. Raporunda uygulanabilir hükmü, belgesel dayanağı, gözlenen farkı ve gerekli teknik doğrulama ihtiyacını birbirinden ayırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin mevcut büro katında korkuluk değişimi sonrası geçişin daraldığı görülüyorsa, raporda yalnız “merdiven dar” denilmez. Hangi kat ve merdiven kolunun etkilendiği, önceki proje detayı, değişikliğin niteliği ve genişlik ile kullanıcı yükü bakımından hangi doğrulamanın beklendiği açıkça yazılır. Nihai uygunluk değerlendirmesi, bu kanıtlar tamamlandıktan sonra yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bykhy-taslagi-nasil-okunmalidir",
+      "metin": "Yeni BYKHY taslağı nasıl okunmalıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağı, mevcut yapılara ilişkin uygulamayı 139. maddede; kaçış yolu genişliğinin genel hesabını ise farklı bir madde yapısında ele alır. Taslakta öngörülen yaklaşım, yürürlükteki mevcut bina istisnalarıyla otomatik olarak eşdeğer değildir. Taslak hükümler henüz bağlayıcı düzenleme kabul edilmeden, yürürlükteki 148. maddenin yerine uygulanmamalıdır. Yeni metin yayımlanırsa, mevcut yapı statüsü ve sayısal genişlik şartları yeniden karşılaştırılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binada kaçış merdiveni genişliği, yalnız bir mezura değeri veya projedeki tek ölçü üzerinden karara bağlanmaz. Yapının hukuki statüsü, merdivenin türü, bitmiş yüzeyler arasındaki temiz geçiş, sahanlıklar, hizmet verilen katların kullanıcı yükü ve toplam kaçış kapasitesi birlikte değerlendirilir. Gerekçeli YGU raporunun değeri, bu farklı unsurları birbirine karıştırmadan hangi belgenin neyi kanıtladığını göstermesidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

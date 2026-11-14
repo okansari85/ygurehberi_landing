@@ -1,0 +1,150 @@
+{
+  "kod": "YGR-K101",
+  "yol": "yapi-ruhsati-asamasinda-yangin-sorumlulugu-nasil-belgelenir",
+  "baslik": "Yapı ruhsatı aşamasında yangın sorumluluğu nasıl belgelenir?",
+  "ozet": "Yapı ruhsatı dosyasında yangın güvenliği sorumluluğunun belgelendirilmesi, tek bir kişinin “yangından sorumluyum” yazısı vermesinden ibaret değildir. Asıl ihtiyaç; hangi yangın tedbirinin hangi proje disiplininde çözüldüğünün, projeyi kimin hazırladığının, hangi sürümün idareye sunulduğunun ve hangi projenin onaylandığının izlenebilir olmasıdır. Bu zincir kurulmadığında, projede gösterilen bir tedbirin eksikliği ile şantiyede yapılan farklı bir imalatın sorumluluğu birbirine karışır.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorumluluk-tek-bir-imzaya-indirgenemez",
+      "metin": "Sorumluluk tek bir imzaya indirgenemez"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), yapı ruhsatı vermeye yetkili idareleri, yatırımcıyı, yapı sahibini, tasarım ve uygulama taraflarını, yapı denetimi ve işletme taraflarını görev ve sorumluluk çerçevesinde birlikte ele alır. Buna karşılık her tarafın yaptığı iş aynı değildir: projeyi hazırlamak, projeyi onaylamak, projeye uygun imalat yapmak ve işletme döneminde sistemi çalışır tutmak ayrı aşamalardır."
+    },
+    {
+      "tip": "h2",
+      "id": "ruhsat-dosyasinda-izlenebilirlik-nasil-kurulur",
+      "metin": "Ruhsat dosyasında izlenebilirlik nasıl kurulur?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk inceleme, yapının kimliğini ve tasarım esaslarını kesinleştirir: ada-parsel, kullanım amacı, kat ve yapı alanları, yapı yüksekliği, yapıdaki farklı kullanım bölümleri ve varsa tadilat kapsamı projeler arasında tutarlı olmalıdır. Ardından mimari, statik, mekanik ve elektrik projelerinde yangın güvenliğine ilişkin çözümler birlikte okunur. Tahliye, algılama ve söndürme projelerinin ayrı hazırlanması gereken haller ayrıca değerlendirilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Dosya unsuru",
+        "Sorumluluğu görünür kılan kontrol"
+      ],
+      "satirlar": [
+        [
+          "Proje kimliği ve revizyon",
+          "Proje adı, tarih, revizyon, ada-parsel ve yapı kullanım bilgileri farklı disiplinlerde eşleşiyor mu?"
+        ],
+        [
+          "Proje müellifi bilgileri",
+          "İlgili projeyi hazırlayan yetkili meslek mensubu ve proje üzerindeki imza/onay bilgileri belirli mi?"
+        ],
+        [
+          "Yangın tedbirlerinin gösterimi",
+          "Kaçış, kompartıman, algılama, söndürme ve acil aydınlatma kararları uygun proje paftalarında izlenebiliyor mu?"
+        ],
+        [
+          "Disiplinler arası uyum",
+          "Mimari kaçış düzeni, tesisat güzergahları, yangın bölmeleri ve ekipman yerleri çelişiyor mu?"
+        ],
+        [
+          "İdare işlemi ve onay",
+          "Sunulan sürüm ile onaylı sürüm ayrıştırılmış mı; düzeltme ve görüş yazıları dosyada izlenebiliyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin mimari projede korunumlu olarak gösterilen bir merdiven, mekanik projede kanal geçişi nedeniyle yangın bölmesi sürekliliğini kaybediyorsa iki proje ayrı ayrı okunarak uygun bulunamaz. Bu durum, ilgili proje müelliflerinin birlikte çözmesi gereken bir tasarım uyumsuzluğudur; yalnızca dosyaya yeni bir sorumluluk yazısı eklemek sorunu gidermez."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-yeni-taslak-arasindaki-fark",
+      "metin": "Yürürlükteki hüküm ile yeni taslak arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY madde 6 uyarınca yangın algılama ve söndürme projeleri tesisat projelerinden ayrı hazırlanır. Bir kat alanı 2.000 m²’den fazla olan katların tahliye projeleri de mimari projelerden ayrı hazırlanır; diğer yapılarda tahliye düzeni mimari projelerde gösterilir. Projelerin onayı ve yangın söndürme, algılama ve tahliye projeleri ile uygulamalarının uygunluğunun denetimi, ruhsat vermeye yetkili mercilerin görev alanındadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY TASLAĞI ise farklı bir proje düzeni öngörür: algılama ve söndürme projelerinin ayrı hazırlanması korunurken, tahliye projesinin ayrı hazırlanması için bir kat alanının 1.000 m²’den fazla olması veya yapı yüksekliğinin 21,50 m’yi aşması ölçütleri getirilir. Ayrıca ayrı hazırlanan projeler için mahalli itfaiye teşkilatının uygun görüşü ve yapı kullanma izni aşamasındaki itfaiye görüşü hakkında yeni hükümler önerilir. Bunlar taslak hükümleridir; yayımlanıp yürürlüğe girmedikçe yürürlükteki ruhsat işlemine zorunlu kural olarak uygulanamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Konu",
+        "Yürürlükteki BYKHY",
+        "Yeni BYKHY taslağı — öneri"
+      ],
+      "satirlar": [
+        [
+          "Tahliye projesinin ayrı hazırlanması",
+          "Bir kat alanı 2.000 m²’den fazla olan katlar",
+          "Bir kat alanı 1.000 m²’den fazla veya yapı yüksekliği 21,50 m’den fazla olan yapılar"
+        ],
+        [
+          "Proje onay süreci",
+          "Projeler ruhsat vermeye yetkili mercilerce onaylanır.",
+          "Ayrı projelerde mahalli itfaiye uygun görüşü sonrası ilgili idare onayı öngörülür."
+        ],
+        [
+          "Sorumluluğun ayrıştırılması",
+          "Proje hatası, yapım hatası ve işletme kaynaklı sorunlar farklı sorumluluk bağlamlarında ele alınır.",
+          "Pasif tedbirler ve yapı denetimi/idare taraflarına ilişkin daha ayrıntılı sorumluluk düzeni önerilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), kendisine mevzuat çerçevesinde bir proje uygunluk incelemesi görevi verildiğinde işe ruhsat dosyasının ve onaylı proje takımının kimliğini doğrulayarak başlar. Ruhsat aşamasında henüz inşa edilmemiş bir bina için “yerinde uygun imalat” kararı vermez; proje kararlarının yeterli ve birbiriyle uyumlu biçimde gösterilip gösterilmediğini inceler. Tadilat veya mevcut yapıya ilişkin başvuruda ise mevcut mahal kullanımı, faaliyet, onaylı izinler ve proje revizyonları ile yerindeki gözlemleri karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme sırasında yangın güvenlik tedbirinin hangi paftada yer aldığı, ilgili rapor ve hesapların hangi proje sürümüne bağlı olduğu, tespit edilen çelişkinin hangi projeleri etkilediği kayda geçirilir. Bir eksiklik saptandığında yalnız “uygun değil” yazılması yeterli değildir; proje adı ve revizyonu, ilgili mahal veya pafta, teknik gerekçe, dayanak hüküm ve gerekli açıklama veya proje düzeltmesinin hangi yetkili taraftan beklendiği açıkça belirtilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU yönetmelik taslağı, mahalli itfaiye teşkilatının gerekli gördüğü durumda uzmanın proje uygunluk görüşüne esas rapor düzenleyebilmesini öngörmektedir. Bu taslak görev tanımı, YGU’ya proje müellifi yerine geçme, statik veya tesisat hesabı yapma, ölçüm ve deney kuruluşunun raporunu ikame etme ya da yapı ruhsatını onaylama yetkisi vermez. Bu işlerin yetkili tasarımcı, uygulayıcı, muayene kuruluşu ve idare bakımından ayrımı korunmalıdır. YGU taslağının yürürlük durumu ayrıca kontrol edilmeden bu görev mevcut ve koşulsuz bir yasal yetki olarak sunulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "raporun-karar-vermeye-elverisli-olmasi",
+      "metin": "Raporun karar vermeye elverişli olması"
+    },
+    {
+      "tip": "p",
+      "metin": "Kısa bir değerlendirme kaydı, “hangi proje incelendi – hangi yangın tedbiri değerlendirildi – hangi eksiklik görüldü – hangi dayanağa göre düzeltme istendi – hangi belgeyle kapanacak” sorularını cevaplamalıdır. Örneğin tahliye paftası ile mimari planın kapı yönü farklıysa, ilgili pafta ve revizyonlar belirtilerek proje müelliflerinden uyumlu çözüm istenir. Uygunluk, düzeltilmiş onaylı belgeler görülmeden varsayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak ruhsat aşamasındaki yangın sorumluluğu, görev dağılımını tek sayfada ilan etmekten çok, doğru tasarımın doğru kişilerce hazırlanıp yetkili idarece incelendiğini kanıtlayan belge zincirinin kurulmasıyla görünür hale gelir. Bu yaklaşım, ileride yapı kullanma izni ve işletme kontrollerinde hangi kararın hangi onaylı projeye dayandığını da açık tutar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,115 @@
+{
+  "kod": "YGR-K122",
+  "yol": "cati-ustune-yeni-tesisat-konuldugunda-yangin-kosullari-degisir-mi",
+  "baslik": "Çatı üstüne yeni tesisat konulduğunda yangın koşulları değişir mi?",
+  "ozet": "Çatıya sonradan havalandırma santrali, kanal, kablo tavası veya benzeri teknik ekipman yerleştirilmesi, tek başına bütün çatının yangın güvenliği bakımından uygunsuz hale geldiğini göstermez. Ancak yeni cihazın konumu, taşıyıcıya bağlantısı, çatı örtüsünü delen tesisat geçişleri ve bakım için kullanılan güzergah, onaylı projedeki yangın güvenliği düzenini değiştirebilir. Bu nedenle değerlendirme, ekipmanın varlığından çok hangi yapı detaylarının değiştiğine odaklanmalıdır.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisen-yalniz-ekipman-degil-cati-duzenidir",
+      "metin": "Değişen yalnız ekipman değil, çatı düzenidir"
+    },
+    {
+      "tip": "h2",
+      "id": "catidaki-degisiklik-nerede-risk-olusturur",
+      "metin": "Çatıdaki değişiklik nerede risk oluşturur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Çatı örtüsünün kesildiği noktalarda su yalıtımı kadar yangın ve dumanın geçişini sınırlayan yapı detayları da önemlidir. Kanal veya kablo geçişi yangına dayanıklı bir ayırıcıyı deliyorsa, açıklığın uygun bir sistemle kapatıldığı belge ve uygulama üzerinden incelenmelidir. Çatı üzerinde kullanılan yeni yalıtım, kaplama ve cihaz altlığı da mevcut çatı sisteminin belgelenmiş yangına tepki özellikleriyle birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni ekipmanın ağırlığı, ayak bağlantıları ve rüzgar yükleri taşıyıcı sistemle ilgilidir; bunların hesabı yetkili proje müellifinin ve ilgili mühendislik disiplinlerinin işidir. Yangın güvenliği incelemesi ise bu değişikliklerin çatı yangınına, yangının çatıdan binaya veya komşu yapıya geçmesine ve müdahale erişimine etkisini görünür kılar."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-saha-hangi-noktalarda-karsilastirilir",
+      "metin": "Proje ile saha hangi noktalarda karşılaştırılır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Aranacak belge",
+        "Sahadaki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Cihazın yeri",
+          "Onaylı çatı ve mekanik yerleşim planı",
+          "Cihaz konumu, komşu ekipmanlar ve servis alanı"
+        ],
+        [
+          "Çatı geçişi",
+          "Kanal/kablo geçiş detayı ve sistem belgesi",
+          "Açıklığın çevresi, kapatma ve montaj"
+        ],
+        [
+          "Çatı kaplaması",
+          "Kaplama/yalıtım ürün ve sistem belgeleri",
+          "Yeni kaplama, altlık ve onarımın kapsamı"
+        ],
+        [
+          "Erişim ve bakım",
+          "Bakım erişim planı ve işletme talimatı",
+          "Geçişin engellenmesi, geçici stok ve malzeme birikimi"
+        ],
+        [
+          "Taşıyıcı bağlantı",
+          "Revize statik proje veya yetkili teknik görüş",
+          "Ayaklar, ankrajlar ve çatı elemanındaki müdahale"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-acisindan-hangi-ayrim-yapilir",
+      "metin": "Mevzuat açısından hangi ayrım yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik’in çatılara ilişkin 28. maddesi, çatıdan yangın girişi, çatı örtüsünün tutuşması, çatı içinde ve altında yayılım, ışıklıklar ve bitişik binalar arasında geçiş gibi etkilerin göz önünde bulundurulmasını öngörür. Aynı maddede çatı kaplaması ve alt katmanlarının malzeme özellikleri ile bazı bina türleri için ilave koşullar yer alır. Bu hükümler, her yeni çatı cihazı için otomatik olarak belirli bir uzaklık veya yeni bir yangın dayanım süresi öngörüldüğü anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağının konu haritasında da çatılar başlığı bulunmaktadır. Bununla birlikte özgün taslak hükmüyle yürürlükteki madde arasında fıkra düzeyinde karşılaştırma tamamlanmadığı için taslaktan yeni bir sayısal zorunluluk veya yürürlük iddiası çıkarılmamıştır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapı ruhsatı ve yapı kullanma izniyle ilişkili onaylı proje takımında çatının nasıl düzenlendiğini, sonradan eklenen cihaz için revizyon bulunup bulunmadığını ve işletmenin fiili kullanımını belirler. Çatıya çıkıldığında cihazın projedeki yeri, kablo ve kanal güzergahları, çatıya açılan yeni delikler, bakım erişimi ve biriken yanıcı malzemeler gözlemlenir. Cihazın üretici dokümanı, montaj raporu, kullanılan kaplama ve geçiş sisteminin teknik belgeleri incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede bulunmayan bir havalandırma kanalı yangına dayanıklı döşemeyi deliyorsa raporda yalnız “kanal uygunsuz” denmez. Kanalın yeri, delinen ayırıcı, mevcut kapatma uygulaması, görülen belge eksikliği ve gerekli proje/uygulama doğrulaması ayrı ayrı belirtilir. Gerekli hesap, tasarım değişikliği, deney, ölçüm veya resmi onay yetkili uzman ve kuruluşlara bırakılır. YGU, bu işlemleri kendi gözlemsel kontrolüyle yapılmış saymaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Çatıya eklenen tesisatın yangın koşullarını değiştirip değiştirmediği, cihazın adından değil çatı sisteminde oluşturduğu somut değişikliklerden anlaşılır. Sağlıklı inceleme, onaylı çatı düzeni ile mevcut durumu eşleştirir; eksik belgeyi, açık geçişi ve erişim sorununu birbirinden ayırarak gerekçeli şekilde kayda geçirir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    }
+  ],
+  "sonNotlar": []
+}

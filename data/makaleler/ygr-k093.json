@@ -1,0 +1,156 @@
+{
+  "kod": "YGR-K093",
+  "yol": "mevcut-binada-kacis-kapisi-donanimi-degistirilince-ne-incelenir",
+  "baslik": "Mevcut binada kaçış kapısı donanımı değiştirilince ne incelenir?",
+  "ozet": "Bir kaçış kapısının menteşesi, kapatıcısı, kilidi veya panik açma düzeneği değiştirildiğinde inceleme yalnız yeni parçanın çalışıp çalışmadığıyla sınırlı kalmaz. Değişiklik, kapının yangına ve dumana karşı koruma özelliğini, kaçış yönünde serbest açılmasını ve kullanıcıların geçebildiği temiz açıklığı etkileyebilir. Özellikle mevcut binalarda, kapının hangi projeye göre yapıldığı ve binanın hangi hükümlere tabi olduğu belirlenmeden yalnız güncel bir ölçüye bakılarak uygunluk kararı verilmesi doğru değildir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapi-yenilendiginde-asil-soru-nedir",
+      "metin": "Kapı yenilendiğinde asıl soru nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk ayrım, yapılan işin niteliğidir: yalnızca eşdeğer bir donanımın değiştirilmesi mi, kanat ve kasanın yenilenmesi mi, yoksa açıklığın ve kaçış düzeninin değiştirilmesi mi? Aynı görünen iki müdahalenin teknik ve idari sonucu farklı olabilir. Yeni donanım, kapının onaylı projedeki işlevini korumalı; kullanım değişikliği veya esaslı tadilat varsa uygulanacak hükümler ayrıca belirlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "once-mevcut-yapi-statusu-ve-kapinin-gorevi-belirlenir",
+      "metin": "Önce mevcut yapı statüsü ve kapının görevi belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapı ruhsatı, yapı kullanma izin belgesi, onaylı mimari ve tahliye projeleri ile sonradan alınmış tadilat veya kullanım değişikliği izinleri birlikte okunur. Kapı; oda çıkışı, korunumlu koridor çıkışı, yangın güvenlik holü kapısı, kaçış merdiveni kapısı veya son çıkış olabilir. Her kapıya aynı yangın dayanımı, açılma yönü ve donanım koşulunu otomatik uygulamak yanıltıcıdır. Kullanıcı yükü, hizmet verilen katlar, yapı yüksekliği ve kapının kaçış zincirindeki yeri kararı etkiler."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, genel kaçış yolu kapıları ile mevcut yapılara ilişkin özel hükümleri ayrı düzenler. Genel kaçış kapısı hükümlerinde temiz genişlik için 80 cm ve yükseklik için 200 cm alt sınırı bulunurken, mevcut yapılara ilişkin 157. maddede kaçış yolu kapıları için 70 cm genişlik ve 190 cm yükseklik alt sınırları yer alır. Bu ikinci değerler, her kapı değişikliğinin koşulsuz olarak bu ölçülere indirilebileceği anlamına gelmez. Hangi hükmün uygulanacağı yapının statüsüne, müdahalenin kapsamına ve varsa kullanım değişikliğine göre belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "donanim-degisikliginde-incelenecek-teknik-iliskiler",
+      "metin": "Donanım değişikliğinde incelenecek teknik ilişkiler"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapının açılır kanadı ve kasası sağlam görünse bile yeni bir kapatıcı, kilit karşılığı veya panik barın montajı, kanadın tam kapanmasını engelleyebilir. Kapı kanadının açık konumdaki izdüşümü de geçişi daraltabilir. Bu nedenle ürün etiketi veya fatura tek başına yeterli kanıt değildir; onaylı kapı detayı, ürünün uygunluk belgeleri, montaj talimatı ve sahadaki davranış birlikte değerlendirilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol odağı",
+        "Belge / kayıt",
+        "Sahada sorulacak soru"
+      ],
+      "satirlar": [
+        [
+          "Temiz geçiş ve eşik",
+          "Onaylı kapı detayı, tadilat çizimi, varsa yetkili ölçüm kaydı",
+          "Kanat 90 derece açıkken kol, kapatıcı veya yeni kasa parçası geçişi daraltıyor mu?"
+        ],
+        [
+          "Serbest açılma ve kilit",
+          "Kilit/panik düzenek teknik belgesi, kullanım talimatı",
+          "Kaçış yönünden anahtar ya da özel işlem gerekmeksizin açılabiliyor mu?"
+        ],
+        [
+          "Kendiliğinden kapanma",
+          "Kapı kapatıcısı montaj ve bakım kaydı",
+          "Kapı serbest bırakıldığında tam kapanıyor ve kilit dili karşılığa oturuyor mu?"
+        ],
+        [
+          "Yangın ve duman koruması",
+          "Kapı setinin sınıflandırma belgesi, üretici montaj detayı",
+          "Conta, kasa–duvar birleşimi ve sonradan açılan delikler korumayı bozuyor mu?"
+        ],
+        [
+          "Açılma yönü ve kullanıcı yükü",
+          "Tahliye projesi, fiili mahal kullanımı ve kişi sayısı",
+          "Kanat kaçış hareketini, koridoru veya merdiven sahanlığını engelliyor mu?"
+        ],
+        [
+          "Kontrollü erişim / elektromanyetik tutucu",
+          "Elektrik projesi, yangın alarmı arayüz kaydı, yetkili test raporu",
+          "Alarm veya enerji kesintisi senaryosunda öngörülen güvenli davranış kanıtlanıyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo, uygunluk kararı veren bağımsız bir kontrol formu değil; kapı değişikliğinde kanıtların hangi soruyla eşleştirileceğini gösteren yardımcı inceleme çerçevesidir."
+    },
+    {
+      "tip": "h2",
+      "id": "acma-kuvveti-panik-duzenek-ve-yangin-dayanimi",
+      "metin": "Açma kuvveti, panik düzenek ve yangın dayanımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede kapıların en çok 110 N kuvvetle açılabilecek şekilde tasarlanması öngörülür. Mevcut yapıların kaçış kapılarında, kapının kaçış yönünde kilitsiz ve elle açılabilmesi, gerektiği yerde panik kollu veya benzeri düzenek bulunması ve kendiliğinden kapanması ayrıca değerlendirilir. Bir kattaki kullanıcı sayısının 100 kişiyi geçmesi gibi eşikler ile tabii zemin seviyesindeki güvenli alana açılan kapıların özel durumu göz ardı edilmemelidir. Kapatıcının fazla sert ayarlanması, kapanmayı sağlarken açılmayı zorlaştırabilir; bu ikisi birlikte ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangına dayanıklı kapıda sonradan yapılan delme, kesme, aksesuar ekleme veya kasa değişikliği ürünün belgelenmiş kapı seti çözümünden sapma oluşturabilir. Üreticinin izin verdiği donanım ve montaj koşulları kontrol edilir. Yangın dayanımı yalnız kanat malzemesinden çıkarılamaz; kanat, kasa, donanım, contalar ve montaj bir bütün olarak değerlendirilir. Uygunluğu belirsiz bir müdahalede yetkili uygulayıcıdan teknik açıklama ve gerektiğinde düzeltme istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslakta-onerilen-degerler-nasil-ele-alinmali",
+      "metin": "Taslakta önerilen değerler nasıl ele alınmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından sağlanan yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağında, genel kaçış yolu kapıları için temiz genişliğin en az 90 cm olması ve kapıların en çok 100 N kuvvetle açılacak şekilde tasarlanması önerilmektedir. Bunlar taslak değerlerdir; yürürlükteki 80 cm ve 110 N hükümlerinin yerine geçmiş sayılmaz. Taslağın mevcut yapılara ilişkin uygulama maddesi de kullanım değişikliği ve esaslı tadilat ayrımını önemsemektedir. Bu nedenle raporda yürürlükteki uygunluk değerlendirmesi ile taslakta öngörülen olası yeni gereksinim ayrı yazılır."
+    },
+    {
+      "tip": "h2",
+      "id": "kisa-uygulama-ornegi-yeni-kapatici-daralan-gecis",
+      "metin": "Kısa uygulama örneği: yeni kapatıcı, daralan geçiş"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın korunumlu merdiven kapısına yeni kapatıcı ve kol takıldığını düşünelim. Kapı artık kapanıyor; ancak kolun konumu ve kapatıcının ayarı nedeniyle kapının 90 derece açık durumundaki temiz geçişi azalmış, kullanıcıların açmak için daha fazla kuvvet uygulaması gerekmiştir. İlk tespit, “kapı yeni, dolayısıyla uygundur” ya da “mevcut binada 70 cm yeterlidir” biçiminde kurulmaz. Kapının projedeki görevi, uygulanabilir yapı hükümleri, ürün–montaj belgeleri ve yetkili ölçüm/test kayıtları birlikte istenir. Kaçışın zorlaştığı gözlemsel olarak görülüyorsa sonuç kesin uygunluk verilmeden gerekçeli bulguya dönüştürülür."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye kapının bulunduğu mahal ve kaçış güzergahını onaylı tahliye planında işaretleyerek başlar. Yapının ruhsat ve kullanım belgelerinden geçerli değerlendirme çerçevesini, bakım ve tadilat kayıtlarından ise hangi donanımın ne zaman değiştirildiğini belirler. Sahada kapının açılma yönünü, geçişe taşan parçaları, kilitsiz çıkış imkanını, kapanma davranışını, duman contalarını ve kasa bağlantısını gözlemsel olarak karşılaştırır. Yangın alarmıyla ilişkili bir tutucu veya kontrollü geçiş düzeneği varsa sistemin test edildiğine ilişkin yetkili raporu inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin kapının kapatıcı kolu koridora taşıyor ve çıkış sırasında kanat takılıyorsa, raporda kapının konumu, onaylı projedeki tanımı, değiştirilen parça, gözlenen etki ve eksik teknik belge ayrı ayrı belirtilir. Gerekli net açıklık, açma kuvveti veya yangın dayanımına ilişkin sayısal uygunluk belgesizse YGU bunları ölçmüş ya da sertifikalandırmış gibi davranmaz; ilgili ölçümün, testin veya teknik değerlendirmenin yetkili uzman ve kuruluşlarca yapılmasını ister. Proje tadilatı, kapı seti tasarımı ve idari onay da kendi yetkili mercilerinin sorumluluğunda kalır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binada kaçış kapısı donanımı değiştiğinde temel ölçüt, değiştirilen parçanın yeniliği değil, kaçış işlevinin ve gerekiyorsa yangın–duman korumasının korunup korunmadığıdır. Doğru inceleme; yapı statüsü, onaylı proje, ürün ve montaj belgeleri, fiili kullanım ve gözlemsel saha bulgusunu aynı değerlendirmede birleştirir. Belirsizlikler açıkça raporlanır; taslak değerler yürürlükteki zorunluluk gibi sunulmaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

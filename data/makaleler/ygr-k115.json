@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K115",
+  "yol": "tasiyici-elemanda-delik-veya-kesit-degisikligi-yangin-degerlendirmesini-etkiler-mi",
+  "baslik": "Taşıyıcı elemanda delik veya kesit değişikliği yangın değerlendirmesini etkiler mi?",
+  "ozet": "Bir kirişe yeni boru geçirmek için delik açılması veya bir kolonda kesit değiştirilmesi, yalnız tesisatın güzergahını ilgilendiren küçük bir imalat olarak görülemez. Müdahalenin taşıyıcı davranışa etkisi ile elemanın yangın sırasında öngörülen performansı birbirinden ayrı, fakat ilişkili iki sorudur. Çatlak görülmemesi ya da tesisatın çalışması, bu soruların cevaplandığı anlamına gelmez.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "delik-kesit-ve-yangin-korumasi-ayni-anda-incelenmeli",
+      "metin": "Delik, kesit ve yangın koruması aynı anda incelenmeli"
+    },
+    {
+      "tip": "p",
+      "metin": "Kirişte açılan bir boşluk; kesme kuvvetlerinin aktarıldığı beton veya çelik bölgeyi, donatı düzenini, etriyeleri, gövde levhasını ya da ön germe elemanlarını etkileyebilir. Etkinin düzeyi, elemanın malzemesine, açıklığın yerine ve boyutuna, mevcut yük durumuna ve taşıyıcı sistemin bütününe bağlıdır. Bu nedenle “küçük delik zararsızdır” veya “her delik taşıyıcıyı kullanılamaz hale getirir” gibi iki uç sonuç da teknik inceleme olmadan kurulamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın yönünden ikinci soru, değişikliğin öngörülen yangına dayanımın dayandığı kesiti ve koruma detayını değiştirip değiştirmediğidir. Çelik elemandaki yangın koruma kaplamasının sökülmesi, betonarme kesitte donatı örtüsünün bozulması veya kompozit elemanda birleşim detayının değiştirilmesi, yalnız yapısal hesapla değil, ilgili yangın performans belgeleriyle de ele alınmalıdır. Tesisatın bir yangın bölmesi sınırını geçtiği durumlarda geçiş çevresindeki yangın durdurucu uygulama ayrıca kontrol edilir; bu kontrol, taşıyıcı delik için statik onayın yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahadaki-fark-nerede-baslar",
+      "metin": "Proje ile sahadaki fark nerede başlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, taşıyıcı elemanın onaylı statik projedeki aksı, kodu, kesiti ve donatı veya çelik birleşim detayıyla başlar. İlgili tesisat projesi ve revizyon paftaları aynı yer için okunur. Sahada görülen açıklığın konumu ve niteliği kaydedilir; bunun proje kapsamında öngörülmüş bir uygulama mı, sonradan yapılan bir müdahale mi olduğu belge üzerinden ayrıştırılır. Fotoğraf, eleman kodu ve mahal bilgisiyle eşleştirilir; gözle belirlenemeyen donatı veya gizli bağlantı durumu kesin bilgi gibi yazılmaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1600,
+      "yukseklik": 465,
+      "aciklama": "Şekil 115. Aynı taşıyıcı elemanın onaylı proje ile saha durumunun karşılaştırılması (temsili şema).",
+      "src": "/img/makale/ygr-k115-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-yeni-taslagin-ayrimi",
+      "metin": "Yürürlükteki hüküm ile yeni taslağın ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, taşıyıcı sistemin yangın sırasında tahliye veya söndürme için gerekli süre boyunca stabil kalacak şekilde hesaplanıp boyutlandırılmasını öngörür. Yönetmeliğin taşıyıcı sisteme ilişkin hükümleri, yük taşıma kapasitesini ve yangın dayanımını birlikte ele alır. Bir elemanın kesiti değiştiğinde önceki tasarım kabulünün kendiliğinden geçerli kaldığı varsayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında, taşıyıcı sistemin en az ilgili yangın dayanım tablosunda belirtilen süre boyunca stabil kalması ve ilgili tasarım standartlarının dikkate alınması daha açık ifade edilmektedir. Bu, taslak metindeki bir öneridir; yürürlükteki hüküm olarak sunulamaz. Delik açılmasına genel bir izin veya Yangın Güvenlik Uzmanına taşıyıcı sistem hesabı yapma yetkisi doğurduğu şeklinde yorumlanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), ilgili inceleme görevi kapsamında yapı ruhsatı ve yapı kullanma izni kayıtlarını, onaylı mimari ve statik projeleri, varsa tadilat projesini, yangın güvenliği raporunu ve tesisatın geçiş detaylarını aynı aks ve eleman kodunda karşılaştırır. İşletmenin gerçek kullanımını ve müdahalenin ne zaman, hangi amaçla yapıldığını öğrenir; beyanı teknik onay yerine koymaz. Kiriş veya kolon yüzeyindeki yeni delik, kesme, çatlak, kaplama kaybı ya da sonradan eklenmiş bağlantı gibi görünür farklılıkları yer, fotoğraf ve belge bilgisiyle kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı projede bulunmayan bir açıklık saptandığında YGU, bu farkın statik ve yangın performansı bakımından yetkili tasarımcı tarafından değerlendirilip değerlendirilmediğini, revize projenin ve gerekli teknik belgelerin bulunup bulunmadığını araştırır. Gözlemsel kontrolle donatı taraması, taşıma kapasitesi hesabı, yangın dayanımı tayini veya proje onayı yapmaz. Bu işler ilgili yetkili mühendis, proje müellifi, uygulayıcı ve gerektiğinde uzman test veya muayene kuruluşlarının sorumluluğundadır. Belge ve doğrulama yoksa “uygun” sonucunu yalnız görsel izlenime dayandırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "karsilastirmada-hangi-kanit-aranir",
+      "metin": "Karşılaştırmada hangi kanıt aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Belgede aranacak bilgi",
+        "Saha bulgusu ve kayıt"
+      ],
+      "satirlar": [
+        [
+          "Taşıyıcı elemanın kimliği",
+          "Onaylı statik proje, aks, eleman kodu, kesit ve revizyon",
+          "Delik veya kesit değişikliği aynı eleman koduyla fotoğraflanır."
+        ],
+        [
+          "Müdahalenin teknik dayanağı",
+          "İlgili tasarımcının değerlendirmesi, gerekiyorsa revize hesap ve proje",
+          "Belge yoksa teknik yeterlilik doğrulanmış sayılmaz."
+        ],
+        [
+          "Yangın dayanımı",
+          "Gerekli performans, eleman ve koruma detayı, ürün/uygulama kayıtları",
+          "Koruma katmanındaki kesinti veya bozulma ayrıca kaydedilir."
+        ],
+        [
+          "Tesisat geçişi ve bölme",
+          "Onaylı tesisat geçişi, yangın bölmesi ve yalıtım detayı",
+          "Geçiş çevresindeki görünür açıklık ayrı bulgu olarak belirtilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-rapor-ornegi",
+      "metin": "Gerekçeli rapor örneği"
+    },
+    {
+      "tip": "p",
+      "metin": "“B-3 aksındaki K-12 kirişinde onaylı statik projede gösterilmeyen bir tesisat açıklığı görülmüştür. Açıklığın taşıyıcı sistem ve yangın dayanımı üzerindeki etkisini değerlendiren yetkili tasarımcı görüşü ve buna bağlı revizyon belgeleri incelemeye sunulmamıştır. Bu nedenle ilgili elemanın mevcut durumunun onaylı projeye ve öngörülen yangın performansına uygunluğu bu inceleme kapsamında doğrulanamamıştır.” Bu kayıt, gözlenen farkı, eksik kanıtı ve karar sınırını birbirinden ayırır; hesap yapılmadan elemanın kesinlikle güvenli veya güvensiz olduğunu ilan etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Taşıyıcı elemandaki yeni delik veya kesit değişikliği, projenin ve yangın performansı kabulünün yeniden incelenmesini gerektirebilecek bir değişikliktir. Doğru yaklaşım, müdahaleyi yalnız fotoğrafla geçiştirmek değil; eleman kimliği, proje revizyonu, yetkili mühendislik değerlendirmesi ve yangın koruma belgeleri arasında izlenebilir bir bağlantı kurmaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

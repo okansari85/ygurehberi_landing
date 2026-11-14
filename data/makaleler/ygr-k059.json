@@ -1,0 +1,133 @@
+{
+  "kod": "YGR-K059",
+  "yol": "otopark-duman-kontrolunde-arac-yerlesimi-degisirse-ne-olur",
+  "baslik": "Otopark duman kontrolünde araç yerleşimi değişirse ne olur?",
+  "ozet": "Kapalı otoparkta park çizgilerinin yenilenmesi her zaman duman kontrol projesinin değiştiği anlamına gelmez. Ancak yeni duvar, yüksek bölme, depo kafesi, bariyer veya rampa düzenlemesi; dumanın toplanacağı hacmi, telafi havasının güzergahını ve tahliye ağızlarına erişimi etkileyebilir. Bu ayrım, sadece park yeri sayısına bakılarak değil, onaylı tasarım ile gerçek yerleşim karşılaştırılarak yapılır.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "hangi-degisiklikler-teknik-inceleme-gerektirir",
+      "metin": "Hangi değişiklikler teknik inceleme gerektirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yalnız zemin işaretlemesi değişmişse, duman kontrolüne ait ekipmanların konumu ve hava yolu aynı kalabilir. Buna karşılık döşemeden tavana uzanan yeni bir bölme, egzoz ağzını kapatan raf, fanın üfleme yönünü etkileyen yüksek engel veya araç geçişi için kapatılan bir açıklık sistemin hizmet ettiği hacmi değiştirebilir. Otoparkın bir kısmının depo, teknik mahal ya da farklı bir faaliyete ayrılması ise kullanım ve yangın güvenliği yönünden ayrıca değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mekanik duman kontrolü, fanın çalışmasıyla sınırlı değildir. Projede tanımlanan egzoz ve hava giriş noktalarının, varsa jet fanların, kontrol zonlarının ve yangın senaryosunun yeni yerleşimle birlikte okunması gerekir. Otoparkta yağmurlama sistemi bulunması, duman tahliyesiyle ilgili gereklilikleri kendiliğinden ortadan kaldırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yonetmelik-cercevesi-ve-uygulama-siniri",
+      "metin": "Yönetmelik çerçevesi ve uygulama sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, toplam alanı 2.000 m²’yi aşan kapalı otoparklarda mekanik duman tahliyesi, diğer bölümlere hizmet veren sistemlerden bağımsızlık ve saatte en az 10 hava değişimi koşullarını düzenler. Bu eşik, otoparkın hukuken ve projede hangi alanlardan oluştuğu belirlenmeden keyfi bölmelere ayrılarak yorumlanamaz. Ayrıca duman kontrol sistemlerinin kabul testi, periyodik kontrol ve bakımı da ayrı bir gerekliliktir."
+    },
+    {
+      "tip": "p",
+      "metin": "Söz konusu sayısal koşullar, yerleşim değişikliğinin otomatik olarak uygunsuz olduğu ya da mevcut fanın yeterli kaldığı sonucunu vermez. Güncel hacim, hava yolu, sistem kapasitesi ve yangın senaryosu gerektiğinde yetkili mekanik tasarım ve test uzmanlarınca yeniden değerlendirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 59. Yeni bölmenin otoparktaki hava güzergahına olası etkisi (temsili çizim).",
+      "src": "/img/makale/ygr-k059-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasinda-aranacak-kanitlar",
+      "metin": "Belge ve saha karşılaştırmasında aranacak kanıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge / veri",
+        "İncelenecek unsur",
+        "Sahada sorulacak soru"
+      ],
+      "satirlar": [
+        [
+          "Onaylı mimari proje, ruhsat ve izinler",
+          "Otopark sınırı, kullanım amacı, sonradan oluşan mahal ve bölmeler",
+          "Yeni yerleşimin onaylı projede karşılığı var mı?"
+        ],
+        [
+          "Mekanik duman kontrol projesi",
+          "Egzoz ağızları, hava girişleri, fanlar, varsa jet fanlar ve kontrol zonları",
+          "Yeni engeller hava yolunu veya hizmet alanını etkiliyor mu?"
+        ],
+        [
+          "Yangın senaryosu ve sistem şeması",
+          "Algılama komutları, fan/damper işletme sırası, enerji beslemesi",
+          "Yangın modundaki işleyiş yeni düzenle eşleşiyor mu?"
+        ],
+        [
+          "Devreye alma, test ve bakım kayıtları",
+          "Sistem testleri, ölçüm raporları, bakım ve arıza kayıtları",
+          "Kayıtlar değişiklikten önceye mi, sonraya mı ait?"
+        ],
+        [
+          "Saha gözlemi ve fotoğraflar",
+          "Bölmeler, yüksek engeller, menfez önü, ekipman erişimi",
+          "Gözlenen fark pafta üzerinde konumlandırılmış mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izin belgesi, varsa tadilat izinleri ve onaylı mimari paftalar ile başlar. Otoparkın güncel kullanımını; park alanları, rampa, depo veya teknik mahal olarak ayrılmış bölümleri ve işletmenin fiili düzenini yerinde belirler. Ardından onaylı duman kontrol projesini, varsa uygulama revizyonlarını, yangın senaryosunu, devreye alma raporlarını ve bakım-test kayıtlarını birlikte inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada egzoz ve hava giriş ağızlarının önü, yeni bölmelerin yüksekliği ve sürekliliği, ekipmana erişim, varsa jet fanların yerleri ve yeni engellerin konumu gözlemsel olarak kaydedilir. Farklar güncel plan üzerinde işaretlenir; fotoğraf, pafta ve belge numarasıyla izlenebilir hale getirilir. İşletmenin yalnızca “fan çalışıyor” beyanı, yeni yerleşimin tasarıma uygunluğunun kanıtı olarak kabul edilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözle görülen proje–saha farklılığını ve eksik kanıtı gerekçesiyle raporlar. Fan debisi ölçümü, duman kontrol hesabı, CFD analizi, yeni sistem tasarımı, test raporu düzenlenmesi veya ruhsat/proje onayı gibi işlemleri kendiliğinden üstlenmez; bunların yetkili mühendis, test kuruluşu ve ilgili idarenin görev alanına girdiğini gözetir. Bu işlemler için doğrulama gerekiyorsa bunu raporda açıkça belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "bulguyu-sonuclandirirken",
+      "metin": "Bulguyu sonuçlandırırken"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin onaylı planda açık otopark hacmi olarak görülen bir bölgede sonradan yüksek bir depo bölmesi yapılmış ve egzoz ağzının hizmet ettiği alan değişmiş görünüyorsa, bulgu “duman tahliye sistemi yetersizdir” diye kesinleştirilmez. Doğru yaklaşım, mevcut yerleşimin onaylı duman kontrol tasarımıyla eşleşmediğini, güncel teknik değerlendirme veya test kaydının sunulmadığını ve yetkili incelemenin gerekli olduğunu belirtmektir. Bu, gerçek bir olay anlatımı değil, temsili raporlama örneğidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Otoparkta araç yerleşimi değiştiğinde esas soru, yeni düzenin dumanın ve telafi havasının öngörülen güzergahını etkileyip etkilemediğidir. Karar; güncel kullanım, onaylı proje, sahadaki fiziksel durum ve yetkili teknik kanıt birlikte incelenerek verilir. Eksik belge ile teknik uygunsuzluk birbirine karıştırılmaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

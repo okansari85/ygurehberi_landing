@@ -1,0 +1,125 @@
+{
+  "kod": "YGR-K139",
+  "yol": "toplanma-salonunda-bir-sira-koltuk-eklemek-hangi-hesaplari-tetikler",
+  "baslik": "Toplanma salonunda bir sıra koltuk eklemek hangi hesapları tetikler?",
+  "ozet": "Bir sinema veya konferans salonunda bir sıra daha koltuk yerleştirmek yalnızca oturma kapasitesini artırmaz. Yeni sıra, ara dolaşım alanının geometrisini, koltuk sırası içindeki geçiş mesafesini, çıkışlara ulaşma düzenini ve mevcut kapıların hizmet ettiği kullanıcı sayısını etkileyebilir. Bu nedenle değişiklik, yalnız koltuk sayısı üzerinden değil, onaylı yerleşim planı ile fiili yerleşim birlikte incelenerek değerlendirilmelidir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-ne-degistigi-belirlenir",
+      "metin": "Önce ne değiştiği belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı mimari yerleşim ve tahliye planındaki koltuk sayısı, sıra düzeni, bloklar arasındaki geçitler, salon kapıları ve bunların bağlandığı koridorlar başlangıç verisidir. Sonradan eklenen sıra nedeniyle sahnede, arka geçitte veya yan dolaşım alanında daralma oluşmuş olabilir. Sıra sayısı aynı kalsa bile sabit koltukların daha sık dizilmesi de geçişi etkileyebilir. Yalnızca satış sistemindeki kapasite rakamını görmek yeterli değildir; koltukların gerçek yerleşimi de incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-hesap-ve-kontroller-yeniden-acilir",
+      "metin": "Hangi hesap ve kontroller yeniden açılır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol başlığı",
+        "Soru / kanıt"
+      ],
+      "satirlar": [
+        [
+          "Kullanıcı yükü",
+          "Önceki ve yeni sabit koltuk sayıları; varsa tekerlekli sandalye yerleri, görevli ve diğer kullanıcıların hesapta nasıl ele alındığı."
+        ],
+        [
+          "Sıra içi geçiş",
+          "Koltuk sırası boyunca temiz geçişin sürekliliği; otomatik kalkan koltukların dik konumundaki en yakın çıkıntı esas alınarak ölçülen açıklık."
+        ],
+        [
+          "Ara dolaşım alanı",
+          "Koltuk blokları arasındaki geçitlerin genişliği, yönü, kot farkı, engeller ve salon çıkış kapılarına sürekliliği."
+        ],
+        [
+          "Çıkış sayısı ve kapasitesi",
+          "Yeni toplam kullanıcı sayısının salon kapıları, ortak koridorlar, merdivenler ve nihai çıkışlar üzerindeki etkisi."
+        ],
+        [
+          "Kaçış uzaklığı",
+          "Yeni en uzak oturma noktasından uygun çıkışa gerçek yürüyüş güzergahı; tek veya iki yönlü kaçış durumunun değişip değişmediği."
+        ],
+        [
+          "İşletme düzeni",
+          "Seans doluluğu, geçici sandalye kullanımı, perde veya sahne ekipmanı ile geçitlerin kapanması ve tahliye organizasyonu."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ve-degisiklik-taslagi-nasil-okunur",
+      "metin": "Yürürlükteki BYKHY ve değişiklik taslağı nasıl okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 51, sabit koltuklu toplantı amaçlı salonlarda sıra içi geçiş, koltuk blokları arasındaki dolaşım alanları, kot değişimleri ve ilgili yüzey koşullarını düzenler. Bu maddede sıra iç geçiş temiz genişliğinin 30 cm’den az olamayacağı belirtilir; bu tek değer bütün salon yerleşiminin uygun olduğu anlamına gelmez. Aynı maddede koltuk sırası içindeki koltuk sayısı için yönetmeliğin ilgili ekindeki şartlara gönderme yapılır. Çıkış kapasitesi ve kaçış uzaklığı ayrıca ilgili hesap hükümleri ve ekleriyle birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının ilettiği BYKHY değişiklik TASLAĞI da Madde 51 altında toplanma amaçlı binaları düzenlemektedir. Taslak hükümler, yürürlükteki şartların yerine geçmiş kabul edilemez. Taslak ve yürürlükteki metinler arasında farklılık bulunduğunda kontrol raporunda hangi metnin hangi statüde kullanıldığı açık tutulmalıdır. Bu makalede doğrulanmamış yeni sayısal eşik taslağa atfedilmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "kisa-teknik-ornek-kapasite-artisi-neden-tek-basina-yeterli-veri-degildir",
+      "metin": "Kısa teknik örnek: kapasite artışı neden tek başına yeterli veri değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek olarak, onaylı planda 12 koltuklu 10 sıra bulunduğunu, sahada aynı genişlikteki salona bir sıra daha eklendiğini varsayalım. Koltuk sayısı 120’den 132’ye çıkar; artış 12 kişidir. Bu yalnızca aritmetik bir örnektir, gerçek bir tesis bulgusu değildir. Yeni sıranın arka geçidi daraltıp daraltmadığı, çıkış kapısına yönelen akışı değiştirip değiştirmediği ve çıkış kapasitesinin yeni kullanıcı yüküne yetip yetmediği bu sayıdan anlaşılamaz. Sıra eklenmesi nedeniyle başka bir geçit ortadan kalktıysa, yalnız toplam kapasite değil kaçış yolu geometrisi de değişmiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce onaylı mimari proje, salon oturma planı, tahliye düzeni ve varsa değişiklik projelerini tarih ve revizyon bilgileriyle eşleştirir. Yapı kullanım kaydı ve salonun gerçek faaliyet türü incelenir. Sahada koltuk bloklarının, geçitlerin, kapıların ve yönlendirme düzeninin projedeki konumlarıyla uyuşup uyuşmadığı belirlenir. Özellikle sonradan eklenen koltuk, taşınabilir sandalye, bariyer ve dekorun kaçış güzergahını etkileyip etkilemediği gözlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha kaydı, yalnız “koltuk eklendi” ifadesiyle bırakılmaz. Salon/kat kodu, ilgili plan revizyonu, önceki ve fiili koltuk sayısı, değişikliğin konumu, etkilenen geçit veya çıkış, fotoğraf referansı ve henüz doğrulanmamış hesaplar ayrı yazılır. Gerekli tasarım veya kapasite hesabı mevcut değilse, hesap yapılmış gibi uygunluk kararı verilmez; mevcut belgenin eksikliği ve yeniden değerlendirilmesi gereken başlıklar belirtilir. YGU’nun gözlemsel incelemesi, proje hazırlama, yetkili onay veya özel teknik ölçüm yetkisinin yerine geçmez; sırf bu nedenle herhangi bir bağımsız uzman imzası zorunluluğu da uydurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-gerekceli-tespit-metni",
+      "metin": "Örnek gerekçeli tespit metni"
+    },
+    {
+      "tip": "p",
+      "metin": "“S-02 salonunun onaylı oturma planında bulunmayan ilave koltuk sırası sahada görülmüştür. Yeni sıra arka dolaşım alanının sınırını değiştirmektedir. Güncel kullanıcı yükü, sıra içi geçiş açıklığı ve ilgili çıkış kapasitesi hesabının yeni yerleşime göre doğrulandığını gösteren revizyon sunulmamıştır. Proje ile saha arasında farklılık ve hesap doğrulama eksikliği kayda alınmıştır.” Bu metin yalnız rapor yazımını göstermek için hazırlanmış örnektir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Sabit koltuklu salonda tek bir sıra eklenmesi dahi kullanıcı yükü, geçiş geometrisi ve çıkış kapasitesi arasındaki ilişkiyi değiştirebilir. Sağlıklı değerlendirme, doğru mevzuat sürümü, onaylı plan, gerçek oturma düzeni ve izlenebilir saha kanıtının aynı dosyada bir araya getirilmesiyle yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

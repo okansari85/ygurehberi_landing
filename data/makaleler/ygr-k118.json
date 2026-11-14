@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K118",
+  "yol": "bolme-duvarinin-malzeme-degisikligi-nasil-degerlendirilir",
+  "baslik": "Bölme duvarının malzeme değişikliği nasıl değerlendirilir?",
+  "ozet": "Bir binada tuğla bölme duvarın sökülerek hafif panel sistemle yenilenmesi, her durumda yangın güvenliği açısından eşdeğer bir değişiklik değildir. Önce duvarın işlevi belirlenmelidir: Sıradan bir mahal ayırıcısı mı, yoksa yangın kompartımanını çevreleyen ve belirli süre yangına dayanması gereken bir yapı elemanı mı? Bu ayrım yapılmadan yalnızca panelin katalogda “yangına dayanıklı” olarak tanıtılmasına bakılarak olumlu sonuca varılamaz.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "duvar-degistiginde-yalniz-malzeme-adi-degismez",
+      "metin": "Duvar değiştiğinde yalnız malzeme adı değişmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Kompartıman sınırındaki duvar, yangın ve dumanın komşu mahale geçişini sınırlayan bir bütünün parçasıdır. Yangın dayanımı tek bir levhanın değil, taşıyıcı profili, levha katmanları, dolgu, bağlantılar, derzler ve uygulama ayrıntılarıyla birlikte duvar sisteminin özelliğidir. Dolayısıyla eski duvarla yeni sistemin aynı kalınlıkta veya benzer görünümde olması yeterli kanıt değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "ilk-soru-degistirilen-duvar-hangi-sinirda",
+      "metin": "İlk soru: Değiştirilen duvar hangi sınırda?"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı mimari proje, yangın tahliye projesi ve varsa kompartıman planı birlikte okunur. Duvarın iki yanında bulunan mahalin kullanım amacı, komşu hacimlerin yangın yükü ve duvarın hangi döşeme, kolon, kiriş veya çatı elemanına bağlandığı belirlenir. Projede yangın ayırıcı olduğu anlaşılan bir duvarın sahada sıradan iç bölme gibi uygulanması, yalnızca ürün seçimi sorunu değil kompartıman bütünlüğü sorunudur."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik madde 24, kompartıman duvar ve döşemelerinin en az dayanım süreleri için Ek-3/B’ye gönderme yapar. Aynı maddenin yedinci fıkrası, kompartımanı çevreleyen elemanların birleşme noktalarında dayanım sürekliliğinin korunmasını ve yangına dayanıksız açıklık bırakılmamasını gerektirir. Gerekli süre, bina ve kullanım özellikleri belirlenmeden yalnızca bu örnekten çıkarılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "urun-belgesi-ile-uygulama-kaniti-ayni-sey-degildir",
+      "metin": "Ürün belgesi ile uygulama kanıtı aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Hafif bölme duvar için sunulan deney veya sınıflandırma belgesinin hangi sistem kuruluşunu kapsadığı okunmalıdır. Belgede tarif edilen profil, levha sayısı, kalınlık, dolgu, bağlantı aralığı, duvar yüksekliği ve mesnet koşulları ile sahadaki uygulama karşılaştırılır. Belge yalnızca belirli bir sistem için geçerliyse farklı katmanlarla yapılmış duvarı kendiliğinden doğrulamaz. Uygulama alanının belge kapsamı dışında kalması halinde uygun teknik değerlendirme, ilgili yetkin tasarımcı ve uygulayıcıdan istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-belge-saha-karsilastirmasi",
+      "metin": "Proje – belge – saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Aranacak kanıt",
+        "Sahadaki kritik fark"
+      ],
+      "satirlar": [
+        [
+          "Duvarın işlevi",
+          "Onaylı plan ve kompartıman sınırı",
+          "Projede yangın ayırıcı, sahada sıradan bölme"
+        ],
+        [
+          "Sistem kuruluşu",
+          "Sınıflandırma/deney kapsamı, uygulama detayı",
+          "Farklı levha, profil, dolgu veya katman"
+        ],
+        [
+          "Üst ve yan birleşimler",
+          "Detay çizimi ve uygulama kaydı",
+          "Asma tavan üzerinde açık kalan boşluk"
+        ],
+        [
+          "Tesisat geçişleri",
+          "Onaylı geçiş detayı ve ürün belgeleri",
+          "Kablo/boru çevresinde açık derz"
+        ],
+        [
+          "Kapı ve açıklıklar",
+          "Kapı takımı belgeleri ve plan",
+          "Sonradan açılmış kapı veya menfez"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "bir-duvarin-gorunmeyen-devami",
+      "metin": "Bir duvarın görünmeyen devamı"
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle asma tavanlı mekanlarda duvarın tavana kadar yükselmesi ile yangın ayırıcı sınırın üst döşemeye kadar süreklilik göstermesi aynı şey değildir. Proje detayı hangi sınırı gerektiriyorsa sahada o detay aranır. Kablo tavaları, borular ve havalandırma kanalları yeni duvardan geçirilmişse geçiş çevresindeki yangın durdurucu uygulamanın da ilgili duvar sistemine ve gerekli performansa uygunluğu belgelenmelidir. Görsel inceleme, gizli imalatın tamamının doğrulandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-inceleme-tugladan-hafif-panel-duvara-gecis",
+      "metin": "Örnek inceleme: tuğladan hafif panel duvara geçiş"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir üretim tesisinde, depo ile elektrik odasını ayıran tuğla duvarın yerine hafif panel duvar yapıldığını düşünelim. Yeni duvarın üretici kataloğunda yangına dayanıklı olarak tanımlanması tek başına yeterli değildir. Önce onaylı projede duvarın yangın ayırıcı olarak tanımlanıp tanımlanmadığı, ardından gerekli performans ve yeni sistemin belgelenmiş kuruluşu kontrol edilir. Panel üstünde kablo geçişi ve tavan boşluğunda açıklık görülüyorsa, bunlar ayrı saha bulguları olarak kayda alınır. Bu örnek gerçek bir olay veya otomatik uygunsuzluk kararı değildir; belge ve saha karşılaştırmasının nasıl kurulacağını gösterir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı proje ve varsa tadilat onayı, yapı kullanımına ilişkin izinler, mevcut mahal faaliyetleri ve önceki kontrol raporlarıyla başlar. Duvarın hangi mahal sınırında bulunduğunu projede işaretler; yerinde malzeme değişikliğini, görülebilen bağlantıları, üst birleşimi, kapı ve tesisat geçişlerini fotoğraf ve konum bilgisiyle kaydeder. Ürün sınıflandırma belgesi, sistem uygulama detayı ve imalat kayıtlarını isteyerek proje–belge–saha arasındaki farkları gerekçeli raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, yalnız gözlemle bir duvarın belirli dakika yangına dayanacağını onaylamaz; gizli katmanları görmüş gibi raporlamaz. Taşıyıcı sisteme etkilerin hesabı, yangın dayanımının deney veya yetkili teknik değerlendirmeyle belirlenmesi, tadilat projesinin hazırlanması ve resmi onay işlemleri ilgili yetkili kişi ve kurumların sorumluluğundadır. Kanıt eksikse raporda “uygundur” demek yerine eksik belgeyi, gözlenen farkı ve gerekli uzman incelemesini açıkça belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Bölme duvarındaki malzeme değişikliği, duvarın yangın ayırıcı işlevi ve sistemin sahada gerçekten nasıl kurulduğu üzerinden değerlendirilir. Sağlam bir kontrol, malzeme adını değil; onaylı sınırı, gerekli performansı, sistem belgesini ve birleşimlerin sürekliliğini birlikte sorgular."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

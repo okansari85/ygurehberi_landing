@@ -1,0 +1,165 @@
+{
+  "kod": "YGR-K173",
+  "yol": "lpg-perakende-satisi-ile-isletmede-kullanim-nasil-ayrilir",
+  "baslik": "LPG perakende satışı ile işletmede kullanım nasıl ayrılır?",
+  "ozet": "Bir lokantanın yemek pişirmek için kullandığı LPG tüpü ile bir bayinin müşteriye satış için rafta tuttuğu tüp aynı üründür; ancak o ürünün bulunduğu yerin işlevi aynı değildir. İlkinde yakıt, işletmenin bir cihazını besler. İkincisinde tüp, müşteriye teslim edilmek üzere bulundurulur. Yangın güvenliği incelemesinde ikisini sadece “LPG var” başlığında birleştirmek, uygulanacak yerleşim ve depolama hükümlerini karıştırabilir. Yangın Güvenlik Uzmanı (YGU), önce fiili faaliyeti ve tüplerin kullanım amacını saptar; ardından bina belgeleriyle saha düzenini birlikte inceler.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayrim-tupun-adindan-degil-yapilan-faaliyetten-baslar",
+      "metin": "Ayrım tüpün adından değil, yapılan faaliyetten başlar"
+    },
+    {
+      "tip": "p",
+      "metin": "Perakende satış yerinde dolu tüplerin müşteriye verilmesi, boşların iadeye alınması ve buna bağlı stok tutulması temel faaliyettir. İşletmede LPG kullanımı ise bir mutfak, ısıtma veya üretim ekipmanının yakıtla beslenmesidir. Kullanım noktasına bağlı tüp, yedek tüp ve iade bekleyen tüp aynı işletmede bulunabilir; bunların işlevleri ve tutuldukları alan ayrı kaydedilmelidir. Ruhsatta “market”, “lokanta” ya da “atölye” yazması, fiilen yürütülen LPG faaliyetini tek başına açıklamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir işyerinde ocak için iki tüp kullanılıyor ve yan bölümde müşteriye satış amacıyla ayrıca dolu tüpler tutuluyorsa yalnız kullanım düzenine bakılması yeterli olmaz. Tersine, kendi cihazında kullandığı tüpün yenisini depoda bekleten her işletmeye, sırf tüp bulunduğu için “LPG perakende satış yeri” demek de doğru değildir. Ticari faaliyet belgeleri, teslim ve satış kayıtları, kullanım şeması ve fiili stok hareketi birlikte okunur. Şüpheli durumun niteliği kaydedilir; faaliyet izni veya hukuki statü hakkında yetkili idarenin kararının yerine geçecek kesin bir hüküm kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-hangi-iki-duzenlemeyi-ayiriyor",
+      "metin": "Yürürlükteki BYKHY hangi iki düzenlemeyi ayırıyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 108, LPG perakende satış yerlerine özgü hükümleri düzenler. Birinci fıkra perakende satış yerinde en çok 500 kg LPG bulundurulabileceğini; LPG bayisine ait özel depo bulunması durumunda ayrıca 750 kg LPG bulundurulabileceğini belirtir. Aynı fıkra, perakende satış yerlerinin kapalı mahallerinde ticari propan tüpü bulundurulmasını yasaklar. Bu miktarları, LPG kullanan her mutfak veya tesise uygulanabilen genel bir stok hakkı şeklinde okumak hatalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddenin diğer fıkraları perakende satış yerinin bina içindeki konumu, diğer işyeri ve meskenlerle bağlantısı, komşu kullanımlar, itfaiyenin ulaşımı, çıkış düzeni ve yapısal özelliklerine ilişkindir. Bunların incelemesi, rafın sayısına değil satış işyerinin gerçek sınırlarına ve komşuluklarına dayanır. Özel depo iddiası varsa bu alanın gerçekten bayiye ait tanımlı bir depo olup olmadığı ve bina belgeleri araştırılır; miktar sınırı tek başına uygunluk kararı verdirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Buna karşılık yürürlükteki BYKHY Madde 109, LPG tüplerinin kullanılması başlığını taşır. Tüplerin dik konumda tutulması, kullanım bağlantıları, havalandırma ve büyük sanayi tipi mutfaklarda gaz kaçağına karşı sesli uyarı düzeni gibi konuları ele alır. İşyerlerinde zemin seviyesinin altındaki tam bodrum katta LPG tüpü bulundurulmaması ve uyuma mahallerinde tüp ile birlikte kullanılan cihazların yer almaması gibi özel sınırlar da bu kapsamda değerlendirilir. Dolayısıyla perakende satış hükümlerini kullanım kurallarının yerine, kullanım kurallarını da satış yerinin şartlarının yerine geçirmek mümkün değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "bykhy-degisiklik-taslagi-nasil-okunmali",
+      "metin": "BYKHY değişiklik TASLAĞI nasıl okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen değişiklik TASLAĞINDA perakende satış yeri Madde 110, LPG tüplerinin kullanılması Madde 111 başlığı altındadır (TASLAK). Satış yerindeki 500 kg sınırı, özel depoya ilişkin ilave 750 kg ifadesi ve kapalı mahalde ticari propan tüpü bulundurmama hükmü taslakta da yer almaktadır (TASLAK). Bu hususlar için yeni numarayı yürürlükteymiş gibi kullanmak doğru olmaz; ilgili temel koşullar yürürlükteki Madde 108’de zaten bulunmaktadır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanım hükümlerinde ise taslak Madde 111/5, sanayi tipi büyük mutfakta kullanılan yedek LPG tüpünün bina dışında emniyetli özel alanda en fazla bir adet tutulmasına ilişkin açık bir düzenleme öngörmektedir (TASLAK). Bu ifade yürürlükteki Madde 109’daki hükümlerle birebir aynı değildir. Henüz yayımlanmamış taslağa dayanarak işletmeye güncel mevzuat yükümlülüğü konulamaz; mevcut tedbirler yürürlükteki hükümlere, tehlikeye ve ilgili diğer geçerli kurallara göre incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-icin-iki-faaliyet-iki-belge-izi",
+      "metin": "YGU için iki faaliyet, iki belge izi"
+    },
+    {
+      "tip": "p",
+      "metin": "Sahadaki ilk adım bina ve faaliyetin sınırlarını belirlemektir. Satış alanı varsa işyeri ve depo yerleşim planı, faaliyet belgeleri, güncel LPG stok ve teslim kayıtları incelenir. Kullanım varsa bağlı cihazlar, kullanım noktaları, tüp yerleşimi, yedek ve iade alanları, varsa gaz tesisatı projesi ile bakım belgeleri karşılaştırılır. İşletme hem satış hem kullanım yapıyorsa her işlev için ayrı değerlendirme satırı açılması gerekir. Bir bölümün kayıtlı satış alanı olması, başka bölümdeki LPG kullanımının da uygun olduğu anlamına gelmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Fiili durum",
+        "İstenecek belge / kayıt",
+        "Sahada aranan karşılık"
+      ],
+      "satirlar": [
+        [
+          "Perakende tüp satışı",
+          "Faaliyet belgesi, satış ve iade kayıtları, stok listesi",
+          "Müşteriye teslim alanı, kapalı mahal, tüp türleri ve fiili miktar"
+        ],
+        [
+          "Bayinin özel deposu",
+          "Depo tanımı, yerleşim planı, depo stok kaydı",
+          "Satış yerinden ayrı tanımlanan alan ve gerçek stok"
+        ],
+        [
+          "İşletmede yakıt kullanımı",
+          "Cihaz ve besleme bilgileri, yerleşim / tesisat çizimi",
+          "Bağlı tüp, yedek tüp, havalandırma ve kullanım noktası"
+        ],
+        [
+          "Karma faaliyet",
+          "Satış, kullanım ve iade için ayrılmış kayıtlar",
+          "Aynı tüpün iki kez sayılmaması; her faaliyetin ayrı ele alınması"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-sik-karistirilan-uc-durum",
+      "metin": "Sahada sık karıştırılan üç durum"
+    },
+    {
+      "tip": "h3",
+      "metin": "“Restoran da tüp stokluyor; satış yerine ait miktar sınırı yeterli”"
+    },
+    {
+      "tip": "p",
+      "metin": "Mutfaktaki kullanım amacı perakende satış değildir. Satış yeri için düzenlenen miktar sınırı, kullanım mahallindeki risklerin incelenmesini ikame etmez. YGU, kullanımın hangi cihazlarda sürdüğünü, tüplerin nerede tutulduğunu, gaz kaçak uyarısının bulunup bulunmadığını ve varsa yedeklerin konumunu kontrol eder. Kullanım alanındaki her koşulun sağlandığını sadece toplam LPG kütlesinden hareketle söylemez."
+    },
+    {
+      "tip": "h3",
+      "metin": "“Depoda tüp var ama satış yapılıp yapılmadığı önemli değil”"
+    },
+    {
+      "tip": "p",
+      "metin": "Satışa hazır stok ile işletme ekipmanına yakıt sağlayan stok ayrılmadığında yanlış hükme bakılabilir. Fatura, stok hareketi ve fiili teslim düzeni uyuşmuyorsa YGU bunu “faaliyet ve stok niteliği belirsiz” olarak kaydeder. Belge olmadan belirli bir faaliyet türü varsaymak, sonraki uygunluk değerlendirmesini zayıflatır. Özel depodan söz ediliyorsa perakende satış alanı ile aynı fiziksel bölümün iki farklı isimle gösterilmesi de ayrıca incelenir."
+    },
+    {
+      "tip": "h3",
+      "metin": "“Kapalı alanda ticari propan tüpü varsa her durumda aynı hüküm uygulanır”"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Madde 108/1’deki kapalı mahal yasağı açıkça LPG perakende satış yerlerine ilişkindir. Tüpün farklı bir işletmede kullanılması halinde hangi hükümlerin geçerli olduğu ayrıca belirlenir. Bu ayrım, kapalı ortamda her tür propan kullanımının güvenli olduğunu göstermez; yalnızca farklı kullanım için satış yerine özgü kuralın otomatik genelleştirilmemesi gerektiğini anlatır. Gazın niteliği, hacim, havalandırma ve teknik tesisat yetkili uzman incelemesi gerektirebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce işletme sorumlusundan tesisin ruhsat ve kullanım belgelerini, satış yapılıyorsa bu faaliyete ait kayıtları, tüp stok listesini ve depo krokisini ister. Satış alanının girişleri, bitişik kullanımlar, kaçış yolları ve itfaiye erişimi sahadaki yerleşimle karşılaştırılır. Kapalı mahalde ticari propan tüpü olup olmadığı gözle kontrol edilir. LPG yalnız yakıt olarak kullanılıyorsa bağlı cihazların yeri, tüpün dik duruşu, yedeklerin konumu, havalandırma ve varsa gaz kaçak uyarı kaydı incelenir. Belirsiz hususlar için fotoğraf, tarih ve mahal bilgisi tutulur; teknik uygunluk testleri yetkili kişi tarafından yapılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU mesleki düzenleme TASLAĞINA ekli kontrol formunun EK-6/B bölümünde, LPG perakende satış yerinin kapalı mahalinde ticari propan tüpü bulundurulmaması ayrıca bir gözlem kriteri olarak yer alır (TASLAK). Bu form, henüz yürürlükteki bir uzmanlık yetkisi veya bağımsız izin belgesi yerine geçmez. Ölçüm, gaz kaçağı testi, tesisat müdahalesi, hukuki faaliyet sınıflandırması ve projeye uygunluk onayı gerektiren konular yetkili idare ya da ilgili teknik uzmanlık sürecine yönlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal saha kaydı: “Zemin kattaki işletmenin bir bölümü LPG tüpü satış ve iade noktası, bitişik bölümü ise hazırlık mutfağı olarak kullanılmaktadır. Belgelerde bu iki faaliyetin alan sınırı ve stok ayrımı gösterilmemiştir. Satış alanında bulunan tüplerle mutfak yakıt ve yedek tüpleri tek listede tutulmuştur. Faaliyet belgeleri, perakende stok çizelgesi, mutfak tüp yerleşimi ve güncel mahal krokisinin ayrı düzenlenerek sunulması istenmiştir.” Bu kayıt örnektir; gerçek saha tespiti değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG konusunda ilk doğru soru “kaç tüp var?” değil, “tüpler hangi faaliyet için burada?” sorusudur. Perakende satışta stok, teslim, özel depo, kullanım sınırları ve satış yerine özgü yapı koşulları; işletmede tüketimde ise bağlı cihaz, tüp yerleşimi, havalandırma ve kullanım tedbirleri incelenir. İki faaliyet bir arada yürütülüyorsa her ikisinin kaydı ayrı tutulur. YGU için güvenilir sonuç, mevzuat metnini doğru faaliyetle eşleştiren, sahadaki farkı belgeleyen ve yetki sınırını aşmadan gerekli teknik incelemeye sevk eden sonuçtur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

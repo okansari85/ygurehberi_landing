@@ -1,0 +1,168 @@
+{
+  "kod": "YGR-K161",
+  "yol": "su-deposu-baska-amacla-kullanilinca-yangin-rezervi-nasil-izlenir",
+  "baslik": "Su Deposu Başka Amaçla Kullanılınca Yangın Rezervi Nasıl İzlenir?",
+  "ozet": "Yangın suyu deposunun içinde su görülmesi, yangın söndürme sistemleri için ayrılan rezervin kullanılabilir durumda olduğunu tek başına göstermez. Aynı tanktan kullanım suyu, proses suyu veya başka bir amaç için su alınıyorsa asıl soru, bu tüketimin yangın rezervine ulaşıp ulaşamadığıdır. Yangın Güvenlik Uzmanı (YGU), depo üzerinde yazan nominal hacimle yetinmeden projede ayrılmış rezervi, sahadaki çekiş bağlantılarını, su seviyesini ve bakım kayıtlarını birlikte incelemelidir. Özellikle sonradan bağlanan hatlar, sessizce oluşan bir kapasite kaybını gizleyebilir.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "toplam-depo-hacmi-ile-kullanilabilir-yangin-rezervi-farklidir",
+      "metin": "Toplam depo hacmi ile kullanılabilir yangın rezervi farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir su deposunun geometrik veya etiket hacmi, tamamının yangın pompası tarafından güvenilir şekilde kullanılabileceği anlamına gelmez. Pompa emiş ağzının kotu, emiş düzeni, su seviyesinin izlenme biçimi, tanktaki kullanılamayan alt hacim ve tasarımın öngördüğü güvenli su alma koşulları dikkate alınır. Rezerv miktarı, ilgili onaylı hidrolik hesap ve depo projesi üzerinden belirlenir; sahada gözlenen seviye bu bilgiye göre anlamlandırılır. YGU, su seviyesinden litre veya metreküp hesabını proje kalibrasyonu olmadan kesinleştirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Ortak kullanılan bir depoda yangın sistemine ait kullanılabilir kısım, uygun bir düzenlemede kullanım suyu çekişinin altındaki rezerv olarak korunabilir. Bunun sağlandığı varsayımı ise tek başına tank kesitindeki çizgiye dayanmaz. Kullanım hidroforunun emiş kotu, su alma bağlantılarının gerçek düzeni, sonradan eklenen çıkışlar ve rezerv sınırındaki kontrol elemanları güncel pafta ile karşılaştırılmalıdır. Aynı depoya bağlanan yeni bir proses hattı, kullanıcı suyu hattından daha düşük kotta çekiş yapıyorsa çizimde korunmuş görünen rezerv gerçekte azalabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-hangi-siniri-koyuyor",
+      "metin": "Yürürlükteki BYKHY hangi sınırı koyuyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 92/1, sulu söndürme sistemi için en az bir güvenilir su kaynağı bulunmasını öngörür. Madde 92/2, yangın rezervi olarak ayrılmış depo bölümlerinin başka amaçla kullanılmamasını ve bu bölümlerin sadece söndürme sistemlerine hizmet etmesini ister. Bu hüküm, “depoda su varsa sorun yok” yaklaşımına izin vermez. Korunması gereken değer, sistem için belirlenmiş ve yangın anında kullanılabilecek rezervdir."
+    },
+    {
+      "tip": "p",
+      "metin": "Depo kapasitesi; kullanım ve tehlike sınıfı, sprinkler, yangın dolabı ve hidrant sistemlerinin tasarım ihtiyacı ve uygun hidrolik hesaplarla değerlendirilir. Yönetmelikte farklı tehlike sınıfları için su ihtiyacının değerlendirilmesinde kullanılan süreler bulunur. Ancak bu süreleri tek başına alıp bütün yapılara sabit hacim yazmak doğru değildir. Önce ilgili yapının gerçekten hangi söndürme sistemlerine sahip olduğu ve hangi hesap yönteminin uygulandığı belirlenmelidir. Sadece belirli koşullarda yangın dolabının kullanım suyu sistemine bağlanabilmesi gibi özel düzenlemeler de genel rezerv koruma ilkesinden bağımsız ele alınmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ortak-depo-hangi-kosulda-riskli-hale-gelir",
+      "metin": "Ortak depo hangi koşulda riskli hale gelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın ve kullanım suyu aynı fiziksel tanktan sağlanıyorsa temel denetim, normal tüketimin yangın için ayrılmış kullanılabilir suyu tüketip tüketmediğidir. Normal kullanıma ayrılan üst hacim ile yangın rezervi ayrı çıkış kotları veya uygun bölme çözümüyle düzenlenmiş olabilir. YGU, bu ayrımı projeden öğrenir ve sahadaki tesisatla eşleştirir. Bir vana kapandığında sistemin davranışı, dolum kesintisindeki kullanılabilir rezerv ve su seviyesinin alarm veya kontrol kayıtlarındaki karşılığı, varsa devreye alma ve işletme belgelerinde aranır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sorun yalnız yeni çekiş hattı değildir. Depo içinde tortu birikimi, emiş ağzının kapanması, arızalı seviye şalteri, bozuk otomatik dolum düzeni veya ölçüm cihazının yanlış kalibrasyonu da rezerv hakkında yanıltıcı güven verebilir. Bunların hangisinin gerçekten meydana geldiği sahadaki bulgu ve yetkili teknik inceleme ile kanıtlanmadan kesin arıza tespiti yazılmaz. Yangın pompasının kısa süreli çalışması da tasarımdaki su rezervinin tam olduğunu ispatlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "depo-kesitinden-isletme-kaydina-uzanan-kanit-zinciri",
+      "metin": "Depo kesitinden işletme kaydına uzanan kanıt zinciri"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir YGU incelemesinde mekanik tesisatın güncel tek hat şeması, depo kesiti ve hacim hesabı, pompa emiş hattı, kullanım suyu veya proses suyu çıkış bağlantıları, besleme/dolum düzeni, seviye göstergesi ve son kontrol raporları bir arada değerlendirilir. Eski proje üzerinde bulunmayan yeni bağlantı, fotoğrafla ve hat etiketiyle işaretlenir. Bağlantının yangın rezervi kotunun altında olduğu ölçülmeden iddia edilmez; kot bilgisi veya pafta yoksa sonuç “doğrulanamadı” olarak kaydedilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Aranacak belge / kayıt",
+        "YGU açısından karar konusu"
+      ],
+      "satirlar": [
+        [
+          "Rezerv hesabı",
+          "Onaylı proje, hidrolik hesap, depo hacim/kot çizimi",
+          "Yangın için ayrılan kullanılabilir rezervin tanımı"
+        ],
+        [
+          "Ortak su kullanımı",
+          "Kullanım hidroforu, proses hattı ve depo çıkış planı",
+          "Diğer çekişler korunan rezerve ulaşabiliyor mu?"
+        ],
+        [
+          "Dolum ve seviye",
+          "Şamandıra/otomasyon şeması, seviye göstergesi, alarm kayıtları",
+          "Güncel seviye ve dolum arızası izlenebilir mi?"
+        ],
+        [
+          "Yangın pompası",
+          "Emiş bağlantısı, pompa test raporu, son bakım belgeleri",
+          "Pompa doğru kaynaktan su alıyor mu; test hangi kapsamda?"
+        ],
+        [
+          "Değişiklik geçmişi",
+          "Tadilat/as-built çizimleri, iş emri ve teslim tutanağı",
+          "Sonradan eklenen bağlantı hesap ve onayda var mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "gunluk-seviye-takibi-tek-basina-neden-yetmez",
+      "metin": "Günlük seviye takibi tek başına neden yetmez?"
+    },
+    {
+      "tip": "p",
+      "metin": "Depo dışından okunan yüzde göstergesi, hangi su hacmini temsil ettiği ve sensörün hangi kota referanslandığı bilinmeden yangın rezervi anlamına gelmez. İşletmede “depo yüzde 40 dolu” ifadesi kaydedilmiş olabilir; ancak bu değerin yangın pompası emiş kotuyla ilişkisi, tankın gerçek hacim eğrisi ve yangın sistemi için ayrılmış sınırla birlikte incelenmesi gerekir. Seviye izleme kayıtları, planlı veya plansız su çekişinden sonra alarm oluşup oluşmadığını ve dolumun normal koşullara dönüp dönmediğini gösterebilir. Bunlar hesapla belirlenen rezervin yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı şekilde sayaçtan görülen günlük tüketim, toplam depoda ne kadar su kaldığını doğrudan vermez. Sayaç kaydı, tank giriş/çıkış düzeni ve seviye geçmişiyle beraber ele alınır. Yangın suyu hattına gerçekten başka kullanım bağlandıysa işletmenin geçici su yönetimi kararı değil, uygun tasarım ve yetkili teknik düzeltme gerekli olabilir. Acil işletme tedbirinin kapsamı ve devam süresi sorumlu işletme yönetimince belirlenir; YGU gözlemsel bulguyu ve gerekli doğrulamayı açık şekilde iletir."
+    },
+    {
+      "tip": "h2",
+      "id": "bykhy-degisiklik-taslagi-nasil-ayrilmali",
+      "metin": "BYKHY değişiklik TASLAĞI nasıl ayrılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA su depoları ve kaynaklar Madde 94 kapsamında düzenlenir (TASLAK). Yangın rezervi olarak ayrılan bölümün başka amaçla kullanılmaması ilkesi bu taslakta da korunmuştur. Taslak, şehir şebekesi ve diğer kaynakların güvenilir kaynak sayılmasının ilgili idarece belirlenmesini ayrıca ifade eder (TASLAK). Yürürlükteki metindeki ilgili temel başlık Madde 92’dir. Yeni madde numarası veya taslakta önerilen açıklamalar yürürlükteki yükümlülük gibi sunulamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık Kılavuzu, ortak depoda kullanım suyu ve yangın rezervi ayrımını şematik olarak örneklendirir. Şema, her tankın aynı bağlantı düzenine sahip olduğu anlamına gelmez; doğrulama, mevcut binanın onaylı tesisat projesi ile gerçek bağlantıları üzerinden yapılır. Ayrı Yangın Güvenlik Uzmanlığı düzenleme taslağındaki saha kontrol başlıkları da kesinleşmiş ölçüm veya proje onayı yetkisi olarak yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), yapıda hangi sulu söndürme sistemlerinin bulunduğunu, hangi depo veya su kaynağından beslendiklerini ve rezerv hesabının hangi projeye dayandığını belirleyerek başlar. Daha sonra tankın fiziksel bölümlenmesini, yangın pompası emişini, kullanım/proses suyu çekiş noktalarını, dışarıdan okunabilen seviye bilgisini ve varsa otomatik dolum düzenini kontrol eder. Gözlemle doğrulanabilen bağlantı veya etiketler fotoğraf, konum ve pafta referansı ile kaydedilir. İç bağlantının görülemediği veya kotun ölçülemediği yerde belirsizlik açıkça belirtilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, proje–saha farkını işletme yönetimine iletir; eksik hesap, ölçüm, pompa kapasite testi veya tasarım revizyonu için yetkili mekanik tesisat uzmanı ve ilgili bakım/test personelinin belgelerini ister. Kendi gözlemiyle su rezervinin hidrolik yeterliliğini onaylamaz, pompa testini gerçekleştirmiş gibi tutanak düzenlemez ve güvenilir su kaynağına ilişkin idari kararı kendisi vermiş gibi davranmaz. İncelemenin amacı, depoda su görmenin verdiği yanlış güveni, izlenebilir teknik kanıtla değiştirmektir."
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-saha-bulgusu",
+      "metin": "Varsayımsal saha bulgusu"
+    },
+    {
+      "tip": "p",
+      "metin": "“C Blok yangın suyu deposunda, depo kesitinde gösterilmeyen bir proses suyu çıkış bağlantısı tespit edilmiştir. Bağlantının emiş kotu ile projede yangın rezervi için ayrılan sınırın karşılaştırılabileceği güncel as-built tesisat çizimi sunulamamıştır. Depo seviye göstergesi çalışır görünmekle birlikte gösterilen değerin yangın için kullanılabilir su hacmini temsil ettiği de belgelendirilememiştir. Yangın rezervinin normal tüketimden korunup korunmadığı doğrulanamamış; güncel proje, rezerv hesabı ve yetkili teknik inceleme kaydı istenmiştir.” Bu kayıt yalnızca varsayımsal raporlama örneğidir; gerçek bir tesis bulgusu değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın suyunun korunması, tankın dolu görünmesinden daha geniş bir konudur. Esas denetim, tasarımla belirlenen yangın rezervinin başka bir kullanım tarafından tüketilememesi, pompaya güvenilir biçimde ulaşması ve işletme boyunca izlenebilir kalmasıdır. YGU, proje hesabı ile tank bağlantılarını ve güncel kayıtları eşleştirerek hangi güvenlik koşulunun doğrulandığını, hangisinin ise henüz kanıtlanmadığını ortaya koymalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

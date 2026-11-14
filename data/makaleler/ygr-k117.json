@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K117",
+  "yol": "yangin-kapisinin-sertifikasi-tek-basina-neden-yeterli-degildir",
+  "baslik": "Yangın kapısının sertifikası tek başına neden yeterli değildir?",
+  "ozet": "Yangın kapısı, yalnızca üzerinde yangın dayanım etiketi bulunan bir kanat değildir. Yangın ayırıcı duvarın açıklığında işlev gören kapı takımı; kanat, kasa, menteşe, kilit ve kapatma düzeni, conta, camlı bölüm varsa cam ve bağlantıları ile duvara montaj detayının birlikte çalışmasıyla koruma sağlar. Belgenin gösterdiği performans, test edilen veya teknik kapsamı doğrulanmış yapılandırmaya aittir. Sahadaki kapı aynı yapılandırmada değilse, belge tek başına mevcut montajın aynı performansı sağladığını göstermez.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapi-belgesi-neyi-kanitlar-neyi-kanitlamaz",
+      "metin": "Kapı belgesi neyi kanıtlar, neyi kanıtlamaz?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede belirli bir duvar tipine göre seçilen kapının daha sonra farklı kalınlıkta hafif bölme duvarına takılması, kasa sabitleme ve çevre boşluğu detayını değiştirebilir. Kapı kanadının etiketinin bulunması, bu yeni birleşimin yangın dayanımını otomatik olarak doğrulamaz. Böyle bir durumda doğru soru “sertifika var mı?” ile sınırlı değildir; “bu kapı takımı, bu duvar ve bu montaj biçimi için belgelendirilen kapsam içinde mi?” sorusudur."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-proje-ve-saha-arasinda-kurulacak-bag",
+      "metin": "Belge, proje ve saha arasında kurulacak bağ"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk adım, kapının hangi ayırıcı elemanın parçası olduğunu belirlemektir. Yangın kompartımanı sınırındaki kapı ile sıradan iç mahal kapısının beklenen işlevi aynı değildir. Onaylı mimari proje, yangın kompartımanı planı ve kapı çizelgesinde kapının konumu, açılma yönü, öngörülen dayanım ve duman kontrolü gereği okunur. Ardından ürünün sınıflandırma veya performans belgesi, üretici uygulama talimatı ve varsa montaj kayıtları karşılaştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada kanat ve kasa etiketleri, duvar tipi, kasa–duvar birleşimi, bağlantı ve dolgu malzemesi, eşik, conta, kapatıcı, kilit dili ve kanatların kapanma sırası gözlemlenir. Çift kanatlı kapıda pasif kanadın uygun sırada kapanmaması veya kapının sürtünerek açık kalması, kağıt üzerindeki performans iddiasıyla fiili koruma arasında fark yaratabilir. Saha gözlemi, laboratuvar yangın dayanım deneyinin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "incelemede-sik-karistirilan-durumlar",
+      "metin": "İncelemede sık karıştırılan durumlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Görülen durum",
+        "Neden tek başına yeterli değil?",
+        "İstenen doğrulama"
+      ],
+      "satirlar": [
+        [
+          "Kanatta dayanım etiketi var",
+          "Kasa ve duvar birleşiminin kapsamını göstermez",
+          "Kapı takımı belgesi ve montaj detayı"
+        ],
+        [
+          "Kapı yeni duvar tipine taşındı",
+          "Önceki test kapsamı yeni altlığı içermeyebilir",
+          "Duvar tipi ile uyumlu onaylı uygulama"
+        ],
+        [
+          "Kapı kapanıyor ancak kilitlenmiyor",
+          "Kanat kapalı görünse de bütünlük işlevi zayıflayabilir",
+          "Kilit dili ve kapatıcı işlev kontrolü"
+        ],
+        [
+          "Conta sökülmüş veya hasarlı",
+          "Duman kontrolü ve sistem bütünlüğü etkilenebilir",
+          "Ürünle uyumlu conta ve bakım kaydı"
+        ],
+        [
+          "Kasa çevresi gelişigüzel köpükle doldurulmuş",
+          "Dolgunun yangın dayanım kapsamı belirsizdir",
+          "Belgelendirilmiş birleşim ve dolgu detayı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-taslak-yaklasiminin-ayrimi",
+      "metin": "Yürürlükteki hüküm ile taslak yaklaşımının ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın duvarlarında zorunlu açıklıkların korunmasını, kapıların kendiliğinden kapanmasını ve duman sızdırmaz olmasını düzenler. Yangın duvarındaki zorunlu kapı açıklığı için dayanım süresi, yürürlükteki 25. maddenin ikinci fıkrasında duvar direncinin en az yarısı olarak ifade edilir. Bu hüküm her yangın kapısına bağlamından bağımsız tek bir süre atamaya izin vermez; kapının bulunduğu mahal ve ilgili diğer hükümler de değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının ilettiği yeni BYKHY taslağında aynı madde kapsamındaki zorunlu açıklıklar için en az yangın duvarının direnci kadar dayanım öngörülmektedir. Bu, yürürlükteki yarı süre yaklaşımından farklı bir taslak düzenlemedir; yürürlükteki zorunluluk gibi sunulamaz. Ürün ve montaj uygunluğunun değerlendirilmesinde her iki metnin hukuki statüsü ayrı tutulmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye kapının bulunduğu kompartıman sınırını ve onaylı projedeki kapı kodunu belirleyerek başlar. Yapı ruhsatı ve yapı kullanma izni kayıtları ile varsa tadilat projesini inceler; mevcut duvarın ve kapının sonradan değiştirilip değiştirilmediğini işletme sorumlusu ve bakım kayıtları üzerinden araştırır. Ürün belgelerinde tanımlanan kapı takımı, duvar türü, montaj yönü ve bağlantı detaylarını mevcut uygulamayla karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemde kapının serbestçe kapanıp kapanmadığını, kapatıcı ve kilit dilinin çalışmasını, kanat–kasa boşluklarını, hasarlı contaları, kasa çevresindeki açık birleşimleri ve kapının sabitlenerek açık tutulup tutulmadığını kaydeder. Tespitler fotoğraf, mahal/kapı kodu, belge referansı ve gözlenen sapmanın olası etkisiyle raporlanır. Belge eksikse “uygunsuz ürün” hükmünü varsaymak yerine hangi performansın doğrulanamadığı açıkça yazılır; gerekli teknik kanıt ve düzeltici işlem sorumlusundan istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemesi, kapı takımının yangın dayanımını yeniden ölçmek, laboratuvar sınıflandırması düzenlemek, yeni montaj detayı tasarlamak veya proje müellifi ve yetkili idarenin onayını ikame etmek anlamına gelmez. Gerektiğinde üretici, yetkili uygulayıcı, proje müellifi veya ilgili teknik uzman tarafından belgeli değerlendirme yapılması talep edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın kapısında güvenilir karar, etiketin varlığına değil, belgelendirilen kapı takımının doğru yerde ve belgelendirilen montaj koşullarına uygun biçimde çalışmasına dayanır. Kapı–duvar birleşimi, kapatma donanımı ve fiili işletme durumu birlikte değerlendirilmeden yalnız sertifikaya bakılarak olumlu sonuç verilmesi teknik açıdan eksik kalır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

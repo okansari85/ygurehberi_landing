@@ -1,0 +1,173 @@
+{
+  "kod": "YGR-K112",
+  "yol": "orman-sinirina-yakin-yerlesimlerde-hangi-sorular-sorulmali",
+  "baslik": "Orman sınırına yakın yerleşimlerde hangi sorular sorulmalı?",
+  "ozet": "Orman kenarındaki bir yapıda yangın güvenliği değerlendirmesi, yalnızca ormana olan mesafeyi ölçmekten ibaret değildir. Önce yapının kullanım türü, ruhsat ve imar durumu, parselin orman sınırıyla ilişkisi ve ilgili hükmün bu tesise uygulanıp uygulanmadığı belirlenir. Ardından arazinin eğimi, bitki örtüsü, açık stoklar ve itfaiye erişimi birlikte incelenir. Aynı mesafe, farklı tesisler için aynı hukuki sonucu doğurmayabilir.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-ilk-soru-hangi-yapi-icin-hangi-hukum-uygulaniyor",
+      "metin": "1. İlk soru: Hangi yapı için hangi hüküm uygulanıyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, orman alanları içinde veya bitişiğinde yapılacak belirli endüstriyel tesisler için ilave tedbir öngörür. Yürürlükteki 7 nci maddenin on ikinci fıkrası; rafinerileri, fosil yakıt kaynaklı elektrik üretim tesislerini, kurulu gücü 500 MW ve üzeri enerji üretim tesislerini, toplam kapalı kullanım alanı 2000 m²’den büyük fabrikalar gibi endüstriyel tesisleri ve bunların depolama tesislerini/sahalarını sayar. Bu özel kapsam, ormana yakın her konutun veya her küçük işyerinin kendiliğinden aynı dış yangın bölgesi şartına tabi olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme dosyasında yapı kullanım sınıfı, faaliyet konusu, enerji tesisi niteliği, ilgili alan hesabının dayanağı, depolama sahasının sınırı ve orman alanıyla konumsal ilişki ayrı ayrı gösterilmelidir. Bu bilgiler eksikse yalnızca uydu görüntüsünden kesin mevzuat uygunluğu kararı verilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "2-orman-siniri-parsel-ve-erisim-nerede",
+      "metin": "2. Orman sınırı, parsel ve erişim nerede?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin 21 inci maddesinin yedinci fıkrası, orman alanlarına bitişik parsel oluşturulmamasını ve imar planı hazırlanırken orman sınırı ile parsel arasında itfaiye ulaşımını sağlamak üzere en az 10 m yol bırakılmasını düzenler. Bu hüküm, planlama ve parsel oluşumu bakımından okunmalıdır; mevcut bir parselin geçmişteki durumuna bakılmadan doğrudan yeni bir yol yapılması gerektiği sonucuna varılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Vaziyet planı, imar planı ve plan notları, kadastro/parsel bilgisi, orman sınırını gösteren yetkili kayıtlar ve sahadaki fiili araç geçişi karşılaştırılır. Kapı, bariyer, yol kenarı stokları, park edilmiş araçlar, dönüş alanları ve erişimi kesen eğimli geçişler ayrıca gözlemlenir. Orman sınırının veya parsel çizgisinin hukuken nerede olduğu, göz kararıyla değil yetkili kurum kayıtlarıyla belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-dis-yangin-bolgesi-gerekliligi-nasil-sorgulanir",
+      "metin": "3. Dış yangın bölgesi gerekliliği nasıl sorgulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Özel kapsam içindeki tesislerde 21 inci maddenin beşinci fıkrasının koşulları ayrıca incelenir. Hüküm, yapı cephesinden yatayda 300 m; arazi eğimi %40’ın üzerinde olan alanlarda 500 m mesafedeki orman örtüsü ve tanımlanmış istisnalar üzerinden değerlendirme kurar. Doğal orman örtüsünün bulunmaması, düşük yanıcılık özelliğine sahip orman örtüsü veya belirtilen mesafe içinde parsel dışında yangının ilerlemesine engel olabilecek 50 m’den geniş yol, akarsu ve benzeri fiziksel engel halleri, hükmün uygulanma değerlendirmesinde önemlidir. Orman örtüsünün yanıcılık özelliğini Orman Bölge Müdürlüğü belirler."
+    },
+    {
+      "tip": "p",
+      "metin": "Şartların oluştuğu tesiste, yapı cephesi ve depolama sahasından itibaren temel olarak 100 m dış yangın bölgesi düzenlenir. Arazi eğimi %30–55 aralığındaysa bu mesafe binaya göre aşağı yönde iki kat, diğer yönlerde 1,5 kat; eğim %55’in üzerindeyse aşağı yönde dört kat, diğer yönlerde iki kat artırılır. Eğim ve mesafe hesabı, yetkili teknik ölçüm ve onaylı arazi verileriyle desteklenmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme halkası",
+        "Sahada ve belgede sorulacak soru"
+      ],
+      "satirlar": [
+        [
+          "Uygulanabilirlik",
+          "Tesis özel kapsamda mı; kullanım, kapasite ve alan hesabı hangi belgede?"
+        ],
+        [
+          "Orman verisi",
+          "Orman sınırı ve örtü türü hangi yetkili kayıtta; istisna dayanağı var mı?"
+        ],
+        [
+          "Arazi ve yön",
+          "Onaylı kot/eğim verisi var mı; binaya göre aşağı yön neresi?"
+        ],
+        [
+          "Yerleşim ve erişim",
+          "Bina, depo sahası, araç yolu ve fiili engeller vaziyet planıyla örtüşüyor mu?"
+        ],
+        [
+          "Tedbirin devamlılığı",
+          "Bitki temizliği, açık stok kontrolü ve bakım kayıtları güncel mi?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "4-cephe-cevresindeki-tedbirler-tek-bir-cizgi-degildir",
+      "metin": "4. Cephe çevresindeki tedbirler tek bir çizgi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "İlgili hükmün uygulanması halinde dış yangın bölgesinde yapı cephesine göre farklı kuşaklar öngörülür. Bunlar aynı amaca hizmet etse de her kuşakta yapılacak iş farklıdır:"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Cepheden uzaklık",
+        "Temel kontrol konusu"
+      ],
+      "satirlar": [
+        [
+          "0–1,5 m",
+          "Yanıcı malzeme ve bitki bulunmaması; çakıl veya beton gibi yanmaz yüzey."
+        ],
+        [
+          "1,5–10 m",
+          "Yanıcı malzeme bulundurulmaması ve ağaçlandırma yapılmaması; eğim %20’yi geçiyorsa ilk 3,5 m için yanmaz yüzey şartı."
+        ],
+        [
+          "10–30 m",
+          "Ağaçlar arasında en az 3 m aralık; zeminden 2 m’ye kadar dalların ve altı ayda bir kuru bitki örtüsünün temizliği."
+        ],
+        [
+          "30–100 m",
+          "Zeminden 2 m’ye kadar dalların ve altı ayda bir kuru bitki örtüsünün temizliği."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu tablo, hükmün temel kuşaklarını özetler. Eğim nedeniyle artırılan mesafelerde uygulama geometrisi ve sınırları, Bakanlık Kılavuzundaki açıklamalarla ve yetkili teknik belgelerle birlikte okunmalıdır. Yapı dışındaki arazide yapılacak işlemlerin mülkiyet, izin ve idari sorumluluk boyutu ayrıca çözümlenmeden yalnızca saha gözlemiyle uygulama kararı verilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "5-taslak-ile-yururlukteki-metin-nerede-ayriliyor",
+      "metin": "5. Taslak ile yürürlükteki metin nerede ayrılıyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede özel kapsamlı fabrika ve benzeri tesisler için kullanılan “toplam kapalı kullanım alanı 2000 m²’den büyük” ölçütü, yeni BYKHY TASLAĞINDA “toplam yapı inşaat alanı 2000 m²’den büyük” olarak önerilmiştir. Bu iki alan tanımı aynı değildir. Dolayısıyla aynı tesis, alan hesabının türüne göre farklı inceleme sonucu doğurabilir; taslaktaki tanım bugün yürürlükteymiş gibi kullanılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAKTA ayrıca yapı cephesinin ilk kuşağına ilişkin yüzey ifadesinde “yanmaz” yerine “hiç yanmaz” sözcükleri kullanılır. Bu terminoloji farkı, taslak hüküm yürürlüğe girmeden mevcut bir tesise yeni ve kesin bir malzeme sınıfı yüklemek için yeterli değildir. Bu makaledeki bağlayıcı mesafeler ve sorumluluk değerlendirmeleri yürürlükteki düzenleme esas alınarak açıklanmıştır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "6. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapı ruhsatı ve yapı kullanma izin bilgilerini, onaylı mimari/vaziyet planını, faaliyet ve depolama kayıtlarını, ilgili orman sınırı ve bitki örtüsü belgelerini, varsa arazi kot-eğim çalışmasını ve itfaiye erişim düzenini aynı dosyada toplar. Projedeki yapı ve depo sahası sınırlarını sahadaki kullanım, geçici stoklar, yeni konteynerler, bitki örtüsü ve araç geçişiyle karşılaştırır. Kuru bitki temizliği ve erişim gibi işletme tedbirlerinde gözlemlerini fotoğraf, konum, tarih ve belge referansıyla gerekçelendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin varsayımsal bir endüstriyel tesiste, projede boş görünen cephe önü sonradan palet deposuna dönüşmüşse YGU önce özel kapsamın uygulanabilirliğini ve söz konusu alanın ilgili kuşağa girip girmediğini belge üzerinden araştırır; ardından stokun fiili yerini, erişime etkisini ve düzeltici işlem ihtiyacını raporlar. Bu örnek gerçek bir olay değildir ve tek başına mevzuata aykırılık kararı oluşturmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU; orman sınırını resmen belirleyen, orman örtüsünün yanıcılık sınıfını tayin eden, topoğrafik ölçümü veya yangın mühendisliği tasarımını yapan, imar planını değiştiren ya da ruhsatı onaylayan makam yerine geçmez. Eksik teknik ölçüm veya idari görüş gerekiyorsa ilgili yetkili uzman ve kuruma yönlendirilmesini ister; sonuç gelene kadar belirsizliği raporda açık bırakır. Böylece gözlemsel inceleme, ölçüm ve onay yetkileri birbirine karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ormana yakınlık tek başına bir uygunluk veya uygunsuzluk hükmü değildir. Sağlam değerlendirme; hangi tesisin özel kapsama girdiğini, orman ve parsel sınırının resmen nasıl belirlendiğini, mesafe-eğim şartlarının hangi veriyle hesaplandığını, dış yangın bölgesinin sahada nasıl korunduğunu ve itfaiyenin fiilen erişip erişemediğini ayrı sorular olarak yanıtlar. Yangın Güvenlik Uzmanının (YGU) değeri, bu cevapları proje, saha ve belge arasında izlenebilir hale getirmesidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

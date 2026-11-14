@@ -1,0 +1,146 @@
+{
+  "kod": "YGR-K134",
+  "yol": "kacis-merdiveni-havalandirmasi-ile-basinclandirma-nasil-ayrilir",
+  "baslik": "Kaçış merdiveni havalandırması ile basınçlandırma nasıl ayrılır?",
+  "ozet": "Bir kaçış merdiveninde fan bulunması, o merdivenin basınçlandırıldığı anlamına gelmez. Benzer şekilde üst kotta bir pencere veya menfez görülmesi de doğal havalandırma çözümünün bütün koşulları karşıladığını tek başına göstermez. Yangın Güvenlik Uzmanı (YGU) için temel soru, sahadaki cihazın adı değil, yangın anında hangi işlevi hangi proje ve belgeyle yerine getireceğidir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "uc-farkli-islevin-karistirilmamasi",
+      "metin": "Üç farklı işlevin karıştırılmaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğal havalandırma, merdiven hacmindeki havanın uygun dış ortam açıklıkları üzerinden doğal etkilerle değişimini sağlar. Mekanik havalandırma, fan ve kanallarla hava hareketi oluşturur. Basınçlandırma ise korunmuş merdiven hacmini komşu mahallere göre kontrollü pozitif basınçta tutarak dumanın kapı ve sızıntı noktalarından merdivene girişini sınırlandırmayı amaçlar. Basınçlandırma, yalnızca fanın dönmesiyle değil, uygun hava beslemesi, kapı durumları, kontrol senaryosu ve doğrulanmış performansla tanımlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir egzoz fanı dumanı dışarı atmak üzere çalışabilir; bir taze hava fanı normal havalandırma yapabilir. Bunların hiçbiri, projede basınçlandırma olarak tanımlanmadıkça ve ilgili performans kriterleri doğrulanmadıkça basınçlandırma sistemi sayılmaz. Basınçlandırma sistemi de yangın anında merdivene güvenli hava sağlayan bütüncül bir çözüm olarak incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-degerlendirmesi-yururlukteki-hukum-ve-taslak-ayrimi",
+      "metin": "Mevzuat değerlendirmesi: yürürlükteki hüküm ve taslak ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 45, korunmuş kaçış merdivenlerinin doğal veya uygun mekanik yolla havalandırılmasını ya da basınçlandırılmasını ele alır; merdivenle kullanım alanlarının aynı aydınlık veya baca boşluğunu paylaşmaması da bu kapsamda değerlendirilir. Ancak Madde 45 tek başına “her merdivende üç seçenek eşdeğerdir” şeklinde okunamaz: basınçlandırma zorunluluğu ayrıca ilgili duman kontrol hükümleriyle birlikte değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki metnin Madde 89 düzenlemesinde, konutlar hariç merdiven kovası yüksekliğinin 30,50 m’yi aşması, dört bodrum kattan fazla bodrum kat bulunması ve yapı yüksekliği 51,50 m’yi aşan konutlar gibi ayrı tetikleyiciler vardır. Bu eşikler somut yapının kullanım sınıfı, yükseklik tanımı ve merdivenin hizmet ettiği katlarla birlikte okunur. Tek başına bina yüksekliği tahminiyle “basınçlandırma gerekir/gerekmez” kararı verilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY değişiklik TASLAĞININ Madde 45 metni de korunmuş kaçış merdivenlerinin havalandırılması veya basınçlandırılması ayrımını korur. Ancak taslak Madde 90, merdiven evi yüksekliği 21,50 m’den fazla olduğunda basınçlandırma öngörerek yürürlükteki eşik ve kapsamdan farklı bir yaklaşım getirir. Bu 21,50 m değeri TASLAKTIR; yürürlükteki zorunluluk gibi uygulanamaz. Taslak ayrıca hava emişi, üfleme düzeni, kontrol ve basınçlandırma zorunlu olmayan merdivenlerde doğal duman tahliyesine ilişkin hükümler içerir. Bu ayrıntılar ancak taslak statüsü açıkça belirtilerek teknik karşılaştırmada kullanılabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-sahada-neyi-ayirt-eder",
+      "metin": "YGU sahada neyi ayırt eder?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Sorulacak soru",
+        "Aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Sistem kimliği",
+          "Merdivene ait çözüm doğal havalandırma mı, mekanik havalandırma mı, basınçlandırma mı?",
+          "Onaylı mekanik proje, yangın senaryosu, cihaz listesi"
+        ],
+        [
+          "Hava yolu",
+          "Hava nereden alınıyor ve nereye veriliyor? Ortak şaft/aydınlık ilişkisi var mı?",
+          "Kesit, şaft ve kanal planı; saha fotoğrafı"
+        ],
+        [
+          "Kapı ve hacim",
+          "Merdiven kapıları, yangın güvenlik holü ve komşu mahaller projeye uygun mu?",
+          "Mimari/tahliye projesi; yerinde kapı ve bağlantı incelemesi"
+        ],
+        [
+          "Kontrol mantığı",
+          "Alarmda fan ve damperler hangi sırayla çalışıyor? Manuel kumanda var mı?",
+          "Yangın senaryosu, otomasyon matrisi, test tutanağı"
+        ],
+        [
+          "Performans kanıtı",
+          "Ölçüm ve fonksiyon testleri projedeki hedefi doğruluyor mu?",
+          "Devreye alma, periyodik test ve bakım raporları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinin-sirasi",
+      "metin": "Proje–saha karşılaştırmasının sırası"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk adım, geçerli onaylı mimari/tahliye projesi ile mekanik tesisat ve yangın otomasyonu projelerini birlikte belirlemektir. Merdivenin hizmet ettiği katlar, kotlar, kapılar, güvenlik holleri ve bina kullanım türü bu aşamada netleştirilir. Sonra projede öngörülen çözümün adı, hava alma-verme noktaları, fan/damper konumları ve alarm senaryosu işaretlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adım, aynı bileşenleri sahada izlemektir. Fanın bulunması değil; etiket, bağlantı, hava yönü, elektrik beslemesi, kontrol paneli, damper ve kapı durumlarının projeyle eşleşmesi önemlidir. Bir fan farklı amaçla kullanılıyorsa bu fark açıkça kaydedilir. Saha fotoğrafında konumun ve bakış yönünün belli olması, sonraki incelemeyi kolaylaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü adım, performans belgelerini değerlendirmektir. Basınçlandırma iddiası varsa kapılar açık ve kapalı durumdayken ilgili test koşullarının raporlanıp raporlanmadığı, ölçüm cihazı ve tarih bilgileri, uygunsuzluklar ve düzeltici işlemler incelenir. YGU, gerekli teknik ölçümün yerine yalnız gözleme dayalı olumlu karar üretmez; ölçüm veya test yoksa “performans doğrulanamadı” şeklinde sınırlandırılmış bulgu yazar."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-kaydi-fan-var-sistem-islevi-belirsiz",
+      "metin": "Örnek saha kaydı: fan var, sistem işlevi belirsiz"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek durum: Merdiven üst kotunda fan ve kanal görülüyor. Mekanik projede cihaz “merdiven havalandırma fanı” olarak işaretli; yangın alarm senaryosu ve basınçlandırma test raporu dosyada yok. İşletme, fanı “basınçlandırma” olarak tanımlıyor. Bu durumda yalnız işletme beyanına dayanarak basınçlandırma uygunluğu verilmez. Önce geçerli projede tasarlanan işlev belirlenir, ilgili mevzuat eşiği kontrol edilir, ardından gerekli sistem ve performans belgeleri istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bulgu ifadesi: “KM-02 merdiven hacmi üst kotunda fan ve kanal bağlantısı gözlendi. İncelenen mekanik projede cihaz havalandırma fanı olarak tanımlanmıştır. Basınçlandırma fonksiyonunu gösteren onaylı proje revizyonu, yangın senaryosu ve performans test raporu inceleme sırasında sunulmadığından basınçlandırma işlevi doğrulanamamıştır. Geçerli mevzuat kapsamında basınçlandırma gerekliliği, yapı ve merdiven yükseklikleri ile kullanım sınıfı üzerinden ayrıca değerlendirilmelidir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, yapı kullanım belgesini, onaylı projeleri, uygulama sonrası değişiklikleri ve sistem test-bakım kayıtlarını bir arada okur. Merdiven hacmindeki fan, doğal açıklık, şaft, kapı ve kontrol elemanlarını yerinde karşılaştırır; bulguyu konum, fotoğraf, proje referansı ve eksik kanıtla ilişkilendirir. Gerekli basınç farkı, hava debisi veya kapı açma kuvveti gibi performans değerleri söz konusu olduğunda, ilgili test raporunu değerlendirir; bizzat yapılmamış ölçümü yapılmış gibi göstermez. Proje tasarımı, sistem ayarı, teknik test ve onay işlemlerinin kendi görev kapsamı dışındaki kısımlarını üstlenmiş gibi yazmaz; fakat tespit ettiği belgesizliği veya proje–saha uyuşmazlığını gerekçeli olarak kayda geçirir."
+    },
+    {
+      "tip": "h2",
+      "id": "kritik-hatalar-ve-sonuc",
+      "metin": "Kritik hatalar ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "En sık hata, “fan var” tespitinden “basınçlandırma var” sonucuna atlamaktır. İkinci hata, yalnız doğal açıklığa bakıp sistemin yangın anındaki davranışını sorgulamamaktır. Üçüncü hata ise taslakta önerilen yeni eşikleri yürürlükteki eşiklerin yerine koymaktır. Doğru yaklaşım, merdivenin hangi çözümü gerektirdiğini mevzuattan belirlemek; projede neyin öngörüldüğünü okumak; sahada neyin kurulduğunu görmek ve fonksiyonun hangi belgelerle kanıtlandığını ayrı ayrı kaydetmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

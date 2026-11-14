@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K143",
+  "yol": "otopark-yangin-tahliyesi-ile-arac-trafigi-nasil-birlikte-ele-alinir",
+  "baslik": "Otopark yangın tahliyesi ile araç trafiği nasıl birlikte ele alınır?",
+  "ozet": "Otoparkın girişinde yeni bir bariyer, ödeme kabini veya araç kuyruğu oluşturulması yalnız trafik düzeni değişikliği değildir. Araç akışı ile insanların yaya olarak güvenli çıkışa ulaşması aynı noktada kesişiyorsa, yangın anındaki tahliye sürekliliği de değişebilir. İnceleme, araçların tahliye edilebilmesinden önce insanların araç trafiğine bağımlı kalmadan çıkabilmesine odaklanmalıdır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "arac-cikisi-ile-insan-kacisi-ayni-guzergah-degildir",
+      "metin": "Araç çıkışı ile insan kaçışı aynı güzergah değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Otopark rampası araçların katlar arasında hareketini sağlar; bu durum rampanın kendiliğinden uygun bir yaya kaçış yolu olduğu anlamına gelmez. Yaya çıkış kapısı, korunumlu merdiven bağlantısı, geçiş genişliği ve son çıkışın nereye açıldığı ayrı ayrı değerlendirilir. Araç kuyruğunun, bariyer kolunun veya ödeme noktasındaki beklemenin yaya kaçışına taşması; özellikle yoğun kullanım saatlerinde kapı önlerinde daralma ve karşılıklı hareket yaratabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın sırasında araç sürücülerinin araçlarını çıkarmaya yönelmesi, yayalarla çatışmayı artırabilir. Bu nedenle işletme planında öncelik insan tahliyesi olmalı; araç hareketinin durdurulması, bariyerin acil durum davranışı ve görevli yönlendirmesi önceden tanımlanmalıdır. Bunlar her otopark için aynı otomasyon çözümünü zorunlu kılan hükümler değil, somut düzenin güvenliğini sınamak için değerlendirme başlıklarıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-degerlendirmeye-etkisi",
+      "metin": "Mevzuatın değerlendirmeye etkisi"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, otoparkları depolama amaçlı tesisler kapsamında tanımlar. Kaçış yollarına ilişkin genel hükümler, otoparkın kullanım özellikleriyle birlikte uygulanır. Otoparkın araç kapısı bulunması, yaya kaçış kapısı ve merdiveniyle ilgili gereklerin ortadan kalktığını göstermez. Kaçış uzaklığı, kullanıcı yükü, çıkış sayısı ve kapı özellikleri onaylı projedeki geçerli kullanım ve yapı koşullarına göre ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY değişiklik TASLAĞI da otoparkların kullanım sınıfını ele alır; 60. maddesinde açık ve kapalı otopark ayrımı ile çeşitli yangın koruma sistemlerine ilişkin öneriler bulunur. Bu makalede taslaktaki sayısal eşikler yürürlükteki zorunluluk olarak kullanılmamıştır. Trafik bariyerinin yaya kaçışına etkisi değerlendirilirken taslak metinden tek başına yeni bir cihaz veya otomatik açılma zorunluluğu türetilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "bariyer-ve-odeme-noktasi-degisikliginde-hangi-kanit-aranir",
+      "metin": "Bariyer ve ödeme noktası değişikliğinde hangi kanıt aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Belge / saha kanıtı",
+        "YGU değerlendirmesi"
+      ],
+      "satirlar": [
+        [
+          "Proje düzeni",
+          "Onaylı otopark planı, yaya çıkışları, merdiven bağlantıları ve araç rampaları",
+          "Revizyonun kaçış aksını kesip kesmediği"
+        ],
+        [
+          "Gerçek yerleşim",
+          "Bariyer kolu, ödeme cihazı, kuyruk alanı, korkuluk ve yaya geçişi",
+          "Kapı önü ve geçişin fiilen açık kalması"
+        ],
+        [
+          "İşletme koşulu",
+          "Yoğun saat, gece modu, görevli varlığı, araç kuyruğu ve erişim kontrolü",
+          "Tahliye sırasında yaya hareketinin araç beklemesine bağlanmaması"
+        ],
+        [
+          "Acil durum senaryosu",
+          "Yangın alarmı, elektrik kesintisi ve bariyer davranışına ait işletme/test kayıtları",
+          "Beyan ile doğrulanmış işlevin ayrılması"
+        ],
+        [
+          "Yönlendirme",
+          "Kaçış işaretleri, çıkışın görünürlüğü, engeller ve alternatif yol",
+          "Kullanıcının güvenli çıkışı bulabilmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapı ruhsatı ve kullanım izni kapsamındaki otopark kullanımını, geçerli mimari/tahliye projesini ve varsa sonradan onaylanan tadilatları belirler. Plan üzerinde yaya çıkışlarını, kapıları, merdivenleri, araç rampalarını, bariyer ve ödeme noktalarını eşleştirir. Ardından gündüz ve yoğun saat işletmesindeki fiili düzeni gözlemler; planla uyuşmayan korkuluk, dolap, yönlendirme levhası veya bariyer yerini konum ve fotoğrafla kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "İşletmeciden yangın alarmı ve enerji kesilmesi senaryolarını, bariyer/kapı bakım ve fonksiyon test kayıtlarını, acil durum planı ile görevli talimatlarını ister. Bir butonun veya kablonun bulunmasını testin başarıyla yapıldığının kanıtı saymaz. Mekanik-elektrik sisteminin ölçümünü, yeniden tasarımını ya da resmi proje onayını kendi saha gözlemiyle ikame etmez; gereken teknik doğrulamayı ilgili proje ve test belgeleri üzerinden izler."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-gerekceli-saha-kaydi",
+      "metin": "Örnek gerekçeli saha kaydı"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek senaryo (gerçek olay değildir): “Otopark B1 katında P-02 yaya çıkışına bağlanan koridorun girişine ödeme cihazı ve iki sıra bariyer yerleştirildiği görülmüştür. Geçerli planda bu elemanlar gösterilmemektedir. Araç kuyruğunun yoğun kullanımda yaya geçişine taşması olasılığı bulunmaktadır. Kaçış güzergahının kullanılabilir genişliği ve çıkışa kesintisiz erişim, onaylı plan ve fiili işletme koşulları üzerinden yeniden değerlendirilmelidir. Alarm ve enerji kesilmesinde bariyer davranışına ait doğrulanmış test kaydı sunulmamıştır.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu anlatımda gözlenen yerleşim ile henüz doğrulanmamış işletme davranışı birbirinden ayrılır. Tek bir fotoğraftan sistemin alarmda çalışmadığı sonucu çıkarılmaz; buna karşılık kapı önündeki somut engel de belirsiz bir “kontrol edilsin” ifadesiyle geçiştirilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Otopark yangın tahliyesinin başarısı, araçların ne kadar hızlı dışarı çıkacağına indirgenemez. İnsanların güvenli çıkışa yönlendirilmesi, araç trafiğiyle kesişimlerin kontrol edilmesi ve geçerli projenin gerçek işletme düzeniyle uyumu birlikte incelenmelidir. YGU açısından güçlü rapor; gözlemi, proje karşılığını, olası kaçış etkisini ve eksik teknik kanıtı ayrı ayrı gösterebilen rapordur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

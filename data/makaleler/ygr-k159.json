@@ -1,0 +1,173 @@
+{
+  "kod": "YGR-K159",
+  "yol": "duman-perdesi-devrede-ama-duman-zonu-korunuyor-mu",
+  "baslik": "Duman Perdesi Devrede Ama Duman Zonu Korunuyor Mu?",
+  "ozet": "Alışveriş merkezindeki bir atriumda veya büyük hacimli bir yapıda duman perdesinin alarm üzerine aşağı inmesi, hedeflenen duman bölgesinin gerçekten korunduğunu tek başına kanıtlamaz. Perde doğru hatta ve doğru kotta kapanmış olsa bile yan açıklıklar, asma tavan boşlukları, tahliye ağızlarının konumu, taze hava beslemesi ve fanların çalışma senaryosu dumanın izlediği yolu değiştirebilir. Yangın Güvenlik Uzmanı (YGU), “perde çalıştı” tutanağını ancak onaylı duman kontrol tasarımı ve sistemin diğer işlevlerine ait kanıtlarla birlikte değerlendirebilir.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "perde-hareketi-ile-duman-zonu-performansi-neden-farklidir",
+      "metin": "Perde hareketi ile duman zonu performansı neden farklıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Duman perdesi, tasarımına ve sınıflandırmasına bağlı olarak dumanın belirli bir hacim içinde tutulması veya başka bölgelere geçişinin sınırlandırılması amacıyla kullanılan bir yapı bileşenidir. Sabit veya hareketli olabilir. “Duman zonu” ise duman kontrol projesinde sınırları, tahliye veya biriktirme hedefi, tahliye ağızları ve komşu hacimlerle ilişkisi tanımlanmış bölgedir. Perdenin kendisi, bu hedefin yalnızca bir parçasını oluşturur. Projedeki duman haznesi veya bölgesi, sahadaki yeni açıklıklar ve engeller nedeniyle değişmiş olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir perdenin tamamen inmesi; yerleşim hattının uygunluğunu, dumanın iki yandan dolaşmadığını, üst kotta bir süreklilik bulunduğunu veya gerekli hava akışının gerçekleştiğini otomatik olarak göstermez. Öte yandan yalnız açık bir kenar görülmesi de hesap ve uygulama ayrıntıları bilinmeden kesin başarısızlık kararı vermek için yeterli olmayabilir. İncelemenin çıkış noktası, perdenin hangi işlevi yerine getirmesi beklendiğinin belgelerde açık olmasıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-mevzuatin-gosterdigi-cerceve",
+      "metin": "Yürürlükteki mevzuatın gösterdiği çerçeve"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 86, doğal duman tahliyesi yapılabilen yerlerde duman çekiş bacaları, duman kesicileri ve duman bölmeleri kullanılabileceğini; mekanik çözümde ise özel düzenlenmiş iklimlendirme sistemleri veya ayrı duman kontrol sistemleri kurulabileceğini belirtir. Madde 85, duman kontrol sistemlerinin güvenli tahliyeye katkı sağlayacak biçimde tasarlanmasını, tesis edilmesini ve çalışır durumda tutulmasını; ilgili sistemlerin kabul ve periyodik test/bakıma tabi olmasını düzenler. Duman tahliye ağzının açılıp açılmadığı ve mekanik düzeneklerin bakımla işler halde tutulması da bu çerçevenin parçasıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hükümler, her hareketli duman perdesi için tek bir montaj boyutu veya her bina türüne uygulanacak sabit bir test yöntemi vermez. İstenen zon performansı; yapının kullanımına, onaylı duman kontrol projesine, ilgili standartlara, cihazın sınıflandırmasına ve tasarım senaryosuna göre araştırılır. Koridor bölümlendirmesine ilişkin duman kesicisi hükümlerini, atriumda kullanılan hareketli duman perdesine otomatik olarak aynı teknik koşulmuş gibi aktarmak da doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "duman-kontrol-projesinde-once-ne-aranmali",
+      "metin": "Duman kontrol projesinde önce ne aranmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari plan ve kesitte duman zonunun sınır çizgisi, perdenin tam yeri ve nihai aşağı inme kotu belirlenir. Ardından mekanik tesisat projesinde duman tahliye ağızları, duman kontrol fanları, kanallar, yangın ve duman damperleri ile dışarıdan hava girişleri incelenir. Yangın algılama ve otomasyon senaryo matrisi ise hangi bölgedeki hangi algılamanın perdeyi, fanı, duman tahliye açıklığını ve başka sistemleri hangi sırayla çalıştıracağını açıklamalıdır. Bu belgelerin revizyonları tutarlı değilse tek bir paftadan uygunluk sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrol dokümanlarına cihaz/hat etiketleri, perdenin ürün ve sınıflandırma belgeleri, montaj ayrıntıları, devreye alma kayıtları, periyodik bakım tutanakları ve ilgili işlevsel test raporları eklenir. Test raporunda yalnız “mekanizma çalıştı” yazıyorsa perde hareketi doğrulanmış olabilir; ancak zonun amaçlanan duman kontrolünü sağladığı ayrıca kanıtlanmış sayılamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme odağı",
+        "Proje / belge kanıtı",
+        "Sahada ve testte aranacak iz"
+      ],
+      "satirlar": [
+        [
+          "Perde sınırı",
+          "Mimari kesit, zon çizimi, perde yerleşimi",
+          "Perdenin kotu, uç noktaları, komşu duvar ve tavan ilişkisi"
+        ],
+        [
+          "Açıklık ve geçişler",
+          "Cephe/şaft detayı, tesisat paftası",
+          "Yan boşluk, tavan üstü kaçak yolu, yeni kapı ve tesisat geçişi"
+        ],
+        [
+          "Algılama ve komut",
+          "Alarm zonu, senaryo ve neden-sonuç matrisi",
+          "Hangi alarmda indiği, komutun doğru cihaza ulaştığı"
+        ],
+        [
+          "Tahliye ve hava dengesi",
+          "Fan/kanal planı, hava girişleri, hesap ve testler",
+          "Tahliye ağzı, fan konumu, açık/kapalı damper durumu"
+        ],
+        [
+          "Besleme ve arıza",
+          "Elektrik şeması, üretici bilgisi, bakım kayıtları",
+          "Enerji kesilmesi, arıza ve elle kullanım senaryosu kanıtı"
+        ],
+        [
+          "Sonradan değişiklik",
+          "Onaylı revizyon, uygulama sonrası proje",
+          "Reklam, bölme, tavan kaplaması, mağaza alanı değişikliği"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "calisma-senaryosu-tek-cihazdan-okunmaz",
+      "metin": "Çalışma senaryosu tek cihazdan okunmaz"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılaması doğru duman bölgesinden geldiğinde perde, projede tanımlanan sırayla inebilir. Fakat aynı senaryoda tahliye fanının çalışması, duman tahliye açıklığının açılması, duman geçişini etkileyen başka damperlerin beklenen durumda olması ve temiz hava girişlerinin uygunluğu da önemli olabilir. Fan “çalışıyor” lambası, fanın istenen hava debisine ulaştığının; perde “kapalı” bildirimi de zonun uygun korunduğunun ölçülmüş kanıtı değildir. Bu ayrımlar neden-sonuç tablosu, sistem kaydı ve yetkili teknik testlerle değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle birden fazla yangın bölgesini içeren yapılarda aynı perdenin farklı alarm senaryolarında hangi konumda kalacağı açık olmalıdır. Bir katta alarm oluştuğunda komşu zondaki perdenin yanlışlıkla kapanması veya tahliye yolunu zorlaştıracak şekilde hareket etmesi, sadece mekanik cihaz kontrolü ile anlaşılamaz. Gerekli olduğu yerde testler ilgili işletme ve bakım sorumlularının denetiminde, kullanıcı güvenliği gözetilerek gerçekleştirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-sik-karsilasilan-gozlem-ve-belirsizlikler",
+      "metin": "Sahada sık karşılaşılan gözlem ve belirsizlikler"
+    },
+    {
+      "tip": "p",
+      "metin": "Atrium çevresine sonradan eklenen bir mağaza vitrini, sarkıt reklam veya dekoratif asma tavan perdenin iniş güzergahını daraltabilir. Tam inme konumu sensörle bildirilse bile perdenin kenarında öngörülmeyen boşluk oluşabilir. Bir başka durumda üst seviyede asma tavanın arkasındaki gizli açıklıklar dumanın farklı bir alana ilerlemesi için yol oluşturabilir. Üçüncü durumda mekanik tahliye menfezinin çevresine yeni yapı elemanı konulmuş, fakat son devreye alma kaydı bu değişiklikten önce düzenlenmiş olabilir. Bunlar doğrudan kesin performans sonucu değil, projeye ve teste bağlanması gereken ayrı saha bulgularıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Hareketli perde üzerindeki ürün etiketi, bakım hizmeti veya başarılı inme denemesi değerli belgelerdir; ancak duman kontrol tasarımının tamamına dair sonuç üretmez. Perdenin kumaşının yangına dayanımı, duman geçirgenliği veya hareket özellikleri gibi ürün nitelikleri de yalnız üretici sınıflandırma belgesi ve geçerli tasarım kapsamı üzerinden değerlendirilmelidir; görsel bakışla ürünün teknik sınıfı ilan edilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), işe güncel mimari ve duman kontrol projesinde ilgili zonu işaretleyerek başlar. Perdenin konumunu, çevre açıklıklarını, fan ve duman tahliye ağızlarının yerini, yangın algılama adreslerini ve sonradan yapılan tadilatları envantere alır. Gerçek kat ve kesit bilgileri ile senaryo matrisi arasında tutarlılık arar. Görülen perde hareketini tarih, mahal, cihaz etiketi ve varsa test kaydıyla ilişkilendirir; erişilemeyen kısımlarda gözlem sınırını ayrıca belirtir."
+    },
+    {
+      "tip": "p",
+      "metin": "Duman zonunun işlevinin doğrulanması için hesap, akış değerlendirmesi, ölçüm, devreye alma veya entegre sistem testi gerekiyorsa bunları ilgili yetkili tasarımcıdan, uygulayıcıdan ya da teknik test sorumlusundan talep eder. YGU; duman yayılımını ölçmüş, sistemin mühendislik hesabını yeniden yapmış veya ürünün dayanımını deneyle belirlemiş gibi rapor düzenlemez. Belgesi olmayan bir performansı “uygun” saymadığı gibi, sadece perdenin hareketi görülmedi diye tüm duman kontrolünü tek cümleyle mahkum etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-rapor-ornegi",
+      "metin": "Varsayımsal rapor örneği"
+    },
+    {
+      "tip": "p",
+      "metin": "“A Blok atriumunda DP-03 kodlu duman perdesinin alarm senaryosunda aşağı indiği gözlemlenmiştir. Bununla birlikte perdenin batı uç noktasına bitişik asma tavan düzeni sonradan değiştirilmiş olup değişikliğe ilişkin güncel duman zonu kesiti sunulmamıştır. Duman tahliye fanı ve taze hava açıklıklarıyla eşzamanlı çalışmayı gösteren güncel entegre test tutanağı da bulunamamıştır. Perde hareketi gözlenmiş, ancak hedeflenen duman zonu performansı doğrulanamamıştır; revize proje ve işlevsel test kanıtları istenmiştir.” Bu yalnız yazım amaçlı varsayımsal örnektir; gerçek saha bulgusu değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "bykhy-degisiklik-taslagi-ile-ayrim",
+      "metin": "BYKHY değişiklik TASLAĞI ile ayrım"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA duman kontrolünün esasları Madde 87’de ele alınır (TASLAK). Taslakta doğal duman tahliyesi için duman çekiş bacaları ve duman kesicileri ile mekanik duman kontrolüne ilişkin temel yaklaşım korunurken bazı ifadeler değişmiştir (TASLAK). Yürürlükteki Madde 86 ve ilgili Madde 85 kapsamındaki teknik yükümlülükler, taslak numarası yürürlükteymiş gibi aktarılmadan ayrı değerlendirilmelidir. Ayrıca Yangın Güvenlik Uzmanlığına ilişkin düzenleme taslağı, yürürlüğe girmiş mesleki yetkilerin kanıtı olarak kullanılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Duman perdesinin hareketi, duman kontrol sisteminin belirli bir parçasına ait işlevsel gözlemdir. Duman zonunun gerçekten korunup korunmadığı; sınır sürekliliği, perdenin doğru konumu, hava akışı, duman tahliyesi, alarm senaryosu, enerji/arıza koşulları ve güncel test raporları birlikte değerlendirilerek ortaya konabilir. YGU’nun raporu, görülen hareketi, eksik belgeyi ve teknik doğrulama gerektiren performansı birbirinden ayırdığında işletmeye kullanılabilir bir kontrol sonucu sağlar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

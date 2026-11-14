@@ -1,0 +1,203 @@
+{
+  "kod": "YGR-K100",
+  "yol": "mevcut-bina-gecis-hukumleri-bugun-nasil-yorumlanmali",
+  "baslik": "Mevcut bina geçiş hükümleri bugün nasıl yorumlanmalı?",
+  "ozet": "Mevcut yapı statüsü, yürürlük tarihi ve somut işlem belgesi birlikte değerlendirilmeden geçiş hükmü uygulanamaz.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-gecis-hukmu-bir-muafiyet-belgesi-degildir",
+      "metin": "1. Geçiş hükmü bir muafiyet belgesi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalar için öngörülen özel hükümler, yapının hangi tarihte ve hangi belgelerle hukuken mevcut sayıldığını belirlemeye yarar. Bu statü, binanın bütün yangın güvenliği yükümlülüklerinden kendiliğinden muaf olduğu anlamına gelmez. Önce yapı ruhsatı başvuru dosyası, ilgili idarece onaylanmış projeler, yapı kullanma izin belgesi ve sonradan yapılan kullanım veya tadilat işlemleri okunur; ardından somut yangın tedbiri için uygulanacak hüküm seçilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın inşa yılı ile ruhsat başvurusunun, proje onayının veya kullanım değişikliğinin tarihi farklı olabilir. Değerlendirmede yalnız bina cephesindeki tarih, işletmenin kuruluş yılı ya da sözlü beyan değil, işlemin hukuki niteliğini gösteren kayıt esas alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "2-bugun-yururlukte-olan-duzenleme-nasil-okunur",
+      "metin": "2. Bugün yürürlükte olan düzenleme nasıl okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin mevcut yapılara ilişkin 138. maddesi, bazı kullanım değişikliklerini genel mevcut bina uygulamasının dışında tutar. Yürürlükteki düzenlemede özellikle sayılan sağlık ve bakım kullanımları, çocukların barındığı veya eğitim gördüğü belirli yerler, eğlence ve konaklama kullanımları ile tehlikeli maddelerin bulundurulacağı binalar bakımından ayrı bir inceleme gerekir. Bu durumlarda kullanım değişikliğinin kapsamı ve ilgili diğer hükümler birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddenin ikinci fıkrası, 2002 tarihli önceki düzenlemeye uygun yangın tedbirleri alınmış yapılar için ilave tedbir alınmamasını esas kabul eder. Ancak bu ifade, uygunluğun kanıtsız varsayılabileceği veya sonraki kullanım değişikliklerinin görmezden gelineceği anlamına gelmez. Uygunluk iddiası ilgili dönem projesi, izinleri ve yangın tedbirlerinin uygulanmasına ilişkin belgelerle desteklenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca 19 Aralık 2007 öncesinde yapı ruhsatı başvuru dilekçesine ek projeleri yetkili idarece onaylanmış yapılar da mevcut yapı kapsamında kabul edilir. Bu hükümde belirleyici olan, yalnız başvurunun yapılmış olması değil, dilekçe eki projelerin ilgili idarece onaylanmış olmasıdır. Mevcut bina için öngörülen özel kaçış, söndürme ve algılama hükümleri de konuya göre ayrıca kontrol edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-suresi-dolmus-gecici-maddeler-nasil-degerlendirilir",
+      "metin": "3. Süresi dolmuş geçici maddeler nasıl değerlendirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Geçici madde, süre tanıdığı dönemdeki yükümlülüğü ve denetim aşamasını düzenler; sürenin bitmesi, teknik yükümlülüğün kendiliğinden ortadan kalkması demek değildir. Yürürlükteki Geçici Madde 3, belirli mevcut yapılar için 31 Aralık 2023 tarihine kadar tedbirlerin alınmasını ve belirtilen koşullarda idarece yapım süresi tanınabilmesini düzenlemiştir. Bu hüküm bütün mevcut yapılara otomatik yeni süre veren genel bir düzenleme değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "1 Temmuz 2025 tarihinde eklenen Geçici Madde 4 ise mevcut binalarda malzeme temini için süreç gerektiren eksikliklerin 31 Aralık 2025 tarihine kadar giderilmesini ve sonrasında ruhsat vermeye yetkili idarece denetlenmesini öngörmüştür. Bu tarih bugün geçmiş durumdadır. Maddeyi bütün eksiklikleri erteleyen, bütün işletmeleri kapsayan yeni bir muafiyet veya süresiz tolerans olarak yorumlamak doğru değildir. Somut idari işlem, eksikliğin türü ve yürürlükteki diğer mevzuat ayrıca değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın Mayıs 2026 güncellemeli Kılavuzu, mevcut yapıların değerlendirilmesini açıklayan önemli bir yardımcı kaynaktır. Bununla birlikte Kılavuzun geçici maddelere ilişkin açıklamaları, daha sonra yürürlüğe giren değişikliklerin yerine geçmez. Bu nedenle uygulayıcı, kılavuzdaki açıklamayı güncel yönetmelik metni ve değişiklik hükmüyle birlikte okumalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme sorusu",
+        "Belge / veri",
+        "Karara etkisi"
+      ],
+      "satirlar": [
+        [
+          "Yapı hangi statüde?",
+          "Ruhsat başvuru dosyası, onaylı proje, yapı kullanma izni",
+          "Mevcut yapı hükmünün uygulanabilirliği"
+        ],
+        [
+          "Kullanım sonradan değişti mi?",
+          "Tadilat ruhsatı, kullanım değişikliği işlemi, fiili faaliyet",
+          "Özel hüküm veya diğer kısımlara geçiş ihtimali"
+        ],
+        [
+          "Önceki tedbirler uygun muydu?",
+          "Dönem projesi, itfaiye/idare yazısı, uygulama ve bakım kayıtları",
+          "İlave tedbirin gerekçesi ve eksiklik analizi"
+        ],
+        [
+          "Süreli yükümlülük var mı?",
+          "Geçici madde, tarihli idari karar, eksiklik yazısı",
+          "Sürenin dolması ve denetim yükümlülüğü"
+        ],
+        [
+          "Saha projeyle aynı mı?",
+          "Mahaller, kullanım yoğunluğu, kaçış ve sistem yerleşimi",
+          "Belge ile gerçek kullanımın uyuşması"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "4-yeni-bykhy-taslaginda-onerilen-yaklasim-farklidir",
+      "metin": "4. Yeni BYKHY taslağında önerilen yaklaşım farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağında mevcut yapılara ilişkin ana düzenleme 139. maddede toplanmıştır. Bu taslak, yürürlükteki 138. maddeyle yalnız numara bakımından değil, içerik ve tarihsel referans bakımından da farklıdır. Örneğin taslakta önceki düzenlemeye uygun tedbirlerin yeterli sayılması bakımından 2007 tarihli yönetmelik esas alınırken, yürürlükteki metnin ilgili fıkrasında 2002 tarihli düzenleme yer alır. Bu iki referans birbirinin yerine yazılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta kullanım değişikliği içermeyen esaslı tadilatlara, önceki tedbirlerin yetersizliğinin tespitine ve mevcut yapılardaki bazı yeni teknik koşullara yönelik daha ayrıntılı hükümler önerilmektedir. Bunlar arasında belirli konutlarda algılama, elektrikli araç şarj sistemleri ve yapıya entegre güneş enerjisi sistemleri gibi konular bulunur. Taslakta sayılan koşullar, resmen yürürlüğe girmedikçe bugün doğrudan bağlayıcı yeni yükümlülük olarak gösterilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle taslağın 139. maddesindeki sekizinci, dokuzuncu ve onuncu fıkralarla bağlantılı önerilerin, önceki tedbirlerin yeterliliğine ilişkin değerlendirmeyi nasıl etkilediği yeni metin yürürlüğe girerse ayrıca incelenmelidir. Bugünkü uygunluk raporunda taslak hükmü, ancak açıkça öneri niteliği belirtilerek ve yürürlükteki hükümden ayrı tutulmak suretiyle değerlendirilebilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karşılaştırma alanı",
+        "Yürürlükteki yaklaşım",
+        "Yeni taslaktaki öneri"
+      ],
+      "satirlar": [
+        [
+          "Önceki yönetmeliğe uygun tedbir",
+          "2002 tarihli düzenlemeye gönderme",
+          "2007 tarihli düzenlemeye gönderme"
+        ],
+        [
+          "Mevcut yapı kapsamı",
+          "138. madde ve kullanım değişikliği istisnaları",
+          "139. maddede kapsam ve esaslı tadilat açıklaması"
+        ],
+        [
+          "İlave teknik koşullar",
+          "Mevcut bina özel hükümleri ve yürürlükteki değişiklikler",
+          "Şarj, güneş enerjisi ve belirli yapı grupları için yeni koşullar"
+        ],
+        [
+          "Uygulanabilirlik",
+          "Bugün bağlayıcı metin",
+          "Henüz öneri; yürürlük kararı beklenir"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "5-varsayimsal-uygulama-eski-buro-katinin-yeni-kullanimi",
+      "metin": "5. Varsayımsal uygulama: eski büro katının yeni kullanımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın ruhsat ve projelerinde büro olarak görünen katının daha sonra yatılı bakım amacıyla kullanılmaya başlandığını varsayalım. Binanın eski olması tek başına mevcut bina hükümlerinin tamamının bu yeni kullanım için yeterli olduğunu göstermez. Önce kullanım değişikliğinin ne zaman ve hangi idari işlemle gerçekleştiği araştırılır. Ardından yeni faaliyetin yürürlükteki yönetmelikte özel değerlendirme gerektiren kullanım gruplarına girip girmediği, kaçış düzeni ve ilgili koruma sistemleriyle birlikte incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci bir varsayımda, binanın kullanım amacı değişmemiş ancak kaçış koridorunda sonradan depo oluşturulmuş olsun. Bu durumda tarihli ruhsatın varlığı, yeni engelin kabul edildiği anlamına gelmez. Onaylı proje ile sahadaki fiili durum karşılaştırılır; kaçış yolu ve yangın tedbirlerinin etkilenip etkilenmediği tespit edilerek uygun teknik düzeltme ilgili sorumlulara bildirilir. Bunlar gerçek olay anlatımı değil, inceleme yöntemini açıklayan örneklerdir."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "6. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), konuya ilişkin görevlendirme ve yürürlükteki yetki sınırları içinde öncelikle yapı ruhsatını, onaylı mimari ve yangın güvenliği projelerini, yapı kullanma iznini, varsa tadilat ve kullanım değişikliği belgelerini tarih sırasına koyar. Binanın gerçek mahallerini, faaliyetlerini, kullanıcı profilini ve işletme koşullarını bu kayıtlarla karşılaştırır. Geçici hükme dayanılarak ileri sürülen bir uygunluk veya süre iddiasında, dayanak belgenin hangi yapıya, hangi eksikliğe ve hangi tarihe ilişkin olduğunu açıkça belirler."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesinde kaçış yollarının fiili kullanımı, yangın kapılarının durumu, kompartıman sınırları, algılama ve söndürme sistemlerinin projede gösterilen kapsamı ile işletme ve bakım kayıtları birlikte ele alınır. Sistem performansının kanıtı gerekiyorsa yetkili kişilerce düzenlenmiş test, periyodik muayene ve devreye alma raporları incelenir. Gözlemsel bulgu, teknik raporla doğrulanması gereken konu ve yetkili idare kararı birbirinden ayrılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, kendi incelemesini yetkili proje müellifinin tasarım hesabı, yetkili ölçüm kuruluşunun testi veya ruhsat vermeye yetkili idarenin onayı yerine koymaz. Eksik veya çelişkili belge varsa olumlu uygunluk sonucu varsaymak yerine, hangi bilginin kim tarafından doğrulanması gerektiğini gerekçeli raporlar. YGU görevlerine ilişkin ayrı yönetmelik taslağında öngörülen usuller, yürürlüğe girmeden yeni bir idari yetki doğurmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "7-raporun-karar-cumlesi-nasil-kurulmali",
+      "metin": "7. Raporun karar cümlesi nasıl kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Rapor, “bina eski olduğu için uygundur” gibi sonuçlardan kaçınmalıdır. Bunun yerine yapının statüsünü destekleyen tarihli belgeyi, fiili kullanımın projeyle uyumunu, incelenen tedbirin yürürlükteki dayanağını ve varsa teknik belirsizliği birlikte göstermelidir. Uygunluğu belirlemek için idare görüşü, proje revizyonu veya teknik test gerekiyorsa bu husus açıkça yazılmalı; tamamlanmamış doğrulama, yapılmış kabul edilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak geçiş hükmü, tarihlerden oluşan basit bir ezber değil; hukuki statü, proje geçmişi, gerçek kullanım ve somut yangın tedbirinin birlikte değerlendirilmesidir. Mevcut yapı statüsü bir başlangıç noktasıdır; nihai karar, yürürlükteki hüküm ve doğrulanabilir teknik kayıtlarla kurulur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

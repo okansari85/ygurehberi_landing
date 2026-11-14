@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K180",
+  "yol": "yakit-ikmal-tesisinde-isletme-proje-ayrismasi-nasil-saptanir",
+  "baslik": "Yakıt İkmal Tesisinde İşletme–Proje Ayrışması Nasıl Saptanır?",
+  "ozet": "Bir akaryakıt istasyonunda onaylı proje değişmeden pompa adası yenilenebilir, tanker boşaltım güzergahı başka kapıya alınabilir veya satış birimi büyütülebilir. Her değişiklik tek başına uygunsuzluk anlamına gelmez. Ancak projenin gösterdiği güvenlik koşulları ile fiili işletme birbirinden uzaklaştığında, yangın güvenliği değerlendirmesinin dayanağı da değişir. Yangın güvenlik uzmanlığı (YGU) bakımından temel iş, bu farkı ölçülebilir ve doğrulanabilir bir saha kaydına dönüştürmektir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayni-tesisin-uc-farkli-gorunumu-karsilastirilir",
+      "metin": "Aynı tesisin üç farklı görünümü karşılaştırılır"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk görünüm, onaylı vaziyet planı, mimari plan, akaryakıt tesisatı yerleşimi, tank ve dolum hattı planları ile bunların onaylı revizyonlarıdır. İkincisi, işletmenin bugün kullandığı düzen: hangi tanktan hangi ikmal kolonuna yakıt gittiği, tankerin nereden girip boşalttığı, araçların hangi adaları dolaştığı ve yeni yapı ya da donanımın nereye konulduğudur. Üçüncü görünüm ise izin, bakım ve periyodik muayene kayıtlarında tarif edilen tesistir. Bu üç görünümün aynı tarihi ve aynı düzeni anlattığı varsayılmaz; her birinin sürümü ve kapsamı açıkça yazılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir tesisin haritasında “pompa adası” sembolünün bulunması, adanın sahadaki gerçek konumunun doğrulandığını göstermez. Benzer biçimde, bir tankın bakım belgesinin bulunması da dolum ağzının yeni yerinde güvenli olduğunu tek başına ispatlamaz. Belge, ekipman ve işletme faaliyeti eşleştirmesi ayrı yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "ayrisma-nerelerde-ortaya-cikar",
+      "metin": "Ayrışma nerelerde ortaya çıkar?"
+    },
+    {
+      "tip": "p",
+      "metin": "İkmal kolonlarının konumu ve araçların manevra alanı ilk bakılacak noktalardır. Kolon yakınına yeni bariyer, kasa, reklam panosu veya otopark şeridi yapılmışsa araç çarpmasına karşı koruma ve müdahale erişimi yeniden gözlemlenir. Yeraltı tanklarının doldurma ağızları, havalandırma çıkışları, dolum hortumlarının geçtiği alan, tanker bekleme noktası ve dolum sırasında diğer araçların geçişi birlikte değerlendirilir. Boşaltım sırasında buharın çıkabileceği açıklık ile çevresindeki elektrikli ekipman ve su tahliye kanalı arasındaki ilişki de güncel planla karşılaştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "İşletme düzeni değişmiş fakat revizyon projesi gösterilemiyorsa tespit “sistem uygun değildir” şeklinde kestirilip atılmaz. Önce değişen unsur, görülen olgu, karşılaştırılan proje paftası, eksik belge ve teknik inceleme ihtiyacı ayrı kaydedilir. Tehlike bölgesi sınırı, topraklama yeterliliği veya tank kapasitesi gibi hususlarda hesap ve test gerektiren konular yetkili uzman ya da ilgili teknik birime yönlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-kontrolu-icin-kayit-eslestirmesi",
+      "metin": "Saha kontrolü için kayıt eşleştirmesi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karşılaştırma alanı",
+        "İncelenecek belge",
+        "Sahada aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "İkmal kolonları ve ada düzeni",
+          "Onaylı yerleşim planı, son revizyon, cihaz envanteri",
+          "Fiili kolon konumu, araç çarpmasına karşı koruma, geçiş açıklıkları"
+        ],
+        [
+          "Yeraltı tankları",
+          "Tank planı, kapasite bilgisi, muayene ve tadilat belgeleri",
+          "Dolum/boşaltım noktası, kapak ve menhol erişimi, yeni yapı veya yük"
+        ],
+        [
+          "Tanker hareketi",
+          "Vaziyet planı, giriş-çıkış ve sevkiyat prosedürü",
+          "Gerçek manevra ve bekleme yeri, boşaltım sırasında kesişen trafik"
+        ],
+        [
+          "Topraklama ve elektrik",
+          "Topraklama projesi, ölçüm kaydı, elektrik tesisat krokisi",
+          "Tanker bağlantı noktası, fiili pano ve kablo güzergahı; test ihtiyacı"
+        ],
+        [
+          "Acil müdahale düzeni",
+          "Yangın önlem planı, cihaz yerleşim listesi, bakım kayıtları",
+          "Söndürücü erişimi, işaretleme ve acil müdahale alanlarına engeller"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-belirledigi-sinir",
+      "metin": "Mevzuatın belirlediği sınır"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 121, akaryakıt servis istasyonlarına ilişkindir. Madde 121/3, ikmal kolonu içini 1. Tehlike Bölgesi; kolon orta noktasından 1 m yarıçaplı çevreyi, kolon yüksekliğine kadar 2. Tehlike Bölgesi olarak tanımlar. Madde 121/4-a, akaryakıtın Madde 120/2 kapsamındaki yeraltı tanklarında depolanmasını düzenler. Madde 121/4-c, merkezi topraklama sistemini ve tanker boşaltımında kullanılacak bağlantıyı; Madde 121/4-d, ikmal kolonlarının devrilme ve araç çarpmasına karşı korunmasını konu edinir. Madde 121/4-e ise kolon çevresindeki alt kotlara ulaşan tesisat açıklıklarına ilişkin sınırlama getirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hükümler saha incelemesinin nereye odaklanacağını açıklar; onaylı proje paftasını, tankın teknik belgelerini veya güncel ölçüm kayıtlarını gereksiz kılmaz. İstasyonun konumu ve izin kapsamı değerlendirilirken Ek-13 uzaklıkları ve ilgili diğer mevzuat birlikte ele alınır. Eski bir projedeki tank sayısı veya pompa adası konumu ile bugünkü işletme arasında değişiklik tespit edilirse, değişikliğin hangi onay ve teknik değerlendirmeye tabi olduğu ayrıca araştırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU işe tesisin güncel proje ve belge listesini oluşturarak başlar: pafta adı, revizyon tarihi, varsa onay bilgisi, tank ve dispenser kimlikleri, muayene raporu tarihi ve işletme sorumlusu. Ardından sahada sabit referans noktaları kullanılarak fiili yerleşim belgelenir. Farklılıkların fotoğrafları yalnız nesneyi değil, nesnenin yakınındaki yol, bina, dolum ağzı ve müdahale alanıyla ilişkisini de göstermelidir. Güvenli olmayan bir alanda ölçüm için yaklaşılmaz; kontrolün sınırı kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Her bulguya bir iz bırakılır: “Proje A-03 revizyon 2’de tanker boşaltımı kuzey kapıda; saha ziyaretinde güney servis yolunda yapıldığı görüldü. Güncel onaylı revizyon ve buna bağlı tehlike bölgesi incelemesi sunulamadı.” Böyle bir kayıt gözlemi, belge eksikliğini ve henüz doğrulanmamış teknik hususu birbirine karıştırmaz. Düzeltici işlemin sorumlusu ve tamamlanma belgesi ayrıca takip edilir. Bir uygunsuzluğun giderildiğinin beyan edilmesi, gerekli yeniden inceleme veya muayenenin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukum-ve-ek-6-baglantisi",
+      "metin": "Taslak hüküm ve EK-6 bağlantısı"
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yürürlüğe girmemiş BYKHY değişiklik taslağında akaryakıt servis istasyonları Madde 123’te düzenlenir (TASLAK). Yürürlükteki Madde 121/4-b’de yer alan tank başına 45.000 litre ve istasyon için 250.000 litre sınırları, taslak Madde 123/4-b’de tank kapasitelerinin ilgili standarda göre belirlenmesi yaklaşımıyla değiştirilmiştir (TASLAK). Taslak Madde 123/4-e, idari binaların bodrum katına ilişkin ayrıca bir düzenleme içerir (TASLAK). Bu iki düzenleme mevcut mevzuat şartıymış gibi uygulanamaz; değişiklikler karşılaştırma amacıyla ayrı tutulur."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU düzenlemesinin yayımlanmamış EK-6/B formunda “Akaryakıt servis istasyonları (Madde 123)” başlığı altında ikmal kolonlarının araç çarpmasına karşı korunması ve söndürücülerle ilgili kontrol satırları bulunur (TASLAK). Ancak bu satırlar, bütün istasyon yerleşiminin projeye uygunluğunu tek başına doğrulayan bir kontrol bendi değildir. Proje–saha ayrışması için doğrudan bir EK-6 satırı uydurulmadan, onaylı belge ve teknik inceleme karşılaştırması rapora eklenmelidir. EK-6/B, yürürlüğe girmiş bir kontrol formu olarak sunulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletme–proje ayrışmasını ortaya koyan şey, yalnız bir tankın veya dispenserin yer değiştirdiği iddiası değildir. Değişikliğin hangi projedeki hangi güvenlik düzenini etkilediği, sahada nasıl gözlendiği ve bunun için hangi onay, hesap veya muayene belgesinin eksik olduğu birlikte yazılmalıdır. Bu yöntem, hem gereksiz kesin uygunluk hükümlerini hem de yalnızca şüpheye dayanarak verilen uygunsuzluk kararlarını önler."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 120/2–4, Madde 121 ve Ek-13."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 122 ve Madde 123 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)."
+    },
+    {
+      "metin": "EK-6/B Periyodik Kontrol Formu, Akaryakıt Servis İstasyonları bölümü (TASLAK)."
+    }
+  ],
+  "sonNotlar": []
+}

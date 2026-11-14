@@ -1,0 +1,135 @@
+{
+  "kod": "YGR-K132",
+  "yol": "bodrum-kat-merdiveni-zemin-katta-nasil-sonlanmalidir",
+  "baslik": "Bodrum kat merdiveni zemin katta nasıl sonlanmalıdır?",
+  "ozet": "Bodrum kattan gelen bir merdivenin zemin kata ulaşması, tek başına güvenli çıkışın sağlandığını göstermez. Kullanıcı merdivenden çıktığında binanın dışına veya mevzuata uygun güvenli çıkış düzenine yönlenebiliyor mu? Yoksa üst katlara çıkan merdivenle aynı hacimde, yönü belirsiz bir dolaşım alanına mı giriyor? İncelemenin merkezindeki soru budur.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorunun-ozu-merdiven-nereye-goturuyor",
+      "metin": "Sorunun özü: Merdiven nereye götürüyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle bodrum ve üst kat merdivenlerinin aynı çekirdeği kullandığı yapılarda, mimari plandaki merdiven sembolü yeterli kanıt değildir. Zemin kat sahanlığındaki kapılar, bölmeler, yönlendirme, kilit düzeni ve son çıkışın konumu birlikte okunmalıdır. Bir merdivenin yapısal olarak devam etmesi ile kaçışın güvenli biçimde devam etmesi farklı konulardır."
+    },
+    {
+      "tip": "h2",
+      "id": "projede-incelenecek-baglantilar",
+      "metin": "Projede incelenecek bağlantılar"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk adım, geçerli onaylı mimari proje ile yangın güvenliği açısından ilgili onaylı değişiklikleri belirlemektir. Bodrum kat planı, zemin kat planı ve merdiven kesiti aynı merdiven kolunu izlemeye imkan vermelidir. Zemin katta merdivenden çıkan kişinin izlediği yol, son çıkış kapısına kadar kesintisiz olarak işaretlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bodrumdan gelen kullanıcıların üst katlara yönelmesini engelleyen veya doğru çıkışa yönlendiren mimari düzenlemeler varsa bunların projedeki yeri ve sahadaki karşılığı karşılaştırılır. Bu düzenin hangi bina türü ve kullanım koşullarında zorunlu olduğuna ise yapının mevzuat statüsü ve ilgili yürürlük hükümleri incelenerek karar verilir; her binaya tek tip çözüm dayatılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "zemin-kattaki-kritik-saha-bulgulari",
+      "metin": "Zemin kattaki kritik saha bulguları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Sahada aranacak kanıt",
+        "Değerlendirme sorusu"
+      ],
+      "satirlar": [
+        [
+          "Merdiven sonlanması",
+          "Zemin kat sahanlığı ve kat bağlantısı",
+          "Bodrumdan gelen kişi hangi yöne ilerliyor?"
+        ],
+        [
+          "Bölme ve kapılar",
+          "Onaylı detay, yerindeki kapı ve donanım",
+          "Kaçış yönü belirsizleşiyor veya kesiliyor mu?"
+        ],
+        [
+          "Son çıkış bağlantısı",
+          "Kat planı, gerçek kapı ve dış alana geçiş",
+          "Merdivenden sonra güvenli çıkışa erişim sürüyor mu?"
+        ],
+        [
+          "Yönlendirme",
+          "İşaretlerin yeri, görünürlüğü ve güzergahı",
+          "Kullanıcı yanlışlıkla üst katlara yönlenebilir mi?"
+        ],
+        [
+          "Sonradan değişiklik",
+          "Revizyon projesi, kullanım ve saha fotoğrafları",
+          "Yeni bölme, turnike veya kilit geçişi değiştirmiş mi?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "birlesen-merdivenlerde-karar-neden-zorlasir",
+      "metin": "Birleşen merdivenlerde karar neden zorlaşır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı çekirdeğe açılan iki merdiven kolu, bodrumdan gelen kullanıcı için zemin katta son çıkışın nerede başladığını belirsizleştirebilir. Özellikle kapıların kullanım sırasında açık tutulması, kartlı geçişin değişmesi veya danışma alanına yeni bölme eklenmesi, onaylı projedeki kaçış kurgusunu değiştirebilir. Bu nedenle yalnız merdivenin genişliğini veya kapı sayısını kaydetmek, bağlantının güvenliğini değerlendirmek için yeterli değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kapının yangına dayanım etiketi bulunması da tek başına yeterli değildir: Kapının yerleşimi, açılma yönü, donanımı, kullanım biçimi ve onaylı sistemle uyumu ayrıca değerlendirilir. Teknik performans iddiası gerektiğinde ürün ve uygulama belgeleri yetkili uzmanlık alanlarınca doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce onaylı proje ve yapı kullanımına ilişkin belgelerden merdivenin tasarlanan kaçış işlevini belirler. Bodrumun gerçek faaliyetini, kullanıcı profilini, kapıların işletme düzenini ve zemin katın güncel kullanımını yerinde inceler. Ardından projede gösterilen bodrum–zemin bağlantısını, mevcut merdiven sahanlığını ve son çıkışa uzanan gerçek güzergahla karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha tespitinde kapının kilitli olması, geçişin depolamayla daraltılması veya yönlendirmenin üst katlara götürmesi gibi gözlenebilir durumlar; konum, fotoğraf, proje paftası ve işletme açıklamasıyla kayıt altına alınır. Eksiklik şüphesinde hangi belge veya uzman görüşünün gerektiği gerekçeli raporda açıkça belirtilir. YGU incelemesi, mimari kaçış projesi tasarlama veya onaylama, yangın dayanımı deneyini yapma ya da yetkili idarenin kararını verme yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-gerekceli-tespit-dili",
+      "metin": "Örnek gerekçeli tespit dili"
+    },
+    {
+      "tip": "p",
+      "metin": "“Bodrum kattan gelen merdivenin zemin kat sahanlığında üst kat merdiveniyle bağlantısı bulunduğu gözlenmiştir. Mevcut kapı ve yönlendirme düzeninin onaylı kaçış projesiyle uygunluğu, ilgili zemin kat paftası ve kapı detayları üzerinden teyide muhtaçtır. Son çıkışa yönlendirme sürekliliği bakımından proje–saha karşılaştırmasının tamamlanması önerilir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu metin bir gerçek olay anlatımı değil, belgelendirilmesi gereken bir bulgu için örnek rapor dilidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Bodrum merdiveninin zemin katta doğru sonlanması, yalnızca bir kat kotuna ulaşması değil; kullanıcıyı kararsız bırakmadan, onaylı kaçış kurgusuyla uyumlu biçimde son çıkışa taşımasıdır. Güvenilir değerlendirme, kat planı, kesit, kapı düzeni, güncel işletme koşulları ve gerçek yürüyüş güzergahının birlikte incelenmesiyle yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

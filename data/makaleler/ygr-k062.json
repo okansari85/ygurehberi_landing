@@ -1,0 +1,180 @@
+{
+  "kod": "YGR-K062",
+  "yol": "yangin-pompasi-test-belgesinde-hangi-bilgiler-aranmali",
+  "baslik": "Yangın pompası test belgesinde hangi bilgiler aranmalı?",
+  "ozet": "Yangın pompasının çalıştırıldığını gösteren bir servis tutanağı, pompanın projede öngörülen su debisini ve basıncını sağladığını tek başına kanıtlamaz. Test belgesinin değeri, hangi pompanın hangi koşullarda denendiğini ve elde edilen sonuçların hangi tasarım verisiyle karşılaştırıldığını açıkça göstermesindedir.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "calisma-kaydi-ile-performans-testi-ayni-sey-degildir",
+      "metin": "Çalışma kaydı ile performans testi aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın pompalarında iki ayrı bilgi aranır: Sistemin gerektiğinde devreye girebildiği ve devreye girdiğinde beklenen hidrolik performansı sağlayabildiği. Otomatik başlatma, kumanda panosu ve arıza bildirimlerinin kontrolü birinci soruya yanıt verir. Debi ve basınç ölçümleri ise ikinci sorunun değerlendirilmesini sağlar. Belge yalnızca “çalıştı” ifadesini içeriyorsa, bu kayıt performansın olumlu bulunduğu şeklinde yorumlanmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın pompalarını anma debisi ve anma basıncı üzerinden tanımlar; pompa karakteristiği, yedekleme ve çalışma sürekliliğiyle ilgili koşulları düzenler. Bakanlığın uygulama kılavuzu da kullanım suyu hidroforuyla yangın pompasının karıştırılmamasına ve pompa grubunun test edilerek işletmeye alınmasına dikkat çeker."
+    },
+    {
+      "tip": "h2",
+      "id": "once-pompa-kimligi-ve-tasarim-dayanagi",
+      "metin": "Önce pompa kimliği ve tasarım dayanağı"
+    },
+    {
+      "tip": "p",
+      "metin": "Test formundaki üretici, model, seri numarası, pompa grubu ve sürücü bilgileri; pompa üzerindeki etiket ve onaylı mekanik yangın projesindeki ekipmanla eşleşmelidir. Projede belirtilen tasarım debisi ve basıncı, varsa pompa eğrisi ve ilk kabul verileri görülmeden sonraki ölçümün neye göre başarılı sayıldığı anlaşılamaz. Değiştirilen pompa veya kontrol panosu varsa, güncel proje ve revizyon kayıtları ayrıca istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "debili-testte-hangi-veriler-birlikte-okunur",
+      "metin": "Debili testte hangi veriler birlikte okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Ölçümlü bir test raporunda tarih, testin kapsamı ve yöntemi, debi noktaları, emiş ve basma basınçları, ölçüm noktalarının yeri, kullanılan cihazların kimliği ve sonuçların değerlendirilmesi bulunmalıdır. Ölçüm cihazlarına ait geçerli doğrulama veya kalibrasyon kayıtları, test yönteminin gerektirdiği ölçüde izlenebilir olmalıdır. Pompanın devri, elektrik veya dizel sürücünün çalışma durumu, su kaynağı koşulları ve vana konumları da sonucun yorumunu etkileyebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin yalnız kapalı vana koşulunda yapılan bir çalışma kontrolü ile belirli debilerde alınmış performans ölçümleri aynı kapsamda değildir. Farklı tarihlerdeki test sonuçları da yöntem, ölçüm noktası ve emiş koşulları eşdeğer değilse doğrudan “pompa zayıfladı” sonucuna götürmez. Böyle bir fark teknik inceleme gerektirir; nedenini tek başına test formuna bakarak belirlemek doğru olmaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 62. Pompanın çalışması ile ölçümlü debili testin farklı kanıtlar üretmesi. (Özgün temsili çizim.)",
+      "src": "/img/makale/ygr-k062-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "eksik-belge-nasil-degerlendirilir",
+      "metin": "Eksik belge nasıl değerlendirilir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Sunulan kayıt",
+        "Kanıtladığı husus",
+        "Açık kalan soru"
+      ],
+      "satirlar": [
+        [
+          "Otomatik çalıştırma / servis formu",
+          "Pompanın belirli koşulda devreye girdiğine ilişkin kayıt",
+          "Proje debisi ve basıncında performans gösterilmiş mi?"
+        ],
+        [
+          "Debili test raporu",
+          "Belirtilen test noktalarında ölçülmüş hidrolik değerler",
+          "Ölçüm koşulları ve proje referansı uygun biçimde karşılaştırılmış mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "teknik-kanit-tablosu",
+      "metin": "Teknik kanıt tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek belge veya veri",
+        "Özellikle aranacak bilgi",
+        "İnceleme amacı"
+      ],
+      "satirlar": [
+        [
+          "Pompa kimlik ve proje bilgisi",
+          "Etiket, model, seri numarası, anma debisi/basıncı",
+          "Test edilen pompayı onaylı projeyle eşleştirmek"
+        ],
+        [
+          "İlk kabul / devreye alma raporu",
+          "Tarih, test noktaları, sonuç ve varsa pompa eğrisi",
+          "Başlangıç performansına ilişkin referansı görmek"
+        ],
+        [
+          "Güncel performans testi",
+          "Debi, emiş ve basma basıncı, yöntem, ölçüm noktaları",
+          "Tasarım ihtiyacına ilişkin ölçümlü kanıtı incelemek"
+        ],
+        [
+          "Ölçüm cihazı kayıtları",
+          "Cihaz kimliği, uygun doğrulama/kalibrasyon bilgisi",
+          "Sonuçların izlenebilirliğini değerlendirmek"
+        ],
+        [
+          "İşletme ve bakım kayıtları",
+          "Otomatik başlatma, arızalar, müdahaleler, değişiklikler",
+          "Testin işletme geçmişiyle tutarlılığını görmek"
+        ],
+        [
+          "Güç ve yedekleme belgeleri",
+          "Sürücü türü, enerji beslemesi, yedek pompa düzeni",
+          "Çalışma sürekliliği için belge–saha bağını kurmak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı yangın söndürme projesini, varsa tadilat projelerini, yapı kullanımına ilişkin belgeleri ve pompa grubunun kabul, bakım ve test kayıtlarını belirleyerek başlar. Pompa odasında ekipmanın etiketi, asıl ve yedek pompa düzeni, görünür bağlantılar, kumanda panoları ve işletme koşulları projedeki tanımlarla karşılaştırılır. Bu gözlem, pompa performansının ölçülmüş olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Belgede pompa kimliği belirsizse, yalnız çalıştırma sonucu varsa veya debi-basınç ölçümleri proje verileriyle ilişkilendirilmemişse eksiklik somut olarak kaydedilir. Uygunluk konusunda karar vermeye yeterli kanıt bulunmadığı belirtilir; ilgili testin yetkili ve teknik açıdan ehil kişilerce yapılması, sonuçların tasarımcı veya ilgili uzmanlık tarafından değerlendirilmesi istenir. YGU, yalnız bu inceleme nedeniyle pompa eğrisi üretmiş, hidrolik hesap yapmış, performans ölçmüş veya projeyi yeniden onaylamış sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-surumune-iliskin-dikkat-noktasi",
+      "metin": "Mevzuat sürümüne ilişkin dikkat noktası"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki yönetmeliğin yangın pompası hükmünde, belirli şartlarda anma debisinin %130’una kadar sistem talebinin karşılanabilmesine ilişkin ifade bulunur. İncelenen yeni yönetmelik taslağında bu oran %150 olarak önerilmiştir. Taslak metin yürürlükteki kabul ölçütünün yerine geçmez. Ayrıca bu oranlar, tek başına bir servis formunu yeterli kılan veya ölçümsüz uygunluk kararı veren değerler değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-nasil-yazilir",
+      "metin": "Gerekçeli bulgu nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt: “Pompa grubuna ait servis formunda otomatik devreye girme kontrolü görülmüş, ancak onaylı projedeki tasarım debisi ve basıncıyla karşılaştırılabilecek ölçümlü performans test raporu sunulmamıştır. Bu nedenle pompanın hidrolik performansı mevcut belgeler üzerinden doğrulanamamıştır. İlgili test raporunun temin edilerek teknik değerlendirmeye alınması gerekir.” Bu ifade, kanıt eksikliğini gösterir; ölçülmemiş bir arızayı varmış gibi ilan etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın pompası test belgesinde ilk aranan şey “başarılı” ibaresi değil, izlenebilir ölçüm ve doğru referanstır. Pompa kimliği, proje görevi, test koşulları, debi ve basınç sonuçları birlikte okunursa işletmenin sunduğu kayıt gerçek bir teknik inceleme dayanağına dönüşür. Eksik ölçüm belgesi ise olumsuz performans hükmü değil, tamamlanması gereken doğrulama ihtiyacı olarak raporlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

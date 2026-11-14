@@ -1,0 +1,156 @@
+{
+  "kod": "YGR-K105",
+  "yol": "genel-yasaklar-ile-ozel-bina-hukumleri-cakisirsa-nasil-okunur",
+  "baslik": "Genel yasaklar ile özel bina hükümleri çakışırsa nasıl okunur?",
+  "ozet": "Bir depoda malzeme yerleşimini, bir otelde ortak alan kullanımını veya bir fabrikada itfaiye erişimini değerlendirirken aynı durum birden fazla yönetmelik hükmüyle ilişkili olabilir. Bu durum her zaman hukuki bir çelişki anlamına gelmez. Çoğu kez genel güvenlik yükümlülüğü ile kullanım türüne veya teknik sisteme özgü şartın birlikte yerine getirilmesi gerekir.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Asıl soru, “hangi madde diğerini geçersiz kılar?” değil; “hangi hüküm hangi davranışı, mahal veya sistemi düzenliyor ve bunlar birlikte uygulanabiliyor mu?” sorusudur. Yangın güvenliği incelemesinde doğru karar, bu ayrımı somut saha verisi ve ilgili belge üzerinden kurmakla başlar."
+    },
+    {
+      "tip": "h2",
+      "id": "genel-yasak-ile-ozel-teknik-sartin-islevi-farklidir",
+      "metin": "Genel yasak ile özel teknik şartın işlevi farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 7. maddesi, yangının bildirilmesi, itfaiye müdahalesinin engellenmemesi ve yangın söndürme tesisatının kullanılamaz hale getirilmemesi gibi genel sorumlulukları ve yasakları düzenler. Bu hükümler, tek bir bina kullanım sınıfıyla sınırlı değildir. Buna karşılık depolama, yüksek tehlikeli faaliyetler, karma kullanım, binaya ulaşım yolları ve yangın dolapları gibi başlıklardaki düzenlemeler ilgili mahal veya sistem için daha somut koşullar getirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin depolama amaçlı tesislerin sınıflandırılmasına ilişkin 16. madde, bir yerin depo niteliğini belirlemeye yardımcı olur. Ancak bir alanın “depo” olması, yangın dolabının önüne malzeme konulabileceği anlamına gelmez. Depolama faaliyetinin niteliği ile yangın söndürme ekipmanına erişim yasağı farklı konuları düzenler; bu nedenle birlikte değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "cakisma-gibi-gorunen-dort-saha-durumu",
+      "metin": "Çakışma gibi görünen dört saha durumu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Sahada görülen durum",
+        "Birlikte okunacak hükümler",
+        "Gerekçeli sonuç"
+      ],
+      "satirlar": [
+        [
+          "Depo rafı veya palet, yangın dolabının açılmasını engelliyor.",
+          "Genel ekipman erişimi yasağı (Madde 7) ve yangın dolabı düzenlemeleri (Madde 94).",
+          "Depolama düzeni, yangın dolabına erişimi engelleme yasağını ortadan kaldırmaz."
+        ],
+        [
+          "Yükleme aracı, itfaiyenin yapıya yanaşacağı alanı kapatıyor.",
+          "İtfaiye müdahalesini kolaylaştırma yükümlülüğü (Madde 7) ve binaya ulaşım yolları (Madde 22).",
+          "Araç ve yol koşulları birlikte incelenir; erişimi engelleyen fiili durum kayda alınır."
+        ],
+        [
+          "Bir mahal depo olarak kullanılıyor; fiilen parlayıcı madde tutuluyor.",
+          "Kullanım sınıfı (Madde 16), yüksek tehlikeli yerler (Madde 17) ve ilgili tehlikeli madde hükümleri.",
+          "Yalnız “depo” etiketi yeterli değildir; malzeme türü, miktarı ve faaliyet belgeleri ayrıca değerlendirilir."
+        ],
+        [
+          "Farklı faaliyetler aynı binada ve ortak dolaşım alanlarında yer alıyor.",
+          "Karışık kullanımın koşulları (Madde 18) ve ilgili genel güvenlik yükümlülükleri.",
+          "Özel kullanım sınıfı değerlendirmesi, ortak kaçış ve müdahale alanlarındaki genel yasakları kaldırmaz."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "hukumler-hangi-sirayla-okunmali",
+      "metin": "Hükümler hangi sırayla okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce fiili durum tanımlanır: Hangi bina, hangi mahal, hangi faaliyet, hangi malzeme ve hangi sistem söz konusudur? Ardından yapı ruhsatı, yapı kullanma izin belgesi, onaylı projeler ve varsa revizyonlar üzerinden hukuken ve teknik olarak hangi kullanımın esas alındığı belirlenir. Sonraki adım, yürürlükteki yönetmeliğin genel yasağını ve konuya özgü maddesini ayrı ayrı okumaktır."
+    },
+    {
+      "tip": "p",
+      "metin": "İki hüküm aynı anda uygulanabiliyorsa, birini diğerine tercih ederek devre dışı bırakmak doğru değildir. Özel düzenlemede açık bir istisna, farklı uygulama koşulu veya özel kapsam tanımı varsa bunun lafzı ve sınırı ayrıca incelenir. Gerçek bir norm çatışması olduğu düşünülüyorsa yalnız “özel hüküm önce gelir” ifadesiyle karar verilmez; yürürlük, kapsam, istisna ve yetkili idare görüşü birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu yöntem, teknik bir şartın genel yasağı kendiliğinden kaldırdığı varsayımını önler. Aynı zamanda, sırf genel bir yasak bulunduğu gerekçesiyle özel hükmün getirdiği ilave teknik şartın gözden kaçırılmasına da engel olur."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-metin-ile-yeni-taslak-ayni-sey-degildir",
+      "metin": "Yürürlükteki metin ile yeni taslak aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında 7. madde başlığı korunmakla birlikte bazı fıkraların kapsam ve ölçüt ifadeleri değişmektedir. Bu farklar, yürürlükteki hükme sessizce taşınamaz. Aşağıdaki karşılaştırma, konunun neden madde başlığına bakılarak çözülemeyeceğini gösterir:"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Konu",
+        "Yürürlükteki yönetmelik",
+        "Yeni BYKHY taslağı — henüz yürürlükte değil"
+      ],
+      "satirlar": [
+        [
+          "Tahliye projesinin erişilebilir tutulması (Madde 7/4)",
+          "Toplam kapalı kullanım alanı 10.000 m²’den büyük, maddede sayılan bina türleri için yangın tahliye projesi.",
+          "Yapı inşaat alanı 10.000 m²’den büyük imalathane, atölye, depo ve umumi binalar için yangın tahliye ve söndürme projeleri."
+        ],
+        [
+          "Orman alanı içi veya bitişiğindeki belirli endüstriyel tesisler (Madde 7/12)",
+          "İlgili fabrika benzeri tesislerde toplam kapalı kullanım alanı 2.000 m²’den büyük olma ifadesi.",
+          "İlgili fabrika benzeri tesislerde toplam yapı inşaat alanı 2.000 m²’den büyük olma ifadesi."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Burada alan terimleri birbirinin yerine kullanılamaz. Taslaktaki ölçütler yayımlanıp yürürlüğe girmedikçe mevcut bir bina hakkında taslak eşik üzerinden zorunluluk veya muafiyet kararı kurulmaz. Bakanlığın Kılavuzu da uygulamayı açıklayan yardımcı kaynaktır; yönetmelikle farklılık oluşursa yürürlükteki düzenleme esas alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), bu tür bir incelemede önce yapının onaylı mimari, tahliye ve yangın tesisatı projeleri ile ruhsat ve kullanım belgelerini karşılaştırır. Depo olarak tanımlanan mahalde gerçekte ne depolandığını, geçici stokların dolaşım ve müdahale alanlarına taşıp taşmadığını, yangın dolabı ve hidrantlara erişimin açık olup olmadığını gözlemler. İşletme sorumlusundan malzeme envanteri, varsa ilgili güvenlik bilgi formları, bakım ve periyodik muayene raporları ile tarihli proje değişikliklerini ister."
+    },
+    {
+      "tip": "p",
+      "metin": "Tespitini “depo mevzuata aykırı” gibi geniş bir ifadeyle bırakmaz. Hangi mahalde hangi engelin bulunduğunu, fotoğraf veya plan üzerinde yerini, uygulanabilir genel yasağı ve özel teknik koşulu ayrı ayrı belirtir. Örneğin “yangın dolabı kapağının açılmasını engelleyen palet istifi” gözlemsel bir bulgudur; buna ilişkin uygunluk değerlendirmesi gerekçesiyle raporlanır. Bulguyu giderecek tasarımın yapılması, tesisatın performans ölçümü veya projenin onaylanması ise ilgili yetkili meslek ve idarenin görev alanı içinde kalır."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevzuatın uygulanmasında kapsam veya teknik çözüm yönünden açıklığa kavuşturulamayan bir konu varsa belirsizlik raporda açıkça gösterilir; gerekli durumda yetkili idarenin yazılı değerlendirmesine başvurulur. YGU yönetmelik taslağındaki görev çerçevesi, tek başına bugün yürürlükte olmayan yeni bir onay veya ölçüm yetkisi doğurmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Genel yasaklar ile özel bina hükümleri çoğunlukla birbirinin alternatifi değildir. Doğru okuma, fiili kullanımın belirlenmesi, yürürlükteki genel ve özel hükümlerle eşleştirilmesi, varsa açık istisnanın doğrulanması ve sonucun proje–saha kanıtlarıyla gerekçelendirilmesidir. Bir teknik şartın sağlanması, başka bir açık güvenlik yasağının ihlalini kendiliğinden meşru hale getirmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

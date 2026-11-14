@@ -1,0 +1,138 @@
+{
+  "kod": "YGR-K125",
+  "yol": "malzeme-etiketindeki-sinif-hangi-kullanim-icin-gecerlidir",
+  "baslik": "Malzeme etiketindeki sınıf hangi kullanım için geçerlidir?",
+  "ozet": "Bir yapı malzemesinin etiketinde veya performans beyanında görülen yangına tepki sınıfı, ürünün her yerde ve her montaj biçiminde aynı sonucu vereceği anlamına gelmez. Sınıflandırma, ilgili deney ve değerlendirme kapsamındaki ürün özelliklerine, altlığa, sabitleme yöntemine, hava boşluğuna ve kimi zaman birleşim ayrıntılarına bağlı olabilir. Bu nedenle denetimde ilk soru “etikette hangi harf yazıyor?” değil, “bu sınıf hangi ürün ve uygulama koşulları için belgelenmiş?” olmalıdır.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "etiketteki-sinif-tek-basina-uygulamanin-sinifi-degildir",
+      "metin": "Etiketteki sınıf, tek başına uygulamanın sınıfı değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin belirli bir altlık üzerine yapıştırılarak sınıflandırılmış iç kaplama, sahada hava boşluklu bir karkas üzerine monte edilmişse, belge ile gerçek uygulama arasında teknik fark vardır. Bu fark otomatik olarak uygunsuzluk hükmü doğurmaz; fakat mevcut belgenin uygulamayı kapsayıp kapsamadığı açıklığa kavuşturulmadan olumlu karar verilmesini engeller."
+    },
+    {
+      "tip": "h2",
+      "id": "yangina-tepki-ile-yangina-dayanim-ayni-sey-degildir",
+      "metin": "Yangına tepki ile yangına dayanım aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangına tepki sınıfı, malzemenin yangının gelişimine katkısını tanımlar. Yangına dayanım ise bir yapı elemanının belirli koşullarda bütünlük, yalıtım veya taşıma gibi performanslarını ne kadar süre koruduğuna ilişkindir. Bir panelin yangına tepki sınıfı, panelden oluşturulan duvarın yangına dayanımını kendiliğinden kanıtlamaz. Benzer biçimde bir kaplama malzemesi için düzenlenen belge, kaplamanın monte edildiği bütün cephe sisteminin performans belgesi yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "belgede-hangi-kapsam-okunmalidir",
+      "metin": "Belgede hangi kapsam okunmalıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Ürünün ticari adı, üretici ve ürün tipi ile sahada kullanılan malzeme aynı olmalıdır. Belgenin sınıflandırdığı kalınlık, yoğunluk, yüzey kaplaması ve altlık türü; varsa montaj aralığı, yapıştırıcı, bağlantı elemanı ve boşluk koşulları karşılaştırılmalıdır. Belgenin hangi standarda ve hangi performans özelliğine ilişkin olduğu belirlenmeli; yangına tepki, dış yangına maruz kalan çatı kaplaması ve yangına dayanım sınıfları birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Beyan edilen sınıfın hangi kullanım alanında arandığı da ayrı sorudur. İç duvar kaplaması, döşeme kaplaması, çatı örtüsü ve tesisat bileşeni aynı sınıflandırma tablosuyla değerlendirilemez. Gereken performans, yapının kullanımına ve ilgili elemanın görevine göre seçilir; ürün belgesi ancak bu gereklilik belirlendikten sonra anlam kazanır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-belge-ve-saha-karsilastirmasi",
+      "metin": "Proje, belge ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Belgedeki bilgi",
+        "Sahada karşılaştırılacak durum"
+      ],
+      "satirlar": [
+        [
+          "Ürün kimliği",
+          "Üretici, ürün tipi, varyant",
+          "Uygulanan ürün ve etiket"
+        ],
+        [
+          "Sınıflandırma kapsamı",
+          "Yangına tepki / dayanım / çatı sınıfı",
+          "Elemanın gerçek görevi"
+        ],
+        [
+          "Altlık ve montaj",
+          "Altlık, yapıştırıcı, mekanik tespit",
+          "Gerçek sabitleme ve altlık"
+        ],
+        [
+          "Geometri",
+          "Kalınlık, boşluk ve katman dizilişi",
+          "Kesit, detay ve birleşimler"
+        ],
+        [
+          "Kullanım yeri",
+          "Belgede belirtilen kullanım koşulları",
+          "İç kaplama, cephe, döşeme veya çatı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-nasil-okunmasi-gerekir",
+      "metin": "Mevzuatın nasıl okunması gerekir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yapı malzemelerinin yangına tepki ve yapı elemanlarının yangına dayanım gereklerini ilgili kullanım ve sınıflandırma bağlamında ele alır. İncelemede uygulanabilir hüküm, binanın statüsü ve ilgili malzeme veya yapı elemanı birlikte belirlenmelidir. Bakanlık Kılavuzu teknik yorum için yardımcıdır; bağlayıcı hükmün yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağının yapı malzemelerine ilişkin 29. maddesi; iç kaplamalar, bazı tesisat boruları, yapı malzemelerinin yangına tepki sınıfları ve yapı elemanlarının dayanım sembolleri gibi konuları ayrı ayrı düzenlemeyi önermektedir. Bunlar taslak düzenlemelerdir; yayımlanmış ve yürürlüğe girmiş hükümler gibi uygulanamaz. Somut bir ürüne ilişkin sınıf veya eşik değerlendirmesinde yürürlükteki metin ve onaylı proje esas alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), inceleme kapsamındaki mahalin onaylı mimari ve yangın güvenliği projelerini, varsa tadilat ve yapı kullanma iznine esas belgelerini, ürünün sınıflandırma raporunu ve uygulama detayını birlikte inceler. Önce projenin hangi malzemeyi ve performansı öngördüğünü belirler. Sonra gerçek mahalin kullanımını, ürün etiketini, görülebilen katmanları, montaj biçimini ve sonradan yapılan değişiklikleri karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede doğrudan mineral altlığa uygulanan bir kaplama gösterilirken sahada boşluklu karkas kullanılmışsa, YGU bu farkı konumu ve kanıtıyla kaydeder; belgenin söz konusu uygulamayı kapsadığının yetkili teknik belgeyle gösterilmesini ister. Görülmeyen katmanlar hakkında varsayım kurmaz. Raporunda doğrulanan koşulları, belirsizlikleri ve gereken ek incelemeyi ayrı yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözleme dayanarak yeni bir yangına tepki sınıfı tayin etmez; laboratuvar deneyi, ürün sınıflandırması, mühendislik tasarımı veya resmi proje onayı yetkisini üstlenmez. Belgenin kapsamadığı montajın uygunluğu gerektiğinde yetkili tasarımcı, üretici veya ilgili değerlendirme kuruluşunun teknik açıklamasıyla ele alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğru kontrol, etiketteki sınıfı okumakla bitmez. Sınıflandırılan ürün, belgelenmiş montaj koşulu, yapıdaki kullanım yeri ve mevzuatın aradığı performans aynı değerlendirme zincirinde eşleştirilmelidir. Bu zincirdeki açıklanamayan fark, gerekçeli bir doğrulama ihtiyacı olarak raporlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

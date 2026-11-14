@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K090",
+  "yol": "mevcut-binalarda-kacis-uzakligi-nasil-farkli-degerlendirilebilir",
+  "baslik": "Mevcut binalarda kaçış uzaklığı nasıl farklı değerlendirilebilir?",
+  "ozet": "Mevcut bir binanın kaçış uzaklığı, yalnızca plan üzerinde çizilen en kısa çizgiye bakılarak değerlendirilemez. Önce yapının hangi mevzuat hükümlerine tabi olduğu, sonra kullanım sınıfı, gerçek dolaşım güzergahı ve çıkışların niteliği belirlenmelidir. Mevcut yapılar için tanınan özel hükümler, bütün binalara otomatik olarak daha uzun kaçış mesafesi tanındığı anlamına gelmez.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-mevcut-yapi-statusu-belirlenir",
+      "metin": "Önce mevcut yapı statüsü belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın eski olması tek başına mevcut yapılara özgü bütün kolaylıkların uygulanacağını göstermez. İlk yapı ruhsatı, onaylı proje ve proje revizyonları, yapı kullanma izin belgesi ile fiili kullanım birlikte incelenir. Özellikle kullanım amacı sonradan değişen sağlık, eğitim, konaklama, eğlence veya tehlikeli madde bulunan yerlerde uygulanacak hükümlerin farklılaşabileceği gözden kaçırılmamalıdır. Bu ayrım yapılmadan yeni binaların kaçış tablosunu ya da mevcut binaların özel tablosunu seçmek teknik bakımdan hatalı sonuç doğurabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin mevcut yapılara ilişkin hükümleri, kaçış uzaklığı için ayrıca bir değerlendirme düzeni kurar. Bu düzende kullanım sınıfına göre Ek-14 esas alınırken, yeni binaların genel kaçış uzaklığı değerlendirmesinde Ek-5/B kullanılır. Dolayısıyla iki tablo birbirinin yerine, yapı statüsü araştırılmadan kullanılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "kacis-uzakligi-nereden-baslar-nerede-biter",
+      "metin": "Kaçış uzaklığı nereden başlar, nerede biter?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut yapılara ilişkin özel düzenlemede, oda ve koridorlara ayrılmış büyük alanlı bir katta, odanın en uzak noktasından oda çıkış kapısına kadar olan uzaklığın 15 metreyi aşmaması koşuluyla kaçış uzaklığı oda kapısından itibaren kaçış merdivenine, kaçış geçidine veya dış açık alana açılan çıkış kapısına kadar ele alınabilir. Bu koşul sağlanmadan oda içindeki yolun hesaptan çıkarılması doğru değildir. Kaçışın tek yönlü veya iki yönlü olması da seçilecek sınırı ve güzergahı etkiler."
+    },
+    {
+      "tip": "p",
+      "metin": "Güzergah; sabit bölmeler, koridor dönüşleri, geçiş kapıları ve kullanılabilir çıkışlar üzerinden izlenir. Bir çıkışın planda bulunması, sahada kilitli, kapatılmış veya kullanılamaz durumdaysa o çıkışa güvenilebileceği anlamına gelmez. İki alternatif çıkışın gerçekten birbirinden bağımsız kullanılabilmesi, yalnızca iki kapının varlığıyla değil, bunlara ulaşan yolların düzeniyle değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-binalardaki-ozel-kosullar-neyi-degistirir",
+      "metin": "Mevcut binalardaki özel koşullar neyi değiştirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki özel hükümde, sirkülasyon merdivenlerinin korunumlu hale getirilmesi, şaftların yatayda korunması ve katlarda kolay alevlenici veya parlayıcı madde kullanılmaması ve bulundurulmaması koşulları birlikte sağlanıyorsa Ek-14 kaçış uzaklıklarının yarı oranında artırılarak uygulanabilmesi düzenlenmiştir. Bu bir genel tolerans değildir: korunumun gerçekten sağlandığı ve kullanım koşullarının uygun olduğu belgelenmeden yalnızca “bina eski” gerekçesiyle artırım yapılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bina yüksekliği 30,50 metreyi geçmeyen ve birbirine alternatif iki kaçış merdiveni bulunan mevcut yapılarda, bunlardan birinin korunumlu olması halinde iki yönlü kaçış mesafesine ilişkin özel hüküm de dikkate alınır. Zemin kattaki dükkan ve benzeri yerlerde ise kişi sayısı ve dışarıya doğrudan çıkış uzaklığına bağlanan ayrı bir tek çıkış düzenlemesi vardır. Bu istisnalar her kullanım sınıfına genişletilemez; uygulanacak hüküm, bina özelinde doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahayi-birlikte-okumak",
+      "metin": "Proje ile sahayı birlikte okumak"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin mevcut bir büro katında sonradan yapılan bölmeler, önceden açık olan dolaşım alanını uzun ve tek yönlü bir koridora dönüştürebilir. Onaylı planda iki yönde kaçış görünürken yeni yerleşimde alternatif yollardan biri kapanmış olabilir. Böyle bir durumda yalnız koridorun uzunluğu değil, odalardan çıkışa erişim, kullanıcı yükü, kapıların durumu ve korunumlu merdivene bağlantı birlikte incelenir. Bu anlatım varsayımsal bir değerlendirme örneğidir; gerçek bir olay veya denetim bulgusu değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Karşılaştırma için kısa inceleme matrisi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Temel kanıt",
+        "Karar sorusu"
+      ],
+      "satirlar": [
+        [
+          "Yapı statüsü",
+          "İlk ruhsat, onaylı revizyon, kullanım izni",
+          "Hangi dönem ve hangi mevcut yapı hükümleri uygulanabilir?"
+        ],
+        [
+          "Kaçış başlangıcı",
+          "Ölçülü kat planı, oda ve kapı yerleşimi",
+          "Oda içi 15 m koşulu ve gerçek erişim yolu sağlanıyor mu?"
+        ],
+        [
+          "Çıkış alternatifi",
+          "Tahliye projesi, kapı ve merdiven yerleşimi",
+          "Tek/iki yönlü kaçış sahada gerçekten var mı?"
+        ],
+        [
+          "Özel artırım koşulları",
+          "Korunum detayları, şaft ve kullanım kayıtları",
+          "Ek-14 için artırım koşullarının tamamı belgelenmiş mi?"
+        ],
+        [
+          "Fiili kullanım",
+          "Mahallerin kullanımı, kişi sayısı, saha gözlemi",
+          "Yeni bölmeler veya faaliyet değişikliği kaçış düzenini etkiliyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo bir ölçüm veya tasarım formu değil, belge ve saha gözleminin aynı sorular etrafında değerlendirilmesine yardımcı olan bir inceleme aracıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce onaylı mimari ve tahliye projelerini, ruhsat ve yapı kullanma izin belgelerini, varsa tadilat onaylarını ve binanın fiili faaliyetini karşılaştırır. Katın kullanım sınıfı, kişi yoğunluğu, kapıların işlevi, bölme duvarları, koridorun sürekliliği ve kaçış merdivenine bağlantı gibi unsurları gözlemsel olarak değerlendirir. Plan ile sahada farklılık varsa, farklılığın hangi kaçış güzergahını etkilediğini somut olarak tarif eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış uzaklığının sayısal olarak doğrulanması gerektiğinde onaylı ölçülü proje, yetkili tasarımcının hesapları ve ilgili teknik belgeler esas alınır. Taslakta tarif edilen periyodik kontrol yaklaşımı, uzman incelemesini ölçüm yapılmaksızın gözlemsel kontrol ve mevcut muayene kayıtlarının değerlendirilmesi üzerine kurar. Bu nedenle YGU, yetkili mimar veya mühendisin yerine geçerek yeni kaçış projesi çizmez, hesap onaylamaz, resmi ruhsat ya da uygunluk onayı vermez. Belge eksikse veya saha değişikliği hesap gerektiriyorsa bunu gerekçesiyle raporlar ve yetkili proje müellifinin veya ilgili idarenin değerlendirmesini ister."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporun güçlü olması için “kaçış uzaklığı uygun değil” gibi dayanağı belirsiz bir ifade yerine, hangi mahalde hangi proje-saha farklılığının görüldüğü, hangi belgenin bulunamadığı, hangi hükmün değerlendirmeyi etkilediği ve neden ilave teknik inceleme gerektiği yazılmalıdır. Böylece gözlemsel bulgu ile mühendislik hesabı ve idari karar birbirine karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukumler-ve-yururluk-ayrimi",
+      "metin": "Taslak hükümler ve yürürlük ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik taslağında mevcut yapılara ilişkin düzenleme başlığı bulunması, taslak metindeki önerilerin bugün yürürlükte olduğu anlamına gelmez. Taslakta önerilen bir eşik veya yöntem, resmen yayımlanıp yürürlüğe girmedikçe mevcut yönetmelikteki kaçış uzaklığı sınırının yerine kullanılamaz. Bu makaledeki sayısal koşullar yürürlükteki mevcut yapı hükümlerine dayanır; taslağa ait doğrulanmamış sayısal değer aktarılmamıştır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalarda kaçış uzaklığını farklı kılan şey, rastgele bir mesafe esnekliği değil, yapının hukuki statüsü ve özel hükümlerin uygulanma koşullarıdır. Doğru sıra; yapının statüsünü belirlemek, geçerli tabloyu seçmek, kaçış yolunu proje ve gerçek kullanım üzerinden okumak, istisnaların bütün şartlarını sınamak ve bulguyu yetki sınırlarını koruyarak raporlamaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

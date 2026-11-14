@@ -1,0 +1,200 @@
+{
+  "kod": "YGR-K098",
+  "yol": "kacis-uzakligi-icin-ek-5-b-nasil-okunur",
+  "baslik": "Kaçış uzaklığı için Ek-5/B nasıl okunur?",
+  "ozet": "Temel cevap  Ek-5/B, yalnızca bir kaçış mesafesi tablosu değildir. Aynı tabloda kullanım sınıfına, kaçış yönüne ve yağmurlama sisteminin durumuna göre en uzun kaçış uzaklıkları; çıkmaz koridor sınırları ve farklı kaçış elemanlarının birim genişlik kapasiteleri yer alır. Doğru sonuca ulaşmak için önce yapıya uygulanacak mevzuat, sonra tablo satırı ve sütunu, en sonunda da gerçek yürüyüş güzergahı doğrulanmalıdır.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-tabloyu-okumadan-once-hangi-bilgi-kesinlesir",
+      "metin": "1. Tabloyu okumadan önce hangi bilgi kesinleşir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru, yapının veya incelenen bölümün hangi kullanım sınıfında olduğudur. Büro, ticaret, eğitim, konaklama, endüstri ve yüksek tehlikeli yerler için aynı sınır kullanılmaz. Karışık kullanımlı yapılarda, yalnız binanın ticari adına bakılarak bütün mahallere tek satır uygulanması da doğru değildir. Onaylı kullanım, gerçek faaliyet ve ortak kaçış yollarına etkiler birlikte ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci soru, incelenen bölümün yeni veya mevcut yapı hükümlerinden hangisine tabi olduğudur. Yapı ruhsatı, yapı kullanma izni, kullanım değişikliği ve esaslı tadilat kayıtları görülmeden sadece Ek-5/B satırına bakılarak nihai uygunluk kararı kurulmaz. Mevcut yapılara ilişkin özel hükümler ve bunların kapsamı ayrıca incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "2-ek-5-b-satir-ve-sutunlari-nasil-secilir",
+      "metin": "2. Ek-5/B satır ve sütunları nasıl seçilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Tablonun solundaki kullanım sınıfı satırı seçildikten sonra kaçışın tek yönlü mü, iki yönlü mü olduğu belirlenir. Ardından ilgili bölüm için yağmurlama sisteminin bulunup bulunmadığı doğrulanır. Aynı satırın diğer sütunları ise çıkış kapısı, kaçış merdiveni, rampa ve koridorların birim genişlik kapasiteleri ile çıkmaz koridor sınırını verir. Bir sütundaki sayı, diğer sütunun yerine kullanılamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Okuma adımı",
+        "Sorulacak teknik soru",
+        "Gerekli kanıt"
+      ],
+      "satirlar": [
+        [
+          "Kullanım satırı",
+          "Mahalin onaylı ve fiili kullanım sınıfı nedir?",
+          "Ruhsat, onaylı plan, faaliyet ve mahal listesi"
+        ],
+        [
+          "Kaçış yönü",
+          "En uzak noktadan gerçekten alternatif iki çıkışa erişim var mı?",
+          "Ölçülü kat planı ve sahadaki geçişler"
+        ],
+        [
+          "Yağmurlama",
+          "Sistem bu mahali koruyor ve işletme koşulları doğrulanabiliyor mu?",
+          "Onaylı tesisat projesi, kabul ve bakım kayıtları"
+        ],
+        [
+          "Uzaklık",
+          "Gerçek yürüme güzergahı hangi sınırla karşılaştırılıyor?",
+          "İşaretlenmiş güzergah ve ölçüm kaydı"
+        ],
+        [
+          "Çıkmaz koridor",
+          "Çıkmaz kol için ayrı sınır aşılmış mı?",
+          "Koridor planı ve yerinde kontrol"
+        ],
+        [
+          "Kapasite",
+          "Kapı, merdiven ve koridor için doğru birim genişlik sütunu seçilmiş mi?",
+          "Kullanıcı yükü hesabı ve temiz genişlik verisi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "3-tek-yonlu-ve-iki-yonlu-kacis-ayni-sey-degildir",
+      "metin": "3. Tek yönlü ve iki yönlü kaçış aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Tek yönlü kaçışta kullanıcı, bir çıkışa veya gerçek anlamda iki yönlü kaçış imkanının başladığı noktaya kadar tek güzergahı izler. İki yönlü kaçış için planda iki kapı sembolü bulunması yeterli değildir; en uzak noktadan birbirinden farklı çıkışlara erişilebilmesi gerekir. Kapalı tutulan bir geçiş, sonradan eklenen bölme veya yalnız bir koridora açılan iki kapı, projede varsayılan alternatifi ortadan kaldırabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın Mayıs 2026 güncellemeli Kılavuzunda, iki farklı çıkışa erişim gerçekten sağlanıyorsa en yakın çıkışa olan kaçış mesafesinin ilgili sınırı sağlaması gerektiği açıklanır. Diğer çıkışa olan uzaklığın aynı üst sınırı sağlaması ayrıca aranmaz. Ancak bu açıklama, ikinci çıkışın fiilen kullanılabilir olması ve çıkış sayısı ile kapasite hükümlerinin sağlanması gereğini kaldırmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Ölçüm, mimari plandaki kuş uçuşu çizgi ile otomatik olarak eşitlenmez. Yürürlükteki düzenlemede ölçülecek en uzak noktanın mahal duvarından 40 cm önde alınması öngörülür. Yürünebilir güzergah, gerçek kapı konumları ve dolaşımı değiştiren bölmeler işaretlenmelidir. Doğrudan uzaklıkla ilgili özel bir hesap kabulü uygulanacaksa, bunun hangi hükme ve hangi plan koşuluna dayandığı ayrıca gösterilir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-buro-ornegi-15-metre-ile-45-metre-neden-karistirilir",
+      "metin": "4. Büro örneği: 15 metre ile 45 metre neden karıştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Ek-5/B tablosunda büro binaları için yağmurlama sistemi bulunmayan durumda tek yönlü en uzun kaçış uzaklığı 15 m, iki yönlü en uzun kaçış uzaklığı 45 m olarak yer alır. Yağmurlama sistemli durumda aynı satırın uzaklık değerleri sırasıyla 30 m ve 75 m olur. Bu dört değer, birbirinin alternatifi olan serbest seçimler değildir; her biri ayrı koşula bağlıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Tamamen varsayımsal bir büro katında, en uzak çalışma noktasından en yakın çıkışa gerçek yürüyüş yolu 28 m olsun. Projede iki alternatif çıkış gösterilmiş olsa da sonradan yapılan bölme nedeniyle bu noktadan yalnız tek yönde ilerlenebiliyorsa 45 m sütunu doğrudan kullanılamaz. Yağmurlama sistemi de yoksa, 28 m değerinin tek yönlü 15 m sınırıyla karşılaştırılması gerekir. İki bağımsız çıkışa gerçekten erişilebildiği kanıtlanırsa, 28 m en yakın çıkış uzaklığı bakımından 45 m sınırının altında kalır; buna rağmen çıkış sayısı, genişlik ve çıkmaz koridor koşulları ayrıca değerlendirilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Varsayımsal büro koşulu",
+        "Seçilen sütun",
+        "Uzaklık açısından ilk sonuç"
+      ],
+      "satirlar": [
+        [
+          "Yağmurlama yok; tek yönlü 28 m",
+          "Tek yön: 15 m",
+          "28 m > 15 m; uzaklık koşulu sağlanmıyor."
+        ],
+        [
+          "Yağmurlama yok; iki bağımsız çıkışa erişim var; en yakın çıkış 28 m",
+          "İki yön: 45 m",
+          "28 m ≤ 45 m; yalnız uzaklık ölçütü açısından sınır içinde."
+        ],
+        [
+          "Sistemin projede çizili olması, ancak koruma kapsamının doğrulanamaması",
+          "Yağmurlama sütunu otomatik seçilmez",
+          "Kabul ve işletme kanıtları olmadan daha uzun sınır esas alınmaz."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "5-kacis-uzakligi-ile-cikis-kapasitesi-neden-ayri-incelenir",
+      "metin": "5. Kaçış uzaklığı ile çıkış kapasitesi neden ayrı incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Ek-5/B, uzaklıkla birlikte 50 cm birim genişlik başına kişi sayısını da gösterir. Aynı büro satırında dışarı çıkış kapısı, diğer kapılar, kaçış merdiveni ve koridor için farklı kişi sayıları bulunduğundan, yalnız “45 m sınırı sağlandı” denilmesi kaçış düzeninin tamamının uygun olduğu anlamına gelmez. Kullanıcı yükü için ilgili alanların Ek-5/A ile değerlendirilmesi, ardından her kaçış elemanının temiz genişliğinin ve kapasitesinin ayrı incelenmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Çıkmaz koridor sınırı da bağımsız bir kontrol konusudur. İki yönlü kaçış uzaklığının uygun olması, bir çıkmaz koridorun kendisine ait sınırı aşmasına izin vermez. Tablodaki dipnotlar, özel kullanım ve istisna hükümleri okunmadan yalnız sayısal hücreyle karar verilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yururlukteki-hukum-ve-yeni-taslak-arasindaki-fark",
+      "metin": "6. Yürürlükteki hüküm ve yeni taslak arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY ve son değişiklikleri hukuki değerlendirmede esas alınır. Bakanlık Kılavuzu ölçüm yöntemini ve örnekleri açıklayan yardımcı kaynaktır; yönetmeliğin yerine geçmez. Kullanıcının gönderdiği yeni BYKHY taslağında da Madde 32 ve Ek-5/B üzerinden kaçış uzaklığı ile kapasite düzenlenmektedir. Ancak taslak, yayımlanıp yürürlüğe girmedikçe bugün için bağlayıcı hüküm olarak uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Önemli bir metin farkı vardır: Yürürlükteki Madde 32 kapsamındaki 2/3 oranına ilişkin özel kabul, odalara ve koridorlara ayrılmış büyük alanlı katlarda doğrudan uzaklık bağlamında düzenlenmiştir. Yeni taslağın Madde 32 metninde ise 2/3 ifadesi, duvar veya bölmelerle ayrılmamış açık planlı kat için yazılmıştır. Bu iki ifade aynı koşulmuş gibi birleştirilmemelidir. Bir başka dikkat noktası, yürürlükteki mevcut yapılara ilişkin kaçış uzaklığı hükümlerinin kendi özel düzenleme ve tablo atıflarıyla değerlendirilmesidir; yeni taslaktaki tabloyu mevcut yapı dosyasına doğrudan taşımak doğru olmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "7-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "7. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının ruhsat ve yapı kullanma izni bilgilerini, onaylı mimari projeyi, yangın güvenliği projesini ve varsa revizyonları bir araya getirir. Katın veya mahallin projedeki kullanım sınıfını, fiili işlevini, kullanıcı yükü varsayımını ve projede esas alınan Ek-5/B satırını karşılaştırır. Projede yağmurlama sistemine göre daha uzun kaçış uzaklığı seçilmişse, ilgili tesisat projesi ile kabul, test ve bakım kayıtlarını inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada en uzak noktaları, kapıların ve koridorların mevcut yerlerini, bölme ve mobilya kaynaklı güzergah değişikliklerini, kapanmış veya erişilemeyen çıkışları gözlemsel olarak tespit eder. Yetkili teknik kişinin hazırladığı ölçülü plan ve mesafe hesabını yerinde görülen düzenle karşılaştırır; gerekiyorsa ölçüm veya yeniden hesap için ilgili yetkili disipline başvurulmasını ister. İnceleme sonucunda “uygun/uygun değil” şeklinde gerekçesiz bir sonuç yerine; mahal, plan revizyonu, seçilen tablo satırı ve sütunu, gözlenen değişiklik, eksik kanıt ve gerekli teknik işlem ayrı ayrı kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU tarafından yapılan belge ve saha karşılaştırması, mimari kaçış projesinin yeniden tasarlanması veya onaylanması, yangın tesisatı performans ölçümü ya da yetkili idarenin kabul işlemi yerine geçmez. İlgili mimar, mühendis, yetkili muayene kuruluşu ve idare tarafından yapılması gereken hesap, ölçüm, test veya onay işlemleri açıkça ayrılır. Mesleki uygulama taslağındaki kontrol yaklaşımı da bu belge–saha–gerekçe zinciri içinde değerlendirilir; taslak, yürürlükte olmayan bir yetkiyi kendiliğinden doğurmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ek-5/B doğru okunacaksa önce doğru yapı ve mahal sınıfı, ardından gerçek tek veya iki yönlü kaçış, yağmurlama koşulu ve ilgili uzaklık sütunu seçilmelidir. Sonrasında ölçülü güzergah, çıkmaz koridor ve kaçış elemanlarının kapasitesi birbirinden bağımsız fakat birlikte ele alınır. Doğru hücreyi bulmak incelemenin başlangıcıdır; savunulabilir yangın güvenliği kararı ise o hücrenin neden seçildiğini proje ve saha kanıtlarıyla göstermektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

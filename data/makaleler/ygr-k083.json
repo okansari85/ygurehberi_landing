@@ -1,0 +1,152 @@
+{
+  "kod": "YGR-K083",
+  "yol": "yangin-egitimi-yalniz-katilim-imzasi-ile-kanitlanir-mi",
+  "baslik": "Yangın eğitimi yalnız katılım imzası ile kanıtlanır mı?",
+  "ozet": "Eğitim katılım çizelgesinde bir çalışanın imzasının bulunması, o kişinin belirtilen tarihte eğitime katıldığını gösteren önemli bir kayıttır. Ancak tek başına eğitimin hangi tehlikelere odaklandığını, uygulamanın yapılıp yapılmadığını ve görevli personelin yangın anında ne yapacağını bildiğini ortaya koymaz. Yangın güvenliği incelemesinde asıl soru, imzanın bulunup bulunmadığı kadar, eğitimin işyerinin gerçek koşullarına karşılık gelip gelmediğidir.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "imza-listesi-neyi-kanitlar-neyi-kanitlamaz",
+      "metin": "İmza listesi neyi kanıtlar, neyi kanıtlamaz?"
+    },
+    {
+      "tip": "p",
+      "metin": "Tarih, yer, eğitici ve katılımcı bilgileriyle ilişkilendirilmiş imza listesi katılımın izlenmesine yardımcı olur. Buna karşılık boş bir konu başlığı altında toplanmış imzalar, eğitim içeriğini ve uygulamalı yeterliliği açıklamaz. Eğitim sunumu, programı veya kullanılan materyal de tek başına eğitimin bütün personele ulaştığını göstermez. Belgeler birlikte okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle söndürme, kurtarma ve koruma ekiplerinde görevli çalışanlar ile binadaki diğer görevlilerin eğitim ihtiyaçları aynı değildir. Genel farkındalık eğitimi; yangını fark etme, alarm verme, güvenli tahliye ve toplanma düzenini anlamaya odaklanırken görevli ekipler kendi sorumluluklarına uygun özel eğitim alır. İlk yardım görevi için ayrıca ilgili mevzuattaki eğitim ve yetkinlik koşulları dikkate alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-mevzuatin-egitimden-bekledigi",
+      "metin": "Yürürlükteki mevzuatın eğitimden beklediği"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 129. maddesi, acil durum ekiplerinin yangından korunma, söndürme, can ve mal kurtarma, ilk yardım, itfaiye ile işbirliği ve organizasyon konularında eğitilmesini öngörür. Ekip personeli ve binadaki diğer görevliler için söndürme araçlarının kullanımı ile itfaiyeye ulaşma konularında uygulamalı eğitim düzenlenmesi gerekir. Aynı maddede binada yılda en az bir kez söndürme ve tahliye tatbikatı yapılması düzenlenmiştir. Tatbikat kaydı, eğitim kaydının yerine geçmez; iki kayıt birbirini tamamlar."
+    },
+    {
+      "tip": "p",
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin 15. maddesi ise çalışanların acil durum planı ve görevlendirilmiş destek elemanları hakkında bilgilendirilmesini, özel görevlilerin faaliyetlerine uygun eğitim almasını düzenler. Söndürme, kurtarma ve koruma ekiplerine bu kapsamda verilen özel eğitimlerin işveren ile eğitim veren tarafından imzalanarak belgelendirilmesi öngörülür. Dolayısıyla mevzuatın aradığı imza, yalnız katılımcı listesindeki imzadan ibaret değildir; ilgili eğitim belgesinin kim tarafından düzenlendiği ve imzalandığı da önem taşır."
+    },
+    {
+      "tip": "p",
+      "metin": "Çalışanların genel iş sağlığı ve güvenliği eğitimlerine ilişkin kayıtlar ayrı bir yükümlülük alanıdır. Bu eğitimlerin belgelendirilmesi, yangına özgü ekip eğitiminin veya sahadaki uygulamanın kendiliğinden tamamlandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "egitim-dosyasindaki-kanitlar-nasil-birlikte-okunur",
+      "metin": "Eğitim dosyasındaki kanıtlar nasıl birlikte okunur?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen kayıt",
+        "Yanıtladığı temel soru",
+        "Sınırlılığı"
+      ],
+      "satirlar": [
+        [
+          "Program ve konu içeriği",
+          "Hangi yangın senaryoları, ekip görevleri ve tahliye konuları işlendi?",
+          "Programın bulunması, eğitimin fiilen verildiğini tek başına kanıtlamaz."
+        ],
+        [
+          "Katılımcı ve görev listesi",
+          "Kimler katıldı; görevli ekipler ve vardiyalar kapsandı mı?",
+          "İmza, beceri ve uygulama sonucunu tek başına göstermez."
+        ],
+        [
+          "Eğitici ve eğitim belgesi",
+          "Eğitimi kim verdi; ilgili belge usulüne uygun düzenlendi mi?",
+          "Unvan veya sertifika kaydı tek başına saha uygulamasını açıklamaz."
+        ],
+        [
+          "Uygulama ve tatbikat kaydı",
+          "Söndürme aracı tanıtımı, alarm, tahliye ve ekip koordinasyonu nasıl çalışıldı?",
+          "Tatbikat raporu, bütün eğitim başlıklarının işlendiğini göstermez."
+        ],
+        [
+          "Eksiklik ve düzeltme kaydı",
+          "Öğrenme veya uygulama eksikliği görülmüşse ne yapıldı?",
+          "Kapanış kanıtı olmadan yalnız aksiyon yazılması yeterli değildir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-saha-arasinda-kopukluk-nasil-anlasilir",
+      "metin": "Belge ile saha arasında kopukluk nasıl anlaşılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin üç vardiyalı bir üretim tesisinde eğitim dosyasında yalnız gündüz vardiyasına ait imzalar bulunabilir. Bu durumda gece vardiyasının hiç eğitim almadığı hemen ilan edilmez; başka tarihli eğitim kayıtları, vardiya çizelgeleri ve görevlendirmeler istenir. Kayıtlar bulunamazsa doğru tespit, ilgili personelin eğitiminin mevcut belgelerle doğrulanamadığıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Benzer şekilde depolama alanı sonradan genişlemiş, yeni yanıcı malzemeler kullanıma girmiş veya kaçış düzeni değişmişse önceki eğitim içeriğinin yeni faaliyetleri kapsayıp kapsamadığı araştırılır. Eski eğitim kaydı otomatik olarak geçersiz sayılmaz; değişiklikten etkilenen konuların yeniden bilgilendirme veya eğitim gerektirip gerektirmediği işletmenin güncel riskleri üzerinden değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), eğitimin değerlendirilmesine başlamadan önce yapının onaylı projesini, ruhsat ve yapı kullanma izni kayıtlarını, fiili kullanımını ve varsa kullanım değişikliklerini inceler. Acil durum planı, yangın güvenliği organizasyonu, ekip görevlendirmeleri, vardiya çizelgeleri, eğitim programları, katılım ve eğitici kayıtları ile tatbikat raporlarını bir arada değerlendirir. Projede veya işletme belgelerinde öngörülen mahal ve faaliyetler ile sahadaki gerçek kullanım arasında fark varsa bunun eğitim içeriğine etkisini belirler."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha turunda çalışanlara alarmın nasıl bildirildiğini, kaçış yönünün nereden izlendiğini, toplanma yerini ve görevli ekiplerle iletişim yolunu sorabilir; söndürme araçlarının erişilebilirliğini ve eğitimde anlatılan yerleşimle sahadaki düzenin uyumunu gözlemsel olarak karşılaştırabilir. Bu inceleme, çalışanlara habersiz tehlikeli müdahale yaptırmak veya yetkisiz bir beceri sınavı düzenlemek anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporunda hangi eğitim grubunun ve vardiyanın belgelendiğini, hangi kaydın eksik kaldığını, hangi saha gözleminin hangi belgeyle çeliştiğini açıklar. Eğitim verilmesi, eğiticinin mevzuata göre yetkilendirilmesi, ilk yardımcı belgelendirmesi veya teknik sistemlerin test ve ölçümleri ilgili yetkili kişi ve kuruluşların sorumluluğundadır. YGU belge ve saha uyumunu inceleyip gerekçeli bulgu oluşturur; bu inceleme diğer mesleklerin tasarım, ölçüm, onay ve belgelendirme yetkilerini devralmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrilmasi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağının genel eğitim maddesi, eğitimde yararlanılabilecek kurumlara ilişkin anlatımı güncellemektedir. Bu metin henüz yürürlükteki yönetmeliğin yerine geçmez. Özellikle mevcut yönetmelikte açıkça yer alan yıllık söndürme ve tahliye tatbikatı yükümlülüğü, taslak metindeki farklı ifade düzenine bakılarak kaldırılmış gibi yorumlanmamalıdır. Mesleki uygulamaya ilişkin ayrı taslak da tek başına yeni bir yasal onay veya eğitim verme yetkisi oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın eğitiminin izlenebilirliği, bir imza çizelgesinden daha geniş bir kanıt bütünüdür. Katılım, konu içeriği, görevli personelin özel eğitimi, uygun belgelendirme, uygulama ve tatbikat sonuçları birlikte değerlendirildiğinde işletmenin gerçek hazırlık düzeyi daha doğru anlaşılır. Eksik kanıt ile kanıtlanmış eğitim eksikliği birbirinden ayrılmalı; sonuç her zaman incelenen belgeye ve somut saha gözlemine bağlanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,146 @@
+{
+  "kod": "YGR-K190",
+  "yol": "mevcut-bina-dosyasinda-ruhsat-yoksa-uygulama-tarihi-nasil-arastirilir",
+  "baslik": "Mevcut bina dosyasında ruhsat yoksa uygulama tarihi nasıl araştırılır?",
+  "ozet": "Bir binanın dosyasında yapı ruhsatının bulunmaması, binanın ruhsatsız yapıldığını veya doğrudan yeni bina hükümlerine tabi olduğunu göstermez. Belge belediye arşivinde kalmış, eski kayıt başka bir dosyaya taşınmış ya da yapı farklı tarihlerde ilave ve tadilat görmüş olabilir. Yangın güvenlik uzmanının (YGU) görevi bir tarih tahmin etmek değil; hangi tarihin hangi belgeden okunduğunu, hangi kullanımın o tarihte onaylandığını ve hala hangi soruların açık olduğunu gösteren izlenebilir bir kayıt hazırlamaktır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "aranan-tarih-yalniz-binanin-yapildigi-yil-degildir",
+      "metin": "Aranan tarih yalnız binanın yapıldığı yıl değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 4’te mevcut yapı tanımı, Yönetmeliğin yürürlüğe girmesinden önce yapı ruhsatı alınıp yapımı devam eden veya tamamlanan yapılara dayanır. Madde 138/4, 19 Aralık 2007 öncesinde yapı ruhsatı başvuru dilekçesi eki projeleri ilgili idarece onaylanan yapıları da mevcut yapı kabul eder. Bu nedenle yalnız dış görünüş, tapudaki edinim tarihi veya binanın yaklaşık yaşı, uygulanacak rejimi belirlemeye yetmez. Ruhsatın düzenlendiği tarih ile onaylı projenin tarihi aynı olabileceği gibi farklı da olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Daha sonra ek kat, bağımsız bölüm, depo, otopark, konaklama faaliyeti veya başka kullanım değişikliği yapılıp yapılmadığı da araştırılır. Bir yapının eski olması, sonraki değişikliğin kendi onay ve yangın tedbiri değerlendirmesini gereksiz kılmaz. YGU tarihleri “ilk inşa”, “ruhsat ve proje onayı”, “yapı kullanma”, “tadilat” ve “fiili kullanım değişimi” olarak ayrı tutar."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-arama-sirasi-nasil-kurulmali",
+      "metin": "Belge arama sırası nasıl kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce malik veya yöneticide bulunan ruhsat, yapı kullanma izin belgesi, mimari ve tesisat projeleri, tadilat ruhsatları, yangın raporları ve eski teknik dosyalar istenir. Ardından yapı ruhsatı düzenlemeye yetkili idarenin arşivinde ada/parsel, adres değişikliği, eski bina adı ve dosya numarası üzerinden araştırma yapılması talep edilir. Yapının bulunduğu yerde arşiv devri, belediye sınırı veya numarataj değişmişse bunlar yazışmaya eklenir. Arşivde belge bulunamadığı bilgisi de mümkünse yazılı alınır; sözlü “kayıt yok” yanıtı kesin tarihlendirme olarak kullanılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Eski elektrik ve mekanik tesisat projeleri, yapı kullanım izinleri, tadilat paftaları, fenni mesuliyet kayıtları ve ilgili idarenin önceki yazışmaları çapraz kontrol için yardımcıdır. Tapu, kadastro ve numarataj belgeleri yapının veya parselin geçmişini aydınlatabilir; ancak yangın mevzuatı açısından bir ruhsat veya onaylı projenin yerine kendiliğinden geçmez. Her belgenin tarihi kadar düzenleyen makamı, onay bilgisi, hangi yapı veya bölüme ait olduğu da kayda girer."
+    },
+    {
+      "tip": "h2",
+      "id": "tarihler-celisiyorsa-belgeyi-degil-iliskiyi-arastirin",
+      "metin": "Tarihler çelişiyorsa belgeyi değil ilişkiyi araştırın"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin yapı kullanma izin belgesi 1999 tarihliyken sunulan mekanik proje 2018 revizyonu taşıyabilir. Buradan binanın 2018’de yapıldığı sonucu çıkarılamaz; hangi sistemin yenilendiği, revizyonun kapsamı ve onaylı olup olmadığı araştırılır. Benzer şekilde arşivdeki 2005 tarihli mimari pafta bir ilk proje, 2012 tarihli pafta ise bir kat ilavesi olabilir. İki belgeyi aynı dönemin kanıtı gibi kullanmak, yanlış hüküm seçimine yol açar."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanım sınıfı da tarihle beraber izlenmelidir. Eski dosyada büro görünen ve bugün konaklama amacıyla kullanılan bir yapı için yalnız yapım yılını belirlemek yeterli değildir. BYKHY’nin mevcut yapılar ve kullanım amacı değiştirilen yapılar hakkındaki hükümleri, somut onay zinciriyle birlikte incelenir. İdari uygunluk konusunda nihai görüşü YGU kendi başına vermiş gibi raporlamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge veya kayıt",
+        "Aranacak esas bilgi",
+        "Yorum sınırı"
+      ],
+      "satirlar": [
+        [
+          "Ruhsat / proje arşivi",
+          "İlk ruhsat, onay tarihleri, ada–parsel",
+          "İlk mevzuat dönemini belirlemede temel iz"
+        ],
+        [
+          "Yapı kullanma izni",
+          "İzin tarihi ve kapsadığı yapı/bölüm",
+          "Tek başına bütün tadilatların tarihi değildir"
+        ],
+        [
+          "Tadilat ve işyeri dosyası",
+          "Kullanım, kapasite ve proje revizyonu",
+          "Önceki bina statüsünü otomatik silmez"
+        ],
+        [
+          "Yapı kayıt belgesi",
+          "Belge tarihi ve kapsamı",
+          "Ruhsat, proje ve yangın uygunluğu yerine geçmez"
+        ],
+        [
+          "Saha ve kurum yazışması",
+          "Fiili kullanım; arşiv cevabı; eksik kayıt",
+          "Belirsizlik yazıyla kapatılana dek açık tutulur"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yapi-kayit-belgesi-varsa-hangi-ayrim-yapilir",
+      "metin": "Yapı kayıt belgesi varsa hangi ayrım yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapı kayıt belgesi, başlığı ve tarihi nedeniyle ilk ruhsat veya yangın güvenliği onayı gibi sunulmamalıdır. Yayımlanmamış EK-6/A Periyodik Kontrol Formu’nun genel bilgiler bölümünde; ruhsat ve yapı kullanma izni olmayan, yapı kayıt belgeli yapılarda ilgili alanların boş bırakılabilmesine ve ruhsat yoksa yapı kayıt belgesi tarihine göre tabi olunan mevzuatın belirlenmesine yönelik açıklamalar bulunur (TASLAK). Bu, çalışma kapsamındaki formun kendi kuralıdır; yürürlükteki BYKHY’de ruhsat bulunamayan her bina için doğrudan uygulanacak kesin bir tarihlendirme kuralı olarak aktarılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak formun getirdiği yaklaşım, idari dosyada araştırılması gereken kayıtları göstermek bakımından önemlidir. Bununla birlikte belgenin hukuki etkisi, yapının fiili kullanımı, varsa önceki ruhsat ve onaylar ile ilgili idarenin değerlendirmesi ayrı ele alınır. “Ruhsat yok, yapı kayıt belgesinin tarihi uygulama tarihi oldu” cümlesi taslak yürürlüğe girmiş gibi kurulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-karsilastirmasinda-taslak-ayri-tutulur",
+      "metin": "Mevzuat karşılaştırmasında taslak ayrı tutulur"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 138, mevcut yapı uygulamasının dayanağıdır. Taslak Madde 139, mevcut binalarda kullanım amacı değişikliği, esaslı tadilat, önceki yangın tedbirlerinin durumu ve belirli ilave tedbirler bakımından yeni bir çerçeve öngörür (TASLAK). Taslak metinde eski ve yeni yönetmelik dönemlerine gönderme yapan hükümler, o tarihlerde fiilen yürürlüğe girmiş hükümlerle karıştırılmamalıdır. YGU dosyasında iki ayrı sütun bulunması yararlıdır: bugün uygulanacak dayanak ve taslak yayımlanırsa yeniden incelenecek konu."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce binanın mevcut kullanımını ve kat düzenini tutanağa geçirir. Ardından yöneticiye belge eksik listesini verir, ilgili idareye yapılacak arşiv başvurusunda eski ve yeni parsel bilgilerini eşleştirir; belgelerin hangi kısmı doğruladığını gösteren kısa bir tarih çizelgesi oluşturur. Dosyada tarihlerin karşısına “resmi onay”, “ikincil belge”, “saha beyanı” veya “teyit bekliyor” gibi kanıt niteliği yazılır. Birbirini tutmayan kayıtlar ortadan kaldırılmaz; açıklama ve belge talebiyle açık bırakılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek olarak 1990’larda yapıldığı söylenen bir depoda ruhsat bulunmuyor, ancak 2006 onaylı bir mimari pafta ve 2022 tarihli depo bölmesi tadilatı varsa, ilk paftanın hangi başvuruya ait olduğu idareden teyit edilir. Tadilatın fiili kullanımı değiştirip değiştirmediği ayrıca belirlenir. YGU, bu aşamada “2006 kesin uygulama tarihidir” veya “bütün yapıya 2022 hükümleri uygulanır” şeklinde erken bir sonuç üretmez. Eksik arşiv ve idari görüş, teknik tespit ve muayene bulgularından ayrı bir takip kalemi olur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ruhsatı bulunamayan mevcut binada uygulama tarihi, tek bir belge veya yaklaşık yapım yılı seçilerek değil; onaylı proje, arşiv, kullanım izni, tadilat geçmişi, yapı kayıt durumu ve fiili kullanımın birlikte incelenmesiyle araştırılır. YGU, doğrulanamayan tarihi açık belirsizlik olarak kaydeder ve uygulanacak hükmün seçimini yetkili idarenin belgeli değerlendirmesiyle destekler. Taslak formdaki tarihlendirme açıklaması ise yalnız (TASLAK) niteliği korunarak gösterilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 4, 138 ve 144."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik değişiklik taslağı, Madde 139 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Periyodik Kontrol Formu, EK-6/A, Genel Bilgiler ve açıklama notları (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 190. makale konu eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

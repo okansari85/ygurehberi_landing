@@ -1,0 +1,127 @@
+{
+  "kod": "YGR-K199",
+  "yol": "ygu-mevcut-binada-yangin-guvenligi-uygunsuzluklarinin-kapanisini-nasil-izler",
+  "baslik": "YGU mevcut binada yangın güvenliği uygunsuzluklarının kapanışını nasıl izler?",
+  "ozet": "Yangın güvenlik uzmanı (YGU) için uygunsuzluk kapanışı, bir bulgunun listeden kaldırılması değil, gerekli düzeltmenin yapıldığının ve sonuçta aranan uygunluğun ilgili yöntemle doğrulandığının izlenmesidir. Bakım fişi, fatura veya yüklenici beyanı yapılan işi gösterebilir; tek başına sistemin çalıştığını kanıtlamaz. Bu makale, proje–saha farkının nasıl tespit edildiğinden çok, tespit edilen sorunun hangi kanıtla kapatılacağını ele alır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "uygunsuzlugu-kapatmak-ne-anlama-gelir",
+      "metin": "Uygunsuzluğu kapatmak ne anlama gelir?"
+    },
+    {
+      "tip": "h2",
+      "id": "ilk-kayit-yeterince-acik-olmalidir",
+      "metin": "İlk kayıt yeterince açık olmalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "İşlem başlatılmadan önce bulguya benzersiz bir kayıt numarası verilir. Mahalin adı, katı, gözlenen durum, varsa onaylı proje veya ilgili raporla farkı ve bu farkın neden önemli olduğu yazılır. “Yangın kapısı uygunsuz” gibi genel bir ifade, hangi kanadın, hangi donanımın veya hangi kullanım alışkanlığının düzeltilmesi gerektiğini göstermez. “İkinci kat koridorundaki kapı kendiliğinden kapanmıyor” biçimindeki gözlem ise somut takip yapılmasına imkan verir. Bunun bir örnek kayıt cümlesi olduğu, gerçek bir olay anlatmadığı açıktır."
+    },
+    {
+      "tip": "h2",
+      "id": "duzeltme-turunu-dogru-secmek",
+      "metin": "Düzeltme türünü doğru seçmek"
+    },
+    {
+      "tip": "p",
+      "metin": "Her bulgu için aynı çözüm uygulanmaz. İşletme düzeninden kaynaklanan sorunlarda kullanımın değiştirilmesi ve sürekliliğinin izlenmesi yeterli olabilir. Hasarlı donanımda bakım veya parça değişimi gerekebilir. Onaylı projeyle uyumsuz bir imalat varsa yetkili teknik kişilerin proje, hesap ve uygulama yönünden değerlendirmesi istenir. Belgenin bulunmaması ise fiziksel uygunsuzluğun kesin kanıtı değildir; önce belge temini ve mevcut durumun tespiti gerekir. Bu ayrım yapılmadan verilen “tamamlandı” kararı yanıltıcı olur."
+    },
+    {
+      "tip": "h2",
+      "id": "kapatma-icin-gerekli-kayitlar",
+      "metin": "Kapatma için gerekli kayıtlar"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapatma dosyası, ilk bulgu kaydını, işin sorumlusunu, yapılan işlemin açıklamasını, tarihini ve uygun kanıtını birbirine bağlamalıdır. Kanıtın türü soruna göre değişir: bakım-servis raporu, yetkili kişinin test ve ölçüm tutanağı, güncel proje veya revizyon, uygulama teslim belgesi ve yerinde gözlem kaydı bunlar arasındadır. Fotoğraf tek başına cihazın çalıştığını ya da sistemin tasarım koşullarını karşıladığını göstermez. Aynı şekilde bir test raporu da kaçış yolunun günlük kullanımda sürekli açık tutulduğunu kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "tekrar-kontrolun-kapsami",
+      "metin": "Tekrar kontrolün kapsamı"
+    },
+    {
+      "tip": "p",
+      "metin": "Düzeltme sonrası kontrol, ilk bulgunun özüne dönmelidir. Kapı onarıldıysa kapanma ve kullanım koşulu; algılama elemanı değiştirildiyse ilgili sistemin yetkili kişilerce test edildiğini gösteren kayıt; tesisat değiştirildiyse uygun proje ve teknik kabul belgeleri incelenir. Bir bulgu giderilirken komşu mahalde yeni bir risk doğup doğmadığı da gözlenir. Teknik ölçüm veya fonksiyon testi gerekiyorsa bunları yetkili ve ehil kişiler yapar; yalnız gözlemsel kontrol bu işlemlerin yerine geçirilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "uc-farkli-sonuc-acik-islem-tamamlandi-dogrulandi",
+      "metin": "Üç farklı sonuç: açık, işlem tamamlandı, doğrulandı"
+    },
+    {
+      "tip": "p",
+      "metin": "Üç durum açıkça ayrılır: (1) “Açık — düzeltici işlem gerekli”; (2) “İşlem tamamlandı — teknik doğrulama/tekrar kontrol bekliyor”; (3) “Doğrulandı — bulgu kapatıldı”. İkinci durum uygunluk anlamına gelmez. Periyodik kontrol raporunda “uygunsuz/kullanılamaz” yazılan ekipmanda onarımın yapılması, uygun periyodik kontrol raporu yerine geçmez. Aksiyon sorumlusu ve termin değişiklikleri tarihçeyle izlenir; raporun olumsuz sonucu sessizce silinmez."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-ve-mevcut-bina-ayrimi",
+      "metin": "Mevzuat ve mevcut bina ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Hangi zorunluluğun ihlal edildiği, binanın statüsü ve kullanım değişikliği incelenerek belirlenir. BYKHY Madde 138 ve 139, mevcut yapılar ve kullanım amacı değişiklikleri için belirleyici çerçevedir; özel teknik şartlar için Onuncu Kısmın ilgili maddelerine gidilir. Eski bina niteliği, sahadaki can güvenliği riskini göz ardı etme gerekçesi değildir. Buna karşılık yeni binaya özgü her şartın mevcut yapıya otomatik uygulanması da uygun değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukumler-nasil-ele-alinir",
+      "metin": "Taslak hükümler nasıl ele alınır?"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY değişiklik taslağındaki öneriler yürürlükteki düzenleme değildir. İşletmeye gelecekteki olası uyum ihtiyacını göstermek amacıyla ayrı bir değerlendirme yapılabilir; bu not açıkça “TASLAK” olarak işaretlenir. Yürürlükteki hükme göre kapatılmış bir bulgu, henüz kabul edilmemiş taslak düzenlemeye dayanılarak kendiliğinden yeniden uygunsuz sayılamaz. Taslak karşılaştırması, yürürlükteki yükümlülük kaydıyla aynı sütunda tutulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, ilk bulgu numarasına bağlı olarak düzeltici işlem kaydını, son durum fotoğrafını ve gerekiyorsa yetkili test veya tekrar periyodik kontrol raporunu bir arada inceler. Örneğin yangın kapısı önündeki istifin kaldırıldığını görürse erişilebilirliği ve tekrar istifi önleyen işletme düzenini takip eder. Söndürme tesisatına müdahale edilmişse servis formuna bakar, ayrıca gerekli performans testi ve kabul raporunun yetkili kişilerce düzenlenip düzenlenmediğini kontrol eder. Kendi gözlemi mühendislik tasarımı, ölçüm veya idari onay yerine geçmez; kanıt eksikse kapanış kararı vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "kapanis-kaydinda-bulunmasi-gerekenler",
+      "metin": "Kapanış kaydında bulunması gerekenler"
+    },
+    {
+      "tip": "p",
+      "metin": "İyi bir kapanış kaydı en azından ilk bulgu numarasına, düzeltici işlemin tarifine, uygulama ve kontrol tarihlerine, belge referanslarına, sahadaki son gözleme ve sonuç kararına yer verir. Kararın kim tarafından ve hangi kapsamda verildiği anlaşılmalıdır. Sonuç “doğrulama bekleniyor” ise eksik test veya belgenin ne olduğu yazılır. Bu yaklaşım, sonraki denetimde aynı konunun sıfırdan araştırılmasını önler."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kapanış izi [UY-199-01] — İlk tespit: koridor yangın kapısı kendiliğinden kapanmıyor. İşlem: kapı kapatıcısı değiştirildi, servis formu eklendi. Takip durumu: “İşlem tamamlandı — yerinde işlev doğrulaması bekleniyor”. Sorumlu kişi, termin, kontrol tarihi ve kontrol eden taraf kaydedilmeden “doğrulanarak kapatıldı” yazılmaz. Bu örnek, teknik test veya resmî kabul gerektiren durumlarda onların yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenliği uygunsuzluğunun kapatılması, işi yaptırmış olmanın değil, sorunun uygun yöntemle giderildiğini ortaya koymanın sonucudur. Özellikle mevcut binalarda belge geçmişi, fiili kullanım ve teknik doğrulama birlikte değerlendirilmelidir. Böylece kapatma kaydı hem işletmenin takip aracı hem de sonraki incelemeler için güvenilir bir teknik iz haline gelir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik — Madde 138, 139, 144; Onuncu Kısmın ilgili teknik hükümleri (yürürlükte)."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu — Mevcut binalar ve sistemlerin teknik değerlendirilmesi."
+    },
+    {
+      "metin": "BYKHY Değişiklik Taslağı — ilgili mevcut bina hükümleri (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Yönetmelik Taslağı ve EK-6 formları (TASLAK)."
+    }
+  ],
+  "sonNotlar": []
+}

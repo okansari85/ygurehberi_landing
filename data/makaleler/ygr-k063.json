@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K063",
+  "yol": "yangin-dolabinin-hortumu-uygun-ama-erisimi-engelliyse-ne-olur",
+  "baslik": "Yangın dolabının hortumu uygun ama erişimi engelliyse ne olur?",
+  "ozet": "Yangın dolabının hortumu, lansı ve bakım kaydı uygun görünebilir. Ancak dolaba ulaşmak, kapağı açmak veya hortumu çıkarmak mümkün değilse ekipmanın yangın anında kullanılabilirliği zedelenir. Bu nedenle yangın dolabı incelemesi yalnız donanımın varlığına değil, bulunduğu mahaldeki gerçek erişim koşullarına da dayanmalıdır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ekipmanin-uygunlugu-ile-erisilebilirligi-ayri-konulardir",
+      "metin": "Ekipmanın uygunluğu ile erişilebilirliği ayrı konulardır"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 94 üncü maddesi, yangın dolaplarının bina içindeki küçük yangınlara ilk müdahale amacıyla tesis edildiğini belirtir. Dolapların kolay görülebilecek konumlarda düzenlenmesi, kabinin hortum ve cihazların kullanılmasını zorlaştırmaması ve sistemin periyodik bakımının yaptırılması bu düzenlemenin farklı yönleridir. Dolap bakımı yapılmış olsa bile önündeki engel ortadan kalkmış sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu da dolapların dekoratif elemanlarla gizlenmemesini ve kapak açılımının ekipmana erişimi engellememesini açıklar. Kılavuzun uygulama açıklaması, yönetmelikteki bağlayıcı hükmün yerine geçmez; saha incelemesinde hükmün amacını anlamaya yardımcı olur."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-durum-sevkiyat-sirasinda-kapanan-dolap-onu",
+      "metin": "Örnek durum: sevkiyat sırasında kapanan dolap önü"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili bir depo düzeninde, yangın dolabının yanında sevkiyat için geçici palet bekletildiğini düşünelim. Palet bulunmadığında kapak açılabilirken yükleme saatinde dolaba yaklaşma yolu kapanabilir. Bu örnek gerçek bir olay kaydı değil; erişim koşulunun işletme faaliyetlerine göre değişebileceğini gösteren bir inceleme senaryosudur."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 63. Yangın dolabı önündeki paletin kapak açılımını engellemesi (özgün temsili çizim).",
+      "src": "/img/makale/ygr-k063-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "ilk-tespit-ile-tamamlayici-kanit",
+      "metin": "İlk tespit ile tamamlayıcı kanıt"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi",
+        "Karar için eksik kanıt"
+      ],
+      "satirlar": [
+        [
+          "Dolap içeriği",
+          "Donanım mevcut; ancak palet istifi kapak açılımını kesiyor.",
+          "Dolaba yaklaşma, kapak açma ve hortum çıkarma koşullarının yerinde gözlemi."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Erişimi engelleyen paletin kaldırılması, o andaki engeli giderir; aynı yerin yeniden istif alanı olarak kullanılmasını önlemez. Bu nedenle tespitte engelin yeri, hangi faaliyette oluştuğu ve tekrarını önleyecek işletme düzeni birlikte kaydedilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle onaylı yangın tesisatı ve mimari projelerde dolabın yerini, hizmet verdiği mahali ve erişim güzergahını belirler. Yapı kullanma izni, sonradan yapılan yerleşim değişiklikleri, mevcut depo faaliyeti ve işletmenin istif talimatlarıyla bu bilgileri karşılaştırır. Dolap kimliği, bakım raporu ve varsa yetkili kişilerce düzenlenmiş işlev kontrol kayıtları da incelemenin belge tarafını oluşturur."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada dolabın görünürlüğünü, önündeki geçişi, kapak açılımını ve hortumun çıkarılabileceği alanı gözlemler. Engel yalnız sevkiyat veya vardiya değişiminde ortaya çıkıyorsa, işletme sorumlusundan bu zamanlardaki yerleşim kayıtlarını ister ve uygun koşullarda yeniden gözlem planlar. Yapılan değerlendirme, sadece fotoğraf çekildiği andaki boş alanı değil, dolaba erişimin işletme boyunca korunup korunmadığını açıklamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözlediği engeli yer ve tarih bilgisiyle raporlar; proje–saha farkını, muhtemel kullanım etkisini ve düzeltici faaliyetin doğrulanması için gerekli kanıtı belirtir. Saha gözlemi, hidrolik performans ölçümü veya sistem kabul testi yerine geçmez. Basınç, debi, tesisat tasarımı, proje değişikliği ve yetkili idare onayı ilgili yetkili kişi ve kuruluşların sorumluluğunda kalır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-ve-isletme-kayitlari-birlikte-okunmali",
+      "metin": "Proje, saha ve işletme kayıtları birlikte okunmalı"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Özellikle aranacak bilgi",
+        "Neden gerekli?"
+      ],
+      "satirlar": [
+        [
+          "Onaylı yerleşim / tesisat planı",
+          "Yangın dolabının yeri ve erişim güzergahı",
+          "Projede öngörülen konum ile sahayı eşleştirmek"
+        ],
+        [
+          "Saha gözlemi",
+          "Yaklaşma, kapak açılması ve hortum çıkarılması",
+          "Gerçek erişim koşulunu belirlemek"
+        ],
+        [
+          "İşletme / istif talimatı",
+          "Palet park alanları ve geçici yükleme düzeni",
+          "Engelin tekrarını önlemek"
+        ],
+        [
+          "Bakım ve kontrol kayıtları",
+          "Dolap kimliği, bakım tarihi ve bulgu takibi",
+          "Donanım bakımı ile erişim bulgusunu ayrı izlemek"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "duzeltici-faaliyet-nasil-dogrulanir",
+      "metin": "Düzeltici faaliyet nasıl doğrulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletme sorumlusu dolap önündeki engeli kaldırmalı; palet park yerlerini ve yükleme akışını erişimi kesmeyecek şekilde düzenlemelidir. Gerekiyorsa yerleşim planı ve çalışan talimatları güncellenir. Yeniden kontrolde dolabın sadece boşaltılmış olması değil, erişimi koruyan düzenin uygulanması ve benzer istifin tekrarlanmaması değerlendirilir. Zemin işaretlemesi veya uyarı levhası, tek başına fiziksel erişimin sağlandığını kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın dolabının teknik donanımı uygun olsa da erişim engeli, yangın anında kullanımını aksatabilecek ayrı bir uygunsuzluktur. Sağlıklı değerlendirme; onaylı proje, bakım belgesi, fiili yerleşim ve işletme uygulamasının birlikte okunmasına, tespitin gerekçeli kaydına ve düzeltmenin yeniden gözlenmesine dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

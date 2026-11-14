@@ -1,0 +1,159 @@
+{
+  "kod": "YGR-K071",
+  "yol": "lpg-tupleri-isyerinde-nerede-depolanabilir",
+  "baslik": "LPG tüpleri işyerinde nerede depolanabilir?",
+  "ozet": "Bir işyerinde LPG tüplerinin güvenli yerini belirlemek, yalnız kaç tüp bulunduğunu saymaktan ibaret değildir. Tüplerin kullanımda mı, yedek stokta mı olduğu; mahallin projedeki işlevi, havalandırması, yangın ayrımı ve çevresindeki faaliyetler birlikte incelenir. Depolama alanı olarak tasarlanmamış bir odaya tüp konulması, o alanı kendiliğinden uygun depo yapmaz.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kullanimdaki-tup-ile-depolanan-tup-neden-ayrilir",
+      "metin": "Kullanımdaki tüp ile depolanan tüp neden ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir restoran mutfağında cihaza bağlı olarak kullanılan tüpün bağlantı, konum ve gaz kaçağına karşı tedbirleri ile mutfak için bekletilen yedek tüplerin depolama koşulları farklı değerlendirme başlıklarıdır. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, LPG tüplerinin kullanılması ve depolanmasını ayrı hükümlerle düzenler. Bu nedenle aktif tüp, dolu yedek tüp ve boş olarak kaydedilen tüp, envanterde ayrı gösterilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Boş tüplerin depo hesabı dışında bırakılması da doğru değildir: bina içinde depolanacak boş tüpler, ilgili depolama miktarı hesabında dolu tüp gibi ele alınır. Sayımın yanında tüp kapasitesi, stokun değişim sıklığı, tüplerin taşınma güzergahi ve sorumlu personel kayıt altına alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "depo-yerinde-hangi-fiziksel-kosullar-aranir",
+      "metin": "Depo yerinde hangi fiziksel koşullar aranır?"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG depolamaya ayrılmış özel binalar için yönetmelik; tek katlı ve müstakil yapı, yapı elemanlarının yangın dayanımı, hafif çatı, basınç tahliyesine yönelik açıklık ve dayanımlı depo kapısı gibi koşullar öngörür. Örneğin bu kapsamdaki depo binalarında döşeme, tavan ve duvarlar için en az 120 dakika, depo kapısı için en az 90 dakika yangın dayanımı aranır. Bu sayılar her mutfak dolabına veya kullanım tüpüne doğrudan uygulanacak genel bir reçete değildir; önce mahallin hukuki ve teknik niteliği belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Tüplerin dik konumda tutulması, devrilme ve çarpma etkilerinden korunması, ısı ve ateş kaynaklarından uzaklığı, çıkışları ve kaçış yollarını engellememesi temel saha kontrolüdür. LPG buharı havadan ağır olduğundan, zemin seviyesindeki birikme ihtimali havalandırma yerleşiminde önem taşır. Menfezlerin varlığı kadar gerçekten açık olması ve dış ortamla uygun bağlantısı da incelenmelidir. Mekanik havalandırma ve elektrik donanımının teknik yeterliliği ise yetkili uzmanların proje ve test belgeleriyle doğrulanır."
+    },
+    {
+      "tip": "h2",
+      "id": "restoranin-yedek-tupleri-temizlik-odasinda-tutuluyorsa",
+      "metin": "Restoranın yedek tüpleri temizlik odasında tutuluyorsa"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili durumda yedek LPG tüpleri, mimari projede temizlik deposu olarak görünen kapalı bir mahalde bekletilmektedir. Yakında bir cihaz şarj noktası vardır. Bu gözlem, tek başına uygunluk veya uygunsuzluk kararı üretmez; tüplerin miktarı, mahallin gerçek kullanımı, elektrikli cihazlarla ilişkisi, havalandırma ve yangın ayrımı araştırılır. Tüpler servis koridoruna taşınmışsa kaçış ve erişim üzerindeki etkileri ayrıca değerlendirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 71. Temizlik deposu ve yakındaki şarj alanının incelenmesine ilişkin özgün temsili çizim. Ölçekli proje veya uygunluk kararı değildir.",
+      "src": "/img/makale/ygr-k071-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme başlığı",
+        "Sahada / belgede aranacak kanıt",
+        "Karar açısından anlamı"
+      ],
+      "satirlar": [
+        [
+          "Tüp envanteri",
+          "Aktif, yedek ve boş tüpler; adet, kapasite ve konum",
+          "Depolama miktarı ve kullanım ayrımı"
+        ],
+        [
+          "Mahallin işlevi",
+          "Onaylı mimari plan, izin ve fiili kullanım",
+          "Temizlik odasının depoya dönüşüp dönüşmediği"
+        ],
+        [
+          "Fiziksel koşullar",
+          "Havalandırma, zemin kotu, kapı, kaçış yolu, ısı kaynakları",
+          "Yer seçimi ve erişim riskleri"
+        ],
+        [
+          "Teknik belgeler",
+          "Tesisat projesi, elektrik/havalandırma raporu, işletme talimatı",
+          "Uzmanlık gerektiren yeterliliklerin kanıtı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ruhsat ve yapı kullanma izin bilgileriyle başlar; onaylı mimari planlarda tüplerin bulunduğu mahalli, varsa gaz tesisatı ve depolama düzenine ilişkin proje paftalarını belirler. İşletmenin faaliyetini, mutfak kapasitesini ve fiili tüp envanterini sorumlu personelle karşılaştırır. Mahaldeki tüplerin konumunu, havalandırma açıklıklarını, çıkışlara uzaklığını ve komşu kullanım alanlarını gözlemsel olarak kaydeder. Uygulanabilir yönetmelik koşullarını, işletmenin mevcut durumunu ve belgelerdeki eksikleri ayrı başlıklarla raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, görülebilen eksiklikleri fotoğraf ve konum bilgisiyle somutlaştırabilir; ancak patlayıcı ortam sınıflandırmasını, elektrik tesisatı uygunluk ölçümünü, havalandırma debisi testini, gaz tesisatı tasarımını veya resmi proje onayını kendi incelemesiyle ikame edemez. Bu işlemler için yetkili kişi ve kuruluşların raporlarını ister; belge yoksa uygunluk varsayımı yapmaz. Acil tehlike işaretleri gözlenirse işletmenin sorumlu kişilerine gecikmeden bildirim yapılması ve yetkili teknik müdahalenin sağlanması gerekir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Tespit",
+        "İstenen doğrulama",
+        "Rapora yazılacak sonuç biçimi"
+      ],
+      "satirlar": [
+        [
+          "Projede temizlik deposu, sahada yedek tüp stoku",
+          "Onaylı proje, envanter ve mahal kullanım kaydı",
+          "Proje–saha farkı; uygunluk kararı için eksik veriler"
+        ],
+        [
+          "Menfez kapalı veya önü kapatılmış",
+          "Havalandırma projesi ve yetkili teknik değerlendirme",
+          "Gözlenen engel ve giderme/doğrulama ihtiyacı"
+        ],
+        [
+          "Elektrikli şarj faaliyeti aynı hacme taşınmış",
+          "Elektrik ve patlayıcı ortam yönünden yetkili inceleme",
+          "Yeni faaliyet nedeniyle değerlendirme gereksinimi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ile-taslak-metnin-ayrilmasi",
+      "metin": "Yürürlükteki düzenleme ile taslak metnin ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki yönetmelikte LPG tüplerinin depolanmasına ilişkin esaslar 106. maddede düzenlenir; kullanıcı tarafından iletilen yeni BYKHY taslağında aynı konu 108. maddede yer alır. Taslaktaki ifade ve numaralandırma yürürlükteki hükmün yerine geçmez. Bu makaledeki saha yaklaşımı, ilgili kontrol taslağındaki başlıklarla da karşılaştırılmıştır; taslak, bağımsız bir ölçüm veya onay yetkisi doğurmaz. Açık alanda özel tüp depolaması söz konusuysa, yürürlükteki düzenlemenin ilgili mesafe ekindeki koşullar ayrıca uygulanabilirlik yönünden incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG tüpünün güvenli yeri, işletmenin kapalı bir boş alan bulmasıyla değil; kullanım ve depolama ayrımının yapılması, miktarın doğru belirlenmesi, uygun mahallin belgelerle gösterilmesi ve saha koşullarının doğrulanmasıyla saptanır. Envanter ve proje eksikse kesin uygunluk kararı yerine eksik kanıt ve gerekli teknik inceleme açıkça raporlanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "EK-6 Periyodik Kontrol Formu"
+    }
+  ],
+  "sonNotlar": []
+}

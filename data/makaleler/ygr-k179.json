@@ -1,0 +1,160 @@
+{
+  "kod": "YGR-K179",
+  "yol": "tasinabilir-yakit-tanki-cevresindeki-koruma-bolgesi-nasil-belirlenir",
+  "baslik": "Taşınabilir Yakıt Tankı Çevresindeki Koruma Bölgesi Nasıl Belirlenir?",
+  "ozet": "Bir şantiyeye veya üretim sahasına geçici ihtiyaç için taşınabilir yakıt tankı getirildiğinde en sık yapılan hata, tankın konulduğu boş alanı yeterli saymaktır. Oysa tankın yeri kadar çevresinde kalan yollar, geçici işler, elektrikli ekipmanlar, malzeme istifleri ve yangına müdahale erişimi de önem taşır. Yangın güvenlik uzmanı (YGU), koruma bölgesini göz kararı çizmek yerine tank türünü, depolanan sıvının özelliklerini ve onaylı saha yerleşimini birlikte değerlendirmelidir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-depolama-ekipmaninin-ne-oldugu-belirlenir",
+      "metin": "Önce depolama ekipmanının ne olduğu belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "“Taşınabilir tank” ifadesi tek başına yeterli bir teknik tanım değildir. İşletmedeki ekipmanın taşınabilir bir kap topluluğu mu, sahaya taşınmış fakat sabit bağlantılarla çalışan bir yerüstü tankı mı olduğu; teknik etiketi, kapasitesi, imalat bilgisi, kullanım biçimi ve tesisat bağlantıları üzerinden açıklığa kavuşturulur. Bağlı pompa, dolum hortumu, geçici elektrik beslemesi veya araçla ikmal işlemi, gerçek kullanımın parçalarıdır. Mevzuatın kap topluluğu için öngördüğü uzaklık hesabı, sabit tank için kullanılan ölçüm başlangıcıyla karıştırılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yakıtın adı da tek başına sınıflandırma yerine geçmez. Güvenlik bilgi formu (GBF/SDS), depolama sıcaklığı, parlayıcılık özellikleri, kapların tek tek ve toplam hacmi ile aynı bölgede bulunan diğer sıvılar kayıt altına alınır. Bir işletmede motorin bulunan alana sonradan başka bir yanıcı veya parlayıcı sıvı gelmişse önceki yerleşim kararının geçerliliği yeniden incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "koruma-uzakliginin-olcum-noktasi-nasil-secilir",
+      "metin": "Koruma uzaklığının ölçüm noktası nasıl seçilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 119/3, açıkta yerüstü depolamada koruma bölgesini düzenler. Sabit yerüstü tankları için uzaklıklar Ek-12/C’ye, taşınabilir kaplarla yapılan depolama için Ek-12/D’ye göre belirlenir. Taşınabilir kaplarda uzaklık, tek bir kabın ağzından değil, depolanan kap topluluğunun dış sınırından itibaren ölçülür. Bu nedenle sonradan eklenen her kap, istifin dış sınırını ve kontrol edilecek çevre alanını değiştirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı hükümde yer alan tank cidarından ölçüm, koruma bölgesinin havuzlama alanı dışındaki payı ve koruyucu duvarla ilgili düzenlemeler, ilgili depolama türü için kendi koşullarıyla yorumlanmalıdır. Bir duvarın mevcut olması, itfaiye görüşü veya gerekli teknik dayanak bulunmadan koruma uzaklığını kendiliğinden küçültmez. Bu değerlendirme, uygunluk hesabını yapan yetkili tasarım veya inceleme sorumlusuyla birlikte netleştirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "koruma-bolgesi-havuzlama-ve-tehlike-bolgesi-ayni-sey-degildir",
+      "metin": "Koruma bölgesi, havuzlama ve tehlike bölgesi aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Koruma bölgesi, depolama ile çevredeki kullanımlar arasında bırakılması gereken koruyucu uzaklığın konusudur. Havuzlama ise olası sıvı sızıntısının sahada yayılmasını sınırlamaya yönelik ayrı bir tertibattır. BYKHY Madde 119/2-b, taşınabilir tankların havuzlama hacmine ilişkin hesabı ayrıca verir. Uygun havuzlama bulunması, çevredeki koruma uzaklığının sağlandığını tek başına göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Patlayıcı ortam tehlike bölgesi ise olası buhar-hava karışımının oluşma koşullarına bağlı başka bir değerlendirmedir. Tehlike bölgesi krokisindeki elektrikli ekipman şartları ile koruyucu uzaklık çizimi aynı amaçla hazırlanmamıştır. Alan planında her üç sınır ve bunlara dayanak olan veriler ayrı katmanlar veya açıklamalarla gösterilmelidir. Geçici yakıt tankını yalnız bir bariyerle çevirmek, bu incelemelerin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasi-icin-kayit-tablosu",
+      "metin": "Proje ve saha karşılaştırması için kayıt tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol alanı",
+        "Gerekli dayanak",
+        "Sahadaki karşılık"
+      ],
+      "satirlar": [
+        [
+          "Kap / tank kimliği",
+          "Tip, teknik etiket, kapasite, kullanım amacı",
+          "Taşınabilir kap topluluğu veya sabit tank ayrımı"
+        ],
+        [
+          "Madde özellikleri",
+          "GBF/SDS, sıvı sınıfı, stok ve sıcaklık",
+          "Gerçekte kullanılan yakıt ve toplam miktar"
+        ],
+        [
+          "Koruma sınırı",
+          "Ek-12/C veya Ek-12/D esaslı hesap / vaziyet planı",
+          "Ölçüm başlangıcı, kapların dış sınırı, yeni engeller"
+        ],
+        [
+          "Havuzlama",
+          "Onaylı hacim ve sızdırmazlık detayı",
+          "Set, drenaj, sızıntı izleri ve içerideki ekipman"
+        ],
+        [
+          "Yakın çevre",
+          "Güzergah, ikmal düzeni ve faaliyet krokisi",
+          "Araç parkı, sıcak iş, enerji kaynakları, geçişler"
+        ],
+        [
+          "İşletme değişikliği",
+          "Yer değişikliği kaydı, revizyon ve yetkili onayı",
+          "Yeni kap, taşınan tank, değişen trafik veya istif"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce mevcut tank veya kap grubunu vaziyet planında konumlandırır; kapların dış sınırını ve en yakın bina, parsel sınırı, yol, komşu faaliyet ve ikmal noktalarını ölçülebilir şekilde kaydeder. Ardından depolama sınıfını ve hacmi, teknik dosyayı ve uygulanacak ek çizelgesini karşılaştırır. Bir mesafe belirsizse “uygun” veya “uygun değil” şeklinde varsayıma dayalı sonuç verilmez; gerekli proje hesabı ve ölçüm yetkin kişilerden istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada sıcak çalışma alanı, forklift yolu, park edilen araç, geçici elektrik panosu, dolum pompası, hortum güzergahı ve drenaj noktaları ayrıca incelenir. Tank ya da kap grubu daha önce onaylanan yerden taşınmışsa mevcut krokiyle eski kroki eşleştirilir. Değişiklik, sorumlu kişi, tarih, fotoğraf, koordinat veya ölçü ve düzeltme ihtiyacıyla kayıt altına alınır. Yangınla mücadele ekiplerinin yaklaşımını kesen yeni bir engel de aynı kayıtta belirtilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU bu gözlemsel karşılaştırmayı bir tankın mekanik uygunluğu, patlayıcı ortam sınıflandırması veya mühendislik mesafe hesabının yerine koymaz. Hesap, test veya özel uzmanlık gerektiren işlerde ilgili teknik yetkinlikten rapor alınması ve dosyanın güncellenmesi istenir. Kritik açıklar sonuçlanana kadar işletme, güvenli geçici önlemleri ve gerekiyorsa faaliyetin sınırlandırılmasını sorumlularıyla değerlendirir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-bulgusu",
+      "metin": "Örnek saha bulgusu"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir bakım sahasında geçici yakıt kabı grubuna yeni kaplar eklenmiş, depolamanın hemen yanında kaynak işi için çalışma masası kurulmuştur. Eski kroki yalnız ilk kap grubunu göstermektedir. Bu durumda bulgu yalnız “kaynak yakın” cümlesiyle kapatılmaz: güncel kap adedi ve dış sınır, yakıt sınıfı, uygulanacak Ek-12/D uzaklığı, sıcak işin yeri ve koruyucu tertibatın durumu belgelenir. Eksik hesap veya onay varsa bu eksik açıkça yazılır; düzeltme sonrasında yeni yerleşim tekrar kontrol edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ve-taslak-metin-ayrimi",
+      "metin": "Yürürlükteki hüküm ve taslak metin ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu makalede esas alınan yürürlükteki hüküm BYKHY Madde 119/2–4’tür. Henüz yayımlanmamış değişiklik taslağında açıkta yerüstü depolama konusu Madde 121/2–4 altında düzenlenmiştir (TASLAK). Koruma bölgesi için sabit tankta Ek-12/C, taşınabilir kaplarda Ek-12/D ayrımı her iki metinde de vardır. Taslak hüküm, yürürlükteki düzenlemenin yerine geçmiş gibi uygulanmaz; değerlendirmenin tarihine ve yapının tabi olduğu mevzuata göre yürürlükteki hüküm kullanılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU düzenlemesi için hazırlanmış EK-6/B Periyodik Kontrol Formu da henüz yayımlanmamış taslak kaynaktır (TASLAK). Formdaki “Açıkta yer üstü depolama” başlığının üçüncü kontrol satırı koruyucu uzaklığa, diğer satırlar havuzlama ve yetkisiz girişe ilişkindir. Bu formun kontrol satırı, hesap yapılmadan veya gerekli proje bilgisi edinilmeden tek başına uygunluk kanıtı oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Taşınabilir yakıt tankı çevresindeki koruma bölgesi, bir bariyerin konumundan değil; sıvı sınıfı, ekipman tipi, toplam stok, kap topluluğunun gerçek dış sınırı ve ilgili ek çizelgesinden hareketle belirlenir. YGU açısından doğru çalışma, bu verileri onaylı plan ve saha koşullarıyla eşleştirmek, havuzlama ve tehlike bölgesi kontrollerini ayrı yürütmek ve her yer değişikliğini izlenebilir biçimde kayda almaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 119 ve Ek-12/C–D."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 121 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)."
+    },
+    {
+      "metin": "EK-6/B Periyodik Kontrol Formu, Açıkta Yer Üstü Depolama bölümü (TASLAK)."
+    }
+  ],
+  "sonNotlar": []
+}

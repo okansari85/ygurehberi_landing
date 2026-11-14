@@ -1,0 +1,141 @@
+{
+  "kod": "YGR-K193",
+  "yol": "mevcut-binada-alarm-sistemi-eksikligi-hangi-belgelere-gore-degerlendirilir",
+  "baslik": "Mevcut binada alarm sistemi eksikliği hangi belgelere göre değerlendirilir?",
+  "ozet": "Bir binada yangın algılama veya uyarı donanımının bulunmaması, ilk bakışta açık bir eksiklik gibi görünebilir. Ancak yangın güvenlik uzmanı (YGU) değerlendirmesini yalnız cihaz sayarak yapmaz. Yapının hangi tarihte ve hangi kullanım için onaylandığını, bugün nasıl kullanıldığını, ilgili dönemde hangi hükümlerin geçerli olduğunu ve sonradan yapılan değişiklikleri birlikte inceler. Böylece gerçekten zorunlu olduğu halde kurulmamış bir sistem, projede bulunduğu halde sökülmüş bir ekipman ve mevzuat kapsamı henüz belirlenememiş bir yapı birbirinden ayrılır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-eksikligin-ne-oldugu-tanimlanmali",
+      "metin": "Önce eksikliğin ne olduğu tanımlanmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "“Alarm sistemi yok” ifadesi tek bir teknik durumu anlatmaz. Binada otomatik dedektör bulunmayabilir; elle uyarı butonları, sesli ve ışıklı uyarıcılar, panel bağlantısı veya sistemin bazı katlara uzanan hatları eksik olabilir. Bazen de bütün ekipman yerindedir fakat yangın algılama projesi, kabul tutanağı ya da güncel test ve bakım kaydı temin edilememiştir. Fiziksel yokluk ile belge yokluğunu aynı sonuç başlığına yazmak, hem işletmenin yapacağı işi belirsizleştirir hem de uzman incelemesinin izini kaybettirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle inceleme binanın kullanım sınıfı, yapı yüksekliği, kat sayısı ve ilgili alan bilgileriyle başlar. Sonra mevcut cihazlar, onaylı projede gösterilen sistem ile karşılaştırılır. Yapının tamamı ile sadece bir kat veya işletme birimindeki durum ayrı kaydedilir; panelin çalışır görünmesi tek başına kapsama veya tasarım uygunluğunun kanıtı sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-hangi-hukumleri-birlikte-okumayi-gerektirir",
+      "metin": "Yürürlükteki BYKHY hangi hükümleri birlikte okumayı gerektirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 161, mevcut yapılardaki algılama ve uyarı konusuna özel olarak değinir. Maddenin birinci fıkrası mevcut yapılardaki uyarı sistemi için Madde 75’i esas alır. İkinci fıkrası ise 75 inci maddenin algılama hükümlerini konaklama amaçlı binalar, kurum binaları, bürolar, mağazalar, çarşılar ve toplanma amaçlı yapılar için de uygular. Bu ayrım önemlidir: Mevcut binada yalnız “eski yapı” denilerek otomatik algılamanın kapsam dışı olduğu sonucuna varılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 75; elle uyarı butonları, otomatik algılama cihazlarının hangi binalarda aranacağı ve Ek-7 üzerinden yapılan değerlendirmeler için temel hükümleri içerir. Bununla birlikte bir binaya uygulanacak sonuç; ruhsat ve ilk onaylı proje tarihinden, ilgili kullanım sınıfından ve sonradan yapılan ruhsatlı tadilatlardan bağımsız düşünülemez. Madde 138 kapsamındaki mevcut yapı statüsü ile kullanım değişikliği hükümleri ayrıca değerlendirilir. Eski bir çizimde algılama bulunmaması, bugünkü faaliyet koşullarında sistemin hiçbir durumda gerekmeyeceği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-ile-yururlukteki-hukum-birbirine-karistirilmamali",
+      "metin": "Taslak ile yürürlükteki hüküm birbirine karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yayımlanmamış BYKHY değişiklik taslağında Madde 76, algılama ve uyarı sistemlerine ilişkin yeni eşikler ve uygulama açıklamaları içerir (TASLAK). Aynı taslağın Madde 85’i, acil aydınlatma, yönlendirme ve yangın algılama/uyarı sistemlerinin periyodik kontrol, test ve bakımını ve raporların saklanmasını ele alır (TASLAK). Taslak Madde 139 da mevcut yapıların hangi koşullarda değerlendirileceğine ilişkin düzenlemeler getirir (TASLAK). Bu maddeler yürürlükteki Madde 75, 161 ve ilgili hükümler yerine geçmiş sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta yeni bir sistem koşulunun bulunması, o koşulun bugün kesin uygunsuzluk olarak raporlanmasına dayanak değildir. Aynı şekilde geçmişte sistemin kurulduğunu gösteren kabul raporu, bugün hatların çalıştığına dair tek başına kanıt olmaz. YGU her sonucun yanına hükmün durumunu ve hangi belgeden hareket ettiğini açıkça yazar."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-zinciri-nasil-kurulur",
+      "metin": "Belge zinciri nasıl kurulur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Birinci grupta yapı ruhsatı, yapı kullanım izni, ilk onaylı mimari ve elektrik/algılama projeleri bulunur. İkinci grupta kullanım amacı değişikliği, bölüm birleştirme, ilave kat, yangın alarmı tadilatı ve kabul işlemleri yer alır. Üçüncü grup ise bugünkü bakımı, testi ve periyodik muayeneyi gösteren tarihli belgelerdir. Birinci grup yasal ve tasarımsal başlangıcı, ikinci grup değişiklikleri, üçüncü grup işletme sırasındaki izleme durumunu ortaya koyar. Bu belgeler birbirinin yerine kullanılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin eski bir büro binasının iki katı konaklama kullanımına ayrılmışsa, ilk projedeki dedektör sayısına bakıp incelemeyi kapatmak doğru değildir. Yeni kullanımın hangi tarihte başladığı, ruhsata işlenip işlenmediği, kullanım değişikliğine ait onaylı algılama projesinin bulunup bulunmadığı ve sahadaki dedektör/uyarı düzeni ayrı sorular olarak araştırılır. Belge bulunamazsa varsayımla “proje uygun” veya “proje aykırı” denilmez; eksik doküman ve teknik teyit ihtiyacı kayıt altına alınır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen durum",
+        "Öncelikli belge / kanıt",
+        "YGU değerlendirmesi"
+      ],
+      "satirlar": [
+        [
+          "Sistem tamamen yok",
+          "Ruhsat, kullanım sınıfı, onaylı projeler",
+          "Uygulanabilir hüküm ve zorunluluk dayanağı belirlenir"
+        ],
+        [
+          "Bir katta dedektör eksik",
+          "Onaylı algılama paftası, saha planı",
+          "Proje–saha farkı mahal ve cihaz bazında kaydedilir"
+        ],
+        [
+          "Buton veya uyarıcı eksik",
+          "Algılama/uyarı projesi, yerinde gözlem",
+          "Elle uyarı ve sesli/ışıklı uyarı ayrı değerlendirilir"
+        ],
+        [
+          "Proje yok, cihaz var",
+          "İdare arşivi, tesis teslim dosyası",
+          "Belge eksikliği; performans veya mevzuat uygunluğu yerine yazılmaz"
+        ],
+        [
+          "Bakım ve test kaydı yok",
+          "Servis, test, kabul, muayene kayıtları",
+          "İlgili dönem ve kapsam için belge teyidi istenir"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU öncelikle bina ve bölüm kimliğini, yürürlükteki kullanım sınıfını ve değişiklik tarihlerini dosyalar. Ardından mimari ve algılama projelerindeki katları gezerek dedektörleri, yangın uyarı butonlarını ve uyarı elemanlarını mahal bazında karşılaştırır. Varsa panoda görülen arıza veya devre dışı durumlarını, gözlem tarihi ve konumuyla not eder. Elektriksel ölçüm, fonksiyon testi, senaryo doğrulaması veya yetkili bakım/muayene işini bizzat yapmadıysa yapmış gibi rapor düzenlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "EK-6/A taslak formunun “Elektrik Kontrol Listesi / Algılama Projesinden Kontrol Edilmesi Gerekenler / 2. Yangın Algılama ve Uyarı Sistemleri” satırında dedektörler, yangın uyarı butonları ve tahliye bekleme noktalarındaki iletişim elemanları yer alır (TASLAK). Aynı formun ön şartlar bölümünde güncel periyodik muayene belgelerinin incelenmesine ilişkin ayrı bir kayıt bulunur (TASLAK). Formdaki bu iki inceleme farklıdır: biri proje–saha gözlemi, diğeri ilgili muayene belgesinin varlığı ve güncelliğidir. Taslak form yetkisini veya bugün yürürlükte olmayan bir kontrol yaptırımını doğurmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha raporunun sonuç cümlesi, kanıtın sınırına göre yazılır. “İkinci kat doğu koridorundaki iki dedektör, tarihli algılama paftasında bulunmasına rağmen sahada görülmedi; revizyon/uygulama belgesi istenmiştir” ifadesi, “yangın alarm sistemi uygunsuz” gibi nedeni belirsiz bir ifadeden daha açıklayıcıdır. Sistem kurulma zorunluluğu tartışmalıysa uygulanabilir hüküm, karşılaştırılan projeler ve gerekli idari veya teknik görüş ayrıca belirtilir. İşletme sorumlusuna teslim edilen aksiyon, sorumlu kişi, tamamlanma tarihi ve istenen kanıtla takip edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binadaki yangın alarmı eksikliği, tek bir cihazın varlığına bakılarak değil; yapının ruhsat ve kullanım geçmişi, ilgili BYKHY hükümleri, onaylı projeler, değişiklik dosyası ve güncel kontrol belgeleri birlikte okunarak değerlendirilir. YGU’nun görevi olmayanı varsaymak değil, mevcut kanıtları düzenleyerek hangi eksikliğin fiziki, hangisinin belgesel ve hangisinin mevzuat yorumu gerektirdiğini açıkça göstermektir. Taslak hükümler yalnız (TASLAK) olarak ayrı not edildiğinde sonuç hem bugünkü denetimde savunulabilir hem de ileride yapılacak güncellemeye elverişli olur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 75, 138, 161 ve Ek-7."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik değişiklik taslağı, Madde 76, 85 ve 139 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı, EK-6/A Periyodik Kontrol Formu (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 193. makale eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

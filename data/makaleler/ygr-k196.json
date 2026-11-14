@@ -1,0 +1,154 @@
+{
+  "kod": "YGR-K196",
+  "yol": "ygu-tarihi-yapida-mimari-mudahale-sinirini-nasil-belgelendirir",
+  "baslik": "YGU tarihi yapıda mimari müdahale sınırını nasıl belgelendirir?",
+  "ozet": "Tescilli bir yapıda algılama hattı, yangın dolabı, kapı, şaft veya kaçış düzenlemesi önerildiğinde ilk soru “Bu sistem gerekli mi?” olur. Ancak çözüm bu soruyla bitmez. Önerilen tesisatın yapının tarihî dokusuna nasıl temas edeceği, hangi taşınmaz kültür varlığı unsurlarını etkileyeceği ve müdahaleye hangi idari kararın dayanak oluşturduğu da açıklanmalıdır. Teknik bakımdan işe yarayan bir sistem, koruma kararları gözetilmeden yapıldığında uygun bir uygulama sayılmaz.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "tarihi-yapida-amac-yalniz-yangin-tedbiri-eklemek-degildir",
+      "metin": "Tarihi yapıda amaç yalnız yangın tedbiri eklemek değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenlik uzmanının (YGU) görevi restorasyon projesini hazırlamak veya onaylamak değil; yangın güvenliği ihtiyacını kayıtlarla tarif etmek, önerilen çözümün koruma kararı ve uygulama sınırlarını görünür kılmak, mevcut durum ile onaylı proje arasındaki farkları belgelemektir. Koruma kurulu görüşü, itfaiye görüşü ve yetkili idarenin işlemine ilişkin süreçler bu teknik incelemeyle ikame edilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukmun-cizdigi-cerceve",
+      "metin": "Yürürlükteki hükmün çizdiği çerçeve"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 167/A maddesi, 2863 sayılı Kanun kapsamında korunması gerekli kültür varlığı olarak tescil edilen yapıyı tarihi yapı kabul eder. 167/B maddesi, kurulacak tesisatlar için ilgili Koruma Kurulunun görüşünün alınmasını; yangın tahliye, algılama ve söndürme tesisatı projelerinin tarihi yapıya fiziksel ve görsel açıdan uygun, yapıya zarar vermeyecek şekilde hazırlanmasını ve bu projeler için itfaiye teşkilatının görüşüne başvurulmasını öngörür."
+    },
+    {
+      "tip": "p",
+      "metin": "167/C maddesi, aksi belirtilmedikçe tarihi yapılar için mevcut bina hükümlerine yönlendirir. Ayrıca, belirli ahşap taşıyıcılı yapılarda kullanım kısıtları ve restorasyondaki yangın dayanımı şartları içerir. Dolayısıyla “tarihi yapıdır, yangın kuralları uygulanmaz” yaklaşımı da, yeni bina için öngörülen her mimari müdahalenin doğrudan tarihi yapıya taşınması da doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "mudahale-sinirini-gorunur-kilan-belge-seti",
+      "metin": "Müdahale sınırını görünür kılan belge seti"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "BELGE",
+        "CEVAPLADIĞI SORU",
+        "YGU İNCELEMESİNDE KARŞILIĞI"
+      ],
+      "satirlar": [
+        [
+          "Tescil kararı / envanter",
+          "Yapının hangi değerleri korunuyor?",
+          "Korunacak eleman ve mekânın kimliği belirlenir."
+        ],
+        [
+          "Rölöve, restitüsyon ve restorasyon projeleri",
+          "Gerçek durum, tarihî durum ve izin verilen düzenleme nedir?",
+          "Önerilen müdahalenin mevcut projeye uyumu araştırılır."
+        ],
+        [
+          "Koruma kurulu kararı ve görüş yazıları",
+          "Hangi imalat veya tesisat için nasıl bir sınır çizilmiş?",
+          "Kararın kapsamı, tarih ve ekleri tek tek eşleştirilir."
+        ],
+        [
+          "Yangın tahliye ve tesisat projeleri",
+          "Koruma gerekliliği hangi noktada nasıl sağlanacak?",
+          "Geçiş, montaj, güzergâh ve sistem bileşenleri işaretlenir."
+        ],
+        [
+          "Uygulama / revizyon / kabul kayıtları",
+          "Sahada ne yapıldı; sonradan ne değişti?",
+          "Proje–uygulama farklılıkları ve açık işlemler kaydedilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "cizimdeki-nokta-ile-yapida-dokunulacak-yer-ayni-olmali",
+      "metin": "Çizimdeki nokta ile yapıda dokunulacak yer aynı olmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Tesisat güzergâhını yalnız kat planında kalın çizgiyle göstermek yeterli değildir. Dedektörün tavan bezemesine, kablonun ahşap kaplamaya, borunun taş duvara, kapının özgün doğramaya, su deposunun tarihi avluya etkisi ayrı ayrı ele alınmalıdır. Projede delik açılacak yüzey, taşıyıcıya bağlantı noktası, kapatma detayı, görünür cihaz yerleşimi ve bakım erişimi mümkün olduğunca tarif edilmelidir. Özellikle özgün dokuya temas eden müdahalelerde alternatif güzergâh ve daha az müdahaleci çözümün neden seçildiği açıklanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurul kararında yalnız belirli mekânın ele alınması kabul edilmişse, aynı yöntem komşu odalara otomatik olarak genişletilemez. Sonradan yeni bir asma tavan, kaçış kapısı, şaft veya kablo tavası ortaya çıkması hâlinde onaylı proje, revizyon ihtiyacı ve yetkili görüş ilişkisi yeniden incelenir. “Benzer müdahale daha önce yapılmış” bilgisi tek başına yeni uygulamaya izin anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-kultur-varligi-olarak-tescilli-konakta-konaklama-kullanimi",
+      "metin": "Örnek: kültür varlığı olarak tescilli konakta konaklama kullanımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayalım tescilli bir konak konaklama amacıyla kullanılıyor ve yangın algılama sistemi yenilenmek isteniyor. Eski alarm panosunun arızalı olması teknik bir sorun; dedektör ve kabloların tavan süslemesi ile ahşap kaplamadan geçmesi ise koruma boyutudur. YGU önce kullanımın ruhsat ve izin geçmişini, tescili ve onaylı projeleri karşılaştırır. Sonra yeni cihazların tek tek yerini, kablo güzergâhını ve korunacak bezeme yüzeylerini inceleme notuna işler."
+    },
+    {
+      "tip": "p",
+      "metin": "Teknik projede kapı üstünden kısa hat geçilmesi önerilmiş, ancak kurul görüşünde ahşap doğramaya müdahale sınırlanmışsa iki belge aynı soruya farklı cephelerden yaklaşır. Çözüm, doğramaya doğrudan müdahale ederek işi bitirmek değil; proje müellifi ve ilgili teknik uzmanlarla yeni güzergâhı belirleyip gerekli revizyon ve görüş sürecini işletmektir. Nihai uygulama uygunluğu, yetkili kararlar ve teknik kabul kayıtları oluşmadan kesinleştirilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-sahada-neyi-kontrol-eder-neyi-tek-basina-onaylamaz",
+      "metin": "YGU sahada neyi kontrol eder, neyi tek başına onaylamaz?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU; yapı kimliği, tescil karar numarası, kurul yazıları, onaylı proje revizyonları ve sahada kullanılan imalat belgeleri arasında eşleştirme yapabilir. İşaretli projeye karşılık gelen montaj noktalarının fotoğraf ve krokiyle kayda geçirilmesi, kapatılmış şaft ya da sonradan açılmış duvar geçişlerinin ayrı gösterilmesi, eksik evrakın hangi işi belirsiz bıraktığının açıklanması bu çalışmanın somut çıktısıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Buna karşılık bu inceleme, koruma kurulunun vereceği kararı, yapı ve restorasyon projesi müellifinin teknik sorumluluğunu, itfaiye görüşünü veya kabul sürecini ikame etmez. Bir evrakın bulunmaması da tek başına yapılan müdahalenin aykırı olduğunu ispatlamaz; fakat müdahalenin onay sınırı doğrulanamadığından bu belirsizlik giderilmelidir. Raporda “tescil kapsamı doğrulandı”, “proje ile saha farklı”, “kurul görüşü görülmedi”, “teknik çözüm revizyon bekliyor” gibi ayrışmış sonuçlar yazılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yonetmelik-taslagi-ile-yururlukteki-kurali-karistirmamak",
+      "metin": "Yönetmelik taslağı ile yürürlükteki kuralı karıştırmamak"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağının 2 nci maddesinin üçüncü fıkrasında, ihtiyaç duyulması hâlinde yapının özelliklerine göre tarihi yapıların yangın güvenliği tedbirlerinin Kültür ve Turizm Bakanlığınca belirlenmesi öngörülmektedir (TASLAK). Geçici Madde 1/2’de, Bakanlıkça ilgili mevzuat hazırlanıncaya kadar 2007 tarihli BYKHY’ye uygun tedbirlerin alınması koşuluyla taslak Yönetmeliğe göre ilave tedbir istenilmemesi yaklaşımı yer almaktadır (TASLAK). Bu ifadeler bağlayıcı değildir. Güncel değerlendirmede yürürlükteki 167/A, 167/B ve 167/C ile ilgili koruma kurulu kararları esas alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU görev haritasında bu konu için bağımsız bir EK-6 kontrol bendi belirlenmemiştir. Taslak EK-6 formundaki proje–saha karşılaştırmasının, tarihi yapıdaki koruma kurulu kararı veya restorasyon onayı yerine geçtiği sonucuna varılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "raporun-nihai-cumlesi-neyi-soylemeli",
+      "metin": "Raporun nihai cümlesi neyi söylemeli?"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç cümlesi yapıyı, incelenen müdahaleyi, dayanak kurul kararını, ilgili proje revizyonunu ve sahada kontrol edilen noktayı tek tek göstermelidir. Örnek: “Tescilli konağın birinci kat algılama hattı için proje–saha eşleştirmesi yapılmış; mevcut güzergâhın onaylı restorasyon projesiyle ilişkilendirilemediği görülmüştür. Gerekli yetkili görüşü/revizyonu görülmeden uygulama uygunluğu doğrulanmamıştır.” Bu ifade yangın güvenliği ihtiyacını da kültür varlığının korunma sınırını da birbirine karıştırmadan kaydeder."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik — Madde 167/A, 167/B, 167/C (yürürlükte)."
+    },
+    {
+      "metin": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu — Tarihi Yapılar, Madde 167/A–167/C."
+    },
+    {
+      "metin": "BYKHY Değişiklik Taslağı — Madde 2/3(c), Geçici Madde 1/1–2 (TASLAK)."
+    },
+    {
+      "metin": "YGU ve Periyodik Kontrol Usul ve Esasları Yönetmelik Taslağı ile EK-6 formu (TASLAK; doğrudan özel bent ataması değildir)."
+    }
+  ],
+  "sonNotlar": []
+}

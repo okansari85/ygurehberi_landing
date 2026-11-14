@@ -1,0 +1,160 @@
+{
+  "kod": "YGR-K111",
+  "yol": "itfaiyenin-bina-cevresinde-manevra-yapmasi-nerede-zorlasir",
+  "baslik": "İtfaiyenin bina çevresinde manevra yapması nerede zorlaşır?",
+  "ozet": "Bir vaziyet planında itfaiye yolu gösterilmiş olması, müdahale aracının aynı güzergahı bugün de kullanabileceğini tek başına kanıtlamaz. Sonradan yapılan yükleme rampası, kaydırılan güvenlik kulübesi, açıldığında yolu daraltan kapı kanadı, istiflenen paletler veya bekleyen tırlar; kağıt üzerinde açık görünen geçişi sahada işlevsiz bırakabilir. Özellikle köşelerde araç gövdesi ve arka tekerleklerin izlediği hat farklılaştığından, düz kesimde yeterli görünen genişlik dönüş için yeterli olmayabilir.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorun-yolun-varligi-degil-aracin-gercekten-ilerleyebilmesidir",
+      "metin": "Sorun yolun varlığı değil, aracın gerçekten ilerleyebilmesidir"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle inceleme, ana yoldan giriş kapısına, kapıdan iç ulaşım yoluna, dönemeçten müdahale noktasına kadar kesintisiz yapılmalıdır. Manevra alanı ile itfaiye aracının binaya yaklaşabildiği son nokta birlikte değerlendirilir; sadece yolun en dar kesitini kontrol etmek yeterli değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-teknik-cerceve-ve-taslakta-onerilen-fark",
+      "metin": "Yürürlükteki teknik çerçeve ve taslakta önerilen fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, binaya ulaşım yollarını ve itfaiye araçlarının erişimini Madde 22 kapsamında düzenler. Yol genişliği, dönüş geometrisi, eğim, serbest yükseklik, taşıma kapasitesi ve cepheye yaklaşım mesafesi birbiriyle ilişkili koşullardır. Aşağıdaki tablo, konuyla doğrudan ilgili seçilmiş ölçütleri karşılaştırır; farklı yapı ve yerleşim koşullarında diğer hükümler ayrıca incelenir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Yürürlükteki düzenleme",
+        "Yeni BYKHY taslağında önerilen"
+      ],
+      "satirlar": [
+        [
+          "Olağan iç ulaşım yolu genişliği",
+          "En az 4 m",
+          "En az 4 m"
+        ],
+        [
+          "Çıkmaz iç ulaşım yolu",
+          "Çıkmaz sokak varsa en az 8 m",
+          "İtfaiye aracının manevra yapabileceği alan bulunmayan çıkmaz sokakta en az 8 m"
+        ],
+        [
+          "Dönemeç geometrisi",
+          "İç yarıçap en az 11 m; dış yarıçap en az 15 m",
+          "İç yarıçap en az 11 m; dış yarıçap en az 15 m"
+        ],
+        [
+          "Serbest geçiş yüksekliği",
+          "En az 4 m",
+          "En az 4,5 m (taslak)"
+        ],
+        [
+          "Eğim ve taşıma yükü",
+          "Eğim en çok %6; en az 15 ton taşıma yükü, 10 ton arka dingil varsayımı",
+          "Aynı sayısal yaklaşım korunuyor"
+        ],
+        [
+          "Cepheye yaklaşım",
+          "Son yaklaşma noktasından dış cephedeki herhangi bir noktaya yatay uzaklık en çok 45 m",
+          "45 m esas alınır; sağlanamadığı yerler için ilgili idareye hidrant sistemi yapma/yaptırma hükmü önerilir"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta önerilen 4,5 m serbest yükseklik henüz yürürlükteki 4 m ölçütünün yerine geçmez. Aynı şekilde taslaktaki hidrant yaklaşımı, mevcut erişim yolunun kendiliğinden uygun sayılması anlamına gelmez. Proje incelemesinde iki metnin hukuki durumu açıkça ayrılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "manevrayi-bozan-degisiklikler-nasil-ayirt-edilir",
+      "metin": "Manevrayı bozan değişiklikler nasıl ayırt edilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir fabrika için temsili durum düşünelim: Onaylı vaziyet planında girişten üretim bloğunun yan cephesine uzanan iç ulaşım yolu vardır. İşletme daha sonra sevkiyat kapısına yeni bir rampa eklemiş ve rampanın yanında tır bekleme alanı oluşturmuştur. Yol düz kesimde açık görünse bile rampa köşesi dönüş alanına taşıyor veya bekleyen araçlar kapı açıklığını daraltıyorsa, müdahale güzergahı fiilen değişmiş olabilir. Bu, gerçek bir olay anlatımı değil, inceleme yöntemini açıklayan varsayımsal bir durumdur."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Sahada görülen durum",
+        "Teknik inceleme sorusu",
+        "Aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Yeni rampa veya sabit platform",
+          "Dönüş sırasında araç gövdesi ve tekerlek izinin gerektirdiği boşluk korunuyor mu?",
+          "Onaylı ve güncel vaziyet planı; revizyon projesi; yetkili teknik ölçüm veya manevra analizi"
+        ],
+        [
+          "Kapı, bariyer veya güvenlik kulübesi",
+          "Kapı açıkken net geçiş ve serbest yükseklik korunuyor mu?",
+          "Kapı detayı; saha fotoğrafı; gerektiğinde yetkili ölçüm kaydı"
+        ],
+        [
+          "Tır parkı, palet veya konteyner",
+          "Acil müdahale güzergahı işletme sırasında sürekli açık tutuluyor mu?",
+          "Araç park ve sevkiyat düzeni; yerinde gözlem; işletme talimatı"
+        ],
+        [
+          "Yol üstü sundurma veya boru hattı",
+          "Aracın üst geçiş boşluğu ve güzergah sürekliliği etkileniyor mu?",
+          "Onaylı detay; yükseklik belgesi; saha gözlemi"
+        ],
+        [
+          "Yeni dolgu, ızgara veya kaplama",
+          "Ağır itfaiye aracının geçişi için yolun taşıma yeterliliği belgelenmiş mi?",
+          "Yapısal/altyapı tasarım belgesi; ilgili mühendislik raporu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının ruhsat ve yapı kullanma izni bilgileriyle onaylı vaziyet planını, yangın güvenliği projelerini ve varsa sonradan onaylanan tadilatları birlikte inceler. Fabrikanın güncel giriş-çıkış düzeni, sevkiyat saatleri, araç bekleme alanları ve kapı kullanım şekli bu belgelerle karşılaştırılır. Sadece plan üzerinde yol bulunmasına değil, aracın güzergahı hangi işletme koşullarında kullanabileceğine bakılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada giriş kapısından başlayarak yol boyunca gözlemsel inceleme yapar; yeni rampa, park, bariyer, malzeme istifi, üst geçiş engeli ve dönüş alanındaki daralmaları konumlarıyla kaydeder. Uygunluğu kesinleştirmek için gerekli net genişlik, dönüş yarıçapı, taşıma kapasitesi veya araç hareket analizi belgeleri yoksa bunları ilgili yetkili teknik kişilerden ister. YGU, taşıyıcı hesap yapmış, yol kapasitesini test etmiş veya itfaiye aracıyla manevra deneyi gerçekleştirmiş gibi rapor düzenlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporunda onaylı projede gösterilen durum ile sahadaki fiili durumu ayrı belirtir; fotoğrafın çekildiği yönü, engelin yerini, etkilediği erişim kesimini ve eksik teknik kanıtı tanımlar. Gözlemle saptanan engel ile ölçüm veya proje revizyonu gerektiren belirsizliği birbirine karıştırmaz. Proje değişikliği, statik yeterlilik hesabı, resmi onay ve müdahale aracı uygunluk değerlendirmesi ilgili yetkili tasarımcı, mühendis ve idarenin görev alanındadır. Uzmanın görevi, bu sınırı aşmadan eksikliği gerekçelendirmek ve giderilmesini izlenebilir hale getirmektir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İtfaiye erişimi, yalnızca yolun çizimdeki genişliğiyle değil, giriş kapısı, dönemeç, engeller, yolun taşıma durumu ve müdahale noktasına kadar uzanan bütün güzergahla değerlendirilir. Sonradan yapılan küçük bir rampa bile bu zincirin kritik halkasını etkileyebilir. Doğru saha incelemesi, gözlemi belgeye bağlar; belirsiz teknik hususlarda ise yetkili uzman incelemesini talep eder."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

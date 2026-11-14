@@ -1,0 +1,137 @@
+{
+  "kod": "YGR-K192",
+  "yol": "mevcut-binada-asansor-hukumleri-hangi-kosullarda-yeniden-incelenir",
+  "baslik": "Mevcut binada asansör hükümleri hangi koşullarda yeniden incelenir?",
+  "ozet": "Yıllardır kullanılan bir asansörün bakım etiketi güncel olabilir; ancak bu durum, binanın yangın güvenliği bakımından asansörle ilgili bütün koşulları sağladığını tek başına göstermez. Yangın güvenlik uzmanı (YGU), önce binanın mevzuat statüsünü ve asansörün hangi katlara hizmet verdiğini belirler. Daha sonra ilk onaylı proje, tadilat geçmişi, fiili kullanım, yangın uyarı sistemiyle ilişki ve periyodik muayene belgeleri birlikte değerlendirilir. İncelemenin odağı, yalnız kabinin çalışması değil, asansörün yangın sırasında bina içindeki davranışını etkileyen değişikliklerdir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bir-asansor-ne-zaman-yeniden-gundeme-gelir",
+      "metin": "Bir asansör ne zaman yeniden gündeme gelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binanın yüksekliği, kullanım sınıfı, yeni bodrum kat bağlantısı veya asansörün hizmet verdiği katlar değişmişse eski değerlendirme yeniden açılır. Başlangıçta konut olarak kullanılan bir yapıdaki bazı katların topluma açık faaliyete ayrılması; mevcut kuyunun bodrum otoparkına bağlanması; lobi ve koridorların tadilatla değiştirilmesi; yangın algılama panelinin yenilenmesi veya asansör kumandasının değiştirilmesi buna örnektir. Her değişiklik doğrudan bir aykırılık anlamına gelmez, ancak onaylı proje ve uygulanan hükmün yeniden eşleştirilmesini gerektirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Önce değişikliğin tarihini ve kapsamını gösteren belgeler aranır. Sadece binanın bugün kaç katlı olduğu değil, ilgili asansörün hangi katlara ulaşabildiği, kaç kuyu bulunduğu ve daha önce hangi koruma tedbirlerinin projelendirildiği de kayıt altına alınır. Böylece yeni bir zorunluluk ihtimali ile eskiden beri var olan bakım eksikliği birbirine karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-mevcut-bina-hukumleri-ne-soyluyor",
+      "metin": "Yürürlükteki mevcut bina hükümleri ne söylüyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 160, mevcut yapılardaki asansörler için özel hükümler içerir. Makine dairesinin yangına dayanımı ve malzemesi ile kuyu havalandırması veya basınçlandırılması ayrıca ele alınır. Madde 160/4 uyarınca bina yüksekliği 30,50 m’den fazla olan konut dışı binalar ve 51,50 m’den yüksek konutlardaki asansörler için yangın uyarısı üzerine acil çıkış katına dönüş ve kat/koridor çağrılarını kabul etmeme gibi işlevler aranır. Bu eşikler her yapı için genel bir “asansör zorunluluğu” eşiği değildir; maddedeki belirli asansör davranışı koşullarının hangi mevcut binalarda değerlendirileceğini gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca BYKHY Madde 62/4, asansörlerin bodrum katlara hizmet vermesi durumunda korunmuş erişim ve asansör kapılarının açıldığı mahal bakımından hükümler taşır. Ancak mevcut bina için hangi hükmün uygulanacağı, yapının tabi olduğu dönem, Madde 138 ve 160 ile somut tadilatın niteliği birlikte incelenerek belirlenir. Yeni binalara ait bütün koşullar, yalnızca asansör bulunduğu için mevcut binaya otomatik olarak aktarılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ayri-bir-degerlendirme-sutunudur",
+      "metin": "Taslak düzenleme ayrı bir değerlendirme sütunudur"
+    },
+    {
+      "tip": "p",
+      "metin": "Yayımlanmamış BYKHY değişiklik taslağı Madde 139/11-h, mevcut yapılarda asansörler için taslak Madde 62/4’e uyulmasını öngörür (TASLAK). Taslak 62/4; belirli asansör kuyularında dumanın uzaklaştırılması veya basınçlandırma, bodrum katlara erişim, doğrudan kullanım alanlarına açılma ve bodrum otoparkı önündeki hol düzenlemeleri hakkında hükümler içerir (TASLAK). Bu, yürürlükteki Madde 160’ın yerine geçmiş bir kural değildir. YGU dosyasında “bugünkü dayanak” ve “taslak yürürlüğe girerse yeniden bakılacak koşul” açıkça ayrılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak kapsamındaki değişikliklerin teknik etkisi özellikle sonradan açılan bodrum bağlantısı, birleştirilen kuyular ve yeniden düzenlenen lobi alanlarında görülebilir. Fakat taslağa göre belirlenmiş bir eksiklik, halen yürürlükteymiş gibi kesin uygunsuzluk olarak yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-ve-muayene-belgesi-ayni-soruyu-yanitlamaz",
+      "metin": "Proje, saha ve muayene belgesi aynı soruyu yanıtlamaz"
+    },
+    {
+      "tip": "p",
+      "metin": "Asansör yerleşim planı ve mimari kesit, kuyunun konumunu, kat bağlantılarını ve lobi ilişkisini gösterir. Yangın algılama projesiyle kumanda arayüzüne ait teknik belgeler, yangın uyarısı geldiğinde sistemin nasıl davranmasının tasarlandığını ortaya koyar. Bakım ve periyodik muayene raporları ise belirli tarihte incelenen ekipman ve işlevler hakkında kanıt sağlar. Bu üç grubun birinde bulunan bilgi diğerinin yokluğunu kendiliğinden gidermez. Özellikle onaylı tadilat projesi olmadan yapılan kontrol paneli değişikliği, belgeler ve saha arasında ayrı bir izleme maddesi oluşturabilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Değişiklik / bulgu",
+        "Karşılaştırılacak kanıt",
+        "YGU’nun kayıt yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "Kat veya kullanım değişimi",
+          "Ruhsat, tadilat paftası, kat çizelgesi",
+          "Tabi olunan hüküm ve yeni kat bağlantısı incelenir"
+        ],
+        [
+          "Bodrum erişimi",
+          "Mimari kesit, hol–otopark planı",
+          "Korunmuş erişim ve açılma noktası sorgulanır"
+        ],
+        [
+          "Yangın alarmı revizyonu",
+          "Algılama projesi, kumanda kayıtları",
+          "Uyarı–asansör ilişkisi için teknik teyit istenir"
+        ],
+        [
+          "Kabin ve sistem muayenesi",
+          "Güncel muayene/servis raporu",
+          "Muayene sonucu ile proje uygunluğu ayrılır"
+        ],
+        [
+          "Asansör sınıfı belirsizliği",
+          "Onaylı proje, kullanım ve teknik tanım",
+          "Normal asansör ile itfaiyeci asansörü ayrılır"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU ilk olarak her asansöre ayrı kimlik verir; hizmet verdiği katları, bodrum bağlantısını, kuyu ve makine dairesi durumunu, yangın algılama sistemiyle ilişkisinin belgelerde bulunup bulunmadığını kaydeder. Ardından geçerli ruhsat ve onaylı paftaları, varsa revizyon projesini, muayene raporlarını ve bakım kayıtlarını tarih sırasıyla karşılaştırır. Gözlemsel incelemenin sınırı aşılmaz; uzman, yetkili asansör muayenesi yerine test yapmış veya yangın senaryosunun bütün işlevlerini doğrulamış gibi kayıt düzenlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin üç bodrumu bulunan eski bir iş merkezinde daha önce yalnız zemin üstü katlara çalışan asansörün yeni otopark katına uzatıldığını düşünelim. Projedeki eski kuyu bitişi, yeni kat kapısı, bodrumdaki hol düzeni ve yangın paneli bağlantısı ayrı ayrı karşılaştırılır. Muayene belgesi mevcut olsa bile “bodrum erişim ve yangın senaryosu proje uyumu teyit bekliyor” gibi kanıta dayalı bir sonuç yazılır. Gerekli uzmanlık incelemesi ve idari/proje teyidi işletmeciye açık bir aksiyon olarak iletilir."
+    },
+    {
+      "tip": "p",
+      "metin": "EK-6/A taslak formunda acil durum (itfaiyeci) asansörünün güncel periyodik muayene belgesi ön şartlar arasında sayılmıştır (TASLAK). Bu kalem bütün normal yolcu asansörlerinin itfaiyeci asansörü sayılmasını gerektirmez; bina dosyasındaki teknik sınıflandırma ayrıca belirlenir. Makalenin görev haritasında asansör incelemesi için doğrudan bir EK-6 bendi atanmadığı da korunur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binadaki asansör hükümleri; kullanım, yükseklik, kat bağlantısı, bodrum erişimi veya yangın uyarı sistemi değiştiğinde yeniden incelenir. Sağlıklı değerlendirme, geçmişte onaylanan çözümü bugün sahada bulunan düzenle karşılaştırır; bakım belgesini tasarım uygunluğuyla karıştırmaz. Yürürlükteki BYKHY ile (TASLAK) hükümleri ayrı tutulduğunda YGU, hem bugünün açık eksiklerini hem de ileride yeniden değerlendirilecek teknik başlıkları izlenebilir hale getirir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 4, 62, 138 ve 160."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik değişiklik taslağı, Madde 62 ve 139 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Periyodik Kontrol Formu, EK-6/A – ön şartlar ve asansör başlığı (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 192. makale eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

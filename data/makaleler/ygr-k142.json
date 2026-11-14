@@ -1,0 +1,128 @@
+{
+  "kod": "YGR-K142",
+  "yol": "mutfak-cay-ocagina-donusturulurse-eski-onlemler-yeterli-midir",
+  "baslik": "Mutfak Çay Ocağına Dönüştürülürse Eski Önlemler Yeterli midir?",
+  "ozet": "Bir işletmede mutfağın çay ocağına dönüştürülmesi, yangın tehlikesinin kendiliğinden ortadan kalktığı anlamına gelmez. Belirleyici olan kapıya yazılan yeni ad değil; gerçekte kullanılan ısı kaynakları, pişirme yöntemi, yakıt, havalandırma ve mahallin bina içindeki konumudur. Eski mutfak önlemlerinin hangilerinin korunacağı veya hangi düzenin yeniden değerlendirileceği bu bilgilerle ortaya çıkar.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-faaliyet-degisikligini-tanimlamak-gerekir",
+      "metin": "Önce faaliyet değişikliğini tanımlamak gerekir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yemek üretimi sona ermiş, yalnız elektrikli su ısıtıcısı ve içecek hazırlama ekipmanı kullanılıyor olabilir. Buna karşılık çay ocağı adı altında gazlı ocak, tost makinesi, ızgara veya kızartma ekipmanı çalıştırılması mümkündür. Bu iki durumun yangın ve duman oluşumu, gaz kaçağı ve yağlı buhar birikimi bakımından aynı kabul edilmesi doğru değildir. YGU, ekipmanın adını değil kullanım sıklığını, kapasitesini, enerji kaynağını ve işletme düzenini kayda alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Mahallin kullanımının değişmesi, mevcut davlumbaz, otomatik söndürme, gaz kesme, yangına dayanıklı ayırma veya havalandırma düzeninin gerekçesiz sökülebileceği anlamına da gelmez. Önce onaylı projede hangi faaliyet için hangi önlemin öngörüldüğü ve bugün aynı koşulların devam edip etmediği belirlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-degisiklik-taslaginin-ayrimi",
+      "metin": "Yürürlükteki BYKHY ile değişiklik taslağının ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik madde 57, konutlar hariç olmak üzere alışveriş merkezleri ve yüksek binalardaki mutfaklar, yemek fabrikaları ile bir anda 100’den fazla kişiye hizmet veren mutfaklar için davlumbaz otomatik söndürmesi ve kullanılan gazın niteliğine uygun gaz algılama, gaz kesme ve uyarı tesisatını düzenler. Aynı maddenin üçüncü fıkrası, mutfak ve çay ocaklarının binanın diğer kısımlarından en az 120 dakika yangına dayanıklı bölmelerle ayrılmasını öngörür. Bu nedenle yalnız “çay ocağına dönüştü” denilerek ayırma şartının artık aranmayacağı sonucuna gidilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı BYKHY değişiklik TASLAĞI madde 57’de otomatik söndürme bakımından kişi eşiği 50’den fazla olarak önerilmiştir; ayrıca “sertifikalı” sistem ifadesi yer alır. Taslakta üçüncü fıkra, konutlar hariç mutfaklar ile açık ateş kaynağı bulunan çay ocaklarını kapsayacak şekilde yazılmıştır. Bu kapsam değişikliği özellikle elektrikli, açık alev içermeyen çay hazırlama alanları bakımından önemlidir. Ancak bu ifadeler taslaktır; yürürlüğe girmiş hükümler gibi uygulanamaz. Her iki metindeki bodrum katta gaz kullanımı, ikinci çıkış ve havalandırma ile LPG/doğalgaz hükümleri, mahallin gerçek koşullarına göre ayrıca incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "eski-onlemler-hakkinda-karar-nasil-verilir",
+      "metin": "Eski önlemler hakkında karar nasıl verilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sistemin varlığı veya yokluğu tek başına nihai karar değildir. Önlemin hangi tehlikeye karşı tasarlandığı, onaylı projede nasıl gösterildiği ve kullanım değişikliğinden sonra hangi tehlikenin sürdüğü anlaşılmalıdır. Örneğin yağlı pişirme ortadan kalkmışsa davlumbaz söndürmesinin gerekçesi yeniden değerlendirilebilir; ancak bunu sadece tabela değişikliğine dayanarak iptal etmek doğru olmaz. Gazlı ocak devam ediyorsa gaz güvenliği önlemleri ayrı bir inceleme konusudur."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Sorulacak teknik soru",
+        "Kayda alınacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Faaliyet ve cihazlar",
+          "Sadece içecek mi hazırlanıyor; kızartma, ızgara, açık alev var mı?",
+          "Cihaz listesi, yerinde fotoğraf, işletme beyanı"
+        ],
+        [
+          "Yakıt ve enerji",
+          "Gaz, LPG veya elektrik kullanımı değişti mi?",
+          "Tesisat projesi, bağlantı ve cihaz bilgisi"
+        ],
+        [
+          "Havalandırma",
+          "Davlumbaz/kanal halen gerekli işlevi görüyor mu?",
+          "Mekanik proje, bakım kaydı, saha görünümü"
+        ],
+        [
+          "Yangın ayırımı",
+          "Duvar, kapı, geçiş ve şaft detayları korunmuş mu?",
+          "Mimari detay, fotoğraf, proje karşılaştırması"
+        ],
+        [
+          "Söndürme ve algılama",
+          "Mevcut sistem hangi ekipmanı/tehlikeyi koruyor?",
+          "Sistem projesi, bakım ve test belgeleri"
+        ],
+        [
+          "Bodrum ve kaçış",
+          "Gaz kullanımı ve ikinci çıkış koşulu mevcut mu?",
+          "Kat planı, kapı/çıkış güzergahı, saha tespiti"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) incelemeye yapının geçerli ruhsat ve onaylı mimari/mekanik projelerinde mahallin hangi kullanım için ayrıldığını belirleyerek başlar. Sonra işletmenin güncel faaliyetini, kullanılan cihazları ve kapasiteyi, varsa gaz tesisatını, davlumbaz ve kanal güzergahını, yangın ayırıcı yapı elemanlarını, kapıları ve kaçış bağlantılarını yerinde karşılaştırır. Bakım, test ve devreye alma kayıtlarının ilgili ekipmanla eşleşip eşleşmediğini sorgular."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözle görülebilen değişiklikler, ölçülmüş veya test edilmiş performans sonuçlarıyla karıştırılmaz. YGU, erişilebilir sahadaki bulguları ve sunulan belgeleri kaydeder; gaz tesisatının teknik uygunluk ölçümünü, mekanik sistem tasarımını veya otomatik söndürme sisteminin performans onayını kendi gözleminden üretmez. Gereken teknik doğrulama ve proje revizyonu, ilgili işin yetki ve sorumluluk çerçevesinde yürütülür. YGU açısından esas, hangi koşulun doğrulandığını ve hangisinin belgesiz kaldığını açıkça göstermektir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-gerekceli-tespit-yazimi",
+      "metin": "Örnek gerekçeli tespit yazımı"
+    },
+    {
+      "tip": "p",
+      "metin": "“M-04 olarak işaretlenen eski mutfak mahallinin işletmede çay ocağı olarak kullanıldığı görülmüştür. Mahalde elektrikli su ısıtıcısı ve gazlı ocak bulunduğu gözlenmiştir. Onaylı mekanik projede gösterilen davlumbaz ve gaz kesme düzeninin mevcut kullanım ile uyumunu açıklayan güncel proje veya test kaydı sunulmamıştır. Mahallin yangın ayırımı ve gaz kullanım koşulları yönünden geçerli proje, ilgili mevzuat ve fiili kullanım birlikte değerlendirilmelidir.” Bu ifade yalnız örnek rapor dilidir; gerçek bir incelemeye ait değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mutfaktan çay ocağına geçiş, otomatik olarak “daha düşük risk” veya “eski önlemler gereksiz” kararı verdirmez. YGU, değişen faaliyeti doğru tarif etmeli, yürürlükteki hükümleri taslaktan ayırmalı, proje ile saha arasındaki farkları somut kanıtlarla göstermeli ve kaldırılacak, korunacak ya da yeniden tasarlanacak önlemler hakkında belgesiz uygunluk hükmü kurmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

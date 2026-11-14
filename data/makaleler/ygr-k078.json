@@ -1,0 +1,170 @@
+{
+  "kod": "YGR-K078",
+  "yol": "acikta-yerustu-tanki-yer-degistirirse-mesafe-degerlendirmesi-nasil-yapilir",
+  "baslik": "Açıkta yerüstü tankı yer değiştirirse mesafe değerlendirmesi nasıl yapılır?",
+  "ozet": "Açıkta kurulu bir yanıcı sıvı tankının parsel içinde taşınması, yalnızca yeni temel ve boru bağlantısı işi değildir. Tankın parsel sınırına, trafik yoluna, idari binaya ve komşu tanklara olan mesafeleri yeniden oluşur. İlk yerleşim için düzenlenmiş bir uygunluk değerlendirmesi, yeni konumu kendiliğinden kapsamaz.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "mesafe-neden-yeniden-degerlendirilir",
+      "metin": "Mesafe neden yeniden değerlendirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin açıkta yerüstü depolamaya ilişkin 119. maddesi, tank çevresindeki koruyucu uzaklıkları Ek-12/C ile ilişkilendirir. Bu tabloda mesafeler tankın hacmine ve karşısındaki referans nesneye göre değişir. Ölçüm tank merkezinden değil, tankın dış cidarından en kısa uzaklık esas alınarak yapılır. Bu nedenle aynı tankın birkaç metre taşınması bile bir yönde emniyet payını artırırken diğer yönde azaltabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Önce tankın sabit yerüstü tankı mı, taşınabilir kap düzeni mi olduğu, depolanan sıvının niteliği ve tank hacmi doğrulanmalıdır. Ardından uygun ek tablonun ilgili satırı seçilir. Başka bir depolama düzeninin mesafe koşulu bu tanka doğrudan uygulanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "onceki-ve-yeni-yerlesimi-ayni-planda-gosterin",
+      "metin": "Önceki ve yeni yerleşimi aynı planda gösterin"
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesi, eski onaylı vaziyet planı ile revizyon önerisini aynı ölçek ve referanslarla karşılaştırarak başlar. Tank dış cidarı, parsel sınırı, ana trafik yolu veya demiryolu, tesise ait idari bina ve komşu tanklar ayrı ayrı işaretlenir. Yeni bir servis yolu veya konteyner eklendiyse bunların gerçek işlevi de kaydedilir; her iç servis yolunu otomatik olarak ana trafik yolu saymak doğru değildir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 78. Tank ile parsel sınırı arasındaki mesafe ilişkisinin temsili gösterimi. Ölçülü vaziyet planı veya uygunluk kararı yerine geçmez.",
+      "src": "/img/makale/ygr-k078-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "olcum-ve-kanit-zinciri",
+      "metin": "Ölçüm ve kanıt zinciri"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen kayıt",
+        "Aranan bilgi",
+        "Karşılaştırmada kullanımı"
+      ],
+      "satirlar": [
+        [
+          "Tank envanteri ve teknik dosya",
+          "Tank kimliği, kapasitesi, depolanan ürün, yerleşim tipi",
+          "Doğru mesafe satırını ve kontrol kapsamını belirlemek"
+        ],
+        [
+          "Onaylı vaziyet planı ve revizyon",
+          "Eski/yeni tank dış cidarı, parsel ve yapı sınırları",
+          "Yer değişikliğinin geometrik etkisini görmek"
+        ],
+        [
+          "Ölçüm krokisi ve saha fotoğrafları",
+          "Başlangıç-bitiş noktası, gerçek mesafe, tarih",
+          "Plan ve sahadaki durumun izlenebilir karşılaştırması"
+        ],
+        [
+          "İzinler ve tesisat belgeleri",
+          "Yerleşim değişikliğine ilişkin idari ve teknik işlemler",
+          "Eski onayın yeni konumu kapsayıp kapsamadığını araştırmak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sayiya-bakmadan-once-referansi-dogru-secin",
+      "metin": "Sayıya bakmadan önce referansı doğru seçin"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin 3.001–45.000 litre aralığındaki bir tank için Ek-12/C tablosunda komşu arsa sınırı ve ana trafik yolu yönünde 5 m, tesise ait idari bina yönünde 1,5 m, komşu tank yönünde 1 m değerleri yer alır. Bu değerler yalnız belirtilen hacim aralığı ve ilgili referanslar için örnektir; bütün tanklar için sabit mesafe değildir. Mesafe hesabında tankın gerçek dış cidarı ve karşı nesnenin ilgili sınırı gösterilmeden yalnız “5 m uygun” yazılması yeterli kanıt oluşturmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Birden çok tank varsa kapasite, çap ve konum bilgileri ayrı ayrı tutulur. Özellikle büyük tanklarda tanklar arası mesafe koşulu çaplarla bağlantılı olabileceğinden, bir tankın taşınması diğer tankın da uygunluk hesabını etkileyebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "mesafe-uygun-gorunse-bile-diger-tedbirler-degisebilir",
+      "metin": "Mesafe uygun görünse bile diğer tedbirler değişebilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Tankın yeni yeri havuzlama seti, sıvı toplama hattı, drenaj ayrımı, yangın müdahale erişimi ve tehlikeli bölge düzenini etkileyebilir. Havuzlama bölgesinin sınırları, set ve duvar ilişkisi, saha içi araç hareketi ve yetkisiz girişin önlenmesi ayrıca incelenir. Bu başlıklar mesafe tablosunun yerine geçmez; yer değişikliğinin birbirine bağlı sonuçlarıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelikte koruma bölgesinin daraltılmasına ilişkin özel bir düzenleme bulunsa da bu, sahada tek taraflı mesafe azaltma yetkisi vermez. Böyle bir çözümün koşulları, gerekli teknik dayanaklar ve ilgili itfaiye görüşü olmadan uygunluk kararı kurulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapı ve işletme dosyasındaki onaylı vaziyet planını, tank yerleşimine ilişkin izinleri, varsa tadilat projesini ve tank teknik belgelerini ister. Depolanan ürünün güvenlik bilgi formu ile fiili stok ve tank kimlik bilgilerini karşılaştırır. Ardından tankın yeni konumunu, çevredeki binaları, yolları ve diğer tankları yerinde gözlemler; ölçülü planla sahadaki gerçek düzen arasındaki farkları fotoğraf, kroki ve belge referanslarıyla kayda geçirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mesafe kanıtı eksikse yalnız görsel kanaatle “uygundur” demez. Eksik ölçüm, revize vaziyet planı veya teknik hesap ihtiyacını gerekçeli bulgu olarak yazar ve yetkili proje müellifi, ilgili mühendislik disiplini, ölçüm hizmeti veya idare tarafından tamamlanması gereken işlemi açıkça ayırır. YGU incelemesi, proje çizimi, mühendislik hesabı, resmi ölçüm, tesisat kabulü veya idari onay yetkisinin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-nasil-yazilir",
+      "metin": "Gerekçeli bulgu nasıl yazılır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Saha bulgusu",
+        "Gerekli doğrulama / aksiyon"
+      ],
+      "satirlar": [
+        [
+          "Tankın yeri değiştirilmiş; güncel onaylı vaziyet planı dosyada bulunamamış.",
+          "Yeni konumu ve uygulanabilir bütün mesafe referanslarını gösteren güncel plan ve ilgili onay/izin kayıtları istenmeli."
+        ],
+        [
+          "Parsel sınırına mesafe gösterilmiş; idari bina ve komşu tank mesafeleri belgelenmemiş.",
+          "Tank dış cidarından ölçüm referansları işaretli, tarihli ve ölçülü kroki ile bütün ilgili mesafeler doğrulanmalı."
+        ],
+        [
+          "Tank taşınırken havuzlama hattı ve servis erişimi de değiştirilmiş.",
+          "Havuzlama, drenaj ayrımı, koruma bölgesi ve müdahale erişimi için revize teknik belgeler ayrıca incelenmeli."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu örnek bulgular temsili inceleme dilidir; belirli bir işletmede gerçekleşmiş olay veya yapılmış saha denetimi değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Açıkta yerüstü tankı taşındığında kontrolün temel sorusu “tankın parsel sınırına uzaklığı kaç metre?” ile sınırlı değildir. Doğru tank ve ürün bilgisi, uygulanabilir mesafe tablosu, dış cidardan tanımlanmış ölçüm noktaları, bütün komşu referanslar ve güncel onaylı yerleşim belgeleri birlikte değerlendirilmelidir. Eksik kayıt varsa uygunluk hükmü yerine tamamlanması gereken kanıt açıkça raporlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

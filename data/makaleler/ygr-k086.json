@@ -1,0 +1,141 @@
+{
+  "kod": "YGR-K086",
+  "yol": "2002-ve-2007-esiklerinde-mevcut-bina-degerlendirmesi-nasil-yapilir",
+  "baslik": "2002 ve 2007 eşiklerinde mevcut bina değerlendirmesi nasıl yapılır?",
+  "ozet": "Temel yanıt. 2002 ve 2007 tarihleri aynı soruyu cevaplamaz. 2002 tarihli düzenleme, mevcut yapıda daha önce alınmış yangın tedbirlerinin hangi şartla korunabileceğiyle; 19 Aralık 2007 ise belirli projelerin mevcut yapı kapsamında değerlendirilmesine ilişkin belge eşiğiyle bağlantılıdır. Yapının yalnız yaşına bakılarak uygunluk kararı verilemez.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "iki-tarih-iki-farkli-inceleme",
+      "metin": "İki tarih, iki farklı inceleme"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, mevcut yapıları ayrı hükümler altında ele alır. Yönetmeliğin 138. maddesi, önce yapının bu kapsama girip girmediğinin, ardından hangi yangın tedbirlerinin geçerli olduğunun araştırılmasını gerektirir. Bu ayrım yapılmadan doğrudan yeni bina hükümlerinden bir liste çıkarılması da, “eski bina olduğu için yeni tedbir gerekmez” sonucuna varılması da hatalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Değerlendirme noktası",
+        "Hukuki/teknik anlamı",
+        "Aranacak somut kanıt"
+      ],
+      "satirlar": [
+        [
+          "12 Haziran 2002",
+          "2002/4390 sayılı eski yönetmeliğe uygun yangın tedbirlerinin alınmış olması, yürürlükteki metinde ilave tedbirin esasen aranmaması bakımından önem taşır.",
+          "Yalnız yapım yılı değil; o dönemde öngörülen tedbirlerin gerçekten alındığını gösteren proje, kabul, uygulama ve işletme kayıtları araştırılır."
+        ],
+        [
+          "19 Aralık 2007",
+          "Bu tarihten önce yapı ruhsatı başvuru dilekçesi eki projeleri ilgili idarece onaylanmış yapılar, yürürlükteki yönetmelik bakımından mevcut yapı kabul edilir.",
+          "İdarece onaylı proje ve onay tarihi; ruhsat başvurusu ile onay arasındaki bağ ve sonraki tadilat belgeleri birlikte incelenir."
+        ],
+        [
+          "Sonraki değişiklikler",
+          "Kullanım amacı değişikliği, özellikle belirli hassas kullanımlar veya tehlikeli madde bulundurma, uygulanacak hükümleri değiştirebilir.",
+          "İlk onaydan sonraki kullanım, faaliyet, bölümleme, kat ve tesisat değişiklikleri tarih sırasıyla ortaya konur."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-yapi-statusu-hangi-belgeyle-kurulur",
+      "metin": "Mevcut yapı statüsü hangi belgeyle kurulur?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk ruhsat tarihi, yapı kullanım izni tarihi ve fiili kullanımın başlangıcı farklı tarihler olabilir. Bunların hiçbiri tek başına, 19 Aralık 2007 öncesi onaylı proje şartının yerine geçtiği varsayımıyla kullanılamaz. İncelemenin merkezinde, ruhsat başvuru dilekçesine eklenen ve ilgili idarece onaylanan proje bulunur. Projenin tarih, sayı, onay mührü ve kapsadığı yapı bölümü okunabilir olmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Ruhsat dosyası eksikse arşiv kayıtları, idare yazışmaları, eski onaylı proje nüshaları ve yapı kullanım izni gibi destekleyici belgeler istenir. Belge bulunamadığında yapı otomatik olarak yeni veya mevcut sayılmaz; doğrulanamayan tarih ve belge bağlantısı raporda açıkça belirtilir, gerekiyorsa ilgili idarenin yazılı değerlendirmesine başvurulur."
+    },
+    {
+      "tip": "h2",
+      "id": "2002-duzenlemesine-uygunluk-nasil-ele-alinir",
+      "metin": "2002 düzenlemesine uygunluk nasıl ele alınır?"
+    },
+    {
+      "tip": "p",
+      "metin": "2002 tarihli yönetmeliğin yürürlükten kalkmış olması, yürürlükteki yönetmeliğin 138. maddesinde ona yapılan atfı ortadan kaldırmaz. Ancak bu atıf, bütün eski binalara sınırsız muafiyet sağlamaz. Eski düzenlemeye uygun yangın tedbirlerinin alındığı somut olarak gösterilebilmelidir. Örneğin yalnız “2005 yılında yapıldı” kaydı, algılama, kaçış, yangın bölmesi veya söndürme tedbirlerinin o dönemde uygun kurulduğunu kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Eski proje ve uygulama belgeleri, varsa önceki itfaiye veya idare görüşleri, sistemlerin kabul ve muayene kayıtları, sonradan yapılan tadilatlar ve mevcut saha durumu birlikte değerlendirilir. Bir sistemin geçmişte yapılmış olması ile bugün çalışır ve erişilebilir durumda olması ayrı sorulardır. Belge incelemesi, güncel bakım ve işletme kontrollerinin yerini tutmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "kullanim-degisikligi-ve-ozel-hukumler-sonucu-degistirebilir",
+      "metin": "Kullanım değişikliği ve özel hükümler sonucu değiştirebilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenleme, mevcut yapının kullanım amacı sonradan değiştiğinde bazı kullanım türleri için genel mevcut yapı yaklaşımından farklı hükümler öngörür. Sağlık ve bakım, çocukların bulunduğu belirli eğitim ve bakım kullanımları, konaklama, eğlence ve tehlikeli madde bulundurma gibi başlıklar özellikle araştırılır. Aynı binada yalnız bir bölümün kullanımı değişmişse, o bölümün değişikliğinin ortak kaçış ve ortak sistemlere etkisi de incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca belirli kullanım sınıflarına ilişkin daha sonra eklenen özel hükümler ve geçici maddeler bulunabilir. Bu nedenle eski proje tarihinden hareketle “hiçbir ilave tedbir istenemez” şeklinde genel bir sonuç kurulamaz. İnceleme, somut kullanım sınıfı, faaliyet ve ilgili hükmün kapsamıyla sınırlandırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce işletmeden ilk ruhsat dosyasını, onaylı mimari ve yangın güvenliği projelerini, yapı kullanım iznini ve varsa tadilat projelerini ister. Belgelerdeki tarihler, onay makamı ve kapsanan bağımsız bölümler kronolojik olarak eşleştirilir. Ardından mahallerin bugünkü işlevi, kullanıcı profili, üretim veya depolama faaliyeti ve işletme koşulları yerinde gözlemlenir. Projedeki kullanım ile fiili kullanım uyuşmuyorsa farkın yeri, kapsamı ve dayanağı ayrı bir tespit olarak yazılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha turunda kaçış güzergahları, yangın bölmeleri, kapılar, algılama ve söndürme sistemlerinin proje üzerinde gösterilen yerleriyle mevcut konumları karşılaştırılır; erişilebilirlik ve gözle görülebilen durum kayıt altına alınır. Teknik test, performans ölçümü veya mühendislik hesabı gerektiren konularda yetkili kişi veya kuruluşların raporları istenir. YGU, başka disiplinlere ait ölçüm, tasarım, proje onayı veya idari karar yetkisini üstlenmez; eksik kanıtı uygunluk varsayımına dönüştürmeden gerekçeli raporlar."
+    },
+    {
+      "tip": "h2",
+      "id": "raporun-karar-dili",
+      "metin": "Raporun karar dili"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç üç ayrı cümleyle kurulmalıdır: (1) Yapının mevcut yapı statüsünü destekleyen belgeler ve doğrulanamayan hususlar, (2) 2002 tarihli düzenlemeye uygun alındığı belgelenebilen yangın tedbirleri, (3) bugünkü kullanım ve değişiklikler nedeniyle ayrıca incelenmesi gereken tedbirler. “Uygundur” veya “uygun değildir” sonucu, hangi proje, hangi mahal, hangi hüküm ve hangi teknik kanıta dayandığı açıklanmadan yazılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Hazırlanmakta olan yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağı, mevcut yapı incelemesinde 2007 tarihli yönetmeliğe uygun tedbirlerin yeterli kabul edildiği yapılar için farklı bir geçiş yaklaşımı önermektedir. Bu yaklaşım, yürürlükteki 138. maddenin 2002 tarihli düzenlemeye yaptığı atıfla aynı değildir. Taslakta önerilen ilave şartlar bugünkü yürürlükteki zorunluluk gibi uygulanamaz; ancak mevzuat değişikliği halinde yeniden değerlendirilmesi gereken bir başlık olarak izlenebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "2002, alınmış yangın tedbirlerinin eski düzenlemeye uygunluğuna; 2007 ise belirli proje onaylarının mevcut yapı statüsüne etkisine işaret eder. Sağlam değerlendirme, takvimden önce belgeyi, belgeden sonra fiili kullanımı, ardından uygulanabilir yangın güvenliği hükümlerini okur. Eksik tarih veya eksik proje varsa bunu gizlemek yerine kararın sınırı olarak kayda geçirmek gerekir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

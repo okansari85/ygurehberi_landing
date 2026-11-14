@@ -1,0 +1,165 @@
+{
+  "kod": "YGR-K096",
+  "yol": "tarihi-yapida-yangin-guvenligi-calismasi-hangi-belgeyle-baslar",
+  "baslik": "Tarihi yapıda yangın güvenliği çalışması hangi belgeyle başlar?",
+  "ozet": "Temel cevap  Çalışma, yapının korunması gerekli kültür varlığı olarak tescilli olup olmadığını gösteren resmi kayıt ve koruma kurulu kararlarıyla başlar. Ardından onaylı müdahale projeleri, yapı ve kullanım belgeleri, yangın projeleri ve gerçek işletme koşulları birlikte incelenir. Yalnızca binanın eski görünmesi veya bir yangın projesinin bulunması, uygulanacak yöntemi belirlemeye yetmez.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-ilk-soru-yapinin-koruma-statusu-nedir",
+      "metin": "1. İlk soru: Yapının koruma statüsü nedir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Tarihi yapı kavramı gündelik dilde eski binalar için kullanılabilir; ancak Binaların Yangından Korunması Hakkında Yönetmelik bakımından belirleyici olan, 2863 sayılı Kanun kapsamında korunması gerekli kültür varlığı olarak tescildir. Bu nedenle ilk dosyada, yapıyı tanımlayan ada-parsel bilgisiyle eşleşen tescil kararı, varsa yapı grubu ve koruma bölge kurulunun sonraki kararları aranır. Tapu kaydı, envanter bilgisi ve ilgili idarenin yazışmaları da kayıtların aynı taşınmaza ait olduğunu doğrulamaya yardımcı olur."
+    },
+    {
+      "tip": "p",
+      "metin": "Tescil kararının bulunamaması, yapının koruma statüsünün bulunmadığını kendiliğinden kanıtlamaz. Dosyada belirsizlik varsa ilgili koruma kurulu veya yetkili idareden yazılı teyit istenir; koruma statüsü varsayımla belirlenmez. Aynı şekilde tescil kararı, yangın tedbirlerinin kendiliğinden yeterli olduğunu da göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-koruma-karari-onayli-proje-ve-kullanim-belgesi-birbirinin-yerine-gecmez",
+      "metin": "2. Koruma kararı, onaylı proje ve kullanım belgesi birbirinin yerine geçmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Koruma kurulu kararı, yapının hangi tarihi ve mimari özelliklerinin korunacağını ve izin verilen müdahaleleri anlamaya yarar. Onaylı rölöve mevcut durumu, restitüsyon geçmiş duruma ilişkin bilimsel öneriyi, restorasyon projesi ise onaylanan müdahale yaklaşımını ortaya koyar. Yangın tahliye, algılama ve söndürme projeleri bu çerçeveyle uyumlu olmalıdır. Bunların hiçbiri tek başına mevcut işletmenin yangın güvenliği uygunluk belgesi sayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yapı ruhsatı, yapı kullanma izni, işyeri açma ve çalışma ruhsatı veya kullanım değişikliğine ilişkin izinler, dosyada varsa tarihleri ve kapsamlarıyla incelenir. Örneğin geçmişte depo olarak kullanılan tescilli bir yapının bugün halka açık etkinlik mekanı olarak işletilmesi, yalnızca restorasyonun tamamlanmış olmasıyla açıklanamaz. Fiili kullanımın hangi idari izin ve onaylı projeye dayandığı ayrıca gösterilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "3-inceleme-dosyasinda-hangi-belge-hangi-soruyu-yanitlar",
+      "metin": "3. İnceleme dosyasında hangi belge hangi soruyu yanıtlar?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge veya kayıt",
+        "Yanıtladığı soru",
+        "YGU incelemesindeki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Tescil ve koruma kurulu kararları",
+          "Yapı hangi koruma statüsünde; hangi müdahaleler karara bağlanmış?",
+          "Ada-parsel, karar tarihi ve müdahale kapsamını eşleştirir."
+        ],
+        [
+          "Onaylı rölöve ve restorasyon dosyası",
+          "Hangi mimari elemanlar korunacak; hangi değişiklikler onaylı?",
+          "Kaçış güzergahı, kapılar, merdivenler ve tesisat geçişlerini projeyle karşılaştırır."
+        ],
+        [
+          "Ruhsat, kullanım ve faaliyet belgeleri",
+          "Yapının hangi amaçla kullanılmasına izin verilmiş?",
+          "İzinli kullanım ile fiili kullanım ve kullanıcı yoğunluğu arasındaki farkı belirler."
+        ],
+        [
+          "Yangın tahliye, algılama ve söndürme projeleri",
+          "Hangi yangın tedbirleri tasarlanmış ve hangi görüşler alınmış?",
+          "Projede öngörülen sistem ve mahalleri saha gözlemiyle karşılaştırır."
+        ],
+        [
+          "Test, devreye alma ve bakım raporları",
+          "Sistemlerin mevcut durumuna ilişkin hangi teknik kanıt var?",
+          "Belgenin tarihini, kapsamını ve ilgili sistemle eşleşmesini kontrol eder."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "4-yururlukteki-hukumler-ve-yeni-taslak-nasil-ayrilir",
+      "metin": "4. Yürürlükteki hükümler ve yeni taslak nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, tarihi yapının tanımını 167/A maddesinde; yangın tedbirlerinde koruma kurulu görüşü, yapıya zarar vermeyen proje yaklaşımı ve ilgili itfaiye görüşünü 167/B maddesinde; tarihi yapılara özgü uygulama hükümlerini 167/C maddesinde düzenler. Bu hükümler, her tarihi binaya standart bir yeni bina çözümünün doğrudan kopyalanamayacağını gösterir. Ancak tarihi yapı statüsü, yangın güvenliği gerekliliklerinden genel bir muafiyet değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağında ise 2 nci maddede tarihi yapılara ilişkin yangın tedbirlerinin, yapının özelliklerine göre Kültür ve Turizm Bakanlığınca belirlenebileceği öngörülmektedir. Taslağın geçici düzenlemesi de ilgili Bakanlık mevzuatı hazırlanırken uygulanacak geçiş yaklaşımını ayrıca tarif eder. Bunlar henüz taslak önerilerdir; mevcut 167/A–167/C hükümlerinin yürürlükten kalktığı veya yeni bir muafiyet doğduğu biçiminde kullanılamaz. Yayım ve yürürlük gerçekleşirse yeniden karşılaştırma yapılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu, tarihi yapı hükümlerini uygulama bağlamında açıklayan yardımcı kaynaktır. Kılavuzdaki açıklama, yürürlükteki yönetmelik hükmü ve koruma mevzuatı yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "5-saha-incelemesinde-asil-fark-nerede-ortaya-cikar",
+      "metin": "5. Saha incelemesinde asıl fark nerede ortaya çıkar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Dosya tamamlandıktan sonra merdiven, kapı, koridor, döşeme ve ahşap taşıyıcı elemanların mevcut durumu; yangın algılama ve söndürme tesisatının konumu; elektrik tesisatı güzergahları; yangın yükünü artıran yeni kullanım ve depolama biçimleri incelenir. Örneğin korunması gereken özgün bir kapı nedeniyle kaçış yönünde müdahale öneriliyorsa yalnızca kapının mevcut hali değil, koruma kararı, onaylı müdahale detayı, kullanım kapasitesi ve alternatif çözümün teknik gerekçesi birlikte ele alınmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel incelemede tespit edilen her fark, mümkünse mahal adı, kat, proje revizyonu, fotoğraf ve ilgili belgeyle ilişkilendirilir. Bir koridorun sahada mobilyayla daraltılması ile onaylı projede hiç bulunmayan yeni bir geçiş açılması aynı tür uygunsuzluk değildir; biri işletme düzeniyle, diğeri proje ve koruma izniyle bağlantılı olabilir. Bu ayrım raporda korunmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "6. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle tescil ve kurul kararlarının hangi yapı bölümünü kapsadığını, onaylı proje takımının güncel olup olmadığını ve izinli kullanım ile gerçek faaliyetin örtüşüp örtüşmediğini belirler. Ardından tahliye güzergahları, merdivenler, kapılar, algılama ve söndürme sistemleri gibi yangın tedbirlerini proje üzerinden izleyerek sahadaki varlığını ve görünür durumunu kaydeder. Test, bakım ve devreye alma belgelerinin sistem ve tarihle uyumunu kontrol eder; eksik kanıtı teknik uygunluk olarak yorumlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin tescilli bir yapıda sonradan açılmış kapı görülürse YGU, kapının yangın güvenliği bakımından etkisini ve onaylı restorasyon projesinde bulunup bulunmadığını kayıt altına alır. Kapının tarihi yapıya uygunluğunu kendi başına onaylamaz; koruma kurulu kararı gerektiren hususu yetkili mercie yönlendirir. Aynı şekilde yangın algılama sisteminin elektriksel testini, merdivenin taşıyıcı hesaplarını veya tesisatın mühendislik tasarımını kendi gözlemsel raporuyla ikame etmez. İlgili disiplinlerin imzalı ölçüm, tasarım, test ve onay belgelerini talep eder."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU yönetmelik taslağında öngörülen belge hazırlığı, proje–saha karşılaştırması, gözlemsel tespit ve gerekçeli raporlama yaklaşımı burada yöntem olarak kullanılmıştır. Bu mesleki görev çerçevesi taslak niteliğindedir; henüz kesinleşmemiş bir yetkiyi doğmuş gibi göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "7-dosya-eksikse-karar-nasil-yazilir",
+      "metin": "7. Dosya eksikse karar nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Tescil kararı, kurul onayı veya onaylı yangın projesi bulunamıyorsa raporda hangi belgenin aranıp elde edilemediği açıkça yazılır. “Yapı uygundur” ya da “yapıya müdahale edilemez” şeklinde belgesiz kesin sonuç yerine, doğrulanmış gözlem ile doğrulanamayan idari ve teknik hususlar ayrı gösterilir. Eksik belge, uygunluk varsayımı değil, değerlendirme sınırıdır. Gerektiğinde yetkili idarenin yazılı görüşü ve ilgili meslek disiplininin teknik raporu istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Tarihi yapıda yangın güvenliği incelemesinin başlangıç noktası, yalnızca yangın sistemi çizimi değil, yapının tescil ve koruma kararlarıdır. Bu kararlar onaylı müdahale dosyası, izinli kullanım ve yangın projeleriyle eşleştirildiğinde hem tarihi değere zarar vermeyen hem de gerçek kullanımın yangın riskini görünür kılan bir inceleme yapılabilir. Yangın Güvenlik Uzmanının katkısı, belgeyi sahayla buluşturan ve belirsizliği gerekçeli biçimde raporlayan bu izlenebilirliktir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Kültür ve Tabiat Varlıklarını Koruma Kanunu"
+    },
+    {
+      "metin": "Taşınmaz Kültür Varlıklarının Gruplandırılması, Bakım ve Onarımlarına İlişkin İlke Kararı"
+    }
+  ],
+  "sonNotlar": []
+}

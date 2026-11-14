@@ -1,0 +1,124 @@
+{
+  "kod": "YGR-K174",
+  "yol": "lpg-depolamasinda-havalandirma-delikleri-hangi-projeyle-izlenir",
+  "baslik": "LPG Depolamasında Havalandırma Delikleri Hangi Projeyle İzlenir?",
+  "ozet": "Yangın Güvenlik Uzmanlığı (YGU) bakımından LPG tüp deposundaki havalandırma açıklıklarının incelenmesi, yalnızca duvarda menfez bulunup bulunmadığının sayılması değildir. Deponun hangi amaçla projelendirildiği, tüplerin nerede ve nasıl tutulduğu, açıklıkların dış ortama bağlantısı ve işletmede sonradan yapılan değişiklikler birlikte değerlendirilir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "hangi-belgeler-birlikte-okunmali",
+      "metin": "Hangi belgeler birlikte okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk başvuru, tesisin onaylı mimari projesi ve LPG depolama alanını tanımlayan ruhsat veya izin belgeleridir. Bunlara, mevcutsa mekanik havalandırma projesi, uygulama detayları, tesis yerleşim planı, tehlikeli madde envanteri ve ilgili güvenlik bilgi formları eşlik eder. Bir çizimde menfezin gösterilmesi, sahadaki açıklığın halen aynı boyutta, aynı konumda ve aynı işlevde bulunduğunu tek başına kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Projede yalnızca genel bir depo yazıyorsa LPG tüplerinin bu mahalde depolanmasına ilişkin onaylı kullanımın ayrıca araştırılması gerekir. Sonradan oluşturulmuş bir tüp depolama bölümü, yalnızca işletme içi yerleşim krokisiyle onaylı proje değişikliği yapılmış gibi kabul edilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "acikligin-konumu-neden-belirleyicidir",
+      "metin": "Açıklığın konumu neden belirleyicidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG buharı havadan ağır olduğundan sızıntı halinde alçak kotlarda birikme eğilimi gösterebilir. Bu nedenle döşeme seviyesine yakın havalandırma açıklıklarının varlığı, dışarıya doğrudan ve engelsiz hava geçişi sağlayıp sağlamadığı ve tüp istifinin bu açıklıkları kapatıp kapatmadığı önemli inceleme konularıdır. Üst kotta bir pencerenin bulunması, alt kotta ihtiyaç duyulan hava hareketinin gerçekleştiğini tek başına göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapalı bir menfez kapağı, sonradan örülen bölme duvarı, önüne yerleştirilen palet veya dış cephede yapılan kaplama, ilk uygulamada mevcut olan hava yolunu değiştirebilir. Ayrıca dış taraftaki bir çukur, bodrum açıklığı veya başka bir kapalı hacme yönelen hava yolu, güvenli dış ortam bağlantısı açısından ayrı değerlendirme gerektirir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-saha-nasil-karsilastirilir",
+      "metin": "Proje ile saha nasıl karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Karşılaştırmada önce depolama sınırları ve kapılar plan üzerinde işaretlenir. Ardından menfezlerin konumu, açıklıkların fiili durumu, istifin yüksekliği ve depo çevresindeki yeni yapı elemanları gözlenir. Ölçülmüş bir hava debisi bulunmadığı halde yalnızca görsel incelemeye dayanarak havalandırmanın yeterli olduğu sonucuna varılmaz. Debi, patlayıcı ortam değerlendirmesi veya teknik tasarım hesabı gerekiyorsa bunlar yetkili ilgili uzmanlık tarafından ele alınır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Belge karşılığı",
+        "Saha kanıtı"
+      ],
+      "satirlar": [
+        [
+          "Depo sınırı ve kullanım",
+          "Onaylı proje, izin ve yerleşim planı",
+          "Mahalin güncel kullanımı ve tüp yerleşimi"
+        ],
+        [
+          "Alt kot açıklıkları",
+          "Mimari/mekanik proje ve detay",
+          "Menfez konumu, engel ve kapatma durumu"
+        ],
+        [
+          "Dış ortam bağlantısı",
+          "Cephe ve havalandırma detayları",
+          "Çıkışın ulaştığı gerçek ortam"
+        ],
+        [
+          "Sonradan değişiklik",
+          "Revizyon projesi ve işletme kayıtları",
+          "Bölme duvarı, kaplama ve istif değişikliği"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), onaylı proje ve izinlerde tanımlanan depolama işlevini işletmenin gerçek faaliyetleriyle karşılaştırır; tüp sayısı ve yerleşiminin değişip değişmediğini envanter ve saha gözlemleriyle kaydeder. Menfez kapatılmışsa yalnızca “havalandırma yetersiz” gibi genel bir ifade kullanmak yerine, hangi açıklığın hangi malzemeyle kapandığını, projede nerede gösterildiğini ve hava yolunun nasıl değiştiğini fotoğraf ve krokiyle somutlaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, bu gözlemden hareketle projenin güncellenmesi veya yetkili teknik inceleme gerekip gerekmediğini gerekçeli raporda belirtir. Havalandırma hesabı yapmak, patlayıcı ortam sınıflandırmasını onaylamak, mekanik sistem tasarlamak veya resmi proje onayı vermek gibi başka uzmanlık ve idarelere ait yetkileri kendiliğinden üstlenmez. Eksik belge varsa “uygun” kararı üretmek yerine doğrulanamayan noktayı açıkça yazar."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ile-taslak-ayrimi",
+      "metin": "Yürürlükteki düzenleme ile taslak ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG tüplerinin depolanmasına ilişkin teknik koşullar değerlendirilirken yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik esas alınır. Değişiklik taslağında LPG depolama alanlarının havalandırmasına yönelik öneriler bulunması, bu önerilerin yayımlanmadan yürürlükte olduğu anlamına gelmez. Taslaktaki açıklık ve menfez yaklaşımı ancak ayrı bir düzenleme önerisi olarak ele alınabilir; bu makalede taslak kaynaklı sayısal bir zorunluluk ileri sürülmemektedir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG deposundaki havalandırma deliklerinin izlenmesi için tek başına mimari çizim veya tek başına bakım formu yeterli değildir. Onaylı kullanım, proje detayı, işletmenin tüp envanteri ve güncel saha koşulları birlikte ele alındığında kapatılan veya işlevini kaybeden açıklıklar görünür hale gelir. Gözlemsel tespit ile hesap ve onay gerektiren teknik kararların ayrılması, hem güvenilir raporlama hem de görev sınırının korunması açısından esastır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

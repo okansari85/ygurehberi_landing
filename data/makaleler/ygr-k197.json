@@ -1,0 +1,139 @@
+{
+  "kod": "YGR-K197",
+  "yol": "ygu-yapi-elemanlarinin-yangin-dayanimini-ek-3-tablolariyla-nasil-degerlendirir",
+  "baslik": "YGU yapı elemanlarının yangın dayanımını Ek-3 tablolarıyla nasıl değerlendirir?",
+  "ozet": "Projelerde “yangına 60 dakika dayanıklı” notuna sık rastlanır. Fakat bu süre hangi yapı elemanına ait, hangi özelliğin korunmasını istiyor ve hangi kullanım sınıfı için seçildi? Bir kolon, kompartıman döşemesi ve kaçış koridorunu ayıran duvar aynı sürede değerlendirilse bile aynı dayanım sembolüyle ifade edilmeyebilir. Yangın güvenlik uzmanı (YGU), proje üzerindeki süreyi tek başına doğru kabul etmek yerine o süreye hangi tablo satırından ulaşıldığını araştırır.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bir-sayi-yazmak-yangin-dayanimini-belirlemek-degildir",
+      "metin": "Bir sayı yazmak, yangın dayanımını belirlemek değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 29 uncu maddesinin yedinci fıkrası, Ek-3/A, Ek-3/B ve Ek-3/C tablolarının işlevini açıklar. Ek-3/A performans sembollerini, Ek-3/B yapı elemanı türüne göre dayanım gereğini, Ek-3/C ise kullanım sınıflarına göre süreleri gösterir. Tablolar ayrı alternatifler değil, ilgili eleman için birlikte ve dipnotlarıyla okunan kaynaklardır. Sonucun, ürün veya yapı sistemine ilişkin geçerli teknik kanıtla desteklenmesi gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "ek-3-a-ek-3-b-ve-ek-3-c-hangi-soruyu-cevaplar",
+      "metin": "Ek-3/A, Ek-3/B ve Ek-3/C hangi soruyu cevaplar?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "EK",
+        "TEMEL SORU",
+        "PROJEDE İZLENECEK KARŞILIK"
+      ],
+      "satirlar": [
+        [
+          "Ek-3/A",
+          "Hangi performans aranıyor?",
+          "R: yük taşıma kapasitesi; E: bütünlük; I: yalıtım. R 90 ile REI 90 aynı teknik beyan değildir."
+        ],
+        [
+          "Ek-3/B",
+          "Hangi yapı elemanı inceleniyor?",
+          "Kolon, yük taşıyan duvar, döşeme, kompartıman duvarı veya şaftın ilgili satırı seçilir; gerektiğinde Ek-3/C’ye yönlendirme izlenir."
+        ],
+        [
+          "Ek-3/C",
+          "Bina için süre hangi satırdan geliyor?",
+          "Kullanım sınıfı, bodrum derinliği, bina yüksekliği ve tabloda yer verilen yağmurlama koşulu birlikte belirlenir."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Burada iki ayrı değerlendirme karıştırılmamalıdır: Yapı malzemesinin yangına tepki sınıfı, elemanın yangına dayanım süresinin yerine geçmez. Yanmaz malzeme kullanılması, ilgili duvarın veya döşemenin istenen R, E ve I özelliklerini belirli süre boyunca sağladığını tek başına kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "tablolarin-okunma-sirasi",
+      "metin": "Tabloların okunma sırası"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk aşamada yapı ruhsatı, kullanım amacı, onaylı mimari proje ve varsa kullanım değişikliği tespit edilir. Birden fazla kullanım türü bulunan yapılarda elemanın hangi bölümün sınırını oluşturduğu belirlenir. Daha sonra kolon, kiriş, taşıyıcı duvar, döşeme veya kompartıman duvarı gibi elemanın işlevi ve bulunduğu kat seçilir. Ek-3/B’deki satır incelenir; süre için Ek-3/C’ye gönderme varsa ilgili bina kullanım sınıfının bodrum veya üst kat sütununa geçilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ek-3/C’de bodrum derinliği ve bina yüksekliğine göre farklı sütunlar bulunur. Bazı satırlarda yağmurlama sistemi olup olmaması da sonucu değiştirir. Bu nedenle binanın toplam yüksekliği yerine yalnız bir katın yüksekliğini almak, zemin katın üzerindeki döşemeyle bodrum üstü döşemeyi karıştırmak veya projede bulunmayan yağmurlamayı var saymak yanlış süre seçimine yol açar. Tablolardaki dipnotlar da ana satır kadar önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Son aşamada yalnız dakika sayısı değil, gerekli dayanım sınıfı yazılır. Örneğin yük taşıma işlevi aranan elemanda R; ayırıcı işlevi bulunan ve yalıtım da istenen elemanda E ve I değerlendirilir. Uygulanacak sınıf, seçilen elemanın tasarımına ve yürürlükteki mevzuatın ilgili hükmüne göre belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-konaklama-binasinda-bodrum-ustu-doseme",
+      "metin": "Örnek: konaklama binasında bodrum üstü döşeme"
+    },
+    {
+      "tip": "p",
+      "metin": "İki bodrum katı bulunan bir konaklama yapısında bodrum üstü döşemenin proje üzerinde “90 dakika” diye işaretlendiğini düşünelim. Önce yapının ruhsat ve onaylı projesinden kullanım sınıfı, bodrum katların derinliği ve yağmurlama sistemi durumu belirlenir. Sonra Ek-3/B’de bodrum kat ile zemin kat arasındaki döşemeye ait satır ile Ek-3/C’de bu yapıya karşılık gelen süre birlikte okunur. Gerekli sınıfın yalnız “90” biçiminde yazılması, yük taşıma ve ayırıcı özelliklerin nasıl karşılandığını açıklamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Önemli ayrım: “Bodrum kat ile zemin kat arası döşeme için REI 90 veya Ek-3/C’deki süre (hangisi daha büyükse)” kuralı yalnız taslakta yer almamaktadır; yürürlükteki BYKHY Ek-3/B, 3(d) satırında da bulunmaktadır. Bu nedenle mevcut projede en az REI 90 koşulu ile Ek-3/C’de seçilen daha yüksek süre birlikte değerlendirilir. Projede “90 dakika” yazması, gerekli REI sınıfının ve birleşim/uygulama detaylarının doğrulandığını tek başına göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-sahadaki-uygulama-ayni-elemani-tanimlamali",
+      "metin": "Belge ile sahadaki uygulama aynı elemanı tanımlamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Seçilen yangın dayanımının doğrulanması için onaylı taşıyıcı sistem ve mimari detaylar, yangın kompartımanı çizimleri, ürün veya sistem sınıflandırma raporları, uygulama detayları ve varsa kabul kayıtları birlikte incelenir. Çelik elemanda kullanılan koruyucu boyanın beyan edilen kalınlığı ile sahadaki uygulaması; betonarmede eleman kesiti ve donatı örtüsü; yangın duvarında birleşimler, geçişler ve boşluklar aynı inceleme dosyasında ilişkilendirilir. Tek bir boya katalog sayfası veya genel malzeme sertifikası, bütün yapı elemanının dayanımını tek başına ispatlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Belgenin bulunmaması ile elemanın kesin olarak yetersiz olması farklı tespitlerdir. YGU belge eksikliğini açıkça yazar; yangın dayanımının uzman hesabı, test sınıflandırması veya yetkili proje sorumlusu incelemesi gerektirdiği durumları ayrı kaydeder. Yapısal mühendislik hesabını veya resmi onay sürecini kendi saha gözlemiyle ikame etmez."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-degisiklikler-neden-ayrica-isaretlenmeli",
+      "metin": "Taslak değişiklikler neden ayrıca işaretlenmeli?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 23/2, taşıyıcı sistemin tahliye veya söndürme sürecinde yeterli süre stabil kalacak şekilde hesaplanmasını öngörür. Taslak Madde 23/2 ise bu süreyi doğrudan Ek-3/B’deki sürelerle ilişkilendirir (TASLAK). Taslakta iki katlı belirli çelik yapılarla ilgili ifadeler de değişmektedir (TASLAK). Ancak yürürlükteki Ek-3/B’nin zaten içerdiği REI 90 hükmü “yeni taslak zorunluluğu” şeklinde aktarılamaz. İhtilaf halinde doğru sütun ve dipnot, ilgili yapıya uygulanabilir yürürlükteki hüküm üzerinden seçilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU görev eşleştirmesinde bu başlık için doğrudan bir EK-6 kontrol bendi belirlenmemiştir. Bu nedenle Ek-3 tablosu incelemesi, yayımlanmamış EK-6 formu kapsamında bağımsız ve kesin bir kontrol kalemi olarak sunulmaz; proje, belge ve saha karşılaştırmasının teknik destek çalışması olarak kayıt altına alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "denetim-sonucunun-yazimi",
+      "metin": "Denetim sonucunun yazımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Sağlam sonuç cümlesi, incelenen yapıyı ve elemanı, Ek-3/B satırını, Ek-3/C kullanım sınıfı ile sütununu, seçilen performans sınıfını, bunun hangi projede gösterildiğini ve hangi belgeyle desteklendiğini birlikte anlatır. Eksik olan halka varsa açıkça belirtilir. Böylece “uygun” veya “uygun değil” ifadesi, yalnız bir dakika değerine değil, geriye dönük izlenebilen teknik gerekçeye dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik — Madde 23/2, 24/1, 26/1, 29/7; Ek-3/A, Ek-3/B [özellikle 3(d)], Ek-3/C (yürürlükte)."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu — Madde 23, 24, 26, 29 ve Ek-3 tabloları."
+    },
+    {
+      "metin": "BYKHY Değişiklik Taslağı — Madde 23/2 ve Ek-3 tabloları (TASLAK; yürürlükteki hükümlerin yerine geçmez)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası — Makale 197 konu ve belge eşleştirmesi."
+    },
+    {
+      "metin": "YGU ve Periyodik Kontrol Usul ve Esasları Yönetmelik Taslağı ile EK-6 formu (TASLAK; bu konuda doğrudan özel bent atanmamıştır)."
+    }
+  ],
+  "sonNotlar": []
+}

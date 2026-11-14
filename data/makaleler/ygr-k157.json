@@ -1,0 +1,147 @@
+{
+  "kod": "YGR-K157",
+  "yol": "mutfak-egzozu-ile-yangin-duman-tahliyesi-ayni-sistem-midir",
+  "baslik": "Mutfak Egzozu ile Yangın Duman Tahliyesi Aynı Sistem midir?",
+  "ozet": "Otel, restoran veya endüstriyel mutfakta davlumbaz fanının çalışması, o mahalin yangın sırasında dumanının güvenli biçimde tahliye edildiğini göstermez. Pişirme sırasında oluşan yağ buharı, koku ve sıcak havayı uzaklaştıran mutfak egzozu ile yangın senaryosuna göre tasarlanmış mekanik duman kontrolünün amaçları, tasarım koşulları ve işletme davranışı farklıdır. Yangın Güvenlik Uzmanı (YGU) açısından temel soru, “kanal var mı?” değil, “bu kanal hangi işlev için projelendirilmiş ve hangi kanıtla doğrulanmış?” sorusudur.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "iki-sistemi-ayiran-teknik-islev",
+      "metin": "İki sistemi ayıran teknik işlev"
+    },
+    {
+      "tip": "p",
+      "metin": "Mutfak egzozu, davlumbazdan başlayan ve pişirme işleminden kaynaklanan kirli havayı dış ortama taşıyan işletme havalandırmasıdır. Yağlı buharın kanalda birikebilmesi, kanalın temizliği, yağ tutucu düzeni, fanın bakım koşulları ve komşu hacimlerle ilişkisi bu sistemin yangın güvenliği bakımından önemlidir. Ancak davlumbazdan dışarıya hava akışı olması, fanın yangına dayanımının, yangın senaryosundaki çalışma komutunun veya bir duman bölgesinin güvenli tutulduğunun kanıtı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Duman kontrolü ise yangın halinde dumanın yapı içinde hareketini sınırlamak veya tasarımda belirlenmiş güzergahla dışarı atılmasını sağlamak için planlanır. Gerektiğinde duman bölmeleri, tahliye ağızları, fanlar, besleme yolları, otomatik kumandalar ve yedek enerji ilişkileri birlikte çalışır. Bina genelindeki iklimlendirme ve havalandırma tesisatının duman kontrolü amacıyla kullanılması mümkün olmakla birlikte, bu durumda mekanik duman kontrolüne ilişkin tüm uygulanabilir koşulları karşılaması gerekir. Normal mutfak egzozunu bu gerekçe olmadan duman tahliye sistemi olarak adlandırmak doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-hangi-ayrimi-kuruyor",
+      "metin": "Yürürlükteki düzenleme hangi ayrımı kuruyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 88/2, otel, restoran, kafeterya ve benzeri mutfakların pişirme alanlarında mekanik egzoz sistemini ayrıca düzenler. Sistem, binanın diğer bölümlerine hizmet veren tesisatlardan bağımsız olmalı; egzoz doğrudan dışarıya atılmalı ve dışarı atış noktası hava giriş açıklıklarından en az 5 m uzakta bulunmalıdır. Kanalın korunmamış yanabilir malzemelerden en az 50 cm açıktan geçmesi; mutfak dışındaki kanal kesimlerinin uygun yangın dayanımıyla korunması ve tuğla şaft içindeyse diğer servislerden ayrılması da bu hükmün parçalarıdır. Yönetmelik bu mutfak egzoz kanallarına yangın damperi konulamayacağını açıkça belirtir."
+    },
+    {
+      "tip": "p",
+      "metin": "Buna karşılık Madde 87, normal havalandırma sisteminin duman kontrolünde kullanılabilmesinin koşullarını açıklar. Yangın kompartımanı geçişleri, kanal düzeni, gerekli damper veya diğer yangın geçiş önlemleri ve yangın senaryosu bu başlık altında incelenir. Buradaki genel havalandırma hükümlerinin mutfak egzozuna ilişkin özel “yangın damperi konulamaz” hükmünü ortadan kaldırdığı varsayılamaz. Her kanalın işlevi ve geçerli özel hükmü ayrı belirlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-anindaki-calisma-davranisi-projeden-okunmali",
+      "metin": "Yangın anındaki çalışma davranışı projeden okunmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir mutfak yangınında davlumbaz söndürme sistemi, yakıt veya enerji kesme işlevleri, egzoz ve taze hava fanlarının davranışı birbirine bağlı olabilir. Ancak hangi cihazın duracağı veya çalışmaya devam edeceği, yalnız fanın tipine bakılarak belirlenemez. Onaylı mekanik tesisat projesi, mutfak söndürme projesi, elektrik otomasyon şeması ve yangın senaryosu birlikte okunmalıdır. Özellikle sonradan değiştirilen fan, motor, kanal güzergahı veya pişirme ekipmanı, önceki tasarım koşullarının aynen sürdüğü varsayımını geçersiz kılabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Duman tahliyesine ilişkin ayrı bir sistem gösteriliyorsa YGU, tahliye edilen dumanın hangi bölgeden alındığını, fanın hangi panodan beslendiğini, hangi alarm komutuyla çalıştığını ve çıkışın nereye verildiğini belgelerden izler. Bu ilişki kurulamıyorsa “mutfak egzozu var” kaydı, duman kontrolünün uygunluğu için yeterli bir sonuç değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-iki-tesisati-birbirine-karistirmamak-icin",
+      "metin": "Sahada iki tesisatı birbirine karıştırmamak için"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme başlığı",
+        "Mutfak egzozu için aranacak kanıt",
+        "Yangın duman kontrolü için aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "İşlev ve kapsam",
+          "Davlumbaz, pişirme ekipmanı ve egzoz projesi",
+          "Yangın senaryosu, hizmet verilen duman bölgesi"
+        ],
+        [
+          "Kanal güzergahı",
+          "Bağımsız hat, şaft koruması ve dış atış detayı",
+          "Duman alma noktası, şaft ve kompartıman ilişkisi"
+        ],
+        [
+          "Fan ve kumanda",
+          "Davlumbaz fanı, bakım ve söndürme etkileşimi",
+          "Yangın kontrol komutu, fan durumu ve geri bildirim"
+        ],
+        [
+          "Geçiş ve damper",
+          "Mutfak egzozuna yangın damperi konulmaması",
+          "İlgili duman kontrol tasarımına özgü geçiş çözümü"
+        ],
+        [
+          "Doğrulama",
+          "As-built çizim, temizlik ve bakım kayıtları",
+          "Devreye alma, senaryo ve işlevsel test raporları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) önce mevcut yapının gerçek mutfak kullanımını, onaylı mimari ve mekanik projelerini, davlumbaz/kanal yerleşimlerini, yangın söndürme düzenini ve varsa ayrı duman kontrol projesini inceler. Mutfak fanının etiketini, kanal güzergahını, şaft geçişlerini ve dış atış konumunu proje revizyonlarıyla eşleştirir. Bakım ve temizlik kayıtlarında kanalın hangi bölümünün, ne zaman ve kim tarafından kontrol edildiğini sorgular. Kanala erişilemeyen kesitlerde gözlemin sınırını açıkça not eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada normal havalandırma anahtarıyla egzoz fanının çalıştığı görülebilir; bu gözlem, fanın yangın alarmında ne yapacağını veya duman kontrolü performansını doğrulamaz. İşlevsel test yapılmışsa yetkili teknik personelin test tutanağında senaryo girişi, fan/kapak tepkisi, panel geri bildirimi ve ilgili otomasyon bağlantıları aranır. YGU, mesleki inceleme ve gerekçeli raporlamasını yürütür; mekanik sistemleri yeniden tasarlamış, hava debisi ölçmüş ya da yetkili idare adına onay vermiş gibi ifade kullanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-bir-bulgu-nasil-yazilir",
+      "metin": "Örnek bir bulgu nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "“Zemin kat mutfağındaki pişirme davlumbazına bağlı egzoz hattının dışarıya çıktığı görülmüştür. İşletme tarafından bu hattın yangın duman tahliyesini de sağladığı bildirilmiş; ancak bu işlevi gösteren onaylı duman kontrol projesi, yangın senaryosu ve işlevsel test kaydı sunulmamıştır. Mutfak egzozunun konumu ve bağlantıları ayrıca mekanik tesisat projesiyle eşleştirilmek üzere kayıt altına alınmıştır. Duman kontrolü işlevi mevcut kanıtlarla doğrulanamamıştır.” Bu yalnız anlatımı göstermek için hazırlanmış kurgusal bir rapor örneğidir, gerçek saha tespiti değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslagi-ile-karsilastirma",
+      "metin": "Değişiklik TASLAĞI ile karşılaştırma"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA mutfak pişirme alanlarının mekanik egzozuna ilişkin temel koşullar Madde 89/2 altında yer alır. Yürürlükteki metinde bu hükümler Madde 88/2 içindedir. Genel havalandırmanın duman kontrolünde kullanılmasıyla ilgili düzenleme de yürürlükteki Madde 87 yerine taslak Madde 88’de düzenlenmiştir (TASLAK). Sadece madde numarası farklı diye taslak hüküm yürürlükte kabul edilmemeli; proje ve saha değerlendirmesinde yürürlükteki hükümler esas alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mutfak egzozu ile yangın duman tahliyesi aynı adla anılabilecek iki eşdeğer işlev değildir. Birincisi pişirme faaliyetinin havalandırılmasıyla ilgilidir; ikincisi yangın senaryosuna göre tasarlanmış duman kontrolünün bir parçasıdır. YGU incelemesinde, kanalın yalnız varlığını değil amacını, bağımsızlığını, yangın ayırıcı geçişlerini, ilgili kontrol komutlarını ve doğrulama kayıtlarını proje–saha zincirinde ayrı ayrı göstermek gerekir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

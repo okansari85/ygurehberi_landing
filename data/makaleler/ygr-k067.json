@@ -1,0 +1,173 @@
+{
+  "kod": "YGR-K067",
+  "yol": "sprinkler-basliginin-altinda-yeni-engel-varsa-neye-bakilir",
+  "baslik": "Sprinkler başlığının altında yeni engel varsa neye bakılır?",
+  "ozet": "Bir yağmurlama başlığının yerinde ve sağlam olması, altındaki hacmin tasarlandığı gibi korunduğunu tek başına göstermez. Sonradan yerleştirilen makine kabini, raf, kanal veya yatay platform suyun hedeflenen alana ulaşmasını etkileyebilir. Bu durumda ilk iş başlığı değiştirmek değil, yeni engelin konumunu ve tasarıma etkisini kanıtlarla ortaya koymaktır.",
+  "etiketler": [
+    "Sprinkler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorun-baslik-arizasi-degil-su-dagiliminin-degismesi-olabilir",
+      "metin": "Sorun başlık arızası değil, su dağılımının değişmesi olabilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Otomatik yağmurlama sistemi, yangın sırasında tasarım alanına öngörülen miktarda suyun verilmesi için tasarlanır. Başlığın altına sonradan giren bir nesne suyun dağılımını gölgeleyebilir; buna karşılık her raf veya kablo tavası aynı sonucu doğurmaz. Nesnenin genişliği, düşey konumu, başlığa göre yatay mesafesi, kalıcı olup olmadığı ve komşu başlıkların yerleşimi birlikte ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin üretim hattına eklenen yüksek bir makine kabini, daha önce açık olan bir alanın üzerinde yeni bir yatay yüzey oluşturabilir. Bu yüzeyin üstünde ve yanlarında korunması gereken bölgeler bulunup bulunmadığı yalnız plan görünüşünden anlaşılamaz. Kesit, saha ölçüleri ve başlık ürün bilgisi birlikte gereklidir. Başlığın rastgele kaydırılması başka bir alanda koruma boşluğu yaratabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-ve-tasarim-olcutu-nasil-okunmali",
+      "metin": "Mevzuat ve tasarım ölçütü nasıl okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 96. maddesi, yağmurlama sistemi tasarımının TS EN 12845’e göre yapılmasını ve başlık yerleşiminde kullanım alanının tehlike sınıfı ile başlığın koruma alanının dikkate alınmasını öngörür. Bakanlık Kılavuzundaki yerleşim çizimleri bu ilişkiyi anlamaya yardımcı olur; ancak belirli bir raf, makine veya kanal için tek başına engel uygunluğu kararı vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağında aynı konu 98. maddede ele alınmakta ve tasarım için “ilgili standart” ifadesi kullanılmaktadır. Bu metin taslak niteliğindedir; yürürlükteki yönetmeliğin yerine uygulanmaz. Sahadaki somut engel değerlendirmesinde geçerli proje, uygulanmış tasarım standardının ilgili hükümleri ve ürünün belgelendirilmiş montaj şartları birlikte incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-makine-kabini-orneginde-hangi-bilgi-eksik",
+      "metin": "Yeni makine kabini örneğinde hangi bilgi eksik?"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki çizim, yeni bir kabinin mevcut başlık altında yer aldığı temsili durumu gösterir. Kesikli çizgiler suyun gerçek dağılımını veya uygunluk sınırını hesaplamaz; yalnızca engel incelemesinin neden gerekli olduğunu anlatır."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 67. Mevcut başlık ile yeni kabin arasındaki ilişkinin temsili gösterimi. Özgün taslak çizimi korunmuştur.",
+      "src": "/img/makale/ygr-k067-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi",
+        "Karar için tamamlanacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Onaylı yağmurlama planı",
+          "Başlıklar önceki açık yerleşime göre gösterilmiş.",
+          "Yeni kabinin plan ve kesitte ölçülü konumu; güncel uygulama planı."
+        ],
+        [
+          "Yerinde gözlem",
+          "Başlığın altında yeni bir yatay yüzey görülüyor.",
+          "Başlık tipi, kabin boyutları, başlık-kabin ilişkisi ve yakın başlıklar."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "engelin-turu-cozumu-degistirir",
+      "metin": "Engelin türü çözümü değiştirir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yüksek istif, kapalı makine kabini, geniş havalandırma kanalı ve geçici bakım platformu aynı geometrik engel değildir. Raf düzeni veya depolama yüksekliği değişmişse korunacak tehlikenin niteliği de yeniden incelenebilir. Sabit bir kabin ile geçici olarak bırakılan malzeme için alınacak işletme önlemi ve tasarım değerlendirmesi farklı olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha krokisinde nesnenin kenarları, üst kotu, başlıkla yatay ve düşey ilişkisi, yakın başlıklar ve tavan düzeni işaretlenmelidir. Yalnız fotoğrafla yapılan kayıt, ölçek ve konum bilgisi bulunmadığında teknik kararı desteklemekte yetersiz kalabilir. Belirsiz kalan ölçü veya ürün özelliği, kesin uygunluk kararı verilerek kapatılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı söndürme projesini, varsa tadilat ve yapı kullanma izin belgelerini, sistemin uygulama sonu planlarını ve bakım-kontrol kayıtlarını belirleyerek başlar. Ardından mahallin fiili kullanımını, makinenin işlevini, istif düzenini ve sonradan yapılan yerleşim değişikliklerini projedeki durumla karşılaştırır. Projede görünmeyen kabin veya kanalın yeri, fotoğraf ve ölçülü krokiyle kayıt altına alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemede başlığın fiziksel durumu, engelle arasındaki ilişki ve çevredeki başlıkların konumu gözlemsel olarak belirlenir. Başlık tipini ve montaj sınırlarını gösteren ürün belgesi, geçerli tasarım kriteri, önceki revizyonlar ve varsa teknik değerlendirme raporu istenir. YGU, bu belgeler olmadan başlığın yeterli koruma sağladığını varsaymaz; eksik veriyi ve olası etkiyi gerekçesiyle raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Engelin giderilmesi, başlığın yerinin değiştirilmesi veya ilave başlık gerekip gerekmediği yetkili tesisat tasarımcısının teknik değerlendirmesiyle belirlenir. Hidrolik hesap, mühendislik tasarımı, sistem performans ölçümü, kabul testi ve proje onayı ilgili yetkili kişi ve kuruluşların sorumluluğundadır. YGU’nun gözlemsel incelemesi bu işlemlerin yerine geçmez. Gerekli revizyon yapıldıysa güncellenmiş proje, uygulama kaydı ve uygun test belgeleri üzerinden sonuç yeniden değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-incelemesinde-karar-izi",
+      "metin": "Belge incelemesinde karar izi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Aranacak bilgi",
+        "Karara katkısı"
+      ],
+      "satirlar": [
+        [
+          "Başlık ürün belgesi",
+          "Başlık tipi, yerleşim ve montaj sınırları",
+          "Hangi teknik koşulların uygulanacağını belirler."
+        ],
+        [
+          "Uygulama sonu plan ve kesit",
+          "Başlık, tavan, kabin ve yakın tesisat geometrisi",
+          "Yeni engeli proje ile karşılaştırmayı sağlar."
+        ],
+        [
+          "Güncel mahal / makine yerleşimi",
+          "Kabin ölçüleri, istif ve faaliyet değişikliği",
+          "Engelin sürekliliğini ve korunacak alanı gösterir."
+        ],
+        [
+          "Yetkili teknik değerlendirme ve revizyon",
+          "Tasarım kararı, gerekiyorsa hesap ve test kaydı",
+          "Bulgunun hangi kanıtla kapatılacağını gösterir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-nasil-yazilir",
+      "metin": "Gerekçeli bulgu nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "“Üretim alanında mevcut yağmurlama başlığının altına sonradan yerleştirilen makine kabini görülmüştür. Kabinin ölçülü yerleşimi ve başlık ürün bilgisi, onaylı söndürme projesiyle birlikte sunulmadığından su dağılımına etkisi bu incelemede kesinleştirilememiştir. Yetkili teknik değerlendirme ve gerekiyorsa proje revizyonu ile uygulama kayıtları istenmelidir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni bir engel görüldüğünde doğru soru “Başlık çalışıyor mu?” ile sınırlı değildir. Asıl soru, tasarlanmış korumanın değişen mahal düzeninde devam edip etmediğidir. Bunun yanıtı ölçülü yerleşim, ürün verisi, geçerli tasarım ölçütü ve yetkili teknik incelemenin birlikte değerlendirilmesiyle verilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

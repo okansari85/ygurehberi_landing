@@ -1,0 +1,153 @@
+{
+  "kod": "YGR-K169",
+  "yol": "sonduruculer-var-fakat-yerleri-degismisse-ne-dogrulanmali",
+  "baslik": "Söndürücüler var fakat yerleri değişmişse ne doğrulanmalı?",
+  "ozet": "Bir işyerinde tüm taşınabilir yangın söndürücülerin sayımı yapılmış, bakım etiketleri de güncel görünüyor olabilir. Ancak taşınma, tadilat veya yeni raf yerleşimi sonrasında cihazların bir bölümü eski yerlerinden alınarak depoya konmuşsa yalnız envanter sayısına bakarak güvenli bir sonuç çıkarılamaz. Yangın Güvenlik Uzmanı (YGU) için asıl soru, cihazların bugün nerede durduğu, hangi mahallerin riskini karşıladığı ve ihtiyaç anında kullanılabilir olup olmadığıdır.",
+  "etiketler": [
+    "Söndürme Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "cihazin-binada-bulunmasi-dogru-yerde-bulunmasi-degildir",
+      "metin": "Cihazın binada bulunması, doğru yerde bulunması değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Söndürücünün varlığı ile erişilebilirliği ayrı kayıtlardır. Örneğin giriş kapısının yanından alınan bir cihaz, koridordaki kilitli temizlik odasına taşındığında envanterde hala görünebilir. Buna karşılık yangın anında o cihaza ulaşmak mümkün olmayabilir. Benzer şekilde üretim alanına uygun söndürme maddesine sahip bir cihazın yalnız idari bölümde bulunması, üretim hattının korunmasına ilişkin kararı tek başına karşılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemesinde önce mahallerin gerçek kullanımı belirlenir. Depoda yanıcı ambalaj miktarı artmış mı, elektrik panoları başka bir yere alınmış mı, yeni bir geçiş kapısı açılmış mı, koridor raflarla daraltılmış mı? Bu değişiklikler yalnız cihazların yerini değil, risk türünü ve cihaz seçiminin dayanağını da etkileyebilir. Cihaz sayısının yeterli görünmesi böyle bir değişimi ortadan kaldırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-mevzuat-ile-taslak-karistirilmamali",
+      "metin": "Yürürlükteki mevzuat ile TASLAK karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 99, taşınabilir söndürme cihazlarının tip ve sayısını mahallerin riskleriyle ilişkilendirir. Aynı maddede cihazların görülebilecek, dengeli dağıtılmış ve kolay erişilebilecek konumlarda bulunması; kapı arkası, uygun olmayan kapalı dolaplar, derin duvar girintileri ve ısıtıcı yakınları gibi yerleşim sorunlarından kaçınılması düzenlenir. Yürürlükteki Madde 99/4, cihazlara ulaşma mesafesi için 25 m üst sınırını içerir. Bu mesafenin sağlandığı yalnız plandaki cihaz sembollerinden değil, gerçek ulaşım düzeni üzerinden doğrulanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞININ 101. maddesi ise seçim, yerleşim ve sayı için ilgili standarda daha geniş atıf yapar; mevcut yönetmelikteki 25 m ifadesini aynı biçimde tekrarlamaz. Ancak bu taslak henüz yürürlükteki yükümlülüğü değiştirmez. Mevcut yapı ile yeni yapı, uygulanabilir mevzuat dönemi ve onaylı proje birlikte değerlendirilmeden taslaktaki farklı ifade mevcut düzenleme gibi kullanılamaz. Her iki metindeki bakım, uygun sabitleme ve kullanıcının cihaza erişimi konuları da ayrı önem taşır."
+    },
+    {
+      "tip": "h2",
+      "id": "inceleme-uc-ayri-kaydi-birbiriyle-karsilastirir",
+      "metin": "İnceleme, üç ayrı kaydı birbiriyle karşılaştırır"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kayıt onaylı yangın güvenliği veya söndürme yerleşim projesi ile varsa işletme yerleşim planıdır. İkinci kayıt cihaz envanteridir: cihaz kodu, söndürme maddesi, kapasitesi, bulunduğu mahal ve bakım bilgisi. Üçüncü kayıt ise sahadaki fiili durumdur. Bir cihazın eski envanter numarası yeni bir yere taşınmışsa yalnız cihaz numarası değil, eski noktanın nasıl korunduğu da kontrol edilmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol odağı",
+        "Bakılacak belge",
+        "Sahada doğrulanacak durum"
+      ],
+      "satirlar": [
+        [
+          "Konum / dağılım",
+          "Onaylı yerleşim paftası, revizyon listesi",
+          "Cihazın fiili yeri, eski yerin boş kalıp kalmadığı, farklı mahallerdeki dağılım"
+        ],
+        [
+          "Erişim",
+          "Kat planı ve işletme düzeni",
+          "Kilitli kapı, istif, raf, turnike, yeni bölme veya geçiş engeli"
+        ],
+        [
+          "Cihaz tipi",
+          "Risk değerlendirmesi, cihaz etiketi, envanter",
+          "Mahalin güncel yangın riskiyle cihaz söndürme maddesinin uyumu"
+        ],
+        [
+          "Görünürlük / sabitleme",
+          "İşaretleme ve montaj detayı",
+          "Cihazın bulunabilirliği, yer işaretinin gerçek konumu göstermesi, güvenli alınabilmesi"
+        ],
+        [
+          "Bakım sürekliliği",
+          "Bakım etiketi, servis ve değişim kayıtları",
+          "Bakım için alınan cihaz yerine uygun geçici cihaz bırakılıp bırakılmadığı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "isletmede-tasinma-sonrasinda-hangi-bulgular-one-cikar",
+      "metin": "İşletmede taşınma sonrasında hangi bulgular öne çıkar?"
+    },
+    {
+      "tip": "h3",
+      "metin": "Cihazlar depoda toplandıysa"
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı katta beş cihazın bir odada saklanması, kat geneline dengeli dağıtım yapıldığı anlamına gelmez. Cihazlar kolay alınabilir durumda olsa bile korunan alanların fiili yerleşimi ve erişim yolu yeniden incelenmelidir. Cihazların yalnız bakım amaçlı geçici olarak depolandığı söyleniyorsa servis teslim kaydı ve yerlerine bırakılan cihazlar kontrol edilir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Kapı, raf ve tezgahın yeri değiştiyse"
+    },
+    {
+      "tip": "p",
+      "metin": "Daha önce açık olan bir erişim güzergahı yeni bölmeyle uzayabilir; cihazı örten bir raf, işaretlemenin görüş hattını bozabilir. Cihazın dolap içine konulması da her zaman uygun sayılmaz: yangın dolabı içine yerleştirme ile rastgele kilitli bir saklama dolabına koyma aynı durum değildir. Fotoğraf, mahal adı, erişim engelinin tarifi ve mevcut plan üzerine işaretleme bulguyu somutlaştırır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Risk de yer değiştirdiyse"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce küçük bir arşiv olarak kullanılan bölümün elektrikli şarj veya bakım alanına dönüşmesi, mevcut söndürücü tipinin yeterliliğini yeniden gündeme getirir. YGU, uygun söndürme maddesini yalnız cihaz gövdesindeki yazıya bakarak nihai olarak belirlediğini ileri sürmez; mahalin fiili kullanımını, risk değerlendirmesini ve yetkili teknik inceleme kaydını birlikte ister."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce projedeki cihaz noktalarını yerinde kod bazında kontrol eder, mevcut konumu listeye işler ve kayıp, taşınmış veya erişimi kısıtlanmış cihazları ayrı kaydeder. Ardından değişen kullanım alanları için risk değerlendirmesinin ve cihaz seçimi kararının yenilenip yenilenmediğini araştırır. Onaylı proje, envanter ve servis raporlarının farklı tarihli olması halinde en yeni kaydın neden esas alındığı açıklığa kavuşturulur."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle erişim mesafesi tartışmalıysa YGU, fiili geçiş güzergahını ve engelleri tarif ederek ilgili mevzuat ve proje ölçütlerinin yetkili teknik personelce doğrulanmasını ister; periyodik kontrol formunun gözlemsel yaklaşımını aşan bir mesafe ölçümünü veya projelendirme onayını yapmış gibi rapor düzenlemez. Güncel olmayan krokiden kesin uygunluk sonucu çıkarılmaz. Düzeltme sonrası cihazın yeni konumu ve koruduğu mahal, revize envanter ve gerektiğinde güncellenen proje ile kayıt altına alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal rapor örneği: “A Blok zemin katta önceki yerleşim planında K-04 koridorunda gösterilen YS-07 kodlu söndürücü, saha incelemesinde kapalı depoda görülmüştür. Koridorda aynı görev için bırakılmış cihaz gösterilememiş; koridor erişim düzeni ve güncel söndürücü yerleşim listesi sunulmamıştır. Proje–saha uyumu, erişim ve ilgili risk alanının korunması doğrulanamadığından uygun yerleşimin ve güncel kayıtların sağlanması istenmiştir.” Bu ifade gerçek bir tesise ait değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Taşınabilir söndürücülerin kontrolünde “kaç cihaz var?” sorusu başlangıçtır, sonuç değildir. Doğru değerlendirme; her cihazın güncel riskle ilişkisini, dağılımını, kullanıcı tarafından bulunabilirliğini, erişim engellerini ve bakım sürekliliğini aynı kayıt üzerinden takip eder. Taşınma sonrasında yapılan en doğru işlem, cihazı gelişigüzel bir duvara geri asmak değil, koruma ihtiyacını ve onaylı yerleşimle uyumunu belgeleyerek yeni durumu doğrulamaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

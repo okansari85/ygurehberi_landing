@@ -1,0 +1,161 @@
+{
+  "kod": "YGR-K066",
+  "yol": "yagmurlama-koruma-alaninin-proje-sinirlari-gercek-mahal-bolumleriyle-nasil-karsilastirilir",
+  "baslik": "Yağmurlama koruma alanının proje sınırları gerçek mahal bölümleriyle nasıl karşılaştırılır?",
+  "ozet": "Onaylı yağmurlama projesinde tek bir depo olarak gösterilen alan, işletme sırasında bölme duvarlarla ayrıldığında ilk soru başlık sayısının değişip değişmediği değildir. Önce yeni mahallerin, mevcut başlık yerleşimi ve tasarım kabulleriyle hala örtüşüp örtüşmediği anlaşılmalıdır.",
+  "etiketler": [
+    "Sprinkler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "projedeki-koruma-siniri-ile-sahadaki-mahal-siniri-ayni-sey-midir",
+      "metin": "Projedeki koruma sınırı ile sahadaki mahal sınırı aynı şey midir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari mahal sınırı duvar, kapı ve tavan düzeniyle tanımlanır. Yağmurlama sisteminin koruma düzeni ise başlık tipi, başlık aralıkları, tavan geometrisi, kullanımın tehlike sınıfı, boru beslemesi ve hidrolik tasarım koşullarıyla birlikte değerlendirilir. Bu nedenle mimari planda çizilen her yeni duvarın otomatik olarak yeni bir sprinkler zonu oluşturduğu söylenemez. Ancak duvarın su dağılımını veya korunacak hacmin özelliklerini değiştirmesi, tasarımın yeniden incelenmesini gerektirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yağmurlama başlıklarının yerleşiminde kullanım alanının tehlike sınıfı ve başlığın koruma alanının dikkate alınmasını; tasarımın TS EN 12845 esaslarıyla yapılmasını öngörür. Bakanlık Kılavuzu da bu ilişkiyi uygulama örnekleriyle açıklar. Yalnız başlık adedine bakılarak uygunluk kararı verilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bolme-sonrasinda-ne-degismis-olabilir",
+      "metin": "Yeni bölme sonrasında ne değişmiş olabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Depo içinde paketleme veya kalite kontrol için yeni bir oda ayrıldığını düşünelim. Duvar tavana kadar yükseliyorsa bir başlık yeni odanın dışında kalabilir; duvar tavana ulaşmıyorsa engel ve su dağılımı ilişkisi yine kontrol edilmelidir. Yeni asma tavan, yükseltilen raflar, hava kanalları ve tesisat geçişleri de aynı plan üzerinde gösterilmelidir. Başlığın yerinde durması, yeni düzenin uygun olduğunu tek başına kanıtlamaz."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 66. Projede tek mahal olan alanın sahada bölünmesi (özgün temsili çizim). Başlık yerleşimi ve teknik uygunluk bu şemadan belirlenemez.",
+      "src": "/img/makale/ygr-k066-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-bilgi-ile-karar-icin-gereken-kaniti-ayirmak",
+      "metin": "Mevcut bilgi ile karar için gereken kanıtı ayırmak"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi",
+        "Karar için eksik kanıt"
+      ],
+      "satirlar": [
+        [
+          "Yağmurlama projesi",
+          "Tek geniş depo mahali gösteriyor",
+          "Yeni bölmelerle başlıkların, hatların ve varsa zon sınırlarının çakıştırılması"
+        ],
+        [
+          "Saha düzeni",
+          "Yeni bölme veya kullanım değişikliği var",
+          "Duvar üst kotu, tavan boşluğu, raf ve engellerin yerinde kaydı"
+        ],
+        [
+          "İşletme verisi",
+          "Yeni mahal adı biliniyor",
+          "Gerçek faaliyet, stok türü ve depolama yüksekliği"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasi-nasil-yurutulur",
+      "metin": "Belge ve saha karşılaştırması nasıl yürütülür?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk adım, onaylı mimari proje ile yangın söndürme uygulama projesinin aynı yapı ve revizyonu gösterdiğini doğrulamaktır. Ardından sahada görülen bölme duvarlar, tavan kotları, başlıklar ve boru güzergahı güncel plan üzerine işlenir. Yangın zonu, mahal sınırı ve hidrolik tasarım alanı kavramları birbirine karıştırılmadan karşılaştırma yapılır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Aranacak bilgi",
+        "İnceleme amacı"
+      ],
+      "satirlar": [
+        [
+          "Onaylı söndürme projesi",
+          "Başlık tipi ve konumu, boru hatları, vanalar, tasarım notları",
+          "Başlangıç tasarımını belirlemek"
+        ],
+        [
+          "Güncel mimari plan ve kesit",
+          "Bölmeler, kapılar, tavan ve üst boşluklar",
+          "Yeni mahal geometrisini göstermek"
+        ],
+        [
+          "Saha fotoğrafı ve gözlem",
+          "Başlıkların fiili yeri, engeller, yeni raflar",
+          "Proje ile uygulama farkını belgelemek"
+        ],
+        [
+          "İşletme ve depolama bilgisi",
+          "Faaliyet, malzeme, istif düzeni",
+          "Tehlike koşullarında değişiklik olup olmadığını araştırmak"
+        ],
+        [
+          "Yetkili teknik inceleme / test raporu",
+          "Revizyon gerekliliği, hesap ve test sonucu",
+          "Teknik uygunluk kararının dayanağını görmek"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izni, onaylı mimari ve mekanik projeler ile varsa tadilat belgelerini karşılaştırarak başlar. İşletmenin güncel mahal listesi ve depolama düzenini yerinde görür. Bölme duvarın konumunu, tavana ulaşıp ulaşmadığını, başlıkların hangi hacimde kaldığını ve görünür engelleri fotoğraf ve plan işaretleriyle kayıt altına alır. İlgili bakım ve yetkili test raporlarını da dosyada arar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözlemlediği proje–saha farkını ve eksik kanıtı gerekçesiyle raporlar. Başlık sayısının yeterliliği, hidrolik hesap, tasarım revizyonu, sistem performans ölçümü veya proje onayı gerektiren hususlarda ilgili yetkili tasarımcı ve teknik uzmanların değerlendirmesini ister; bunların yerine geçerek hesap, ölçüm veya onay işlemi yapmış gibi sonuç yazmaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Örnek raporlama dili"
+    },
+    {
+      "tip": "p",
+      "metin": "“Onaylı yağmurlama yerleşiminde tek depo mahali olarak gösterilen bölümün sahada yeni duvarla ayrıldığı görülmüştür. Güncel mimari düzen ile başlık konumlarını ve tasarım kabullerini birlikte gösteren onaylı revizyon ve teknik değerlendirme sunulmadığından yeni mahallerin yağmurlama koruması bakımından uygunluğu mevcut belgelerle doğrulanamamıştır. Başlık yerleşiminin yeterliliği yetkili tasarım incelemesiyle değerlendirilmelidir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yağmurlama sisteminde kontrol edilecek şey yalnız başlıkların varlığı değildir; tasarlanan korumanın güncel mahal geometrisi ve işletme koşullarıyla uyumudur. Yeni duvar, tavan veya kullanım değişikliği görüldüğünde önce belge ve saha farkı somutlaştırılmalı, ardından gerekli teknik değerlendirme yetkili tarafça yapılmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

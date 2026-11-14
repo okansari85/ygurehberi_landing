@@ -1,0 +1,136 @@
+{
+  "kod": "YGR-K188",
+  "yol": "mevcut-binalarda-yangin-dolabi-zorunlulugu-nasil-kontrol-edilir",
+  "baslik": "Mevcut binalarda yangın dolabı zorunluluğu nasıl kontrol edilir?",
+  "ozet": "Eski bir binanın koridorunda yangın dolabı bulunmaması, tek başına yönetmeliğe aykırılık sonucuna götürmez; aynı şekilde birkaç dolabın bulunması da tesisatın yeterli olduğu anlamına gelmez. Yangın güvenlik uzmanı (YGU), önce yapının hangi mevzuat dönemine ve hangi mevcut bina hükümlerine tabi olduğunu belirlemeli, sonra zorunluluk kararını kullanım, alan, yükseklik ve kazan dairesi gibi somut bilgilerle ilişkilendirmelidir. Kontrolün son aşaması, varsa dolapların onaylı projedeki yer ve sayıları ile sahadaki erişilebilirliğini, fiziksel durumunu ve güncel muayene kayıtlarını eşleştirmektir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ilk-soru-yapi-gercekten-hangi-hukme-tabi",
+      "metin": "İlk soru: Yapı gerçekten hangi hükme tabi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut bina kabulü, yalnız binanın yaşına bakılarak yapılmaz. Yapı ruhsatı başvuru tarihi, onaylı projeler, yapı kullanma izin belgesi, sonradan verilen tadilat ruhsatları ve fiili kullanım birlikte incelenir. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 138, mevcut yapılarda uygulama kapsamını ve kullanım değişiklikleriyle ilgili ayrımları düzenler. Özellikle ilk onay tarihi ve daha sonra kullanım amacı değişip değişmediği, yangın dolabı kararına doğrudan etki edebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin ruhsatındaki depo, bugün konaklama veya sağlık amacıyla kullanılıyorsa ilk yapı tarihine dayanılarak eski bina istisnası uygulamak doğru değildir. İlgili değişiklik ve proje tadilatının hangi hükümlere tabi olduğu dosyadan araştırılmalıdır. Onaylı projeye erişilemiyorsa “zorunluluk yoktur” yazmak yerine hangi resmi kayıtların eksik olduğu gösterilir; idare arşivi ve yapı dosyası üzerinden izleme yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-mevcut-bina-hukmu-ile-genel-hukum-ayrilmali",
+      "metin": "Yürürlükteki mevcut bina hükmü ile genel hüküm ayrılmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 164/1, mevcut binalarda sabit boru tesisatı ve yangın dolapları için Madde 94 hükümlerini, Madde 164/2’deki özel düzenlemeyi de dikkate alarak uygular. Madde 164/2’de yüksek binalar, belirli kullanım türlerinde toplam kapalı kullanım alanı 2.000 m²’den büyük yapılar, eğitim binaları, kapalı otoparklar bakımından 1.000 m² alan eşiği ve kazan daireleri bakımından 500 kW ısıl kapasite eşiği yer alır. Bu düzenleme, yeni yapılar için kullanılan Madde 94/1-b-1’deki eşiklerle aynı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 94/1-b-1’de, belirtilen kullanım türlerinde 1.000 m² toplam kapalı kullanım alanı, kapalı otoparklarda 600 m² ve kazan dairelerinde 350 kW eşikleri bulunur. Mevcut yapıda Madde 164/2’nin özel düzenlemesini göz ardı edip genel maddede geçen daha düşük bir değeri otomatik uygulamak yanlış bir zorunluluk tespitine yol açabilir. Buna karşılık mevcut bina hükmünün uygulanması, Madde 94’ün uygun tesisat, yerleşim ve kullanım koşullarının inceleme dışında kalması demek değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yürürlüğe girmemiş BYKHY değişiklik taslağında sabit boru tesisatı ve yangın dolapları Madde 96’da düzenlenmiştir (TASLAK). Taslak Madde 96/1-b-1; yüksek binaları, yapı inşaat alanı 1.000 m²’den büyük konut harici binaları, alanı 300 m²’den büyük kapalı veya katlı açık otoparkları ve net alanı 100 m²’nin üzerindeki kazan dairelerini sayar (TASLAK). Bu eşikler yürürlükteki mevcut bina hükümlerinin yerine geçmiş gibi rapora yazılamaz. Taslak Madde 139’un mevcut bina, kullanım değişikliği ve esaslı tadilat hükümleri de ayrı değerlendirilmelidir (TASLAK)."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karar başlığı",
+        "İncelenecek kayıt",
+        "Kararda kaçınılacak hata"
+      ],
+      "satirlar": [
+        [
+          "Mevcut bina statüsü",
+          "Ruhsat/onay tarihi, proje, kullanım değişikliği",
+          "Yalnız bina yaşından hüküm seçmek"
+        ],
+        [
+          "Zorunluluk eşiği",
+          "Kullanım türü, alan, yükseklik, kazan gücü",
+          "Yeni yapı ve mevcut bina eşiklerini karıştırmak"
+        ],
+        [
+          "Dolap yerleşimi",
+          "Onaylı mekanik proje, kat planı, mahal listesi",
+          "Dolap sayısını konumundan bağımsız saymak"
+        ],
+        [
+          "İşlerlik ve kayıt",
+          "Fiziki kontrol, muayene/bakım belgeleri",
+          "Dolap varlığını işlevsel uygunluk saymak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sayi-ile-yerlesim-ayri-sorulardir",
+      "metin": "Sayı ile yerleşim ayrı sorulardır"
+    },
+    {
+      "tip": "p",
+      "metin": "Dolap zorunluluğu belirlendikten sonra onaylı mekanik yangın söndürme projesiyle kat planları karşılaştırılır. Yürürlükteki BYKHY Madde 94/1-b-2, yangın dolaplarının her katta ve yangın duvarlarıyla ayrılan her bölümde, aralarındaki uzaklık 30 m’yi aşmayacak şekilde düzenlenmesini esas alır. Yağmurlama sistemiyle korunan ve katlara itfaiye su alma ağzı bırakılan binalarda belirtilen koşullarla mesafenin 45 m’ye çıkarılabilmesi ayrı bir uygulamadır. Sadece plan üzerinde iki dolap işareti bulunması, aradaki koridorların veya yangınla ayrılmış bölümlerin gerçekten kapsandığını kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Mahal bölünmeleri, yeni raflar, kilitli kapılar, taşınmış dolaplar ve farklı katlara aktarılan kullanımlar kontrol alanını değiştirebilir. Projede bulunan ama sahada kaldırılmış bir dolap ile sahada bulunan ancak projede izlenemeyen dolap aynı şekilde kaydedilmez: ilki proje–saha farkı, ikincisi ise teknik doküman ve onay gerektirebilecek ilave uygulamadır. Ulaşılabilirlik, kapak açılma yönü ve dolabın hortum kullanımını engelleyen malzemelerle kapatılıp kapatılmadığı ayrıca gözlemlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemeyi üç kayıtla başlatır: yapının güncel kullanımı, yetkili idarece onaylanmış proje ve mevcut bina statüsünü belirlemeye yarayan tarihler. Daha sonra kat bazında alan, yangınla ayrılmış bölümler, varsa kapalı otopark ve kazan dairesi özellikleri işlenir. Her dolap için kat, mahal, dolap numarası, proje koordinatı, mevcut konum ve ulaşım engeli ayrı satırda kaydedilir. Bu yöntem tek bir “yangın dolabı var/yok” sorusunun saklayacağı farklı sorunları görünür kılar."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha turunda dolap gövdesi, kapak, hortum, bağlantılar ve kaçak veya hasar belirtileri gözlemsel olarak incelenir. Su akışı veya basınç konusunda yapılmış test ve periyodik muayene belgeleriyle yetkili kontrolün sonucu ayrıca istenir; gözlemsel inceleme, ölçümlü teknik muayene yerine geçmez. Taslak EK-6/A formunda ön şartlar 4/ç satırı, yangın dolabı sistemi için güncel uygun muayene belgesinin incelenmesini öngörür (TASLAK). Formun kendisi henüz taslak olduğundan yürürlükteki zorunlu kontrol belgesiymiş gibi gösterilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Belgesiz bir dolap için otomatik “çalışmıyor”, görünürde sağlam bir dolap için de otomatik “uygun” yazılmaz. Eksik muayene raporu, teknik denetim ihtiyacı olarak; hortum yırtığı, erişim engeli veya projede öngörülmüş dolabın sökülmesi ise somut saha bulgusu olarak sınıflandırılır. Sorumlu kişi, giderim tarihi, tekrar kontrol ve kapanış kanıtı ayrı tutulur. Özellikle kullanımı değişen binalarda nihai hüküm seçimi ile tesisatın teknik yeterliliği birbirine karıştırılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-eski-bir-uretim-binasina-eklenen-depo-alani",
+      "metin": "Örnek: eski bir üretim binasına eklenen depo alanı"
+    },
+    {
+      "tip": "p",
+      "metin": "Eski bir üretim binasının bir katı sonradan depoya çevrilmiş ve koridorda iki yangın dolabı bırakılmış olsun. İlk kontrol, yalnız dolapların çalışıp çalışmadığı değildir. Depo dönüşümünün onaylı projeye işlenip işlenmediği, toplam kapalı kullanım alanının hangi tarihte nasıl değiştiği ve yapının mevcut bina koşullarının korunup korunmadığı araştırılır. Ardından dolapların yeni bölme duvarları arkasında kalıp kalmadığı, aralarındaki mesafe, kapak erişimi ve muayene raporları incelenir. Gerekli resmi proje ve belge olmadan “iki dolap yeterli” ya da “kesinlikle yeni dolap zorunlu” gibi sonuçlar kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalarda yangın dolabı zorunluluğu, yapı tarihçesi ve doğru mevzuat hükmü saptandıktan sonra kullanım türü ve teknik büyüklüklerle belirlenir. YGU’nun katkısı bu kararın dayanak zincirini kurmak, yerleşim ve muayene kayıtlarını saha ile eşleştirmek, belirsizlikleri ilgili teknik ve idari incelemeye açık biçimde bildirmektir. Yangın dolabının bulunması, zorunluluğun karşılandığını tek başına kanıtlamaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 94, 138 ve 164."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 96 ve 139 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Periyodik Kontrol Formu, EK-6/A: Ön Şartlar ve Yangın Dolabı Sistemi (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 188. makale konu ve belge eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

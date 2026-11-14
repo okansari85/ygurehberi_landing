@@ -1,0 +1,118 @@
+{
+  "kod": "YGR-K198",
+  "yol": "ygu-mevcut-binadaki-proje-saha-farkliliklarini-nasil-raporlar",
+  "baslik": "YGU mevcut binadaki proje–saha farklılıklarını nasıl raporlar?",
+  "ozet": "Yangın güvenlik uzmanı (YGU) mevcut binada, sahadaki eleman sayısından önce binanın hangi tarih ve kullanım için projelendirildiğini, izinlerini, tadilat geçmişini ve bugünkü kullanımını belirler. Projede yer alan bir yangın kapısının sahada bulunmaması “proje–saha farkı”; sonradan eklenen bir kapının çalışmaması ise “işlevsel sorun” kaydıdır. İlk kayıt, ikincinin yerine geçmez; rapor neden-sonuç ilişkisini göstermek zorundadır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "incelemenin-baslangic-noktasi",
+      "metin": "İncelemenin başlangıç noktası"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-setinin-kurulmasi",
+      "metin": "Belge setinin kurulması"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme dosyasında erişilebilen mimari ve yangın güvenliği projeleri, yapı ruhsatı ve kullanım izinleri, tadilat belgeleri, işletmenin kullanımını gösteren kayıtlar, yangın algılama ve söndürme sistemlerine ait uygulama projeleri, devreye alma ve bakım raporları ayrı ayrı tanımlanır. Belge yoksa varmış gibi değerlendirme yapılmaz. Belgenin tarihi, revizyonu, hangi alanı kapsadığı ve onay durumu kayıt altına alınır. Bir katın güncel kullanımını açıklamayan eski bir plan, tek başına bugünkü durumu kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-karsilastirmanin-yontemi",
+      "metin": "Sahada karşılaştırmanın yöntemi"
+    },
+    {
+      "tip": "p",
+      "metin": "Proje-saha eşleştirmesi mahal bazında yürütülür. Kaçış yolları ve kapılar, merdivenler, yangın kompartımanları, tesisat şaftları, yangın algılama ve uyarı elemanları, söndürme tesisatları ve itfaiye erişim alanları kendi işlevleri içinde incelenir. Örneğin projede koridor olarak görülen alanın depolamaya ayrılması, sadece kullanım adı değişikliği olarak kaydedilmez; kaçış genişliği, yanıcı yük, kapıların açılması ve algılama düzeni üzerindeki olası etkileri ayrıca açıklanır. Teknik ölçüm gerektiren bir hususta gözlem ile ölçüm sonucu birbirinin yerine kullanılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "uyumsuzlugun-siniflandirilmasi",
+      "metin": "Uyumsuzluğun sınıflandırılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bulgular dört ayrı grupta düzenlenebilir: onaylı belge ile saha arasındaki fark; belgenin eksikliği veya belirsizliği; sahada görülen işlevsel eksiklik; kullanım ya da işletme değişikliğinin doğurduğu yeni değerlendirme ihtiyacı. Bu sınıflandırma, her bulguya aynı çözümün yazılmasını önler. Projeye aykırılık, kendiliğinden belirli bir teknik çözümün zorunlu olduğu anlamına gelmez; ilgili yürürlük hükmü, binanın statüsü ve yetkili disiplinin değerlendirmesi birlikte gereklidir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-uygulanma-siniri",
+      "metin": "Mevzuatın uygulanma sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY’nin Onuncu Kısmı mevcut binalar için özel hükümler içerir. Madde 138/4, 19/12/2007 tarihinden önce ilgili idaresince onaylanmış ruhsat başvurusu eki projeler için mevcut yapı kabulünü düzenler. Madde 138/1 ve 139/1, kullanım değişikliğinin bazı yapılarda farklı hükümlerin uygulanmasına yol açabileceğini gösterir. Bu nedenle önce tarih, yapı statüsü ve fiilî kullanım birlikte değerlendirilir; “eski bina” veya “projede var” ifadesinden doğrudan uygunluk kararı çıkarılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-duzenlemenin-ayrilmasi",
+      "metin": "Taslak düzenleme ile yürürlükteki düzenlemenin ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında önerilen bir değişiklik, yayımlanıp yürürlüğe girmedikçe bağlayıcı hüküm gibi yazılamaz. Taslakla ilgili bir değerlendirme yapılacaksa ayrı bir notta “TASLAK - henüz yürürlükte değildir” ifadesiyle gösterilir. İşletmeye verilen mevcut uygunsuzluk listesi ise yürürlükteki mevzuata ve doğrulanmış teknik verilere dayanır. Taslak metindeki bir öneri, yürürlükteki düzenlemeye ait madde numarası veya zorunluluk gibi sunulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "bulgu-kayitlarinin-niteligi",
+      "metin": "Bulgu kayıtlarının niteliği"
+    },
+    {
+      "tip": "p",
+      "metin": "Her kayıt, incelenen mahal veya sistemin tanımını, dayanak belgenin adını ve revizyonunu, sahadaki gözlemi, karşılaştırma sonucunu, olası etkisini ve gerekli takip işlemini içerir. Fotoğraf veya kroki kullanılıyorsa tarih ve konum bilgisi eklenir; bunlar onaylı proje yerine geçirilmez. Belirsizlikler “doğrulanamadı” olarak yazılır. “Sistem çalışmıyor” ifadesi ancak uygun test veya yetkili raporla destekleniyorsa kullanılır; aksi durumda “çalışır durumda olduğuna ilişkin güncel kayıt sunulmadı” gibi kanıt sınırına uygun bir ifade tercih edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bulgu [PS-198-01] — Mahal: zemin kat doğu koridoru. Dayanak: mimari proje, revizyon 02. Projedeki durum: kaçış koridoru. Sahadaki durum: koridorun bir bölümünde istif. Sınıf: kullanım/işletme değişikliğiyle ilişkili saha farkı. Etki: geçişin daralması olasılığı; ölçüm ayrıca yapılmalıdır. Takip: istifin kaldırılması ve kaçış genişliğinin teknik kontrolü. Bu örnek bir gerçek olay veya otomatik uygunsuzluk kararı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "duzeltici-faaliyetlerin-izlenmesi",
+      "metin": "Düzeltici faaliyetlerin izlenmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Raporun görevi, bulguyu doğru işlem sahibine devretmektir. Belge yokluğunda belge temini ve doğrulama; projeden sapmada proje müellifi/yetkili disiplin incelemesi; işlevsel sorunda bakım, test veya yetkili kontrol ihtiyacı ayrı yazılır. İşin tamamlanması ve nihai uygunluk doğrulaması, bu rapordaki ilk tespit ile aynı kayıt alanında eritilmez; kapanışın takibi ayrı bir süreçtir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, belge setindeki son onaylı revizyon ile fiilî kullanımı kat ve mahal bazında eşleştirir. Projede teknik hacim görünen yerin depoya dönüştürülmesi hâlinde yeni kullanımın fotoğrafını, malzeme türünü, komşu bölmeleri ve kaçışla ilişkisini açıklar. Teknik hacimdeki değişiklikten doğan yangın güvenliği etkisini belirler; ancak statik hesap, hidrolik test, elektrik ölçümü, yeni proje tasarımı veya idari onayı kendi gözlemiyle ikame etmez. İnceleme sonucu doğrudan saptanan fark, eksik belge ve başka uzmanlık gerektiren konu olarak ayrı kaydedilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalarda güvenilir yangın güvenliği raporu, yalnız eksikleri sıralayan değil, her eksikliğin hangi belgeyle ve hangi saha bulgusuyla ilişkilendirildiğini gösteren rapordur. Bu yaklaşım, işletmenin düzeltici faaliyeti doğru kişiye yönlendirmesini ve sonraki incelemede gerçekten neyin değiştiğinin izlenmesini sağlar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik — Madde 138/1, 138/4, 139/1, 141, 144 ve Onuncu Kısım (yürürlükte)."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu — Mevcut binalar ve kaçış yollarına ilişkin açıklamalar."
+    },
+    {
+      "metin": "BYKHY Değişiklik Taslağı — mevcut binalara uygulanma hükümleri (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Yönetmelik Taslağı ve EK-6 formları (TASLAK; henüz bağlayıcı değil)."
+    }
+  ],
+  "sonNotlar": []
+}

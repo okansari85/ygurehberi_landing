@@ -1,0 +1,156 @@
+{
+  "kod": "YGR-K065",
+  "yol": "yangin-pompasinin-enerji-beslemesi-saha-degisikliginden-etkilenir-mi",
+  "baslik": "Yangın pompasının enerji beslemesi saha değişikliğinden etkilenir mi?",
+  "ozet": "Yangın pompası yerinde duruyor, periyodik bakımı yapılıyor ve normal elektrik beslemesi altında çalışıyor olabilir. Buna rağmen ana dağıtım panosunda, besleme hattında veya kumanda düzeninde yapılan bir değişiklik, yangın anında beklenen çalışma sürekliliğini etkileyebilir. İncelemenin asıl sorusu pompanın bugün dönüp dönmediği değil, tasarlanan besleme ve devreye girme koşullarının değişiklikten sonra da korunup korunmadığıdır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "enerji-beslemesinde-hangi-hukum-belirleyicidir",
+      "metin": "Enerji beslemesinde hangi hüküm belirleyicidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 93. maddesi, yedek dizel motor tahrikli pompa kullanılmadığında yangın pompalarının enerji beslemesinin güvenilir bir kaynaktan ve binanın genel elektrik sisteminden bağımsız sağlanmasını öngörür. Bu koşullu hüküm, her yangın pompasında mutlaka jeneratör bulunacağı anlamına gelmez. Besleme çözümü, pompa grubunun tahrik ve yedekleme düzeni ile onaylı projedeki tasarım esasına göre okunmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddede her pompanın ayrı ve kilitli kumanda panosuna sahip olması, elektrik kumanda panosunda faz hatası, faz sırası hatası ve kumanda fazı hatası göstergelerinin bulunması gibi hükümler de yer alır. Pano yenilenmişse yalnız etiketin veya gerilim göstergesinin varlığı değil, pompa ile ilişkili kumanda ve koruma düzeninin projeyle eşleşmesi önem kazanır."
+    },
+    {
+      "tip": "h2",
+      "id": "elektrik-odasindaki-revizyon-hangi-sorulari-dogurur",
+      "metin": "Elektrik odasındaki revizyon hangi soruları doğurur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni bir ana pano kurulması, yangın pompası besleme çıkışının başka bir devre kesiciye taşınması veya kablo güzergahının değiştirilmesi, önceki tek hat şemasını geçersiz bırakabilir. Pompa hattının ortak bir kesme düzenine bağlanıp bağlanmadığı, kablo güzergahında yeni yangın bölmesi geçişleri oluşup oluşmadığı ve varsa yedek güç/aktarma düzeninin nasıl etkilendiği güncel elektrik projesinden anlaşılmalıdır. Bu hususların her biri aynı olayda bulunmak zorunda değildir; hangi kontrolün gerekli olduğu yapılan gerçek revizyona bağlıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-saha-durumu-pano-tasinmis-pompa-degismemis",
+      "metin": "Temsili saha durumu: pano taşınmış, pompa değişmemiş"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki şema yalnız inceleme sorusunu gösterir; ölçekli elektrik projesi, bağlantı detayı veya uygunluk kararı değildir. Örnekte pompa panosu başka bir besleme noktasına taşınmıştır. Bu değişikliğin güvenilir enerji kaynağı ve kumanda işlevi üzerindeki etkisi, revize proje ve test kayıtları olmadan kesinleştirilemez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 65. Önceki taslaktan korunan temsili güç–pano–pompa şeması.",
+      "src": "/img/makale/ygr-k065-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İlk bilgi",
+        "Ne anlaşılıyor?",
+        "Açık kalan doğrulama"
+      ],
+      "satirlar": [
+        [
+          "Pompa normal beslemede çalışıyor",
+          "Motorun belirli bir koşulda devreye girebildiği görülür.",
+          "Enerji kaybı ve tasarımda öngörülen diğer çalışma senaryoları"
+        ],
+        [
+          "Besleme panosu değiştirildi",
+          "Saha topolojisinin önceki projeden farklı olabileceği anlaşılır.",
+          "Onaylı/revize tek hat, koruma ve kumanda bağlantıları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapının onaylı yangın söndürme ve elektrik projelerini, yapı ruhsatı ve yapı kullanma izniyle bağlantılı mevcut kayıtları, daha sonra yapılan tadilatın kapsamını ve işletmenin güncel kullanım koşullarını birlikte inceler. Yangın pompasının bulunduğu mahal, pano yerleşimi ve besleme kaynağı ile projede gösterilen düzen arasında gözle görülebilen bir fark varsa bunun hangi çizim ve belgeyle açıklanabildiğini araştırır. Belge bulunmaması doğrudan teknik arıza kanıtı değildir; fakat uygunluğun gerekçelendirilmesini engelleyen bir eksik kanıttır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada pano etiketleri, pompa–pano eşleştirmesi, kablo güzergahının görülebilen kısımları, erişilebilirlik, bakım kayıtları ve varsa enerji kesintisi/aktarma test tutanakları karşılaştırılır. Güzergahın kapalı kalan bölümleri, koruma seçiciliği veya otomatik aktarım davranışı gözlemle doğrulanamıyorsa bunlar “uygun” varsayılmaz. Elektriksel ölçümler, koruma ayarı değerlendirmesi, fonksiyon testinin yürütülmesi ve proje revizyonunun teknik onayı ilgili yetkin ve yetkili elektrik/mekanik uzmanların sorumluluğunda kalır; YGU bu işlemleri kendisi yapmış gibi rapor düzenlemez."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-bulgusu-birlikte-nasil-okunur",
+      "metin": "Belge ve saha bulgusu birlikte nasıl okunur?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme kaydı",
+        "Kontrol edilecek konu",
+        "Gerekçesi"
+      ],
+      "satirlar": [
+        [
+          "Onaylı proje ve izin kayıtları",
+          "Pompa tipi, normal/yedek besleme yaklaşımı, başlangıçtaki pano yerleşimi",
+          "Uygulanacak tasarım ve izin temelini belirler."
+        ],
+        [
+          "Revize elektrik tek hat şeması",
+          "Kaynak, besleme çıkışı, devre kesici ve kumanda bağlantıları",
+          "Değişiklik sonrası topolojiyi görünür kılar."
+        ],
+        [
+          "Saha gözlemi",
+          "Pano kimliği, etiketler, görülebilen hat güzergahı ve pompayla eşleşme",
+          "Proje–uygulama farkını ortaya koyar."
+        ],
+        [
+          "Yetkili test ve bakım kayıtları",
+          "Normal çalıştırma, tasarımda varsa güç aktarımı ve ilgili hata senaryoları",
+          "Çalışma kanıtının kapsamını gösterir."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bir test tutanağında yalnız “pompa çalıştı” yazması, testin hangi besleme koşulunda, hangi kumandayla ve hangi sonuçla yapıldığını göstermeyebilir. Bu nedenle tutanağın tarihi, test edilen pompa ve pano kimliği, uygulanan senaryo, gözlenen sonuç ve sorumlu teknik kişinin kaydı aranır. Testin kapsamı onaylı tasarıma ve ekipman özelliklerine uygun biçimde yetkili ekipçe belirlenmelidir; sahadaki tüm pompalar için aynı kesinti veya aktarma senaryosunun zorunlu olduğu varsayılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "bulguyu-nasil-raporlamali",
+      "metin": "Bulguyu nasıl raporlamalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Somut bir incelemede revize tek hat şeması sunulamıyorsa rapor, “Pompa besleme panosunun değiştirildiği görülmüştür; mevcut besleme ve kumanda düzeninin onaylı projeyle uyumu, revize elektrik projesi ve ilgili fonksiyon test kayıtları olmadan doğrulanamamıştır” biçiminde kurulabilir. Bu ifade ne sistemin kesinlikle çalışmayacağını iddia eder ne de yalnız çalıştırma gözleminden olumlu uygunluk kararı üretir. Eksik belge, gözlemsel fark ve yetkili uzman incelemesi gerektiren teknik konu birbirinden ayrılmış olur."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın pompası değişmemiş olsa da besleme panosunun, enerji kaynağının veya kablo güzergahının değişmesi yangın güvenliği açısından yeniden inceleme gerekçesidir. Sağlıklı karar, mekanik pompa bilgisi ile elektrik besleme projesini aynı revizyon üzerinden okumaya; sahadaki durumu ve yetkili test kayıtlarını birlikte değerlendirmeye dayanır. Belgeyle doğrulanamayan nokta açıkça kaydedilmeli, elektriksel tasarım ve test yetkisi YGU incelemesiyle karıştırılmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

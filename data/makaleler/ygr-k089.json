@@ -1,0 +1,137 @@
+{
+  "kod": "YGR-K089",
+  "yol": "mevcut-binada-ilave-cikis-gerekmesi-hangi-sorulara-baglidir",
+  "baslik": "Mevcut binada ilave çıkış gerekmesi hangi sorulara bağlıdır?",
+  "ozet": "Mevcut bir binada ikinci bir çıkışın gerekip gerekmediği, yalnızca yapının yaşına veya merdiven sayısına bakılarak belirlenemez. Önce binanın hangi mevzuat hükümleri kapsamında değerlendirileceği, ardından her katın gerçek kullanımı, kullanıcı yükü ve kaçış düzeninin birlikte incelenmesi gerekir. Özellikle farklı işyerlerini barındıran eski iş hanlarında bir katta yapılan değişiklik, diğer katların da kullandığı merdivenin ve son çıkışın yeterliliğini yeniden gündeme getirebilir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ilave-cikis-karari-hangi-verilerle-baslar",
+      "metin": "İlave çıkış kararı hangi verilerle başlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru, binanın mevcut yapı statüsünün hangi belgelerle doğrulandığıdır. İlk ruhsat, varsa tadilat ruhsatları, yapı kullanma izin belgesi, onaylı mimari ve tahliye projeleri ile sonradan verilen kullanım izinleri aynı dosyada karşılaştırılmalıdır. Bir binanın eski olması, her yeni kullanım için eski hükümlerin kendiliğinden geçerli olacağı anlamına gelmez. Kullanım amacı değişikliği ve yangın güvenliğini etkileyen esaslı tadilat, uygulanacak hükümleri değiştirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci soru, projede yazan kullanımla sahada yapılan işin aynı olup olmadığıdır. Bir katta büro yerine eğitim salonu, toplantı alanı veya konaklama faaliyeti başlamışsa, kullanıcı yükü ve kaçış ihtiyacı eski büro projesindeki kabule göre değerlendirilemez. Kullanımın yalnızca tabelada değişmesi ile fiili faaliyet ve kişi yoğunluğunun değişmesi de aynı şey değildir; değerlendirme gerçek kullanımı esas alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü soru, kullanıcıların kaçışa nereden başlayıp güvenli alana nasıl ulaştığıdır. Çıkış sayısının yanında tek yönlü kaçış bölümleri, çıkmaz koridorlar, en uzun kaçış uzaklığı, kapıların temiz geçiş genişliği, merdivenlerin sürekliliği ve çıkışların birbirine alternatif olup olmadığı birlikte ele alınır. Aynı merdivene açılan iki kapı, iki bağımsız kaçış güzergahi bulunduğu anlamına gelmeyebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "cikis-sayisi-kapasite-ve-alternatif-guzergah",
+      "metin": "Çıkış sayısı, kapasite ve alternatif güzergah"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, aksi belirtilmedikçe iki çıkış esasını kabul eder. Genel çıkış sayısı düzenlemesinde, yüksek tehlikeli mekanlarda 25 kişinin ve diğer mekanlarda 50 kişinin aşılması halinde en az iki çıkış; kişi sayısının 500’ü aşması halinde en az üç, 1.000’i aşması halinde en az dört çıkış öngörülür. Ancak bu eşikler tek başına nihai karar değildir. Bina kullanımına özgü hükümler ve mevcut binalara tanınan koşullu düzenlemeler ayrıca incelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "İki çıkışın sayısal olarak bulunması da yeterli değildir. Her birinin kullanıcı yüküne uygun kapasite sağlaması, birbirinden uygun uzaklıkta konumlanması ve bir yangının iki güzergahi aynı anda kullanılamaz hale getirmemesi beklenir. Katlarda oluşan yeni bölmeler, depo düzenleri veya kilitli kapılar projedeki alternatif kaçış imkanını ortadan kaldırmış olabilir. Bu durumda yalnızca kapı sayımı yapmak, gerçek sorunu görünmez kılar."
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-bina-hukumleri-ve-yeni-taslak-nasil-ayrilir",
+      "metin": "Mevcut bina hükümleri ve yeni taslak nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemenin mevcut binalara ilişkin 141. maddesi, ilave çıkış veya kaçış merdiveninin yeniden düzenlenmesini gerektiren bir kullanım varsa binanın bütününün dikkate alınmasını öngörür. Bu nedenle yalnızca değişiklik yapılan bağımsız bölümün kapısına bakmak yeterli değildir; ortak merdiven, kat holleri ve bina son çıkışı da değerlendirilir. Aynı düzenleme, belirli koşullarla komşu parsel veya bina üzerinden ortak çözüm geliştirilmesine de imkan tanır; bu bir otomatik uygunluk kararı değil, ayrıca değerlendirilmesi gereken bir seçenektir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında ise mevcut yapılara ilişkin yaklaşım farklı bir madde yapısında düzenlenmiştir. Taslağın 139. maddesi mevcut yapıların kapsamını ve bazı yeni hükümlere uyma gereğini ele alırken, acil çıkış zorunluluğu yönünden taslağın 39. maddesine bağlantı kurar. Taslakta genel çıkış sayısı bakımından 25, 50, 500 ve 1.000 kişi eşikleri de yer alır. Bunlar taslak hükümleridir; yürürlüğe girmiş yeni bir zorunluluk gibi uygulanamaz. Taslakta yürürlükteki 141. maddenin aynı başlıkla bulunmaması da mevcut hükmün bugün uygulanmadığı şeklinde yorumlanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-arasinda-hangi-kanitlar-karsilastirilir",
+      "metin": "Proje ve saha arasında hangi kanıtlar karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eski bir iş hanının bir katında toplantı salonu oluşturulması, yalnızca örnek bir değerlendirme durumudur. Böyle bir değişiklikte önce kullanımın izin belgelerindeki karşılığı ve katın beklenen kişi yükü belirlenir. Sonra mevcut merdivenin hangi katlara hizmet ettiği, kat çıkışlarının birbirine alternatif olup olmadığı ve zemin kattaki son çıkışın ortak kullanıcı yükünü karşılayıp karşılamadığı incelenir. İkinci merdiven gerekliliği bu incelemeden önce kesin olarak ilan edilmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Belge / saha kanıtı",
+        "Karar bakımından önemi"
+      ],
+      "satirlar": [
+        [
+          "Mevzuat ve yapı statüsü",
+          "İlk ruhsat, tadilat ruhsatı, yapı kullanma izni, onaylı projeler",
+          "Hangi hükümlerle ve hangi kullanım üzerinden inceleme yapılacağı"
+        ],
+        [
+          "Fiili kullanım ve kişi yükü",
+          "Mahallerin işlevi, yerleşim, kullanım kapasitesi, işletme kayıtları",
+          "Projede kabul edilen yük ile gerçek kullanımın farkı"
+        ],
+        [
+          "Kaçış düzeni",
+          "Tahliye planı, kat planı, merdiven ve kapı konumları, saha gözlemi",
+          "Çıkışların sayısı, bağımsızlığı ve güzergah sürekliliği"
+        ],
+        [
+          "Geçiş kapasitesi ve engeller",
+          "Kapı/koridor/merdiven projeleri, teknik ölçüm raporları, fotoğraflar",
+          "Daralma, kilit, depolama veya işlev kaybı olup olmadığı"
+        ],
+        [
+          "Değişiklik ve çözüm süreci",
+          "Tadilat projesi, yetkili idare yazışmaları, uygulama belgeleri",
+          "İlave çıkış veya başka bir çözümün yetkili süreçte değerlendirilmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye binanın onaylı mimari ve tahliye projeleri, yapı ruhsatı ve kullanım izinleri ile varsa değişiklik belgelerini talep ederek başlar. Sahada her katın fiili kullanımını, bölünmüş mahalleri, kapı ve merdivenlerin yerini, ortak koridorları ve güvenli alana ulaşan son çıkışı projelerle eşleştirir. Kişi yükünü etkileyen faaliyet ve yerleşim değişikliklerini ayrıca kayda geçirir. Onaylı projede iki alternatif kaçış gösterildiği halde bunlardan biri depolama nedeniyle kullanılamıyorsa, bulgu yalnızca “kapı kapalı” biçiminde değil, etkilenen kaçış güzergahi ve ilgili proje paftası belirtilerek raporlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman, gerekli olduğunda yetkili meslek mensuplarınca hazırlanmış kapasite hesabını, mimari çözümü, ölçüm ve test raporlarını inceler; belgelerin sahadaki durumla uyumunu değerlendirir. Kendi gözlemsel kontrolünü, yetkili proje müellifinin tasarım hesabı, ölçüm yapan uzmanın teknik raporu veya ruhsat vermeye yetkili idarenin onayı yerine koymaz. İlave merdiven yapılması gibi bir tasarım ve izin süreci gerekiyorsa, gerekçeli bulguyu ve incelenmesi gereken konuları belirtir; çözümün projelendirilmesi ve onaylanması ilgili yetkili aktörlerce yürütülür."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binada ilave çıkış ihtiyacı; mevzuat statüsü, gerçek kullanım, kullanıcı yükü, kaçış mesafesi, çıkış kapasitesi ve alternatif güzergahların birlikte incelenmesiyle belirlenir. Bir kattaki değişikliğin ortak kaçış sistemine etkisi göz ardı edilemez. Doğru yaklaşım, önce belge ve saha verisini karşılaştırmak, ardından uygulanacak hükmü ve gerekli teknik çözüm sürecini gerekçelendirmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

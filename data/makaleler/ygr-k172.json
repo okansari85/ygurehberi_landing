@@ -1,0 +1,152 @@
+{
+  "kod": "YGR-K172",
+  "yol": "lpg-tuplerinin-dolu-ve-bos-ayrimi-saha-acisindan-neden-onemlidir",
+  "baslik": "LPG tüplerinin dolu ve boş ayrımı saha açısından neden önemlidir?",
+  "ozet": "Bir işletmenin LPG tüp deposunda dolu tüplerle kullanım sonrası iade bekleyen tüpler yan yana tutulduğunda ilk bakışta yalnız düzen sorunu varmış gibi görünebilir. Oysa “boş” işaretli tüpün gazdan tamamen arındırıldığı varsayılamaz. Tüpün içinde gaz kalıntısı bulunabilir; bağlantı ve vana bölümleri de fiziksel hasara veya kaçak ihtimaline karşı önemini korur. Yangın Güvenlik Uzmanı (YGU), dolu–boş ayrımını yalnız depo etiketlerine bakarak değil, yerleşim, sayım, koruyucu parçalar ve mevcut güvenlik tedbirleriyle birlikte inceler.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "dolu-ve-bos-ayrimi-iki-ayri-soruya-cevap-verir",
+      "metin": "Dolu ve boş ayrımı iki ayrı soruya cevap verir"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru işletmeseldir: Hangi tüpler kullanıma hazır, hangileri iade, değişim veya yetkili işlem için bekliyor? Bunun yanıtı stok ve sevk kayıtlarını, çalışanların yanlış tüp seçmesini ve depo içi hareketleri etkiler. İkinci soru yangın güvenliğiyle ilgilidir: Deponun fiili tüp sayısı, yerleşimi ve koruma tedbirleri hangi durumdadır? Bu soruda boş olarak işaretlenmiş tüplerin yok sayılması, gerçek depolama yükünün ve saha düzeninin eksik değerlendirilmesine yol açar."
+    },
+    {
+      "tip": "p",
+      "metin": "Etiket, tüpün işletme içindeki durumunu anlatır; tüpün gazdan arındırıldığına ilişkin teknik belge yerine geçmez. Basınç göstergesi ya da tüpün ağırlığı tek başına “tamamen güvenli” sonucunu doğurmaz. YGU, herhangi bir tahliye, vana açma veya gaz transferi işlemi gerçekleştirmeden, görünür durum ve kayıt uyumunu değerlendirir. Kaçak şüphesi veya hasar gözlenirse işletmenin acil durum düzeni ve yetkili teknik birim devreye girer."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ve-degisiklik-taslagi",
+      "metin": "Yürürlükteki BYKHY ve değişiklik TASLAĞI"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 105/5-c, basınçlı gaz tüplerinin içerdikleri gazın özelliğine göre sınıflanarak depolanmasını ve boş tüplerin ayrı yerde toplanmasını düzenler. LPG tüpleri için özel hükümler Madde 106’da yer alır. Madde 106/9, tüplerin vana emniyet tıpaları takılı olarak; dolu tüplerin ise bunlara ek olarak ilk kullanım kapakları takılı şekilde depolanmasını öngörür. Madde 106/10 uyarınca boş tüpler tercihen açıkta depolanır; bina içinde depolanmaları halinde miktar hesabında dolu tüp gibi kabul edilir. Madde 106/8, tüplerin çıkış ve merdiven boşluğu yakınında veya kaçış yolunu engelleyecek biçimde tutulmasını yasaklar."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA LPG depolaması Madde 108 altında düzenlenmiştir (TASLAK). Dolu tüpün ilk kullanım kapağı, tüm tüplerin emniyet tıpası, boş tüplerin tercihen açıkta depolanması ve bina içi miktar hesabında dolu gibi değerlendirilmesi konularındaki ilgili ifadeler taslakta da korunmaktadır (TASLAK). Bu bölüm açısından yalnız numaranın değişmiş olması yeni bir yükümlülük doğduğu anlamına gelmez. Öte yandan taslaktaki bütün hükümler yürürlükteki mevzuat gibi gösterilemez; uygulamada yapının tabi olduğu yürürlükteki düzenleme esas alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki “miktar hesabında dolu gibi kabul” ifadesi, boş tüpün gerçekten dolu olduğunu ileri sürmez. Kapalı depo için güvenlik hesabında boş tüpü listeden düşürmeme kuralıdır. İşletmenin güncel envanterinde dolu, boş ve kullanımdaki tüpler ayrıca gösterilir; bu ayrım tek bir toplam sayının altında kaybolmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "isletme-listesi-ile-depo-sahasini-ayni-tabloda-bulusturmak",
+      "metin": "İşletme listesi ile depo sahasını aynı tabloda buluşturmak"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın kontrolünde yararlı envanter, yalnız tüplerin toplam adedini yazan bir çizelge değildir. Tüpün kimliği, türü, kullanım durumu, bulunduğu bölüm, koruyucu parçaları ve teslim/iade kaydı birbirini doğrulamalıdır. Dolu ve boş istif için ayrı tanımlanmış alanların sahada gerçekten kullanılması; geçici olarak yere bırakılan, girişte bekletilen veya başka gaz tüpleriyle karışan ürünlerin de kayıt altına alınması gerekir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "İşletmeden istenecek kayıt",
+        "Sahada karşılaştırma"
+      ],
+      "satirlar": [
+        [
+          "Tüp sayısı ve durumu",
+          "Dolu, boş ve kullanımda ayrılmış güncel tüp listesi",
+          "Fiili sayım ve işaretleme; kayıtla farkların belirlenmesi"
+        ],
+        [
+          "Depolama bölümleri",
+          "Depo planı ve tanımlı istif alanları",
+          "Dolu–boş grupları, LPG ile diğer gazların ayrımı"
+        ],
+        [
+          "Koruyucu parçalar",
+          "Tüp teslim/iade ve hasar bildirimleri",
+          "Emniyet tıpası; dolu tüpte ilk kullanım kapağı"
+        ],
+        [
+          "Yerleşim ve erişim",
+          "Tahliye planı, depo kullanım düzeni",
+          "Çıkış, merdiven ve müdahale güzergahı; devrilme önlemleri"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-sik-karsilasilan-uc-yanlis-yorum",
+      "metin": "Sahada sık karşılaşılan üç yanlış yorum"
+    },
+    {
+      "tip": "h3",
+      "metin": "“Boş yazıyor, depo hesabına gerek yok”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir tüpün üzerinde boş etiketi olması, o tüpün bina içindeki depolama miktarından çıkarılmasına gerekçe değildir. Yürürlükteki özel LPG hükmü tam tersini söyler. Depo içindeki dolu ve boş tüpler fiilen sayılır; mevzuatın hangi miktar ve yerleşim hesabına uygulanacağı, tüp türü ve tesisin tabi olduğu koşullarla birlikte değerlendirilir. Miktar biriminin kg, tüp kapasitesi veya adet olarak kullanılması gerekiyorsa ilgili hesapta karıştırılmaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "“Boş tüpleri doluların yanına bıraksak da olur”"
+    },
+    {
+      "tip": "p",
+      "metin": "Gün sonu iadelerinin dolu stokun önüne bırakılması; yanlış tüp sevki, karışık sayım ve koruma elemanlarının gözden kaçması riskini artırır. Basınçlı gazlar için ayrı toplama kuralı ve LPG’ye ilişkin özel depolama koşulları birlikte okunur. Birkaç günlüğüne bekletilen boş tüpler de fiili depo düzeninin parçasıdır. Geçici olduğu söylenen kullanım, sahadaki fotoğraf ve tarihli kayıtla izlenebilir hale getirilmelidir."
+    },
+    {
+      "tip": "h3",
+      "metin": "“Kapak yoksa tüpün boş olduğu anlaşılır”"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kullanım kapağının bulunmaması, tüpün boş olduğunun tek başına kanıtı değildir. Dolu olarak envantere alınmış tüpte kapak eksikliği veya herhangi bir tüpte emniyet tıpası eksikliği ayrı gözlem olarak kaydedilir. Tüpün gerçekte dolu mu boş mu olduğu belirsizse rastgele sınıflandırma yerine işletmeden doğrulayıcı teslim ve stok belgesi istenir. Fiziksel müdahale, gaz aktarımı veya vana işlemi yalnız yetkili kişilerce ilgili güvenlik prosedürüne göre yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU önce LPG tüp deposunun kullanımını ve yetkili işletme sorumlusunu belirler. Güncel stok listesinde dolu, boş, kullanımda ve iade bekleyen tüplerin ayrı gösterilip gösterilmediğini inceler. Sonra depoda bu bölümlerin etiketlerini, istif sınırlarını, tüplerin dik ve devrilmeye karşı emniyetli duruşunu, koruyucu parçaları ve çıkışların açıklığını gözle karşılaştırır. Fotoğrafları mümkünse depo krokisindeki konumlarla eşleştirir. Sayım uyumsuzluğu, etiketsiz tüp, kapağı eksik dolu tüp veya kapalı depoda hesap dışı tutulan boş tüp ayrı bulgu olarak belgelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU mesleki düzenleme TASLAĞINA bağlı EK-6/B formunda LPG depolamasına ilişkin gözlemsel kontroller ve emniyet tıpası ile dolu tüplerin ilk kullanım kapağı konusu ayrıca yer almaktadır (TASLAK). Form, henüz yürürlüğe girmiş yeni bir uzmanlık yetkisinin kanıtı değildir. YGU saha gözlemini ve sunulan belgeleri kayda geçirir; kaçak testi, teknik doluluk ölçümü, depo kapasite hesabı veya yeni tehlikeli madde tesisatı projelendirmesi gerektiğinde yetkili teknik kişi ve ilgili uzmanlık süreci ayrıca işletilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal saha kaydı: “LPG-02 deposunda dolu ve boş tüp alanları panoda tanımlanmıştır. Fiili kontrolde dört adet ‘boş/iade’ etiketli tüpün dolu stok bölümünde bekletildiği, stok listesinde yalnız dolu tüp sayısına yer verildiği görülmüştür. Bina içindeki boş tüplerin miktar hesabına dahil edilip edilmediğini gösteren güncel hesap sunulmamıştır. İşletmeden dolu–boş ayrılmış envanterin, depo yerleşiminin ve ilgili hesap kaydının güncellenmesi istenmiştir.” Bu örnek gerçek bir denetim sonucu değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG tüp deposunda dolu–boş ayrımı, stok yönetiminin yanı sıra mevzuata dayalı miktar değerlendirmesi, güvenli istif ve sahadaki değişikliklerin izlenmesi için gereklidir. Boş etiketi gaz kalıntısı ihtimalini ortadan kaldırmaz; kapalı depolamada boş tüplerin hesabın dışında bırakılması da doğru değildir. YGU açısından temel çıktı, fiili sayımla belgeyi eşleştiren, belirsizliği açıkça gösteren ve teknik müdahale gerektiren hususları yetkili ekibe yönlendiren izlenebilir bir kayıttır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

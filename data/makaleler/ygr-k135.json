@@ -1,0 +1,138 @@
+{
+  "kod": "YGR-K135",
+  "yol": "kapi-kilidi-ve-erisim-kontrol-sistemi-kacisa-engel-olur-mu",
+  "baslik": "Kapı kilidi ve erişim kontrol sistemi kaçışa engel olur mu?",
+  "ozet": "Bir kapının günlük işletmede yetkisiz girişleri engellemesi ile yangın anında insanların dışarı çıkmasını sağlaması aynı işlev değildir. Kartlı geçiş, elektromanyetik kilit, elektrikli karşılık ve turnike gibi düzenekler güvenlik ve işletme kontrolü amacıyla kurulabilir. Ancak kaçış güzergahına dahil edilen kapıda belirleyici soru şudur: Kapıya ulaşan kişi, alarm veya enerji kesintisi dahil öngörülebilir koşullarda, beklemeden ve ilave yetki gerekmeksizin güvenli yöne ilerleyebiliyor mu?",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "giris-kontrolu-ile-kacis-serbestisi-farklidir",
+      "metin": "Giriş kontrolü ile kaçış serbestisi farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir kapının dışarıdan kartla açılması, içeriden de kart gerektirdiği anlamına gelmez. Doğru inceleme, kapının her iki yüzündeki davranışın ayrı ayrı tanımlanmasıyla başlar. Personel girişinde kullanılan bir okuyucu, kaçış yönünde mekanik serbest açma ile birlikte bulunabilir. Buna karşılık içeriden çıkışın yalnız yazılım iznine, resepsiyon onayına veya çalışan kartına bağlanması, kaçışın sürekliliğini tehlikeye atabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Elektromanyetik kilit ile yangın kapısını açık tutan elektromanyetik tutucu da birbirine karıştırılmamalıdır. İlki kapı kanadını kapalı konumda kilitlemek için kullanılabilir; ikincisi yangın kapısını normal kullanımda açık tutup alarmda serbest bırakarak kapının kapanmasını sağlar. Bu iki donanımın kontrol senaryosu ve arıza etkisi farklıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-kural-ile-taslak-duzenleme-nasil-ayrilir",
+      "metin": "Yürürlükteki kural ile taslak düzenleme nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kaçış yolu kapılarının elle açılabilmesini ve kilitli tutulmamasını esas alır. Kaçış yönüne açılma, uygun kapı donanımı ve geçişin engellenmemesi, kapının hangi mahal ve kullanıcı yüküne hizmet ettiğine göre değerlendirilir. Yürürlükteki metnin 47. maddesinde asgari temiz genişlik 80 cm, kapının açılması için tasarım kuvveti en çok 110 N olarak yer alır. Bu sayılar, bütün kapıların her koşulda uygun olduğunu gösteren tek başına kriterler değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY değişiklik TASLAĞI, aynı maddede asgari temiz genişliği 90 cm ve açma kuvveti sınırını 100 N olarak önerir. Bunlar taslak değerlerdir; yayımlanıp yürürlüğe girdiği ayrıca doğrulanmadıkça mevcut zorunluluk gibi uygulanamaz. Taslak metin de kaçış kapılarının elle açılmasını ve kilitli tutulmamasını öngörür. Taslakta ayrıca bütün kaçış kapılarında elektromanyetik kilide koşulsuz izin verildiği sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU yönetmelik taslağına bağlı kontrol yaklaşımında, yangın sırasında otomatik olarak devreden çıkan kilitler için kapı yanında erişilebilir acil açma butonu ve butonun kilidi serbest bırakması gibi kontroller yer alır. Bu içerik saha incelemesi açısından anlamlı bir kontrol sorusudur; ancak tek başına, yürürlükteki BYKHY’deki kilitsiz kaçış ilkesini ortadan kaldıran yeni bir izin olarak yorumlanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "kapi-basinda-incelenmesi-gereken-isletme-senaryolari",
+      "metin": "Kapı başında incelenmesi gereken işletme senaryoları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Senaryo",
+        "İncelenecek davranış",
+        "Kayıt kanıtı"
+      ],
+      "satirlar": [
+        [
+          "Normal işletme",
+          "Kaçış yönünde tek hareketle, kart/anahtar gerekmeksizin geçiş",
+          "Kapı numarası, kullanım durumu, donanım fotoğrafı"
+        ],
+        [
+          "Yangın alarmı",
+          "İlgili kontrol senaryosunda kapı serbest bırakılıyor mu?",
+          "Onaylı senaryo, test/işletme kaydı"
+        ],
+        [
+          "Şebeke enerjisi kesilmesi",
+          "Kilit, besleme ve yedek güç kombinasyonu kaçışı nasıl etkiliyor?",
+          "Sistem şeması, arıza davranışı kaydı"
+        ],
+        [
+          "Acil açma düzeni",
+          "Varsa butonun konumu ve etkisi anlaşılır mı?",
+          "Buton yeri, erişim, test tutanağı"
+        ],
+        [
+          "Gece/mesai dışı",
+          "Güvenlik prosedürü veya otomasyon kapıyı kilitli tutuyor mu?",
+          "İşletme talimatı, saat programı"
+        ],
+        [
+          "Engel ve yönlendirme",
+          "Turnike, mobilya veya ikinci kapı geçişi daraltıyor mu?",
+          "Fotoğraf, plan üzerinde işaretleme"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk aşamada geçerli onaylı mimari ve tahliye projesinde ilgili kapının yerini, son çıkışa bağlantısını ve hizmet verdiği mahalleri belirlemek gerekir. Kapı listesi, kapı donanım detayı, yangın algılama sistemi senaryosu, erişim kontrol projesi ve mevcut bakım/test kayıtları birlikte incelenir. Ardından kapının sahadaki numarası, yönü, kanat düzeni, kilit türü, kart okuyucu ve acil açma elemanları ile projedeki karşılıkları eşleştirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme yalnız gündüz yapılan bir açma denemesine indirgenmemelidir. İşletmenin gece kilitleme alışkanlığı, alarm entegrasyonu, elektrik kesilmesindeki davranış, kapı önündeki geçici engeller ve kullanıcıların kapıyı tanıması ayrıca sorgulanır. YGU, gözlem ve mevcut kayıtlarla doğrulayabildiği hususları ayırır; elektriksel fonksiyon testi veya sistem senaryosunun doğrulanması gerektiğinde ilgili testin kim tarafından, hangi yöntemle ve hangi sonuçla yapıldığını belge üzerinden takip eder. Bu makale YGU’ya kendiliğinden elektriksel ölçüm, sistem tasarımı veya bağımsız onay yetkisi tanımlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Rapor cümlesi “kapı çalışmıyor” gibi belirsiz bir hüküm yerine, gözlenen durumun ne olduğunu ve kaçışı nasıl etkilediğini açıklamalıdır. Örneğin: “K-07 numaralı koridor çıkış kapısında kaçış yönünde kart okutulmadan açma sağlanamadığı gözlenmiştir. Onaylı tahliye projesinde kapı kaçış güzergahında gösterilmektedir. Gece işletme modu ve alarm/enerji kesilmesi davranışına ilişkin doğrulanmış test kaydı sunulmamıştır. Kaçışın serbestliği ve kontrol senaryosu yönünden uygunsuzluk/eksik doğrulama ayrı ayrı değerlendirilmelidir.” Bu, örnek bir rapor anlatımıdır; gerçek bir olay kaydı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "karar-verirken-kacinilmasi-gereken-uc-hata",
+      "metin": "Karar verirken kaçınılması gereken üç hata"
+    },
+    {
+      "tip": "p",
+      "metin": "Birincisi, kapıda acil buton bulunmasını otomatik uygunluk saymaktır: butonun yeri, erişilebilirliği, etkisi ve kapının temel kaçış şartları birlikte değerlendirilmelidir. İkincisi, yangın algılama sistemine bağlı olduğunu söyleyen bir kabloyu işlev kanıtı saymaktır: proje ve test kaydı olmadan fonksiyon doğrulanmış kabul edilmez. Üçüncüsü, dışarıdan giriş güvenliği ile içeriden çıkış güvenliğini aynı kavram gibi ele almaktır. Güvenlik gereksinimi, kaçışta gecikme yaratacak bir düzeni kendiliğinden meşrulaştırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış kapısındaki erişim kontrol sisteminin varlığı tek başına uygunluk veya uygunsuzluk kararı değildir. Karar, geçerli mevzuatın kapıya uygulanabilir hükümleri, onaylı proje, gerçek kullanım, kaçış yönündeki donanım, alarm ve arıza senaryoları ile doğrulanmış test kayıtlarının birlikte değerlendirilmesine dayanır. Yangın Güvenlik Uzmanı (YGU), bu zincirde hangi koşulun doğrulandığını ve hangi koşulun açık kaldığını izlenebilir biçimde ortaya koymalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

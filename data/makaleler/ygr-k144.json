@@ -1,0 +1,121 @@
+{
+  "kod": "YGR-K144",
+  "yol": "otoparkta-havalandirma-ile-duman-tahliyesi-ayni-sey-midir",
+  "baslik": "Otoparkta Havalandırma ile Duman Tahliyesi Aynı Şey midir?",
+  "ozet": "Kapalı otoparkta tavanda jet fan görülmesi, yangın dumanının güvenli biçimde uzaklaştırılabildiğini tek başına kanıtlamaz. Günlük işletmede araç egzoz gazlarını uzaklaştıran sistem ile yangın sırasında dumanı yönetmek üzere tasarlanan sistem aynı ekipmanları paylaşabilir; ancak tasarım amacı, devreye girme koşulları, debi, kontrol senaryosu ve dayanım gereksinimleri ayrı değerlendirilir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "gunluk-havalandirma-ile-yangin-duman-kontrolunun-amaci",
+      "metin": "Günlük havalandırma ile yangın duman kontrolünün amacı"
+    },
+    {
+      "tip": "p",
+      "metin": "Normal havalandırma, otoparkın işletme sırasında hava kalitesini korumayı hedefler. Fanların kirletici algılamasına, zaman programına veya manuel komuta göre çalışması bu işlevin bir parçası olabilir. Yangın duman tahliyesi ise yangın anındaki dumanın belirlenmiş tahliye güzergahından uzaklaştırılması, dumanın komşu mahallere ve kaçış yollarına yayılmasının sınırlandırılması ve müdahale koşullarının desteklenmesi için projelendirilir. Her iki işlevin aynı fanı kullanması, ikinci işlevin kendiliğinden sağlandığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Jet fanlı düzende fanlar havayı otopark içinde yönlendirir; dumanın binadan çıkarılması için uygun egzoz noktaları, taze hava beslemesi, hava akış yolları ve kontrol senaryosu gerekir. Fanın üzerinde “duman” ibaresi bulunması veya normal modda çalışması, yangın modunun performans kanıtı değildir. Tersine, ayrı kanal ve egzoz fanı bulunan bir sistemin de ancak proje, senaryo ve test belgeleriyle işlevi anlaşılır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-degisiklik-taslagi",
+      "metin": "Yürürlükteki hüküm ile değişiklik TASLAĞI"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 60 kapsamında, toplam alanı 2000 m²’yi aşan kapalı otoparklar için mekanik duman tahliye sistemi gerekir. Sistemin binanın diğer bölümlerine hizmet veren sistemlerden bağımsız olması ve saatte en az 10 hava değişimi sağlaması öngörülür. Araçların asansörle alındığı kapalı otoparklar için doğal veya mekanik havalandırma şartı ayrıca düzenlenmiştir. Bu iki hüküm farklı işlevleri anlatır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı BYKHY değişiklik TASLAĞI Madde 60/10, 2000 m² eşiğini korumakla birlikte duman tahliyesi için taban alanının her m²’si başına 300 L/dak debi; elektrikli araç şarj sistemlerinin bulunduğu bölümler için ayrıca 500 L/dak debi önermektedir. Taslak Madde 60/11 ise araçların asansörle alındığı kapalı otoparklarda mekanik havalandırma öngörür. Bunlar yürürlükteki 10 hava değişimi şartının yerine geçmiş değerler değildir. Taslak hükümler ancak yürürlüğe girme durumu ayrıca doğrulandıktan sonra bağlayıcı hüküm olarak ele alınabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Madde 87 ve değişiklik TASLAĞI Madde 88, mevcut havalandırma tesisatının yangında duman kontrolü için kullanılabilmesini, mekanik duman kontrolüne ilişkin bütün şartların karşılanmasına bağlar. Dolayısıyla “aynı sistem” kararı yalnız ekipman ortaklığına değil, yangın modunun tasarım ve doğrulamasına dayanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-ayrimi-gorunur-kilan-kontrol-matrisi",
+      "metin": "Sahada ayrımı görünür kılan kontrol matrisi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Normal işletme sorusu",
+        "Yangın senaryosu sorusu"
+      ],
+      "satirlar": [
+        [
+          "Fan ve egzoz hattı",
+          "Günlük hava atımı hangi noktadan yapılır?",
+          "Duman hangi güzergahla dışarı atılır?"
+        ],
+        [
+          "Kumanda ve otomasyon",
+          "CO/NO₂ algısı veya zaman programı var mı?",
+          "Yangın alarmı hangi fan, damper ve açıklığı nasıl çalıştırır?"
+        ],
+        [
+          "Hava beslemesi",
+          "Taze hava nereden alınır?",
+          "Duman tahliyesinde gerekli besleme yolu korunur mu?"
+        ],
+        [
+          "Elektrik ve dayanım",
+          "Normal besleme ve bakım kaydı nedir?",
+          "Yangın modunda güç ve ekipman dayanımı nasıl belgelenir?"
+        ],
+        [
+          "Performans kanıtı",
+          "İşletme ölçümü veya bakım raporu var mı?",
+          "Projeye uygun devreye alma ve senaryo test kaydı var mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce otoparkın onaylı mimari ve mekanik projelerini, kullanım izinlerini, güncel kat alanlarını, otoparkın açık/kapalı niteliğini ve varsa elektrikli araç şarj alanlarını belirler. Sonra mekanik havalandırma projesi, duman kontrol şeması, yangın algılama ve otomasyon senaryosu, fan listeleri, ekipman teknik belgeleri, devreye alma tutanakları ve bakım/test kayıtlarını birbirleriyle karşılaştırır. Belge bulunmayan hususları doğrulanmış gibi göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada jet fanların, ana egzoz fanlarının, emiş noktalarının, şaftların, hava girişlerinin ve kontrol panellerinin projedeki yerleriyle eşleşip eşleşmediğini gözlemler. Sonradan örülen duvar, kapatılan açıklık, yeni park sırası veya şarj ünitesi hava akışını ve tasarım senaryosunu etkileyebilir. Bunlar için konum, fotoğraf, ilgili proje paftası ve değişiklik tarihi kayda alınır. Duman tahliye debisini gözle tahmin etmez; gerekli performansın ölçüm ve işlevsel test kayıtlarında nasıl doğrulandığını inceler. Sistem tasarımı, elektriksel ölçüm, debi ölçümü veya teknik onay yetkisini kendiliğinden üstlenmez; ilgili teknik doğrulamaların kayıtlarını izler."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt dili: “B2 otopark katında JF-04 ve JF-05 jet fanları sahada mevcuttur. Sunulan mekanik projede normal havalandırma akışı gösterilmiş, yangın senaryosunda fanların çalışma yönü ve ana egzoz hattı ile ilişkisini doğrulayan güncel senaryo/test kaydı sunulmamıştır. Bu nedenle yangın duman tahliye işlevi yalnız fanların varlığına dayanılarak doğrulanamamıştır.” Bu metin kurgusal bir kayıt örneğidir, gerçek bir saha olayı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Otoparkta havalandırma ve duman tahliyesi eş anlamlı değildir. Bir sistem iki işlevi birlikte yerine getirebilir; bunun şartı yangın modunun yürürlükteki mevzuat, onaylı proje, ekipman belgeleri ve doğrulanmış testlerle ortaya konulmasıdır. YGU için kritik ayrım, “fan çalışıyor” gözlemi ile “yangın duman kontrol işlevi doğrulandı” sonucunun aynı kanıt düzeyinde olmamasıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,122 @@
+{
+  "kod": "YGR-K127",
+  "yol": "iki-yonde-kacis-imkani-hangi-noktada-baslar",
+  "baslik": "İki yönde kaçış imkanı hangi noktada başlar?",
+  "ozet": "Bir koridorda iki kapı görülmesi, kullanıcıya her noktada iki bağımsız kaçış yönü sağlandığını göstermez. Esas soru, bulunduğu noktadan hareket eden kişinin, aynı ilk güzergaha mecbur kalmadan iki farklı uygun çıkış yönünden birini seçip seçemediğidir. Tek bir ortak koridor kolunu geçtikten sonra ikiye ayrılan güzergahın başlangıç bölümü, iki yönlü kaçış olarak değerlendirilmemelidir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "iki-yonlu-kacis-ne-anlama-gelir",
+      "metin": "İki yönlü kaçış ne anlama gelir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış yolunun niteliği yalnız yön seçimiyle belirlenmez. Her iki kolun da uygun çıkışa bağlanması, kapıların kullanılabilir olması, güzergahın sürekliliği ve izin verilen kaçış uzaklıkları birlikte değerlendirilir. Bir kapının kilitli, depo alanıyla kapatılmış veya gerçekte çıkışa bağlanmıyor olması, çizimde görülen alternatifin sahada karşılığı bulunmadığı anlamına gelebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yon-ayrimi-hangi-noktada-baslar",
+      "metin": "Yön ayrımı hangi noktada başlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "İki yönlü kaçış imkanı, kişinin bulunduğu konumdan itibaren birbirinden ayrılan ve uygun çıkışlara ulaşan iki kullanılabilir güzergahın gerçekten mevcut olduğu noktada başlar. Bir koridorun sonunda sağa ve sola ayrılan iki kol varsa, ayrım noktasına kadar olan ortak bölüm tek yönde ilerlemeyi gerektirebilir. Koridorun ortasına sonradan açılan bir bağlantı ise ancak ulaştığı güzergahın devamı uygun ve bağımsız bir çıkış seçeneği sunuyorsa değerlendirmeyi değiştirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin uzun bir koridora yan geçiş açılması, tek başına ikinci kaçış yönü kazandırmaz. Yan geçişin ulaştığı alan aynı koridorun ilerideki bölümüne geri dönüyorsa, iki ayrı kapı bulunsa da bağımsız alternatif çıkış elde edilmeyebilir. Buna karşılık bağlantı, uygun koşulları taşıyan farklı bir korunumlu kaçış yoluna ulaşıyorsa proje ve saha üzerinde yeni güzergahın tamamı incelenmelidir. Bu örnek, gerçek bir olay değil, inceleme yöntemini açıklayan varsayımsal bir durumdur."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-incelemesinde-karar-noktalari",
+      "metin": "Proje ve saha incelemesinde karar noktaları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Projede aranacak bilgi",
+        "Sahada doğrulanacak durum"
+      ],
+      "satirlar": [
+        [
+          "Başlangıç noktası",
+          "Mahaller ve koridor bağlantıları",
+          "Kullanıcının ilk hareket yönü ve ortak güzergah"
+        ],
+        [
+          "Yol ayrımı",
+          "İki alternatif güzergahın çizimi",
+          "Yolların gerçekten ayrıldığı ve erişilebilir olduğu nokta"
+        ],
+        [
+          "Çıkış sürekliliği",
+          "Kapı, merdiven ve son çıkış bağlantıları",
+          "Her kolun uygun çıkışa kesintisiz ulaşması"
+        ],
+        [
+          "Sonradan değişiklik",
+          "Revizyon ve onaylı tahliye planı",
+          "Yeni bölme, kapı, kilit veya kullanım değişikliği"
+        ],
+        [
+          "Kapasite ve uzaklık",
+          "Kullanıcı yükü ve kaçış hesabı",
+          "Fiili kullanım ve ölçülü güzergahla uyum"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari ve yangın tahliye projelerini, varsa proje revizyonlarını, yapı kullanma izni ve kullanım bilgilerini karşılaştırarak başlar. Koridorun hizmet verdiği mahallerin fiili faaliyetini ve kullanıcı yoğunluğunu kaydeder. Plan üzerinde tek yönde kalınan ortak kesimi ve alternatif yönlerin başladığı noktayı işaretler; ardından güzergahları sahada baştan sona izler."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada yeni açılan bağlantı, kapatılan geçiş, değiştirilen kapı yönü veya kilit düzeni tespit edilirse yalnız görünür durumu değil, bunun iki ayrı çıkış seçeneğine etkisini de açıklar. Belirsizlik halinde ilgili onaylı proje, ölçülü rölöve ve yetkili tasarımcı değerlendirmesini ister. Gözlem ile belgeler arasında fark varsa konum, fotoğraf, proje paftası ve gerekçeyi raporunda eşleştirir; uygunluk hakkında belgesiz kesin karar vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemesi, yetkili proje müellifinin kaçış hesabını yeniden tasarlaması, resmi proje onayı vermesi veya başka uzmanlıkların teknik ölçüm ve test yetkisini üstlenmesi anlamına gelmez. Gerektiğinde hesapların ve revizyonların ilgili yetkili kişilerce yapılmasını önerir; kendi değerlendirmesinin kapsamını raporda belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-uygulanmasinda-dikkat",
+      "metin": "Mevzuatın uygulanmasında dikkat"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik kapsamında kaçış uzaklığı, çıkış kapasitesi ve kaçış yolu düzeni birlikte ele alınır. İlgili hükmün uygulanması yapının kullanım sınıfına, kullanıcı yüküne ve somut planına bağlıdır. Yeni düzenleme taslağındaki madde başlığı aynı konuya işaret etse bile taslak hükümler yürürlükteki zorunluluk yerine geçirilemez. Bu nedenle sayısal sınırlar, ilgili yürürlük metni ve onaylı hesap üzerinden ayrıca doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İki yönde kaçış, koridorda görülen kapıların sayısıyla değil, kullanıcının bulunduğu noktadan gerçekten seçebildiği uygun ve birbirinden ayrılan kaçış güzergahlarıyla belirlenir. Değerlendirme, yol ayrımının konumunu, ortak kesimi ve her alternatifin son çıkışa kadar sürekliliğini birlikte ortaya koymalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,150 @@
+{
+  "kod": "YGR-K138",
+  "yol": "magaza-icinde-depo-buyumesi-kacis-planini-degistirir-mi",
+  "baslik": "Mağaza İçinde Depo Büyümesi Kaçış Planını Değiştirir mi?",
+  "ozet": "Mağazanın arka bölümünde depolama alanının büyümesi, yalnız rafların yer değiştirmesi değildir. Satış alanının daralması, stok miktarının artması, yeni bölme duvarı veya kapı yapılması, kaçış güzergahının ve yangın koruma önlemlerinin dayandığı tasarım verilerini değiştirebilir. Bu nedenle ilk soru “depo kaç metrekare oldu?” değil, “onaylı projedeki kullanım, kullanıcı yükü, tehlike ve kaçış düzeni bugün de geçerli mi?” olmalıdır.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "satis-alani-ile-baglantili-depo-nasil-siniflandirilir",
+      "metin": "Satış alanı ile bağlantılı depo nasıl sınıflandırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, ticari malların satışıyla bağlantılı ve aynı binadaki büro, depo ve hizmet bölümlerini ticaret amaçlı bina sınıfında değerlendirir. Bu, depoda bulunan her malzemenin ve her işletme biçiminin otomatik olarak düşük riskli olduğu anlamına gelmez. Stok türü, miktarı, istif yüksekliği, paketleme malzemesi, tehlikeli madde varlığı ve depolamanın ticari faaliyetten bağımsız hale gelip gelmediği ayrıca incelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin arka odanın günlük satış stokunu tuttuğu düzen ile paletli yüksek istif yapılan, sevkiyat için sürekli yükleme alanına dönüşmüş bir düzen aynı saha varsayımına dayanmaz. İkinci durumda depolama ve yangın yükü yönünden ilave teknik inceleme gerekebilir; yalnız kapıya “depo” etiketi asmak kullanım sınıfını kesinleştirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "kacis-plani-hangi-degisikliklerden-etkilenir",
+      "metin": "Kaçış planı hangi değişikliklerden etkilenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY Madde 31 uyarınca kaçış yolları kesintisiz ve engellenmemiş olmalı; kullanım sınıfı, kullanıcı yükü, kat alanı, kaçış uzaklığı ve çıkış kapasitesi birlikte değerlendirilmelidir. Mağazanın büyüyen deposu aşağıdaki beş başlıkta yeniden karşılaştırma gerektirir:"
+    },
+    {
+      "tip": "p",
+      "metin": "• Yeni raf ve istiflerin kapıya, koridora veya çıkış işaretlerine erişimi daraltması;"
+    },
+    {
+      "tip": "p",
+      "metin": "• Satış alanından depoya aktarılan alanın kişi yükü hesabını ve hesapta kullanılan alan tanımlarını değiştirmesi;"
+    },
+    {
+      "tip": "p",
+      "metin": "• Yeni bölme, kapı veya kapalı stok bölgesinin çıkmaz güzergah ya da daha uzun fiili kaçış yolu oluşturması;"
+    },
+    {
+      "tip": "p",
+      "metin": "• Yangın kompartımanı sınırlarının, kapı donanımının, algılama ve söndürme sistemi yerleşiminin değişmesi;"
+    },
+    {
+      "tip": "p",
+      "metin": "• Sevkiyat saatlerinde palet, transpalet ve geçici stokların kaçış yolu üzerinde tutulması."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı yükü salt toplam metrekarenin tek katsayıyla çarpılması değildir. Satış ve depo bölümlerinin ilgili kullanım özellikleri, onaylı plandaki net alanlar ve BYKHY ek tabloları birlikte okunur. Değişiklikten sonra çıkış genişliği ve sayısı yeterli görünse bile gerçek yürüyüş hattı, kapıların açılma yönü ve erişilebilirlik ayrıca kontrol edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ve-degisiklik-taslagi",
+      "metin": "Yürürlükteki hüküm ve değişiklik TASLAĞI"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 13, satışla bağlantılı aynı bina içindeki depo ve hizmet bölümlerini ticaret amaçlı kullanım içinde sayar. Kullanıcının sağladığı BYKHY değişiklik TASLAĞI da bu yaklaşımı korur. Ancak taslak, başka bir kullanım sınıfındaki binanın küçük ticaret bölümüne ilişkin ifadede “50 m²’den küçük” eşiğini açıkça önerir; yürürlükteki metinde bu sayısal ifade yer almaz. Bu fark, mağaza içindeki arka deponun büyümesine doğrudan bir 50 m² sınırı koymaz. Taslak hüküm yayımlanmadıkça yürürlükteki zorunluluk olarak uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış uzaklığı ve çıkış kapasitesi bakımından ilgili yürürlükteki hükümler ve ek tablolar esas alınır. Taslak Madde 32 ve ilgili eklerdeki öneriler, ayrıca değişiklik karşılaştırması olarak izlenebilir; yürürlükteki hesabın yerine geçirilmez. Burada tek bir sabit kaçış uzaklığı vermek doğru değildir; değer, kullanım, kaçış yönü ve ilgili sistem koşullarına bağlıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce geçerli mimari ve yangın tahliye projesinde satış alanını, depoyu, kapıları, koridorları, kompartıman sınırlarını ve çıkışları belirler. Yapı kullanım belgeleri, varsa tadilat projeleri, mahal listesi, işletmenin stok ve sevkiyat düzeni ile yangın algılama ve söndürme projelerini aynı mahal kodları üzerinden eşleştirir. Sahada ölçülebilir ve gözlenebilir değişiklikleri tarihli fotoğraf ve plan işaretlemesiyle kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme sırasında satışa açık alan, yalnız personelin girdiği depo ve sevkiyat noktası ayrı değerlendirilir. Depodan kaçışın satış salonundan geçmesi gerekiyorsa bu yolun gerçekten kullanılabilir olup olmadığı; kilit, istif, turnike, kapı kanadı ve geçici malzeme engelleri yönünden incelenir. Sistem performansı veya yeniden tasarım gerektiren konularda YGU, mevcut teknik rapor ve test kayıtlarını değerlendirir; kendiliğinden sistem tasarım onayı veya yetki dışı ölçüm sonucu üretmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-kayit-matrisi",
+      "metin": "Örnek saha kayıt matrisi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Karşılaştırılacak kanıt",
+        "Rapora yazılacak tespit"
+      ],
+      "satirlar": [
+        [
+          "Depo sınırı",
+          "Onaylı mahal planı ve güncel yerleşim",
+          "Duvar, raf, alan ve kullanım farkı"
+        ],
+        [
+          "Kaçış güzergahı",
+          "Tahliye planı, kapı listesi, saha fotoğrafı",
+          "Engel, yeni dönüş, çıkmaz veya kapı farkı"
+        ],
+        [
+          "Stok ve yangın yükü",
+          "Stok listesi, ürün türleri, istif planı",
+          "Artan miktar ve farklı depolama niteliği"
+        ],
+        [
+          "Koruma sistemleri",
+          "Algılama ve söndürme projesi, bakım/test kaydı",
+          "Değişen alanın koruma kapsamı ve açık doğrulamalar"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-tespit-nasil-yazilir",
+      "metin": "Gerekçeli tespit nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek ifade: “Onaylı projede D-02 olarak gösterilen arka depo, sahada yeni raf dizileriyle satış bölümüne doğru genişletilmiştir. K-04 kapısına ulaşan geçişte geçici stok bulunduğu gözlenmiştir. Güncel mahal alanı ve kullanıcı yükü hesabı ile algılama/söndürme yerleşiminin bu değişiklik sonrasında yeniden değerlendirildiğine ilişkin belge sunulmamıştır. Kaçışın sürekliliği bakımından gözlenen engelin giderilmesi, proje–saha farkının ve ilgili sistem kapsamının belgeli olarak değerlendirilmesi gerekir.” Bu metin örnektir; gerçek bir olaya ait değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mağaza içindeki deponun büyümesi, her durumda yeni bir bina kullanım sınıfı doğurmaz; fakat mevcut kaçış planının geçerliliğini sorgulatabilir. Sağlam değerlendirme, depo alanının yeni ölçüsünden önce stok niteliğini, fiili güzergahı, kullanıcı yükünü, kompartımanları ve koruma sistemlerinin proje–saha uyumunu birlikte ele alır. YGU raporu, doğrulanmış gözlemi ve belge eksikliğini birbirine karıştırmadan açıkça göstermelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

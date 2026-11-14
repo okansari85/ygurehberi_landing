@@ -1,0 +1,112 @@
+{
+  "kod": "YGR-K131",
+  "yol": "dairesel-merdiven-hangi-kosullarda-kacis-cozumu-olabilir",
+  "baslik": "Dairesel merdiven hangi koşullarda kaçış çözümü olabilir?",
+  "ozet": "Dar parsellerde veya mevcut yapılara sonradan eklenen kat bağlantılarında dairesel merdiven, az yer kapladığı için cazip görünebilir. Ancak bir merdivenin fiziksel olarak kullanılabilmesi, onun zorunlu kaçış çıkışı olarak sayılabileceği anlamına gelmez. Karar; merdivenin hizmet ettiği kat, kullanıcı yükü, geometrisi, malzemesi ve güvenli alana kadar devam eden kaçış güzergahı birlikte incelenerek verilir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorun-nerede-baslar",
+      "metin": "Sorun nerede başlar?"
+    },
+    {
+      "tip": "h2",
+      "id": "dairesel-merdivenin-zorunlu-cikis-olarak-degerlendirilmesi",
+      "metin": "Dairesel merdivenin zorunlu çıkış olarak değerlendirilmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, dairesel merdivenlerin zorunlu çıkış olarak kullanılmasına sınırlı koşullarda izin verir. Merdivenin yanmaz malzemeden yapılması, en az 100 cm genişlikte olması ve hizmet verdiği herhangi bir kat, ara kat veya balkondaki kullanıcı yükünün 25 kişiyi aşmaması temel koşullardandır. Merdivenin yüksekliği 9,50 m sınırını aşamaz. Basamağın kova merkezinden en fazla 50 cm uzaklıktaki basış genişliği en az 250 mm, basamak yüksekliği en çok 175 mm ve baş kurtarma yüksekliği en az 2,50 m olmalıdır. Bu koşullar birbirinin alternatifi değildir; birlikte ele alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "sayilar-tek-basina-yeterli-degildir",
+      "metin": "Sayılar tek başına yeterli değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Merdiven geometrisi uygun görünse bile katın gerçek kullanımında kişi sayısı artmış, kapı yeri değişmiş veya merdivene ulaşan koridor kapatılmış olabilir. Merdivenin bir katın tek zorunlu çıkışı mı yoksa alternatif çıkışı mı olduğu, toplam çıkış sayısı ve kaçış uzaklığı gereksinimlerinden bağımsız kararlaştırılamaz. Örneğin projede az sayıda kişinin kullandığı bir ara kata hizmet eden merdivenin, sonradan yoğun kullanımlı bir çalışma alanına bağlanması yeni değerlendirme gerektirir. Bu, gerçek bir olay anlatımı değil, karar mantığını gösteren varsayımsal bir durumdur."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-belge-ve-saha-karsilastirmasi",
+      "metin": "Proje, belge ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Aranacak kanıt",
+        "Sahadaki soru"
+      ],
+      "satirlar": [
+        [
+          "Kullanım ve kişi sayısı",
+          "Onaylı mimari proje, mahal kullanım bilgileri, güncel yerleşim",
+          "Merdivene hangi katlar ve kaç kişi yöneliyor?"
+        ],
+        [
+          "Merdiven geometrisi",
+          "Kesit, plan, detay ve varsa ölçüm raporu",
+          "Genişlik, basamak ve baş kurtarma ölçüleri projeyle örtüşüyor mu?"
+        ],
+        [
+          "Malzeme ve montaj",
+          "Malzeme belgeleri, uygulama detayı",
+          "Projedeki malzeme ve bağlantılar sahada korunmuş mu?"
+        ],
+        [
+          "Kaçışın sürekliliği",
+          "Tahliye projesi, kapı ve koridor yerleşimi",
+          "Merdivene erişim ve son çıkış engelleniyor mu?"
+        ],
+        [
+          "Değişiklik geçmişi",
+          "Revizyonlar, izin ve uygulama kayıtları",
+          "Sonradan yapılan müdahale kararı etkiliyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle hangi onaylı projenin geçerli olduğunu ve bu projede dairesel merdivenin hangi işlevle gösterildiğini belirler. Yapı ruhsatı ve kullanım izinleri, ilgili revizyonlar, mimari ve tahliye projeleri, malzeme belgeleri ve varsa yetkili kişilerce hazırlanmış ölçüm raporları birlikte okunur. Ardından gerçek mahal kullanımı, kat bazındaki kullanıcı yükü, merdiven konumu, kapı bağlantıları ve çıkışın devamı sahada gözlemlenir. Proje ile uygulama arasında fark varsa yeri, niteliği ve karar üzerindeki olası etkisi fotoğraf, çizim işareti ve belge referansıyla raporlanır. Uzmanın gözlemsel incelemesi, yetkili tasarımcının yeniden hesap yapması, ölçüm kuruluşunun test yapması veya idarenin proje onayı vermesi yerine geçmez. Kesin uygunluk için eksik teknik kanıt varsa bu açıkça belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "degerlendirme-sonucu-nasil-yazilmali",
+      "metin": "Değerlendirme sonucu nasıl yazılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "“Dairesel merdiven mevcut” ifadesi tek başına uygunluk sonucu değildir. Rapor; merdivenin hangi kata hizmet ettiğini, kaçış düzenindeki yerini, dayanak alınan proje sürümünü, doğrulanmış ölçü ve belgeleri, gözlenen farklılıkları ve varsa tamamlanması gereken teknik incelemeyi ayrı ayrı göstermelidir. Bir şartın sağlanmaması durumunda yalnız o eksikliği değil, zorunlu çıkış hesabına olası etkisini de değerlendirme talebi olarak kaydetmek gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Dairesel merdiven, dar alana sığdığı için değil; kullanıcı yükü, geometri, malzeme ve kaçış bütünlüğü açısından ilgili şartlar sağlandığı için kaçış çözümü olabilir. Projede çizilmiş olması da sahadaki değişikliklerin ayrıca incelenmesi gereğini ortadan kaldırmaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

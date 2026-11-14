@@ -1,0 +1,111 @@
+{
+  "kod": "YGR-K121",
+  "yol": "cephe-boslugunun-katlar-arasi-yayilima-etkisi-hangi-detayda-gorulur",
+  "baslik": "Cephe boşluğunun katlar arası yayılıma etkisi hangi detayda görülür?",
+  "ozet": "Bir giydirme cephe dışarıdan kesintisiz görünse de kat döşemesi ile cephe elemanı arasında uygulamaya bağlı bir aralık kalabilir. Bu aralık uygun biçimde kapatılmadığında yangın ve sıcak gazlar, yangının çıktığı katın üzerinde kalan hacimlere ulaşabilecek bir geçiş yolu bulur. Bu nedenle yalnızca cephe panelinin malzeme sınıfına bakmak yeterli değildir; kat hizasındaki birleşim detayı ayrıca incelenmelidir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorun-cephe-yuzeyinde-degil-cogu-zaman-birlesimdedir",
+      "metin": "Sorun cephe yüzeyinde değil, çoğu zaman birleşimdedir"
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-teknik-detay-incelenir",
+      "metin": "Hangi teknik detay incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk belge, onaylı mimari proje ve cephe uygulama projesindeki döşeme kenarı kesitidir. Kesitte taşıyıcı döşeme, cephe profili, dolgu ve yangın durdurucu çözümün konumu, sürekliliği ve bağlantı biçimi okunabilmelidir. Sahada ise özellikle asma tavan üstü, şaft yakınları, kolon önü, cephe ankrajları ve tesisatın kesiştiği noktalar incelenir. Görünür yüzeyin kapatılmış olması, arka boşluğun da uygun şekilde kapatıldığını kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenlemenin-teknik-karsiligi",
+      "metin": "Yürürlükteki düzenlemenin teknik karşılığı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik madde 27, giydirme cephe ile alevlerin geçebileceği boşlukları bulunmayan döşemelerin kesiştiği yerlerde, komşu kata alev geçişini önleyecek yalıtımın döşemenin yangın dayanım süresi kadar sağlanmasını düzenler. Aynı maddenin cephe sistemi ve katlar arası yayılım konusundaki diğer koşulları, binanın niteliğine ve seçilen sisteme göre ayrıca değerlendirilir. Buradaki temel hata, cephe malzemesinin sınıflandırma belgesini döşeme kenarı birleşiminin performans kanıtı yerine koymaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasi",
+      "metin": "Proje ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Belgede aranacak kanıt",
+        "Sahada aranacak durum"
+      ],
+      "satirlar": [
+        [
+          "Döşeme kenarı",
+          "Kat hizası kesiti ve birleşim detayı",
+          "Açık aralık, kesintili dolgu, farklı uygulama"
+        ],
+        [
+          "Yangın durdurucu sistem",
+          "Uygunluk / sınıflandırma ve uygulama detayı",
+          "Malzeme, kalınlık ve montajın belgelenen çözümle uyumu"
+        ],
+        [
+          "Ankraj ve profil geçişleri",
+          "Özel birleşim çözümü",
+          "Profil çevresinde süreksiz veya boş kalan noktalar"
+        ],
+        [
+          "Sonradan yapılan işler",
+          "Revizyon projesi ve uygulama kayıtları",
+          "Tesisat geçişi, sökme veya tamir sonrası açık kalan bölüm"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablodaki saha belirtileri tek başına yangın dayanım sınıfını belirlemez; belge incelemesi ve gerekli uzman değerlendirmesi için bulgu oluşturur."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-degerlendirme-proje-ile-uygulama-farkliysa",
+      "metin": "Örnek değerlendirme: proje ile uygulama farklıysa"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir incelemede onaylı kesitte döşeme kenarında sürekli bir yangın durdurucu detay bulunmasına rağmen sahada bir cephe ankrajının çevresinde açık aralık görülmüş olsun. Bu durumda rapor, “cephe uygun değildir” gibi dayanağı belirsiz genel bir hüküm yerine; kat, aks, fotoğraf, kesit numarası ve tespit edilen uygulama farkını kaydeder. İşletmeden uygulama detayı ve ürün/sistem belgeleri istenir; gerekli teknik inceleme ve düzeltme, ilgili tasarım ve uygulama sorumlularına yönlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle onaylı mimari proje, cephe kesitleri, yapı kullanma izni ve varsa tadilat kayıtlarını inceler. Yapının gerçek kullanımı, sonradan eklenen cephe ekipmanı ve bakım müdahaleleriyle bu kayıtları karşılaştırır. Kat hizasındaki boşlukları erişilebilen noktalarda gözlemler; gizli detay için açma veya deney yapılmasını kendi yetkisiyle zorunlu teknik test gibi sunmaz. Bulguyu konum, fotoğraf, proje referansı, istenen belge ve olası yayılım yolu üzerinden gerekçelendirir. Yangın dayanımı ölçümü, taşıyıcı sistem tasarımı, cephe sisteminin yeniden projelendirilmesi ve resmi onay işlemleri ilgili yetkili kişi ve kuruluşların sorumluluğundadır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Cephede katlar arası yayılım açısından kritik soru, “panelin belgesi var mı?” sorusundan önce “döşeme kenarında yangın ayırma sürekliliği nasıl sağlanmış ve sahada korunmuş mu?” sorusudur. Sağlıklı değerlendirme, tek bir ürün etiketinden değil; kesit, sistem kanıtı, uygulama ve değişiklik kayıtlarının birlikte okunmasından çıkar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

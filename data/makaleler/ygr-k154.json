@@ -1,0 +1,156 @@
+{
+  "kod": "YGR-K154",
+  "yol": "sprinkler-akis-alarmi-panelde-nasil-izlenmelidir",
+  "baslik": "Sprinkler akış alarmı panelde nasıl izlenmelidir?",
+  "ozet": "Bir binada yağmurlama sistemi bulunması ve yangın alarm panelinde bir “sprinkler” satırının görünmesi, su akışının doğru bölge adıyla izlendiğini tek başına göstermez. Bir sprinkler başlığı açıldığında borudan geçen suyun oluşturduğu bilgi, sahadaki akış algılama elemanından yangın alarm sistemine aktarılmalı; panelde hangi bölgeden geldiği anlaşılmalı ve projede belirlenen alarm senaryosuyla ilişkilendirilmelidir. Yangın Güvenlik Uzmanı (YGU) için kontrolün temel sorusu, yalnız “panel alarm verdi mi?” değil, “hangi fiziksel olay, hangi hat ve hangi kanıtla panelde bu olaya dönüştü?” sorusudur.",
+  "etiketler": [
+    "Yangın Alarmı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "su-akisi-vana-konumu-ve-ariza-uc-ayri-bilgidir",
+      "metin": "Su akışı, vana konumu ve arıza üç ayrı bilgidir"
+    },
+    {
+      "tip": "p",
+      "metin": "Su akış anahtarı, ilgili yağmurlama zonunda su hareketini algılayıp bir kontak bilgisi üretir. Bu bilgi, projesinde öngörülen arayüz üzerinden yangın alarm paneline ulaşır. Hat kesme vanasının izleme anahtarı ise vananın denetlenen konumundaki değişimi bildirir; söndürme zonunda su aktığını göstermez. Kablo kopukluğu, izleme modülü veya devre arızası gibi durumlar da ayrı arıza kaydı olarak ele alınır. Üç sinyalin panel ekranında tek bir genel “yangın” yazısına indirgenmesi, olayın yerini ve niteliğini değerlendirmeyi zorlaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın pompasının çalışması, su deposu seviye bilgisi veya basınç değişimi de akış anahtarının verdiği bilgiden farklıdır. Pompanın çalıştığını görmek, belirli bir zonda su akış alarmının doğru iletildiğini ispatlamaz; su akış sinyalini almak da pompa performansının veya sprinkler başlığının gerçekten açıldığının ölçülmüş kanıtı değildir. Test hattından gerçekleştirilen kontrollü su akışı da aynı alarmı oluşturabilir. Bu nedenle olayın meydana geldiği yer ve test bağlamı kayıtla açıklanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-neyi-duzenliyor",
+      "metin": "Yürürlükteki BYKHY neyi düzenliyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 75/7, otomatik yağmurlama sisteminde su akış anahtarlarının zon hatlarına yerleştirilerek kontak çıkışlarının yangın alarm sistemine giriş olarak bağlanmasını düzenler. Madde 78, yağmurlama sistemi ve otomatik algılama sistemi kurulan binalarda alarm istasyonları ve akış anahtarlarının alarm sistemiyle bağlantısını ve gelen alarm uyarılarının ayrı bölgesel göstergelerle izlenmesini öngörür. Hat kesme vanası izleme anahtarlarının ve diğer arıza kontaklarının da sürekli denetlenmesi gerekir. Madde 96/7, birden fazla yangın zonuna hizmet veren ana besleme hatlarındaki zon veya kolon bağlantılarına ilişkin elemanları ayrıca düzenler."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hükümler okunduğunda panelde tek bir alarm mesajının görünmesi tek başına yeterli bir uygunluk kanıtı değildir. İlgili zonun adı, akış sinyalinin olay türü, diğer izleme sinyallerinden ayrımı ve kayıt altına alınan işlevsel doğrulama birlikte incelenmelidir. Bir sistemin hangi alt bileşeninin zorunlu olduğu ve sinyalin hangi otomasyon işlevlerini başlatacağı, uygulanabilir mevzuat ile onaylı mekanik ve algılama projelerindeki senaryoya göre değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sinyal-zinciri-nereden-nereye-izlenir",
+      "metin": "Sinyal zinciri nereden nereye izlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, sprinkler zon şemasındaki zon adı ve akış anahtarının fiziksel yerinden başlar. Daha sonra anahtarın kablo/izleme modülü bağlantısı, yangın alarm panelindeki giriş adresi, panel olay metni, bölgesel gösterim ve varsa uzak izleme noktaları karşılaştırılır. Örnek zincir “Zon S-03 akış anahtarı → izleme modülü → panelde ‘B1 depo sprinkler su akışı’ alarmı → olay kaydı ve onaylı uyarı senaryosu” şeklinde okunabilir. Bu örnekteki adres ve mahal adları varsayımsaldır; gerçek tesis için kayıt yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Alarm gecikmesi, doğrulama mantığı, uyarının bina geneline veya belirli bölgelere iletilmesi ve testin nasıl yapılacağı her yapı için aynı kabul edilmez. Uygulanabilir proje, sistemin teknik belgeleri ve test prosedürü esas alınmalıdır. İşletme personelinin panel ekranındaki olayı okuyabildiği, hangi katta veya zonda kontrol yapacağını bildiği ve kaydın izlenebilir olduğu ayrıca önem taşır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-panel-ve-saha-kayitlari-nasil-eslestirilir",
+      "metin": "Proje, panel ve saha kayıtları nasıl eşleştirilir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Aranacak belge / kayıt",
+        "Doğrulama sorusu"
+      ],
+      "satirlar": [
+        [
+          "Su akış anahtarı",
+          "Sprinkler zon şeması; akış anahtarı listesi",
+          "Etiket/zon konumu ile panel giriş adresi aynı hattı gösteriyor mu?"
+        ],
+        [
+          "Alarm olayı",
+          "Algılama projesi; giriş-çıkış matrisi",
+          "Panelde olay “su akışı” ve doğru mahal/bölge adıyla görünüyor mu?"
+        ],
+        [
+          "Vana izleme",
+          "Vana listesi; izleme bağlantı şeması",
+          "Vana konumu bildirimi su akış alarmından ayrılıyor mu?"
+        ],
+        [
+          "Devre/cihaz arızası",
+          "İzleme modülü bağlantısı; bakım raporu",
+          "Arıza veya devre dışı kaydı doğru giriş/zonla ilişkilendiriliyor mu?"
+        ],
+        [
+          "İşlevsel test",
+          "Onaylı test prosedürü; tutanak ve panel olay kaydı",
+          "Testte hangi hat açıldı, panelde hangi olay ve zamanda kaydedildi?"
+        ],
+        [
+          "Tadilat ve revizyon",
+          "As-built çizimler; adres listesi; güncel mahal planı",
+          "Yeni zon, taşınan vana veya değişen kat adı sisteme işlendi mi?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) sahadaki uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, önce onaylı mekanik tesisat projesinden sprinkler zonlarını, test ve drenaj düzenini, ilgili vana ve akış anahtarlarının yerlerini belirler. Yangın algılama projesindeki adres listesi ve alarm senaryosuyla bunları bire bir eşleştirir. Saha incelemesinde zon tabelası, akış anahtarı etiketi, vana odası veya kat koridorundaki gerçek kullanım ile paneldeki mahal adının uyuşup uyuşmadığını kayıt altına alır. Kullanım değişikliği, bölme duvarı ilavesi veya zon bölünmesi varsa eski etiketin halen doğru olup olmadığını sorgular."
+    },
+    {
+      "tip": "p",
+      "metin": "Fonksiyonun doğrulanması için mekanik tesisat ile algılama sistemi bakım/test tutanakları birlikte değerlendirilir. Tutanağın hangi test noktasını, tarihi, sorumlu uygulayıcıyı, panelde oluşan alarm metnini ve eski/sonraki normal durumunu gösterdiği incelenir. Bir test sırasında su akışı oluşturulması, vanaya müdahale veya elektriksel ölçüm yapılması ilgili uzmanların güvenli çalışma yöntemi ve yetki sınırı içindedir; YGU bu işlemleri kendiliğinden üstlenmiş sayılmaz. Yalnızca sunulan kanıtın inceleme sorusunu cevaplayıp cevaplamadığını raporlar."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-olay-panelde-genel-sprinkler-alarmi-gorunuyor",
+      "metin": "Örnek olay: Panelde “genel sprinkler alarmı” görünüyor"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir tesiste B2 katındaki iki farklı sprinkler zonu ayrı akış anahtarlarına sahip olsun. Panelde her iki giriş de “Sprinkler Alarm” adıyla tanımlanmışsa, test sırasında bir alarmın görülmesi o zonun doğru tanımlandığını göstermez. İlk kontrol, iki akış anahtarının etiket ve adreslerinin panel giriş listesiyle eşleştirilmesidir. Ardından işlevsel test tutanağında her ayrı testin hangi adres ve olay metnini ürettiği aranır. Vana konum bilgisi de aynı “yangın” mesajına dönüşüyorsa alarm ve denetim işlevleri birbirine karışmış olabilir; bağlantı ve programlama teknik ekip tarafından incelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek gerekçeli kayıt: “B2 katında S-01 ve S-02 olarak gösterilen iki sprinkler zonunun akış anahtarları, mekanik projede ayrı kayıtlıdır. Sunulan algılama projesinde panel girişleri farklı adreslerde görünmekle birlikte panel olay dökümünde her ikisi ‘Genel Sprinkler’ tanımıyla listelenmiştir. Zon bazında su akış alarmının doğru mahal adıyla izlenmesini gösteren güncel test kaydı sunulmamıştır. Mekanik–elektrik proje eşleştirmesi ile ayrı zon test kayıtlarının tamamlanması istenmiştir.” Bu metin gerçek bir saha tespiti değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslagi-nasil-degerlendirilir",
+      "metin": "Değişiklik TASLAĞI nasıl değerlendirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA, yağmurlama sistemi alarm istasyonları konusu Madde 79 olarak düzenlenmiştir. Akış anahtarlarının alarm sistemine bağlanması, bölgesel alarm izleme ve vana/arıza sinyallerinin denetlenmesi yaklaşımı sürmektedir. Yürürlükteki metindeki Madde 78 ile taslak Madde 79 numaraları karıştırılmamalıdır. Taslak ayrıca yayımlanıp yürürlüğe girdiği doğrulanmadıkça yeni bir bağlayıcı hüküm gibi sunulamaz; mevcut inceleme yürürlükteki uygulanabilir hükümler, proje ve doğrulanmış teknik belgelere dayanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Sprinkler akış alarmının panelde izlenmesi, bir ışığın yanmasına değil, su akışının hangi zondan kaynaklandığının doğru olay türüyle anlaşılabilmesine dayanır. Akış alarmı, vana gözetimi ve arıza kaydı birbirine karıştırılmadan; mekanik zon şeması, algılama projesi, panel adres listesi ve işlevsel test kaydı aynı fiziksel hat üzerinden karşılaştırılmalıdır. YGU'nun güçlü raporu, doğrulanan bağlantıyı, açık kalan kanıtı ve istenen düzeltmeyi birbirinden ayırır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

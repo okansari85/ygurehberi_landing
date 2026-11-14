@@ -1,0 +1,230 @@
+{
+  "kod": "YGR-K136",
+  "yol": "yatakhanenin-otel-ve-konuttan-farki-nerede-belirir",
+  "baslik": "Yatakhanenin otel ve konuttan farkı nerede belirir?",
+  "ozet": "Bir fabrikanın idari bloğundaki odalar personelin gece kalması için kullanılmaya başladığında, tabeladaki “misafirhane” veya “lojman” sözcüğü yangın güvenliği sınıfını kendiliğinden belirlemez. Benzer biçimde, çok odalı bir yatakhane ile apartman dairelerinden oluşan bir konut yapısının ikisinde de insanların uyuması, aynı kaçış kurallarına tabi oldukları anlamına gelmez. Yangın Güvenlik Uzmanı (YGU) bakımından ilk karar, yapının adını değil gerçek kullanımını ve onaylı belge durumunu saptamaktır.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kullanim-adindan-degil-islevden-baslanir",
+      "metin": "Kullanım adından değil, işlevden başlanır"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), konutları kullanım sınıfı olarak ayrı tanımlar. Konaklama amaçlı binalar ise konaklama hizmeti sunulan otel, motel, pansiyon, öğrenci yurdu, kamp ve benzeri tesisleri içerir. Bir yapıdaki yatma odalarının varlığı tek başına bütün binayı otomatik olarak otel yapmaz; odaların kimler tarafından, ne süreyle, hangi işletme modeliyle kullanıldığı ve ortak alanlarla nasıl ilişkilendiği incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bağımsız konut birimlerinde hane düzeni, bir otelde kısa süreli konaklama, bir yatakhanede ise ortak yatma alanı veya kuruma bağlı toplu barınma söz konusu olabilir. Bunlar teknik sınıflandırmada araştırılacak göstergelerdir; kesin kararın yerini alan tek ölçüt değildir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen kullanım",
+        "Belge ve sahada sorulacak soru",
+        "İlk teknik ayrım"
+      ],
+      "satirlar": [
+        [
+          "Konut / apartman",
+          "Bağımsız bölümlerdeki konut kullanımı ruhsat ve projeyle uyumlu mu?",
+          "Konutlara özgü kaçış ve merdiven hükümleri incelenir."
+        ],
+        [
+          "Otel / pansiyon",
+          "Odaların konaklama hizmetine, oda-koridor düzenine ve işletme kapasitesine ilişkin kayıtlar neler?",
+          "Konaklama amaçlı kullanım ve otel/pansiyon için düzenlenmiş koşullar incelenir."
+        ],
+        [
+          "Yurt / yatakhane",
+          "Toplu yatma alanı, kişi/yatak kapasitesi, ortak koridor ve gece işletmesi nasıl?",
+          "Konaklama kullanım sınıfı ile yatakhanelere ilişkin özel hükümler ve doğru kaçış tablosu birlikte okunur."
+        ],
+        [
+          "Personel konaklama bölümü",
+          "Hangi blok, kat veya mahaller fiilen gece konaklamasına ayrılmış?",
+          "Bütün tesis yerine önce ilgili bölümün kullanım değişikliği, ortak kaçışa etkisi ve izin/proje zinciri belirlenir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ayni-ana-sinif-her-tabloda-ayni-kosul-demek-degildir",
+      "metin": "Aynı ana sınıf, her tabloda aynı koşul demek değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın BYKHY Kılavuzu, kullanım sınıflandırmasında otelleri ve öğrenci yurtlarını konaklama amaçlı binalar altında birlikte gösterir. Buna karşılık yürürlükteki BYKHY Ek-14 tablosunda “Yurtlar, Yatakhaneler” ile “Oteller, Pansiyonlar” ayrı satırlardadır. “Apartmanlar” da ayrıca gösterilir. Bu nedenle yalnızca “hepsi konaklama” diyerek yanlış satırdan kaçış uzaklığı seçilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki değerler, yürürlükteki BYKHY Ek-14’te çıkışlara götüren en uzun kaçış uzaklıkları için verilen karşılaştırmalı tablodandır. Gerçek bir proje kararında tek/iki yönlü kaçışın mevcut olup olmadığı, yağmurlama sistemi, doğru ölçüm başlangıcı ve ilgili diğer istisnalar ayrıca doğrulanmalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Ek-14 kullanım satırı",
+        "Tek yön / yağmurlama yok",
+        "Tek yön / sistemli",
+        "İki yön / yağmurlama yok",
+        "İki yön / sistemli"
+      ],
+      "satirlar": [
+        [
+          "Yurtlar, yatakhaneler",
+          "15 m",
+          "30 m",
+          "45 m",
+          "75 m"
+        ],
+        [
+          "Oteller, pansiyonlar",
+          "15 m",
+          "20 m",
+          "30 m",
+          "45 m"
+        ],
+        [
+          "Apartmanlar",
+          "15 m",
+          "30 m",
+          "30 m",
+          "75 m"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Önemli nokta, aynı fiziksel koridorun farklı kullanımda farklı bir sınırla karşılaştırılabilmesidir. Bu tablo, bir yatakhanenin başka tüm yangın güvenliği hükümleri bakımından otelden daha hafif koşullara tabi olduğu anlamına gelmez. Her hükmün uygulanabilirlik alanı ayrı okunur."
+    },
+    {
+      "tip": "h2",
+      "id": "oda-ile-koridor-arasindaki-iliski-neden-onemlidir",
+      "metin": "Oda ile koridor arasındaki ilişki neden önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY’nin 50. maddesi, otel ve motellerin yanında başka binaların yatakhane olarak kullanılan bölümlerine de özel hükümler getirir. Odalar ile iç koridor arasındaki yangın ayırımı, koridora açılan kapıların dayanımı ve kendiliğinden kapanması, koridorun duman tahliyesi ve kaçış güzergahına bağlanan diğer mahaller birlikte değerlendirilir. Kılavuz, yatak odalarının iç koridordan en az 60 dakika yangına dayanımlı duvarla ayrılmasını ve iç koridora açılan kapılarda en az 30 dakika dayanım ile kendiliğinden kapanma düzenini açıklar."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu yaklaşımın nedeni, barınma yapılarında insanların önemli bir kısmının gece uyuyor olmasıdır. Odadan çıkan kişinin yoğun duman bulunan ortak bir koridora yönelmesi veya aynı koridorda kapıları açık bırakılmış başka mahaller bulunması, kâğıt üzerindeki yeterli çıkış sayısından bağımsız bir risk oluşturabilir. YGU, yalnızca kapının mevcut olup olmadığını değil, ilgili mahal sınırının ve kapı işlevinin onaylı belgelerle örtüşüp örtüşmediğini araştırır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-degisiklik-taslagi-birbirinden-ayrilmali",
+      "metin": "Yürürlükteki BYKHY ile değişiklik taslağı birbirinden ayrılmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK: Kitaplıkta bulunan 99 sayfalık BYKHY değişiklik taslağının 10. maddesinde “yetiştirme yurtları” konaklama amaçlı binalar arasında ayrıca sayılır. Yürürlükteki BYKHY’de ise bu ifade eğitim tesisleriyle ilgili 11. madde kapsamında yer almaktadır. Bu bir taslak sınıflandırma değişikliğidir; henüz yürürlükteki sınıfın değiştiği sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK: Aynı taslağın 50. maddesi, konaklama amaçlı binalarda kural olarak her katta en az iki çıkış öngörür. Toplam yatılan oda sayısı 12’den az ve yapı yüksekliği 12,50 m’den az olan bloklarda, merdivenin korunumlu yapılması ve basınçlandırılması koşuluyla bir istisna tasarlar. Yürürlükteki 50. maddenin konaklama ve yatakhane hükümleri ile taslaktaki eşikler aynı değildir. Bu sayıların birbirine karıştırılması, yanlış çıkış kararı verilmesine neden olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle rapor, bir taslak hükmünü “mevzuata aykırılık” gerekçesi yapmamalıdır. Geçerli düzenleme ile önerilen değişiklik ayrı statülerde tutulur; taslak değerler ancak muhtemel tasarım etkisini göstermek amacıyla açık etiketle belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sanayi yerleşkesinde idari binanın üst katı personel yatakhanesine çevrilmişse YGU önce yapı ruhsatı, yapı kullanma izni ve onaylı mimari/tahliye projelerindeki kat kullanımını belirler. Varsa tadilat ve kullanım değişikliği belgelerini inceler. Ardından fiili gece kullanımı, yatak ve kişi sayısı, oda-koridor düzeni ve işletme koşullarını kaydeder. Odadan ortak koridora, merdivene ve son çıkışa uzanan güzergahı projeyle karşılaştırır. Yangın bölmeleri, kapı düzeni, algılama ve uyarı kayıtları ile bakım/test belgelerini ilgili tespitler bakımından gözden geçirir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, başkasının teknik ölçümünü veya tasarım hesabını kendisi yapmış gibi göstermez; projeyi, sahada gözlemi, sunulan belgeyi ve doğrulanamayan hususu ayrı kaydeder. Yürürlükteki görev ve raporlama hükümleri ile YGU yönetmelik taslağını birbirinin yerine geçirmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Saha bulgusu",
+        "Kayda geçirilecek asgari kanıt",
+        "Karar öncesi kontrol sorusu"
+      ],
+      "satirlar": [
+        [
+          "İdari ofisin yatma odasına çevrilmesi",
+          "Mahalin proje adı, fotoğraf, fiili yatak düzeni, varsa tadilat belgesi",
+          "Kullanım ve izin belgeleri güncel mi?"
+        ],
+        [
+          "Oda kapılarının ortak koridora açılması",
+          "Kapı numarası, duvar/kapı beyanı, görünür mevcut durum",
+          "Koridor-oda ayırımı ve kapı düzeni proje şartlarını karşılıyor mu?"
+        ],
+        [
+          "İki yönlü kaçış bulunduğu iddiası",
+          "Kat planında kaçış doğrultuları, kilit ve engel tespitleri",
+          "İki yol gerçekten bağımsız ve kullanılabilir mi?"
+        ],
+        [
+          "Mevcut kaçış uzaklığı",
+          "Ölçülü plan, ölçüm başlangıcı ve güzergah çizimi",
+          "Hangi kullanım satırı, hangi ölçüm yöntemi geçerli?"
+        ],
+        [
+          "Gece kullanımındaki farklılık",
+          "İşletme talimatı, kişi sayısı, kapı/aydınlatma kayıtları",
+          "Gündüz gözlenen durum gece de korunuyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-kayit-cumlesi",
+      "metin": "Örnek saha kayıt cümlesi"
+    },
+    {
+      "tip": "p",
+      "metin": "“İdari blok ikinci katta, onaylı mimari projede toplantı/çalışma mahali olarak gösterilen dört bölümde personel konaklamasına yönelik yatak düzeni bulunduğu gözlenmiştir. İşletme temsilcisi, mahallerin gece kullanımda olduğunu bildirmiştir. Değiştirilmiş kullanım amacına ilişkin onaylı tadilat ve tahliye belgeleri inceleme sırasında sunulmamıştır. Mevcut ortak koridor ve çıkışların yeni kullanım sınıfı ile kişi yükü dikkate alınarak yeniden değerlendirilmesi ve proje-izin durumu doğrulanmalıdır.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ifade varsayımsal bir teknik kayıt örneğidir; gerçekleşmiş bir denetim vakası veya doğrudan nihai uygunsuzluk hükmü değildir. Sayısal ve teknik uygunluk kararı, doğrulanmış yapı verisi ve uygulanabilir mevzuat üzerinden ayrıca kurulmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sik-yapilan-yanlis-degerlendirmeler",
+      "metin": "Sık yapılan yanlış değerlendirmeler"
+    },
+    {
+      "tip": "p",
+      "metin": "Birinci hata, yatakhane olarak kullanılan bölümü “lojman” diye adlandırıp konut hükümlerini otomatik uygulamaktır. İkinci hata, bir öğrenci yurdu ile otelin aynı ana kullanım grubunda bulunmasından hareketle Ek-14’teki ayrı kaçış uzaklığı satırlarını göz ardı etmektir. Üçüncü hata, binanın yalnız yatma alanlarını inceleyip ortak koridor, merdiven, mutfak ve diğer kullanım bölümleriyle ilişkisini atlamaktır. Dördüncü hata, taslaktaki iki çıkış ve istisna eşiklerini yürürlükteki şart olarak rapora yazmaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yatakhanenin otel ve konuttan farkı yalnız tabelasında veya odalarında yatak bulunmasında ortaya çıkmaz. Fark, kullanımın niteliğinde, onaylı yapı belgelerinde, odalar ile ortak kaçış alanlarının ilişkisinde ve ilgili hükmün hangi kullanım satırına uygulanacağında belirir. Yangın Güvenlik Uzmanı (YGU), önce gerçek kullanımı kanıtlarla tarif etmeli; ardından yürürlükteki BYKHY, onaylı proje ve sahadaki düzen arasındaki farkı gerekçeli biçimde göstermelidir. Taslak değişiklikler ise ayrı tutulmalı, kesinleşmiş zorunluluk gibi sunulmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

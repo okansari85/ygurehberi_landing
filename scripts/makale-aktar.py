@@ -99,12 +99,25 @@ def gorselleri_yaz(m):
 
 # "NNN-Başlık.docx" serisi (YGR-K001…): stil adları dosyadan dosyaya değişir, bu yüzden rol sırayla bulunur.
 # İlk satır seri etiketi (bazılarında yok, bazıları iç not içerir; alınmaz), sonra başlık, ilk paragraf özet, sonra bölümler.
-BOLUM_STILLERI = {'Heading1', 'Heading2', 'SectionHeading', 'YGRSection', 'YGUHeading', 'SectionTitle'}
-BASLIK_STILLERI = {'Title', 'ArticleTitle'}
+BOLUM_STILLERI = {'Heading1', 'Heading2', 'SectionHeading', 'YGRSection', 'YGUHeading', 'SectionTitle',
+                  'ArticleSection', 'ArticleSub', 'Sectionhead', 'ArticleH2', 'ArticleH3', 'YGUH1', 'YGUH2'}
+BASLIK_STILLERI = {'Title', 'ArticleTitle', 'Articletitle', 'ArticleHeading'}
+# alt düzey stil → üst düzey stil; ikisi aynı dosyada varsa alt düzey h3 olur, tek başınaysa bölüm başlığıdır.
+ETIKET_STILLERI = {'Subtitle', 'Kicker', 'Eyebrow', 'YGUKicker', 'SmallLabel', 'SectionLabel'}
+ALT_STILLER = {'Heading2': 'Heading1', 'ArticleSub': 'ArticleSection', 'ArticleH3': 'ArticleH2', 'YGUH2': 'YGUH1'}
 K_ETIKETLER = (
     (5, 'Mevzuat'), (10, 'Kullanım Sınıfı'), (14, 'Yerleşim ve İtfaiye'), (20, 'Yangın Bölmeleri'),
     (25, 'Cephe ve Çatı'), (36, 'Kaçış'), (40, 'Kullanım Sınıfı'), (52, 'Bina Sistemleri'),
-    (55, 'Yangın Alarmı'), (56, 'Duman Kontrolü'),
+    (55, 'Yangın Alarmı'), (60, 'Duman Kontrolü'),
+    # 057–200: 13 Kas 2026 "YGU_Rehberi_200_Guncel_Makale" serisi
+    (65, 'Yangın Suyu'), (67, 'Sprinkler'), (68, 'Yangın Suyu'), (69, 'Söndürme Sistemleri'), (70, 'Sprinkler'),
+    (80, 'Tehlikeli Maddeler'), (85, 'Yangın Organizasyonu'), (96, 'Mevcut Binalar'), (99, 'Mevzuat'),
+    (100, 'Mevcut Binalar'), (103, 'Mevzuat'), (104, 'Kaçış'), (105, 'Mevzuat'), (110, 'Kullanım Sınıfı'),
+    (114, 'Yerleşim ve İtfaiye'), (120, 'Yangın Bölmeleri'), (125, 'Cephe ve Çatı'), (135, 'Kaçış'),
+    (140, 'Kullanım Sınıfı'), (150, 'Bina Sistemleri'), (155, 'Yangın Alarmı'), (160, 'Duman Kontrolü'),
+    (165, 'Yangın Suyu'), (167, 'Sprinkler'), (169, 'Söndürme Sistemleri'), (170, 'Yangın Suyu'),
+    (180, 'Tehlikeli Maddeler'), (186, 'Yangın Organizasyonu'), (196, 'Mevcut Binalar'),
+    (197, 'Yangın Bölmeleri'), (200, 'Mevcut Binalar'),
 )
 
 
@@ -127,9 +140,10 @@ def oku_k(yol, no):
             ogeler.append((st, k_metin(b), b))
     stiller = {s for s, _, _ in ogeler}
     baslik_i = next((i for i, o in enumerate(ogeler) if o[0] in BASLIK_STILLERI), 1)
-    # Heading1 ve Heading2 birlikte varsa alt düzey; tek başına hangisi varsa bölüm başlığıdır.
-    alt = 'Heading2' if 'Heading1' in stiller and 'Heading2' in stiller else None
-    m = {'kod': f'YGR-K{no}', 'baslik': ogeler[baslik_i][1], 'ozet': '', 'bloklar': [], 'kaynaklar': [], 'sonNotlar': [], 'kaynakBaslik': 'Kaynakça'}
+    alt = {a for a, u in ALT_STILLER.items() if a in stiller and u in stiller}
+    # Bazı başlıklar dosya numarasıyla başlar ("117 – …", "086  |  …"); numara alınmaz.
+    baslik = re.sub(rf'^{no}\s*[–|-]?\s*', '', ogeler[baslik_i][1])
+    m = {'kod': f'YGR-K{no}', 'baslik': baslik, 'ozet': '', 'bloklar': [], 'kaynaklar': [], 'sonNotlar': [], 'kaynakBaslik': 'Kaynakça'}
     kaynakta = False
     for st, t, b in ogeler[baslik_i + 1:]:
         if b.startswith('<w:tbl>'):
@@ -141,12 +155,16 @@ def oku_k(yol, no):
             kimlik = re.search(r'r:embed="(rId\d+)"', b).group(1)
             veri = z.read('word/' + rels[kimlik])
             g, y = struct.unpack('>II', veri[16:24])
-            m['bloklar'].append({'tip': 'gorsel', 'veri': veri, 'uzanti': rels[kimlik].rsplit('.', 1)[1], 'genislik': g, 'yukseklik': y, 'aciklama': ''})
+            # Açıklaması görselden önce yazılmışsa ("Şekil 76. …") görsele bağlanır.
+            once = m['bloklar'][-1] if m['bloklar'] and m['bloklar'][-1]['tip'] == 'p' and m['bloklar'][-1]['metin'].startswith('Şekil') else None
+            if once:
+                m['bloklar'].pop()
+            m['bloklar'].append({'tip': 'gorsel', 'veri': veri, 'uzanti': rels[kimlik].rsplit('.', 1)[1], 'genislik': g, 'yukseklik': y, 'aciklama': once['metin'] if once else ''})
         elif st in BOLUM_STILLERI:
             kaynakta = t.lower().startswith('kaynak')
             if kaynakta:
                 m['kaynakBaslik'] = t
-            elif st == alt:
+            elif st in alt:
                 m['bloklar'].append({'tip': 'h3', 'metin': t})
             else:
                 m['bloklar'].append({'tip': 'h2', 'id': slug(t), 'metin': t})
@@ -155,6 +173,9 @@ def oku_k(yol, no):
             u = re.search(r':\s*(https?://\S+)$', t)
             m['kaynaklar'].append({'metin': t[:u.start()].strip(), 'url': u.group(1)} if u else {'metin': t})
         elif not m['ozet']:
+            # Başlık altındaki seri/konu etiketi satırı ("YGU REHBERİ | 200 MAKALELİK ANA SERİ | 120") özet değildir, alınmaz.
+            if st in ETIKET_STILLERI or (len(t) < 130 and not t.endswith(('.', '?', '!', ':')) and re.search(r'\s[|•/]\s', t)):
+                continue
             m['ozet'] = t
         elif m['bloklar'] and m['bloklar'][-1]['tip'] == 'gorsel' and not m['bloklar'][-1]['aciklama'] and t.startswith('Şekil'):
             m['bloklar'][-1]['aciklama'] = t

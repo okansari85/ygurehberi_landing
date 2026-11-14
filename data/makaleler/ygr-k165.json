@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K165",
+  "yol": "yangin-hattindaki-vana-konumlarinin-guncel-envanteri-nasil-tutulur",
+  "baslik": "Yangın hattındaki vana konumlarının güncel envanteri nasıl tutulur?",
+  "ozet": "Bir yangın hattının projesinde on vana görünmesi, işletmede bu vanaların nerede bulunduğunu ve hangi konumda tutulması gerektiğini göstermeye yetmez. Tadilat sonrasında bir hattın yönü değişebilir, yeni bir kesme vanası eklenebilir veya mevcut vananın etiketi yerinde kalırken bağlı olduğu yangın bölgesi değişebilir. Yangın Güvenlik Uzmanı (YGU) için sorun, yalnızca vananın açık ya da kapalı görünmesi değil; o konumun güncel tesisatla ve işletmenin kontrol kayıtlarıyla doğrulanabilir olmasıdır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "her-vana-icin-ayni-konum-kurali-gecerli-degildir",
+      "metin": "Her vana için aynı konum kuralı geçerli değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın suyu sisteminde hat kesme vanası, zon kontrol vanası, test ve drenaj vanası, alarm istasyonu vanası ile basınç ayar elemanı farklı görevler üstlenir. Sprinkler sistemini besleyen hat ve bölgesel kesme vanalarının işletmede açık tutulması esastır. Buna karşılık test veya drenaj vanasının normal konumu, tesisatın tasarımına ve kullanım amacına göre belirlenir; bütün vanalara otomatik olarak “açık” yazmak yanlış bir envanter üretir."
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kayıt, vananın fiziksel yerinden değil işlevinden başlamalıdır: Hangi su kaynağından besleniyor, hangi bölgeyi etkiliyor, kapatılırsa hangi sistem devre dışı kalıyor, normal işletme konumu nedir? Bir vananın üstündeki kırmızı veya yeşil etiket tek başına yeterli kanıt değildir. Proje sembolü, tesisat şeması, saha fotoğrafı ve varsa izleme sinyali aynı kimliğe bağlanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ve-degisiklik-taslagi-nasil-ayrilir",
+      "metin": "Yürürlükteki hüküm ve değişiklik TASLAĞI nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 94, sabit boru tesisatı ve yangın dolaplarını; Madde 96 ise yağmurlama sistemini düzenler. Madde 96/7, birden fazla yangın zonuna hizmet eden ana besleme hatlarında zon veya kolon başına akış anahtarı, test-drenaj vanası ve izleme anahtarlı hat kesme vanası düzenini ele alır. Madde 96/9, yağmurlama sistemini besleyen hatlardaki ve su kaynağı ile sistem arasındaki vanaların devamlı açık kalmasını sağlayacak tedbirleri öngörür."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA sabit boru tesisatı ve yangın dolapları Madde 96, yağmurlama sistemi Madde 98 başlığında yer alır. Taslak Madde 98/7 ve 98/9, zon bağlantıları ile hat vanalarının işletme düzeni bakımından ilgili hükümlerdir. Taslak madde numaraları yürürlükteki hüküm gibi raporlanmaz. YGU mevzuatı ve periyodik kontrol formuna ilişkin çalışma da TASLAK niteliğindedir; formdaki “kat vanaları açık” kontrolü, bütün vana tiplerinin sürekli açık tutulacağı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "vanayi-bulunabilir-ve-izlenebilir-kilan-envanter-alanlari",
+      "metin": "Vanayı bulunabilir ve izlenebilir kılan envanter alanları"
+    },
+    {
+      "tip": "p",
+      "metin": "Envanter, tek bir tesisat planına işlenen vana numaraları ile birlikte güncel kayıt tablosu olarak tutulmalıdır. Her satırda benzersiz vana kodu; blok, kat, mahal ve erişim noktası; tesisat türü; vana tipi; bağlı olduğu zon veya kolon; normal işletme konumu; kontrol anındaki konumu; fiziksel kilitleme veya mühürleme durumu; paneldeki izleme adresi; son kontrol tarihi ve sorumlu kişi bulunur. Değişiklik kayıtları eski değer silinmeden sürüm ve tarih belirtilerek saklanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin “VK-17” kodunun yalnızca “B blok deposu” açıklamasıyla tanımlanması yetersizdir. Aynı bölgedeki başka vana ile karışmaması için kolon numarası, erişim kapağı veya vana odası, beslendiği hat, korunan bölge ve çizim referansı eklenmelidir. Koridor dolabı arkasındaki vana için dolabın açılması gerektiği de erişim bilgisine yazılabilir. Fotoğraf, vana kimliğini ve konumunu birlikte gösterecek biçimde ilişkilendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-sahada-hangi-eslestirme-yapilir",
+      "metin": "Proje ve sahada hangi eşleştirme yapılır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt alanı",
+        "Belge karşılığı",
+        "YGU’nun doğruladığı nokta"
+      ],
+      "satirlar": [
+        [
+          "Vana kimliği",
+          "Güncel söndürme paftası, kolon şeması",
+          "Kod, etiket, bulunduğu nokta ve bağlı olduğu hat aynı mı?"
+        ],
+        [
+          "İşletme konumu",
+          "Tasarım açıklaması, işletme talimatı",
+          "Normal konum ile gözlenen konum aynı mı; sapma kayıtlı mı?"
+        ],
+        [
+          "Koruduğu bölge",
+          "Zon sınırı, branşman ve vana çizimi",
+          "Kapatılması halinde etkilenen mahaller doğru tanımlanmış mı?"
+        ],
+        [
+          "İzleme bilgisi",
+          "Alarm paneli adres listesi, test raporu",
+          "İzleme anahtarı varsa sinyal doğru vanayı mı gösteriyor?"
+        ],
+        [
+          "Değişiklik geçmişi",
+          "Tadilat paftası, iş emri, bakım formu",
+          "Yeni vana, devreden çıkarma ve etiket değişikliği işlendi mi?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "tadilat-sonrasindaki-en-buyuk-risk-eski-vana-haritasi",
+      "metin": "Tadilat sonrasındaki en büyük risk: eski vana haritası"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni bir depo bölmesi oluşturulduğunda sprinkler hattı farklı bir branşmandan beslenebilir. Vana fiziksel olarak yerinde durduğu halde artık kapatıldığında etkilenen mahaller değişmiş olabilir. Güncellenmemiş envanter, bakım sırasında yanlış hattın kesilmesine veya açık tutulması gereken bir vananın uzun süre kapalı kalmasına yol açabilir. Bu nedenle proje revizyonuyla birlikte vana listesi, saha etiketleri, izleme adresleri ve bakım talimatları aynı işlem kapsamında güncellenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrol sırasında kapalı görülen bir hat kesme vanası için YGU tek başına vanayı açarak sistemi işletmeye almış gibi kayıt oluşturmaz. İşletme sorumlusu ve yetkili teknik personelden kapatma gerekçesi, iş emri, etkilenen bölge, geçici yangın güvenliği tedbirleri ve yeniden devreye alma kayıtları istenir. Planlı bakım nedeniyle kapalı tutulması ile gerekçesiz kapalı kalması aynı bulgu değildir; ancak her iki durumda da koruma dışı kalan alanın durumu açıkça gösterilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, onaylı söndürme projesini, varsa revizyon paftalarını, vana envanterini, son muayene ve bakım belgelerini birlikte inceler. İlk olarak saha vanalarını sistem ve zon bazında eşleştirir; daha sonra gözlenen konumları ve etiketleri kaydeder. Erişilemeyen bir vana için tahmini konum yazmaz; doğrulama yapılamadığını belirtir. İzleme anahtarı bulunuyorsa panel adresinin eşleşmesi, yetkili personelin yaptığı test tutanağı üzerinden veya planlanmış kontrollü testte doğrulanır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU’nun rolü, basınç ayarını değiştirmek, sistemi boşaltmak veya tek başına vanayı devreye almak değildir. Teknik uygulama gerektiren işlev testi ve ayarlama ilgili yetkin personelce yapılır. YGU, bu işlem için düzenlenen belgelerin hangi vana ve zonla ilişkili olduğunu kontrol ederek eksikleri, sorumluyu ve tamamlanma kanıtını kayıt altına alır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-bulgusu",
+      "metin": "Örnek saha bulgusu"
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal bir incelemede, A blok ikinci kat depo zonundaki VK-08 etiketli vana sahada kapalı görülmüştür. Sunulan tesisat paftasında vana kodu bulunmasına rağmen son bölme tadilatından sonraki korunma alanı gösterilmemiş; geçerli bir kapatma iş emri ve yeniden devreye alma kaydı sunulamamıştır. YGU bulgusu şu şekilde yazılabilir: “VK-08 vanasının gözlenen konumu kapalıdır. Vana ile ilişkili güncel zon şeması ve kapatma gerekçesi sunulamadığından etkilenen koruma alanı ve işletme uygunluğu doğrulanamamıştır. Yetkili teknik birimce durumun değerlendirilmesi, gerekli tedbirlerin alınması, güncel envanter ve işletme/test belgelerinin tamamlanması istenmiştir.”"
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın hattı vana envanteri bir kere hazırlanıp rafa konulan çizelge değil, tesisatın her değişikliğinde güncellenen bir işletme kontrolüdür. Sağlıklı kayıt; vana kodunu, gerçek konumunu, normal işletme durumunu, etkilediği alanı, panel izleme bilgisini ve değişiklik geçmişini tek bir iz sürülebilir zincirde birleştirir. YGU değerlendirmesinin değeri de yalnız “açık/kapalı” işaretlemesinde değil, bu zincirin hangi belge ve saha kanıtıyla doğrulandığını göstermesindedir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

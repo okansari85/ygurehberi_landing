@@ -1,0 +1,102 @@
+{
+  "kod": "YGR-K129",
+  "yol": "ortak-koridorun-kapiyla-bolunmesi-kacis-kararini-degistirir-mi",
+  "baslik": "Ortak koridorun kapıyla bölünmesi kaçış kararını değiştirir mi?",
+  "ozet": "Ortak koridora sonradan yerleştirilen bir kapı, yalnızca yeni bir doğrama elemanı değildir. Kapının bulunduğu nokta, açılma yönü, kullanılabilir geçiş genişliği ve açılma düzeni, insanların yangın sırasında izlediği güzergahın fiili niteliğini değiştirebilir. Bununla birlikte her yeni kapı, kendiliğinden uygunsuzluk anlamına gelmez. Değerlendirme, onaylı projede öngörülen kaçış düzeni ile mevcut kullanımın birlikte okunmasını gerektirir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "koridordaki-yeni-kapi-neden-onemlidir",
+      "metin": "Koridordaki yeni kapı neden önemlidir?"
+    },
+    {
+      "tip": "h2",
+      "id": "kacis-karari-hangi-kosullarda-degisir",
+      "metin": "Kaçış kararı hangi koşullarda değişir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapı, koridoru iki ayrı kullanım bölgesine ayırabilir; bir yönden gelen kullanıcılar için ilave bir geçiş noktası oluşturabilir veya alternatif çıkışa erişimi sınırlayabilir. Özellikle kartlı geçiş, elektrikli kilit, sürgü ve benzeri donanımların normal kullanımda çalışıyor olması, yangın ve enerji kesintisi koşullarındaki davranışlarının uygun olduğunu tek başına kanıtlamaz. Kapının tahliye yönünden anahtar, kart veya özel bilgi gerektirmeden açılıp açılamadığı, ilgili proje ve teknik belgelerle birlikte değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapı kanadının açık konumda koridoru daraltması, kapı önüne eşya konulması veya kapının bir merdivene ve nihai çıkışa ulaşan yolu kesmesi ayrı inceleme konularıdır. Kapı, yangın veya duman kontrolü için tasarlanmışsa kapatıcı, conta, donanım ve montaj koşulları da proje ve ürün belgeleriyle karşılaştırılmalıdır. Sıradan bir bölme kapısına, belge olmadan yangına dayanım niteliği atfedilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-belge-ve-saha-karsilastirmasi",
+      "metin": "Proje, belge ve saha karşılaştırması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Aranacak dayanak",
+        "Sahada sorulacak soru"
+      ],
+      "satirlar": [
+        [
+          "Kapının yeri",
+          "Onaylı mimari ve kaçış planı",
+          "Kapı projede var mı; kaçış kolunu değiştiriyor mu?"
+        ],
+        [
+          "Geçişin kullanılabilirliği",
+          "Kapı detayı, donanım bilgisi",
+          "Kaçış yönünde engelsiz ve kolay açılıyor mu?"
+        ],
+        [
+          "Genişlik ve hareket alanı",
+          "Ölçülü plan ve ilgili proje hesabı",
+          "Kanat ve donanım fiili geçişi daraltıyor mu?"
+        ],
+        [
+          "Erişim kontrolü",
+          "Kilit sistemi ve işletme prosedürü",
+          "Yangın ve enerji kesintisinde çıkış mümkün mü?"
+        ],
+        [
+          "Yangın/duman işlevi",
+          "Ürün sınıflandırma ve montaj belgeleri",
+          "İddia edilen özellik mevcut montajda korunuyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının onaylı mimari projesini, kaçış düzenini gösteren çizimleri, varsa tadilat ve izin belgelerini, mevcut mahal kullanımını ve kullanıcı yoğunluğunu birlikte inceler. Ardından koridordaki kapının konumunu, erişilebilirliğini, açılma yönünü, kilit ve kapatıcı donanımını gözlemsel olarak kontrol eder. Plan üzerinde iki yönlü görünen kaçışın sahada kapı nedeniyle tek bir erişim noktasına indirgenip indirgenmediğini ve güzergahın kesintisiz devam edip etmediğini kayda geçirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Tespit, yalnızca “kapı uygunsuz” ifadesiyle bırakılmaz. Örneğin “Onaylı kat planında açık geçiş olarak gösterilen ortak koridor bağlantısında, mevcut durumda kartlı geçiş kapısı bulunduğu; yangın anında serbest çıkış işlevine ilişkin teknik belge sunulamadığı” biçiminde, gözlem ve belge eksikliği ayrı yazılır. Nihai uygunluk değerlendirmesi için gerekli proje revizyonu, mühendislik hesabı, sistem testi veya yetkili onay ilgili uzman ve mercilerin sorumluluğundadır. YGU, yalnızca gözlemle yangına dayanım sınıfı, performans veya mevzuata uygun ölçüm sonucu üretmez."
+    },
+    {
+      "tip": "h2",
+      "id": "degerlendirme-sonucu",
+      "metin": "Değerlendirme sonucu"
+    },
+    {
+      "tip": "p",
+      "metin": "Ortak koridora eklenen kapı, kaçış kararını değiştirebilir; belirleyici olan kapının varlığı değil, onaylı kaçış kurgusuna ve gerçek tahliye davranışına etkisidir. Sağlıklı karar, çizim, donanım belgesi ve saha bulgusunun aynı noktada eşleştirilmesiyle verilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

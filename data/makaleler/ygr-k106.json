@@ -1,0 +1,186 @@
+{
+  "kod": "YGR-K106",
+  "yol": "otel-icindeki-restoran-bagimsiz-kullanim-olarak-nasil-ele-alinir",
+  "baslik": "Otel içindeki restoran bağımsız kullanım olarak nasıl ele alınır?",
+  "ozet": "Bir otelin giriş katındaki restoran yalnızca konaklayan misafirlere kahvaltı veriyor olabilir. Aynı mekan, akşamları sokaktan müşteri kabul eden ve otelden bağımsız saatlerde çalışan bir işletmeye de dönüşebilir. Her iki durumda kapıda 'restoran' yazması, yangın güvenliği bakımından aynı kullanım kararının verileceği anlamına gelmez. Değerlendirme, tabeladan değil, onaylı projedeki işlev ile sahadaki gerçek kullanımın karşılaştırılmasından başlar.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Sorulması gereken ilk soru, restoranın tapuda ayrı bağımsız bölüm olup olmadığı değildir. Yangın mevzuatı açısından asıl mesele; burada hangi faaliyetin yürütüldüğü, kaç kişinin bir araya gelebildiği, restoranın otelle nasıl ilişkilendiği ve farklı kullanım alanları için koruma tedbirlerinin gerçekten ayrılıp ayrılamadığıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "otel-hizmeti-mi-ayri-bir-toplanma-kullanimi-mi",
+      "metin": "Otel hizmeti mi, ayrı bir toplanma kullanımı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 10. maddesi, konaklama hizmetiyle birlikte beslenme ve eğlence hizmeti sunulan tesisleri de konaklama amaçlı binalar kapsamında ele alır. Bu nedenle otelin kendi misafirlerine hizmet veren yemek salonu, sırf içinde masa ve mutfak bulunduğu için otomatik olarak ayrı bir bina kullanım sınıfına geçirilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Buna karşılık 15. madde, yeme ve içme amacıyla 50 veya daha fazla kişinin bir araya gelebildiği bölümleri toplanma amaçlı kullanım açısından tanımlar. Bu eşik, yalnız oturma sandalyesi sayısına bakılarak değil; salonun gerçek düzeni, ilave servis alanları, ayakta bekleme ve kullanım kapasitesiyle birlikte incelenmelidir. 50 kişiden az kişinin toplanmasına uygun bölümlerin esas binanın sınıfına tabi tutulmasına ilişkin hüküm de gözden kaçırılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Dışarıdan müşteri kabulü, ayrı bir kullanımın araştırılması için güçlü bir saha göstergesidir; tek başına kesin sınıflandırma kararı değildir. Restoranın işletme modeli, fiziksel sınırları ve otelle ortak kullandığı bölümler birlikte değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "ayri-giris-bulunmasi-tek-basina-yeterli-degildir",
+      "metin": "Ayrı giriş bulunması tek başına yeterli değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Sokaktan ayrı kapısı olan bir restoranın otel lobisiyle ortak kaçış koridoru, merdiveni veya teknik tesisatı bulunabilir. Tersine, yalnız otel içinden girilen bir salon, kullanım düzeni değiştiğinde konaklama işlevini aşan bir toplanma alanına dönüşebilir. Bağımsız giriş, farklı işletmeci, ayrı ruhsat ya da ayrı kira sözleşmesi önemli kanıtlardır; fakat yangın bölmesinin ve korunma tedbirlerinin yerini tutmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin 18. maddesindeki karışık kullanım yaklaşımı bu noktada belirleyicidir. İki veya daha fazla kullanım sınıfına giren bölümler, gerekli yangın bölmesiyle ayrılamıyor ya da iç içe olduklarından farklı koruma tedbirleri uygulanamıyorsa, daha yüksek koruma gerektiren sınıfın kuralları bütün bina için gündeme gelir. Buradaki sonuç, yalnız restoranın kapısına veya işletme ruhsatına bakılarak çıkarılamaz; mimari proje, yangın bölmeleri, kaçış sistemi ve tesisat sürekliliği birlikte incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-birlikte-okunacak-alti-baslik",
+      "metin": "Proje ile sahada birlikte okunacak altı başlık"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Sahadaki temel soru",
+        "Belge ve kanıt"
+      ],
+      "satirlar": [
+        [
+          "Faaliyet ve kapasite",
+          "Otel misafirlerine mi, dış müşterilere mi hizmet veriliyor? Kullanım kapasitesi ve oturma düzeni nasıl?",
+          "Onaylı mimari proje, işletme kayıtları, güncel yerleşim planı, saha gözlemi"
+        ],
+        [
+          "Fiziksel sınır",
+          "Restoranın sınırı, girişleri ve otelle ortak hacimleri nerede başlıyor ve bitiyor?",
+          "Kat planı, kapı ve duvar detayları, yerinde inceleme"
+        ],
+        [
+          "Yangın bölmesi",
+          "Duvar, döşeme, kapı ve tesisat geçişleri projede öngörülen ayrımı sürdürüyor mu?",
+          "Yangın güvenliği projesi, ürün ve uygulama belgeleri, saha tespiti"
+        ],
+        [
+          "Kaçış düzeni",
+          "Restoran kullanıcıları otel misafirleriyle hangi çıkışları ve koridorları paylaşıyor?",
+          "Tahliye projesi, çıkış hesabı, fiili dolaşım ve kapı düzeni"
+        ],
+        [
+          "Mutfak ve tesisat",
+          "Pişirme, davlumbaz, havalandırma ve yangın güvenlik sistemleri hangi bölümlere hizmet ediyor?",
+          "Mekanik/elektrik projeleri, bakım ve test raporları, yerleşim"
+        ],
+        [
+          "İzin ve değişiklik",
+          "Sonradan müşteri kabulü, alan büyütme veya kullanım değişikliği için kayıt var mı?",
+          "Yapı ruhsatı, yapı kullanma izni, tadilat projesi ve ilgili idare kayıtları"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo 1. Kullanım sınıfını belirlerken tek bir belgeye değil, birbiriyle tutarlı kanıtlara bakılır."
+    },
+    {
+      "tip": "h2",
+      "id": "uc-olasi-isletme-duzeni-ayni-sonucu-dogurmaz",
+      "metin": "Üç olası işletme düzeni aynı sonucu doğurmaz"
+    },
+    {
+      "tip": "h3",
+      "metin": "Otel kahvaltı salonu"
+    },
+    {
+      "tip": "p",
+      "metin": "Yalnız konaklayan misafirlere hizmet veren ve otel işletme düzeninin parçası olan salon için ilk değerlendirme, konaklama kullanımının içindeki hizmet alanı üzerinden yapılır. Yine de mutfak ve kaçış koşulları kendi teknik hükümlerine göre kontrol edilir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Sokaktan müşteri alan restoran"
+    },
+    {
+      "tip": "p",
+      "metin": "Otelin giriş katında dış müşteriye açık, yüksek kullanıcı kapasiteli bir restoran varsa toplanma amaçlı kullanım ve karışık kullanım hükümleri birlikte incelenir. Ortak kaçış ve korunma düzeni doğrulanmadan yalnız ayrı kapı bulunduğu için bağımsız koruma kararı verilmez."
+    },
+    {
+      "tip": "h3",
+      "metin": "Projelendirilmiş ayrı yangın bölmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Restoranın ayrı bir yangın bölmesi, kendi çıkış düzeni ve ilgili koruma tedbirleri projede gösterilmiş ve sahada korunmuşsa bölümlere farklı koşulların uygulanabilmesi teknik olarak değerlendirilebilir. Ancak bunun geçerliliği, onaylı proje ve ilgili hükümlere uygunlukla belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ile-yeni-taslak-nasil-ayrilir",
+      "metin": "Yürürlükteki düzenleme ile yeni taslak nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki metinde konaklama, toplanma ve karışık kullanım ayrımı sırasıyla 10, 15 ve 18. maddelerde düzenlenmiştir. Kullanıcının ilettiği yeni BYKHY taslağında da aynı konular bu madde başlıklarında yer alır; toplanma amaçlı kullanım bakımından 50 kişi ölçütü ve farklı kullanımların ayrı korunamaması halinde daha yüksek koruma yaklaşımı korunmaktadır. Bu benzerlik, taslağın yürürlüğe girdiği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Makale bakımından bağlayıcı değerlendirme yürürlükteki hüküm üzerinden yapılır. Taslakta yer alan ifadeler, ileride doğabilecek değişiklikleri izlemek için ayrıca okunur; bugün işletmeciye yeni bir zorunluluk veya Yangın Güvenlik Uzmanına (YGU) yeni bir onay yetkisi kazandırmaz. Bakanlık Kılavuzu ise sınıflandırma ve uygulama örneklerini açıklayan yardımcı kaynaktır; yönetmelik hükmünün yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, otelin yapı ruhsatı, yapı kullanma izin belgesi, onaylı mimari ve tahliye projeleri ile varsa tadilat projelerinin teminiyle başlar. Restoranın projedeki adı, sınırı, kapıları ve kullanıcı yükü verileri belirlenir. Ardından işletmeciden güncel faaliyet şekli, dış müşteri kabulü, salon düzeni, azami kapasite ve kullanım saatleri hakkında kayıtlar istenir. Bu bilgiler, projedeki kullanım sınıfı ile fiili faaliyetin örtüşüp örtüşmediğini ortaya koyar."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada restoranın giriş ve çıkışları, otel lobisiyle bağlantıları, ortak merdivenleri, yangın kapıları, bölme duvarları ve mutfak tesisatının geçişleri gözlenir. Onaylı projede ayrı gösterilen yangın bölmesinin sonradan açılan servis kapısı veya tesisat geçişiyle kesintiye uğrayıp uğramadığı kontrol edilir. Mevcut bakım ve test raporları, sistemlerin projedeki kapsamı ile ilişkilendirilir; rapor bulunmaması ile sistemin teknik olarak çalışmadığı iddiası birbirine karıştırılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir farklılık bulunduğunda raporda önce belge ve saha durumu, ardından ilgili hüküm ve muhtemel etkisi gösterilir. Örneğin, “Onaylı projede otel hizmet alanı olarak gösterilen restoranın dış müşteriye hizmet verdiği gözlenmiştir; güncel kullanım kapasitesi ve ortak kaçışa etkisi projeyle doğrulanamamıştır” ifadesi, hem tespiti hem doğrulama ihtiyacını açıklar. Bu, sınıflandırmanın idarece kesinleştirildiği veya tasarımın uygunsuzluğunun hesapla kanıtlandığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), proje–saha tutarlılığını ve mevcut kanıtları inceler, gerekçeli bulgu oluşturur ve gerekli teknik incelemeyi talep eder. Yeni kaçış hesabının hazırlanması, yangın bölmesi tasarımı, mekanik tesisat ölçümü, sistem kabul testi veya idari ruhsat/onay işlemleri ilgili yetkili meslek mensupları ve kurumların görev alanındadır. Uzmanın gözlemsel incelemesi, bu işlemlerin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Otel içindeki restoranın ayrı kullanım olarak değerlendirilmesi, “dışarıdan müşteri geliyor” ya da “ayrı kapısı var” cümlesiyle çözülemez. İşlev, kapasite, fiziksel ayrım ve ortak kaçış koşulları bir arada okunmalıdır. Doğru sınıflandırma; doğru yangın bölmesini, çıkış kapasitesini ve sistem kapsamını tartışabilmenin başlangıç noktasıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,154 @@
+{
+  "kod": "YGR-K080",
+  "yol": "akaryakit-istasyonunda-yeni-yapi-eklendiginde-neler-etkilenir",
+  "baslik": "Akaryakıt istasyonunda yeni yapı eklendiğinde neler etkilenir?",
+  "ozet": "Bir akaryakıt istasyonunda marketin genişletilmesi, oto yıkama birimi kurulması veya yeni saçak yapılması, yalnız yeni bir yapı parçası anlamına gelmez. Dolum ekipmanı ile yapı cepheleri arasındaki ilişki, araç ve yaya hareketleri, yeraltı tanklarının bağlantıları ve acil müdahale erişimi de değişebilir. İnceleme, eski yerleşimin uygun olduğunu varsaymak yerine değişikliğin bütün istasyon üzerindeki etkisini ortaya koymalıdır.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yeni-yapinin-etkisi-nereden-baslar",
+      "metin": "Yeni yapının etkisi nereden başlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru, eklenen yapının hangi faaliyete hizmet ettiğidir. Satış alanına dönüştürülen bir hacim, yalnız personelin kullandığı bir servis odasıyla aynı kullanıcı hareketini doğurmaz. Market girişinin dolum adasına yönelmesi, kapı ve pencere açılması veya saçağın taşıt manevra alanına uzanması farklı kontrol konularıdır. Bu nedenle yeni yapı sınırı, açıklıklar, kullanım türü ve fiili araç dolaşımı aynı güncel vaziyet planında gösterilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin akaryakıt servis istasyonlarına ilişkin 121. maddesi ve Ek-13 mesafe tablosu temel başvuru noktalarıdır. Ek-13; yeraltı tankı, dispenser adası, havalandırma borusu ve doldurma ağzı gibi unsurları farklı referanslarla karşılaştırır. Örneğin dispenser adası ile istasyonun idari binası arasındaki mesafe için tabloda 6 m yer alır. Ancak mesafenin hangi unsurdan hangi yapı sınırına alındığı, ilgili tablo notları ve somut yapının niteliği doğrulanmadan bu sayı tek başına uygunluk kararı oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ozgun-sematik-cizim",
+      "metin": "Özgün şematik çizim"
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 80. Market ekinin pompa adalarına ve trafik yönüne etkisini anlatan temsili çizim. Çizim ölçülü proje veya uygunluk kararı değildir.",
+      "src": "/img/makale/ygr-k080-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "mesafe-aciklik-ve-isletme-duzeni-birlikte-okunmali",
+      "metin": "Mesafe, açıklık ve işletme düzeni birlikte okunmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni market cephesi veya kapı, pompa adasıyla olan mesafeyi değiştirebilir. Mevzuattaki belirli kapalı cephe koşullarına ilişkin notlar, her yeni duvara veya saçağa kendiliğinden uygulanamaz. Özellikle kapı, pencere, klima ve elektrik donanımı gibi unsurların konumu ile istasyonun idari ve ticari bölümlerinin sınırları birlikte ele alınmalıdır. Yeni yapı tank havalandırma çıkışına veya doldurma ağzına yaklaşıyorsa yalnız dispenser mesafesinin kontrol edilmesi yeterli olmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca yürürlükteki 121. madde, ikmal kolonlarının 5 m yarıçaplı çevresinde daha alt kotlardaki hacimlere giden kanal, boru ve tesisat açıklıklarını sınırlar. Market ekiyle birlikte yeni bir drenaj, kablo kanalı, bodrum bağlantısı veya kot farkı oluşuyorsa bunlar proje ve saha üzerinde ayrıca incelenmelidir. Bu 5 m koşulu, Ek-13 tablosundaki bütün emniyet mesafelerinin yerine geçen genel bir uzaklık değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saçak, reklam elemanı veya yeni bariyer; tanker yaklaşma yolunu, dispenserlerin araç çarpmasına karşı korunmasını, yangın söndürücülere erişimi ve itfaiye araçlarının hareketini etkileyebilir. Bir mesafenin kağıt üzerinde korunması, fiili manevra ve müdahale alanının açık kaldığını kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-hangi-kanit-aranir",
+      "metin": "Proje–saha karşılaştırmasında hangi kanıt aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Belge ve proje karşılığı",
+        "Sahada doğrulanacak durum"
+      ],
+      "satirlar": [
+        [
+          "Yapı ve kullanım",
+          "İlk ve revize vaziyet planı; mimari proje; yapı ve faaliyet izinleri",
+          "Market/servis sınırı, kapılar, pencereler, saçak ve gerçek kullanım"
+        ],
+        [
+          "Dolum ve depolama",
+          "Tank, dispenser, doldurma ağzı, havalandırma borusu yerleşimleri",
+          "Gerçek ekipman konumları, yeni engeller ve ölçüm referansları"
+        ],
+        [
+          "Emniyet mesafeleri",
+          "Uygulanabilir Ek-13 satır, sütun ve tablo notları",
+          "Yapı cephesi, parsel sınırı, komşu kullanımlar ve kot ilişkileri"
+        ],
+        [
+          "Araç ve yaya akışı",
+          "Trafik ve tanker erişim planı; varsa revize işletme düzeni",
+          "Manevra açıklığı, yaya girişi, bariyer ve müdahale güzergahı"
+        ],
+        [
+          "Koruyucu düzenler",
+          "Söndürücü yerleşimi, elektrik ve topraklama kayıtları, bakım belgeleri",
+          "Söndürücü erişimi, daralan alanlar ve yeni tesisat açıklıkları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye istasyonun onaylı vaziyet planını, yapı ve kullanım izinlerini, varsa revize mimari ve tesisat projelerini ve işletmenin fiilen yürüttüğü faaliyetleri karşılaştırarak başlar. Mevcut market ile önerilen ekin hangi tarihte ve hangi belgeyle tanımlandığını ayırır. Dolum adası, tank bağlantıları, yeni yapı cephesi ve erişim güzergahını aynı kroki üzerinde işaretleyerek hangi mesafenin hangi referanslar arasında inceleneceğini açıklar."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada gözlemlenebilen kapı, açıklık, bariyer, malzeme istifi, trafik yönü ve söndürücü erişimi gibi durumlar fotoğraf ve konum bilgisiyle kaydedilir. Mesafe veya kotun kesin doğrulanması gerekiyorsa yetkili kişilerce hazırlanmış ölçüm ve proje belgeleri aranır; gözlemsel tahmin ölçüm raporu yerine geçirilmez. Yeni ekin elektrik, havalandırma, patlayıcı ortam sınıflandırması veya tank bağlantıları üzerindeki tasarım etkileri, ilgili yetkinlikteki proje ve tesisat uzmanlarının teknik değerlendirmesine bırakılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, belgede eksik kalan hususu gerekçesiyle raporlar; tasarım yapmış, tesisat testini gerçekleştirmiş veya ruhsat/onay vermiş gibi işlem tesis etmez. İlgili idarenin onay ve izin yetkileri ile tesisatın ölçüm ve testini yapmaya yetkili kişilerin sorumlulukları ayrıca korunur. İlgili kayıtlar tamamlanmadan, yalnız gözlemle yeni yapının uygun olduğu sonucuna varılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-yururlukteki-hukum-yerine-gecmez",
+      "metin": "Taslak düzenleme yürürlükteki hüküm yerine geçmez"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında akaryakıt servis istasyonları 123. maddede düzenlenmiş, Ek-13 tablosunun referans yapısı yeniden ele alınmış ve tank kapasitesine ilişkin bazı ifadeler değiştirilmiştir. Bunlar öneri niteliğindedir. Güncel uygunluk değerlendirmesinde yürürlükteki 121. madde ve Ek-13 esas alınır; taslakta görülen farklı mesafe sütunları veya kapasite yaklaşımı bugünden zorunlu kural gibi uygulanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-ornegi",
+      "metin": "Gerekçeli bulgu örneği"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili kayıt: “Market cephesinin dolum adasına doğru genişletilmesi öngörülmektedir. Sunulan vaziyet planında yeni kapı ve saçak sınırı işlenmiş olmakla birlikte dispenser adası, tank havalandırma borusu ve doldurma ağzına ilişkin güncel ölçüm referansları gösterilmemiştir. Uygulanabilir emniyet mesafeleri ve araç erişimi, revize yerleşim belgeleriyle doğrulanmadan değişikliğin yangın güvenliği bakımından uygunluğu hakkında kesin kanaat oluşturulamamıştır.” Bu metin gerçekleşmiş bir saha denetimini anlatmaz; bulgunun nasıl gerekçelendirileceğini gösterir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Akaryakıt istasyonuna eklenen yapı, pompa ve tankların yerinde kalması nedeniyle etkisiz kabul edilemez. Sağlıklı inceleme; güncel izin ve projelerin, ilgili emniyet mesafelerinin, yapı açıklıklarının ve gerçek işletme hareketlerinin birlikte değerlendirilmesiyle yapılır. Belgelenemeyen konu, uygun varsayılmak yerine açık bir doğrulama ihtiyacı olarak kayda geçirilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

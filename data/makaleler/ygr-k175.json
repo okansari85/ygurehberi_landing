@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K175",
+  "yol": "yanici-gaz-kullanilan-proses-hatti-kapaninca-tehlike-kaydi-nasil-guncellenir",
+  "baslik": "Yanıcı Gaz Kullanılan Proses Hattı Kapanınca Tehlike Kaydı Nasıl Güncellenir?",
+  "ozet": "Bir üretim bölümündeki yanıcı gaz hattı kullanımdan kaldırıldığında, işletmenin gaz tüketimi durmuş olabilir; ancak bu tek başına hattın tehlike kaydından silinebileceği anlamına gelmez. Boru içinde kalmış gaz, izole edilmemiş bağlantılar, körlenmemiş hat uçları, geçici hortumlar veya yanlış etiketlenmiş vanalar sahada bulunmaya devam edebilir. Yangın güvenlik uzmanlığı (YGU) açısından esas soru, “hat çalışıyor mu?” değil, “bugün hangi fiziksel durum kanıtlanabiliyor?” sorusudur.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kullanimin-bitmesi-ile-tehlikenin-ortadan-kalkmasi-farklidir",
+      "metin": "Kullanımın bitmesi ile tehlikenin ortadan kalkması farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir hatta üretim emri verilmemesi idari bir karardır. Gaz beslemesinin kalıcı biçimde ayrılması, sistemin güvenli duruma alınması ve kalan parçaların durumunun belgelenmesi ise teknik işlemlerdir. Kapalı duran bir vana, vananın aşağısındaki hattın gazdan arındırıldığını veya tekrar beslenemeyeceğini tek başına kanıtlamaz. Bu nedenle YGU, sahadaki boruları “kullanılmıyor” ifadesiyle otomatik olarak risksiz sınıfa aktarmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "İlk olarak gazın türü, hattın başlangıç ve bitiş noktaları, kaynağı (şebeke, tank, tüp grubu veya başka bir besleme), bağlantılı cihazlar ve hat üzerindeki vana, regülatör, algılama ve kesme elemanları belirlenir. Gazın fiziksel özellikleri ve özgül tehlikeleri güvenlik bilgi formu, işletme teknik dosyası ve yetkili uzman değerlendirmesi üzerinden ele alınır. LPG, doğal gaz ve farklı proses gazları aynı tehlike ve havalandırma kabulüyle değerlendirilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "once-uc-ayri-kayit-karsilastirilir",
+      "metin": "Önce üç ayrı kayıt karşılaştırılır"
+    },
+    {
+      "tip": "p",
+      "metin": "Birinci kayıt, işletmenin tehlikeli madde envanteridir: hangi gaz, ne amaçla ve nerede kullanılıyordu; işletmede halen gaz içeren tüp, tank veya bağlantı var mı? İkinci kayıt, onaylı ya da geçerli tesisat ve proses şemalarıdır: sökülecek veya korunacak bölüm nerede başlar ve biter? Üçüncü kayıt ise fiili saha durumudur: vanalar, kör tapalar, bağlantı uçları, cihazlar, boru işaretleri ve erişim koşulları bugünkü haliyle ne gösteriyor? Bu üç kaynak birbiriyle uyuşmadan “kapatıldı” sonucu kesinleştirilmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol alanı",
+        "İstenen belge / kayıt",
+        "Sahada karşılaştırılan unsur"
+      ],
+      "satirlar": [
+        [
+          "Hat sınırı",
+          "Güncel proses akış ve tesisat şeması",
+          "Besleme noktası, branşman, vana ve uç bağlantılar"
+        ],
+        [
+          "Güvenli duruma alma",
+          "Yetkili ekip işlem / doğrulama tutanağı",
+          "Ayrım, söküm veya körleme uygulamasının yeri"
+        ],
+        [
+          "Kalan gaz ekipmanı",
+          "Varlık envanteri ve bakım kaydı",
+          "Regülatör, tüp, dedektör ve cihazların fiili durumu"
+        ],
+        [
+          "Tehlike belgesi",
+          "Risk değerlendirmesi ve alan sınıflandırma dosyası",
+          "Gaz varlığının devam ettiği veya kalktığı alanlar"
+        ],
+        [
+          "Revizyon izi",
+          "Değişiklik onayı ve güncel as-built proje",
+          "Eski çizimle yeni saha arasındaki farklar"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "tehlike-kaydi-icin-tek-bir-kapali-durumu-yeterli-mi",
+      "metin": "Tehlike kaydı için tek bir “kapalı” durumu yeterli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kayıt sistemi, en azından hattın fiilen aktif olması, işletme kararıyla kullanımının durdurulması, teknik izolasyon veya söküm işleminin sürmesi ve teknik doğrulamanın tamamlanması durumlarını birbirinden ayırabilmelidir. Örneğin yalnızca üretimin durdurulduğu bir tesisat, belgeler ve fiziki kalıntılar değerlendirilinceye kadar “kullanım dışı – teknik doğrulama bekliyor” açıklamasıyla izlenebilir. Bu bir mevzuat sınıflandırması değil, kaydın yanlışlıkla kapatılmasını önleyen işletme takip yöntemidir."
+    },
+    {
+      "tip": "p",
+      "metin": "İşlemin tamamlanması halinde kayıt kendiliğinden yok edilmez. Önceki konum, gaz türü, değişiklik tarihi, işlemi yapan yetkili ekip, kullanılan doğrulama yöntemi, onay ve güncel proje sürümü geçmişte görülebilir kalır. İşletmede ileride yeniden gaz kullanımı planlanırsa eski risk değerlendirmesinin kendiliğinden geçerli olduğu varsayılmaz; yeni kullanım, proses değişikliği olarak tekrar incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, saha incelemesinde hattın üzerinde veya yakınında bulunan işletme etiketlerini, vana ve körleme noktalarını, eski cihazların durumunu ve depo ya da proses alanının yeni kullanımını fotoğraf ve yer bilgisiyle kaydeder. Güncel proje, değişiklik talebi, iş bitirme tutanağı ve bakım kayıtlarıyla fiziki durumu karşılaştırır. Eksik belge varsa “tehlike ortadan kalktı” şeklinde kesin sonuç yazmak yerine, hangi bilgi olmadan bu sonuca varılamadığını açıkça belirtir."
+    },
+    {
+      "tip": "p",
+      "metin": "Hattın kesilmesi, gazdan arındırılması, sızdırmazlık ve basınç kontrolü, patlayıcı ortam değerlendirmesi veya elektrikli ekipman uygunluğunun teknik onayı, bunlara yetkili ve yeterli kişilerce yürütülmelidir. YGU’nun belge ve saha karşılaştırması, bu işlemlerin yerine geçmez. Gaz algılama cihazı, havalandırma veya otomatik kesme sistemi sökülecekse, bunların başka faaliyetlere hizmet edip etmediği de yetkili teknik incelemeye konu edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-mevzuat-ve-taslak-hukum-nasil-ayrilir",
+      "metin": "Yürürlükteki mevzuat ve taslak hüküm nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, tehlikeli madde sınıflandırmasını ve parlayıcı/patlayıcı gazlara ilişkin genel esasları düzenler. Bir hattın kapatılmış olması için özel bir “YGU kapatma sertifikası” veya yalnız bu çalışmaya özgü sabit bir kontrol listesi öngörüldüğü sonucuna bu hükümlerden varılamaz. Hattın güvenli şekilde kullanımdan çıkarılmasına yönelik yöntem, ilgili diğer mevzuat ve standartlar ile tesisin teknik özellikleri çerçevesinde yetkin kişilerce belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yürürlüğe girmemiş BYKHY değişiklik taslağının parlayıcı ve patlayıcı gazlara ilişkin genel hükümleri ayrı değerlendirilir (TASLAK). Aynı şekilde YGU görevleri ve EK-6/B kontrol formu da yayımlanmamış YGU düzenlemesi bağlamında ele alınmalıdır (TASLAK). Formda gaz tüpleri ve depolama hakkında maddeler bulunması, kapatılan her proses hattına doğrudan ve ayrı bir EK-6/B bendi atandığı anlamına gelmez. Bu makaledeki izlenebilirlik ve belge eşleştirme yöntemi, mesleki inceleme önerisidir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-kayit-nasil-yazilabilir",
+      "metin": "Örnek kayıt nasıl yazılabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal örnek: Bir atölyenin eski yanıcı gaz besleme hattı için işletme “kullanılmıyor” bilgisini vermiş, ancak sahada boru, vana ve cihaz bağlantıları kalmıştır. Bu durumda kayıt; “Hat kullanımı durdurulmuş; kalıcı ayrım ve gazdan arındırma işleminin yetkili teknik belgeleri sunulmadığından tehlikenin sona erdiği doğrulanamadı. Güncel tesisat şeması, işlem tutanağı ve risk değerlendirmesi revizyonu isteniyor” şeklinde düzenlenebilir. İşlem kanıtları geldikten sonra aynı kaydın kapanış gerekçesi ve tarihi ayrıca eklenir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yanıcı gaz hattının artık kullanılmaması, işletme envanterinden iz bırakmadan silinmesi için yeterli kanıt değildir. Sağlıklı yöntem, geçmiş gaz kullanımını koruyarak mevcut fiziksel durumu doğrulamak; proje, işlem tutanağı ve tehlike değerlendirmesini aynı kayıt üzerinde ilişkilendirmektir. YGU, bu belgeler arasındaki uyumsuzluğu görünür kılar ve uzmanlık sınırlarını aşmadan kapanışın hangi kanıtlara bağlı olduğunu tarif eder."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

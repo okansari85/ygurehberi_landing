@@ -1,0 +1,152 @@
+{
+  "kod": "YGR-K079",
+  "yol": "havuzlama-alani-baska-amacla-kullanilirsa-ne-olur",
+  "baslik": "Havuzlama alanı başka amaçla kullanılırsa ne olur?",
+  "ozet": "Yanıcı sıvı tanklarının çevresindeki havuzlama, dökülme halinde sıvının kontrollü bir sınır içinde tutulması için tasarlanır. Bu bölgenin geçici depo, ekipman park yeri veya yeni imalat alanı olarak kullanılması yalnız kapasiteyi değil, doğrudan kullanım şartını da etkiler.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "havuzlama-alaninin-kullanim-siniri",
+      "metin": "Havuzlama alanının kullanım sınırı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, açıkta yerüstü depolama için havuzlama bölgesinde tanklar dışında yalnız armatür ve boru bulunabileceğini belirtir. Bu nedenle set içine palet, atık varili, yedek parça, mobil ekipman veya başka amaçla kullanılan bir platform yerleştirilmesi, hacim hesabı yeterli görünse bile yalnız “boş hacim azaldı mı?” sorusuyla geçiştirilemez. Önce bölgenin izin verilen kullanım sınırının dışına çıkılıp çıkılmadığı belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Tankın işletilmesi için gerekli boru ve armatürler ile bunlara ait uygulama detayları ayrıca proje üzerinden incelenir. Bir elemanın “tesisatla ilgili” olarak tanıtılması, set içindeki her yeni yapı veya depolama kullanımını kendiliğinden uygun hale getirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "hacim-set-ve-drenaj-birlikte-incelenir",
+      "metin": "Hacim, set ve drenaj birlikte incelenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Havuzlama hacmi, tank sayısına ve depolama düzenine göre belirlenir; aynı büyüklükte sabit tanklar için bir tankın, farklı büyüklükte tanklar için en büyük tankın hacmi esas alınan temel kurallardandır. Taşınabilir tanklar ve karma depolama için ayrı esaslar vardır. Tasarım hesabının mevcut tesisle eşleşmesi gerekir; setin dıştan yüksek görünmesi tek başına yeterli kanıt değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonradan eklenen bir kaide veya ekipman, sıvının yer değiştirebileceği hacmi azaltabilir. Boru geçişindeki sızdırmazlık bozulması veya su boşaltma bağlantısının kontrolsüz açık tutulması ise hesaplanan hacim korunsa dahi döküntünün havuz dışına çıkmasına yol açabilir. Bu nedenle kullanım kuralı, net hacim ve sızdırmazlık birbirinden ayrı değerlendirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 79. Eski taslaktaki özgün temsili çizim korunmuştur. Set içindeki “yeni kaide” bir uygunluk örneği değil, kullanım sınırı ve net hacim yönünden incelenmesi gereken değişikliği gösterir.",
+      "src": "/img/makale/ygr-k079-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasinda-hangi-kayitlar-aranir",
+      "metin": "Belge ve saha karşılaştırmasında hangi kayıtlar aranır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Aranacak kanıt",
+        "Kontrol amacı"
+      ],
+      "satirlar": [
+        [
+          "Onaylı tank ve havuzlama projesi",
+          "Tank yerleşimi, set sınırı, tasarım hacmi ve tesisat geçişleri",
+          "İzin verilen düzeni belirlemek"
+        ],
+        [
+          "Revizyon ve uygulama krokileri",
+          "Yeni kaide, platform, boru, armatür ve saha değişikliklerinin yeri",
+          "Proje ile fiili durumu karşılaştırmak"
+        ],
+        [
+          "Hacim hesabı ve ölçülü saha kaydı",
+          "Net hacim hesabına giren elemanlar ve set geometrisi",
+          "Kapasite hesabının güncelliğini araştırmak"
+        ],
+        [
+          "Drenaj ve bakım kayıtları",
+          "Kapanabilir boşaltma düzeni, sızdırmazlık ve işletme talimatı",
+          "Sıvının havuzda tutulabildiğini doğrulamak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye tesisin onaylı yerleşim ve yangın güvenliği projeleri, yapı ve faaliyet izinleri, tank envanteri, depolanan sıvının sınıfı ve miktarı ile varsa değişiklik kayıtlarını karşılaştırarak başlar. Ardından havuzlama setinin içindeki fiili kullanımı, tank ve boru güzergahlarını, geçişleri, drenaj düzenini ve yeni istif veya imalatları yerinde gözlemler. Belgelerde gösterilmeyen bir platform, palet istifi ya da ekipman görülürse konumunu ve etkisini fotoğraf ve krokiyle kayda alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel olarak saptanan izinsiz kullanım ile teknik hesap gerektiren kapasite şüphesi raporda ayrı yazılır. Gerektiğinde işletmeden güncel ölçülü rölöve, proje müellifi veya yetkili teknik kişi tarafından hazırlanmış hesap ve ilgili revizyon/onay belgeleri istenir. YGU, kendi görevi kapsamında proje–saha farkını gerekçelendirir; başka mesleklerin yetkisindeki mühendislik tasarımını, resmi proje onayını veya özel ölçüm ve test işlemlerini yapılmış gibi üstlenmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-bulgu-ve-duzeltici-islem",
+      "metin": "Örnek bulgu ve düzeltici işlem"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili durum: Havuzlama setinin içinde üretimden kalan paletler ve bağımsız bir ekipman kaidesi görülüyor; onaylı yerleşim projesinde bu kullanım bulunmuyor. Bu durumda “kapasite yeterli olabilir” denilerek uygunluk kararı verilmez. Paletlerin kaldırılması ve bölgenin amaç dışı kullanımının sonlandırılması istenir. Kaidenin işlevi ve proje kaydı incelenir; tank, boru veya armatür kapsamında olmayan bağımsız eleman kaldırılmadan yalnız hesap yenilenerek uygunluk sonucu oluşturulmaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Bulgu",
+        "Önerilen takip / kanıt"
+      ],
+      "satirlar": [
+        [
+          "Set içinde palet veya malzeme istifi",
+          "Amaç dışı kullanımın sonlandırılması; son durum fotoğrafı ve işletme kontrol kaydı"
+        ],
+        [
+          "Projede bulunmayan kaide veya platform",
+          "Elemanın niteliğinin belirlenmesi; amaç dışı bağımsız elemanın kaldırılması ve saha teyidi"
+        ],
+        [
+          "Boru geçişi veya drenajda şüphe",
+          "Yetkili bakım ve teknik kontrol kaydı; sızdırmazlık ve boşaltma düzenine ilişkin doğrulama"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-statusu-ve-sonuc",
+      "metin": "Mevzuatın statüsü ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni yönetmelik taslağı, aynı konuda benzer havuzlama kısıtlarını içerse de yürürlükteki hükmün yerine geçmez. Somut incelemede bağlayıcı metin ve tesisin geçerli onaylı belgeleri esas alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Havuzlama alanının başka amaçla kullanılması, öncelikle izin verilen kullanım sınırı bakımından ele alınır. Ayrıca kullanılabilir hacim, set ve geçişlerin sızdırmazlığı, drenajın kontrolü ve işletme kayıtları incelenir. Yalnız duvar yüksekliği veya eski kapasite hesabı üzerinden olumlu sonuç verilmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

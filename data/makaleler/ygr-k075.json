@@ -1,0 +1,162 @@
+{
+  "kod": "YGR-K075",
+  "yol": "dogalgaz-tesisatinda-kullanim-degisikligi-hangi-belgeleri-etkiler",
+  "baslik": "Doğalgaz tesisatında kullanım değişikliği hangi belgeleri etkiler?",
+  "ozet": "Bir işletmeye yeni bir gazlı üretim fırını eklenmesi, yalnızca cihaza gaz ulaştırılması anlamına gelmez. Tesisatın hangi tüketiciler için projelendirildiği, yeni cihazın kapasitesi, hat güzergahı ve gaz kesme düzeni birlikte ele alınmalıdır. Yangın güvenliği incelemesinde asıl soru, sahadaki yeni kullanımın onaylı belgelerde tanımlanan kurulumla hala örtüşüp örtüşmediğidir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisiklik-yalniz-boru-hattinda-mi-aranir",
+      "metin": "Değişiklik yalnız boru hattında mı aranır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni fırın, ocak, kazan veya proses cihazı eklendiğinde mevcut boru aynı kalsa bile toplam gaz talebi ve cihazların çalışma koşulları değişebilir. Cihazın taşınması, yeni bir mahalde kullanılması ya da mevcut hattın başka bir tüketiciye de hizmet vermesi; proje, havalandırma, baca ve emniyet tertibatının yeniden incelenmesini gerektirebilir. Bu gerekliliğin kapsamı, ilgili gaz dağıtım kuruluşunun teknik şartları ve yetkili proje/uygulama süreciyle belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Cihazın CE işareti, satın alma faturası veya bakım etiketi tek başına bina içi gaz tesisatının revizyonunun onaylandığını göstermez. Tersine, güncel proje belgesinin sunulamaması da tek başına tesisatın fiziksel olarak tehlikeli olduğunun ölçülmüş kanıtı değildir. Belge eksikliği ve sahada gözlenen teknik uygunsuzluk ayrı ayrı kaydedilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "once-eski-ve-yeni-durum-karsilastirilir",
+      "metin": "Önce eski ve yeni durum karşılaştırılır"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk karşılaştırmada onaylı gaz tesisatı projesi, varsa revizyon paftaları, cihaz listesi, kapasite bilgileri ve işletmenin güncel mahal kullanımı yan yana getirilir. Özellikle yeni cihazın hangi hatta bağlandığı, hattın hangi kesme vanasıyla ayrıldığı ve güvenlik düzeninin hangi tüketicileri kapsadığı gösterilmelidir. Bir şemadaki hat çizgisi, sahadaki çap ve kapasite uygunluğunu kendiliğinden kanıtlamaz; bu değerlendirme yetkili teknik tarafın işidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 75. Yeni gaz tüketicisi eklendiğinde proje, hat ve vana ilişkisini gösteren temsili şema. Ölçekli tesisat projesi veya uygunluk kararı değildir.",
+      "src": "/img/makale/ygr-k075-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-zincirinde-hangi-kayit-neyi-gosterir",
+      "metin": "Belge zincirinde hangi kayıt neyi gösterir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge / kayıt",
+        "İncelenecek değişiklik",
+        "Değerlendirme sınırı"
+      ],
+      "satirlar": [
+        [
+          "Onaylı gaz tesisatı projesi ve revizyonları",
+          "Yeni tüketici, hat kolu, vana yerleri ve cihaz kapasitesi",
+          "Projenin yeni kullanım için güncel olup olmadığı yetkili süreçten teyit edilir."
+        ],
+        [
+          "Gaz dağıtım kuruluşu / yetkili kontrol kayıtları",
+          "Gerekli görülen proje onayı, tesisat kontrolü ve gaz açma işlemleri",
+          "Belge türü ve zorunluluğu ilgili kuruluşun prosedürüne göre belirlenir."
+        ],
+        [
+          "Cihaz, baca ve havalandırma belgeleri",
+          "Yeni cihazın teknik verileri, mahalin hava ihtiyacı ve atık gaz düzeni",
+          "Ürün belgesi tüm tesisatın uygunluğu yerine geçmez."
+        ],
+        [
+          "Bakım, test ve işletme kayıtları",
+          "Kesme elemanları, algılama bağlantıları, arıza ve müdahale talimatı",
+          "Fonksiyon testi ve ölçüm yetkili kişi/kuruluş kayıtlarıyla doğrulanır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenligi-bakimindan-kritik-baglantilar",
+      "metin": "Yangın güvenliği bakımından kritik bağlantılar"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, doğalgaz kullanımı için ilgili mevzuat ve standartlara uyulmasını öngörür. Kazan daireleri ve ısı merkezleri bakımından elektrik kumandası, havalandırma, gaz algılama ve kesme tertibatı gibi özel hükümler içerir. Bu hükümler her gazlı üretim fırınına, kullanım yeri ve sistem ayrımı yapılmaksızın aynı şekilde aktarılmamalıdır. Önce cihazın bulunduğu mahalin ve tesisatın niteliği belirlenir; ardından gerçekten uygulanabilir şartlar değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada vana ve servis kutularına erişimin engellenmesi, uyarıların görünmemesi, yeni ekipmanın hava girişini kapatması veya gaz hattına sonradan müdahale edilmesi gibi durumlar gözlemsel bulgu oluşturabilir. Gaz kaçağı tespiti, basınç ve sızdırmazlık ölçümü, hat kapasitesi hesabı ya da otomatik kesme düzeninin işlev testi ise ilgili yetkili teknik kişi ve kuruluşun yöntemleriyle yapılır; gözle bakılarak olumlu sonuç verilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye işletmenin ruhsat ve kullanım bilgileriyle başlar; onaylı mimari ve tesisat projelerinin ilgili bölümlerini, sonradan yapılan değişiklik kayıtlarını ve mevcut faaliyet türünü karşılaştırır. Gazla çalışan cihazların yerlerini, kullanım amaçlarını, görünür hat ve vana düzenini, servis kutusuna erişimi ve işletme talimatlarını sahada gözlemler. Gerektiğinde ilgili teknik proje, gaz dağıtım kuruluşu işlemleri, bakım ve test raporlarını talep ederek bunların hangi cihaz ve mahal için düzenlendiğini eşleştirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin onaylı projede bulunmayan bir üretim fırını gözlenirse, bulgu \"yeni gaz tüketicisi mevcut; güncel tesisat projesi ve yetkili kontrol kayıtları sunulmadı\" biçiminde somutlaştırılır. Bu kayıt, fırının gaz hattının teknik olarak uygun ya da uygunsuz olduğuna ilişkin yetkisiz bir hesap veya test sonucuna dönüştürülmez. Revizyonun gerekip gerekmediği ve tesisatın uygunluğu, ilgili proje müellifi, yetkili uygulayıcı ve gaz dağıtım kuruluşunun görev alanında değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-bulgusunu-karara-baglayan-kisa-kontrol",
+      "metin": "Saha bulgusunu karara bağlayan kısa kontrol"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karşılaştırma sorusu",
+        "Beklenen kanıt",
+        "Bulgu nasıl yazılır?"
+      ],
+      "satirlar": [
+        [
+          "Yeni cihaz güncel projede tanımlı mı?",
+          "Onaylı/revize proje, cihaz listesi",
+          "Proje ve saha arasındaki farkın yeri ve kapsamı belirtilir."
+        ],
+        [
+          "Bağlantı ve kesme düzeni izlenebiliyor mu?",
+          "Tesisat şeması, vana etiketleri, yetkili kontrol kaydı",
+          "Gözlenen düzen ile test edilmemiş işlev birbirinden ayrılır."
+        ],
+        [
+          "Mahalin kullanım koşulu değişti mi?",
+          "Faaliyet bilgisi, cihaz teknik dokümanı, havalandırma/baca projesi",
+          "Değişen koşul ve hangi teknik incelemenin gerektiği açıklanır."
+        ],
+        [
+          "İşletme yeni düzene hazırlanmış mı?",
+          "Bakım ve eğitim kayıtları, acil gaz kesme talimatı",
+          "Eksik kayıt veya erişim engeli açıkça gösterilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğalgaz tesisatında kullanım değişikliğinin etkisi yalnız yeni boru bağlantısından okunamaz. Onaylı proje, cihazın gerçek kullanım koşulu, gaz dağıtım kuruluşunun yetkili işlemleri, bakım ve güvenlik kayıtları birlikte değerlendirilmelidir. Yangın güvenliği incelemesinin güçlü yanı, belge ile sahadaki farkı açıkça göstermek ve doğrulanmamış teknik uygunluk kararından kaçınmaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,156 @@
+{
+  "kod": "YGR-K163",
+  "yol": "yangin-dolabi-zorunlulugu-hangi-yapisal-bilgilere-baglidir",
+  "baslik": "Yangın dolabı zorunluluğu hangi yapısal bilgilere bağlıdır?",
+  "ozet": "Yeni yapılan bir ticaret bloğunda yangın dolabı gerekip gerekmediği, yalnız “bina büyük mü?” sorusuna cevap verilerek belirlenemez. Yapının kullanım sınıfı, toplam ve bölüm bazındaki alanları, yüksek bina olup olmadığı, kapalı otoparkı, kazan dairesi ve mevcut bina hükümlerinin uygulanıp uygulanmadığı ayrı ayrı incelenir. Yangın Güvenlik Uzmanı (YGU) için asıl görev, bu bilgileri onaylı belgeler üzerinden doğrulamak ve yangın söndürme tesisatı projesindeki kararın dayanağını görünür kılmaktır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ilk-adim-binanin-hangi-kullanim-sinifinda-oldugunu-bulmak",
+      "metin": "İlk adım: binanın hangi kullanım sınıfında olduğunu bulmak"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari projede “ticaret”, “mağaza”, “iş merkezi” veya “karma kullanım” yazması tek başına ilgili yangın dolabı hükmünü seçmek için yeterli değildir. BYKHY kullanım sınıflarını ayrı başlıklar altında düzenler. İmalathane, atölye, depo, konaklama, sağlık, toplanma, eğitim ve ticaret amaçlı kullanımların birbirine karıştırılması, doğru olmayan bir alan eşiğinin uygulanmasına yol açabilir. Özellikle bir yapının farklı katlarında satış alanı, büro, depo ve otopark bulunuyorsa her bölümün gerçek kullanımını ve ortak bina sınırlarını paftalarla eşleştirmek gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci ayrım, alanın hangi tür alan olduğudur. “Toplam kapalı kullanım alanı”, “yapı inşaat alanı”, “kat alanı” ve “net alan” aynı büyüklük değildir. Mimari kapak sayfasındaki tek bir sayı, bütün bu ölçütlerin yerine kullanılamaz. Kullanılan hesap için onaylı alan cetveli, kat planları, ruhsat bilgisi ve varsa tadilat paftası birbiriyle uyuşmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-birbirinden-farkli-zorunluluk-basliklari",
+      "metin": "Yürürlükteki BYKHY: birbirinden farklı zorunluluk başlıkları"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 94/1-b-1, yüksek binalarda; toplam kapalı kullanım alanı 1.000 m²’den büyük imalathane, atölye, depo, konaklama, sağlık, toplanma amaçlı ve eğitim binalarında; toplam alanı 600 m²’den büyük kapalı otoparklarda; ısıl kapasitesi 350 kW’ın üzerindeki kazan dairelerinde yangın dolabı öngörür. Bu eşiklerin her biri kendi kullanım ve ölçüm koşuluyla birlikte okunmalıdır. Örneğin “ticaret bloğu” ifadesi bu sayımdaki her kategoriye otomatik olarak eşit değildir; ilgili kullanım sınıfı ve diğer hükümler önce belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddenin itfaiye su alma hattına ilişkin 94/1-a-1 bendinde, bir boyutu 60 m’yi geçen katlarda yangın dolabı ve itfaiye su alma ağzı yapılması gereği ayrıca yer alır. Bu, dolap aralığına ilişkin 30 m kuralından farklı bir konudur. Projede katın bir boyutu, bina yüksekliği, kullanılan alanın türü ve gerekli bağlantı ağızları ayrı ayrı kontrol edilir. İtfaiye su alma ağzı, kullanıcıların ilk müdahalesi için tasarlanmış yangın dolabıyla aynı ekipman olarak gösterilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalara ilişkin özel düzenleme olan Madde 164/2 ise daha farklı eşikler içerir: yüksek binalar; toplam kapalı kullanım alanı 2.000 m²’den büyük sayılan kullanım türleri ve eğitim binaları; alanları toplamı 1.000 m²’den büyük kapalı otoparklar; ısıl kapasitesi 500 kW’ın üzerindeki kazan daireleri. Bir binaya mevcut bina hükümlerinin uygulanıp uygulanmayacağı yalnız yapım yılı tahmin edilerek seçilmez; hukuki durumu ve uygulanabilir hükümler dosyadan belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslaginda-hangi-esikler-farkli",
+      "metin": "Değişiklik TASLAĞINDA hangi eşikler farklı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından sağlanan BYKHY değişiklik TASLAĞININ Madde 96/1-b-1 hükmünde kapsam farklı tarif edilir: yüksek binalar; yapı inşaat alanı 1.000 m²’den büyük konut harici binalar; alanları toplamı 300 m²’den büyük kapalı veya katlı açık otoparklar; net alanı 100 m²’nin üzerindeki kazan daireleri. Bu değerler yürürlükteki Madde 94’ün yerine geçmiş değildir. TASLAK ifadesi taşıyan bir hüküm, yayımlanıp yürürlüğe girmedikçe binaya yeni bir zorunluluk gibi uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki en önemli değişiklik yalnız rakamlarda değildir: güncel metnin bazı bina türleri için kullandığı “toplam kapalı kullanım alanı” ile taslağın “yapı inşaat alanı” ifadesi farklı veri ister. Taslak ile güncel hüküm karşılaştırılırken birindeki alan cetvelinin doğrudan diğerine taşınması hatalı bir sonuca neden olabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-dogrulama-tablosu",
+      "metin": "Proje–saha doğrulama tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol başlığı",
+        "Başvurulacak belge",
+        "Doğrulanacak soru"
+      ],
+      "satirlar": [
+        [
+          "Kullanım sınıfı",
+          "Mimari kullanım listesi, ruhsat, mahal adları",
+          "Ticaret / büro / depo / toplanma / karma kullanımlar ayrılmış mı?"
+        ],
+        [
+          "Bina statüsü",
+          "Ruhsat, onay ve tadilat kayıtları",
+          "Mevcut bina hükmünün dayanağı belirli mi?"
+        ],
+        [
+          "Alan verisi",
+          "Onaylı alan cetveli ve kat planları",
+          "Toplam kapalı kullanım, yapı inşaat, net ve otopark alanı karışıyor mu?"
+        ],
+        [
+          "Yapı yüksekliği",
+          "Mimari kesit, kot ve yüksek bina sınıfı",
+          "Yüksek bina ölçütü doğru belgelenmiş mi?"
+        ],
+        [
+          "Özel mahaller",
+          "Otopark ve kazan dairesi projeleri",
+          "İlgili alan / ısıl kapasite ayrıca teyit edilmiş mi?"
+        ],
+        [
+          "Kat geometrisi",
+          "Ölçekli plan, boyutlar, hol düzeni",
+          "60 m’yi geçen kat boyutu ve korunan alanlar incelenmiş mi?"
+        ],
+        [
+          "Tesisat yerleşimi",
+          "Onaylı mekanik proje, şema, muayene raporu",
+          "Dolaplar, bağlantılar, tip ve bakım kayıtları uyuşuyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, önce inceleme yapılacak yapının onaylı mimari ve mekanik projelerini, kullanım kararlarını, alan cetvelini, ruhsat ve tadilat kayıtlarını toplar. Ardından her yapı bölümü için hangi yürürlükteki hükmün uygulanacağını gösteren kısa bir karar çizelgesi oluşturur. Örneğin satış birimleri bulunan yeni bir ticaret bloğunda sırf toplam inşaat alanı 1.000 m²’yi geçti diye yürürlükteki hükmün taslaktaki geniş kapsamla aynı olduğunu varsaymaz. Dolap zorunluluğunun dayanağını kullanım sınıfına ve ilgili fıkraya bağlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Dolap zorunluluğu belirlendikten sonra denetim yalnız “dolap mevcut” kaydıyla bitmez. Yangın dolaplarının kat ve yangın duvarlarıyla ayrılan bölümler bazında yerleşimi, ulaşılabilirliği, dolap aralıkları, hortum tipi, su beslemesi ve güncel test/bakım kayıtları projeyle karşılaştırılır. Yürürlükteki Madde 94/1-b-2’deki genel 30 m yerleşim aralığı ve ilgili koşullarda 45 m’ye çıkabilen düzenleme, “dolap gerekli mi?” sorusundan sonraki ayrı bir tasarım kontrolüdür. Özellikle mimari tadilatlar yeni bölmeler oluşturmuşsa eski dolap sayısının yeterliliği doğrudan kabul edilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU yönetmeliği ve kontrol formu TASLAĞINDA mekanik incelemede yangın dolabının bağlantısı ve uygun tipi gibi kontrol başlıkları bulunmaktadır. Bunlar bugün bağımsız yürürlükte bir YGU yetkisi veya otomatik uygunluk belgesi doğurmaz. YGU gözlenebilir durumu ve belge eksikliğini kaydeder; teknik proje hesabı, performans deneyi ve yetkili değerlendirme gerektiren alanlarda ilgili uzman ve kurumların kayıtlarını ister."
+    },
+    {
+      "tip": "h2",
+      "id": "kurgusal-saha-ornegi-karar-neden-ertelenir",
+      "metin": "Kurgusal saha örneği: karar neden ertelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir ticaret bloğunda mimari kapak paftasında 1.180 m² toplam yapı inşaat alanı yazdığı, fakat satış, büro ve depo bölümleri için kapalı kullanım alanı cetvelinin sunulmadığı varsayılsın. Mimari kesitte yapının yüksek bina niteliği de belirlenmemiştir. Bu dosyada yalnız 1.180 m² sayısına dayanılarak “yürürlükteki BYKHY’ye göre dolap mecburidir” veya “gerekli değildir” kararı verilemez. YGU kullanım sınıflandırmasını, geçerli alan cetvelini ve yüksek bina durumunu ister; mekanik projedeki dolap bulunmaması kararının gerekçesini ve kat boyutlarını karşılaştırır. Bu örnek gerçek bir tesise ait değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın dolabı zorunluluğunun güvenilir biçimde belirlenmesi; bina sınıfının, uygulanabilir bina statüsünün, ölçülen alan türünün, yüksek bina durumunun, özel kullanım bölümlerinin ve kat geometrisinin birlikte incelenmesine bağlıdır. Projede dolabın çizilmiş olması da çizilmemiş olması da tek başına mevzuat kararı değildir. YGU, sonucu yürürlükteki hükme ve doğrulanabilir belgeye bağlamalı; değişiklik TASLAĞINI açıkça ayrı tutmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

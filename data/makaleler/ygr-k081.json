@@ -1,0 +1,149 @@
+{
+  "kod": "YGR-K081",
+  "yol": "yangin-guvenligi-sorumlusu-belirlenmis-ama-gorevleri-tanimli-degilse-ne-olur",
+  "baslik": "Yangın güvenliği sorumlusu belirlenmiş ama görevleri tanımlı değilse ne olur?",
+  "ozet": "Bir binada yangın güvenliği sorumlusunun adı personel listesinde yer alabilir. Ancak hangi alanı takip ettiği, eksikliği kime bildireceği ve alınan önlemin uygulanıp uygulanmadığını nasıl izleyeceği bilinmiyorsa bu isim, işletmede etkili bir kontrol düzeni kurulduğunu tek başına göstermez. Sorun yalnız görevlendirme belgesinin bulunmaması değil, sorumluluğun günlük işleyişte karşılığının olmamasıdır.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "mevzuatin-ongordugu-sorumluluk-nasil-kuruluyor",
+      "metin": "Mevzuatın öngördüğü sorumluluk nasıl kuruluyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 124. maddesi, yangın güvenliğine ilişkin asli sorumluluğu kamu ve özel kurum ve kuruluşlarda en büyük amire; diğer bina, tesis ve işletmelerde sahip veya yöneticilere bağlar. Aynı Yönetmeliğin 125. maddesi ise çalışma saatlerinde, görevli sayısı ve binadaki en büyük amirin takdiri dikkate alınarak kat, bölüm veya bina bütünü için görevliler arasından yangın güvenliği sorumlusu seçilmesini düzenler. Seçilen kişinin görevi, sorumlu olduğu bölümde yangına karşı korunma önlemlerini kontrol etmek ve aldırmaktır. Kat mülkiyetine tabi binalarda sorumluluğu bina yöneticisi üstlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu iki düzenleme birbirinin yerine geçmez. Bir personelin yangın güvenliği sorumlusu olarak belirlenmesi, bina sahibi veya yöneticisinin yönetim sorumluluğunu ortadan kaldırmaz. Sorumlu kişinin de projeci, bakım firması, itfaiye veya yetkili idare yerine geçmesi beklenmez. Burada asıl amaç, işletmenin günlük kontrol ve bildirim hattının açık olmasıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "isim-listesi-neden-yeterli-olmayabilir",
+      "metin": "İsim listesi neden yeterli olmayabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Görevlendirmenin işleyebilmesi için en azından kapsamın anlaşılır olması gerekir: Kişi hangi katı veya mahalli izliyor; çalışma saatleri ve fiili personel düzeni içinde ne zaman görev yapıyor; kapalı kaçış kapısı, erişilemeyen söndürücü veya kullanım değişikliği gibi bir durumu kime iletiyor; bildirimin sonucu nasıl takip ediliyor? Bunlar sahada doğrulanabilen sorulardır. Özellikle geniş kampüslerde, birden çok kiracının bulunduğu yapılarda veya vardiya düzeni değişen tesislerde tek bir isim tüm alanlar için fiilen yeterli olmayabilir; bunun değerlendirmesi yapının gerçek organizasyonuna dayanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin bu konu için her işletmede belirli başlıklara sahip ayrı bir “görev tanımı formu” zorunlu tuttuğu ileri sürülemez. Buna karşılık yazılı görevlendirme, alan sınırı, ulaşılabilir iletişim bilgisi ve izleme kayıtları; görev dağılımının belirsiz kalmasını önleyen, sonradan denetlenebilirliği güçlendiren işletme belgeleridir. Bu ayrım, tavsiye edilen iyi uygulamayı doğrudan hukuki şekil şartı gibi göstermemek açısından önemlidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sorumlulugu-gorunur-kilan-kayit-zinciri",
+      "metin": "Sorumluluğu görünür kılan kayıt zinciri"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki eşleştirme, işletme yönetiminin kurabileceği pratik bir izleme düzenini gösterir. Tablo bir resmi kontrol formu veya mevzuatta belirlenmiş zorunlu şablon değildir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / kanıt",
+        "Sahadaki soru",
+        "Değerlendirme açısından önemi"
+      ],
+      "satirlar": [
+        [
+          "Görevlendirme ve alan listesi",
+          "Sorumlu kişi, kat/bölüm ve çalışma düzeni eşleşiyor mu?",
+          "Belirsiz veya çakışan sorumluluk alanlarını ortaya koyar."
+        ],
+        [
+          "Güncel mahal ve kullanım bilgisi",
+          "Projede görünen alan bugün aynı amaçla mı kullanılıyor?",
+          "İşletme değişikliği nedeniyle kontrol kapsamının güncellenip güncellenmediğini gösterir."
+        ],
+        [
+          "Bildirim ve düzeltici işlem kaydı",
+          "Tespit kime iletilmiş, kim ne zaman işlem yapmış?",
+          "Sorunun yalnız fark edilmesini değil, giderilme sürecini de izlenebilir kılar."
+        ],
+        [
+          "Eğitim, tatbikat ve bakım belgeleri",
+          "Sorumlu kişi ilgili organizasyon ve bilgi akışında yer alıyor mu?",
+          "Görev tanımının işletmenin diğer yangın güvenliği süreçlerinden kopuk olup olmadığını gösterir."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo 81. Yangın güvenliği sorumluluğunun işletme kayıtlarıyla izlenmesine yönelik yardımcı eşleştirme."
+    },
+    {
+      "tip": "h2",
+      "id": "gorev-zincirinde-kopma-nerede-gorulur",
+      "metin": "Görev zincirinde kopma nerede görülür?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir depolama mahallinin kullanım amacı değiştiğinde, yangın güvenliği sorumlusu yeni istif düzeninin kaçış yolunu etkilediğini görebilir. Ancak bu tespit, kimin tarafından değerlendirileceği ve kimin düzeltici işlemi yürüteceği belirlenmediyse kayıtta bekler. Burada sorun, tek başına kişinin isminin yazılmamış olması değil; gözlem, bildirim, yönetim kararı ve uygulama arasındaki bağın kopmasıdır. Bu anlatım temsili bir çalışma örneğidir; gerçekleşmiş bir olaya ilişkin tespit değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sorumlunun günlük kontrol rolü ile yangın sırasında müdahale için oluşturulan acil durum ekiplerinin görevleri de birbirine karıştırılmamalıdır. Aynı personelin birden çok organizasyonda görevlendirilmesi mümkün olsa bile, bu görevlerin kapsamı ve çalışma düzeni ayrı ayrı anlaşılmalıdır. Bakım ve teknik test yükümlülükleri ise ilgili yetkin kişi veya kuruluşların işidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), konuya ilişkin incelemede önce yapının onaylı projelerini, kullanım izinlerini, güncel mahal ve faaliyet bilgilerini ve varsa işletme organizasyon şemasını karşılaştırır. Daha sonra yangın güvenliği sorumlularının belirlenmesine ilişkin kayıtları, alan dağılımını, iletişim ve bildirim yöntemlerini, yangın güvenlik sistemlerinin bakım belgelerini ve tatbikat kayıtlarını birlikte inceler. Bu belgelerden biri bulunmuyorsa mevcut olmayan belgeyi var saymaz; hangi hususun hangi kanıtla doğrulanamadığını açıkça belirtir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada görevli kişilerin bildiği alan sınırı ile işletmenin kayıtlarında tanımlanan alanın aynı olup olmadığı sorgulanır. Kaçış yolunun kullanımı, yangın kapılarının önü, söndürme ekipmanına erişim ve yangınla ilgili talimatların görünürlüğü gibi gözlemsel hususlar yerinde karşılaştırılır. Gerektiğinde bulgu; mahal, tarih, fotoğraf, ilgili belge ve açıklama ile kaydedilir. Bir cihazın çalıştığı veya tesisatın teknik performansının uygun olduğu, yalnız gözlemle ya da sorumlunun beyanıyla kesinleştirilmez; yetkili test ve bakım kayıtları aranır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, görevlendirme düzeninin işletmede izlenebilir olup olmadığına ilişkin gerekçeli teknik değerlendirme yapabilir; ancak işletme adına personel ataması, proje tasarımı, yetki gerektiren ölçüm ve test veya idari onay işlemini kendiliğinden üstlenmez. İşletmenin görevlendirme ve düzeltici işlem kararı yönetimde; tesisatın tasarım ve test sorumluluğu ilgili yetkili meslek ve kuruluşlarda; ruhsat ve idari kararlar yetkili idarededir. YGU için mevzuat taslaklarında öngörülen mesleki işlemler, yürürlükte kesinleşmiş bir yetki gibi sunulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-metin-ile-yururlukteki-kuralin-ayrimi",
+      "metin": "Taslak metin ile yürürlükteki kuralın ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında yangın güvenliği sorumlusunun belirlenmesi konusu 127. maddede yer alır. Taslakta çalışma saatleri, görevli sayısı, sorumlunun kontrol ve önlem aldırma işlevi korunmakla birlikte, taslak madde numarası yürürlükteki 125. maddenin yerine kullanılamaz. Taslağın yayımlanmış ve yürürlüğe girmiş bir düzenleme olduğu varsayılmadan, mevcut değerlendirme yürürlükteki hükme dayandırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-nasil-yazilir",
+      "metin": "Gerekçeli bulgu nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili rapor ifadesi: “İşletmenin sunduğu personel listesinde yangın güvenliği sorumlusu adı yer almakla birlikte, görev alanının hangi kat ve bölümleri kapsadığı ve tespit edilen eksikliklerin hangi yönetim birimine bildirileceği sunulan kayıtlardan belirlenememiştir. İşletme organizasyonunun fiili mahal kullanımıyla eşleştirilmesi, görev ve bildirim hattının yazılı olarak netleştirilmesi önerilir. Bu değerlendirme, yangın tesisatlarının performans testinin yapıldığı veya işletme adına görevlendirme işlemi tesis edildiği anlamına gelmez.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak, bir sorumlunun belirlenmesi gerekli başlangıçtır; güvenilir uygulama ise sorumlu alanının bilinmesi, tespitin yönetime ulaşması ve düzeltici işlemin izlenebilmesiyle oluşur. Yangın güvenliğinde görev dağılımının değeri, kağıt üzerindeki unvandan çok sahada işleyen kayıt ve iletişim düzeninde ortaya çıkar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

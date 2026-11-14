@@ -1,0 +1,119 @@
+{
+  "kod": "YGR-K120",
+  "yol": "kompartiman-kapisinin-surekli-acik-tutulmasi-hangi-zinciri-etkiler",
+  "baslik": "Kompartıman kapısının sürekli açık tutulması hangi zinciri etkiler?",
+  "ozet": "Yangın kompartımanı, yangının ve dumanın belirli bir süre boyunca diğer mahallere geçişini sınırlamak üzere düzenlenen yapı bütünüdür. Kompartıman sınırındaki kapı, bu bütünün hareketli parçasıdır. Kapı kanadının yangına dayanım belgesi bulunması, kanat açık bırakıldığında kompartımanın işlevini koruduğu anlamına gelmez. Açık kapı, dumanın ve sıcak gazların bölmeler arasında ilerleyebileceği doğrudan bir geçiş oluşturur.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapinin-varligi-ile-koruma-islevi-ayni-sey-degildir",
+      "metin": "Kapının varlığı ile koruma işlevi aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada sık görülen durum, yük taşıma veya personel geçişini kolaylaştırmak için kapının takozla, iple ya da uygunsuz bir sabitleyiciyle açık tutulmasıdır. Buradaki temel sorun yalnızca kapı donanımının eksikliği değil, koruma düzeninin işletme alışkanlığı nedeniyle devre dışı kalmasıdır. Kapı açık kalıyorsa koridorun veya komşu mahallin duman etkisine maruz kalması, kaçış koşullarının bozulması ve müdahale sırasında yangının sınırlandırılmasının zorlaşması aynı olay zincirinin parçaları olabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "incelemede-hangi-ayrimlar-yapilir",
+      "metin": "İncelemede hangi ayrımlar yapılır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Sahada görülebilen durum",
+        "Değerlendirme için kanıt"
+      ],
+      "satirlar": [
+        [
+          "Kapının konumu",
+          "Kapı, projedeki kompartıman sınırında mı?",
+          "Onaylı mimari proje ve kompartıman planı"
+        ],
+        [
+          "Kapatma işlevi",
+          "Kanat serbest bırakılınca kapanıyor mu; kapanması engelleniyor mu?",
+          "Yerinde gözlem ve bakım kayıtları"
+        ],
+        [
+          "Duman kontrolü",
+          "Kanat, kasa ve birleşimlerde gözle görülür hasar veya açıklık var mı?",
+          "Ürün/sistem belgesi ve montaj detayları"
+        ],
+        [
+          "İşletme düzeni",
+          "Taşıma akışı kapının açık bırakılmasına mı dayanıyor?",
+          "Mahalin kullanım biçimi, işletme talimatı ve saha fotoğrafı"
+        ],
+        [
+          "Düzeltme ve takip",
+          "Uygunsuz sabitleme kaldırılmış ve işlev yeniden sağlanmış mı?",
+          "Düzeltici işlem kaydı ve takip gözlemi"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Not: Kapının otomatik kapanma düzeni, elektromanyetik tutucu veya algılama sistemiyle ilişkili bir çözüm içeriyorsa, bunun uygunluğu yalnız gözlemle ilan edilemez. Tasarım ve sistem entegrasyonu ilgili yetkili teknik disiplinin belgeleri ve testleriyle değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-isletme-kosullari-arasindaki-kritik-fark",
+      "metin": "Proje ile işletme koşulları arasındaki kritik fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede iki depolama alanını ayıran kapı kendiliğinden kapanır şekilde gösterilmiş olabilir. İşletme, forklift geçişi için bu kapıyı gün boyu açık tutuyorsa proje üzerindeki ayırma sürekliliği sahada gerçekleşmez. Bu örnek belirli bir tesiste yaşanmış olay değildir; değerlendirme yöntemini açıklayan varsayımsal bir durumdur. Kapının işlevini kaybetmesine neden olan iş akışı ayrıca kayda geçirilmelidir; yalnız takozun kaldırılması, tekrarını önleyecek işletme düzeni kurulmadığında kalıcı çözüm olmayabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce kapının hangi yangın ayırma sınırına hizmet ettiğini onaylı mimari proje, yangın güvenliği detayları ve varsa yapı kullanımına ilişkin izin belgeleri üzerinden belirler. Ardından mahallin gerçek faaliyetini, malzeme ve insan hareketini, kapının açık tutulma gerekçesini ve kapatma donanımının gözle görülebilen durumunu karşılaştırır. Ürün sınıflandırma belgeleri, montaj kayıtları, bakım ve kontrol raporları bulunuyorsa bunların ilgili kapı takımıyla eşleşip eşleşmediğini inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporunda kapının yeri, gözlenen sabitleme biçimi, proje–saha farkı, muhtemel duman geçiş yolu, dayanak belgeler ve önerilen takip işlemi açıkça yer alır. Gözlem sırasında kapının kapandığını görmek, yangın dayanımı veya duman sızdırmazlığı için laboratuvar testi yerine geçmez. YGU; mühendislik tasarımı, sertifikasyon, ölçüm, yetkili idare onayı ya da tesisatın teknik kabulü gibi başka uzmanlık ve mercilere ait işlemleri kendi gözlemiyle ikame etmez. Teknik yeterlilik belirsizse ilgili yetkili kişi veya kuruluştan doğrulama ister."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-cercevesi-ve-taslak-ayrimi",
+      "metin": "Mevzuat çerçevesi ve taslak ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın duvarındaki zorunlu kapı açıklıkları için yangına dayanım, kendiliğinden kapanma ve duman sızdırmazlık gereklerini düzenler. Kaçış yolu kapıları bakımından ayrıca ilgili kaçış hükümleri değerlendirilir. Bir kapının bulunduğu yerin yangın duvarı, kompartıman ayırıcı veya kaçış yolu olması, uygulanacak hükmün seçimi bakımından önemlidir; tüm kapılara tek tip şart uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağındaki yangın duvarı ve kompartıman yaklaşımı ile ayrı YGU düzenleme taslağı, bu makalede yürürlükte bir yetki veya ek zorunluluk olarak sunulmamıştır. Taslakların özgün fıkra metinleriyle tam karşılaştırma yapılmadan yeni bir sayısal eşik ya da görev yetkisi ileri sürülmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın kapısının sürekli açık tutulması, kapıdan başlayarak kompartıman bütünlüğünü, dumanın sınırlandırılmasını ve bazı durumlarda kaçış güvenliğini etkileyen bir işletme uygunsuzluğudur. Doğru değerlendirme; kapıyı tek başına değil, sınırın işlevini, onaylı projeyi, fiili kullanım biçimini ve bakım kanıtlarını birlikte okumaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

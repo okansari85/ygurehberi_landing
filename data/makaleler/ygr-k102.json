@@ -1,0 +1,152 @@
+{
+  "kod": "YGR-K102",
+  "yol": "bina-sahibinin-ve-isletmecinin-sorumluluklari-nerede-ayrilir",
+  "baslik": "Bina sahibinin ve işletmecinin sorumlulukları nerede ayrılır?",
+  "ozet": "Bir yangın algılama sistemi çalışmıyorsa ilk soru “Bina kimin?” değil, “Sistem neden çalışmıyor?” olmalıdır. Sistem hiç kurulmamış olabilir; projeye aykırı yapılmış, sonradan devre dışı bırakılmış veya bakım eksikliği nedeniyle arızalanmış olabilir. Bu olasılıkların her biri farklı bir belge zincirine ve farklı sorumluluk değerlendirmesine götürür.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorumlulugu-belirleyen-yalniz-tapu-veya-kira-sozlesmesi-degildir",
+      "metin": "Sorumluluğu belirleyen, yalnız tapu veya kira sözleşmesi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapı sahibi ile işletmeci arasındaki ayrım bu nedenle tek cümlelik “yatırım malikin, bakım kiracının” kuralına indirgenemez. Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), sorumluluğu yapının tasarım, yapım, kullanım ve işletme aşamalarına göre ele alır; belirli sistemler için ayrıca bakım ve test sorumluluğunu düzenler."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-yonetmelik-neyi-ayiriyor",
+      "metin": "Yürürlükteki yönetmelik neyi ayırıyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY madde 6, yönetmelik hükümlerinin uygulanmasında yapı sahibini, işveren veya temsilcisini, tasarım ve uygulama taraflarını, işletme yetkililerini ve ilgili idareleri birlikte sayar. Bu sayım, her eksiklikten herkesin aynı nedenle sorumlu olduğu anlamına gelmez. İkinci fıkra, aktif yangın güvenlik sistemleri bakımından kusurun kaynağına göre daha somut bir ayrım yapar: eksik veya hatalı proje proje müellifine; eksik veya hatalı yapım müteahhit veya yapımcıya; sistemin uygun çalışmamasının işletmeden kaynaklanması işletmeci kuruluşa bağlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı hükümde, yangın güvenlik sistemlerinin yaptırılmasının gerekli olduğu yapı sahibine yazılı olarak bildirildiği halde sistem yaptırılmamış veya standartlara uygun yaptırılmamışsa yapı sahibinin sorumluluğu ayrıca belirtilir. Bu nedenle “malik haberdardı” iddiasıyla “malike yazılı bildirim yapılmış” olgusu aynı kanıt değildir. Bildirimin içeriği, muhatabı, tarihi ve teslimi incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "bakim-ve-testte-yazili-gorevlendirme-neden-onemlidir",
+      "metin": "Bakım ve testte yazılı görevlendirme neden önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY madde 84; acil aydınlatma, yönlendirme, yangın algılama ve uyarı sistemlerinin, bina sahibi ve yöneticinin veya bunların yazılı olarak sorumluluklarını devrettiği bina yetkilisinin sorumluluğu altında periyodik kontrol, test ve bakıma tabi tutulmasını öngörür. Madde 100 ise yangın söndürme sistemleri için bina sahibi, yöneticisi veya yazılı olarak görevlendirilmiş bina yetkilisi üzerinden aynı süreklilik ilkesini kurar."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki yazılı görevlendirme, işi kimin takip edeceğini ve bakım kayıtlarını kimin toplayacağını görünür kılar. Bununla birlikte yalnız bir hizmet sözleşmesinin bulunması, sistemin çalışır durumda tutulduğunu kanıtlamaz. Servis raporunun hangi cihazı kapsadığı, test sonucu, açık arıza, önerilen düzeltme ve düzeltmenin tamamlandığına ilişkin kayıt birlikte okunmalıdır. Sözleşmedeki gider paylaşımı da tek başına yönetmelikteki sorumluluk düzenini ortadan kaldırmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "kiralanan-isyerinde-hangi-belgeler-birbirine-baglanmali",
+      "metin": "Kiralanan işyerinde hangi belgeler birbirine bağlanmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kiracıya teslim edilmiş bir işyerinde ortak yangın pompası ile kiracının kullandığı alarm butonu aynı yönetim alanında olmayabilir. Önce sistemin bina ortak tesisatı mı, bağımsız bölümün kendi sistemi mi olduğu; sonra kimin fiilen müdahale ettiği ve hangi işin kime yazılı verildiği belirlenir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Sahada karşılaşılan durum",
+        "Ayrımı açıklayan inceleme ve kayıt"
+      ],
+      "satirlar": [
+        [
+          "Projede sistem var, sahada yok",
+          "Onaylı proje ve kabul belgeleri; eksik imalatın hangi aşamada oluştuğu; yapı sahibine yapılmış yazılı bildirim."
+        ],
+        [
+          "Sistem kurulu fakat arıza veriyor",
+          "Alarm/arıza geçmişi, bakım ve test raporları, servis teşhisi, arızanın ilk bildirildiği tarih ve düzeltme takibi."
+        ],
+        [
+          "Ortak kaçış yolu işletme tarafından kapatılmış",
+          "Onaylı kaçış planı, ortak alan yönetimi, fiili kullanım, engelin kimin faaliyetiyle oluştuğu ve giderilme kaydı."
+        ],
+        [
+          "Kiracı yeni faaliyet veya bölme düzeni oluşturmuş",
+          "Ruhsat ve kullanım amacı, tadilat ve proje revizyonları, yeni mahal düzeninin kaçış ve sistem kapsamına etkisi."
+        ],
+        [
+          "Bakım işi dış firmaya verilmiş",
+          "Sözleşme kapsamı, servis yetkinliği, bakım tutanakları, eksik iş listesi ve işin kapatıldığını gösteren kanıt."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "bir-ariza-kaydi-uzerinden-degerlendirme",
+      "metin": "Bir arıza kaydı üzerinden değerlendirme"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir örnekte, kiralanan mağazanın yangın alarm panelinde sürekli arıza göstergesi bulunduğunu düşünelim. Malik, bakımın kiracıya bırakıldığını; kiracı ise panelin teslimden beri arızalı olduğunu söylüyor. Yalnız bu beyanlardan hareketle sorumluluk sonucu kurulamaz. Teslim tutanağı, panelin devreye alma kaydı, geçmiş servis raporları, yazılı arıza bildirimleri ve güncel teknik teşhis birlikte incelenir. Arızanın nedeni belirlenmeden “bakım yaptırılmadı” veya “ilk yapım kusurlu” denilmesi, teknik bulguyu varsayıma dönüştürür."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bykhy-taslaginda-onerilen-ayrim",
+      "metin": "Yeni BYKHY taslağında önerilen ayrım"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından paylaşılan yeni BYKHY taslağının 6. maddesi, mevcut düzenlemedeki sorumluluk yaklaşımını genişleterek aktif sistemlerin yanında pasif yangın güvenlik tedbirlerini de açıkça ele alır. Taslak, proje ve yapım kaynaklı eksiklikleri ayrı bentlerde; işletmeden kaynaklanan uygunsuz çalışmayı ve yapı sahibine yazılı bildirime rağmen yapılmayan sistemi ayrı fıkrada düzenler. İlgili idare ve rapor düzenleyen taraflar hakkında da yeni ifadeler içerir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bunlar taslak hükümleridir; yürürlükteki yönetmeliğin yerine geçmez. Özellikle yeni sorumluluk başlıkları, yürürlüğe girmemiş metinden hareketle mevcut bir olay için kesin hukuki yetki veya kusur ataması olarak kullanılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği incelemede önce yapı ruhsatını, yapı kullanma iznini, onaylı mimari ve yangın tesisatı projelerini, varsa tadilat projelerini ve işyerinin gerçek faaliyetini eşleştirir. Ardından ortak alan ile bağımsız bölüm sınırlarını, sistemin hizmet verdiği mahalleri, yazılı görev dağılımını, bakım-test belgelerini ve arıza bildirimlerini inceler. Böylece “eksik tedbir”, “işletme kaynaklı aksama” ve “henüz nedeni belirlenmemiş uygunsuzluk” aynı rapor satırında birbirine karıştırılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gözleminde erişimi engellenen ekipman, panel arıza göstergesi, kapatılmış vana veya projeden farklı mahal düzeni gibi görülebilir durumlar tarihli fotoğraf ve konum bilgisiyle kaydedilir. Onaylı projeyle farkın ne olduğu ve hangi belgeyle doğrulanabildiği yazılır. Ölçüm, sistem performans testi, teknik tasarım değişikliği ve resmi proje onayı gerektiren hususlar yetkili kişi ve kuruluşların alanıdır; YGU bu işlemleri yaptığı izlenimini veren bir uygunluk hükmü kurmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporun sorumluluk bölümünde kesin kusur hükmü yerine kanıt temelli bir sonuç kullanılabilir: “İncelenen bakım kayıtlarında belirtilen arızanın giderildiğini gösteren belgeye ulaşılamamıştır. Arızanın işletme, tasarım veya yapım kaynaklı olup olmadığı yetkili teknik inceleme ile belirlenmelidir. İlgili taraflara yapılan bildirimler ve düzeltme süreci ayrıca belgelendirilmelidir.” Bu örnek ifade, gerçek bir olaya ait tespit değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc-once-teknik-neden-sonra-gorev-ve-sorumluluk",
+      "metin": "Sonuç: Önce teknik neden, sonra görev ve sorumluluk"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapı sahibi, işletmeci, yönetici ve teknik hizmet sağlayıcı arasındaki sınır; sistemin ne zaman ve hangi projeye göre kurulduğu, bugün nasıl kullanıldığı, hangi bakımın yapıldığı ve eksikliğin kime ne zaman bildirildiği üzerinden belirginleşir. Yangın güvenliği incelemesinin değeri, bir kişiye peşinen sorumluluk yüklemekten çok, eksikliğin teknik niteliğini ve giderilmesi için gerekli kanıtı açıkça göstermesidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

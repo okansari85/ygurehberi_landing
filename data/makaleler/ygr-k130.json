@@ -1,0 +1,123 @@
+{
+  "kod": "YGR-K130",
+  "yol": "kacis-yolundaki-gecici-depolama-neden-projede-gorunmez",
+  "baslik": "Kaçış yolundaki geçici depolama neden projede görünmez?",
+  "ozet": "Onaylı mimari proje, koridorun ve çıkışların tasarlanmış geometrisini gösterir. Buna karşılık koridorun gün içinde sevkiyat kutuları, temizlik arabaları, iade ürünler veya paletlerle kullanılması çoğu zaman proje üzerinde yer almaz. Çünkü bu unsurlar kalıcı yapı elemanı değil, işletme faaliyetinin değişken parçalarıdır. Ancak geçici olmaları, kaçış yoluna etkilerini ortadan kaldırmaz.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "projenin-gosterdigi-ile-isletmenin-olusturdugu-durum-farklidir",
+      "metin": "Projenin gösterdiği ile işletmenin oluşturduğu durum farklıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir güzergahın planda açık görünmesi, işletme sırasında da kesintisiz kullanılabildiğini kanıtlamaz. Yangın anında tahliye için gerekli geçişin varlığı, yalnız çizimde değil, gerçek kullanım koşullarında değerlendirilmelidir. Bu nedenle proje uygunluğu ile günlük işletme uygunluğu birbirini tamamlayan fakat aynı olmayan iki incelemedir."
+    },
+    {
+      "tip": "h2",
+      "id": "gecici-depolama-neden-onemlidir",
+      "metin": "Geçici depolama neden önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış güzergahı, kapıdan başlayan ve güvenli çıkışa kadar devam eden bir bütündür. Koridorun bir bölümüne konulan malzeme geçişi daraltabilir; kapı kanadının açılmasını sınırlayabilir, yönlendirme işaretinin görülmesini zorlaştırabilir veya özellikle yoğun tahliye sırasında karşılıklı insan akışını sıkıştırabilir. Hareketli ekipmanın tekerlekli olması, yangın anında mutlaka uzaklaştırılabileceği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Depolanan malzemenin yanıcılığı ayrıca ele alınır. Karton kutu ve plastik ambalaj gibi ürünler, geçiş engeline ek olarak yangın yükü oluşturabilir. Bununla birlikte yalnız malzemenin yanıcı olup olmadığına bakılarak karar verilmez: yanmaz bir metal araba da kaçış açıklığını kapatabilir. İncelemenin temel sorusu, tahliye güzergahının işletme boyunca kullanılabilir kalıp kalmadığıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-karsilastirmasinda-hangi-kayitlar-gerekir",
+      "metin": "Proje–saha karşılaştırmasında hangi kayıtlar gerekir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Belge / proje verisi",
+        "Sahada aranacak durum"
+      ],
+      "satirlar": [
+        [
+          "Koridor sürekliliği",
+          "Onaylı kat planı ve kaçış güzergahı",
+          "Koridor boyunca geçişin malzeme ile kesilip kesilmediği"
+        ],
+        [
+          "Kapı önü ve açılışı",
+          "Kapı konumu, açılış yönü ve çıkış bağlantısı",
+          "Kapı kanadının tam açılmasına engel bulunan noktalar"
+        ],
+        [
+          "Geçiş genişliği",
+          "Projede öngörülen net geçiş alanı",
+          "İstif, dolap veya araç nedeniyle fiilen daralan kesimler"
+        ],
+        [
+          "İşletme akışı",
+          "Sevkiyat, temizlik ve stok yerleşim düzeni",
+          "Engelin hangi saatlerde ve hangi işlem sırasında oluştuğu"
+        ],
+        [
+          "Kayıt ve takip",
+          "Önceki tespitler ve düzeltici faaliyet kayıtları",
+          "Tekrarlayan engellerin sorumlusu ve kalıcı önlem durumu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "tek-seferlik-fotograf-neden-yeterli-olmayabilir",
+      "metin": "Tek seferlik fotoğraf neden yeterli olmayabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Saha kontrolü sırasında koridor boş olabilir; aynı koridor sevkiyat saatinde geçici stok alanına dönüşebilir. Bu yüzden incelemede yalnız mevcut görüntü değil, işletmenin malzeme hareketi de sorgulanır. Teslimat ve üretim akışı, geçici bekletme noktaları, vardiya düzeni ve temizlik ekipmanlarının park yerleri birlikte değerlendirilir. Gerektiğinde farklı çalışma saatlerinde gözlem yapılması önerilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Fotoğraf ve konum işaretlemesi, tespitin hangi noktaya ait olduğunu göstermelidir. Tarih, saat, kat, mahal, gözlenen engelin niteliği ve kaçışla ilişkisi yazılmadığında kayıt kolayca tartışmalı hale gelir. “Koridorda malzeme var” ifadesi yerine “zemin kat doğu koridorunda çıkış kapısına yaklaşım alanında ambalaj kutuları bulunuyor; kapıya erişim güzergahı daralıyor” gibi gözlenebilir, sınırları belli bir açıklama tercih edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı mimari ve yangın güvenliği projelerindeki kaçış güzergahını, kullanım amacını ve ilgili izin belgelerini belirleyerek başlar. Daha sonra fiili mahal kullanımını, sevkiyat ve depolama düzenini, kullanıcı yoğunluğunu ve varsa önceki denetim kayıtlarını inceler. Projede kaçış yolu olarak ayrılan alanın sahada hangi saatlerde başka amaçla kullanıldığını karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada gözlenen engeli kat planı üzerinde işaretler; fotoğraf, gözlem zamanı ve işletme açıklamasıyla kayıt altına alır. Sorunun yalnız o anki dağınıklıktan mı yoksa depolama alanı yetersizliği veya yanlış lojistik akışından mı kaynaklandığını ayırmaya çalışır. Raporunda somut engeli, etkilediği kaçış kesimini, incelenen belgeleri ve giderilmesi gereken işletme koşulunu gerekçeli biçimde belirtir. Giderim sonrası kontrol, yalnız malzemenin bir kez kaldırıldığını değil, güzergahın açık tutulmasını sağlayan düzenin işlediğini de değerlendirmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU gözlemsel uygunluk değerlendirmesini yetki sınırında yürütür. Kaçış kapasitesinin yeniden hesaplanması, mimari değişiklik projesi hazırlanması, ölçüm veya deney gerektiren teknik doğrulama ve resmi proje onayı ilgili yetkili meslek mensupları ile idarelerin sorumluluğundadır. Bir geçişin fotoğrafta açık görünmesi, hesap veya onay gerektiren konularda kendiliğinden uygunluk kararı oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış yolundaki geçici depolama projede görünmeyebilir; çünkü çizim binanın tasarımını, saha incelemesi ise işletmenin gerçek davranışını gösterir. Güvenli kaçış için ikisinin de aynı güzergahı tarif etmesi gerekir. Etkili kontrol, engeli kaldırmakla sınırlı kalmaz; tekrar oluşmasını önleyecek işletme düzenini de izler."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,135 @@
+{
+  "kod": "YGR-K147",
+  "yol": "transformator-mahali-kullanim-disi-stokla-neden-catisir",
+  "baslik": "Transformatör Mahali Kullanım Dışı Stokla Neden Çatışır?",
+  "ozet": "Transformatör odası, boş kalan bir depo alanı değil; elektrik enerjisinin dönüştürüldüğü, belirli yangın güvenliği ve işletme koşullarıyla ayrılmış teknik bir mahaldir. Kullanım dışı kablo makaraları, karton kutular, paletler veya eski ekipmanlar bu odaya taşındığında yalnızca düzen sorunu ortaya çıkmaz. Mahalin yangın yükü, ekipmana erişim, havalandırma ve olay anındaki müdahale koşulları değişebilir. Bu değişikliklerin etkisi, malzemenin türü, miktarı ve konumu ile transformatörün teknik özellikleri birlikte incelenerek değerlendirilir.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "teknik-mahal-ile-depo-arasindaki-temel-fark",
+      "metin": "Teknik mahal ile depo arasındaki temel fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir transformatör mahali, proje üzerinde elektrik ekipmanının yerleşimi, işletme ve bakım erişimi, gerekli havalandırma açıklıkları, yangın ayırıcı yapı elemanları ve varsa algılama veya söndürme sistemiyle tanımlanır. Depolama ise farklı bir kullanım amacıdır. Teknik odada geçici olarak bırakılan malzemenin “artık kullanılmıyor” olması, onun yangın yükünü veya fiziksel engel oluşturma ihtimalini ortadan kaldırmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle ambalaj, plastik yalıtımlı kablo, ahşap palet ve benzeri yanıcı malzemeler tutuşma halinde yangının gelişimine katkıda bulunabilir. Metal parça ve yanmaz ekipmanlar dahi pano kapaklarını, geçiş yollarını, kapıları veya havalandırma açıklıklarını kapatıyorsa işletme güvenliğini etkileyebilir. Bu nedenle yalnızca stokun yanıcı olup olmadığına bakmak yeterli değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-yonetmelik-neyi-duzenler",
+      "metin": "Yürürlükteki yönetmelik neyi düzenler?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, transformatör odasının duvar, taban ve tavanı için en az 120 dakika yangına dayanım şartı öngörür. Yağlı transformatör kullanıldığında yağ toplama çukuru, duman ve sıcaklığın kaçış yollarını etkilememesi ve uygun otomatik yangın algılama ile söndürme sistemi gibi ilave hükümler bulunur. Ana elektrik odaları ve transformatör merkezlerinden belirli su, yanıcı ve patlayıcı akışkan tesisatlarının geçirilmesine ilişkin sınırlamalar da düzenlenmiştir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hükümler, transformatör odasının işlevinin neden özel olduğunu açıklar. Bununla birlikte “odada görülen her nesne aynı maddeyle açıkça yasaklanmıştır” gibi bir sonuç çıkarılamaz. Stokun uygunluğu, yürürlükteki hükümlerin yanında onaylı proje, işletme talimatları, ekipman üreticisinin erişim ve bakım gerekleri ile sahadaki somut riskler üzerinden gerekçelendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "stokun-olusturabilecegi-dort-somut-sorun",
+      "metin": "Stokun oluşturabileceği dört somut sorun"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk sorun, ilave yangın yüküdür. Karton, plastik, ahşap ve benzeri malzemeler yangının büyümesine katkı sağlayabilir; stokun miktarı ve transformatöre uzaklığı bu değerlendirmede önemlidir. İkinci sorun, bakım erişimidir. Pano, hücre, kapı veya kontrol noktalarının önünün kapatılması güvenli müdahaleyi zorlaştırabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü sorun, havalandırma ve ısıl koşullardır. Malzemelerin hava giriş ve çıkış açıklıklarını kapatması, mahale özgü ısı uzaklaştırma düzenini bozabilir. Dördüncü sorun, yangın güvenliği sistemleri ve kaçış bağlantısıdır. Algılama veya söndürme elemanlarının önünün kapatılması, kapının açılamaması veya geçiş alanının daralması halinde proje ile fiili kullanım arasında fark oluşur. Bu sorunların varlığı sahada kanıtlanmalı; yalnızca varsayıma dayanılarak sistemin çalışmadığı ilan edilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-saha-neden-birlikte-okunmali",
+      "metin": "Proje ile saha neden birlikte okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Proje üzerinde “trafo odası” yazması tek başına mevcut kullanımın uygun olduğunu göstermez. Onaylı elektrik projesinde transformatörün türü ve yerleşimi, mimari planda mahale erişim ve ayırıcı sınırlar, yangın tesisatı projelerinde varsa algılama ve söndürme düzeni görülmelidir. Sonraki tadilatlar ve fiili işletme koşulları bu belgelerle karşılaştırılır. Eski bir proje ile sonradan değiştirilmiş bir mahalin aynı kabul edilmesi, hatalı sonuca yol açabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir odanın duvarları ve kapısı projedeki konumunu korurken, kapı arkasına yığılan ambalajlar erişimi kısıtlayabilir. Buna karşılık odada bulunan her yedek parça otomatik olarak yangın güvenliği ihlali sayılmaz. Hangi malzemenin nerede, ne kadar süreyle ve hangi işletme ihtiyacıyla tutulduğu kayıt altına alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) önce yapı ruhsatı ve ilgili izinleri, güncel onaylı mimari ve elektrik projelerini, varsa yangın algılama ve söndürme projelerini, işletme talimatlarını ve mevcut kontrol raporlarını inceler. İncelemenin amacı, teknik mahale hangi ekipmanın ve hangi koruma düzeninin öngörüldüğünü belirlemektir. Ardından sahada transformatörün tipi, odanın fiili kullanımı, depolanan malzemenin niteliği, erişim güzergahı, kapıların durumu, havalandırma açıklıkları ve koruma sistemlerinin görünür durumu gözlemlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, bulguyu “trafo odasında malzeme var” ifadesiyle bırakmamalıdır. Malzemenin yeri ve yaklaşık kapsamı, kapattığı erişim noktası veya açıklık, ilgili proje bilgisi ve fotoğraf kaydı birlikte gösterilmelidir. Uygunsuzluğun teknik gerekçesi ile giderilmesi istenen somut durum açıkça yazılır. Acil tehlike görülürse işletmenin yetkili sorumlularına gecikmeden bildirilir; alınan tedbir ve takip durumu kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu inceleme, elektriksel ölçüm yapıldığı, transformatörün performansının doğrulandığı veya elektrik projesinin yeniden onaylandığı anlamına gelmez. Elektriksel test, tasarım değişikliği, sistem ayarı ve yetkili onay işlemleri kendi yetki ve uzmanlık sınırları içinde yürütülür. YGU, gerekli teknik doğrulama belgelerini ister, bunların ilgili mahal ve ekipmanla eşleşmesini kontrol eder ve eksik kanıtı raporunda belirtir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-kayit-duzeni",
+      "metin": "Örnek saha kayıt düzeni"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Karşılaştırılacak kanıt",
+        "Sahada kaydedilecek bulgu"
+      ],
+      "satirlar": [
+        [
+          "Mahalin kullanımı",
+          "Onaylı plan ve işletme tanımı",
+          "Stok türü, konumu, fotoğraf"
+        ],
+        [
+          "Erişim",
+          "Ekipman yerleşim projesi ve talimat",
+          "Kapı, pano ve bakım alanı engelleri"
+        ],
+        [
+          "Havalandırma",
+          "Proje ve ekipman gereklilikleri",
+          "Açıklıkların fiili durumu"
+        ],
+        [
+          "Yangın koruması",
+          "İlgili proje ve kontrol raporu",
+          "Görünür ekipman, erişim, belge eşleşmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Transformatör odasında kullanım dışı stok tutulması, teknik mahali depolama alanına dönüştürme eğiliminin somut bir göstergesidir. Asıl soru yalnızca stokun varlığı değil, bu stokun onaylı kullanım, yangın ayırımı, erişim, havalandırma ve koruma düzeniyle hangi noktada çatıştığıdır. Sağlam bir YGU değerlendirmesi, gözlem ile belgeyi eşleştirir; belirsizliği açıkça belirtir ve çözümün doğrulanmasını takip eder."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

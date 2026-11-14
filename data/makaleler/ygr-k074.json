@@ -1,0 +1,165 @@
+{
+  "kod": "YGR-K074",
+  "yol": "lpg-ikmal-istasyonunda-ortak-yapi-sinirlari-nasil-okunur",
+  "baslik": "LPG ikmal istasyonunda ortak yapı sınırları nasıl okunur?",
+  "ozet": "Akaryakıt istasyonuna LPG ikmal ünitesi eklenmesi veya mevcut marketin büyütülmesi, yalnız yeni ekipmanın kendi ölçülerini ilgilendirmez. Dispenser, yeraltı tankı, ticari bina, parsel sınırı ve araç hareketleri aynı vaziyet planında yeniden okunmalıdır. Ayrı ayrı uygun görünen projeler, birlikte işletilen sahanın bütün ilişkilerini göstermeyebilir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ortak-saha-tek-bir-emniyet-mesafesi-degildir",
+      "metin": "Ortak saha, tek bir emniyet mesafesi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG ikmal alanında yeraltı tankı, dispenser, dolum bağlantıları, araç yolu ve istasyonun diğer yapıları farklı teknik işlevler taşır. “LPG alanı” adıyla çizilen tek bir sınır, hangi uzaklığın hangi ekipmandan ve hangi karşı unsura kadar inceleneceğini göstermez. Bu nedenle önce tesisin onaylı vaziyet planındaki bütün bileşenler belirlenir; sonra akaryakıt ve LPG projelerinin birbirine bağlandığı noktalar işaretlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, LPG ikmal istasyonlarını 110. maddede; depolama ve ikmal güvenlik tedbirlerini 111. maddede düzenler. Mevcut metnin 110. maddesi emniyet uzaklıkları için Ek-13’e atıf yaparken Ek-13, akaryakıt servis istasyonları başlığını taşır. Bu atıf, LPG için tablodan rastgele bir satır seçilerek yorumlanmamalıdır. Uygulanacak ölçü, tesisin izin dosyası, ilgili özel mevzuat ve standartlar ile gerektiğinde yetkili idarenin değerlendirmesi birlikte ele alınarak doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-degisiklik-istasyona-lpg-unitesi-eklenmesi",
+      "metin": "Temsili değişiklik: istasyona LPG ünitesi eklenmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Akaryakıt pompaları ve marketi bulunan bir istasyona LPG dispenseri eklendiğini düşünelim. Yalnız LPG tesisat projesine bakılırsa dispenserin çevresindeki araç yolu, market girişindeki yaya akışı veya akaryakıt tankerinin manevra alanı görünmeyebilir. Market cephesine sonradan kapı açılması ya da girişin taşınması da aynı nedenle güncel vaziyet planında gösterilmelidir. Bu örnek gerçek bir olay değil, kontrol sırasını açıklayan temsili bir durumdur."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 74. Eski taslaktan değişmeden korunan temsili yerleşim çizimi. Ölçekli proje veya mesafe doğrulaması değildir.",
+      "src": "/img/makale/ygr-k074-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Bilinen durum",
+        "Karar için tamamlanacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "İstasyon vaziyet planı",
+          "Market ve akaryakıt pompası mevcut; LPG ünitesi yeni.",
+          "Tüm tesis bileşenlerini, bina sınırlarını, yolları ve parseli birlikte gösteren onaylı revizyon."
+        ],
+        [
+          "Market ve ortak dolaşım",
+          "Yeni giriş, cephe veya yaya yolu olasılığı.",
+          "Gerçek kullanım, kapı ve açıklıklar ile araç-yaya güzergahının güncel gösterimi."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-hangi-teknik-ayrintilar-ayristirilir",
+      "metin": "Sahada hangi teknik ayrıntılar ayrıştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Dispenserin trafik yoluna bakan tarafındaki korugan, yeraltı tankının çevre düzeni, kanal ve rögar ağızları, gaz algılama ve alarm sistemi, elektrik kesme düzeni ile yangın suyu erişimi aynı incelemenin farklı parçalarıdır. Yürürlükteki 110. maddede dispenser ile trafik yolu arasında giriş-çıkış hariç en az 50 cm yüksekliğinde sabit korugan, dispenser ve tank sahasında yerden en fazla 20 cm yüksekte gaz algılayıcıları ve alarm sistemi gibi somut şartlar yer alır. Bu değerler tek başına bütün yerleşimin uygun olduğu sonucunu doğurmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin tankın çevresindeki tel çitin bulunması, yeni market cephesinin konumunu veya dispenser çevresinde oluşan çukurluğu uygun hale getirmez. Gaz algılama panelinin mevcut olması da algılama, alarm ve gerekli elektrik kesme işlevlerinin teknik kayıtlarla doğrulandığı anlamına gelmez. Gözlemsel tespit, işlev test raporu ve onaylı proje farklı kanıt türleridir; biri diğerinin yerine yazılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "belgeden-sahaya-karsilastirma",
+      "metin": "Belgeden sahaya karşılaştırma"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Özellikle aranacak bilgi",
+        "Kontroldeki işlevi"
+      ],
+      "satirlar": [
+        [
+          "Onaylı ve revize vaziyet planları",
+          "Dispenser, tank, market, yollar, parsel ve komşu kullanım sınırları",
+          "Tadilat öncesi-sonrası konum ve kullanım değişikliğini görmek."
+        ],
+        [
+          "LPG ve akaryakıt teknik projeleri",
+          "Ekipman yerleşimi, hatlar, algılama, alarm, koruma düzeni",
+          "Ayrı sistemlerin ortak sahadaki ilişkisini kurmak."
+        ],
+        [
+          "İzin ve işletme belgeleri",
+          "Faaliyet türü, kapasite, tadilat onayları, güncel kullanım",
+          "Planlanan ve fiilen yürütülen faaliyetin dayanağını doğrulamak."
+        ],
+        [
+          "Test, bakım ve teknik raporlar",
+          "Gaz algılama, acil kesme, topraklama ve yangın sistemi kayıtları",
+          "Görünür varlık ile belgelenmiş işlevi ayırmak."
+        ],
+        [
+          "Yerinde gözlem ve fotoğraflar",
+          "Araç-yaya akışı, korugan, engel, rögar, erişim, yeni cephe",
+          "Projede görünmeyen değişikliği gerekçeli kayda almak."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı vaziyet planı, LPG ve akaryakıt tesisat projeleri, yapı ve işletme izinleri ile varsa tadilat onaylarını bir araya getirerek başlar. İstasyonun fiili kullanımını, marketin güncel sınırlarını, LPG dolum noktasını, yeraltı tankının yerini ve araç-yaya hareketlerini sahada belirler. Projede yer almayan yeni giriş, ek yapı veya dispenser çevresindeki fiziksel değişiklikleri fotoğraf, kroki ve belge referansıyla kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrol sonucunda “LPG bölümü uygundur” gibi tek cümlelik bir hüküm yerine, hangi bileşenin hangi belgeyle karşılaştırıldığı, hangi mesafenin veya teknik işlevin doğrulanamadığı ve hangi uzman incelemesinin gerektiği açıkça yazılır. Ölçülü plan bulunmuyorsa tahmini mesafe kesin değer gibi kullanılmaz. Uygunluk için gerekli yetkili ölçüm, patlayıcı ortam değerlendirmesi, tesisat tasarımı, sistem testi veya proje revizyonu ilgili uzman ve kuruluşlardan istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU’nun belge incelemesi ve gözlemsel raporlaması; LPG tesisatının mühendislik hesabı, resmi proje onayı, akredite veya yetkili test ve ölçüm işlemleri yerine geçmez. Ayrıca YGU görev ve yetkilerini düzenleyen ayrı yönetmelik metni taslak niteliğindeyken, taslakta tanımlanan görevlerden kendiliğinden yürürlükte bir kamusal onay yetkisi çıkarılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-nasil-degerlendirilir",
+      "metin": "Taslak düzenleme nasıl değerlendirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında LPG ikmal istasyonları 112. maddede, ilgili güvenlik tedbirleri 113. maddede yer alır. Taslakta LPG tankı ve dispenseri için ayrı bir emniyet uzaklığı tablosu öngörülmektedir. Bu, mevcut düzenlemenin otomatik olarak değiştiği anlamına gelmez. Taslaktaki tablo ve ölçüm notları yürürlükteki hüküm gibi uygulanmadan, yalnız olası mevzuat değişikliğinin teknik etkisini izlemek için değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "LPG ikmal istasyonunda ortak yapı sınırları, yalnız tankın veya dispenserin etrafına çizilen bir çizgi değildir. Market, akaryakıt alanı, parsel, yollar ve teknik sistemler tek bir güncel yerleşim üzerinde okunmalı; her emniyet koşulu kendi ölçüm referansı ve dayanak belgesiyle incelenmelidir. Eksik plan, belirsiz mesafe veya doğrulanmamış işlev, uygunluk varsayımıyla kapatılmak yerine gerekçeli rapora dönüştürülmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

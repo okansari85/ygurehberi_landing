@@ -1,0 +1,111 @@
+{
+  "kod": "YGR-K128",
+  "yol": "kullanici-sayisi-arttiginda-hangi-projeler-yeniden-kontrol-edilir",
+  "baslik": "Kullanıcı sayısı arttığında hangi projeler yeniden kontrol edilir?",
+  "ozet": "Bir atölyenin vardiya düzeni değiştiğinde veya aynı anda çalışan kişi sayısı yükseldiğinde binanın duvarları ve kapıları aynı kalabilir. Ancak kaçış düzeninin yeterliliği, yalnız fiziksel yerleşime değil, o yerleşimi kullanacak kişi yüküne de bağlıdır. Bu nedenle ilk soru toplam personel sayısının artıp artmadığı değil, belirli bir anda hangi kat ve mahallerde kaç kişinin bulunacağıdır.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisen-kisi-sayisi-neden-bir-proje-sorusudur",
+      "metin": "Değişen kişi sayısı neden bir proje sorusudur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin iki vardiyadan üç vardiyaya geçilmesi, vardiyalar birbirinden tamamen ayrılıyorsa eş zamanlı kullanıcı yükünü artırmayabilir. Buna karşılık vardiya devir teslimindeki çakışma, taşeron ekipler, ziyaretçiler veya yeni üretim hattındaki yoğunlaşma belirli saatlerde yükü artırabilir. Bu ayrım, belgeyle ve gerçek işletme düzeniyle doğrulanmalıdır; yalnız bordro toplamından kaçış kapasitesi kararı çıkarılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-projeler-ve-belgeler-yeniden-karsilastirilir",
+      "metin": "Hangi projeler ve belgeler yeniden karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk inceleme, onaylı mimari proje ve varsa yangın tahliye/kaçış planındaki kullanım türü, mahal sınırları, kullanıcı yükü kabulü ve çıkış düzenidir. Kullanıcı yükündeki değişim; çıkış sayısını, kapıların kullanılabilir genişliğini, koridorların ortak kullanımını, merdivenlerin kapasitesini ve kaçış güzergahının sürekliliğini etkileyebilir. Etki tek bir kapıda bitmez: artan kişi akışının geçtiği ortak koridor, kat çıkışı, merdiven ve son çıkış birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci inceleme, yangın güvenliği projeleriyle ilişkili işletme kayıtlarıdır. Acil durum planı, tahliye krokileri, yönlendirme düzeni ve organizasyon kayıtları güncel kullanıcı dağılımını yansıtmalıdır. Algılama, acil aydınlatma veya sesli uyarı projelerinin her kişi artışında zorunlu olarak yeniden tasarlanacağı söylenemez; fakat mahal kullanımı, bölümlendirme veya güzergah değişmişse ilgili disiplinin proje etkisi ayrıca değerlendirilmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Karşılaştırılacak kayıt",
+        "Sahada aranacak karşılık"
+      ],
+      "satirlar": [
+        [
+          "Kullanıcı yükü",
+          "Onaylı kullanım ve kapasite kabulü; vardiya/ziyaretçi kayıtları",
+          "Eş zamanlı kişi dağılımı ve yoğun saatler"
+        ],
+        [
+          "Mimari kaçış",
+          "Onaylı kat planı, kapı ve merdiven yerleşimi",
+          "Fiili güzergah, kapı kullanımı, daralmalar"
+        ],
+        [
+          "Ortak kaçış bölümleri",
+          "Katlar arası ve ortak koridor çıkış hesabı",
+          "Farklı mahallerin aynı kesitte birleşmesi"
+        ],
+        [
+          "Tahliye organizasyonu",
+          "Acil durum planı, tahliye krokisi, görev kayıtları",
+          "Güncel çalışma alanları ve yönlendirme"
+        ],
+        [
+          "İlgili sistem projeleri",
+          "Mevcut yangın güvenliği proje ve raporları",
+          "Faaliyet veya yerleşim değişikliğinin sistem kapsamına etkisi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "kacis-kapasitesinde-hangi-mantik-izlenir",
+      "metin": "Kaçış kapasitesinde hangi mantık izlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kaçış yolu değerlendirmesinde kullanım sınıfını, kullanıcı yükünü, çıkışa erişimi ve kapasiteyi birlikte ele alır. Kullanıcı yükü hesabında ilgili kullanım alanları ve yönetmelik eklerindeki katsayılar; çıkış genişliğinde ise kullanım sınıfına bağlı kapasite esasları dikkate alınır. Bu nedenle eski projedeki kişi sayısının yeni fiili yükle karşılaştırılması, yeniden hesap ihtiyacı bulunup bulunmadığının belirlenmesi için başlangıç verisidir. Burada yeni bir kapasite hesabı yapılmış veya mevcut yapının uygunluğu onaylanmış değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kişi sayısındaki artışın kendisi otomatik olarak her projeyi geçersiz kılmaz. Ancak artışın onaylı kabulleri aştığı veya mahal kullanımı ve güzergahı değiştirdiği görülürse, ilgili proje müellifi ve yetkili teknik disiplinlerce hesap ve revizyon ihtiyacının değerlendirilmesi gerekir. Taslak düzenlemelerdeki öneriler, yürürlükteki yükümlülüklerin yerine geçirilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı projeleri, ruhsat ve kullanım belgeleri ile güncel faaliyet ve vardiya bilgilerini birlikte isteyerek başlar. Üretim mahallerindeki kişi yoğunluğu, ortak koridorların hangi bölümlere hizmet ettiği, kapıların fiili açılma ve kullanım durumu ile merdiven bağlantıları yerinde gözlenir. Projedeki mahal adı ile sahadaki faaliyetin farklı olması veya vardiya çakışmalarının belgelerde yer almaması ayrı bulgu olarak kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Rapor, “personel arttı, kapı yetersiz” gibi dayanağı belirsiz bir sonuç yerine, hangi mahalde hangi verinin değiştiğini, hangi onaylı kabul ile uyuşmadığını ve hangi teknik hesap veya proje revizyonunun yetkili uzmanlık tarafından incelenmesi gerektiğini gösterir. YGU, gözlemsel tespit ve belge karşılaştırmasını yapar; mimari kaçış kapasitesini tasarlayan, uzmanlık gerektiren ölçüm ve hesapları onaylayan veya idari izin veren makamın yerine geçmez. Eksik proje ya da kullanıcı verisi varsa kesin uygunluk kararı yerine doğrulama ihtiyacı açıkça belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı sayısındaki değişimin yangın güvenliğine etkisi, kişi toplamından değil eş zamanlı yükün mekanlara ve kaçış zincirine dağılımından anlaşılır. Sağlıklı inceleme, onaylı kabulü güncel işletme verisiyle karşılaştırır; yalnız etkilenen projeler için gerekçeli teknik değerlendirme ister."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    }
+  ],
+  "sonNotlar": []
+}

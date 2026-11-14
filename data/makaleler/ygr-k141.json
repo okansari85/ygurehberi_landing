@@ -1,0 +1,116 @@
+{
+  "kod": "YGR-K141",
+  "yol": "soba-bacasi-yenilendiginde-nelere-bakilir",
+  "baslik": "Soba bacası yenilendiğinde nelere bakılır?",
+  "ozet": "Bir bacanın yenilenmesi yalnız eski borunun yenisiyle değiştirilmesi değildir. Baca güzergahı, bağlantı yapılan yakıcı cihaz, yapı elemanlarından geçişler, çatı çıkışı ve temizleme erişimi birlikte değişebilir. Yangın güvenliği açısından asıl soru, yeni uygulamanın onaylı projede öngörülen çözümü koruyup korumadığı ve sahada hangi yeni riskleri oluşturduğudur.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yenilemenin-kapsami-neden-belirleyicidir",
+      "metin": "Yenilemenin kapsamı neden belirleyicidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce müdahalenin sınırı belirlenir: yalnız hasarlı bir bağlantı borusu mu değiştirilmiştir, baca kesiti veya malzemesi mi yenilenmiştir, yoksa cihazın yeri ve yakıt türü de mi değişmiştir? Örneğin bir kafede sonradan kurulan katı yakıtlı ocak, mevcut havalandırma kanalına bağlanmışsa sorun sadece baca malzemesi değildir; bağımsız duman atımı, yapı geçişleri ve işletme koşulları yeniden incelenmelidir. Bu örnek gerçek bir olaya değil, kontrol yöntemini açıklayan varsayımsal bir duruma ilişkindir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ve-taslak-ayrimi",
+      "metin": "Yürürlükteki hüküm ve taslak ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 58, baca tesisatının ilgili Türk standartlarına uygun olmasını, soba, şömine ve şofben bağlantılarının ayrı bacalara bağlanmasını ve ortak baca kullanılmamasını düzenler. Aynı maddede baca çekişini etkileyen komşu bina ve mahya ilişkisi, baca temizliği, sobanın yanıcı yüzeylerle ilişkisi ve boru bağlantılarının güvenliği de ele alınır. Madde 58’de bacaların yılda en az iki defa yetkili kişilere temizlettirilmesi hükmü bulunur; temizlik sorumluluğu bina sahibi ve yöneticisine bağlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen 99 sayfalık BYKHY değişiklik TASLAĞININ Madde 58 metninde bu başlık ve temel hükümler korunmaktadır. Bu karşılaştırma yalnız eldeki taslak sürümü içindir; taslağın yürürlüğe girdiği anlamına gelmez. Uygulamanın yapıldığı tarih, yapı statüsü ve ilgili diğer hükümler ayrıca değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-kontrolun-teknik-sirasi",
+      "metin": "Sahada kontrolün teknik sırası"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol alanı",
+        "Aranacak somut kanıt"
+      ],
+      "satirlar": [
+        [
+          "Cihaz ve yakıt",
+          "Soba, şömine, ocak veya başka cihazın tipi; yakıt türü; cihaz sayısı; yenileme öncesi ve sonrası bağlantı şeması."
+        ],
+        [
+          "Bağımsız baca bağlantısı",
+          "Baca hangi cihaza hizmet ediyor? Başka cihaz veya normal havalandırma kanalıyla birleşme var mı? Bağlantı çizimde ve sahada aynı mı?"
+        ],
+        [
+          "Güzergah ve geçişler",
+          "Baca hangi duvar, döşeme, şaft ve çatı elemanlarından geçiyor? Geçişlerde yangın ayırımı, yanıcı malzemeye yakınlık ve uygulama detayı nasıl?"
+        ],
+        [
+          "Çatı çıkışı ve çevre",
+          "Baca ağzının mahyaya ve komşu yapı kütlelerine göre konumu, çekişi etkileyebilecek yeni engeller ve bakım erişimi."
+        ],
+        [
+          "Bağlantı ve taşıma",
+          "Boru eklerinin sabitliği, ayrılma/devrilme olasılığı, taşıyıcı elemanlar ve yüzeylerin gözlenebilir durumu."
+        ],
+        [
+          "İşletme ve bakım",
+          "Baca temizleme kayıtları, cihaz bakım belgeleri, işletme talimatları ve yenileme sonrası devreye alma/test kanıtları."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının geçerli ruhsat ve kullanım bilgilerini, onaylı mimari ve tesisat projelerini, varsa tadilat belgelerini ve önceki baca çözümünü inceler. Ardından gerçek faaliyetle projedeki cihaz ve baca tanımlarını eşleştirir. Sadece baca ağzının fotoğrafını çekmek yerine bağlantının başlangıcından çatı çıkışına kadar izlenebilir bir güzergah kaydı oluşturur; görünmeyen bölümleri “kontrol edildi” diye işaretlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada tespit edilen değişiklikler için plan üzerinde yer, fotoğraf numarası, cihaz kimliği, kullanılan malzemenin belgesi ve mevcut bakım/test kayıtları bir araya getirilir. Baca çekişinin yeterliliği, sızdırmazlık veya malzeme performansı yalnız gözlemle doğrulanamaz. Bu hususlarda mevcut yetkili test ve uygulama belgelerinin varlığı, kapsamı ve sonuçları incelenir; belgesi bulunmayan performans için uygunluk hükmü kurulmaz. Bu yaklaşım YGU’ya ayrıca bir tasarım, ölçüm veya onay yetkisi tanımlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-kayit-nasil-yazilir",
+      "metin": "Gerekçeli kayıt nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt: “Zemin kat K-02 mahallinde katı yakıtlı cihazın baca bağlantısının yenilendiği görülmüştür. Onaylı projede bu cihaz ve yeni baca güzergahı gösterilmemektedir. Bağlantı hattının tavan üstündeki kısmı gözlemlenememiş, yenileme detay çizimi ve devreye alma/test kaydı sunulmamıştır. Mevcut proje ile saha arasında farklılık bulunduğundan baca bağlantısının bağımsızlığı, yapı geçişleri ve performansına ilişkin belgeli değerlendirme gerekmektedir.” Bu metin yalnız örnek rapor dilidir; gerçek bir saha tespiti değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Baca yenilemesinde uygunluk kararı, “yeni baca takıldı” beyanına dayanamaz. Cihazın gerçek kullanımı, bağımsız bağlantı, geçiş detayları, çatı çıkışı ve bakım/test belgeleri aynı kayıt zincirinde incelenmelidir. YGU’nun katkısı, projede onaylanan çözüm ile sahada kurulan sistem arasındaki farkı kanıtları ve açık kalan doğrulama ihtiyaçlarıyla birlikte görünür kılmaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

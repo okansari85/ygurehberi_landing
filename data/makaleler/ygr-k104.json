@@ -1,0 +1,134 @@
+{
+  "kod": "YGR-K104",
+  "yol": "kacis-yolu-ile-kacis-uzakligi-nasil-ayrilir",
+  "baslik": "Kaçış yolu ile kaçış uzaklığı nasıl ayrılır?",
+  "ozet": "Temel ayrım  Kaçış yolu, kişinin bulunduğu noktadan güvenli çıkışa ulaşmasını sağlayan kesintisiz güzergahın bütünüdür. Kaçış uzaklığı ise bu güzergahın mevzuatta tanımlanan iki noktası arasında ölçülen yürüyüş mesafesidir. Birinin varlığı ve kullanılabilirliği, diğerinin uzunluk sınırına uygun olduğu anlamına gelmez.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "iki-kavram-neden-ayni-degildir",
+      "metin": "İki kavram neden aynı değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir bina planında oda kapısı, koridor, yangın güvenlik holü, kaçış merdiveni ve son çıkış birbirini izleyen tek bir tahliye düzeninin parçalarıdır. Kaçış yolu, bu parçaların sürekliliğini ve fiilen kullanılabilirliğini anlatır. Güzergahın bir bölümü kilitlenmiş, istifle daraltılmış veya son çıkışı kapatılmışsa çizimde bir yol görünmesi tek başına yeterli değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış uzaklığı ise bu bütün yolun her zaman sonuna kadar ölçülen bir değer değildir. Genel tanım, bir mekandaki en uzak kullanılabilir noktadan ilgili en yakın kat çıkışına kadar izlenen yürüyüş yolunu esas alır. Korunumlu kaçış merdivenine giriş kapısı ya da doğrudan güvenli alana açılan çıkış, somut plan ve uygulanacak özel hükme göre ölçümün bitişi olabilir. Konutlar ve mevcut yapılar gibi özel düzenlemeler ayrıca incelenir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1700,
+      "yukseklik": 480,
+      "aciklama": "Şekil 104. Kaçış yolunun bütünlüğü ile örnek bir kaçış uzaklığı ölçüm aralığının ayrılması. Özgün şematik çizim; ölçekli proje değildir.",
+      "src": "/img/makale/ygr-k104-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-uzerinde-hangi-sorular-ayri-cevaplanir",
+      "metin": "Proje üzerinde hangi sorular ayrı cevaplanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru “Kullanıcı buradan güvenli alana kadar kesintisiz ilerleyebiliyor mu?” sorusudur. Bunun yanıtı yalnız mesafeyle değil; kapıların açılması, koridorun sürekliliği, merdivene erişim, son çıkışın kullanılabilirliği ve güzergahın işletme sırasında açık tutulmasıyla ilgilidir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci soru “İlgili mevzuatın tarif ettiği başlangıç ve bitiş arasında ne kadar yürünür?” sorusudur. Bu değerlendirmede katın kullanım sınıfı, kullanıcı yükü, tek veya iki yönlü kaçış imkanı, yağmurlama durumu ve ilgili tablo birlikte okunur. Yürürlükteki genel ölçüm kuralında, en uzak nokta mahal duvarlarından 40 cm önde alınır. Bu değer güzergahın kuş uçuşu ölçülmesini haklı çıkarmaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Kaçış yolu açısından",
+        "Kaçış uzaklığı açısından"
+      ],
+      "satirlar": [
+        [
+          "Kapalı koridor geçişi",
+          "Güzergah kesintiye uğrayabilir.",
+          "Önce geçerli güzergah belirlenir; eski mesafe çizgisi esas alınamaz."
+        ],
+        [
+          "Yer değiştiren kapı",
+          "Geçişin yönü ve erişilebilirliği değişebilir.",
+          "Başlangıçtan ilgili çıkışa yürüyüş hattı yeniden değerlendirilir."
+        ],
+        [
+          "İki çıkışın bulunması",
+          "Her iki çıkışa fiilen erişim aranır.",
+          "Tek/iki yönlü kesimler ve uygulanacak uzaklık sınırı ayrıştırılır."
+        ],
+        [
+          "Son çıkış önünde engel",
+          "Kaçış yolunun bütünlüğü bozulur.",
+          "Kat çıkışına kadar mesafe uygun olsa bile güvenli tahliye sağlanmış sayılmaz."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-yeni-taslak-nasil-okunmali",
+      "metin": "Yürürlükteki hüküm ile yeni taslak nasıl okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kaçış yolunu yapının herhangi bir noktasından yer seviyesindeki caddeye kadar devam eden engellenmemiş yolun tamamı olarak düzenler. Kaçış uzaklığı içinse kat çıkışına kadar yürünmesi gereken mesafe tanımı kullanılır. Dolayısıyla mevzuat iki kavramı farklı kapsamda ele alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağı (taslak hüküm), kaçış yolunun bütününü güvenli alana kadar uzanan güzergah olarak ifade eder. Taslakta kaçış uzaklığı yine ilgili kat çıkışına kadar alınan yürüyüş mesafesi olarak tanımlanır. “Cadde” yerine “güvenli alan” ifadesinin kullanılması taslak metindeki terminoloji farkıdır; yürürlüğe girmeden mevcut hukuk kuralı gibi uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın çıkış kapasitesi ve kaçış uzaklığı düzenlemesinde, 2/3 oranına ilişkin özel kabulün kapsamı yürürlükteki metinden farklı ifade edilmiştir. Bu özel kabul, “kaçış yolu” ile “kaçış uzaklığı” kavramlarını eşitlemez ve her planda kuş uçuşu ölçüme izin vermez. Proje uygunluk kararında yürürlükteki hüküm; geleceğe dönük hazırlıkta ise açıkça “taslak” notuyla yeni metin ayrıca izlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), inceleyeceği katın onaylı mimari ve tahliye projelerini, ruhsat ve yapı kullanma izni kayıtlarını, varsa tadilat paftalarını ve önceki yangın güvenliği değerlendirmelerini birlikte ele alır. Projede “koridor” görünen bölümün sahada depo olarak kullanılması, geçişin turnike veya kilitli kapıyla değiştirilmesi ya da son çıkışın başka bir mahale açılması, güzergahın sürekliliğini etkileyebilecek somut farklılıklardır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman, önce projedeki güzergahı fiili mahal yerleşimiyle karşılaştırır; kapıların konumunu, çıkış yönünü, engelleri ve geçişlerin gerçekten kullanılabilir olup olmadığını gözlemsel olarak kaydeder. Ardından projedeki kaçış uzaklığı çizgisinin hangi başlangıç ve kat çıkışına dayandığını, tek/iki yönlü kaçış kabulünü ve değişikliklerin bu kabule etkisini sorgular. Örneğin sonradan eklenen sabit bir bölme nedeniyle iki alternatif çıkıştan birine erişilemiyorsa bulgu, “iki çıkış var” sayımıyla kapatılmaz; değişikliğin yeri ve kaçış düzenine etkisi gerekçeli olarak raporlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözlemsel bulguyu onaylı proje, fotoğraf ve mevcut teknik kayıtla ilişkilendirir; gerekli olduğunda yetkili proje müellifinin güncel kaçış hesaplarını, revize paftayı veya idare değerlendirmesini ister. Gözlemsel kontrol, YGU’ya başka disiplinlere ait tasarım, teknik ölçüm raporu düzenleme, proje onayı veya ruhsat verme yetkisi kazandırmaz. Ölçü ve hesap doğrulaması gereken husus, yetkili meslek mensubunun belgesi üzerinden sonuçlandırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış yolu bir güzergahın varlığı, sürekliliği ve kullanılabilirliğiyle; kaçış uzaklığı ise tanımlı ölçüm aralığının uzunluğuyla ilgilidir. Sağlam bir değerlendirme, önce güzergahın gerçekten çalıştığını, sonra doğru başlangıç ve bitiş noktalarıyla mevzuata uygun mesafe ve kapasite koşullarının sağlandığını gösterir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

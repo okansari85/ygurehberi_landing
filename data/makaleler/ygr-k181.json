@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K181",
+  "yol": "yangin-ekipleri-arasinda-ilk-mudahale-ve-tahliye-rolleri-nasil-ayrilir",
+  "baslik": "Yangın ekipleri arasında ilk müdahale ve tahliye rolleri nasıl ayrılır?",
+  "ozet": "Bir tesiste yangın alarmı çaldığında, söndürme cihazını kimin alacağı genellikle bellidir. Fakat aynı anda insanları kimin yönlendireceği, eksik personelin kim tarafından bildirileceği ve itfaiye geldiğinde bilgiyi kimin aktaracağı net değilse görev çizelgesi sahada karşılık bulmaz. Yangın güvenlik uzmanlığı (YGU) açısından kontrolün konusu yalnız ekip isimlerini saymak değil, olayın ilk dakikalarında görevlerin birbirine karışmadan yürüyebildiğini göstermektir.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ilk-mudahale-tahliye-ve-kurtarma-ayni-islem-degildir",
+      "metin": "İlk müdahale, tahliye ve kurtarma aynı işlem değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk müdahale, yangının başlangıç aşamasında, eğitimli ve görevlendirilmiş personelin mevcut güvenli koşullarda yangının büyümesini önlemeye yönelik girişimidir. Tahliye ise binadaki kişilerin alarmı anlayıp belirlenmiş güvenli yollardan dışarı çıkmasını sağlayan organizasyondur. Kurtarma, kendi imkanlarıyla güvenli şekilde çıkamayan kişilere yönelik ayrı bir faaliyettir. Tahliye için yönlendirme yapmak, tehlikeli ortama girerek kurtarma yapmakla eş tutulamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Müdahalenin sınırı açık olmalıdır: dumanla dolan mahale girilmez, kaçış yolu geride bırakılmaz, müdahale için kişinin hayatı tehlikeye atılmaz. Tehlike büyüdüğünde öncelik alarm, güvenli uzaklaşma ve profesyonel müdahale ekiplerine doğru bilgi verilmesidir. Bir kişinin görevli olması, her koşulda yangınla mücadele etmesini gerektirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuattaki-ekipler-ve-gunluk-is-akisi",
+      "metin": "Mevzuattaki ekipler ve günlük iş akışı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 126, kapsadığı yapılarda söndürme, kurtarma, koruma ve ilk yardım ekiplerini öngörür. Madde 127’de söndürme ekibinin yangına müdahalesi; kurtarma ekibinin can ve mal kurtarma görevi; koruma ekibinin kurtarılan eşya ve evrakı koruması ile panik ve kargaşayı önleme görevi; ilk yardım ekibinin yaralılara ilk yardım yapması düzenlenir. Madde 128, ekiplerin yardımlaşmasını ve itfaiye gelince sevk-idarenin itfaiye amirine geçmesini belirler. Bu dört ekip, günlük tahliye organizasyonunun bütün alt işlerini otomatik olarak anlatan bir liste değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "İşletmenin acil durum planında alarmı başlatma, dış yardım çağrısı, katların boşaltıldığının bildirilmesi, hareket kısıtlı kişilerin güvenli yönlendirilmesi ve toplanma yerindeki sayım için ayrıca kimin sorumlu olduğunun anlaşılır olması gerekir. Bu işler ilgili ekipler ve destek görevlileriyle eşleştirilirken mevcut iş sağlığı ve güvenliği mevzuatı kapsamında hazırlanan acil durum planıyla çelişki yaratılmamalıdır. Aynı kişiye iki eşzamanlı ve farklı yerde bulunmayı gerektiren görev yazılması, kağıt üzerinde tam görünse de pratikte boşluk doğurur."
+    },
+    {
+      "tip": "h2",
+      "id": "gorev-sinirini-gosteren-saha-eslestirmesi",
+      "metin": "Görev sınırını gösteren saha eşleştirmesi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Görev alanı",
+        "Olay sırasında beklenen iş",
+        "Sınır ve doğrulama"
+      ],
+      "satirlar": [
+        [
+          "Alarm ve haberleşme",
+          "Olay yeri bilgisini doğrular, alarm ve acil çağrı akışını işletir.",
+          "Çağrıyı kimin yaptığı, hangi adresi ve risk bilgisini verdiği kayıtlı olmalı."
+        ],
+        [
+          "İlk müdahale / söndürme",
+          "Yalnız güvenli başlangıç koşullarında uygun cihazla müdahale eder.",
+          "Duman, ısı, kaçış yolu ve personel eğitimi sınırları tanımlı olmalı."
+        ],
+        [
+          "Tahliye yönlendirmesi",
+          "Kişileri en yakın kullanılabilir güvenli çıkışa yönlendirir.",
+          "Kat ve vardiya görevlisi, alternatif güzergah ve hareket kısıtlı kişiler belirlenmeli."
+        ],
+        [
+          "Kurtarma ve ilk yardım",
+          "Önceliği insan olan kurtarma ile güvenli alandaki ilk yardım işlerini yürütür.",
+          "Tehlikeli alana kontrolsüz giriş yapılmaz; yetkinlik ve malzeme ayrımı korunur."
+        ],
+        [
+          "Toplanma ve itfaiyeye bilgi",
+          "Eksik kişileri bildirir; giriş, tehlikeli madde ve ekipman bilgilerini aktarır.",
+          "Sayım yöntemi, irtibat kişisi ve devredilecek güncel plan hazır olmalı."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-depoda-alarm-uretim-alaninda-iki-vardiya",
+      "metin": "Örnek: Depoda alarm, üretim alanında iki vardiya"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir depoda gece vardiyasında alarm çaldığını düşünelim. Söndürme ekibi listesinde yazılı üç kişiden yalnız biri tesistedir. Aynı kişi depodaki yangına yaklaşırken toplanma yerinde çalışan sayımı yapılması da ondan beklenmektedir. Üstelik gündüz vardiyasındaki ekip başının telefon numarası güncellenmemiştir. Böyle bir durumda listedeki isim sayısı, fiili müdahale ve tahliye kapasitesini göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU’nun arayacağı kanıt, görevlerin vardiya bazında güncellenmiş hali, uygun yedek görevlendirme, alarm çağrısının kime düştüğü, tahliye sorumlusunun hangi alanı kontrol ettiği ve eksik kişi bilgisinin itfaiyeye nasıl iletildiğidir. İki farklı noktada eşzamanlı görev bekleniyorsa “görevlendirme var” notu yeterli değildir; vardiya çizelgesi ve tatbikat gözlemi üzerinden iş bölümü düzeltilmelidir. Tatbikatta alarmın ne zaman verildiği, ilk çıkış, personel sayımı, yanlış yöne giden kişi ve haberleşme gecikmesi gerçek bulgu olarak tutulur."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, bina veya tesise ait güncel acil durum planı, yangın iç düzenlemesi, ekip görevlendirmeleri, çalışma ve vardiya listeleri, eğitim belgeleri, tatbikat raporları ve kaçış krokileri bir araya getirilerek yapılır. Belgelerin tarihi ve hangi bina bölümünü kapsadığı yazılır. Ardından bir vardiyadaki çalışanlara kısa, aynı sorular yöneltilir: Alarmı duyunca ilk kime haber verirsin? Hangi çıkışı kullanırsın? Sayım kimde? Müdahale güvenli değilse ne yaparsın? Yanıtlar farklılaşıyorsa sorun yalnız evrakta değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bulgu kaydı suçlayıcı veya peşin hükümlü olmamalıdır. Örneğin “Gece vardiyasında üretim holü tahliye sorumlusu belirlenemedi; acil durum planındaki görevli o saatte çalışmıyor. 10 Kasım tatbikatında toplanma sayımı yapılmadı. Vardiya ataması, yedek görevli ve uygulama kaydı güncellenmeli” biçiminde yazıldığında gözlem, dayanak, sorumlu işlem ve doğrulama yolu bellidir. Yeni görevlendirme çizelgesinin imzalanması tek başına yeterli kabul edilmez; personele duyurulduğu, eğitim verildiği ve uygun senaryoyla denendiği de izlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-degisiklik-taslaginin-ayrimi",
+      "metin": "Yürürlükteki hüküm ile değişiklik taslağının ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut BYKHY Madde 126–128’de dört ekibin kuruluşu, görevleri ve sevk-idare esasları ayrı hükümler halinde düzenlenmektedir. Henüz yayımlanmamış BYKHY değişiklik taslağının Madde 128’i ise acil durum ekiplerinin kuruluşunu, görevlerini ve çalışma esaslarını İş Sağlığı ve Güvenliği Kanunu kapsamında yürürlükte olan ilgili yönetmeliğe bağlamaktadır (TASLAK). İlgili yönetmelik kapsamı dışında kalan yapılarda ise yapı sahibi, yöneticisi veya amirinin tedbir alması öngörülür (TASLAK). Bu farklılık, eski dört ekip hükmünün taslakta aynen sürdüğü biçiminde yazılamaz; taslak şu anda yürürlükteki kuralların yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "EK-6 periyodik kontrol formu taslağında bu makalenin görev dağılımına doğrudan karşılık gelen, doğrulanmış özel bir kontrol satırı bulunmamaktadır (TASLAK). Bu nedenle herhangi bir EK-6 bendi atamak yerine, inceleme acil durum planı, görevlendirme, eğitim ve tatbikat kayıtlarının karşılaştırılması olarak tanımlanır. YGU düzenlemesinin taslak görev ve yetkileri de yürürlükte bir yetkilendirme varmış gibi sunulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın anında başarılı iş bölümü, söndürme ve tahliye arasında öncelik sıralaması kurabilmekten geçer: önce alarm, güvenli kaçış ve yardıma ihtiyaç duyan kişilerin tespiti; yalnız uygun koşullarda ilk müdahale; ardından toplanma, sayım ve itfaiyeye bilgi devri. YGU’nun denetlemesi gereken şey de bu adımların belgede bulunması kadar, aynı vardiyada gerçekten uygulanabilir olmasıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 126, 127, 128, 129 ve 137."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 128, 129 ve 132 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)."
+    },
+    {
+      "metin": "EK-6 Periyodik Kontrol Formu Taslağı (TASLAK)."
+    }
+  ],
+  "sonNotlar": []
+}

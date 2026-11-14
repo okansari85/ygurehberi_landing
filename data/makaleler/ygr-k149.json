@@ -1,0 +1,215 @@
+{
+  "kod": "YGR-K149",
+  "yol": "jeneratorun-enerji-verdigi-yangin-sistemleri-nasil-haritalanir",
+  "baslik": "Jeneratörün enerji verdiği yangın sistemleri nasıl haritalanır?",
+  "ozet": "Bir jeneratörün devreye girmesi ile yangın güvenliği sistemlerinin enerji kesintisinde görevini sürdürebilmesi arasında, panolar ve kablolardan oluşan doğrulanması gereken bir bağlantı zinciri vardır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "jeneratorun-calismasi-hangi-sistemin-beslendigini-gostermez",
+      "metin": "Jeneratörün çalışması, hangi sistemin beslendiğini göstermez"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binada jeneratörün periyodik çalıştırma tutanağı bulunabilir. Ancak bu tutanak, jeneratörden çıkan enerjinin hangi acil dağıtım panosuna, oradan hangi hatta ve sonunda hangi yangın güvenliği ekipmanına ulaştığını tek başına açıklamaz. Özellikle tadilat, yeni cihaz ilavesi veya acil besleme panosu değişikliğinden sonra eski tek hat şeması ile gerçek tesisat birbirinden ayrılabilir. İncelemenin sorusu “Jeneratör var mı?” değil, “Gerekli sistemin besleme yolu kesintisiz ve doğrulanabilir mi?” olmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Besleme haritası, sistemlerin tek bir jeneratöre bağlı olduğunu peşinen kabul ederek hazırlanmaz. Bazı cihazlarda kendi bataryası veya merkezi akü sistemi, bazı pompalarda dizel motor ve bazı tesislerde bağımsız güvenilir kaynak kullanılabilir. Sistemin gerektirdiği enerji sürekliliği, ilgili hükümler ve onaylı projedeki çözüm esas alınarak ayrı değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "besleme-zinciri-nereden-nereye-izlenir",
+      "metin": "Besleme zinciri nereden nereye izlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Elektrik projesindeki tek hat şeması başlangıç belgesidir; tek başına saha kanıtı değildir. Ana şebeke beslemesi, alternatif kaynak, otomatik transfer düzeni, acil dağıtım panosu, çıkış şalteri, besleme hattı ve nihai tüketici aynı kimlik üzerinden eşleştirilmelidir. Sistemle ilgili kumanda sinyali ise enerji beslemesinden ayrı izlenir. Yangın alarm panelinden bir fana “çalış” komutu gitmesi, fan motoruna gerekli elektrik enerjisinin ulaştığını kanıtlamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Bağlantı halkası",
+        "Aranacak belge / saha kimliği",
+        "Doğrulama sorusu"
+      ],
+      "satirlar": [
+        [
+          "Kaynak",
+          "Jeneratör ve diğer yedek kaynak bilgisi",
+          "Bu sistem için öngörülen kaynak hangisi?"
+        ],
+        [
+          "Transfer",
+          "ATS/transfer şeması ve pano etiketi",
+          "Kaynak değişimi hangi panoya uygulanıyor?"
+        ],
+        [
+          "Dağıtım",
+          "Acil dağıtım panosu, çıkış şalterleri",
+          "Hangi çıkış hangi tüketiciyi besliyor?"
+        ],
+        [
+          "Hat",
+          "Kablo güzergahı, pano–devre numarası",
+          "Projedeki hat sahadaki hatta karşılık geliyor mu?"
+        ],
+        [
+          "Tüketici",
+          "Pompa/fan/kontrol paneli cihaz kimliği",
+          "Enerji gerçekten gerekli cihaza ulaşıyor mu?"
+        ],
+        [
+          "İşlev",
+          "Devreye alma ve senaryo test kayıtları",
+          "Besleme devrinden sonra gerekli görev sürüyor mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-sistemleri-ayni-besleme-kuralina-tabi-degildir",
+      "metin": "Yangın sistemleri aynı besleme kuralına tabi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) farklı işlevler için farklı hükümler içerir. Madde 66 jeneratörün yerleşimi ve yangın güvenliği tedbirlerini düzenler; jeneratörün bütün yangın sistemlerini otomatik olarak beslediğini söylemez. Madde 63, gereken acil durum asansörünün enerji kesilmesinde acil durum jeneratörüne bağlı çalışma düzenini; Madde 93 ise yangın pompalarının güvenilir ve bağımsız beslemesine ilişkin koşulları ele alır. Madde 72 uyarınca acil durum aydınlatması şebeke kesintisinde otomatik devreye girmelidir; uygun çözüm her zaman bina jeneratörüne bağlanmak değildir. Yangın algılama ve acil durum kontrol fonksiyonları da ilgili kontrol ve enerji kaynaklarıyla birlikte değerlendirilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Sistem / işlev",
+        "Haritada özellikle izlenecek ilişki",
+        "Yanlış çıkarım"
+      ],
+      "satirlar": [
+        [
+          "Elektrik motorlu yangın pompası",
+          "Pompa kumanda panosu, bağımsız/güvenilir besleme, varsa alternatif kaynak",
+          "“Jeneratör var; pompa kesin beslenir.”"
+        ],
+        [
+          "Duman tahliye ve basınçlandırma",
+          "Yangın modu fanı, güç devresi, yangın algılama kumandası, test kaydı",
+          "“Alarm komutu var; motor enerjisi de var.”"
+        ],
+        [
+          "Acil durum asansörü",
+          "Acil kaynak–asansör beslemesi ve transfer bağlantısı",
+          "“Her asansör aynı acil işlevi görür.”"
+        ],
+        [
+          "Acil aydınlatma ve yönlendirme",
+          "Merkezi besleme mi, yerel batarya mı, hangi devre?",
+          "“Her armatür jeneratöre bağlı olmalı.”"
+        ],
+        [
+          "Yangın algılama/uyarı ve anons",
+          "Panel/UPS-akü, varsa acil besleme; kumanda ve haberleşme ayrımı",
+          "“Panel çalışıyor; bütün uyarı zinciri doğrulandı.”"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-degisiklik-taslagi-nasil-ayrilir",
+      "metin": "Yürürlükteki hüküm ile değişiklik taslağı nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 66, jeneratör mahallinin yangın ayırımı, kaçış yollarını etkilemeyecek konumu ve yakıt deposu koşullarına odaklanır. Kullanıcı tarafından sağlanan BYKHY değişiklik TASLAĞI Madde 66 aynı konuyu düzenlerken jeneratör odası kapıları için 90 dakika yangına dayanım ifadesi de önerir. Taslak Madde 67 ise acil durumda kullanılan elektrik tesisatının diğer elektrik sistemlerinin kesilmesinden etkilenmeyecek şekilde tasarlanmasına yönelik bir düzenleme içerir. Bunlar yayımlanıp yürürlüğe girdikleri ayrıca doğrulanmadan güncel zorunluluk olarak raporlanmamalıdır. Enerji besleme haritasının teknik gerekliliği ise yürürlükteki mevzuat, onaylı projeler ve mevcut tesisatın karşılaştırılmasıyla ortaya konulabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), geçerli onaylı mimari, mekanik ve elektrik projelerini; yangın tahliye projesini; jeneratör ve acil güç sisteminin tek hat şemasını; pano ve cihaz listelerini; revizyon/as-built belgelerini; bakım ve senaryo test tutanaklarını birlikte ister. Sonra özellikle yangın güvenliği açısından kritik olan her tüketici için, kaynaktan cihaza kadar belgelenmiş besleme yolunu izler. İnceleme aşağıdaki sırayla yapılabilir:"
+    },
+    {
+      "tip": "p",
+      "metin": "1. Geçerli proje — Onaylı elektrik tek hat şemasında alternatif enerji kaynağı ve acil panoların kimliklerini belirle."
+    },
+    {
+      "tip": "p",
+      "metin": "2. Değişiklik izi — Son pano yenilemeleri, ek beslemeler ve yeni yangın güvenliği sistemlerinin revizyon belgelerini karşılaştır."
+    },
+    {
+      "tip": "p",
+      "metin": "3. Sahadaki karşılık — Jeneratör, transfer panosu, acil dağıtım panosu ve tüketici etiketlerini proje üzerinde eşleştir."
+    },
+    {
+      "tip": "p",
+      "metin": "4. Enerji ve kumanda ayrımı — Yangın modu komut hattı ile cihazın enerji besleme hattını birbirinden ayrı kaydet."
+    },
+    {
+      "tip": "p",
+      "metin": "5. Kanıt düzeyi — Gözlenen ekipman, sunulan proje, bakım kaydı ve fonksiyonel test sonucunu farklı kanıt başlıkları olarak yaz."
+    },
+    {
+      "tip": "p",
+      "metin": "6. Açık kalan noktalar — Erişilemeyen pano, etiketsiz hat, bulunmayan test veya güncel olmayan proje için doğrulama ihtiyacını belirt."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU bu çalışma kapsamında bir elektriksel ölçümü, transfer testi, yük testi veya devre değişikliğini kendiliğinden yapmış sayılmaz. Gerekli testlerin yetkili teknik personelce güvenli işletme koşullarında gerçekleştirilmesine ilişkin belge ve sonuçları inceler. İşletmenin enerji beslemesini kesmeyi gerektiren deneme, yalnız değerlendirme amacıyla kontrolsüz şekilde başlatılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-durumu-acil-besleme-panosu-yenilenmis-tesis",
+      "metin": "Örnek saha durumu: Acil besleme panosu yenilenmiş tesis"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal örnekte, fabrika binasında yeni bir acil dağıtım panosu kurulmuş ve jeneratörün periyodik çalıştırma kaydı sunulmuştur. Mekanik projede yangın merdiveni basınçlandırma fanı ve elektrik motorlu yangın pompası gösterilmektedir. Elektrik tek hat şeması eski pano kodunu taşımakta; yeni panonun çıkış devrelerini gösteren güncel çizim ise sunulamamaktadır. Buradan “iki sistem de çalışmaz” sonucu çıkarılamaz; ancak jeneratörün bu iki tüketiciye uzanan besleme zinciri güncel belgelerle doğrulanmış sayılamaz. Dahası pompa için gerekli kaynak çözümünün jeneratör olması gerektiği de projeden ve ilgili hükümlerden bağımsız biçimde varsayılamaz."
+    },
+    {
+      "tip": "h3",
+      "metin": "Rapor bulgusunda gözlem ile belirsizliği ayırmak"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek rapor cümlesi: “B1 teknik mahalde bulunan ADP-02 acil dağıtım panosunun önceki proje paftasında ADP-01 olarak gösterildiği belirlenmiştir. Mevcut pano çıkışlarının yangın merdiveni basınçlandırma fanı ve yangın pompası kumanda panosuna bağlantısını gösteren güncel tek hat şeması ile ilgili fonksiyon test kayıtları sunulmamıştır. Jeneratörün çalıştırma tutanağı mevcuttur; bu kayıt, belirtilen tüketicilere enerji devri gerçekleştiğini tek başına doğrulamamaktadır. Güncel proje, bağlantı çizelgesi ve yetkili teknik personelce yapılmış test belgeleri istenmelidir.” Bu anlatım gerçek bir saha tespiti değil, rapor yazım örneğidir."
+    },
+    {
+      "tip": "h2",
+      "id": "izlenebilir-bir-kontrol-icin-sonuc-siniflandirmasi",
+      "metin": "İzlenebilir bir kontrol için sonuç sınıflandırması"
+    },
+    {
+      "tip": "p",
+      "metin": "Her sistem için “belgede mevcut”, “sahada gözlendi”, “işlevi test kaydıyla doğrulandı”, “proje–saha uyuşmazlığı bulundu” ve “belge eksikliği nedeniyle doğrulanamadı” durumları birbirinden ayrılmalıdır. Belge bulunmaması otomatik olarak ekipmanın fiziksel arızalı olduğu anlamına gelmez; buna karşılık cihazın bulunması da besleme sürekliliğinin kanıtı değildir. Sonuç, uygulanabilir mevzuat hükmüne, o tesisin onaylı çözümüne ve doğrulanmış teknik kayda dayanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Güvenilir bir acil besleme haritası, jeneratörün motorundan başlayıp gerçek yangın güvenliği tüketicisinin görevine kadar uzanır. Kaynak, transfer, pano, hat, kumanda ve işlevsel kanıt birbiriyle ilişkilendirilmeden “yangın sistemleri jeneratörle besleniyor” hükmü kurulamaz. YGU açısından değerli olan, yalnız eksik ekipmanı değil, eksik bağlantı bilgisini ve hangi doğrulamanın gerektiğini açıkça gösterebilmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

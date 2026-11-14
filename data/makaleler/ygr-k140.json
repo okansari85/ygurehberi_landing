@@ -1,0 +1,120 @@
+{
+  "kod": "YGR-K140",
+  "yol": "karma-konut-isyeri-yapisinda-ortak-kacis-nasil-incelenir",
+  "baslik": "Karma konut–işyeri yapısında ortak kaçış nasıl incelenir?",
+  "ozet": "Alt katında işyeri, üst katlarında konut bulunan bir yapıda yangın güvenliği değerlendirmesi yalnız bina cephesindeki iki ayrı kapıya bakılarak yapılamaz. Esas soru, farklı kullanım bölümlerinin hangi çıkışlara, koridorlara ve merdivenlere bağlandığı; bu bağlantıların projede öngörülen yangın ayırımı ve kaçış düzeniyle sahada örtüşüp örtüşmediğidir.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayri-kullanim-otomatik-olarak-ayri-kacis-demek-degildir",
+      "metin": "Ayrı kullanım, otomatik olarak ayrı kaçış demek değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Konut, ticaret veya büro kullanımı aynı yapıda bulunabilir. İşyeri müşterileri, çalışanlar ve konut sakinleri farklı zamanlarda, farklı kullanıcı yükleriyle binada bulunur. Bir zemin kat dükkanının arka kapısı konut merdivenine açılıyorsa, merdivenin ortak kullanımı açıkça değerlendirilmelidir. Kapının kilitlenmesi, depolama amacıyla önünün kapatılması veya işyerindeki bir tadilatla yeni bağlantı açılması, onaylı kaçış düzenini değiştirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Buna karşılık, yalnızca aynı parselde veya aynı binada iki kullanımın bulunması, tüm bölümlerin tek bir kaçış yolu kullandığını göstermez. Her bağımsız bölümün çıkış güzergahı ve yangın ayırımı ayrı ayrı izlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-karar-noktasi-ayirim-ve-korunma-tedbirleri",
+      "metin": "Mevzuatın karar noktası: ayırım ve korunma tedbirleri"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 18, iki veya daha fazla kullanım sınıfına giren bölümler yeterli yangın bölmesiyle ayrılamıyor ya da iç içe olmaları nedeniyle ayrı korunma tedbirleri uygulanamıyorsa, daha yüksek koruma tedbiri gerektiren sınıfa ilişkin kuralların bütün binaya uygulanmasını öngörür. Bu hüküm, her karma binanın koşulsuz biçimde tek ve en ağır sınıfa alınacağı anlamına gelmez; ayırımın gerçekten sağlanıp sağlanmadığı belirleyicidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı BYKHY değişiklik TASLAĞI Madde 18 de aynı temel karar mantığını içerir. Bu konuda incelenen iki metin arasında sırf madde başlığı üzerinden yeni bir sayısal kaçış sınırı çıkarılamaz. Taslak, yürürlüğe girmiş bir düzenleme olarak kullanılmaz. Kaçış uzaklığı, çıkış sayısı, genişlik ve yangın dayanımı için ayrıca ilgili kullanım, yapı özellikleri ve uygulanabilir hükümler değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "ortak-kacista-hangi-baglantilar-incelenir",
+      "metin": "Ortak kaçışta hangi bağlantılar incelenir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Sahada sorulacak soru"
+      ],
+      "satirlar": [
+        [
+          "İşyeri–konut sınırı",
+          "Onaylı projede ayırıcı duvar, kapı ve geçiş var mı? Sahada yeni açıklık açılmış mı?"
+        ],
+        [
+          "Ortak merdiven",
+          "Hangi katlar ve kullanıcı grupları merdivene bağlanıyor? Merdivenin korunumu ve son çıkışı projeyle aynı mı?"
+        ],
+        [
+          "Giriş ve çıkış kapıları",
+          "Kaçış yönünde serbest açılma, kilit düzeni, kapı kanadı ve net geçiş alanı kontrol ediliyor mu?"
+        ],
+        [
+          "Bodrum ve arka hacimler",
+          "Depo, otopark veya teknik hacim ortak kaçışa doğrudan bağlanıyor mu?"
+        ],
+        [
+          "İşletme değişikliği",
+          "Dükkanın restoran, atölye veya depoya dönüşmesi kullanıcı yükünü ve yangın riskini değiştirmiş mi?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının geçerli ruhsat ve yapı kullanma izin kayıtlarını, onaylı mimari ve yangın tahliye projelerini, varsa tadilat projelerini ve bağımsız bölüm kullanım bilgilerini karşılaştırır. Ardından her işyerinin gerçek faaliyetini, katlardaki kişi yoğunluğunu, bodrum bağlantılarını, ortak kapıların işletme saatlerindeki durumunu ve konut girişinin işyeriyle kesişip kesişmediğini yerinde inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada yalnız “ortak merdiven var” kaydı yeterli değildir. İnceleme; merdivene bağlanan kapıların konumunu, yangın ayırıcı elemanların sürekliliğini, kaçış yönündeki kilit ve engelleri, kat çıkışlarını ve bina dışına ulaşan son güzergahı kapsamalıdır. Görülen değişiklikler kat ve kapı numarasıyla plan üzerinde işaretlenmeli; fotoğraf, mevcut belge ve varsa bakım/test raporuyla ilişkilendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, proje ile sahadaki farklılığı ve bunun kaçışa olası etkisini gerekçeli biçimde kaydeder. Bir yangın kapısının dayanım performansını yalnız görünüşünden doğrulanmış saymaz; ürün belgesi, montaj kaydı ve mevcut test bilgilerini ayrı değerlendirir. Bu inceleme kendiliğinden statik tasarım, mekanik sistem ölçümü veya başka bir uzmanlık alanında onay verme yetkisi oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-rapor-anlatimi",
+      "metin": "Örnek rapor anlatımı"
+    },
+    {
+      "tip": "p",
+      "metin": "“Zemin kattaki işyerinin arka bölümünden üst kat konutlarına hizmet eden ortak merdiven holüne açılan bir kapı bulunduğu gözlenmiştir. İncelenen onaylı planda bu bağlantı gösterilmemektedir. Kapının yangın dayanımını ve holün yangın ayırımını doğrulayan belgeler inceleme sırasında sunulmamıştır. Bağlantının geçerli proje, yangın bölmesi ve kaçış düzeni yönünden değerlendirilmesi; gerekli proje ve belge doğrulamasının tamamlanması önerilir.” Bu metin gerçek bir vakaya değil, örnek raporlama diline aittir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Karma konut–işyeri yapılarında doğru soru, kullanım türlerinden hangisinin “daha önemli” olduğu değil, farklı kullanıcıların hangi ortak kaçış elemanlarına bağımlı olduğu ve bu elemanların projedeki koruma düzenini sürdürüp sürdürmediğidir. Yangın Güvenlik Uzmanı (YGU), kararını kullanım sınıfı, ayırım, geçerli proje, gerçek saha durumu ve kanıtlanabilir teknik belgeler üzerinden kurmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

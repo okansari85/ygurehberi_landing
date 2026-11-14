@@ -1,0 +1,139 @@
+{
+  "kod": "YGR-K148",
+  "yol": "bus-bar-gecisinde-yangin-ayirimi-nasil-belgelenir",
+  "baslik": "Bus-bar geçişinde yangın ayırımı nasıl belgelenir?",
+  "ozet": "Bus-bar, elektrik enerjisinin dağıtımında kullanılan kapalı iletken sistemidir. Bir yangın kompartımanını sınırlayan duvar veya döşemeyi geçtiğinde sorun yalnız elektriksel süreklilik değildir: geçiş noktasında yangın ve duman ayırımının korunması gerekir. Elektrik tesisatının çalışıyor olması, geçişteki yangın durdurucu uygulamanın uygun olduğunu tek başına kanıtlamaz.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorunun-teknik-karsiligi",
+      "metin": "Sorunun teknik karşılığı"
+    },
+    {
+      "tip": "h2",
+      "id": "once-kompartiman-sinirini-belirlemek-gerekir",
+      "metin": "Önce kompartıman sınırını belirlemek gerekir"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, mimari yangın kompartımanı planında ilgili duvar veya döşemenin yangın ayırıcı niteliğinin belirlenmesiyle başlar. Elektrik projesinde bus-bar güzergahı, şaft kesitleri, kat geçişleri ve revizyon paftaları birlikte okunur. Yangın ayırıcı olmayan bir duvarla kompartıman sınırını oluşturan bir duvar aynı kontrol konusu değildir. Şaft kapakları, duvar-döşeme birleşimleri ve aynı açıklığı paylaşan başka tesisatlar da geçiş detayının değerlendirilmesini etkileyebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenlemenin-temel-yaklasimi",
+      "metin": "Yürürlükteki düzenlemenin temel yaklaşımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik madde 69, elektrik tesisatının yangın bölmeleri arasındaki yatay ve düşey geçişlerinde açıklıkların yangın ve duman geçişini engelleyecek yangın durdurucu malzemelerle kapatılmasını düzenler. Madde 68 ise elektrik iç tesisatının ilgili tesisat düzenlemeleri ve standartlarla uyumlu kurulmasını ele alır. Bu iki başlık birlikte okunduğunda bus-bar sisteminin elektriksel uygunluğu ile kompartıman geçişinin yangın ayırımı bakımından uygunluğu farklı kanıtlarla incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "belgelendirmede-hangi-kanitlar-birbirini-tamamlar",
+      "metin": "Belgelendirmede hangi kanıtlar birbirini tamamlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Tek başına ürün katalog sayfası, bir geçiş detayının sahada uygun yapıldığını kanıtlamaz. Öncelikle geçişin konumu ve ayırıcı yapı elemanının niteliği projede belirlenir. Ardından kullanılan yangın durdurucu sistemin ürün ve uygulama belgeleri, test edilmiş veya sınıflandırılmış çözümün kapsamı, montaj detayı ve sahadaki gerçek uygulama karşılaştırılır. Bus-bar kesiti, açıklık boyutu, boşluk geometrisi, destekleme düzeni ve uygulama kalınlığı gibi özellikler, ilgili belgenin kapsadığı çözümle uyuşmalıdır. Belgenin kapsamadığı farklı bir montaj ayrıntısına aynı performans otomatik olarak atfedilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-saha-karsilastirma-matrisi",
+      "metin": "Belge–saha karşılaştırma matrisi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Aranacak kanıt",
+        "Sahada karşılaştırılacak durum"
+      ],
+      "satirlar": [
+        [
+          "Geçiş yeri",
+          "Onaylı mimari ve elektrik paftaları",
+          "Gerçek duvar/döşeme ve bus-bar güzergahı"
+        ],
+        [
+          "Yangın ayırımı",
+          "Kompartıman sınırı ve tasarım detayı",
+          "Açıklığın bütünü, çevre boşlukları"
+        ],
+        [
+          "Uygulama sistemi",
+          "Ürün/uygulama belgesi ve montaj detayı",
+          "Malzeme, kalınlık, birleşim ve destekler"
+        ],
+        [
+          "Revizyon",
+          "As-built çizim ve değişiklik kaydı",
+          "İlave delik, yeni hat, sökülmüş kapama"
+        ],
+        [
+          "İzlenebilirlik",
+          "Uygulama kaydı, fotoğraf, bakım kaydı",
+          "Konum ve belge eşleşmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-sik-karsilasilan-uyusmazliklar",
+      "metin": "Sahada sık karşılaşılan uyuşmazlıklar"
+    },
+    {
+      "tip": "p",
+      "metin": "Bus-bar etrafındaki boşluğun yalnız görünür yüzeyden kapatılması, sonradan açılan kablo geçişinin açık bırakılması, başka bir tesisatın mevcut yangın durdurucu çözümü bozması veya bir ürün belgesinin farklı duvar tipine ait olması önemli uyuşmazlık örnekleridir. Bunlar her durumda aynı sonuçla değerlendirilmez; mevcut uygulamanın kapsamı ve ilgili teknik kanıtlar görülmeden kesin uygunluk veya uygunsuzluk hükmü kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle onaylı projeyi, yapı kullanımına ilişkin belgeleri ve sonradan yapılan elektrik tesisatı revizyonlarını ister. Ardından gerçek mahal kullanımını, kompartıman sınırlarını ve bus-barın geçtiği noktaları yerinde belirler. Geçişlerin konumunu fotoğraf ve pafta referansıyla kayıt altına alır; kullanılan kapama sisteminin teknik belgesi ile görülebilen uygulama detayını karşılaştırır. Ulaşılması mümkün olmayan kapalı kesitlerde gözlemin sınırını rapora yazar ve ilgili uygulama kayıtlarını talep eder. Bir elektriksel ölçüm yapmış, yangın dayanımı testi gerçekleştirmiş veya projeyi yeniden onaylamış gibi sonuç bildirmez. Tasarım, elektriksel ölçüm, ürün performansının doğrulanması ve yetkili idare onayı kendi usul ve yetki çerçevesinde yürütülür; YGU incelemesi bu işlemlerin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-rapor-nasil-kurulmali",
+      "metin": "Gerekçeli rapor nasıl kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt dili şöyledir: “Bodrum–zemin kat arasındaki B-03 bus-bar geçişinde, onaylı projede belirtilen yangın ayırıcı döşeme sınırı ile mevcut geçiş konumu eşleştirilmiştir. Uygulamanın ürün belgesinde tarif edilen kesit ve montaj detayıyla uyumu, sunulan belgeler üzerinden doğrulanamamıştır. İlgili uygulama detayı ve revizyon kaydı istenmiştir.” Bu ifade varsayımsal bir raporlama örneğidir; gerçek bir olay veya yapılmış saha denetimi değildir. Belge eksikliği, tek başına ölçülmüş yangın dayanımı yetersizliği olarak sunulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukum-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hüküm ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının düzeltilmiş kaynak haritasında, BYKHY değişiklik taslağındaki “Yangın kompartımanlarından geçişler” başlığı bu konu ile eşleştirilmiştir. Taslak hükmün özgün tam metni bu çalışma sırasında doğrudan karşılaştırılamadığından, önerilen yeni bir sayı, performans sınıfı veya ek zorunluluk yürürlükteymiş gibi aktarılmamıştır. Uygulama kararı yürürlükteki metin, onaylı proje ve doğrulanabilir teknik kanıtlar üzerinden verilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Bus-bar geçişinde esas soru, “boşluk kapatılmış mı?” sorusundan daha geniştir: Doğru kompartıman sınırında, belgelenmiş ve kapsamına uygun bir yangın durdurucu çözüm gerçekten uygulanmış mıdır? Sağlam bir YGU raporu, proje, ürün/uygulama kanıtı ve gözlemsel saha bulgusunu aynı konum üzerinden ilişkilendirir; doğrulanamayan hususları açık bırakır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

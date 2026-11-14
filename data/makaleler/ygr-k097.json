@@ -1,0 +1,181 @@
+{
+  "kod": "YGR-K097",
+  "yol": "yonetmeligin-ek-tablolari-yanlis-secilirse-hangi-kararlar-etkilenir",
+  "baslik": "Yönetmeliğin ek tabloları yanlış seçilirse hangi kararlar etkilenir?",
+  "ozet": "Temel cevap  Ek tablonun yanlış seçilmesi, yalnız bir satır hatası değildir. Kullanım ve tehlike sınıfı, yangına dayanım, kompartıman alanı, kullanıcı yükü, kaçış kapasitesi ve bazı aktif sistemlerin gerekliliği birbirini etkileyebilir. Doğru sonuç için önce yapının hangi hükümlere tabi olduğu ve gerçek kullanım koşulları belirlenir; ardından ilgili tablonun satırı, sütunu ve dipnotları birlikte okunur.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-tabloya-gecmeden-once-hangi-bilgiler-kesinlesmeli",
+      "metin": "1. Tabloya geçmeden önce hangi bilgiler kesinleşmeli?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, her yapı için aynı tablonun aynı satırını kullandırmaz. Önce yapının ruhsat ve kullanım geçmişi, mevcut ya da yeni yapı niteliği, onaylı kullanım sınıfı, fiili faaliyet, bina ve yapı yüksekliği, katların işlevi, net alanlar, kullanıcı sayısı ve varsa tehlikeli madde koşulları belirlenir. Aynı binadaki büro, üretim ve depo mahallerinin tek bir işletme adına bağlı olması, bütün mahallerin yangın güvenliği açısından aynı nitelikte olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bina kullanım sınıfı ile yangın tehlike sınıfı ayrı kavramlardır. Kullanım sınıfı, mahallin hangi amaçla kullanıldığını; tehlike sınıflandırması ise yapılan işin ve yangın yükünün niteliğini değerlendirir. Birinin yanlış seçilmesi, diğer tablolardaki seçimleri de saptırabilir. Sınıflandırma tereddütlü ise varsayım açıkça kaydedilir ve ilgili proje müellifi veya yetkili idareden gerekli açıklama istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yanlis-ek-tablo-hangi-teknik-kararlara-yansir",
+      "metin": "2. Yanlış ek tablo hangi teknik kararlara yansır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki eşleştirme, yürürlükteki yönetmelikteki tablo ailelerinin hangi kararlar için kullanıldığını gösterir. Her satır kendi maddesi, istisnası ve dipnotuyla birlikte değerlendirilmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karar alanı",
+        "İlgili tablo",
+        "Yanlış seçimin olası sonucu"
+      ],
+      "satirlar": [
+        [
+          "Tehlike sınıfı",
+          "Ek-1/A, Ek-1/B, Ek-1/C",
+          "Yanlış faaliyet grubuyla seçilen tehlike sınıfı, söndürme ve kompartıman gereksinimlerinin hatalı değerlendirilmesine yol açabilir."
+        ],
+        [
+          "Malzemenin yangına tepkisi",
+          "Ek-2 serisi",
+          "Kaplama veya yalıtım malzemesi için uygun olmayan sınıfın kabul edilmesi, malzeme seçimi ve ürün belgesi değerlendirmesini etkiler."
+        ],
+        [
+          "Yapı elemanının yangına dayanımı",
+          "Ek-3 serisi",
+          "Malzemenin yanıcılık sınıfı, duvarın veya döşemenin yangına dayanım süresi yerine kullanılırsa yangın ayrımı yanlış yorumlanır."
+        ],
+        [
+          "Kompartıman alanı",
+          "Ek-4",
+          "Bina kullanımı, tehlike düzeyi ve sistem koşulları yanlış okunursa izin verilen yangın bölmesi alanı hatalı belirlenebilir."
+        ],
+        [
+          "Kullanıcı yükü",
+          "Ek-5/A",
+          "Yanlış mahal türü veya net alan, kişi hesabını; buna bağlı çıkış sayısı ve kapasite değerlendirmesini etkileyebilir."
+        ],
+        [
+          "Kaçış uzaklığı ve genişlik",
+          "Ek-5/B",
+          "Tek/iki yönlü kaçış ve yağmurlama durumu yanlış kabul edilirse kaçış mesafesi veya geçiş kapasitesi olduğundan uygun görünebilir."
+        ],
+        [
+          "Algılama gerekliliği",
+          "Ek-7",
+          "Kullanım türü, yapı yüksekliği ve yapı inşaat alanı yanlış eşleştirilirse otomatik algılama kararı değişebilir."
+        ],
+        [
+          "Yangın suyu tasarımı",
+          "Ek-8 serisi",
+          "Söndürme sisteminin türü ve tasarım koşulları yanlış alınırsa su deposu veya yağmurlama tasarımına ilişkin ön değerlendirme yanıltıcı olur."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "3-tablo-dogru-olsa-bile-satir-ve-dipnot-yanlis-olabilir",
+      "metin": "3. Tablo doğru olsa bile satır ve dipnot yanlış olabilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle kaçış hesaplarında tablo başlığını bulmak yeterli değildir. Kullanıcı yükü hesabında ilgili mahallin net alanı ile fiili ve projede öngörülen kişi sayısı birlikte ele alınır. Kaçış uzaklığında tek yönlü veya iki yönlü güzergahın gerçekten var olup olmadığı, ölçülü plan üzerinde belirlenir. Kağıt üzerinde ikinci bir kapının bulunması, kapının sahada erişilebilir ve kullanılabilir olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Tablolarda yağmurlama sistemi bulunmasına bağlanan farklı bir sınır veya istisna varsa, yalnız projede sistem sembolü görülmesi yeterli kanıt sayılmaz. Korunan alan, proje kapsamı, kabul ve bakım kayıtları ile sistemin mevcut işletme düzenine uygunluğu birlikte incelenir. Aynı şekilde kompartıman alanı tablosundaki bir dipnot, belirli sistemlerin birlikte bulunmasını gerektiriyorsa koşullardan yalnız birinin sağlanması bütün istisnayı sağlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "4-malzeme-sinifi-ile-yapi-elemani-dayanimi-ayni-sey-degildir",
+      "metin": "4. Malzeme sınıfı ile yapı elemanı dayanımı aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Ek-2 tabloları malzemelerin yangına tepki özelliklerini, Ek-3 tabloları ise yapı elemanlarının yangın karşısındaki performansını anlamak için kullanılır. Bir kaplama ürününün yangına tepki sınıfı, o kaplamayla yapılmış duvarın belirli süre boyunca bütünlük ve yalıtım sağlayacağını tek başına kanıtlamaz. Benzer şekilde bir kapı kanadının ürün belgesi, kasa, menteşe, kilit, duvar birleşimi ve montaj koşulları incelenmeden bütün kapı takımının uygunluğuna dönüştürülemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu ayrım için ürün performans beyanı, sınıflandırma veya deney raporu, sistem detayı ve uygulama kaydı birlikte aranır. Eksik teknik belge varsa gözlemsel tespit ile kanıtlanmış yangına dayanım arasında açık ayrım yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "5-varsayimsal-uygulama-ayni-yapida-buro-hazirlama-ve-depo",
+      "metin": "5. Varsayımsal uygulama: Aynı yapıda büro, hazırlama ve depo"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yapının zemin katında malzeme hazırlama, arka bölümünde depolama ve üst katında büro bulunduğunu düşünelim. İşletmenin tamamı ruhsat dosyasında tek bir ticari adla geçiyor olabilir. Buna rağmen malzeme hazırlama alanının fiili işlemleri ve depodaki ürünlerin niteliği belirlenmeden bütün bina için büro satırını seçmek doğru değildir. Bu hata önce tehlike sınıfını, ardından kompartıman alanı ve söndürme sistemi değerlendirmesini etkileyebilir. Büro katının kişi hesabını depo katsayısıyla yapmak da kaçış kapasitesini hatalı gösterebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu örnek bir uygunsuzluk hükmü değildir. Sonuç; onaylı projeler, izinli kullanım, alan ve kat bilgileri, depolanan malzeme ve miktarlar ile gerçek kaçış düzeni görülmeden verilemez. Gerekirse her farklı kullanım bölümü ayrı incelenir ve ortak kaçış ile ortak sistemlere etkisi ayrıca değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yururlukteki-metin-bakanlik-kilavuzu-ve-yeni-taslak-nasil-kullanilir",
+      "metin": "6. Yürürlükteki metin, Bakanlık Kılavuzu ve yeni taslak nasıl kullanılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hukuki değerlendirmede esas, işlem tarihinde uygulanabilir yürürlükteki yönetmelik ve ilgili değişikliklerdir. Bakanlığın Kılavuzu, tablo ve örneklerin teknik yorumunu kolaylaştırır; yönetmeliğin yerine geçmez. Yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağındaki tablo, sınıflama veya uygulama koşulları ise henüz yürürlükteki bir zorunluluk olarak kullanılamaz. Taslakta görülen bir farklılık, çalışma notunda açıkça “taslak önerisi” olarak ayrılır; kesin uygunluk kararına doğrudan aktarılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle yeni ve mevcut bina ayrımı, yapının izin ve kullanım geçmişi ile değerlendirilir. Yeni taslakta bir tablonun satırı veya dipnotu değişmişse bu fark izlenebilir; ancak bugünkü raporda hangi yürürlükteki hükmün uygulandığı belirsiz bırakılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "7-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "7. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapı ruhsatı, yapı kullanma izni, onaylı mimari ve yangın projeleri ile tarihli revizyonları toplar. Projede kullanılan ek tablonun hangi bina, kat veya mahal bilgisine dayanılarak seçildiğini izler. Fiili kullanım, depo düzeni, üretim faaliyeti, kullanıcı sayısı, koridor ve çıkışların durumu ile projedeki varsayımları karşılaştırır. Ürün ve sistem belgelerinde yazan sınıflandırma ile uygulama yerinin aynı olup olmadığını kontrol eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir raporda “Ek-5/B’ye uygun” ifadesi bulunmasına rağmen hangi kullanım satırının, kaçış yönünün ve sistem koşulunun esas alındığı gösterilmiyorsa YGU, bu sonucu doğrudan tekrar etmez. İlgili hesap veya projeyi, revizyon numarasını ve dayanak verileri ister. Sahada farklı bir faaliyet veya kapatılmış bir kaçış güzergahı varsa bulguyu mahal, fotoğraf, proje paftası ve gerekçesiyle kaydeder. Tablonun yanlış seçildiği kesinleşmeden, belgesiz varsayımdan nihai uygunsuzluk kararı üretmez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU’nun gözlemsel incelemesi; yetkili mimar ve mühendislerin yeniden tasarımını, yangına dayanım deneyini, hidrolik hesabını, elektriksel ölçümünü veya yetkili idarenin proje onayını ikame etmez. Teknik hesap, deney, muayene ve onay gerektiren konularda ilgili yetkili kişinin imzalı belgesi aranır. Mesleki görev ve yetki kapsamı yürürlükteki düzenlemelerle belirlenir; taslak düzenleme tek başına yeni yetki doğurmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ek tablo seçimindeki en önemli kontrol, “hangi tablo?” sorusundan önce “hangi yapı ve hangi gerçek koşul?” sorusunu cevaplamaktır. Doğru tabloyu yanlış mahal için seçmek, yanlış tabloyu doğru mahal için seçmek kadar yanıltıcıdır. Sağlam bir değerlendirme, uygulanabilir mevzuat sürümünü, tablo satırını, dipnotunu, proje varsayımını ve saha kanıtını aynı karar zincirinde görünür kılar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

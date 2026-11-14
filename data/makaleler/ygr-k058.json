@@ -1,0 +1,141 @@
+{
+  "kod": "YGR-K058",
+  "yol": "yangin-damperi-icin-urun-sinifi-ve-uygulama-detayi-birlikte-nasil-okunur",
+  "baslik": "Yangın damperi için ürün sınıfı ve uygulama detayı birlikte nasıl okunur?",
+  "ozet": "Bir yangın damperinin performans etiketi, ürünün hangi koşullarda sınıflandırıldığını gösterir; damperin sahada aynı koşullarda monte edildiğini ise tek başına kanıtlamaz. Değerlendirme, ürün ile kanalın geçtiği yangın ayırıcı duvar veya döşemenin birlikte ele alınmasını gerektirir.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-kanalin-gorevini-ve-gecis-noktasini-belirleyin",
+      "metin": "Önce kanalın görevini ve geçiş noktasını belirleyin"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk soru, damperin hangi tesisata ait olduğudur. Normal havalandırma kanalı, duman kontrol kanalı ve kaçış yolunu koruyan basınçlandırma kanalı aynı işlevi görmez. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, birden fazla yangın kompartımanına hizmet veren hava santrallerinin üfleme ve emiş kanallarında yangın damperini düzenler; kompartıman geçişleri ve korunumlu şaft bağlantıları için de özel hükümler içerir. Buna karşılık basınçlandırma sistemi kanallarında yangın damperi kullanılmaz. Bu nedenle bir kanalı yalnız görünüşüne bakarak damperli veya dampersiz kabul etmek doğru değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı mekanik tesisat projesinde kanalın güzergahı, hizmet ettiği mahaller, kompartıman sınırı ve geçiş detayı okunur. Ardından aynı noktalar sahada izlenir. Tadilatla açılmış yeni bir kanal deliği, farklı bir duvar türü veya değişmiş şaft bağlantısı, ürünün belge kapsamı ile uygulama arasındaki ilişkiyi yeniden incelemeyi gerektirebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "urun-sinifi-hangi-bilgiyi-verir",
+      "metin": "Ürün sınıfı hangi bilgiyi verir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın damperlerinde sınıflandırma, ürünün test edilen koşullardaki yangına dayanım performansını açıklar. TS EN 13501-3 kapsamında kullanılan E, I ve S göstergeleri sırasıyla bütünlük, ısı yalıtımı ve duman sızıntısı performansını ifade eder. Süre değeri ile düşey/yatay montaj ve yangına maruz kalma yönü gibi ilave işaretler, sınıfın hangi düzen için geçerli olduğunu anlamaya yardım eder. Etikette yazan bir sınıfın, her duvar ve her montaj biçimi için geçerli olduğu varsayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Ürünün performans beyanı, sınıflandırma raporu ve üreticinin montaj talimatı birlikte okunmalıdır. Belge üzerinde ürün modeli, ölçü aralığı, duvar veya döşeme tipi, asgari taşıyıcı yapı özellikleri, montaj konumu, sabitleme biçimi ve çevre boşluğunun nasıl kapatılacağı aranır. TS EN 15650 ürün gereklerini, TS EN 1366-2 yangına dayanım deneyini, TS EN 13501-3 ise sınıflandırma çerçevesini tanımlar. Belgelerin varlığı kadar, sahadaki somut kurulumla eşleşmesi önemlidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 58. Yangın ayırıcı bölmeden geçen kanal ve damperin birlikte değerlendirilmesi (özgün taslak çizimi; yalnız yazım düzeltmesi yapılmıştır).",
+      "src": "/img/makale/ygr-k058-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "montaj-detayi-neden-ayri-bir-kanittir",
+      "metin": "Montaj detayı neden ayrı bir kanıttır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Damper kanadının komutla kapanması, duvar ile gövde arasındaki boşluğun uygun biçimde kapatıldığını göstermez. Aynı şekilde doğru bir yangın durdurucu uygulaması da kanadın kapandığını, konum geri bildiriminin alındığını veya otomasyon senaryosunun çalıştığını kanıtlamaz. Bu iki konu ayrı kayıtlarla doğrulanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir tesisatta kanal kesiti büyütülürken eski damper korunmuş olabilir. Bu durumda damperin ölçüsü kadar, yeni açıklığın duvar içindeki konumu, tespit elemanları, açıklık dolgusu ve bakım erişimi incelenir. Üretici belgesinde yer almayan bir dolgu malzemesini yalnız “yangına dayanıklı” olarak tanımlamak, sistemin uygunluğunu ispatlamaz. Bu örnek, gerçek bir olay kaydı değil, saha değerlendirme mantığını gösteren varsayımsal bir durumdur."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-saha-arasinda-kurulacak-kontrol-zinciri",
+      "metin": "Belge ile saha arasında kurulacak kontrol zinciri"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "İstenen kanıt",
+        "İnceleme odağı"
+      ],
+      "satirlar": [
+        [
+          "Sistemin görevi",
+          "Onaylı mekanik proje, yangın senaryosu",
+          "Normal havalandırma, duman kontrolü ve basınçlandırma ayrımını yap."
+        ],
+        [
+          "Ürün ve sınıf",
+          "Etiket, performans beyanı, sınıflandırma raporu",
+          "Model, sınıf, ölçü ve uygulanabilir montaj koşullarını eşleştir."
+        ],
+        [
+          "Duvar ve geçiş",
+          "Proje kesiti, üretici montaj talimatı, uygulama kaydı",
+          "Duvar türü, kalınlığı, tespitler ve çevre dolgusunu karşılaştır."
+        ],
+        [
+          "İşlev ve bakım",
+          "Yetkili test raporu, bakım ve arıza kayıtları",
+          "Kapanma, kumanda ve geri bildirim kanıtını montaj kanıtından ayrı değerlendir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı mekanik ve yangın projeleri, ruhsat ve kullanım izinleri ile varsa tadilat kayıtlarından başlar. Damperin yer aldığı mahallin güncel kullanımını, kompartıman sınırını ve kanalın hangi sisteme hizmet ettiğini belirler. Sahada damper etiketi, erişilebilirlik, montaj yönü, duvarla birleşim, açıklık dolgusu ve görülebilen bağlantıları kayıt altına alır; üretici belgeleriyle ve ilgili proje detayıyla karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Belge eksikse veya saha uygulaması belgedeki kurulum kapsamıyla eşleştirilemiyorsa bu belirsizlik, konum ve kanıt eksikliği belirtilerek gerekçeli rapora yazılır. Örnek tespit: “Damperin ürün sınıflandırması sunulmuştur; ancak duvar–gövde birleşiminin üreticinin izin verdiği montaj düzeniyle eşleştiğini gösteren detay ve uygulama kaydı ibraz edilmemiştir.” Böyle bir bulgu, tek başına damperin işlevsiz olduğunu kanıtlamaz; uygunluğun hangi yönünün doğrulanamadığını gösterir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU gözlemsel inceleme ve belge değerlendirmesi yaparken tasarım hesabı, ürün deney ve sınıflandırması, elektriksel işlev testi veya ölçüm gerektiren doğrulamaları kendiliğinden üstlenmiş sayılmaz. Bu işlemler ilgili yetkinlik ve sorumluluğa sahip proje müellifi, uygulayıcı, test kuruluşu veya yetkili teknik kişilerce yürütülür. Uzman, sunulan sonuçların ilgili mahal ve damperle eşleşip eşleşmediğini denetler; yetkisi dışında bir onay veya ölçüm sonucu üretmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın damperinde doğru soru yalnız “Kanat kapanıyor mu?” değildir. “Bu model, bu duvar veya döşeme türünde, bu açıklık ve bağlantı ayrıntısıyla kullanılabilir mi; işlevi ayrıca doğrulanmış mı?” soruları birlikte yanıtlanmalıdır. Ürün sınıfı, montaj kapsamı ve saha kanıtı birbirini tamamlamadıkça geçişin yangın ayırma performansı hakkında kesin olumlu değerlendirme yapılmamalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "TS EN 15650 - Binalarda Havalandırma - Yangın Damperleri"
+    },
+    {
+      "metin": "TS EN 1366-2 - Servis Tesisatları İçin Yangına Dayanıklılık Deneyleri - Yangın Damperleri"
+    },
+    {
+      "metin": "TS EN 13501-3 - Yapı Mamulleri ve Yapı Elemanlarının Yangın Sınıflandırması"
+    }
+  ],
+  "sonNotlar": []
+}

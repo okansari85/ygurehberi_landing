@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K191",
+  "yol": "mevcut-binada-dairesel-kacis-merdiveni-hangi-sinirlara-tabidir",
+  "baslik": "Mevcut binada dairesel kaçış merdiveni hangi sınırlara tabidir?",
+  "ozet": "Mevcut bir binada dairesel veya spiral biçimli bir merdivenin bulunması, bu merdivenin kendiliğinden uygun bir kaçış merdiveni olduğu anlamına gelmez. Merdivenin hangi kullanıcıya hizmet ettiği, nereden başlayıp nereye ulaştığı, basamak ve sahanlık geometrisi, korunumu ve binanın onaylı proje geçmişi birlikte incelenir. Yangın Güvenlik Uzmanı (YGU) için ilk soru “spiral merdiven var mı?” değil, “bu merdiven yangın anında hangi kaçış işlevini üstleniyor?” olmalıdır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "dairesel-merdiven-ile-kacis-merdiveni-ayni-kavram-degildir",
+      "metin": "Dairesel merdiven ile kaçış merdiveni aynı kavram değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Dairesel merdiven, basamakların dönerek yükseldiği geometrik bir düzeni anlatır. Kaçış merdiveni ise bir tahliye güzergahının parçasıdır ve ilgili mevzuatın kullanım, kapasite, boyut, korunum ve çıkış koşullarını karşılaması beklenir. İşletme içinde iki kat arasında kullanılan dar bir spiral merdivenin varlığı, aynı merdivenin bağımsız kaçış yolu olarak kabul edilebileceğini göstermez. Tersine, bir merdivenin dar görünmesi de yalnız gözlemle mevzuata aykırılık hükmü kurmak için yeterli değildir; hangi hükmün o yapı ve o kullanım için geçerli olduğu belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Değerlendirmede merdivenin yalnız en dar noktasına veya yalnız genel çapına bakılmaz. Kullanılabilir geçiş genişliği, basamakların yürüyüş hattındaki ölçüleri, rıhtların sürekliliği, baş kurtarma yüksekliği, korkuluk ve küpeşte düzeni, sahanlıklar, kapı açılımları ve merdivenin alt ve üst bağlantıları birlikte ele alınır. Bu özellikler yerinde ölçüm ve onaylı çizim karşılaştırması gerektirir. Teknik ölçüm ve proje uygunluğu değerlendirmesi, yetkili meslek mensuplarının sorumluluğu ile karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-bina-statusu-sinirsiz-istisna-yaratmaz",
+      "metin": "Mevcut bina statüsü sınırsız istisna yaratmaz"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapının ilk ruhsat ve onay tarihleri, yapı kullanma izin belgesi, sonraki tadilatlar ve fiili kullanım değişiklikleri ayrı ayrı araştırılır. Mevcut bina hükümlerinin uygulanması, bütün eski merdivenlerin koşulsuz kabulü demek değildir. Sonradan artırılan kullanıcı yükü, bölünen bağımsız bölümler, değişen faaliyet veya kapatılan başka bir çıkış, merdivenin kaçış düzenindeki rolünü değiştirebilir. Bu nedenle ilk projede tali bağlantı olarak görünen bir merdivenin bugün zorunlu çıkış hesabına dahil edilip edilmediği özellikle sorgulanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik kapsamında kaçış yolları ve merdivenlere ilişkin hükümler ile mevcut yapılara yönelik hükümler birlikte değerlendirilir. Yalnızca mevcut bina maddesine bakarak geometrik koşulları göz ardı etmek veya yeni bina için öngörülen bir ölçüyü yapının statüsünü araştırmadan doğrudan uygulamak aynı derecede sakıncalıdır. Sonuç, yapı dosyası ve somut kullanım üzerinden gerekçelendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-saha-neden-farklilasir",
+      "metin": "Proje ile saha neden farklılaşır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eski projede dairesel merdivenin önünde açık görünen sahanlık, işletmede dolap veya makineyle daralmış olabilir. Merdivenin üst kat kapısı kilitlenmiş, alt çıkışı başka bir mahalden geçmeye başlamış ya da kullanıcı sayısı artmış olabilir. Bir başka olasılık, ilk projede bulunan ikinci çıkışın kapatılması ve dairesel merdivenin fiilen tek alternatif haline gelmesidir. Bunlar örnek kontrol senaryolarıdır; herhangi bir gerçek olaya ilişkin iddia değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahadaki bulgu yalnız “merdiven dar” biçiminde yazılmamalıdır. Merdivenin hangi katları bağladığı, hangi kullanıcı grubunun onu kullandığı, projede hangi işlevle gösterildiği, yerinde hangi değişikliğin görüldüğü ve karar için hangi ölçü veya belgeye ihtiyaç duyulduğu açıkça belirtilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "kontrol-dosyasinda-hangi-kayitlar-tutulmali",
+      "metin": "Kontrol dosyasında hangi kayıtlar tutulmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Aranacak kanıt",
+        "Değerlendirme sorusu"
+      ],
+      "satirlar": [
+        [
+          "Yapı statüsü",
+          "İlk ruhsat, onaylı proje, tadilat dosyası",
+          "Hangi dönemin ve hangi kullanımın hükümleri incelenecek?"
+        ],
+        [
+          "Kaçış işlevi",
+          "Kat planı, çıkış şeması, fiili güzergah",
+          "Merdiven zorunlu kaçış hesabında mı, tali bağlantı mı?"
+        ],
+        [
+          "Geometri",
+          "Ölçülendirilmiş kesit, basamak ve sahanlık çizimi",
+          "Gerekli boyutlar yetkili teknik incelemeyle doğrulanmış mı?"
+        ],
+        [
+          "Korunum ve bağlantı",
+          "Kapı, merdiven çevresi ve çıkış noktası kayıtları",
+          "Güzergah yangın ve duman etkilerine karşı nasıl korunuyor?"
+        ],
+        [
+          "İşletme değişiklikleri",
+          "Kullanım, kişi sayısı ve tadilat kayıtları",
+          "İlk onaydan sonra kaçış işlevini değiştiren durum var mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukumler-yururlukteki-hukumlerden-ayri-tutulmali",
+      "metin": "Taslak hükümler yürürlükteki hükümlerden ayrı tutulmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik taslağında mevcut yapılara ilişkin düzenleme, yürürlükteki mevcut yapı hükümleriyle aynı numara ve içerikte kabul edilemez (TASLAK). Taslakta öngörülen bir yaklaşım, henüz yürürlükte değilken merdivenin kabul veya ret gerekçesi olarak kullanılmamalıdır. Taslak değerlendirmesi ancak gelecekte yeniden kontrol gerektirebilecek başlıkların ayrı not edilmesine yarar. Mevcut bina statüsü, dairesel merdivenin geometrik sınırları ve tahliye işlevi hakkındaki nihai sonuç, yürürlükteki metin ve ilgili idarenin onaylı dosyası esas alınarak kurulmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, önce yapının ilk ruhsatını, onaylı mimari projelerini, varsa tadilat ve kullanım değişikliği belgelerini ister. Kat planında dairesel merdivenin başlangıç ve bitiş noktalarını işaretler; diğer çıkışlarla ilişkisini ve projedeki kullanım amacını belirler. Sahada merdivenin önündeki engelleri, kapıların fiili durumunu, basamak ve sahanlık düzenini, küpeşte sürekliliğini ve merdivenin güvenli alana bağlanıp bağlanmadığını gözlemsel olarak kaydeder. Belge ile saha arasındaki farkı fotoğraf, kroki ve mahal bilgisiyle izlenebilir hale getirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede iki kaçış seçeneği bulunan bir katta diğer çıkış kullanım dışı bırakılmışsa, YGU bunu “dairesel merdiven tek çıkış olarak yeterlidir” diye yorumlamaz. Değişen kaçış düzenini ve belirsiz kullanıcı yükünü rapora alır; ölçülendirme, kaçış hesabı, proje revizyonu ve idari onay gerektiren konuları ilgili yetkili tasarımcı, teknik uzman veya idareye yönlendirir. YGU’nun gözlemsel tespiti, yetkili kişinin ölçüm, hesap, tasarım veya onayının yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Rapor sonucu üç ayrı kayıtla tamamlanır: belgelerle doğrulanan mevcut durum, sahada görülen proje farkı ve karar için beklenen teknik veya idari inceleme. Böylece işletme yönetimi hangi engeli hemen kaldırabileceğini, hangi konuyu yetkili incelemeye götürmesi gerektiğini ayırt edebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binadaki dairesel kaçış merdiveninin değerlendirilmesi, yalnız merdivenin şekline veya binanın yaşına indirgenemez. Doğru yaklaşım; yapı statüsünü, onaylı kaçış kurgusunu, merdivenin geometrisini, korunumunu ve güncel işletme koşullarını aynı dosyada karşılaştırmaktır. Belirsiz ölçü ve yetki konuları kesin uygunluk hükmüne dönüştürülmeden raporlanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

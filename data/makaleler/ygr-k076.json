@@ -1,0 +1,204 @@
+{
+  "kod": "YGR-K076",
+  "yol": "yanici-sivi-depolamasinda-miktar-artisi-hangi-sinirlari-degistirir",
+  "baslik": "Yanıcı sıvı depolamasında miktar artışı hangi sınırları değiştirir?",
+  "ozet": "Bir depoda aynı ürünün varil sayısı artmış olabilir; ancak değerlendirme yalnız yeni toplam litreyi okumakla tamamlanmaz. Önce sıvının yangın tehlikesi sınıfı, sonra gerçek depolama mahalli ve kap biçimi belirlenir. Miktar artışı, bildirim ve izin gerekliliğini, depolama için öngörülen miktar sınırlarını ve projede kabul edilen yangın güvenliği düzenini ayrı ayrı etkileyebilir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "miktar-artisinda-degisen-uc-karar",
+      "metin": "Miktar artışında değişen üç karar"
+    },
+    {
+      "tip": "p",
+      "metin": "Birinci karar, depolanan sıvının sınıfıdır. Güvenlik bilgi formundaki parlama noktası ve gerekiyorsa kaynama noktası, ürünün Sınıf IA, IB, IC, II, IIIA veya IIIB kapsamında değerlendirilmesinde kullanılır. Ticari ad aynı kalsa bile ürün formülasyonu değişmişse eski sınıflandırma kaydı yeterli olmayabilir. Isıtılarak kullanılan bazı sıvılarda işletme sıcaklığı da önemlidir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci karar, depolama yeridir. Zemin seviyesindeki depo, açıkta kurulu depo, üretim alanından ayrılmış depolama bölümü, perakende satış yeri ve taşınabilir tank düzeni aynı koşullara tabi değildir. Bir miktarın bir yerde kabul edilebilir olması, başka bir mahalde de kabul edilebilir olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü karar, miktarın nasıl belgelendiğidir. Yalnız aylık tüketim veya ortalama stok yeterli değildir. İşletmenin aynı anda depoda bulundurabileceği en yüksek miktar, ürün bazında kap sayısı ve kap hacmiyle birlikte gösterilmelidir. Sevkiyat öncesi yığılma ve yeni üretim hattının hammadde kabul düzeni bu hesabı değiştirebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "bildirim-izin-ve-depolama-kapasitesi-ayni-esik-degildir",
+      "metin": "Bildirim, izin ve depolama kapasitesi aynı eşik değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yanıcı ve parlayıcı sıvıları sınıflandırır; bildirim ve izin bakımından Ek-11’de depolama yerine ve sıvı sınıfına göre değerler verir. Ek-11’deki aralıklar, bütün sıvılar için tek bir genel depolama kapasitesi tablosu değildir. Özellikle Sınıf IIIA ve IIIB için bildirim hükmündeki istisna, bu ürünlerin her koşulda sınırsız depolanabileceği şeklinde okunamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo 1. Yürürlükteki Ek-11’de yer alan depolama yeri ve miktar aralıkları (litre)."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Depolama yeri",
+        "Sınıf IA",
+        "Sınıf IB, IC ve II"
+      ],
+      "satirlar": [
+        [
+          "Zemin seviyesi ve üstündeki depo hacimleri",
+          "20–60",
+          "100–300"
+        ],
+        [
+          "Açıkta kurulu depolar",
+          "20–200",
+          "40–600"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu tablodaki değerler, ilgili bildirim ve izin hükmüyle birlikte okunur. Alt ve üst sınırların aşılması, farklı yerde depolama veya dolum işlemi bulunması durumunda idari yükümlülükler ayrıca incelenir. Öte yandan depolama odası, depo binası, üretimden ayrılmış bölüm ve taşınabilir tanklar için geçerli fiziksel koşullar ile miktar hükümleri ayrı bir kontroldür. Bir izin belgesinin bulunması, mahallin yangın ayırımı ve koruma koşullarının kendiliğinden uygun olduğunu göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-sahada-once-hangi-bilgiler-eslestirilir",
+      "metin": "Proje ve sahada önce hangi bilgiler eşleştirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek olarak bir boya işletmesinin yeni üretim hattı nedeniyle solvent stokunu artırması düşünülebilir. Bu temsili durumda önce onaylı mimari proje ve varsa depolama/yangın güvenliği projelerinde mahallin ne amaçla tanımlandığına bakılır. Ardından fiili depolama alanının sınırları, kapların türü, istif yerleşimi, komşu kullanım ve varsa yangın ayırıcı yapı elemanları sahada karşılaştırılır. Miktar artışıyla koridor, kaçış yolu veya çalışma alanına taşan geçici stok oluşmuşsa bu da ayrı tespittir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 76. Ürün sınıfı, en yüksek eşzamanlı miktar ve gerçek depolama yerinin birlikte değerlendirilmesi. Temsili çizim.",
+      "src": "/img/makale/ygr-k076-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "ilk-incelemede-eksik-kalan-kanit",
+      "metin": "İlk incelemede eksik kalan kanıt"
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo 2. Örnek stok kaydında eksik kanıtın belirlenmesi."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi",
+        "Karar için eksik kanıt"
+      ],
+      "satirlar": [
+        [
+          "Stok cetveli",
+          "Varil sayısı var; sınıf ve net hacim ayrımı yok.",
+          "Ürün bazlı sınıflandırma ve en yüksek stok miktarı."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu örnekte yalnız varil sayısından hareketle uygunluk veya uygunsuzluk kararı verilemez. Ürünlerin güvenlik bilgi formları ve gerçek hacimleri ile stok hareketleri tamamlandıktan sonra ilgili miktar ve yer koşulları karşılaştırılır. Belgelenemeyen husus, kesin uygunluk beyanı yerine açık bir doğrulama eksikliği olarak kaydedilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı ve yapı kullanma izin belgeleri, onaylı projeler, varsa depolama yeri değişikliği veya kapasite artışına ilişkin izin ve revizyon kayıtlarıyla başlar. İşletmeden güncel kimyasal envanteri, güvenlik bilgi formları, en yüksek eşzamanlı stok beyanı, kap türleri ve ilgili bakım/kontrol raporlarını ister. Bu belgelerdeki depo tanımı ile sahada kullanılan gerçek mahalin aynı olup olmadığını kontrol eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gezisinde depolamanın koridor veya üretim alanına yayılması, yangın ayırıcı kapının açık tutulması, yeni raf veya tankın mevcut yerleşimi değiştirmesi, sızıntı kontrolünün engellenmesi ve yangınla mücadele ekipmanlarına erişimin kapanması gibi gözlemlenebilir durumları kaydeder. Teknik raporda her bulgu, konum ve fotoğrafla, karşılaştırılan proje/belgeyle ve uygulanabilir hükümle ilişkilendirilir. Belgesi bulunmayan miktar hesabı için “sınır aşılmıştır” gibi kanıtsız kesin bir hüküm kurulmaz; hangi kayıtla doğrulanacağı yazılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU’nun belge ve saha uyumunu incelemesi; kimyasal analiz, patlayıcı ortam sınıflandırma tasarımı, yeni depolama projesi hazırlama, yetkili kuruluş ölçümü veya idari izin verme yetkisini kendiliğinden doğurmaz. Bu işlemler gerektiğinde ilgili yetkinlikteki kişiler ve yetkili kurumlarca yürütülür. Uzman, bu çalışmaların mevcut olup olmadığını ve bulguların giderilmesine ilişkin kanıtı izler."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-saha-karsilastirma-matrisi",
+      "metin": "Belge–saha karşılaştırma matrisi"
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo 3. Depolama miktarı artışında incelenecek kayıtlar."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Aranacak bilgi",
+        "Karşılaştırma amacı"
+      ],
+      "satirlar": [
+        [
+          "Güvenlik bilgi formları",
+          "Parlama/kaynama noktası, ürünün güncel bileşimi",
+          "Doğru sıvı sınıfını ve özel işletme koşullarını belirlemek"
+        ],
+        [
+          "Stok hareketleri ve envanter",
+          "En yüksek eşzamanlı hacim, kap türü ve sayısı",
+          "Fiili miktarı beyan edilen kapasiteyle karşılaştırmak"
+        ],
+        [
+          "Onaylı mahal ve depo planı",
+          "Bina içi/dışı konum, ayrımlar, komşu kullanım",
+          "Hangi depolama koşullarının uygulanacağını seçmek"
+        ],
+        [
+          "Bildirim ve izin dosyası",
+          "Mevcut izin kapsamı, kapasite ve revizyon yazıları",
+          "Artışın idari işlemlere etkisini izlemek"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağında aynı konu farklı madde numaralarıyla düzenlenmiş; belirli depolama koşullarında otomatik söndürme sistemine bağlı miktar artışı önerisi de yer almıştır. Bu öneri yürürlükteki düzenlemede otomatik bir kapasite artış hakkı olarak kullanılamaz. İncelemenin hukuki sonucu, yürürlükteki hükme ve yapının geçerli onay/izin kayıtlarına dayandırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "raporlama-ornegi-ve-sonuc",
+      "metin": "Raporlama örneği ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "“Depolanan solvent miktarının artırıldığı görülmüştür. Ancak ürün bazlı sıvı sınıfı, kap hacimleri ve aynı anda bulundurulan azami miktar güncel kayıtlarla doğrulanamadığından, depolama yeri ve miktar hükümlerine ilişkin karşılaştırma tamamlanamamıştır. Güncel envanter ve güvenlik bilgi formları ile onaylı depo düzeni ve izin kapsamının birlikte sunulması gerekmektedir.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak miktar artışı üç ayrı soruyu yeniden açar: Hangi ürün, hangi miktarda ve nerede depolanıyor? Bu üç bilgi kesinleşmeden yalnız stok sayısına veya eski izin dosyasına dayanarak uygunluk kararı verilmesi doğru değildir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

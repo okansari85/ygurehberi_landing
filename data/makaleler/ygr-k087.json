@@ -1,0 +1,149 @@
+{
+  "kod": "YGR-K087",
+  "yol": "mevcut-binada-yalniz-bir-katin-kullanimi-degisirse-ortak-kacisa-etkisi-nasil-incelenir",
+  "baslik": "Mevcut binada yalnız bir katın kullanımı değişirse ortak kaçışa etkisi nasıl incelenir?",
+  "ozet": "Mevcut yapılarda kullanım değişikliği, yalnız değişen bağımsız bölümün değil, ortak tahliye düzeninin de yeniden okunmasını gerektirebilir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bir-kattaki-degisiklik-neden-butun-binayi-ilgilendirir",
+      "metin": "Bir kattaki değişiklik neden bütün binayı ilgilendirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın tek katı yeni bir faaliyete ayrıldığında, kapı ve bölme düzeni aynı kalsa bile yangın güvenliği bakımından başlangıç koşulları değişebilir. Kullanıcıların binayı tanıma düzeyi, uyku halinde bulunmaları, hareket kabiliyetleri, kişi yoğunluğu ve tahliye organizasyonu yeni kullanımın niteliğine göre farklılaşır. Bu katın çıkışları ortak koridora veya merdivene bağlanıyorsa, değişiklik yalnız kat kapısında sona ermez; güvenli alana kadar uzanan kaçış zincirini etkileyebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin büro olarak kullanılan bir katın konaklama amacıyla işletilmesi, gece kullanımını ve binayı tanımayan kullanıcıları gündeme getirir. Bu durumda yalnızca yeni odaların kapılarını kontrol etmek yeterli değildir. Ortak merdivenin korunum durumu, çıkışların sayısı ve sürekliliği, katların aynı kaçış güzergahını paylaşması ve zemin kattaki son çıkış da birlikte değerlendirilmelidir. Bu, her kullanım değişikliğinde otomatik olarak yeni merdiven gerektiği anlamına gelmez; gereklilik, uygulanabilir mevzuat ve somut bina verileriyle belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "once-yapinin-statusu-ve-degisen-kullanim-belirlenir",
+      "metin": "Önce yapının statüsü ve değişen kullanım belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk adım, yapının mevcut yapı sayılmasına dayanak olan tarihli belgeleri bulmaktır. Yapı ruhsatı, onaylı mimari proje, yapı kullanma izin belgesi, varsa tadilat ruhsatı ve daha önce onaylanan yangın güvenliği projeleri bir arada incelenir. Bir katın geçmişte hangi kullanım için onaylandığı ile bugün fiilen nasıl kullanıldığı ayrı ayrı kaydedilir. Tapudaki bağımsız bölüm adı veya işletmenin ticari unvanı tek başına yangın güvenliği kullanım sınıfını belirlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 138 ve 139 uncu maddeleri, mevcut yapıların statüsü ile kullanım amacı değişikliğinin sonuçlarını birlikte düzenler. Özellikle sağlık, çocuk bakımı, eğitim, eğlence, konaklama ve tehlikeli maddeyle ilişkili sayılan kullanımlara dönüşümde diğer kısımlardaki hükümlerin uygulanması gündeme gelir. Hangi hükmün hangi alana ve ortak bölümlere uygulanacağı, dönüşümün kapsamı ve onaylı proje üzerinden gerekçelendirilmelidir. Sırf bina eski diye yeni faaliyetin bütün gereksinimleri dışında kaldığı varsayılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında kullanım amacı değiştirilen bina veya yapı bölümleri ayrıca ifade edilmiştir. Bu ifade, bölüm bazındaki değişikliğin açık biçimde ele alındığını gösteren bir taslak yaklaşımıdır; henüz yürürlükteki 139 uncu maddenin yerine geçmiş bir hüküm gibi kullanılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ortak-kacis-duzeninde-hangi-baglantilar-incelenir",
+      "metin": "Ortak kaçış düzeninde hangi bağlantılar incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Değişen kattan başlayarak bina dışındaki güvenli alana kadar kesintisiz bir güzergah izlenir. Önce yeni kullanımın kullanıcı yükü ve kat içindeki kaçış uzaklıkları belirlenir; ardından kat çıkışları, ortak koridor, merdiven girişleri, merdiven kovası ve zemin kat çıkışı birbirine bağlanır. Merdivenin yalnız yeni kata değil, üst ve alt katlardaki kullanıcılara da hizmet ettiği unutulmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Yönetmeliğin 141 inci maddesi, ilave çıkış veya kaçış merdivenlerinin yeniden düzenlenmesini gerektiren bir kullanım bulunduğunda binanın bütününün dikkate alınmasını öngörür. Bu nedenle tek kattaki yeni faaliyet, mevcut ortak merdivenin kapasitesi ve korunum koşulları bakımından bina genelinde sonuç doğurabilir. Bununla birlikte yeni bir merdiven tasarımı, boyutlandırma hesabı ve ruhsatlandırma süreci ilgili yetkili proje müellifleri ile idarenin görev alanındadır."
+    },
+    {
+      "tip": "h3",
+      "metin": "Proje ve saha karşılaştırmasında temel kontrol başlıkları"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Aranan veri / saha gözlemi",
+        "Değerlendirme amacı"
+      ],
+      "satirlar": [
+        [
+          "Yeni katın kullanımı",
+          "Onaylı kullanım, fiili faaliyet, kullanıcı profili ve kişi sayısı",
+          "Değişen kullanım sınıfı ile yeni gereksinimlerin belirlenmesi"
+        ],
+        [
+          "Kat çıkışları",
+          "Kapı sayısı, açılma yönü, kilit düzeni ve çıkışa erişim",
+          "Katın ortak kaçışa güvenli bağlanıp bağlanmadığının incelenmesi"
+        ],
+        [
+          "Ortak koridor ve merdiven",
+          "Korunum, süreklilik, engeller, kapılar ve hizmet verilen katlar",
+          "Yeni kullanımın diğer katlarla paylaştığı kaçış kapasitesinin değerlendirilmesi"
+        ],
+        [
+          "Son çıkış ve açık alan",
+          "Zemin kat güzergahı, çıkış kapısı ve dış güvenli alana erişim",
+          "Tahliyenin bina dışında güvenli biçimde tamamlanıp tamamlanmadığı"
+        ],
+        [
+          "Teknik belgeler ve kayıtlar",
+          "Tadilat projesi, yangın projeleri, test ve bakım raporları",
+          "Belge ile gerçekleşen uygulama arasındaki farkların gerekçeli kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-uygulama-is-haninda-bir-katin-konaklamaya-ayrilmasi",
+      "metin": "Varsayımsal uygulama: iş hanında bir katın konaklamaya ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir iş hanında üst katlardan biri büro kullanımından kısa süreli konaklama kullanımına dönüştürülmek isteniyor olsun. Bu, gerçek bir olayın anlatımı değil, değerlendirme sırasını göstermek için oluşturulmuş varsayımsal bir durumdur. Önce söz konusu katın onaylı kullanımını ve önerilen yeni işlevini gösteren belgeler istenir. Sonra kat içi odalar ile ortak merdiven arasındaki güzergah çizilir; aynı merdiveni kullanan diğer katların kişi yükleri ve kaçış koşulları da değerlendirmeye dahil edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemede mevcut merdivenin korunumlu olup olmadığı, yeni kullanım için çıkış sayısı ve kaçış uzaklığının uygunluğu, zemin kat çıkışının engellenip engellenmediği ve mevcut alarm, aydınlatma ile yönlendirme düzeninin yeni kullanımın gereksinimlerini karşılayıp karşılamadığı sorgulanır. Belge veya hesap eksikse, yalnız gözlemle kesin uygunluk kararı verilmez. Gerekli proje revizyonu, hesap veya sistem testi ilgili yetkili kişilerce hazırlanıp doğrulanmadan değerlendirme tamamlanmış sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), işe katın güncel kullanımını onaylı projedeki kullanım sınıfıyla karşılaştırarak başlar. Ruhsat ve izin tarihlerini, tadilat kayıtlarını, yangın güvenliği projelerini ve mevcut teknik raporları inceler. Katın fiili bölünmesini, yataklı kullanım olup olmadığını, kapı ve koridor düzenini, ortak merdivene bağlantıyı ve diğer katların aynı güzergahı kullanma biçimini yerinde gözlemler. Gerektiğinde kat planı üzerinde gözlenen farklılıkları işaretler ve fotoğrafla kayıt altına alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporun değeri yalnız “uygun” veya “uygun değil” ifadesinden gelmez. Hangi onaylı projede neyin öngörüldüğü, sahada ne bulunduğu, bunun ortak kaçışın hangi unsurunu etkilediği ve hangi belge veya hesapla sonuca gidilebileceği açık yazılır. Örneğin ortak merdivene açılan kapının projeden farklı bir kilit sistemiyle kullanıldığı görülürse, bu değişikliğin kaçış işlevine etkisi ve gereken teknik doğrulama belirtilir. Gözlemin kapsamı ile henüz doğrulanamayan hususlar birbirinden ayrılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, mimari tadilat projesini kendiliğinden onaylamaz; kaçış kapasitesi hesabını proje müellifinin yerine geçerek tasarım kararı olarak üstlenmez. Yangın algılama veya basınçlandırma sisteminin performansını yalnız görsel incelemeyle test edilmiş saymaz. Yetkili tasarımcıların, uygulayıcıların ve ölçüm ya da test kuruluşlarının belgelerini değerlendirir; eksik kanıtı talep eder ve gerekli idari işlemler için yetkili mercie yönlendirilecek gerekçeli bulguyu oluşturur. Bu ayrım, özellikle kullanım değişikliğinin bütün binayı etkilediği durumlarda önemlidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut bir binada yalnız tek katın kullanımının değişmesi, yangın güvenliği incelemesini o katla sınırlamaz. Doğru yaklaşım; kullanım değişikliğinin hukuki ve teknik kapsamını belirlemek, yeni kullanıcı koşullarını ortaya koymak ve ortak kaçışın binanın tamamındaki işlevini proje ile sahada birlikte değerlendirmektir. Bir merdivenin yeterli veya yetersiz olduğu, yalnız binanın yaşına ya da değişen kat sayısına bakılarak söylenemez. Karar, uygulanabilir hükümler, onaylı belgeler, somut saha koşulları ve gerektiğinde yetkili teknik hesaplarla desteklenmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

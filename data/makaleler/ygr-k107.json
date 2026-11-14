@@ -1,0 +1,177 @@
+{
+  "kod": "YGR-K107",
+  "yol": "toplanma-amacli-salonun-kullanici-yuku-nasil-belgelendirilir",
+  "baslik": "Toplanma amaçlı salonun kullanıcı yükü nasıl belgelendirilir?",
+  "ozet": "Kullanıcı yükü, yalnızca salondaki koltukların sayısı değildir. Yangın güvenliği bakımından esas olan, kullanım biçimine uygun hesapla ortaya konulan kişi sayısının, onaylı proje ve fiili salon düzeniyle birlikte izlenebilir olmasıdır.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bir-sayi-degil-dogrulanabilir-bir-kabul",
+      "metin": "Bir sayı değil, doğrulanabilir bir kabul"
+    },
+    {
+      "tip": "p",
+      "metin": "Toplanma amaçlı bir salon konferans, nikah, yemek, konser veya ayakta etkinlik için kullanılabilir. Aynı döşeme alanı, masa-koltuk yerleşimi ve katılımcıların ayakta bulunacağı bölümlere göre farklı kullanıcı yükleri doğurabilir. İşletmenin ilan ettiği kapasite, satışa açılan bilet sayısı veya salona yerleştirilen sandalye sayısı tek başına yangın güvenliği hesabının yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) bakımından toplanma amaçlı kullanımın sınıflandırılması, kullanıcı yükünün belirlenmesi ve kaçış düzeninin yeterliliği birbirine bağlı fakat ayrı incelemelerdir. Önce mahallin gerçek kullanım türü ve hesabın alan sınırı belirlenir; sonra kullanıcı yükü, çıkış sayısı, kapı ve kaçış yolu kapasiteleriyle birlikte değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "hesap-hangi-verilerle-kurulmali",
+      "metin": "Hesap hangi verilerle kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hesap dosyasında, salonun mimari projedeki mahal adı ve sınırları, kullanılabilir alan hesabı, sahne ve servis gibi alt alanların işlevleri, sabit veya hareketli koltuk planı, oturulan ve ayakta kullanılan bölgeler, etkinlik senaryoları ve ortak kaçış yollarını kullanan diğer mahaller gösterilmelidir. Alanın net veya brüt alınacağı, yürürlükteki tablonun ilgili satırına göre ayrıca açıklanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Ek-5/A tablosunda konferans, çok amaçlı salon, düğün salonu, sinema ve tiyatro gibi kullanımlarda 1,5 m²/kişi katsayısı bulunur. Dans salonu, bar ve benzeri yerlerde oturulan kısımlar için 1,0 m²/kişi, ayakta durulan kısımlar için 0,5 m²/kişi öngörülür. Bu katsayılar, etkinliğin gerçek niteliği belirlenmeden bütün salonlara gelişigüzel uygulanamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Düzen / kullanım",
+        "Hesap yaklaşımı",
+        "Belgelenecek kritik veri"
+      ],
+      "satirlar": [
+        [
+          "Konferans veya çok amaçlı salon",
+          "İlgili alan / 1,5 m²/kişi",
+          "Mahalin sınırı, alan hesabı, koltuk düzeni"
+        ],
+        [
+          "Dans / bar benzeri kullanımda oturulan bölüm",
+          "İlgili alan / 1,0 m²/kişi",
+          "Oturma bölgesinin sınırı ve yerleşimi"
+        ],
+        [
+          "Dans / bar benzeri kullanımda ayakta bölüm",
+          "İlgili alan / 0,5 m²/kişi",
+          "Ayakta kullanılan alanın ayrı gösterimi"
+        ],
+        [
+          "Sabit koltuklu salon",
+          "Alan hesabı ile belirli koltuk sayısı birlikte incelenir",
+          "Numaralı koltuk planı, sıra geçitleri, çıkış bağlantıları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-salon-duzen-degisince-hesap-nasil-okunur",
+      "metin": "Varsayımsal salon: düzen değişince hesap nasıl okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Net kullanım alanı 180 m² olan bir çok amaçlı salon düşünelim. Bu örnek yalnız yöntemi göstermek içindir; onaylanmış kapasite veya gerçek bir yapı verisi değildir. İlgili kullanım için 1,5 m²/kişi esas alındığında alan hesabı 180 / 1,5 = 120 kişi verir. Etkinlik düzeninde 140 koltuk kurulmuşsa belirli kişi sayısı daha yüksek olduğundan incelemede en az 140 kişilik yük dikkate alınır. Koltuk sayısının 100’e düşürülmesi ise 120 kişilik tablo hesabını kendiliğinden 100’e indirmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı mahalin başka bir etkinlikte dans salonu niteliği kazanması halinde, örneğin 60 m² ayakta bölüm ve 120 m² oturulan bölüm birbirinden ayrılarak gösteriliyorsa, bu düzen için hesap 60 / 0,5 + 120 / 1,0 = 240 kişidir. Alanlar çakıştırılmamalı, iki farklı etkinlik düzeninin kullanıcıları tek etkinlikmiş gibi toplanmamalıdır. Kullanımın gerçekten dans salonu niteliğinde olup olmadığı ve alanların doğru ayrılıp ayrılmadığı ayrıca doğrulanır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen senaryo",
+        "Hesaplanan yük",
+        "Bu sayı neyi ifade eder?"
+      ],
+      "satirlar": [
+        [
+          "180 m² çok amaçlı salon; 100 sandalye",
+          "120 kişi",
+          "Tablo hesabı, sandalye sayısından yüksek."
+        ],
+        [
+          "180 m² çok amaçlı salon; 140 sandalye",
+          "En az 140 kişi",
+          "Belirli koltuk sayısı, tablo hesabından yüksek."
+        ],
+        [
+          "60 m² ayakta + 120 m² oturulan dans düzeni",
+          "240 kişi",
+          "Yalnız bu kullanım niteliği ve alan ayrımı doğrulanırsa."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Önemli ayrım: Hesaplanan kullanıcı yükü, işletmeye kendiliğinden bu sayıda kişi alma izni vermez. Çıkış sayısı, kaçış uzaklığı, temiz geçiş genişlikleri ve diğer yangın güvenliği şartları ayrıca sağlanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-metin-ile-yeni-taslak-nasil-ayrilir",
+      "metin": "Yürürlükteki metin ile yeni taslak nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY, Ek-5/A tablosunun ilk dört satırındaki kullanım alanları için net alanı, diğer satırlardaki kullanımlar için brüt alanı esas alır. Kullanıcı sayısı belirli olan mahallerde, tablodan hesaplanan sayıdan az olmamak üzere belirli kişi sayısının dikkate alınması kuralı da geçerlidir. Bakanlığın Kılavuzu, bu hesabın kat bazında kaçış kapasitesi değerlendirmesine nasıl taşınacağını örnekler."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY TASLAĞI ise Ek-5/A sonundaki alan esasını genel olarak net alan şeklinde düzenlemeyi önermektedir. Taslakta ayrıca bazı kullanım satırları ve katsayıları değişmiştir; örneğin terminal bekleme salonları için 1,5 m²/kişi önerilmektedir, yürürlükteki tabloda bu değer 3 m²/kişidir. Bu farklar, henüz yürürlüğe girmemiş taslak hükümler olarak gösterilmeli; mevcut bir yapının hukuki uygunluğu taslaktaki değerle kesinleştirilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Her iki metinde de toplanma amaçlı kullanım sınıfı, kaçış hesabı ve salonun özel düzeni birlikte okunmalıdır. Sabit koltuklu tiyatro, sinema veya oditoryumlarda sıra içi geçişler ve ara dolaşım alanları için ayrıca özel hükümler bulunur. Bu şartlar, yalnız kullanıcı yükü hesabıyla karşılanmış sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapı ruhsatını, yapı kullanma izin belgesini, onaylı mimari ve tahliye projelerini, varsa revizyonları ve işletmenin etkinlik/oturma düzeni belgelerini birlikte inceler. Salonun projede tanımlanan kullanım sınıfını, gerçek faaliyetini ve kapasiteye esas alanları karşılaştırır. Özellikle geçici sahne, ek sandalye, masa yerleşimi, hareketli bölme ve fuaye kullanımı nedeniyle projedeki kabulün değişip değişmediğini araştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada, koltuk sıralarının ve ara dolaşım alanlarının projeyle uyumu, kapı önlerinin açıklığı, çıkışların erişilebilirliği, ortak koridorlara bağlanma biçimi ve aynı anda kullanılan komşu mahaller gözlemsel olarak değerlendirilir. Gerekli hesap, çizim veya ölçüm eksikse bunu eksiklik olarak kaydeder; projedeki hesap ile fiili düzenin hangi noktada ayrıldığını fotoğraf, plan işareti ve belge referansıyla gerekçelendirir. Yetkili tasarımcıların kapasite hesabını yeniden yapma, teknik ölçüm ve test gerçekleştirme veya projeyi onaylama görevini kendiliğinden üstlenmez."
+    },
+    {
+      "tip": "h2",
+      "id": "raporun-karar-cumlesi-nasil-kurulmali",
+      "metin": "Raporun karar cümlesi nasıl kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "“Salonda 140 sandalye bulunduğu için kapasite uygundur” ifadesi yeterli değildir. Daha denetlenebilir bir sonuç, “Onaylı tahliye projesinde esas alınan kullanıcı yükü ile güncel etkinlik düzenindeki koltuk sayısı karşılaştırılmış; mevcut düzende proje kabulünü aşan kişi yükü ihtimali belirlenmiştir. İlgili proje müellifince güncel düzenin kaçış kapasitesi ve özel salon koşulları bakımından değerlendirilmesi ve onaylı belgeyle uyumun gösterilmesi gerekmektedir” biçiminde kurulabilir. Bu, örnek raporlama dilidir; gerçek tespit yapılmadan somut uygunsuzluk hükmü kurulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Toplanma amaçlı salonda kullanıcı yükünü belgelemek; alan hesabını, oturma veya ayakta kullanım senaryosunu, proje kabullerini ve kaçış sistemini aynı kanıt zincirinde buluşturmaktır. Hesapla bulunan kişi sayısı, salonun tek başına izin verilen kapasitesi değil, yangın güvenliği tasarımının kontrol edilmesi gereken temel girdilerinden biridir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,115 @@
+{
+  "kod": "YGR-K195",
+  "yol": "mevcut-binada-itfaiye-su-verme-baglantisi-hangi-durumda-aranir",
+  "baslik": "Mevcut binada itfaiye su verme bağlantısı hangi durumda aranır?",
+  "ozet": "İtfaiye su verme bağlantısı, müdahale ekibinin uygun araç ve donanımla bina içindeki sulu yangın söndürme sistemine dışarıdan su verebilmesini sağlayan tesisat bileşenidir. Hidranttan, itfaiye su alma ağzından ve yangın dolabından işlev bakımından ayrılır. Bir binanın cephesinde iki rakorlu bağlantı görülmesi, bu bağlantının doğru hatta bağlandığını veya çalışır durumda olduğunu tek başına kanıtlamaz.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "baglantinin-islevi-ve-dogru-soru",
+      "metin": "Bağlantının işlevi ve doğru soru"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binalarda değerlendirme yalnız bina büyüklüğüne bakılarak yapılmaz. Önce yapının mevcut bina statüsü ve kullanım türü belirlenir; ardından mevcut binalara özgü hüküm ile genel teknik hüküm birlikte okunur. Böylece yeni bina için düzenlenen genel eşiğin her eski yapıya otomatik uygulanması önlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-binalara-ozgu-gereklilik",
+      "metin": "Mevcut binalara özgü gereklilik"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin mevcut binalara ilişkin 166 ncı maddesi, 97 nci madde hükümlerinin hangi mevcut yapılarda uygulanacağını ayrıca düzenler: konut ve büro haricindeki yüksek binalar ile yangın dolabı mecburiyeti bulunan ve bina kat alanı 2000 m²’den büyük binalar bu kapsamda değerlendirilir. İkinci grupta yangın dolabı mecburiyeti ile alan koşulu birlikte incelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle 97 nci maddede geçen bina oturma alanının 1000 m²’yi aşması veya cephe genişliğinin 75 m’yi aşması koşulları, mevcut bina için 166 ncı madde göz ardı edilerek tek başına sonuçlandırılamaz. Ayrıca yapının gerçekten mevcut bina sayılıp sayılmadığı, ruhsat ve yapı geçmişi üzerinden belirlenmelidir. Sonradan yapılan kapsamlı değişikliklerin niteliği ayrıca değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "baglanti-mevcutsa-teknik-olarak-neye-bakilir",
+      "metin": "Bağlantı mevcutsa teknik olarak neye bakılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Genel teknik düzenleme, sulu söndürme sistemlerine en az 100 mm nominal çaplı itfaiye su verme bağlantısı öngörür. Bağlantıda iki adet 65 mm Storz tip rakor, çek valf ve çek valf ile bağlantı arasındaki suyun kendiliğinden boşalmasını sağlayan düzenleme bulunur. İtfaiye aracının bağlantı ağzına ulaşma mesafesi 18 m sınırını aşmamalıdır. Bunlar, uygulama koşulu doğan yapı için proje ve saha incelemesinde ayrı ayrı ele alınacak teknik özelliklerdir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bağlantı ağzının dolap veya peyzaj içinde gizlenmesi, araç yanaşma yerinin otoparka dönüşmesi, rakorların kapakla korunmaması, vana konumunun belirsizliği ya da tesisatın kullanım dışı kalması işletme sırasında ortaya çıkabilecek sorunlardır. Yalnız dışarıdan görünen parçanın bulunması, sistemin besleme yönü, hidrolik yeterliliği veya işlevselliği hakkında kesin hüküm vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-inceleme-mantigi",
+      "metin": "Örnek inceleme mantığı"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin konut veya büro dışında kullanılan yüksek bir mevcut binada, 166 ncı maddenin atfı nedeniyle bağlantı gerekliliği öncelikle değerlendirilir. Buna karşılık yüksek olmayan bir mevcut yapıda yalnız büyük cephe ölçüsünden hareketle bağlantı zorunluluğu ilan edilmez; yangın dolabı zorunluluğu ve bina kat alanı birlikte araştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binanın dış cephesinin yeniden düzenlenmesi, bağlantının fiziksel erişimini ve görünürlüğünü değiştirebilir. Bu durumda öncelikli soru, bağlantının varlığı kadar itfaiye aracının ulaşımının, bağlantı yönünün ve koruma düzeninin projedeki durumla uyumlu kalıp kalmadığıdır. Cephe yenilemesi tek başına yeni bir hukuki yükümlülük doğurduğu varsayımıyla rapor yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), işe yapının ruhsat ve kullanım geçmişini, varsa tadilat izinlerini, onaylı mimari ve mekanik projeleri, yangın söndürme tesisatı şemalarını ve önceki bakım, muayene veya test kayıtlarını bir araya getirerek başlar. Belgelerdeki yapı yüksekliği, kullanım türü, yangın dolabı gerekliliği ve bina kat alanı bilgilerinin aynı yapıyı tarif edip etmediğini kontrol eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada bağlantının konumu, işaretlenmesi, araç erişimi, rakorların görünür durumu, dış müdahaleyi engelleyen sabit veya geçici unsurlar gözlemlenir. Projede işaretlenen bağlantı ile gerçek bağlantı ağzı eşleştirilir; bağlantının hangi sisteme hizmet ettiği tesisat şeması ve işletme kayıtlarıyla sorgulanır. Uygunluk konusunda belirsizlik varsa bu belirsizlik, eksik belge ve gerekli uzman incelemesi açıkça raporlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU gözlemsel tespiti ve belge karşılaştırmasını gerekçeli şekilde kayda alabilir; ancak bu faaliyet kendiliğinden hidrolik hesap yapma, basınç-debi performansını sertifikalandırma, mekanik tesisat projesini yeniden tasarlama veya yetkili idare adına onay verme yetkisi oluşturmaz. Ölçüm, test ve proje revizyonu gereken hususlar ilgili yetkili teknik kişilere ve sorumlu idareye yönlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururluk-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlük ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY değişiklik taslağının konu haritasında itfaiye su verme bağlantısı için ayrı bir düzenleme öngörüldüğü görülmektedir. Ancak taslak hükmün tam metni bu incelemede doğrulanamadığından yeni eşik, sayı veya uygulama koşulu yürürlükteymiş gibi aktarılmamıştır. Taslak kesinleşmeden mevcut binalara ilişkin yürürlükteki özel hüküm yerine geçirilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığına ilişkin ayrı taslak düzenlemeler de tek başına bugün geçerli yeni bir kontrol veya onay yetkisi oluşturmaz. Sahada kullanılan kontrol yaklaşımı, mevcut mesleki yetkiler ve geçerli mevzuat sınırında uygulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "raporlamada-sonuc-nasil-kurulmali",
+      "metin": "Raporlamada sonuç nasıl kurulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç, yalnız “bağlantı var” veya “bağlantı yok” şeklinde bırakılmamalıdır. Binanın statüsü, ilgili gereklilik koşulu, incelenen proje ve belgeler, sahada görülen bağlantı durumu, erişim engelleri, teknik test kayıtlarının varlığı ve henüz doğrulanamayan noktalar ayrı belirtilmelidir. Böyle bir kayıt, işletmecinin eksikliği gidermesine ve yetkili teknik incelemenin doğru kapsamda yapılmasına yardımcı olur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,188 @@
+{
+  "kod": "YGR-K099",
+  "yol": "algilama-gerekliliginde-ek-7-hangi-bilgileri-ister",
+  "baslik": "Algılama gerekliliğinde Ek-7 hangi bilgileri ister?",
+  "ozet": "Ek-7 bir dedektör yerleşim çizelgesi değildir. Otomatik yangın algılama sisteminin hangi yapılarda gerekli olduğuna karar verirken kullanılan bina sınıfı, yükseklik ve alan eşiklerini gösterir. Bu tabloyu doğru okumak, sistem projesini incelemenin başlangıcıdır; tek başına bir sistemin uygunluğunu kanıtlamaz.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-hangi-uc-veri-dogrulanir",
+      "metin": "Önce hangi üç veri doğrulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk veri, yapının onaylı belgelerdeki kullanım sınıfı ile sahadaki gerçek faaliyetidir. “Küçük işletme”, “ofis” veya “depo” şeklindeki ticari adlar tek başına sınıflandırma yapmaz. İkinci veri, yönetmelikteki tanımıyla yapı yüksekliğidir; bina yüksekliğiyle karıştırılmamalıdır. Üçüncü veri ise ilgili düzenlemenin esas aldığı alan büyüklüğüdür. Yürürlükteki Ek-7 “bina toplam kapalı alanı”, yeni BYKHY taslağındaki Ek-7 ise “yapı inşaat alanı” ifadesini kullanır. Bu iki terim, herhangi bir hesap gerekçesi sunulmadan aynı veri kabul edilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki 75 inci maddenin üçüncü fıkrasında yükseklik veya alan sınırının aşılması esas alınır. İki sütundaki koşullar birlikte sağlanmak zorunda değildir. “>” işareti, eşitliği değil sınırın aşılmasını anlatır. Örneğin 1.000 m² eşiği bulunan bir satırda tam 1.000 m² alan, yalnız bu ölçüt bakımından eşik aşımı değildir; yükseklik ölçütü ayrıca incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-ek-7-ile-yeni-taslak-arasindaki-fark",
+      "metin": "Yürürlükteki Ek-7 ile yeni taslak arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki tablo, yürürlükteki yönetmeliğin yargı kararları dikkate alınmış Ek-7 satırlarını ve kullanıcının ilettiği yeni BYKHY taslağındaki karşılıklarını gösterir. Taslak sütunundaki sayılar öneridir; yayımlanmış bir yükümlülük olarak kullanılmaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Yapı türü",
+        "Yürürlükteki Ek-7yükseklik / alan",
+        "Yeni BYKHY taslağı Ek-7yükseklik / alan"
+      ],
+      "satirlar": [
+        [
+          "Konut",
+          ">51,50 m / —",
+          ">12,50 m / —"
+        ],
+        [
+          "Konaklama",
+          ">6,50 m / >1.000 m²",
+          ">6,50 m / >500 m²"
+        ],
+        [
+          "Büro",
+          ">30,50 m / >5.000 m²",
+          ">6,50 m / >2.000 m²"
+        ],
+        [
+          "Depo",
+          ">6,50 m / >5.000 m²",
+          ">6,50 m / >2.000 m²"
+        ],
+        [
+          "Yüksek tehlikeli yer",
+          ">6,50 m / >1.000 m²",
+          ">6,50 m / >1.000 m²"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo notu: Alan sütununda yürürlükteki metin “bina toplam kapalı alanı”, taslak ise “yapı inşaat alanı” kavramını kullanır. Konut satırındaki tire, bu satırda ayrıca alan eşiği gösterilmediğini ifade eder."
+    },
+    {
+      "tip": "h2",
+      "id": "iptal-edilen-satirlar-neden-ayrica-incelenir",
+      "metin": "İptal edilen satırlar neden ayrıca incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlık Kılavuzu, yürürlükteki Ek-7 tablosunun kurum, ticaret, endüstri ve toplanma amaçlı binalara ilişkin belirli satırlarının Danıştay kararlarıyla iptal edildiğini açıkça belirtir. Bu satırlar, sanki halen yürürlükteymiş gibi yükseklik ve alan eşiğiyle uygulanamaz. Ancak tablodaki bir satırın iptal edilmiş olması, o binada hiçbir algılama veya uyarı tedbiri gerekmediği sonucunu da doğurmaz. Yönetmeliğin diğer hükümleri, onaylı projeler ve ilgili özel kullanım şartları ayrı değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağı bu yapı türlerini yeniden ve farklı eşiklerle düzenlemeyi önermektedir. Taslakta eğitim ve yataklı sağlık yapıları için >6,50 m veya >1.000 m²; ayakta tedavi merkezleri için >15,50 m veya >1.000 m²; ticaret yapıları için >6,50 m veya >1.000 m²; endüstriyel yapılar için >15,50 m veya >2.000 m²; toplanma yapıları için >6,50 m veya >2.000 m² öngörülmektedir. Bunlar henüz yürürlükteki Ek-7 eşikleri değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaynak okurken ayrıca bir ayrıntı vardır: Bakanlığın Mayıs 2026 güncellemeli Kılavuzunda, 75 inci madde yanındaki özet tabloda büro yüksekliği 21,50 m olarak görünürken, aynı Kılavuzun Ek-7 tablosunda ve yürürlükteki yönetmelik ekinde 30,50 m yer alır. Bu tutarsızlıkta açıklama tablosu değil bağlayıcı yönetmelik eki esas alınır; somut dosyada tereddüt sürüyorsa yetkili idareden yazılı görüş istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "tabloyu-uygulamaya-baglayan-inceleme-sirasi",
+      "metin": "Tabloyu uygulamaya bağlayan inceleme sırası"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme adımı",
+        "Aranacak somut kanıt",
+        "Yanlış karar riski"
+      ],
+      "satirlar": [
+        [
+          "Kullanım sınıfı",
+          "Ruhsat, yapı kullanma izni, onaylı mimari proje, fiili mahal kullanımı",
+          "İptal edilmiş veya yanlış yapı satırını seçmek"
+        ],
+        [
+          "Yükseklik ve alan",
+          "Kotlu kesit, kat alan çizelgesi, ruhsat eki paftalar",
+          "Yapı yüksekliği yerine bina yüksekliği almak; alan türlerini karıştırmak"
+        ],
+        [
+          "Mevzuat durumu",
+          "Yürürlükteki metin, ilgili yargı kararı etkisi, taslak ayrımı",
+          "Önerilen eşiği bugünkü zorunluluk gibi yazmak"
+        ],
+        [
+          "Sistem kapsamı",
+          "Onaylı algılama projesi, cihaz ve zon planı, bakım/test kayıtları",
+          "Sistem mevcut diye her mahalin korunduğunu varsaymak"
+        ],
+        [
+          "Raporlama",
+          "Proje–saha karşılaştırması, fotoğraf, belge adı ve eksik veri listesi",
+          "Gerekçesiz “uygun” veya “uygun değil” sonucu vermek"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-ayni-yapi-icin-iki-farkli-karar-tarihi",
+      "metin": "Örnek: aynı yapı için iki farklı karar tarihi"
+    },
+    {
+      "tip": "p",
+      "metin": "Tamamen varsayımsal bir büro binasında yapı yüksekliğinin 9 m, bina toplam kapalı alanının 2.300 m² olduğu ve taslakta kullanılan yapı inşaat alanının da ayrıca 2.300 m² olarak doğrulandığı kabul edilsin. Yürürlükteki Ek-7 bakımından bu bina, yalnız büro satırının 30,50 m ve 5.000 m² sınırlarına göre otomatik algılama eşiğini aşmaz. Yeni taslakta ise büro için öngörülen 6,50 m veya 2.000 m² sınırları aşılır. Bu fark, taslak yürürlüğe girmeden yeni eşiğe dayanılarak “mevzuata aykırılık” raporu düzenlenemeyeceğini gösterir. Bununla birlikte binanın başka hüküm, proje veya kullanım şartlarından kaynaklanan yükümlülükleri ayrıca araştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci varsayımsal örnekte, 6,50 m yapı yüksekliğine ve 1.200 m² toplam kapalı alana sahip bir konaklama yapısında, yürürlükteki 1.000 m² alan eşiği aşılmıştır. Yükseklik tam 6,50 m olsa da alan ölçütü tek başına gerekliliği doğurabilir. Kararı verirken işletmenin gerçekten konaklama amacıyla kullanıldığı ve alan hesabının doğru yapıldığı belgelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı sahibinden onaylı mimari proje, yangın algılama projesi, ruhsat ve yapı kullanma izni belgelerini, varsa tadilat projelerini ve sistemin güncel bakım/test raporlarını isteyerek başlar. Sonra kat planlarındaki mahal adlarını gerçek faaliyetle karşılaştırır: ofis olarak çizilmiş alanın depo, eğitim alanı veya konaklama bölümü olarak kullanılması, uygulanacak satırın yeniden incelenmesini gerektirebilir. Yapı yüksekliği ve alan değerlerinin hangi çizimden alındığı kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada dedektörlerin ve butonların projede gösterilen yerlerde bulunup bulunmadığı, görünür fiziksel hasar, erişim engeli, kapatılmış cihaz veya devre dışı panel uyarısı gibi gözlemsel bulgular belirlenir. Kontrol sonuçları ilgili proje paftası, mahal kimliği, tarihli fotoğraf ve teknik raporla ilişkilendirilir. Belge yoksa “uygun” kabul edilmez; ancak yalnız belge eksikliğinden hareketle cihazın teknik performansı hakkında ölçülmemiş bir kusur da kesinleştirilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu inceleme; dedektör hassasiyetini ölçme, algılama çevrimi tasarlama, kablo ve cihaz hesabı yapma, sistemin mühendislik projesini onaylama veya yetkili test kuruluşu yerine geçme anlamına gelmez. Gereken fonksiyon ve performans testleri ilgili yetkili uzman veya kuruluşun raporlarıyla doğrulanır. YGU, kendi gözlemsel bulgusunu ve incelenen belgelerin sınırını açıkça yazar; teknik yeterlilik kararı için eksik kalan ölçüm veya tasarım incelemesini ilgili disipline yönlendirir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ek-7 doğru okunduğunda yalnız “hangi sayıyı aştı?” sorusuna değil, “hangi kullanım, hangi alan tanımı, hangi yürürlük durumu ve hangi belgeyle?” sorularına birlikte cevap verir. Yürürlükteki tablodan çıkan karar, yeni BYKHY taslağındaki önerilen karardan ayrı tutulmalı; sistemin sahadaki durumu da bu iki mevzuat değerlendirmesinden bağımsız teknik kanıtlarla incelenmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,174 @@
+{
+  "kod": "YGR-K068",
+  "yol": "itfaiye-su-verme-baglantisinin-onu-kapaliysa-etkisi-ne-olur",
+  "baslik": "İtfaiye su verme bağlantısının önü kapalıysa etkisi ne olur?",
+  "ozet": "Bir itfaiye su verme bağlantısı projede doğru yerde gösterilmiş, sahada da yerinde duruyor olabilir. Ancak bağlantı ağzının önüne konulan sabit bir çiçeklik, park eden araç veya reklam ünitesi; itfaiye ekibinin yaklaşmasını, hortum bağlamasını ve sistemi kullanmasını geciktirebilir. Kontrolün temel sorusu yalnız “bağlantı var mı?” değil, “müdahale anında gerçekten kullanılabilir mi?” olmalıdır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "baglantinin-gorevi-ve-mevzuattaki-sinir",
+      "metin": "Bağlantının görevi ve mevzuattaki sınır"
+    },
+    {
+      "tip": "p",
+      "metin": "İtfaiye su verme bağlantısı, itfaiyenin dışarıdan sulu yangın söndürme sistemine su basmasına hizmet eden bağlantıdır; hidranttan ve katlardaki itfaiye su alma ağzından farklı işlev görür. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 97. maddesi, belirli bina koşullarında bağlantının bulunmasını ve teknik özelliklerini düzenler. Bu maddede itfaiye araçlarının bağlantı ağzına ulaşma mesafesi için 18 m üst sınırı vardır. Mesafe, sahadaki gerçek yaklaşım koşulları dikkate alınarak doğrulanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı hüküm bağlantının en az 100 mm nominal çapını, iki adet 65 mm Storz tip rakorunu, sistemde çek valfi ve bağlantı ile çek valf arasındaki suyu otomatik boşaltan elemanları belirtir. Bunların projede bulunması, bağlantı ağzının önündeki engelin kabul edilebilir olduğu anlamına gelmez. Mevcut binalarda uygulanabilirlik ayrıca Yönetmeliğin ilgili özel hükümleriyle değerlendirilir; her binaya aynı zorunluluk otomatik olarak yüklenmez."
+    },
+    {
+      "tip": "h2",
+      "id": "engel-yalniz-gorunurlugu-degil-kullanim-alanini-da-etkiler",
+      "metin": "Engel yalnız görünürlüğü değil, kullanım alanını da etkiler"
+    },
+    {
+      "tip": "p",
+      "metin": "Duvardaki bağlantının kapağı açıkça görülse bile hortum rakorunu çevirmek, bağlantıya güvenle ulaşmak ve ekipmanı taşımak için gerekli çalışma alanı kapanmış olabilir. Sabit peyzaj elemanı, korkuluk, tabela, yükleme rampası veya araç parkı bu bakımdan ayrı ayrı incelenir. Bağlantının konumu, önündeki serbest alan, yol ile ilişkisi ve fiili kullanım alışkanlığı birlikte kaydedilmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 68. Bağlantı ağzı ile sonradan eklenen peyzaj engeli arasındaki ilişki (eski taslaktaki özgün temsili çizim).",
+      "src": "/img/makale/ygr-k068-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-saha-neden-ayri-okunur",
+      "metin": "Proje ile saha neden ayrı okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı mekanik yangın projesi, bağlantının hangi sulu söndürme hattına bağlandığını ve öngörülen konumunu gösterir. Vaziyet veya cephe planı yaklaşım yönünü açıklarken saha incelemesi, daha sonra eklenen nesneleri ve gerçek erişim koşullarını ortaya koyar. Projede gösterilmeyen bir çiçeklik veya sonradan oluşan park düzeni, yalnızca fotoğrafla değil, plan üzerinde konumlandırılarak değerlendirilmelidir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme kaydı",
+        "Projede / belgede görülen",
+        "Sahada doğrulanacak unsur"
+      ],
+      "satirlar": [
+        [
+          "Cephe ve vaziyet planı",
+          "Bağlantı önünde açık yaklaşım alanı",
+          "Sabit peyzaj, reklam ünitesi, park düzeni ve serbest çalışma alanının güncel durumu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının ruhsat, yapı kullanma izni ve onaylı proje kayıtlarından bağlantının öngörülen yerini, hizmet verdiği sistemi ve bina için uygulanacak hükmü belirler. Ardından güncel kullanım, dış mekan düzenlemesi, araç yaklaşım güzergahı ve bağlantı ağzı çevresini yerinde inceler. Mevcut tesisat planı, bakım raporları, varsa değişiklik projeleri ve işletmenin müdahale düzeni birlikte okunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada bağlantı ağzının görünürlüğü, rakor ve kapakların fiziksel durumu, önündeki engelin sabit ya da geçici olması, itfaiye aracının yanaşabileceği güzergah ve bağlantıya fiili ulaşım kayda geçirilir. Gözlemsel ölçüler ve fotoğraflar, plan üzerinde hangi noktaya ait oldukları belirtilerek belgelenir. Bağlantının sistem içinde doğru çalıştığı, yalnız gözlemle doğrulanmış sayılmaz; bu konuda yetkili teknik kişilerin test ve bakım kayıtları aranır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, tasarımın hidrolik yeterliliğini hesaplayan mühendis, tesisatın basınç testini yapan yetkili kişi veya projeyi onaylayan idare yerine geçmez. Engel kaldırılması veya yer değişikliği gerektiren durumda, sorumlu işletmeye gerekçeli tespit iletilir; teknik çözümün ilgili proje müellifi ve yetkili taraflarca değerlendirilmesi, gerekiyorsa onay ve yeniden doğrulama belgelerinin tamamlanması istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-kanitlar-birlikte-aranmali",
+      "metin": "Hangi kanıtlar birlikte aranmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge / gözlem",
+        "Aranan bilgi",
+        "Karar bakımından önemi"
+      ],
+      "satirlar": [
+        [
+          "Onaylı mekanik yangın projesi",
+          "Bağlantı yeri, hattın işlevi, tesisat ilişkisi",
+          "Bağlantının ne için tasarlandığını gösterir"
+        ],
+        [
+          "Vaziyet ve cephe planı",
+          "İtfaiye yaklaşım yönü, bina cephesi, çevre düzeni",
+          "Projedeki erişim kabulünü ortaya koyar"
+        ],
+        [
+          "Güncel saha kaydı",
+          "Bağlantı ağzı, engel, park alanı, mesafe ve fotoğraf",
+          "Proje ile fiili kullanım farkını belgeler"
+        ],
+        [
+          "Bakım ve test belgeleri",
+          "Bağlantı elemanları ve sistemin teknik durumu",
+          "Gözlem ile performans kanıtını ayırır"
+        ],
+        [
+          "İşletme / müdahale planı",
+          "Bağlantı önünün açık tutulması, sorumlu ve takip yöntemi",
+          "Engelin yeniden oluşmasını önlemeye yardım eder"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-saha-tespiti-nasil-yazilir",
+      "metin": "Gerekçeli saha tespiti nasıl yazılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek rapor dili: “Onaylı mekanik yangın projesinde dış cephede gösterilen itfaiye su verme bağlantısının önünde, mevcut çevre düzenlemesine ait sabit bir peyzaj elemanı bulunduğu gözlenmiştir. Bağlantıya ekipmanla erişim ve çalışma alanı kısıtlanabileceğinden, bağlantı önü ve itfaiye yaklaşım güzergahının güncel plan üzerinde gösterilmesi; engelin giderilmesi ve son durumun yerinde doğrulanması gerekmektedir.” Bu ifade gerçek bir olaya ilişkin tutanak değil, gözlemsel raporlama örneğidir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenlemelerin-degerlendirmedeki-yeri",
+      "metin": "Taslak düzenlemelerin değerlendirmedeki yeri"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni BYKHY taslağının konu haritasında itfaiye su verme bağlantısı ayrı başlık olarak yer alır. Ayrı YGU yönetmelik taslağına ilişkin kontrol kayıtları da bağlantının proje, belge ve saha üzerinden incelenmesine yönelik unsurlar içerir. Bunlar yürürlükteki düzenlemelerin yerine geçen hukuki yükümlülükler olarak ele alınmaz; bağlayıcı değerlendirme, yürürlükteki hüküm ve ilgili yapının durumuna göre yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "duzeltme-sonrasi-dogrulama",
+      "metin": "Düzeltme sonrası doğrulama"
+    },
+    {
+      "tip": "p",
+      "metin": "Engel kaldırıldığında yalnız “düzeltildi” ifadesiyle dosya kapatılmaz. Aynı açıdan çekilmiş önceki ve sonraki saha fotoğrafları, güncel çevre düzeni krokisi ve bağlantıya yaklaşımın yeniden incelendiğine ilişkin kayıt birlikte saklanır. Bağlantı yeri veya boru düzeni değiştirilmişse, bu müdahalenin yetkili teknik kişilerce projelendirilip gerekli izin ve testlerle tamamlandığı ayrıca belgelenir. Böylece fiziksel erişim sorunu ile tesisatın teknik performansı birbirine karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İtfaiye su verme bağlantısının önünün kapalı olması, bağlantının varlığını ortadan kaldırmaz; fakat yangın anındaki kullanılabilirliğini zayıflatabilir. Sağlıklı inceleme, bağlantının teknik işlevini, projedeki yerini, aracın yaklaşımını ve hortum bağlama alanını birlikte değerlendirir. YGU açısından önemli olan, erişim engelini açık kanıtlarla göstermek, gerekli teknik doğrulamayı doğru uzmanlığa yönlendirmek ve düzeltmenin sahada gerçekten yapıldığını izlemektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,138 @@
+{
+  "kod": "YGR-K084",
+  "yol": "yangin-tatbikatinin-iyilestirme-ciktisi-nasil-kaydedilir",
+  "baslik": "Yangın tatbikatının iyileştirme çıktısı nasıl kaydedilir?",
+  "ozet": "Yangın tatbikatının yapıldığını gösteren imzalı bir tutanak, işletmenin hangi eksikleri giderdiğini tek başına açıklamaz. Tatbikatın asıl değeri; tahliye, haberleşme ve ekiplerin çalışmasında görülen aksaklıkların somut bir iyileştirme işine dönüşmesi ve bu işin sonuçlandırıldığının kanıtlanmasıdır.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "tatbikat-sonucu-ile-iyilestirme-kaydi-farkli-belgelerdir",
+      "metin": "Tatbikat sonucu ile iyileştirme kaydı farklı belgelerdir"
+    },
+    {
+      "tip": "p",
+      "metin": "Tatbikat formu, uygulamanın ne zaman ve hangi senaryoyla yapıldığını, katılımcıları, gözlemleri ve aksayan adımları kaydeder. İyileştirme takibi ise her bulgu için alınacak önlemi, sorumluyu, hedef tarihi ve tamamlanma kanıtını birbirine bağlar. İki kayıt aynı dosyada tutulabilir; ancak yalnızca “tatbikat başarıyla tamamlandı” yazılması, saptanan bir eksikliğin giderildiğini kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin tahliye sırasında bir çıkış kapısının kilitli olduğunun görülmesi, yalnız “çıkış kapısı açılamadı” notuyla kapatılamaz. Kapının yeri ve gözlem koşulları belirtilmeli, güvenli çıkışın sağlanması için derhal gerekli işletme tedbirleri alınmalı, sorunun nedeni yetkili kişilerce araştırılmalı ve kalıcı düzeltme belgeyle izlenmelidir. Güvenliği etkileyen eksiklik, bir sonraki yıllık tatbikatı beklemek için gerekçe değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "iyilestirme-kaydinda-hangi-bilgiler-bulunmali",
+      "metin": "İyileştirme kaydında hangi bilgiler bulunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kayıt, tatbikatın tarih ve senaryo kimliğiyle başlamalıdır. Her bulgu için mahal veya kat, gözlenen davranış, beklenen durum, riskin etkisi, yapılacak işlem, işlemi üstlenen birim, hedef tarih ve doğrulama yöntemi ayrı yazılmalıdır. Gerektiğinde fotoğraf, kat planı üzerinde işaretleme, bakım iş emri, eğitim kaydı veya yetkili teknik personelin test raporu eklenir. Katılım ve tahliye süreleri gibi veriler ancak gerçekten kaydedilmişse rapora geçirilir; sonradan tahmini rakam üretilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kayıtların durumunu “açık”, “işlemde”, “doğrulama bekliyor” ve “kapatıldı” gibi anlaşılır aşamalarla izlemek faydalıdır. Bunlar mevzuatta zorunlu tutulan özel durum kodları değil, işletme için önerilen takip düzenidir. Bir işin tamamlandığının söylenmesiyle etkinliğinin doğrulanması farklı aşamalardır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Gözlenen bulgu (temsili)",
+        "İyileştirme işi",
+        "Kapanış için aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Tahliye güzergahındaki çıkışın kullanılamaması",
+          "Geçişi güvenli hale getirme; kilit ve kapı düzenini yetkili birimce inceletme",
+          "Güncel saha fotoğrafı, bakım/onarım kaydı, güvenli kullanımın yeniden kontrolü"
+        ],
+        [
+          "Toplanma alanında kişi sayımının gecikmesi",
+          "Ekip sorumlularını ve vardiya bazlı sayım yöntemini netleştirme",
+          "Revize görev dağılımı, bilgilendirme kaydı, sonraki uygulama gözlemi"
+        ],
+        [
+          "Alarmın bir mahalde anlaşılmaması",
+          "Algılama/uyarı projesi ve mevcut işletme koşullarını karşılaştırarak teknik inceleme isteme",
+          "Yetkili teknik rapor ve uygun koşullarda yapılan doğrulama kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablodaki durumlar gerçek bir tesiste yaşandığı iddiası taşımayan, kayıt mantığını göstermek için hazırlanmış örneklerdir."
+    },
+    {
+      "tip": "h2",
+      "id": "isin-kapatilmasi-ne-zaman-savunulabilir",
+      "metin": "İşin kapatılması ne zaman savunulabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce düzeltmenin yapıldığı belgelenir, sonra aynı eksikliğin giderildiği uygun bir yöntemle doğrulanır. Eğitim eksikliği için yeni bilgilendirme ve katılım kaydı yeterli bir başlangıç olabilir; fakat ekip davranışındaki aksama için kısa bir uygulama veya yeni tatbikat gözlemi gerekebilir. Yangın alarmı, acil aydınlatma, kapı otomasyonu ya da başka teknik sistemler söz konusuysa ilgili uzmanlık ve yetkili bakım kuruluşunun test ve raporları aranır. Tatbikat gözlemi, bu sistemlerin mevzuata uygun teknik kabulünün yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Acil durum planındaki kaçış güzergahı, toplanma alanı, ekip görevlendirmesi veya haberleşme yöntemi değişmişse yalnız tatbikat raporunu güncellemek yeterli değildir; ilgili plan ve talimatların da gözden geçirilmesi gerekir. İş tamamlanmadan “uygun” işareti konulmamalı, doğrulama bekleyen bulgular açık tutulmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği incelemenin kapsamına göre önce yapının onaylı mimari ve yangın güvenliği projelerini, kullanım izinlerini, güncel acil durum planını ve önceki tatbikat kayıtlarını karşılaştırır. İşletmenin fiili kullanımını, vardiyaları, ziyaretçi yoğunluğunu, tahliyede desteğe ihtiyaç duyan kişilere ilişkin düzenlemeleri ve değişmiş mahal bağlantılarını göz önünde bulundurur. Tatbikatta saptanan bulgunun hangi proje veya işletme koşuluyla ilişkili olduğunu açıklar."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesinde çıkışın erişilebilirliği, yönlendirme işaretlerinin görünürlüğü, ekiplerin görev paylaşımı, toplanma alanındaki sayım ve tatbikat sonrasında açılmış iş emirlerinin durumu gözlemsel olarak değerlendirilir. Bulgu raporunda “görüldü”, “belge sunuldu”, “teknik doğrulama gerekiyor” ayrımı korunur. Örneğin kapı kilidinin arızalı olduğu gözlenebilir; ancak kilit sisteminin tasarımı, elektriksel testi veya teknik kabulü kendiliğinden YGU görevi sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, ilgili taslakta öngörülen görev koşulları dışında bağımsız bir resmi tatbikat onayı verme yetkisi bulunduğunu varsayamaz. Tatbikatı düzenleme ve eksikleri giderme sorumluluğu bina yönetimi ve ilgili işverenlerde kalır. Ölçüm, proje revizyonu, bakım, devreye alma ve teknik uygunluk kararı gerektiren işlemler yetkili kişi veya kuruluşların belgeleriyle desteklenir; YGU bunların varlığını ve bulguyla ilişkisini gerekçeli biçimde raporlar."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-kurallar-ve-yeni-taslak-nasil-ayrilir",
+      "metin": "Yürürlükteki kurallar ve yeni taslak nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 129. maddesi binada yılda en az bir kez söndürme ve tahliye tatbikatı yapılmasını öngörür. İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin 13. maddesi ise tatbikatın gözden geçirilmesini, görülen eksiklikler ve yapılacak düzenlemeler için tatbikat formu hazırlanmasını ve aksayan yönlere göre acil durum planının düzeltilmesini düzenler. Maden işyerleri için özel düzenleme saklıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağının 132. maddesi, bazı yapı türlerinde tatbikatın itfaiye ile birlikte planlanması ve senaryoya uygun gerçekleşmeyen tatbikatın üç ay içinde tekrarlanması gibi ilave hükümler önermektedir. Bunlar yürürlüğe girmiş zorunluluk olarak gösterilemez. Ayrı Yangın Güvenlik Uzmanlığı yönetmelik taslağı da tatbikatın planlanması ve kayıtlarına ilişkin usul önerileri içerir; mevcut hukuk düzeninde YGU’ya otomatik olarak yeni bir onay veya test yetkisi vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İyi bir tatbikat dosyası, yalnızca etkinliğin yapıldığını değil, hangi zayıflığın görüldüğünü, kimin neyi değiştirdiğini ve değişikliğin nasıl doğrulandığını da gösterir. Açık bulguların izlenmesi, güncel planla eşleştirilmesi ve kapanış kanıtının saklanması, bir sonraki tatbikatı öncekinin tekrarı olmaktan çıkarır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

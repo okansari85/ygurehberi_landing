@@ -1,0 +1,119 @@
+{
+  "kod": "YGR-K137",
+  "yol": "ayakta-tedavi-merkezi-hangi-kullanim-basliginda-degerlendirilir",
+  "baslik": "Ayakta tedavi merkezi hangi kullanım başlığında değerlendirilir?",
+  "ozet": "Bir büro katında klinik veya poliklinik açılması, yalnızca tabelanın değişmesi değildir. Muayene odaları, bekleme alanı, tıbbi işlem hacimleri ve hasta dolaşımı, binanın kullanım biçimini ve kaçış varsayımlarını etkileyebilir. Yangın güvenliği değerlendirmesinde ilk soru işletmenin ticari unvanı değil, onaylı projede hangi kullanımın kabul edildiği ve bugün mahallerin fiilen nasıl kullanıldığıdır.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kullanim-sinifi-ile-kacis-kosulu-ayni-soru-degildir",
+      "metin": "Kullanım sınıfı ile kaçış koşulu aynı soru değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 11, sağlık hizmeti amaçlı binaları kurumsal bina sınıfında ele alır; sağlık ocakları, özel klinikler, revirler, teşhis ve tedavi merkezleri ile tıbbi laboratuvarları da bu kapsamda sayar. Bununla birlikte yürürlükteki Madde 12, doktor ve diş hekimi muayenehanelerini büro binaları örnekleri arasında da belirtir. Bu nedenle “sağlık hizmeti veriliyor, öyleyse her mahal ve her durumda tek bir sınıf geçerlidir” yaklaşımı doğru değildir. Somut kullanım, onaylı proje, yapı bütünlüğü ve ilgili özel hüküm birlikte incelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Madde 52, ayakta tedavi merkezlerini büro ve bazı diğer kullanımlarla birlikte çıkış düzeni bakımından açıkça ele alır. Temel yaklaşım en az iki bağımsız kaçış merdiveni veya başka çıkış sağlanmasıdır. Tek kaçış merdivenine ilişkin istisna için yapı yüksekliğinin 21,50 m’den az olması, kattaki kullanıcı sayısının 50’den az olması, kaçış uzaklıklarının ilgili ek sınırlarını sağlaması, yapımda yanmaz ürün kullanılması ve belirtilen yanıcı madde koşulunun karşılanması birlikte aranır. Bu maddeden, tek bir ölçütün sağlanmasıyla tek merdivenin kabul edilebileceği sonucu çıkmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "bykhy-degisiklik-taslagi-ne-oneriyor",
+      "metin": "BYKHY değişiklik TASLAĞI ne öneriyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının paylaştığı BYKHY değişiklik TASLAĞI Madde 11, sağlık yapılarını “yataklı sağlık yapıları” ve “ayakta tedavi merkezleri” olarak daha açık iki alt gruba ayırır. Taslak, aile sağlığı merkezi, poliklinik, klinik, revir, dispanser, doktor ve diş hekimi muayenehanesi, teşhis ve tedavi merkezi ile tıbbi laboratuvarları ayakta tedavi merkezleri arasında sayar. Taslak Madde 12’de muayenehanelerin büro örnekleri arasından çıkarılmış olması, yürürlükteki metinle önemli bir sınıflandırma farkıdır. Bu öneri yürürlüğe girmiş bir değişiklik gibi uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak Madde 52’de ayakta tedavi merkezleri için alternatif en az iki kaçış merdiveni veya başka çıkış kuralı ve tek merdiven istisnasının birlikte aranan koşulları korunmaktadır. Taslakta “hiç yanmaz ürünler” ifadesi kullanılırken yürürlükteki metinde “yanmaz ürünler” ifadesi yer alır. Ürün sınıfına ilişkin bu ifade farkı, teknik belge ve mevzuat sürümü karşılaştırılmadan aynı anlamda kabul edilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-yanlis-siniflandirmaya-yol-acan-durumlar",
+      "metin": "Sahada yanlış sınıflandırmaya yol açan durumlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Gözlenen durum",
+        "Kontrol sorusu"
+      ],
+      "satirlar": [
+        [
+          "Büro olarak onaylı katta poliklinik",
+          "Kullanım değişikliğine ilişkin izin ve güncel mimari/tahliye projesi var mı?"
+        ],
+        [
+          "Muayene odaları yanında bekleme salonu",
+          "Kullanıcı yükü ve çıkışa ulaşım gerçek işletmeye göre değerlendirilmiş mi?"
+        ],
+        [
+          "Tıbbi laboratuvar ve işlem hacmi",
+          "Mahal işlevi, kullanılan maddeler ve teknik tesisat projeye yansıtılmış mı?"
+        ],
+        [
+          "Birden fazla bağımsız birim ortak koridor kullanıyor",
+          "Ortak kaçış yolu, kapılar ve koridor genişliği bütün kullanıcılarla birlikte incelenmiş mi?"
+        ],
+        [
+          "Hasta transferi ve hareket kısıtlılığı",
+          "Tahliye düzeni gerçek hasta profili ve personel organizasyonuyla uyumlu mu?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) önce yapı ruhsatı, yapı kullanma izin belgesi, geçerli onaylı mimari ve yangın tahliye projeleri ile varsa kullanım değişikliği belgelerini karşılaştırır. Projede “büro” yazan bir katın bugün hangi sağlık hizmetlerini verdiğini; hasta bekleme, muayene, laboratuvar, müdahale ve depolama mahallerini ayrı ayrı belirler. Fiili kullanıcı sayısı, personel ve ziyaretçi akışı, ortak koridorlar, çıkış kapıları, kaçış merdivenleri ve dışarıya ulaşım güzergahı proje üzerindeki karşılıklarıyla eşleştirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci aşamada, yangın algılama ve uyarı düzeni, acil aydınlatma, yönlendirme, yangın kapıları, kompartıman sınırları ve işletmenin bakım/test kayıtları incelenir. Projede bulunmayan bölmeler, yeni açılan kapılar, koridoru daraltan bekleme mobilyaları veya kilitlenen çıkışlar yerleri ve etkileriyle kaydedilir. Teknik sistemin ölçüm, tasarım veya resmi onay gerektiren hususlarında YGU gözlemi tek başına performans kanıtı yerine koymaz; mevcut doğrulanmış raporların kapsamını ve eksik kanıtı açıkça belirtir. Bu yaklaşım ayrıca bir mühendis onayı arandığı anlamına gelmez; yalnız doğrulanmamış teknik sonucu doğrulanmış gibi yazmama ilkesidir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-gerekceli-tespit-dili",
+      "metin": "Örnek gerekçeli tespit dili"
+    },
+    {
+      "tip": "p",
+      "metin": "“Onaylı mimari projede B-2 katı büro kullanımı olarak gösterilmektedir. Saha incelemesinde aynı katta muayene odaları, hasta bekleme alanı ve tıbbi işlem mahalleri bulunduğu görülmüştür. Kullanım değişikliğine ilişkin güncel onaylı proje/izin belgesi incelemeye sunulmamıştır. Bu nedenle mevcut kullanım sınıfı, kullanıcı yükü ve kaçış düzeninin geçerli proje ve uygulanabilir BYKHY hükümleriyle uyumu belge üzerinden doğrulanamamıştır.” Bu metin gerçek bir vakaya ait değildir; yalnız raporlama örneğidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Ayakta tedavi merkezinin değerlendirilmesi, “klinik” veya “büro” etiketini seçmekten ibaret değildir. Yürürlükteki mevzuatta kullanım sınıfı ile ayakta tedavi merkezlerine özgü kaçış hükümleri birlikte okunmalı; taslakta önerilen sınıflandırma değişikliği ayrı tutulmalıdır. YGU, kararını yapı izinleri, onaylı proje, fiili mahal kullanımı, kullanıcı yükü, kaçış bağlantıları ve doğrulanabilir teknik belgeler üzerinden gerekçelendirmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

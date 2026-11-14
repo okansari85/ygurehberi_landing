@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K186",
+  "yol": "yetkili-idareden-gorus-alinmasi-hangi-belirsizliklerde-gundeme-gelir",
+  "baslik": "Yetkili idareden görüş alınması hangi belirsizliklerde gündeme gelir?",
+  "ozet": "Bir yapının yangın güvenliği dosyasında iki farklı tarihe ait onaylı çizim bulunabilir. Tadilatla değişen kullanımın hangi belgeye dayandığı açıklanamıyor veya projede gösterilen çözümün mevzuat açısından nasıl yorumlanacağı konusunda tereddüt yaşanıyor olabilir. Böyle bir durumda yangın güvenlik uzmanı (YGU), önce eksik kanıtı gerçek yorum uyuşmazlığından ayırır; ardından soruyu doğru teknik ve idari dayanaklarla hazırlayarak yetkili görüş sürecinin izlenmesini sağlar. Her belirsizlik, kendiliğinden mevzuat görüşü gerektirmez.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "eksik-belge-ile-mevzuat-tereddudu-ayni-sey-degildir",
+      "metin": "Eksik belge ile mevzuat tereddüdü aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Onaylı yangın projesinin dosyada bulunmaması, mevcut merdivenin genişliğinin ölçülmemiş olması veya kullanım değişikliğinin belgelenememesi öncelikle kayıt ve tespit sorunudur. Bu durumlarda ilk adım, belgeyi ilgili kaynaktan istemek ve sahadaki fiili durumu somutlaştırmaktır. Bir mevzuat hükmünün yorumu üzerinde görüş alınması ise uygulanacak hüküm, yapı durumu ve yorum seçenekleri açık olduğu halde hangi yolun izleneceğine ilişkin tereddüdün devam etmesiyle gündeme gelir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin işletme, depoyu satış alanına dönüştürmüş; eski projede yalnız depolama alanı gösterilmişse sorun, öncelikle kullanımın idari ve teknik belgelerdeki karşılığının belirlenmesidir. Sadece işletme temsilcisinin “burada eskiden de satış yapılıyordu” demesi, onaylı kullanımın ispatı değildir. Diğer taraftan aynı belgeler incelendikten sonra bir düzenlemenin bu tadilata nasıl uygulanacağı konusunda farklı yorumlar ortaya çıkıyorsa görüş dosyasının hazırlanması anlamlı hale gelir."
+    },
+    {
+      "tip": "h2",
+      "id": "gorus-istemeden-once-hangi-ayrim-yapilir",
+      "metin": "Görüş istemeden önce hangi ayrım yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, tartışmayı kısa ve cevaplanabilir bir teknik soruya indirger. Soru, hangi yapı veya mahal için sorulduğunu, hangi tarihteki hangi onaylı işlemin esas alındığını ve hangi mevzuat hükmünde tereddüt bulunduğunu belirtmelidir. Birden çok konu aynı dilekçeye gelişigüzel yığılırsa idarenin hangi karara ilişkin görüş istendiğini anlaması zorlaşır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belirsizlik türü",
+        "Öncelikli inceleme",
+        "Görüş sürecindeki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Belge veya tarih eksik",
+          "Ruhsat, izin, onaylı proje, tadilat arşivi",
+          "Belge tamamlama; henüz yorum uyuşmazlığı sayılmaz"
+        ],
+        [
+          "Saha ile proje farklı",
+          "Güncel mahal, kullanım ve imalat tespiti",
+          "Farkın dayanakları ile idari işlemin belirlenmesi"
+        ],
+        [
+          "Hüküm yorumu tartışmalı",
+          "Madde lafzı, kapsam, alternatif yorumlar",
+          "Somut sorunun yazılı görüşe dönüştürülmesi"
+        ],
+        [
+          "Proje/yapım ayrımı",
+          "Mimari, mekanik, elektrik ve onay mercileri",
+          "Tereddüdün niteliğine göre muhatabın ayrılması"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-madde-5-nasil-uygulanir",
+      "metin": "Yürürlükteki BYKHY Madde 5 nasıl uygulanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 5/3, Yönetmeliğin uygulanmasında proje ve yapım ile ilgili tereddütlerde Çevre, Şehircilik ve İklim Değişikliği Bakanlığının; diğer hususlarda ise İçişleri Bakanlığının uygulamaya esas olacak yazılı görüşünün alınmasını düzenler. Dolayısıyla güncel ve bağlayıcı prosedür açıklanırken esas alınacak ayrım budur. Görüşe konu işin projelendirme ve yapım sorunu mu, yoksa başka bir uygulama sorunu mu olduğu gerekçesiyle tanımlanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 5/2 ayrıca Yönetmelikte yeterli hüküm bulunmayan teknik konularda tasarımcılar için Türk Standartları, bulunmadığı durumda Avrupa Standartları, bunlarda da düzenlenmeyen hususlarda uluslararası kabul gören standartlara başvuru yaklaşımını belirtir. Ancak standart araştırması, bir idari görüş talebinin veya onaylı proje denetiminin yerine geçmez. Mevcut bir hükmü yok saymak yahut resmi görüş varmış gibi işletmeye sonuç bildirmek doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslagindaki-gorus-sirasi-ayri-tutulmalidir",
+      "metin": "Değişiklik taslağındaki görüş sırası ayrı tutulmalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yürürlüğe girmemiş BYKHY değişiklik taslağı Madde 5/4, tereddüt halinde öncelikle ilgili idareye, çözümlenemeyen durumda büyükşehir belediyesi bulunan yerlerde büyükşehir belediyesine başvurulmasını; tereddüt devam ederse proje ve yapım için Çevre, Şehircilik ve İklim Değişikliği Bakanlığından, diğer konular için İçişleri Bakanlığından uygulamaya esas yazılı görüş alınmasını öngörür (TASLAK). Bu kademeli başvuru yolu, mevcut Madde 5/3 hükmünün yerine geçmiş veya bugün zorunlu usul olmuş gibi sunulamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir işletmenin belediyeyle yazışmış olması da tek başına Bakanlık görüşünün yerini aldığı anlamına gelmez. Belgeler ayrı adlandırılır: proje onayı, ruhsat işlemi, ilgili idarenin yazısı, üst idarenin değerlendirmesi ve uygulamaya esas yazılı görüş. Her bir belgenin kapsamı ve tarihi, ancak içeriğinden hareketle tespit edilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, görüş gerektirebilecek konular için ilk olarak bir “tereddüt kayıt fişi” oluşturur. Fişte yapı adresi ve ilgili bağımsız bölüm, ruhsat ve yapı kullanım izin bilgileri, onaylı proje numarası ve revizyon tarihi, mevcut kullanım, sahada görülen durum ve ilgili mevzuat maddesi yer alır. Hükmün lafzı ile ortaya çıkan iki yorum, hangisinin hangi teknik veya idari sonuca yol açacağı açıklanarak yazılır. Böylece yalnız “uygun mudur?” sorusu değil, değerlendirmeye elverişli bir somut olay tarif edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adımda belge hiyerarşisi korunur. Eski proje, tadilat projesi, ruhsat eki çizimler, varsa idare yazıları ve saha fotoğrafları tarih sırasına konulur; hangisinin onaylı olduğu ayrıca gösterilir. YGU tarafından düzenlenen inceleme notu, yapı sahibinin veya yetkili temsilcisinin resmi başvurusu ve idarenin verdiği yazılı cevapla karıştırılmaz. Uzman teknik dosyayı derleyebilir, eksik ve çelişkileri görünür kılabilir; idare adına bağlayıcı karar tesis edemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü adım takiptir. Başvurunun tarihi, muhatabı, evrak numarası, sorulan konu, gelen yazının kapsamı ve bu yazı sonrasında alınacak proje/uygulama kararı tek kayıt üzerinden izlenir. Görüş yalnız belirli bir projeye veya varsayıma dayanıyorsa, başka bir yapıya otomatik olarak taşınmaz. Cevap gelmeden tereddütlü konu “uygun” diye kapatılmaz; fakat kanıtlanmamış bir aykırılık da kesin hüküm gibi raporlanmaz. Mevcut ve açık yangın risklerine ilişkin makul geçici tedbirler ayrıca sorumlulara bildirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-dosya-kullanim-degisikligi-ve-iki-farkli-cizim",
+      "metin": "Örnek dosya: kullanım değişikliği ve iki farklı çizim"
+    },
+    {
+      "tip": "p",
+      "metin": "Eski ruhsatında atölye olarak görünen bir bölümün bugün yoğun ziyaretçi kabul ettiğini, sonradan çizilmiş bir tahliye krokisinin ise onay mührü taşımadığını düşünelim. İki farklı çıkış hesabı ileri sürülüyor. YGU önce onaylı mimari projeyi, kullanım değişikliği işlemine ilişkin kararları ve mevcut kullanıcı sayısı verilerini toplar. Onaylı belge bulunmadan krokilerden birini kesin proje kabul etmez. Belgeler tamamlandıktan sonra belirli bir hükmün hangi kullanım tarihi veya işlemle bağlantılı uygulanacağı tereddüdü sürerse, tarafların görüşlerini ve hükmün lafzını yan yana göstererek yazılı görüş dosyası hazırlanmasını önerir."
+    },
+    {
+      "tip": "p",
+      "metin": "Başvuruya eklenen not, görüş gelene kadar uygulamanın hangi belirsizlik nedeniyle sonuçlandırılamadığını açıkça söyler. İdare cevabı alındığında proje, aksiyon listesi ve gerekiyorsa kontrol belgeleri güncellenir. Böylece süreç kişisel kanaatlerin değişmesine değil, tarihli ve izlenebilir belgelere dayanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc-gorus-almak-eksik-tespitin-yerine-gecmez",
+      "metin": "Sonuç: görüş almak, eksik tespitin yerine geçmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Doğru soru, “Hangi makamdan bir yazı alabiliriz?” değil; “Hangi yapıda, hangi onaylı belge ve hangi mevzuat hükmü arasında çözülemeyen bir uygulama tereddüdü var?” sorusudur. Bu ayrım yapıldığında gereksiz yazışmalar azalır, karar gerekçesi görünür hale gelir ve saha kayıtları izlenebilir olur. YGU’nun katkısı tereddüdü doğru dosyalamak, mevzuat ile taslağı karıştırmamak ve verilen yazılı kararın uygulamaya nasıl yansıdığını takip etmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 5/1-3."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 5/1-4 (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 186. makale konu ve belge eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

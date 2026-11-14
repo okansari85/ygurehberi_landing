@@ -1,0 +1,140 @@
+{
+  "kod": "YGR-K088",
+  "yol": "mevcut-yapida-yeni-yonetmelik-hukumlerinin-tamami-ayni-anda-uygulanir-mi",
+  "baslik": "Mevcut yapıda yeni yönetmelik hükümlerinin tamamı aynı anda uygulanır mı?",
+  "ozet": "Hayır. Bir binanın mevcut yapı olarak değerlendirilmesi, yürürlükteki bütün yeni bina hükümlerinin kendiliğinden ve topluca uygulanacağı anlamına gelmez. Ancak bu statü, yangın güvenliği eksiklerinin görmezden gelineceği veya işletme koşulları değişse bile eski projeyle devam edilebileceği anlamına da gelmez. Karar, yapının hukuki geçmişi ve bugün nasıl kullanıldığı birlikte incelenerek verilir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "mevcut-yapi-statusu-binanin-yasindan-daha-fazlasidir",
+      "metin": "Mevcut yapı statüsü, binanın yaşından daha fazlasıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemenin ilk sorusu binanın kaç yıllık olduğu değil, hangi onaylı proje ve izin zinciriyle bugünkü kullanımına ulaştığıdır. Yapı ruhsatı, ruhsat başvuru dilekçesine ekli onaylı projeler, yapı kullanma izin belgesi, tadilat projeleri ve varsa kullanım değişikliği kararları bir arada okunmalıdır. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 138 inci maddesi, 19 Aralık 2007 tarihinden önce ilgili idarece onaylanmış ruhsat başvurusu eki projelere sahip yapıları da mevcut yapı kapsamında ele alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut yapı statüsü saptandıktan sonra ikinci soru, eski dönemde alınmış yangın tedbirlerinin hangi düzenlemeye göre uygun kabul edildiğidir. Yürürlükteki 138 inci maddenin ikinci fıkrasında, 2002 tarihli yönetmeliğe uygun yangın tedbirleri alınmış yapılarda ilave tedbir alınmamasının esas olduğu belirtilir. Bu hüküm, yalnız bina yaşına dayanarak bütün yeni hükümlerden muafiyet çıkarılmasına izin vermez; önce uygunluk dayanağının belgelenmesi gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukumde-uygulama-nasil-ayrilir",
+      "metin": "Yürürlükteki hükümde uygulama nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin mevcut binalara ayrılan kısmı, genel bir geçiş yaklaşımı kurar. Buna karşılık, 2007 sonrasında kullanım amacı değiştirilerek belirli sağlık, bakım, çocuk, eğitim, eğlence ve konaklama amaçlarına ayrılan yapılar ile tehlikeli maddelerin bulundurulacağı binalar için farklı bir uygulama alanı öngörülmüştür. Bu hallerde 138 ve 139 uncu maddeler birlikte okunmalı; yalnızca “bina eski” gerekçesiyle mevcut bina kolaylıkları otomatik uygulanmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca mevcut binalara özgü kaçış, sistem ve tesisat hükümleri ile binanın gerçek kullanımına bağlı bakım ve işletme gereklilikleri ortadan kalkmaz. Özellikle onaylı projede bulunmayan bir faaliyet, yeni bir kullanım türü veya yangın güvenliği düzenini etkileyen tadilat varsa uygulanacak hüküm yeniden belirlenir. Geçici süre verilmiş olması da süresiz bir teknik uygunluk belgesi sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bykhy-taslagi-hangi-yaklasimi-oneriyor",
+      "metin": "Yeni BYKHY taslağı hangi yaklaşımı öneriyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağının 139 uncu maddesi, mevcut yapılara ilişkin geçişi farklı bir referans üzerinden kuruyor: 2002 yerine 2007 tarihli yönetmeliğe göre yeterli kabul edilmiş yangın tedbirlerini esas alıyor (taslak). Ayrıca kullanım değişikliği bulunmayan esaslı tadilatları mevcut yapılara ilişkin hükümler içinde değerlendiriyor; kullanım amacı değişen bina veya yapı bölümlerini ve tehlikeli madde bulundurulacak binaları ayrı ele alıyor (taslak)."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslakta ilave tedbir alınmamasına ilişkin yaklaşım da mutlak değil. Örneğin yapı yüksekliği 12,50 m üzerinde olan mevcut konutlarda algılama, uyarı ve taşınabilir söndürme cihazları için hükümler öngörülüyor; elektrikli araç şarjı ve yapıya entegre güneş enerjisi sistemleri için de ayrı koşullar bulunuyor (taslak). Bunlar yürürlükteki 138 inci maddeye eklenmiş kesin yükümlülükler gibi sunulamaz. Taslak yayımlanıp yürürlüğe girmeden bu değerlerle hukuki uygunsuzluk kararı verilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "uygulama-kararini-degistiren-durumlar",
+      "metin": "Uygulama kararını değiştiren durumlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Saha durumu",
+        "İnceleme odağı",
+        "Kaçınılması gereken yanlış karar"
+      ],
+      "satirlar": [
+        [
+          "Eski otel, kullanım türü değişmemiş",
+          "Onaylı ilk kullanım, eski tedbirlerin belgesi, mevcut bina hükümleri ve güncel işletme koşulları",
+          "Bütün yeni bina maddelerini tek kalemde istemek veya hiçbir kontrol yapmamak"
+        ],
+        [
+          "Eski büro sonradan konaklama kullanımına çevrilmiş",
+          "Kullanım değişikliği onayı, ortak kaçış, kullanıcı yükü ve ilgili yeni kullanım hükümleri",
+          "“Bina eski” diyerek yeni konaklama kullanımının etkisini dışlamak"
+        ],
+        [
+          "Mevcut yapıda esaslı tadilat yapılmış",
+          "Tadilatın kapsamı, ruhsat/proje gereği, yangın bölmeleri ve sistemlere etkisi",
+          "Tadilatın yangın güvenliğine etkisini incelemeden eski uygunluk belgesine dayanmak"
+        ],
+        [
+          "Yapıya yeni şarj veya çatı enerji sistemi eklenmesi düşünülüyor",
+          "Mevcut yürürlükteki kurallar ve taslakta ayrıca önerilen koşulların ayrı değerlendirilmesi",
+          "Taslak koşullarını bugün yürürlükteymiş gibi zorunlu tutmak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-ornek-mevcut-otelde-tadilat",
+      "metin": "Varsayımsal örnek: mevcut otelde tadilat"
+    },
+    {
+      "tip": "p",
+      "metin": "2007 öncesinde onaylı projesiyle otel olarak kullanılan bir binanın giriş katında yeni bir restoran düzenlendiğini düşünelim. Otelin eski olması tek başına tüm yeni bina hükümlerinin uygulanmasını gerektirmez. Buna karşılık restoranın kapasitesi, mutfak tehlikesi, ortak koridor ve çıkış bağlantıları, algılama ve söndürme sistemleri üzerindeki etkiler ayrıca incelenir. Restoranın onaylı kullanımda zaten bulunup bulunmadığı ve değişikliğin ruhsata veya projeye bağlanıp bağlanmadığı, değerlendirme yolunu belirler. Bu örnek gerçek bir olaya değil, karar sırasını göstermeye yöneliktir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapının mevzuat dönemini belirlemeye yarayan ruhsat, onaylı mimari ve yangın güvenliği projeleri ile yapı kullanma izin belgelerini inceler. Ardından otelin bugün kullanılan mahallerini, yatak kapasitesini, ortak kaçış düzenini, restoranın fiili faaliyetini ve varsa yeni sistemleri projedeki durumla karşılaştırır. Mevcut bakım, periyodik muayene, test ve devreye alma belgeleri de ilgili sistemin gerçekten işletildiğini gösteren kanıtlar olarak değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel tespitlerde, örneğin projede kaçış koridoru olan bölümün depolamaya ayrılması veya onaylı projede bulunmayan mutfak düzeni, yer ve etkisi belirtilerek kaydedilir. Raporda “mevcut bina” ibaresi tek başına uygunluk gerekçesi yapılmaz; uygulanan hüküm, tarihli belge, proje–saha farkı ve ihtiyaç duyulan teknik doğrulama açıkça yazılır. Gerekli hesap, ölçüm, tesisat performans testi, yeni tasarım veya resmi proje onayı ise yetkili proje müellifi, ilgili teknik uzman, yetkili muayene kuruluşu ve idarenin kendi görev alanında yürütülür. YGU incelemesi bunların yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanlığına ilişkin görev ve periyodik kontrol usulleri henüz taslak düzenleme kapsamında ele alındığından, bu anlatım yeni bir hukuki yetki verildiği anlamına gelmez. Uygulamada kararın dayanağı yürürlükteki mevzuat ve yetkili idarenin usulüne uygun işlemleridir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut binada “hepsi uygulanır” veya “hiçbiri uygulanmaz” şeklindeki iki uç karar da teknik olarak eksiktir. Doğru sıra; yapının statüsünü belgelemek, kullanım ve tadilat geçmişini ortaya koymak, yürürlükteki mevcut bina hükümleriyle özel kullanım koşullarını eşleştirmek ve sahadaki farklılıkları gerekçeli olarak raporlamaktır. Yeni taslaktaki geçiş ve ek tedbirler ise ancak taslak olarak, ayrı bir değerlendirme katmanında gösterilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,128 @@
+{
+  "kod": "YGR-K124",
+  "yol": "cati-arasi-bolumlendirme-sahada-nasil-dogrulanir",
+  "baslik": "Çatı arası bölümlendirme sahada nasıl doğrulanır?",
+  "ozet": "Çatı arası, alt katlardan ayrı ve erişimi sınırlı bir hacim olabilir. Bu alandaki bir duvarın projede görünmesi, uygulamada yangın ve duman geçişini sınırlandıracak biçimde tamamlandığını tek başına göstermez. Duvarın çatı örtüsüne veya ilgili ayırıcı yapı elemanına bağlandığı üst bitiş, taşıyıcı eleman çevresi, kablo ve boru geçişleri ile sonradan açılan bakım boşlukları birlikte incelenmelidir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "cati-arasindaki-sinir-neden-onemlidir",
+      "metin": "Çatı arasındaki sınır neden önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Her çatı arasına aynı türde ve aynı dayanımda bölme duvar yapılması gerektiği varsayılmamalıdır. Önce binanın kullanım amacı, yapı özellikleri, onaylı yangın güvenliği projesi ve ilgili mevzuat uyarınca hangi ayırıcı düzenin gerekli olduğu belirlenir. Sonra sahadaki uygulamanın bu tasarımla tutarlı olup olmadığı değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-belgelerle-baslanir",
+      "metin": "Hangi belgelerle başlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari ve yangın güvenliği paftalarında çatı arası hacim sınırları, duvar kesitleri, yangın kompartımanı çizgileri ve çatıya erişim noktaları birlikte okunur. Varsa detay paftaları, ürün sınıflandırma belgeleri, uygulama tutanakları, tesisat revizyonları ve yapı kullanma iznine esas belgeler de incelenir. Duvarın yalnızca plandaki çizgisine bakarak yangına dayanım süresi veya malzeme sınıfı hakkında sonuç kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-izlenecek-kontrol-guzergahi",
+      "metin": "Sahada izlenecek kontrol güzergahı"
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrol, güvenli erişim sağlandıktan sonra çatı arasına çıkış noktasından başlar. Bölmenin bir ucundan diğerine kadar duvar hattı izlenir; üst ve yan birleşimler, taşıyıcı bağlantılar, kapaklar ve tesisat geçişleri ayrı ayrı kaydedilir. Görünmeyen veya erişilemeyen alanlar uygun kabul edilmez; “incelenemedi” olarak belirtilir ve ek belge ya da yetkili teknik inceleme istenir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Sahada aranacak kanıt",
+        "Raporlama yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "Duvarın sürekliliği",
+          "Duvar hattının projedeki sınır boyunca devam etmesi",
+          "Kesinti, açıklık ve erişilemeyen kesimleri konumuyla kaydet"
+        ],
+        [
+          "Üst ve yan birleşimler",
+          "Duvarın döşeme, çatı altı veya yan duvarla birleşim detayı",
+          "Proje detayı ile görünür uygulamayı karşılaştır"
+        ],
+        [
+          "Tesisat geçişleri",
+          "Kablo, boru, kanal çevresindeki geçiş çözümü ve belgeleri",
+          "Açık geçişi veya belgesiz uygulamayı ayrı bulgu yaz"
+        ],
+        [
+          "Bakım kapakları ve erişim",
+          "Kapak, kapı ve servis boşluklarının projedeki konumu",
+          "Sonradan açılan boşluğu ve kapanma durumunu belirt"
+        ],
+        [
+          "Malzeme ve uygulama",
+          "Sistem bileşenleri, montaj detayı ve uygunluk kayıtları",
+          "Tek ürün etiketini tüm duvar sistemi için yeterli sayma"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-saha-arasinda-uyusmazlik-nasil-yorumlanir",
+      "metin": "Belge ile saha arasında uyuşmazlık nasıl yorumlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin onaylı detayda çatı arası bölme duvarı kesintisiz gösterilmişken sahada kablo tavasının geçtiği noktada kapatılmamış bir açıklık görülürse, tespit “duvar yok” şeklinde genellenmez. Pafta referansı, mahal, açıklığın yaklaşık konumu, fotoğraf ve erişim koşulları kaydedilir. Açıklığın yangın ayırma performansına etkisi teknik inceleme gerektiriyorsa ilgili proje müellifi veya yetkili teknik uzman görüşü talep edilir. Bu örnek, gerçek bir olay kaydı değil, değerlendirme yöntemini açıklayan varsayımsal bir durumdur."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-uygulanmasinda-dikkat-edilecek-ayrim",
+      "metin": "Mevzuatın uygulanmasında dikkat edilecek ayrım"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, çatıların altında ve içinde yangının yayılma olasılığının dikkate alınmasını öngörür. Yüksek binalar ve bitişik nizam yapılar için çatıların oturduğu döşemenin yatay yangın kesici niteliği ayrıca önem taşır. Yangın kompartımanlarına ilişkin hükümler ise ayırıcı duvar ve döşemenin gerekli özelliklerini belirlemede birlikte değerlendirilir. Bu hükümler, her çatı arası bölmenin kendiliğinden belirli bir yangın dayanım sınıfına sahip olduğu anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni düzenleme taslaklarında yer alan öneriler yürürlükteki zorunluluk gibi uygulanamaz. Taslak ile mevcut düzenleme arasındaki olası fark, özgün taslak hükmü görülmeden kesin bir teknik eşik veya yeni yükümlülük olarak rapora taşınmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği incelemede önce onaylı proje ve izin belgelerini, çatı arasının fiili kullanımını ve sonradan yapılan tesisat değişikliklerini birlikte ele alır. Çatı arası bölme duvarının projedeki konumunu sahada izler; geçişler, üst birleşimler ve bakım açıklıkları için gözlemsel bulguları belgelerle karşılaştırır. Raporunda uygun görülen ve görülemeyen noktaları ayırır; eksik belge, kapatılmamış açıklık veya proje dışı değişiklik için gerekçeli tespit yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, yalnızca gözlem yaparak gizli yapı katmanlarının yangın dayanımını sertifikalandırmaz; ölçüm, yangın dayanım deneyi, statik tasarım, tadilat projesi hazırlama veya resmi proje onayı görevlerini kendiliğinden üstlenmez. Gereken doğrulama, ilgili yetkin ve yetkili meslek mensuplarının teknik belgesi veya incelemesiyle tamamlanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Çatı arası bölümlendirmenin doğrulanması, bir duvarın varlığını işaretlemekten ibaret değildir. Doğru değerlendirme; projede beklenen ayırıcı düzenin belirlenmesi, duvarın tüm hattının güvenli biçimde izlenmesi, geçiş ve birleşim detaylarının kanıtlarla kontrol edilmesi ve belirsizliklerin açıkça raporlanmasıyla yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

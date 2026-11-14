@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K177",
+  "yol": "yanici-sivilarin-bina-icindeki-farkli-kaplarda-depolanmasi-neden-onemlidir",
+  "baslik": "Yanıcı Sıvıların Bina İçindeki Farklı Kaplarda Depolanması Neden Önemlidir?",
+  "ozet": "Bir işletmede aynı yanıcı sıvı küçük bidonlarda, varillerde ve taşınabilir tanklarda bulunabilir. Kapların ayrı raflarda veya farklı hacimlerde tutulması, depolamanın kendiliğinden güvenli ya da mevzuata uygun olduğu anlamına gelmez. Yangın güvenlik uzmanı (YGU), sıvının niteliğini, kapların özelliğini, her mahaldeki miktarı ve depolamanın yürütüldüğü yerin koşullarını birlikte incelemelidir. Önemli olan yalnız kap sayısı değil, hangi ürünün nerede, hangi miktarda ve hangi düzen içinde bulundurulduğudur.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-kaplari-degil-siviyi-ve-kullanim-amacini-siniflandirin",
+      "metin": "Önce kapları değil, sıvıyı ve kullanım amacını sınıflandırın"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 113, yanıcı ve parlayıcı sıvıları parlama noktası ve ilgili diğer özellikleri üzerinden sınıflara ayırır. Sınıf I sıvılarla Sınıf II, IIIA ve IIIB sıvıların aynı değerlendirmenin içine gelişigüzel konulması doğru değildir. Ürünün güvenlik bilgi formu (GBF/SDS), depolama sıcaklığı ve kullanım süreci birlikte okunmalı; gerektiğinde sınıflandırma uzman tarafından doğrulanmalıdır. Ambalajın metal varil veya plastik bidon olması, içindeki sıvının tehlike sınıfını tek başına belirlemez."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci ayrım, malzemenin üretimde günlük kullanım için mi, ayrılmış bir depo odasında mı, bağımsız depo binasında mı veya perakende satış alanında mı tutulduğudur. Bu alanlara ilişkin miktar ve yapı koşulları aynı değildir. Örneğin üretim alanında kullanılan bir kap ile depo odasında yedek tutulan çok sayıda kap aynı envanterde izlenebilir; ancak uygunluk koşulları bulundukları mahale göre değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "farkli-kaplar-neden-ayri-ayri-ve-toplam-olarak-kaydedilir",
+      "metin": "Farklı kaplar neden ayrı ayrı ve toplam olarak kaydedilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sıvının 20 litrelik bidon, 200 litrelik varil veya daha büyük taşınabilir tank içinde bulunması; elleçleme biçimini, dökülme ihtimalini, aktarma sıklığını ve yerleşim ihtiyacını değiştirir. Bu örnek hacimler izin verilmiş sınırlar değildir. Kap malzemesi, ürünle uyumluluk, kapak ve vana durumu, hasar, sızıntı, ikincil muhafaza ve kaldırma-taşıma şekli teknik incelemenin parçasıdır. Orijinal ambalaj koşulu aranan yerde sonradan başka kaba aktarma yapılmış olması ayrıca araştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU her kap türü için adet, nominal hacim, fiili doluluk bilgisi, ürün kimliği, depolama mahali ve kullanım amacını kayıt altına alır. Toplam miktar, aynı hacimde bulunan diğer sıvı sınıflarıyla birlikte değerlendirilir; sadece en büyük kaba veya her bir rafın ayrı toplamına bakılmaz. İçeriği tam boşaltılmamış kaplar da sıfır tehlikeli kabul edilmez. Stok kayıtları ile fiziksel sayım farklıysa, bu fark açıklığa kavuşmadan kesin bir uygunluk sonucu yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yerlesim-ve-mevzuat-sinirlamalari-birlikte-nasil-okunur",
+      "metin": "Yerleşim ve mevzuat sınırlamaları birlikte nasıl okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY Madde 115, sıvıların hangi ortak kullanım ve kaçış alanlarında depolanamayacağını ve belirli kullanımlar için depolama koşullarını düzenler. Ayrı depo binalarına ilişkin Madde 118 ise bina yapısı, kat kullanımı, yığın düzeni ve çeşitli sınıfların bir arada bulunması hakkında hükümler içerir. Madde 118/2, farklı tehlike sınıflarındaki sıvıların aynı kapalı hacimde bulundurulmasını tek tek kap sayısı üzerinden değil, sınıflar arası miktar ilişkisi ve en yüksek tehlike sınıfı esaslarıyla ele alır. Ek-12/A ve Ek-12/B tabloları ilgili depo ve üretim koşullarında ayrıca incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle bir üretim işletmesindeki kapların “hepsi kapalı ve raflı” olması yeterli bir gerekçe değildir. Depo binasının yangın dayanımı, bodrum kat kullanımı, tehlike bölgesi, kaçış yollarının açıklığı ve diğer hacimlerden ayrımı projesiyle karşılaştırılır. Dökülme ve buhar yayılımı riski, kapların etrafındaki elektrikli ekipman, havalandırma ve aktarma noktaları da teknik risk değerlendirmesinde ele alınır; bunlar yalnız gözle bakılarak hesaplanmış kabul edilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ygu-icin-kayit-ve-karsilastirma-matrisi",
+      "metin": "YGU için kayıt ve karşılaştırma matrisi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt başlığı",
+        "İstenen belge / veri",
+        "Sahada karşılaştırma"
+      ],
+      "satirlar": [
+        [
+          "Ürün ve sınıf",
+          "Güncel kimyasal envanteri, GBF/SDS",
+          "Ürün adı, etiket, kullanım sıcaklığı, karışan sınıflar"
+        ],
+        [
+          "Kap ve miktar",
+          "Kap/ambalaj listesi, stok hareketleri",
+          "Bidon, varil, tank; adet, hacim, doluluk, sızıntı"
+        ],
+        [
+          "Depolama mahali",
+          "Onaylı yerleşim / depo planı",
+          "Oda, kat, raf, yığın, üretim-depo ayrımı"
+        ],
+        [
+          "Koruyucu düzen",
+          "Proje, teknik değerlendirme, bakım kayıtları",
+          "Geçişler, havalandırma, sızıntı tutma, ekipman yakınlığı"
+        ],
+        [
+          "Revizyon ve izleme",
+          "Stok sayım tutanağı, değişiklik ve iş emri",
+          "Yeni ürün/kap, taşınan stok, kapatılan bulgu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesi ürünün GBF/SDS bilgisi ve güncel stok dökümüyle başlar. YGU depolama alanlarını kat ve mahal bazında dolaşır; kapların etiketini, konumunu, miktarını, hasar durumunu ve fiili kullanımını kayıtla karşılaştırır. Depo odasındaki variller ile üretim hattı yanındaki günlük kullanım kaplarını ayrı satırlarda izler. Aynı madde için farklı birimler kullanılıyorsa miktarlar tutarlı bir birime çevrilir; litre ile kilogramın doğrudan eşit sayılamayacağı dikkate alınır. Kapların arasında bırakılan geçiş, kapı önleri ve tahliye güzergahları fotoğraf ve plan koduyla belgelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Miktar sınırları, sınıfların beraber depolanması, patlayıcı ortam ve mühendislik sistemleri bakımından teknik hesap ya da yetki gerektiren hususlar ilgili uzmanların değerlendirmesine bırakılır. YGU, belgedeki eksikliği somutlaştırır ve düzeltmenin hangi kayıt, proje veya teknik görüşle doğrulanacağını belirtir. Sonuç cümlesi “kaplar mevcut” gibi genel bir gözlem değil, ürün–kap–mahal–miktar ilişkisinin doğrulanıp doğrulanmadığını anlatmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-degisiklik-taslagi-ve-ek-6-ayrimi",
+      "metin": "Yürürlükteki hüküm, değişiklik taslağı ve EK-6 ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 113, 115 ve 118; sıvı sınıfları, depolama şekilleri ve depo binası koşulları bakımından birlikte okunmalıdır. Henüz yayımlanmamış BYKHY değişiklik taslağında karşılıkları sırasıyla Madde 115, 117 ve 120 başlıklarında yer alır (TASLAK). Önemli fark: yürürlükteki Madde 118/1 Sınıf II sıvıların bodrum katta depolanmasını yasaklarken, taslak Madde 120/1 bunu uygun otomatik söndürme sistemi bulunmayan binaların bodrum katları yönünden ifade eder (TASLAK). Bu taslak ifade yürürlükteki iznin genişlediği şeklinde uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU düzenlemesine ilişkin yayımlanmamış taslak EK-6/B formunda “Depo binası içinde depolama (Madde 120)” bölümünün ilk kontrol kaydı, Sınıf I parlayıcı sıvı depolanan binalarda bodrum kat bulunmamasına yöneliktir (TASLAK). Bu kayıt, kapların tüm yerleşim ve miktar koşullarını tek başına doğrulamaz. EK-6/B, tek başına yürürlüğe girmiş bir zorunluluk veya YGU’ya yeni bir ölçüm/hesap yetkisi verilmiş gibi sunulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-bulgu-birden-cok-kap-tek-stok-listesi",
+      "metin": "Örnek bulgu: birden çok kap, tek stok listesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir tesiste solventlerin bir bölümü varillerde, bir bölümü küçük kaplarda, bir bölümü de üretim alanının yanındaki kapalı bölümde tutuluyor. İşletmenin stok listesi toplam ürünü gösteriyor; ancak kap türleri, odalara dağılım ve yan yana tutulan ürün sınıfları belirtilmiyor. Böyle bir durumda YGU, “Depo D-01 ve Üretim U-02’de fiilen bulunan ürün, kap ve miktarlar kayıtlarla mahal bazında eşleştirilemedi. GBF/SDS sınıfları, kap türleri ve mahal miktarlarını ayıran envanter ile ilgili depo/proje koşullarının teknik değerlendirmesi istenir” şeklinde kayıt oluşturabilir. Bu ifade ne miktar hesabının yapıldığı ne de sistemin kesin uygunsuz olduğu iddiasıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yanıcı sıvıların farklı kaplarda tutulması, kontrolü kolaylaştırabileceği gibi stok bilgisini parçalayarak asıl tehlikeyi gizleyebilir. Sağlıklı değerlendirme için sıvının sınıfı, kap türü, fiili miktarı, mahal sınırları ve depolama düzeni aynı kayıtta görünmelidir. YGU’nun görevi, bu bağlantıyı sahada doğrulamak; belirsizliği belgeleyip gerekli uzman incelemesinin tamamlanmasını izlemektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı (TASLAK)"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)"
+    },
+    {
+      "metin": "EK-6 Periyodik Kontrol Formu (TASLAK)"
+    }
+  ],
+  "sonNotlar": []
+}

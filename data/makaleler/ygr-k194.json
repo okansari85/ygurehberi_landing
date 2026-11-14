@@ -1,0 +1,150 @@
+{
+  "kod": "YGR-K194",
+  "yol": "mevcut-binada-basinclandirma-ihtiyaci-nasil-kontrol-edilir",
+  "baslik": "Mevcut binada basınçlandırma ihtiyacı nasıl kontrol edilir?",
+  "ozet": "Mevcut bir binada kaçış merdiveni basınçlandırması olup olmadığına bakmak, fanın görülmesiyle tamamlanan bir kontrol değildir. Yangın güvenlik uzmanı (YGU), önce binanın hangi mevzuat dönemine tabi olduğunu, merdivenin hangi katlara hizmet verdiğini ve gerçek merdiven kovası yüksekliğini belirler. Daha sonra onaylı mimari ve mekanik projeler ile sahadaki düzenin aynı olup olmadığını araştırır. Böylelikle hiç kurulmamış bir sistem, projede mevcut olup devre dışı bırakılmış bir sistem ve yalnızca eski bir yapıya özgü hükmün yanlış yorumlandığı durum birbirinden ayrılır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bina-yuksekligi-ile-merdiven-kovasi-yuksekligi-ayni-veri-degildir",
+      "metin": "Bina yüksekliği ile merdiven kovası yüksekliği aynı veri değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Basınçlandırma kararında “bina altı katlı”, “yüksek bina” veya “merdiven 30 metre civarında” gibi sözlü tarifler yeterli olmaz. Merdiven kovasının alt ve üst sınırlarını gösteren kesit, kat kotları, bodrum sayısı ve üst katlarla bodrumun aynı merdiven yuvasını kullanıp kullanmadığı incelenir. Merdivenin iki ayrı çıkışla ve gerekli yangına dayanıklı ayırımla bölünüp bölünmediği de sonucu değiştirebilir. Bu yüzden yalnız mimari görünüşe göre bir ölçü tahmin edilmesi yerine onaylı kesit ve yerinde düzen birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı yapıda bir merdiven yalnız üst katlara, başka bir merdiven bodrumlara, üçüncü merdiven ise bütün katlara hizmet edebilir. Üçü için tek bir sonuca varmak doğru değildir. İşletme sonradan bodrum kat açmış, merdiveni uzatmış, yangın güvenlik holünü değiştirmiş veya katlar arası bir ayırımı kaldırmışsa ilk onaylı projedeki tasarım varsayımları güncelliğini yitirmiş olabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-once-mevcut-bina-hukmu",
+      "metin": "Yürürlükteki BYKHY: önce mevcut bina hükmü"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 163, mevcut binalar için doğrudan düzenleme getirir. Buna göre dörtten fazla bodrum kata hizmet veren kaçış merdivenleri ile merdiven kovası yüksekliği 51,50 metreden fazla olan kaçış merdivenleri, Madde 89 esaslarına göre basınçlandırılır. Bu özel hüküm, mevcut yapı olarak değerlendirilen bina dosyasında ilk başvurulacak maddelerden biridir. Yapının gerçek kullanım geçmişi ve Madde 138 kapsamında hangi hükümlere tabi olduğu ayrıca belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 89 ise genel basınçlandırma sistemine ilişkin esasları içerir. Konutlar hariç binalarda merdiven kovası yüksekliğinin 30,50 metreyi aşması, dörtten fazla bodrum kat, belirli yüksekliğin üzerindeki konutlar ve acil durum asansörü kuyuları farklı fıkralarda ele alınır. Tasarımda basınç farkı, kapı açma kuvveti, hava hızı ve otomatik çalıştırma gibi unsurlar da önemlidir. Ancak mevcut bina hakkında karar yazılırken Madde 163 ile Madde 89 birlikte okunmalı; yeni bina eşiği otomatik olarak her mevcut yapıya uygulanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslakta-farkli-esik-vardir-bugunku-hukum-gibi-gosterilmez",
+      "metin": "Taslakta farklı eşik vardır; bugünkü hüküm gibi gösterilmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Yayımlanmamış BYKHY değişiklik taslağının Madde 90/1 hükmünde bütün binalarda merdiven evi yüksekliği 21,50 metreden fazla ise kaçış merdivenlerinin basınçlandırılması öngörülür (TASLAK). Aynı maddenin ikinci fıkrasında dörtten fazla bodrum kata hizmet eden merdivenler, devamındaki fıkralarda asansör kuyuları ile sistemin tasarım, test ve bakım esasları düzenlenir (TASLAK). Yürürlükteki Madde 89’daki bina ve yükseklik ayrımı ile taslaktaki yeni ifade aynı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın Madde 139’u da mevcut yapıların değerlendirilmesine ilişkin özel çerçeve getirir (TASLAK). Dolayısıyla bir projede 21,50 metre sınırının aşılması yalnız taslak üzerinden bugün kesin uygunsuzluk yazılması için yeterli değildir. İlgili yapının hukuki statüsü, yürürlükteki özel hükümler ve onaylı proje ayrı değerlendirilir. Taslak hükümler, olası gelecekteki revizyon gereksinimini işaret etmek üzere açıkça “(TASLAK)” notuyla dosyalanabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-ve-muayene-kayitlari-farkli-sorulari-cevaplar",
+      "metin": "Proje, saha ve muayene kayıtları farklı soruları cevaplar"
+    },
+    {
+      "tip": "p",
+      "metin": "Mimari kesit ve merdiven planı, hangi yüksekliğin ve katların dikkate alınacağını gösterir. Mekanik basınçlandırma projesi, fan konumu, hava emiş güzergahı, üfleme noktaları, kanal ve şaft bağlantılarını açıklar. Yangın algılama projesi ile otomasyon senaryosu, sistemin hangi uyarıyla devreye gireceğine ilişkindir. Saha incelemesi mevcut cihaz ve bağlantıları gösterir; test ve periyodik muayene kayıtları ise belirli tarihlerde yapılan teknik doğrulamaya ilişkin kanıt sağlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin beş bodrum kata hizmet veren eski bir alışveriş yapısında planlarda yalnız üst katlara hizmet eden bir merdiven görünüyorsa, bu çizimin güncel olup olmadığı sorulmalıdır. Merdiven sonradan bodrumlara uzatılmışsa Madde 163 bakımından değerlendirme, bugünkü erişim ve çıkış düzenine göre yeniden ele alınır. Buna karşılık sistemin fanı görülmedi diye, basınçlandırmanın teknik olarak hiçbir şekilde bulunmadığı veya bütün binanın uygun olmadığı peşinen ilan edilmez; proje ve mahallerin durumu kayıtlarla tamamlanır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol başlığı",
+        "İncelenecek belge veya saha unsuru",
+        "Değerlendirme sorusu"
+      ],
+      "satirlar": [
+        [
+          "Yapı statüsü",
+          "İlk ruhsat, onaylı proje, kullanım ve tadilat kayıtları",
+          "Mevcut bina özel hükmü hangi bölüm için geçerli?"
+        ],
+        [
+          "Merdiven geometrisi",
+          "Kesit, kat kotları, bodrum sayısı, ayırma duvarı",
+          "Merdiven hangi kotlar arasında ve hangi katlara hizmet ediyor?"
+        ],
+        [
+          "Basınçlandırma projesi",
+          "Mekanik pafta, fan/kanal/üfleme yerleşimi",
+          "Onaylanan çözüm sahada mevcut mu?"
+        ],
+        [
+          "Çalıştırma ve bakım",
+          "Otomasyon senaryosu, servis ve test tutanakları",
+          "Kurulu sistemin işlevi hangi kayıtla doğrulanmış?"
+        ],
+        [
+          "Değişiklik kaydı",
+          "Tadilat, merdiven uzatması, hol ve kapı revizyonları",
+          "İlk tasarımın dayandığı kullanım değişmiş mi?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU bina kimliği, ruhsat yılı, güncel kullanım türü ve bodrumları ayrı ayrı gösteren bir çalışma kaydı açar. Mimari kat planlarını kesitlerle eşleştirir; her kaçış merdiveninin başlangıç ve bitiş kotlarını, hizmet verdiği bodrumları ve çıkışını belirler. Ardından mevcut yapı için Madde 163’ün hangi bentlerinin uygulanabileceğini, Madde 89’la bağlantısını ve projedeki tasarım kararını yazılı şekilde karşılaştırır. Başka uzmanlık gerektiren hesap, debi, basınç veya senaryo testini görsel incelemeyle yapılmış saymaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaynak olarak verilen EK-6/A taslak formunda “Mekanik Kontrol Listesi / Söndürme Projesinden Kontrol Edilmesi Gerekenler / 2. Duman Kontrol Sistemi / a. Yangın Merdiveni Basınçlandırma Sistemi” satırı yer alır (TASLAK). Bu satır, onaylı projeye göre sistemin sahadaki varlığının gözlenmesi içindir. Formdaki “Basınçlandırma Sistemi (Madde 90)” bölümünde dışarıdan hava alma, üfleme noktalarının projeye uygunluğu ve basınçlandırmanın zorunlu olmadığı merdivenlerde ilgili duman tahliyesi düzeni de ayrı sorulmuştur (TASLAK). Bu taslak formdaki gözlemsel kontrol, teknik performans testinin yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporlarda kanıtın kapsamı korunmalıdır. “Bodrum kat sayısı ve merdiven kotları bakımından Madde 163 değerlendirmesi için güncel kesit bulunamadı; ilgili idareden onaylı pafta ve sistem projesi talep edilmiştir” açıklaması, gerekçesiz “basınçlandırma eksik” ifadesinden daha açıklayıcıdır. Projede gösterilen fakat fanı sökülmüş bir sistemde ise fiziksel eksiklik somut şekilde kaydedilir; sorumlu, düzeltme eylemi ve teknik yeniden kontrol gerekliliği ayrı belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-orneginde-kararin-kurulmasi",
+      "metin": "Saha örneğinde kararın kurulması"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletmenin “mevcut bina olduğundan basınçlandırma gerekmez” dediği bir örnekte YGU üç aşamayı izler: Önce bina ve merdiven için geçerli dönemi ve özel hükmü doğrular. Sonra kesitten merdiven kovası yüksekliği ile bodrum bağlantılarını belirler. Son olarak mekanik proje, saha yerleşimi ve varsa muayene raporunu karşılaştırır. Bu bilgilerden biri eksikse kesin bir muafiyet veya uygunsuzluk sonucu yerine, hangi belgenin hangi kararı belirleyeceği açıklanır. Böylece farklı tarihli binalarda aynı şablon karar tekrarlanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut yapıda basınçlandırma gerekliliği, yalnız fanın varlığına veya bina yüksekliğine bakılarak belirlenmez. Esas olan mevcut bina statüsünü, merdiven kovasının gerçek geometrisini, bodrum ilişkisini, yürürlükteki Madde 163 ve ilgili Madde 89 hükümlerini, onaylı projeyi ve güncel sistem kayıtlarını birlikte değerlendirmektir. YGU’nun hazırladığı açık gerekçeli karşılaştırma, hem teknik eksiklikleri görünür kılar hem de henüz yayımlanmamış taslak eşiklerinin yürürlükteymiş gibi uygulanmasını önler."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 89, 138 ve 163."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik değişiklik taslağı, Madde 90 ve 139 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı, EK-6/A Periyodik Kontrol Formu (TASLAK)."
+    },
+    {
+      "metin": "YGU Rehberi 200 Makale Görev–Mevzuat Haritası, 194. makale eşleştirmesi."
+    }
+  ],
+  "sonNotlar": []
+}

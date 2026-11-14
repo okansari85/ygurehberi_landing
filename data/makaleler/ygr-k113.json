@@ -1,0 +1,129 @@
+{
+  "kod": "YGR-K113",
+  "yol": "itfaiye-erisim-guzergahinda-kot-farki-hangi-engelleri-dogurur",
+  "baslik": "İtfaiye erişim güzergahında kot farkı hangi engelleri doğurur?",
+  "ozet": "Bir itfaiye aracı, düz ve yeterli genişlikteki bir yoldan binaya yaklaşabiliyor olsa bile giriş rampasında, üst kotta yolun düzleştiği yerde veya eğimin tersine döndüğü kesimde ilerlemekte zorlanabilir. Sorun yalnız yolun ne kadar yükseldiği değildir; bu yükselmenin hangi mesafede gerçekleştiği, eğim geçişlerinin biçimi, aracın alt açıklığı ve üstyapısının hareket sırasında ihtiyaç duyduğu boşluk da önemlidir.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kot-farki-yalniz-rampanin-dikligi-degildir",
+      "metin": "Kot farkı yalnız rampanın dikliği değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle sonradan yükseltilmiş saha kotu, kapı eşiğine yapılan kısa rampa, yağmur suyu kanalı ve yükleme alanına bağlanan kırık yol profili; vaziyet planında çizilmiş itfaiye güzergahının fiilen kullanılabilirliğini değiştirebilir. Bu nedenle plan üzerindeki yol hattı, boy profil ve gerçek işletme koşulları birlikte okunmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-olcut-yolun-surekliligi-ve-boy-profili",
+      "metin": "Yürürlükteki ölçüt: yolun sürekliliği ve boy profili"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, binaya ulaşım yollarına ilişkin 22. maddesinde iç ulaşım yolu için azami eğimi %6, düşey kurp yarıçapını en az R=100 m olarak düzenler. Aynı hüküm olağan yol genişliğini en az 4 m, dönemeç iç ve dış yarıçaplarını sırasıyla en az 11 m ve 15 m, serbest yüksekliği en az 4 m ve taşıma yükünü en az 15 ton olarak ele alır. Bunlar birlikte değerlendirilir; tek bir ölçütün sağlanması yolun bütünüyle uygun olduğunu göstermez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol noktası",
+        "Sahadaki olası sorun",
+        "Gerekli doğrulama"
+      ],
+      "satirlar": [
+        [
+          "Rampanın boyuna eğimi",
+          "Kısa mesafede aşırı kot kazanımı; ağır araçta çekiş veya frenleme güçlüğü",
+          "Güncel boy profil ve yetkili teknik ölçüm"
+        ],
+        [
+          "Eğim değişim noktası",
+          "Aracın ön/arka çıkıntısı veya alt kısmının zemine yaklaşması",
+          "Düşey kurp geometrisi ve ilgili araç hareket değerlendirmesi"
+        ],
+        [
+          "Rampanın birleştiği yol",
+          "Kapı eşiği, ızgara, su birikimi veya keskin seviye farkı",
+          "Onaylı detay, drenaj düzeni ve saha incelemesi"
+        ],
+        [
+          "Dönüşle birleşen eğim",
+          "Dönüş geometrisi ile kot farkının aynı kesitte araç hareketini zorlaştırması",
+          "Vaziyet planı, boy/en kesit ve gerekiyorsa manevra analizi"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek hesap: Boyuna doğrultuda 20 m yatay mesafede 1,20 m yükselen, sabit eğimli varsayımsal bir yolun ortalama eğimi (1,20 / 20) × 100 = %6 olur. Ancak bu sonuç, giriş ve çıkıştaki düşey kurpların veya ara kesimlerdeki daha dik parçaların uygunluğunu kanıtlamaz. 20 m boyunca 1,60 m kot kazanımı ise aynı basitleştirilmiş kabulde %8 ortalama eğim verir; mevcut %6 sınırını aşar. Bu sayılar bir saha olayı değil, hesap yöntemini açıklayan örneklerdir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1460,
+      "yukseklik": 500,
+      "aciklama": "",
+      "src": "/img/makale/ygr-k113-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-uzerinde-dogru-gorunen-yol-neden-sahada-sorun-cikarabilir",
+      "metin": "Proje üzerinde doğru görünen yol neden sahada sorun çıkarabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili bir tesiste, ana giriş kapısı ile üretim bloğu arasında onaylı vaziyet planında sürekli bir itfaiye yolu gösterildiğini düşünelim. Sonradan kapı önüne beton eşik yapılmış, yolun bir bölümü yeni asfaltla yükseltilmiş ve rampa başına drenaj ızgarası eklenmiş olsun. Plan üzerinde yolun aksı değişmese de gerçek boy profili ve geçiş noktaları değişmiştir. Sadece başlangıç ve bitiş kotlarının aynı kalması, ara geçişlerin güvenli olduğunu göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada üç soru birbirinden ayrılmalıdır: Yolun boyuna eğimi mevzuattaki sınıra uyuyor mu? Eğim geçişleri gerekli düşey kurp geometrisini sağlıyor mu? Güzergah, yerel itfaiyenin fiilen kullandığı araçların hareket ve yaklaşım koşullarıyla uyumlu mu? Son soru, genel mevzuat koşullarının yerine geçen yeni bir sınır değildir; araç erişiminin sahadaki uygulanabilirliğini sorgular."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye ruhsat ve yapı kullanma izni kayıtları, onaylı vaziyet planı, yol kotlarını gösteren boy ve en kesitler ile varsa sonradan onaylanan çevre düzenleme projelerini karşılaştırarak başlar. Giriş kapısının çalışma şekli, güvenlik bariyerleri, sevkiyat sırasında park edilen araçlar ve yağışlı havada oluşan su birikimleri gibi fiili işletme koşullarını da dikkate alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yerinde gözlemde rampanın başladığı ve bittiği noktaları, ani kot kırıklarını, yol üzerindeki ızgara veya eşikleri, alçak geçişleri ve dönüşle birleşen eğimli kesimleri konumlandırır. Mevcut belgelerde eğim veya düşey kurp bilgisi yoksa bunu açıkça “doğrulanamadı” şeklinde kaydeder; gözlemi mühendislik ölçümü gibi sunmaz. Gereken nivelman, boy profil hesabı, yol taşıma yeterliliği veya araç hareket analizi ilgili yetkili teknik kişilerce yapılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Raporda hangi proje paftasının esas alındığı, sahadaki değişikliğin nerede bulunduğu, fotoğraf ve konum referansı, etkilenebilecek müdahale kesimi ve talep edilen teknik belge ayrı ayrı gösterilir. YGU, yeni yol geometrisi tasarlamaz, taşıma hesabını onaylamaz veya ilgili idare adına erişim izni vermez; tespit ettiği uyumsuzluğun teknik olarak değerlendirilmesi ve yetkili süreçte giderilmesi için gerekçeli kayıt oluşturur."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-ile-yururlukteki-duzenleme-nasil-ayrilmali",
+      "metin": "Taslak ile yürürlükteki düzenleme nasıl ayrılmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağı, yürürlükteki yönetmelikten ayrı bir öneri metnidir. Bu makalede bağlayıcı sayısal koşullar yürürlükteki 22. maddeye dayandırılmıştır. Taslağın ilgili madde metni ile ayrı Yangın Güvenlik Uzmanlığı yönetmelik taslağının özgün kontrol formları bu çalışma sırasında birincil dosyalarından yeniden doğrulanamadığı için, bunlara özgü yeni eşik, yetki veya zorunluluk ileri sürülmemiştir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kot farkı olan bir itfaiye yolunda uygunluk kararı yalnız rampanın ortalama eğiminden çıkarılamaz. Düşey kurp, ani seviye değişimi, dönüş ve engeller aynı güzergah üzerinde birlikte ele alınmalıdır. Sağlam bir saha raporu, görülen engeli belgeler; ölçülmemiş veya hesaplanmamış konularda kesin hüküm kurmak yerine doğrulanması gereken teknik soruyu açık bırakır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

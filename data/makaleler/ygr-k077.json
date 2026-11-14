@@ -1,0 +1,162 @@
+{
+  "kod": "YGR-K077",
+  "yol": "yanici-sivi-depo-binasi-ile-uretim-alani-nasil-ayrilir",
+  "baslik": "Yanıcı sıvı depo binası ile üretim alanı nasıl ayrılır?",
+  "ozet": "Bir depo ile üretim alanı arasındaki güvenlik sınırı, zemine çizilen çizgiyle değil; kullanım amacı, depolanan sıvının niteliği, yapı elemanları ve işletme düzeni birlikte incelenerek belirlenir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayrimin-baslangic-noktasi-iki-farkli-islev",
+      "metin": "Ayrımın başlangıç noktası: iki farklı işlev"
+    },
+    {
+      "tip": "p",
+      "metin": "Üretim hattında işlem için kullanılan yanıcı veya parlayıcı sıvılar ile stok amacıyla bekletilen kaplar aynı işletme faaliyeti değildir. Önce her mahalin gerçek işlevi, sıvı sınıfları, azami bulundurulan miktar ve kapların yerleşimi belirlenir. Ardından bu kullanımın onaylı mimari ve yangın güvenliği projelerinde nasıl gösterildiğine bakılır. Bir kapının yerinin değişmesi, rafların üretim alanına taşması veya depoda dolum yapılmaya başlanması, önceki ayrımın yeniden incelenmesini gerektirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yanıcı ve parlayıcı sıvıların fabrika ve atölye binalarında depolanabilmesini, ilgili miktar sınırlarına uyulmasına ve depolamanın işlemin yürütüldüğü alandan tecrit edilmiş bir bölümde bulunmasına bağlar. Bu nedenle “aynı bina içindeyiz” gerekçesi, üretimle depo arasında korumasız bir geçiş yapılmasını tek başına haklı çıkarmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-sinirin-korundugu-nasil-anlasilir",
+      "metin": "Hangi sınırın korunduğu nasıl anlaşılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bağımsız depo binasına ilişkin yangına dayanım koşulları ile fabrika içindeki ayrılmış depolama bölümünün koşulları, kullanım ve uygulanabilir hüküm belirlenmeden birbirinin yerine yazılmamalıdır. Yönetmeliğin depo binaları için öngördüğü en az 120 dakikalık dayanım ve depo kapılarına ilişkin şartlar, ilgili bina ve mahalin niteliğiyle birlikte okunur. Fabrika içindeki bir depolama bölümü için ise önce depolama miktarı, tecrit şartı ve onaylı çözüm doğrulanır; tüm duvarlara yalnız alışkanlıkla aynı süre atanmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayırıcı duvarın üzerinde açılan kapı, boru ve kablo geçişleri, asma tavan üstü boşluklar ve havalandırma kanalları aynı sınırın parçalarıdır. Kapının yangın dayanım belgesi bulunması tek başına yeterli değildir: kasanın birleşimi, montaj detayı, kapatma düzeni ve kullanılan yapı sistemi belgeyle eşleştirilmelidir. Komşu hacimlere geçen boru ve tavan açıklıklarında buhar-hava karışımının geçişinin önlenmesi de ayrı bir kontrol konusudur."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 77. Üretim ile solvent deposu arasındaki ayırıcı sınırın şematik gösterimi. Özgün çizim korunmuştur; ölçekli proje veya uygunluk kararı değildir.",
+      "src": "/img/makale/ygr-k077-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-aranacak-kanit",
+      "metin": "Proje ile sahada aranacak kanıt"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen kayıt",
+        "Sahada karşılaştırılacak durum",
+        "Karar için kritik nokta"
+      ],
+      "satirlar": [
+        [
+          "Kimyasal envanter ve güvenlik bilgi formları",
+          "Sıvı sınıfları, kap türleri, fiili stok ve proses tüketimi",
+          "Depolama miktarı ve uygulanacak şartların doğru seçilmesi"
+        ],
+        [
+          "Onaylı mimari ve yangın güvenliği projeleri",
+          "Depo sınırı, üretime açılan kapı, geçişler ve komşu mahaller",
+          "Tecrit edilen alanın proje üzerinde tanımlı olması"
+        ],
+        [
+          "Kapı, duvar ve geçiş sistemi belgeleri",
+          "Ürün sınıfı, montaj detayı, duvarla birleşim, tesisat geçişi",
+          "Tekil ürün belgesi ile bütün ayırıcı sistemin karıştırılmaması"
+        ],
+        [
+          "Havalandırma projesi ve işletme kayıtları",
+          "Emiş noktaları, kanal güzergahı, teknik ekipman ve bakım",
+          "Buhar birikimi ile komşu mahale taşınımın kontrolü"
+        ],
+        [
+          "Döşeme ve dökülme kontrolü",
+          "Eşik, drenaj, kanal ve tesisat boşlukları",
+          "Dökülen sıvının üretime veya altyapı kanallarına yayılmaması"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "kapi-acilmasi-veya-depo-buyumesi-halinde-inceleme",
+      "metin": "Kapı açılması veya depo büyümesi halinde inceleme"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek olarak, üretim holüne bitişik bir solvent deposuna yeni geçiş kapısı açılması düşünülürse ilk soru “kapı yangın kapısı mı?” değildir. Önce kapının projede bulunup bulunmadığı, ayırıcı duvarın hangi yangın güvenliği işlevini gördüğü ve yeni geçişin malzeme taşıma akışını nasıl değiştirdiği araştırılır. Sonra kapı takımının uygunluğu, tesisat geçişleri, havalandırma bağlantıları ve dökülme durumunda sıvının izleyebileceği yol birlikte incelenir. Bu anlatım gerçek bir olay kaydı değil, inceleme yöntemini açıklayan varsayımsal bir durumdur."
+    },
+    {
+      "tip": "p",
+      "metin": "Depo hacminde doğal havalandırmanın yeterli olmadığı durumda, yürürlükteki düzenlemenin öngördüğü döşeme seviyesinde etkili, patlama ve kıvılcım güvenlikli mekanik havalandırma şartı ayrıca gündeme gelir. Gerekli hava değişimi değeri, uygulanabilir hüküm ve tasarım projesi üzerinden kontrol edilir; uzman, sahada yalnız gözlem yaparak debi ölçülmüş veya sistem uygun bulunmuş sonucu vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapı ruhsatı, yapı kullanma izin belgesi, onaylı mimari plan, yangın güvenliği ve mekanik tesisat projeleri ile varsa revizyonları ister. İşletmeden kimyasal envanteri, güvenlik bilgi formlarını, depolama kapasitesi kayıtlarını, kapı ve ayırıcı sistem performans belgelerini, havalandırma bakım ve test raporlarını temin eder. Belgelerin tarihini ve hangi mahal ya da tesisata ait olduğunu belirler; sahadaki üretim, stok ve geçiş düzeniyle karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha turunda depo–üretim sınırını, yeni kapıları, açık veya uygunsuz kapatılmış penetrasyonları, havalandırma kanallarını, eşikleri ve sıvı sızıntısının izleyebileceği yolları gözlemsel olarak kaydeder. Eksik proje veya performans belgesi varsa “uygundur” sonucuna ulaşmaz; hangi bilgi nedeniyle karar verilemediğini raporunda açıkça gösterir. Gereken teknik ölçüm, patlayıcı ortam değerlendirmesi, havalandırma hesabı, tasarım revizyonu, yetkili test ve proje onayı ilgili yetkin ve yetkili kişilerce yürütülür. YGU incelemesi bu işlemlerin yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "bulgularin-gerekceli-yazimi",
+      "metin": "Bulguların gerekçeli yazımı"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Bulguyu yazarken",
+        "Gerekçeli ifade örneği"
+      ],
+      "satirlar": [
+        [
+          "Yetersiz ifade",
+          "“Solvent deposu uygun değildir.”"
+        ],
+        [
+          "İzlenebilir ifade",
+          "“Onaylı planda depo–üretim sınırı kapalı gösterilmesine rağmen sahada yeni kapı bulunmaktadır. Kapı takımı ve ayırıcı duvarla birleşimine ait uygulama/performans belgeleri sunulmadığından ayrımın yeterliliği doğrulanamamıştır.”"
+        ],
+        [
+          "İstenen devam işlemi",
+          "“Proje revizyonu gerekliliği ve ayırıcı sistem uygunluğu, ilgili proje müellifi ve yetkili teknik kişilerce değerlendirilerek belgelendirilmelidir.”"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yanıcı sıvı deposunun üretimden ayrılması, tek bir duvar süresi veya kapı etiketiyle açıklanamaz. Sıvı sınıfı ve miktarı, mahalin fiili işlevi, ayırıcı elemanlar, havalandırma ve dökülme kontrolü birlikte değerlendirilmelidir. Güvenilir sonuç, onaylı projedeki sınırın sahada gerçekten korunup korunmadığını belge ve gözlemle ortaya koyan gerekçeli incelemedir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,134 @@
+{
+  "kod": "YGR-K185",
+  "yol": "yangin-ic-duzenlemesi-degisen-vardiya-duzenine-nasil-uyarlanir",
+  "baslik": "Yangın iç düzenlemesi değişen vardiya düzenine nasıl uyarlanır?",
+  "ozet": "Bir üretim tesisinin yangın iç düzenlemesinde gündüz çalışan sorumluların isimleri, acil durum ekipleri ve nöbet talimatları yazılı olabilir. İşletme iki vardiyadan üç vardiyaya geçtiğinde ise aynı liste gece saatlerinde boşluk bırakabilir. Yeni personel gelmiş, deneyimli ekip üyeleri başka bir birime geçmiş ya da güvenlik hizmeti taşerona devredilmiş olabilir. Yangın güvenlik uzmanı (YGU), güncel vardiya düzeninin mevcut iç düzenlemede nasıl karşılandığını isim, görev, erişim ve uygulama kayıtları üzerinden inceler.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ic-duzenleme-calisan-listesi-degildir",
+      "metin": "İç düzenleme, çalışan listesi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın iç düzenlemesi; önleme, erken bildirim, ilk müdahale, tahliye, ekiplerin çalışması, nöbet hizmetleri, araçların kullanımı, eğitim, bakım ve tesis krokilerinin birbirine bağlandığı işletme dokümanıdır. Bir adın tabloda bulunması, o kişinin belirtilen saatte işyerinde olduğu veya görevinin gereğini bildiği anlamına gelmez. Bu nedenle vardiya değişikliğinde yalnız isim listesini değiştirmek yeterli değildir. Hangi işin hangi vardiyada kimin sorumluluğunda olacağı ve asıl görevli bulunmadığında hangi işlemin yürütüleceği de açık hale getirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Öncelikle işletmenin fiili işleyişi belirlenir: üretimin durduğu saatler, kesintisiz çalışan depolar, bakım ekiplerinin hareketliliği, gece güvenliği, hafta sonu çalışması ve vardiyalar arasındaki devir saatleri. Aynı yapının farklı çalışma saatleri için tek bir yangın planı bulunabilir; ancak o planın uygulama karşılığı her zaman diliminde okunabilir ve izlenebilir olmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "vardiya-degistiginde-hangi-kayitlar-karsilastirilir",
+      "metin": "Vardiya değiştiğinde hangi kayıtlar karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrol, onaylı iç düzenlemenin son revizyonu ve işletmenin güncel personel-vardiya çizelgesiyle başlar. Görevli sayıları, birimlerin dağılımı, acil durum ekipleri ve görev başlıkları yan yana konulur. Vardiya listesi geçici izinleri, fazla mesaileri ve dış hizmet personelini göstermiyorsa, kimin hangi saatte fiilen bulunduğu ayrıca sorulur. YGU mevcut belgeleri eşleştirir; çalışma çizelgelerinden bağımsız olarak asgari ekip yeterliliği bulunduğunu varsaymaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol başlığı",
+        "Yeni vardiyada doğabilecek boşluk",
+        "Eşleştirilecek kayıt"
+      ],
+      "satirlar": [
+        [
+          "Ekip görevlendirmesi",
+          "Listede adı olan kişi o vardiyada yok",
+          "Yazılı görevlendirme, vardiya ve izin çizelgesi"
+        ],
+        [
+          "Haber verme ve sevk",
+          "Gece ilk aramayı kimin yapacağı belirsiz",
+          "Acil durum talimatı, telefon zinciri, nöbet defteri"
+        ],
+        [
+          "Tahliye ve toplanma",
+          "Yeni vardiya farklı kapı veya çıkış kullanıyor",
+          "Tahliye krokisi, personel dağılımı, tatbikat tutanağı"
+        ],
+        [
+          "İlk müdahale araçları",
+          "Bakım sonrası ekipman yeri veya erişim yolu değişmiş",
+          "Güncel cihaz planı, bakım ve saha kontrol kayıtları"
+        ],
+        [
+          "Devir ve eğitim",
+          "Yeni gelen görevli ekip görevini öğrenmemiş",
+          "İşe başlama bilgilendirmesi, eğitim, devir formu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-olay-ucuncu-vardiya-basladi-liste-eski-kaldi",
+      "metin": "Örnek olay: Üçüncü vardiya başladı, liste eski kaldı"
+    },
+    {
+      "tip": "p",
+      "metin": "Gündüz ve akşam vardiyalarıyla çalışan bir tesiste gece vardiyası oluşturulduğunu düşünelim. Panoda söndürme, kurtarma, koruma ve ilk yardım ekipleri yer alıyor; ancak listelerdeki çalışanların bir bölümü yalnız gündüz görev yapıyor. Gece güvenlik görevlisi yangın alarmını görebiliyor fakat vardiya amirine ulaşılamadığında hangi kişiyi arayacağını bilmiyor. Üstelik yeni üretim hattının açılmasıyla arka koridordaki çıkış yönlendirmesi yeniden düzenlenmiş."
+    },
+    {
+      "tip": "p",
+      "metin": "Burada “yangın ekipleri yok” veya “iç düzenleme tamamen geçersiz” sonucuna aceleyle gidilmez. Kayıt, somut ayrışmayı anlatır: “Üçüncü vardiyada fiilen görev yapan personelin acil durum görev dağılımı, iç düzenlemedeki isim listesi ve haberleşme zinciriyle eşleştirilememiştir. Yeni hat için güncellenen geçiş güzergahı, tahliye krokisine ve vardiya talimatına işlenmemiştir.” Ardından işletme yetkilisinin yazılı görevlendirme ve plan revizyonu yapması, ilgili personele bilgilendirme verilmesi ve düzenin uygulamada sınanması için takip oluşturulur."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, önce her vardiya için personel sayılarını, görevli birimleri ve fiili çalışma bölgelerini alır. Sonra yangın iç düzenlemesindeki ekipler, sorumlular, nöbet hizmeti ve telefon listesinin bu dağılımda karşılığı olup olmadığını inceler. Asıl ve yedek kişiler ayrıca belirlenmişse bu kişilerin aynı anda sahada bulunma durumu kontrol edilir. İzinli veya başka bir binaya görevlendirilmiş kişilerin varlığı, vardiya çizelgesiyle birlikte değerlendirilir. Bir kişinin birden çok görevi üstlenmesi halinde bunun görevlerin eşzamanlı yerine getirilmesine etkisi yetkili yöneticiye bildirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adımda yangın anındaki bilgi akışı izlenir: alarmı kim fark eder, itfaiyeyi kim arar, tesisin giriş kapısını kim açar, tahliye kararını kim iletir, gelen ekibe plan ve tehlikeli madde bilgisi kimden teslim edilir? Bu soruların cevapları gece, hafta sonu ve vardiya devir aralığında değişebiliyorsa planın ilgili kısmı da buna uygun yazılmalıdır. Yanıtların sadece sözlü olması, uygulanabilirliğin belgelendiği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü adım saha ve eğitim kayıtlarıdır. Yangın dolapları, söndürücüler, alarm panelleri, ana vanalar, toplanma alanları ve itfaiye erişim güzergahları kroki üzerinde güncel konumlarıyla gösterilir. Yeni vardiyada görev alanlara verilen talimat ve eğitimin kayıtları kontrol edilir; tatbikat senaryosunun yalnız gündüz çalışanlar üzerinden yürütülüp yürütülmediği de incelenir. Eksik görülen noktalar için sorumlu, yapılacak iş, tamamlanma tarihi ve doğrulama kanıtı belirlenir. Teknik kontrol, işletme adına yeni ekip görevlendirme yetkisi vermez; görevlendirmeyi yetkili işveren veya yönetici yapar."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-degisiklik-taslaginin-ayrimi",
+      "metin": "Yürürlükteki hüküm ile değişiklik taslağının ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 136, yangın önleme ve söndürme iç düzenlemelerinin hazırlanmasını; Madde 137 ise ekip sayıları, personelin adı ve görevleri, araç-gereç, eğitim, bakım, nöbet hizmetleri ile plan ve krokilerin kapsamını düzenler. İç düzenlemelerin yürütülmesi yapı, bina, tesis veya işletmenin sahibi, yöneticisi ya da amirine aittir. Madde 126, acil durum ekiplerinin kuruluşuna ilişkin kapsam ve sayı hükümlerini ayrıca içerir. Bu hükümler yürürlükteki mevzuat bakımından esas alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yayımlanmamış BYKHY değişiklik taslağında iç düzenlemelerin hazırlanması Madde 137, kapsamı ve yürütülmesi Madde 138 altında yer alır (TASLAK). Kapsamın bu başlıklardaki esasları, incelenen metinlerde büyük ölçüde örtüşmektedir. Buna karşılık taslaktaki Madde 128, acil durum ekiplerinin kuruluşunu İş Sağlığı ve Güvenliği Kanunu kapsamındaki ilgili yönetmeliğe yönlendirir (TASLAK). Bu yaklaşım, yürürlükteki Madde 126’nın sayısal şartlarının yerine geçmiş sayılmaz. İşletmedeki asgari görevli düzeni değerlendirilirken halen yürürlükteki hüküm ve uygulanabilir diğer mevzuat esas alınır; taslak ayrı bir öngörü olarak belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "revizyonun-kapatilmasi-icin-somut-kanit",
+      "metin": "Revizyonun kapatılması için somut kanıt"
+    },
+    {
+      "tip": "p",
+      "metin": "İç düzenlemenin güncellendiğinin söylenmesi yeterli değildir. Revizyon numarası ve tarihi olan onaylı metin, eklenen vardiya görev listesi, güncel krokiler, duyuru veya eğitim kaydı, ilgili kişilerin bilgilendirildiğine ilişkin kanıt ve varsa tatbikat sonuçları birlikte incelenir. Açık aksiyonlar, yalnız belge hazırlandığı için değil, sahadaki ayrışmanın giderildiği gösterildiğinde kapatılır. Amaç her vardiyada aynı sayfa düzenine sahip olmak değil, her saatte uygulanabilir bir yangın organizasyonu kurmaktır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 126, 136 ve 137."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 128, 137 ve 138 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK); konuya yönelik mesleki rol ayrımı."
+    }
+  ],
+  "sonNotlar": []
+}

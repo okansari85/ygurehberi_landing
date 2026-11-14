@@ -1,0 +1,157 @@
+{
+  "kod": "YGR-K073",
+  "yol": "dokme-lpg-tankinin-cevresi-degisirse-ne-yeniden-degerlendirilir",
+  "baslik": "Dökme LPG tankının çevresi değişirse ne yeniden değerlendirilir?",
+  "ozet": "Dökme LPG tankı yerinde kalabilir; ancak yanına eklenen konteyner, yeni bir yapı veya değişen araç güzergahı, ilk projede kabul edilen emniyet uzaklıklarını ve işletme koşullarını değiştirebilir. Tankın geçerli test raporu, yeni yerleşimin de uygun olduğunu tek başına göstermez.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisiklik-tankta-degil-tankin-cevresinde-olabilir",
+      "metin": "Değişiklik tankta değil, tankın çevresinde olabilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yerüstü ve yeraltı LPG tankları için emniyet uzaklıkları; tankın su hacmi, kurulum türü ve karşısındaki unsurun niteliği dikkate alınarak belirlenir. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, dökme LPG tanklarının binalara, bina gruplarına, komşu arsa sınırına, ana trafik ve demir yollarına ve diğer tanklara uzaklıklarını Ek-10 ile ilişkilendirir. Yeni bir konteynerin ofis, depo veya teknik hacim olarak kullanılması, yalnız konumunun değil kullanımının da anlaşılmasını gerektirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Önce ilk onaylı vaziyet planı, tank yerleşim projesi ve varsa değişiklik onayları bir araya getirilir. Ardından güncel saha yerleşimiyle karşılaştırılır. Özellikle tankın dolum noktası, erişim alanı, çit düzeni, araç hareketleri, elektrikli ekipmanlar ve yakın çevredeki yeni yapılaşma ayrı ayrı kaydedilir."
+    },
+    {
+      "tip": "h2",
+      "id": "emniyet-uzakliginda-hangi-olcu-esas-alinir",
+      "metin": "Emniyet uzaklığında hangi ölçü esas alınır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Ek-10, yerüstü tanklarında uzaklığın tankın dış yüzeyinden; yeraltı tanklarında ise emniyet valfi ve dolum ağzından değerlendirilmesine ilişkin notlar içerir. Yeraltı tankının herhangi bir kısmının bina ve üzerinde bina yapılabilecek arsa sınırına uzaklığı için ayrıca asgari koşul bulunur. Bu nedenle çit ile yapı arasındaki mesafeyi ölçmek, tank için gerekli bütün uzaklıkların doğrulandığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin su hacmi 5 m³ olan yerüstü bir dökme LPG tankı, Ek-10’un 3,1–10 m³ aralığındadır ve temel yerüstü tankı emniyet uzaklığı 7,5 m olarak gösterilir. Bu değer, bütün tesisler için tek başına uygunluk kararı değildir. Karşı unsurun sınıfı, ölçüm başlangıç noktası, diğer tanklar ve tabloda tanımlanan özel koşullar ayrıca incelenir. Koruyucu duvar veya yalıtım gerekçesiyle azaltılmış uzaklık, gerekli teknik koşullar ve belgeler doğrulanmadan uygulanmış kabul edilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-durum-tankin-yanina-yeni-konteyner",
+      "metin": "Temsili durum: tankın yanına yeni konteyner"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk vaziyet planında boş görülen alana sonradan bir konteyner konulduğunu düşünelim. Konteynerin hangi amaçla kullanılacağı, insan bulunup bulunmayacağı, içindeki elektrik tesisatı ve tankla ilişkili gerçek konumu belirlenmeden “uygun” ya da “uygunsuz” kararı verilemez. Aynı incelemede yeni araç park alanının tankın korunmasına, dolum aracının yaklaşmasına ve acil müdahale erişimine etkisi de değerlendirilir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 73. Tank ile sonradan eklenen konteynerin ilişkisi (eski taslaktan korunan temsili çizim; ölçeksizdir).",
+      "src": "/img/makale/ygr-k073-1.png"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Bilinen durum",
+        "Karar için gereken kanıt"
+      ],
+      "satirlar": [
+        [
+          "İlk yerleşim planı",
+          "Tank çevresi boş; konteyner görünmüyor.",
+          "Onaylı plan ile güncel konumların karşılaştırılması."
+        ],
+        [
+          "Yeni konteyner ve araç alanı",
+          "Kullanım türü ve mesafeler henüz doğrulanmamış.",
+          "İşlev, fiili kullanım, yetkili teknik ölçüm ve güncel vaziyet planı."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ve-saha-karsilastirmasi-nasil-kurulmali",
+      "metin": "Belge ve saha karşılaştırması nasıl kurulmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Özellikle aranacak bilgi",
+        "Kontroldeki işlevi"
+      ],
+      "satirlar": [
+        [
+          "Tank teknik dosyası",
+          "Su hacmi, yerüstü/yeraltı tipi, yerleşim ve işletme bilgisi",
+          "Doğru emniyet uzaklığı satırını belirlemek"
+        ],
+        [
+          "Onaylı ve güncel vaziyet planı",
+          "Tank, yapı, sınır, yol ve konteyner konumları",
+          "Önceki kabul ile fiili yerleşimi karşılaştırmak"
+        ],
+        [
+          "Ölçüm ve teknik değerlendirme",
+          "Uzaklıkların referans noktaları, ölçüm yöntemi, revizyon gereksinimi",
+          "Belirsizliği yetkili teknik incelemeye taşımak"
+        ],
+        [
+          "İşletme ve güvenlik kayıtları",
+          "Çit, uyarı, dolum erişimi, park düzeni, elektrikli ekipman ve bakım kayıtları",
+          "Yerleşim değişikliğinin işletmeye etkisini görmek"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), işe tankın ilk kurulumuna ilişkin onaylı proje, yapı ve işletme izinleri, varsa tadilat projeleri ve tankın teknik belgelerini inceleyerek başlar. Yeni konteynerin fiili işlevini ve yakın çevredeki yapılaşmayı yerinde gözlemler; eski ve güncel vaziyet planlarını aynı referanslar üzerinden karşılaştırır. Uygulamada bulunmayan plan, okunamayan tank etiketi veya doğrulanmamış kapasite bilgisi, kesin hüküm verilmeden önce tamamlanması gereken veri olarak raporlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzman; tankın, dolum ağzının, çitin ve yeni yapıların konumlarını fotoğraf ve krokiyle kayıt altına alır. Görünür uygunsuzluk şüphesini, hangi belge ve hangi teknik koşul nedeniyle yeniden inceleme gerektiğini belirterek gerekçelendirir. Emniyet uzaklığının yetkili kişilerce ölçülmesini, gerekli proje revizyonunun hazırlanmasını veya ilgili idare görüşünün alınmasını talep edebilir; bunları kendisi yapmış gibi gösteremez."
+    },
+    {
+      "tip": "p",
+      "metin": "Tank tasarımı, mühendislik hesabı, patlayıcı ortam sınıflandırması, tesisat testleri, resmi proje onayı ve yetki gerektiren ölçümler ilgili uzman ve yetkili kuruluşların sorumluluğundadır. YGU incelemesinin sonucu, bu çalışmaların yerine geçen bir onay belgesi değil; mevcut kanıtı, saha bulgusunu ve giderilmesi gereken belirsizliği açıkça gösteren bir değerlendirmedir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukumlerle-yururlukteki-duzenleme-ayrilmali",
+      "metin": "Taslak hükümlerle yürürlükteki düzenleme ayrılmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında dökme LPG depolamasına ilişkin konu, mevcut yönetmelikten farklı madde numarası altında düzenlenmiştir. Bu taslak yürürlüğe girmiş bir hüküm gibi uygulanmaz. Bugünkü uygunluk değerlendirmesinde yürürlükteki yönetmelik ve onun ilgili ekleri esas alınır; taslak metin yalnız gelecekteki olası düzenleme değişikliklerini anlamaya yardımcı olabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Tankın konumu ve kapasitesi değişmese bile çevresine eklenen konteyner, yapı, park alanı veya yeni trafik düzeni önceki emniyet uzaklığı değerlendirmesini geçersiz kılabilecek bir değişiklik yaratabilir. Sağlıklı karar, güncel yerleşimin onaylı belgelerle karşılaştırılması, doğru mesafe referanslarının kullanılması ve teknik belirsizliklerin yetkili uzmanlarca giderilmesiyle verilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

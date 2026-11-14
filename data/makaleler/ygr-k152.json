@@ -1,0 +1,168 @@
+{
+  "kod": "YGR-K152",
+  "yol": "yangin-ihbar-butonunun-erisilebilirligi-nasil-kontrol-edilir",
+  "baslik": "Yangın ihbar butonunun erişilebilirliği nasıl kontrol edilir?",
+  "ozet": "Yangın ihbar butonu koridor duvarında bulunmasına rağmen bir rafın arkasında kalabilir, asma dekorla gizlenebilir ya da yeni bir bölme nedeniyle kullanıcıların erişemediği bir noktaya dönüşebilir. Bu durumda butonun sistemde kayıtlı veya elektriksel olarak çalışır olması, yangını ilk fark eden kişinin onu gecikmeden kullanabileceğini kanıtlamaz. Yangın Güvenlik Uzmanı (YGU) için esas soru; cihazın gerçek kullanıcı güzergahında görülebilir, ulaşılabilir ve gerektiğinde kullanılabilir durumda olup olmadığıdır.",
+  "etiketler": [
+    "Yangın Alarmı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "erisilebilirlik-yalniz-montaj-yuksekligi-degildir",
+      "metin": "Erişilebilirlik yalnız montaj yüksekliği değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın ihbar butonu; mevzuat metnindeki adıyla yangın uyarı butonu, bir kişinin yangını elle alarm sistemine bildirmesini sağlayan cihazdır. Dedektörden farklı olarak insan müdahalesine ihtiyaç duyduğu için hem cihazın yeri hem de oraya ulaşma koşulları belirleyicidir. Buton, kullanım alanından kaçış yönünde ilerleyen kişi tarafından fark edilebilmeli; kapalı kapı, kilitli alan, yüksek raf, istif, satış standı veya benzeri bir engel kullanımını zorlaştırmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Duvara doğru yükseklikte sabitlenmiş cihazın önüne yerleştirilen tezgah, erişimi fiilen bozabilir. Benzer biçimde koridor genişletilmeden yeni bölme yapılması, bir butona erişilecek yolu uzatabilir. Bu nedenle kontrol; konum, ulaşım güzergahı, görsel fark edilebilirlik, kullanım yüzeyine erişim, gerçek işletme düzeni ve mevcut test kayıtlarını bir bütün olarak kapsar."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-hangi-olcutleri-getiriyor",
+      "metin": "Yürürlükteki BYKHY hangi ölçütleri getiriyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 75/2; yangın uyarı butonlarının kaçış yollarında tesis edilmesini, bir kattaki herhangi bir noktadan o kattaki herhangi bir butona yatay erişim uzaklığının 60 m’yi aşmamasını, butonların görülebilir ve kolayca erişilebilir olmasını düzenler. Engelli veya yaşlıların bulunduğu yerlerde bu mesafenin azaltılabileceğini belirtir. Butonların yerden 110–130 cm yüksekliğe yerleştirilmesi de aynı fıkrada düzenlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sayılar tek başına bütün binaya ilişkin uygunluk kararı verdirmez. Hangi yapılarda buton tesisinin zorunlu olduğu, Madde 75/2’deki kullanım ve kat koşullarıyla değerlendirilir. Yapı kullanım türü, kat sayısı, kat alanı, yüksek bina niteliği ve geçerli proje dikkate alınmalıdır. Yangın uyarı butonu için erişilebilirlik değerlendirmesi, mekanın engelli kullanıcılar dahil gerçek kullanım özellikleriyle birlikte yapılmalıdır; mevzuatta olmayan yeni bir ergonomik eşik türetilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslagi-yururlukteki-kuralin-yerine-yazilamaz",
+      "metin": "Değişiklik TASLAĞI yürürlükteki kuralın yerine yazılamaz"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA ilgili başlık Madde 76/2 olarak düzenlenmiştir. Taslakta da 60 m yatay erişim, 110–130 cm montaj yüksekliği, görünürlük ve kolay erişim yaklaşımı bulunmaktadır. Ancak buton zorunluluğunun kapsamı bakımından taslak metin, yürürlükteki düzenlemeden farklı bir yapı alanı ve yüksekliği yaklaşımı önermektedir. Bu taslak koşullar, nihai düzenleme yayımlanıp yürürlüğe girdiği doğrulanmadıkça yürürlükteki zorunluluk gibi kullanılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslak YGU düzenlemesinin kontrol yaklaşımı da butonun önünün açık ve erişilebilir olup olmadığının sahada gözlemlenmesi açısından yol gösterir. Bununla birlikte taslak bir düzenleme, Yangın Güvenlik Uzmanına (YGU) kendiliğinden elektriksel test yapma, projeyi değiştirme veya yetkili idarenin onayı yerine karar verme görevi vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-uzerinden-erisim-kontrolu-nasil-yapilir",
+      "metin": "Proje üzerinden erişim kontrolü nasıl yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk aşamada onaylı yangın algılama ve uyarı projesi, mimari kat planları, tahliye güzergahları, buton adres/etiket listesi ve varsa tadilat projeleri birlikte okunur. Her butonun kimliği ve bulunduğu mahal belirlenir. Ardından kat kullanımındaki değişiklikler, yeni bölme duvarları, mobilya ve depolama alanları ile fiili dolaşım yolu projede işaretlenir. Ölçülü pafta kullanılması, teknik ölçüm gereksinimini ortadan kaldırmaz; plan verisi ve saha mesafesi birbirini doğrulamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yatay erişim uzaklığını değerlendirirken yalnız iki nokta arasındaki düz çizgiye bakmak yeterli değildir. Kullanıcının gerçekten geçebildiği koridorlar, kapılar, kalıcı engeller ve mevcut düzen dikkate alınarak ulaşım güzergahı ortaya konulmalıdır. Uygunluk konusunda tartışmalı bir mesafe varsa doğrulanmış ölçüm ve ilgili uzman değerlendirmesi istenir; gözleme dayalı tahmin sayısal uygunluk kanıtı olarak yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-izlenecek-kayit-matrisi",
+      "metin": "Sahada izlenecek kayıt matrisi"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Aranacak belge veya veri",
+        "Sahadaki karşılık"
+      ],
+      "satirlar": [
+        [
+          "Cihaz kimliği ve yeri",
+          "Algılama projesi, buton numarası, adres listesi",
+          "Kat, mahal, etiket ve projedeki konumun eşleşmesi"
+        ],
+        [
+          "Kaçış güzergahı",
+          "Mimari ve tahliye planı, tadilat çizimi",
+          "Kapılar, bölmeler ve fiili geçiş yolu"
+        ],
+        [
+          "Yatay erişim",
+          "Ölçülü kat planı ve gerekirse doğrulanmış ölçüm",
+          "Engeller hesaba katıldığında butona ulaşım koşulu"
+        ],
+        [
+          "Görünürlük ve kullanım",
+          "Buton yerleşim detayı, işletme planı",
+          "Raf, stand, istif, pano, cam kapak veya kilit etkisi"
+        ],
+        [
+          "Montaj ve erişim",
+          "Onaylı uygulama detayı ve ilgili saha kaydı",
+          "Yerden yükseklik, kullanıcı yaklaşımı, bakım erişimi"
+        ],
+        [
+          "İşlevsel kayıt",
+          "Devreye alma, bakım ve test raporu; panel adresi",
+          "Butonun tanımı ile kayıtlı alarm/test olayının eşleşmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-sik-karsilasilan-durumlarin-ayrimi",
+      "metin": "Sahada sık karşılaşılan durumların ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Buton var ama görülemiyor: Koridordaki reklam standı veya raf, cihazın görüşünü kapatıyorsa konum ve engel fotoğrafla kaydedilir. Cihazın elektriksel olarak çalışması, görsel erişim eksikliğini ortadan kaldırmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Butona ulaşım yolu değişmiş: Yeni bölme veya kapı nedeniyle fiili yol uzamışsa onaylı proje ile mevcut dolaşım düzeni ayrı işaretlenir. Mesafe hesabı eski plan üzerinden doğrulanmış sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yükseklik doğru ama kullanılamıyor: Butona yaklaşmayı engelleyen sabit mobilya, koruma kapağı veya yanlış yerleşim varsa montaj yüksekliği tek başına yeterli kanıt değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Panelde olay kaydı var ama buton belirsiz: Panel kaydı ve test tutanağındaki adres, yerindeki cihaz etiketiyle eşleştirilir. Başka bir butonun test edilmiş olması bu cihazı doğrulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, öncelikle yapı kullanım kaydı, onaylı mimari ve algılama projeleri, yangın tahliye düzeni, cihaz envanteri ve mevcut bakım/test raporlarını inceler. Sonra her butonun projedeki yerini sahada numara ve fotoğrafla eşleştirir. İşletmedeki güncel raf, kapı, tezgah, üretim hattı ve bölme düzeninin butona erişimi etkileyip etkilemediğini kaydeder. Yetkili teknik personelin ölçüm veya işlevsel test kaydı bulunmuyorsa bunu açık bir doğrulama ihtiyacı olarak bırakır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıt dili: “Zemin kat K-04 koridorundaki YB-06 yangın uyarı butonunun önünde sabit teşhir standı bulunduğu ve cihazın koridor yaklaşımından kısmen gizlendiği gözlenmiştir. Buton, sunulan algılama projesinde kaçış güzergahında gösterilmektedir. Yeni stand düzeni sonrasında fiili yatay erişim uzaklığına ilişkin güncel doğrulama kaydı sunulmamıştır. Görünürlük/erişim engelinin giderilmesi ve güncel güzergahın uygunluğunun doğrulanması gerekmektedir.” Bu anlatım kurgusal rapor örneğidir; gerçekleştirilmiş bir saha denetimi değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın ihbar butonunun erişilebilirliği, yalnız bir cihazın duvarda bulunması veya panelde alarm oluşturmasından ibaret değildir. Doğru değerlendirme, yürürlükteki gerekliliğin ilgili yapıya uygulanabilirliğini, onaylı projedeki cihazı, güncel kaçış güzergahını, montaj ve görünürlük koşullarını, erişimi etkileyen işletme düzenini ve doğrulanmış test kayıtlarını ilişkilendirir. YGU raporu, hangi hususun gözlendiğini, hangisinin belgeyle doğrulandığını ve hangisinin ayrıca teknik kontrol gerektirdiğini birbirinden ayırmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

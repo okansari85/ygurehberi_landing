@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K085",
+  "yol": "isletmenin-ic-yangin-duzenlemesi-hangi-belgeleri-birlestirir",
+  "baslik": "İşletmenin iç yangın düzenlemesi hangi belgeleri birleştirir?",
+  "ozet": "Bir işletmede yangın alarmı, tahliye, ilk müdahale, bakım ve haberleşme için ayrı ayrı talimatlar bulunabilir. Ancak bu belgeler birbirinden habersiz hazırlanmışsa çalışan hangi talimatı uygulayacağını bilemeyebilir. İç yangın düzenlemesinin amacı, farklı kayıtları tek dosyada toplamakla sınırlı değildir; işletmenin gerçek kullanımına uygun, birbiriyle tutarlı ve uygulanabilir bir çalışma düzeni kurmaktır.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ic-duzenleme-hangi-konulari-kapsar",
+      "metin": "İç düzenleme hangi konuları kapsar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 136. maddesi, yapı, bina, tesis ve işletmenin özellikleri dikkate alınarak yangın önleme ve söndürme konusunda iç düzenleme yapılmasını öngörür. 137. maddede ekiplerin sayısı, personelin adı ve görevleri, araç ve malzeme, söndürme araçlarının kullanım usulleri, eğitim, bakım ve nöbet hizmetleri gibi başlıklar yer alır. Bina yerleşimi, iç ulaşım yolları, yangın bölmeleri, cepheler, söndürme ve uyarı sistemleri ile su beslemesini gösteren plan ve krokiler de bu düzenlemelere eklenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Dolayısıyla yalnızca “yangın talimatı” başlıklı bir sayfanın panoya asılması yeterli bir değerlendirme ölçütü değildir. Yazılı düzenleme, kimin hangi durumda ne yapacağını, hangi teknik sistemin kullanılacağını, bilginin kime aktarılacağını ve güncel planların nerede bulunduğunu birlikte açıklamalıdır. İç düzenlemenin yürütülmesinden yapı, bina, tesis veya işletmenin sahibi, yöneticisi ya da amiri sorumludur."
+    },
+    {
+      "tip": "h2",
+      "id": "birbirini-tamamlamasi-gereken-belge-gruplari",
+      "metin": "Birbirini tamamlaması gereken belge grupları"
+    },
+    {
+      "tip": "p",
+      "metin": "İç düzenleme hazırlanırken belgelerin işlevi ayrılmalıdır: onaylı proje ve izinler yapının kabul edilmiş teknik durumunu gösterir; işletme planları ve talimatları ise o yapının günlük kullanımında görevlerin nasıl yürütüleceğini belirler. Bakım, eğitim ve tatbikat kayıtları da bu düzenin uygulanmasına ilişkin kanıt sağlar. Bu gruplardan birinin diğerinin yerine geçtiği varsayılmamalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge grubu",
+        "Başlıca kayıtlar",
+        "İç düzenlemedeki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Yapı ve kullanım",
+          "Yapı belgeleri, onaylı projeler, güncel mahal ve faaliyet bilgileri",
+          "Korunan alanlar, erişim ve kaçış düzeni, tesis sınırları"
+        ],
+        [
+          "Sorumluluk ve ekipler",
+          "Yazılı görevlendirmeler, ekip listeleri, vardiya ve iletişim bilgileri",
+          "İlk bildirim, müdahale, tahliye ve vekalet düzeni"
+        ],
+        [
+          "Müdahale ve tahliye",
+          "Acil durum planı, tahliye krokileri, haberleşme ve müdahale talimatları",
+          "Alarm sonrası karar ve hareket sırası"
+        ],
+        [
+          "Sistem ve ekipman",
+          "Sistem envanteri, kullanım talimatları, bakım ve muayene raporları",
+          "Kullanılabilir ekipman, arıza bildirimi ve teknik takip"
+        ],
+        [
+          "Eğitim ve tatbikat",
+          "Eğitim içeriği ve kayıtları, tatbikat raporları, iyileştirme kayıtları",
+          "Görevlerin öğrenilmesi ve uygulamadaki eksiklerin giderilmesi"
+        ],
+        [
+          "Revizyon ve duyuru",
+          "Belge sürüm listesi, yönetim onayı, dağıtım ve duyuru kayıtları",
+          "Eski talimatların kullanım dışı bırakılması ve güncel metnin erişimi"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo, işletmenin belge ilişkisini kurması için hazırlanmış yardımcı bir eşleştirmedir. Her satırın ayrı bir resmi form olarak düzenlenmesi gerektiği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "talimatlar-celisiyorsa-hangi-kayit-esas-alinir",
+      "metin": "Talimatlar çelişiyorsa hangi kayıt esas alınır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce çelişkinin konusu belirlenir. Örneğin bir tahliye krokisi kapıyı çıkış olarak gösterirken güncel kullanım talimatı aynı kapının sürekli kilitli tutulmasını söylüyorsa sorun yalnız metin farklılığı değildir; kaçışın güvenliğini etkileyen bir uygulama uyumsuzluğu olabilir. Onaylı proje, kullanım izni, mevcut mahal düzeni ve kapının fiili durumu birlikte incelenmeden yalnızca talimatlardan biri seçilerek sorun kapatılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Benzer şekilde, yangın alarmının devreye girmesi halinde güvenlik biriminin izleyeceği prosedür ile vardiya sorumlusunun haberleşme listesi farklı kişileri gösteriyorsa, görev dağılımı güncellenmeli ve ilgili personele duyurulmalıdır. Değişiklik teknik sistemi etkiliyorsa yetkili proje müellifi, bakım firması veya ilgili uzmanlık tarafından ayrıca değerlendirme yapılması gerekebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "guncellik-nasil-korunur",
+      "metin": "Güncellik nasıl korunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "İç düzenleme, işletmenin faaliyetiyle birlikte yaşayan bir belgedir. Yeni depo alanı, kat bölünmesi, personel ve vardiya değişikliği, alarm veya söndürme sistemi revizyonu, tahliye güzergahının değişmesi ve tatbikatta ortaya çıkan eksiklikler ilgili bölümlerin yeniden incelenmesini gerektirebilir. Her değişiklikte tüm dosyayı baştan yazmak yerine, etkilenen talimatlar, görev listeleri ve krokiler birlikte güncellenmeli; değişikliğin kim tarafından onaylandığı ve hangi sürümün yürürlükte olduğu görülebilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulamada tek bir ana belge dizini ve sürüm listesi yararlıdır. Bu liste, onaylı projelerin yerine geçmez; belgelerin hangi birimde tutulduğunu, hangi talimatın güncel olduğunu ve çalışanların güncel sürüme nasıl erişeceğini gösterir. Eski sürümler, güncel kullanım kopyalarıyla karıştırılmadan arşivlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevlendirildiği incelemenin kapsamı içinde önce yapının onaylı mimari ve yangın güvenliği projelerini, yapı ve kullanım izinlerini, güncel faaliyet ve mahal bilgilerini, iç yangın düzenlemesini ve ilgili teknik bakım raporlarını karşılaştırır. İnceleme, dosyada adı geçen her talimatın mevcut işletme koşullarında karşılığının bulunup bulunmadığına odaklanır. Özellikle vardiya değişiminde görevli ekiplerin ulaşılabilirliği, yangın alarmının kime bildirildiği, tahliye krokisinin gerçek güzergahla uyuşması ve arızalı sistemlerin nasıl izlendiği gözlemsel olarak değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir uyumsuzluk görüldüğünde YGU, ilgili belgeyi ve saha bulgusunu birlikte tanımlar; mahal, gözlem, dayanak, etkilenebilecek güvenlik işlevi ve önerilen takip işlemini gerekçeli rapora yazar. Belgenin mevcut olmaması ile mevcut belgenin sahada uygulanmaması farklı bulgulardır. Gerekli teknik ölçüm, sistem testi, proje revizyonu veya resmi onay, bu işlemlere yetkili kişi ve kuruluşların sorumluluğundadır. YGU incelemesi, yapılmamış bir testi yapılmış veya onaylanmamış bir projeyi onaylı hale getirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ile-taslak-arasindaki-sinir",
+      "metin": "Yürürlükteki düzenleme ile taslak arasındaki sınır"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağında iç düzenlemelerin hazırlanması ve kapsamına ilişkin hükümler 137 ve 138. maddelerde yer almaktadır. İçerik, yürürlükteki düzenlemenin temel yaklaşımını sürdürmekle birlikte taslak metin tek başına bağlayıcı yeni bir yükümlülük olarak kullanılmaz. Yangın Güvenlik Uzmanlığına ilişkin ayrı yönetmelik taslağı da saha kontrolünün belge, onaylı proje ve gözlemsel inceleme ilişkisini açıklayan bir hazırlık kaynağıdır; kesinleşmemiş görev veya yetki, yürürlükteki yetki gibi gösterilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İyi hazırlanmış bir iç yangın düzenlemesi; proje ve kullanım bilgilerini, ekip sorumluluklarını, müdahale ve tahliye talimatlarını, teknik sistem kayıtlarını, eğitim ve tatbikat sonuçlarını aynı işletme gerçeğinde buluşturur. Asıl kalite ölçütü dosyanın kalınlığı değil, belgelerin birbirini doğrulaması ve çalışanların güncel talimatla güvenli biçimde hareket edebilmesidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

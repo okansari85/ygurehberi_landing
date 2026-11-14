@@ -1,0 +1,154 @@
+{
+  "kod": "YGR-K151",
+  "yol": "asma-tavan-boslugu-ile-kullanim-hacmi-dedektorleri-nasil-ayristirilir",
+  "baslik": "Asma tavan boşluğu ile kullanım hacmi dedektörleri nasıl ayrıştırılır?",
+  "ozet": "Bir koridorun asma tavanında duman dedektörü görülmesi, tavanın üstündeki gizli hacmin de korunduğunu göstermez. Dedektör, tavana bakan kullanım hacmindeki yangını algılamak üzere yerleştirilmiş olabilir; tavan üzerindeki kablo, tesisat ve diğer bileşenlerin oluşturduğu boşluk ise farklı bir değerlendirme gerektirir. Yangın Güvenlik Uzmanı (YGU), önce iki hacmi projede ayırmalı, sonra dedektörlerin gerçekten hangi hacme baktığını ve hangi bölge/adresle kayıtlı olduğunu incelemelidir.",
+  "etiketler": [
+    "Yangın Alarmı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayni-kat-planinda-iki-farkli-algilama-alani-olabilir",
+      "metin": "Aynı kat planında iki farklı algılama alanı olabilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanım hacmi, insanların bulunduğu koridor, ofis veya benzeri mahalin asma tavan altındaki bölümüdür. Asma tavan boşluğu ise tavan kaplaması ile üstteki döşeme arasındaki hacimdir. Bu boşluk kablo tavaları, borular, havalandırma kanalları, elektrikli cihazlar, servis açıklıkları veya yangın kompartımanı sınırları içerebilir. Dolayısıyla tavana monte edilmiş tek bir cihaz, hangi hacme yerleştirildiği belirlenmeden iki katman için birden sayılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Asma tavanın delikli veya açık hücreli olması sonucu kendiliğinden değiştirmez. Dumanın alt ve üst hacim arasında nasıl hareket edeceği, deliklerin gerçek düzeni, tavanda bulunan engeller ve havalandırma akışı dikkate alınarak ilgili teknik tasarım doğrulanmalıdır. Alt hacim için uygun seçilmiş bir dedektörün üst boşluğu da koruduğu varsayımı, yalnız cihazın konumundan çıkarılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ne-soyluyor",
+      "metin": "Yürürlükteki BYKHY ne söylüyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 75, yangın algılama ve uyarı sisteminin temel gereklerini düzenler. Algılamanın gerekli olduğu yapılarda cihaz yerleşiminin ilgili standarda göre yapılması, duman dedektörünün uygun veya yeterli olmadığı mahallerde uygun başka tip algılama kullanılması ve bütün algılama cihazlarının periyodik test ve bakım için erişilebilir olması bu incelemenin temel başlıklarıdır. Uygulamanın binada zorunlu olup olmadığı ise ilgili kullanım ve yapı koşulları ile yürürlükteki uygulanabilir hükümlere göre ayrıca belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 75/5, içinde yanmaya elverişli madde bulunmayan, yangın anında normal baca niteliği göstermeyen ve erişilmesi mümkün olmayan boşluklar için koşullu bir istisna öngörür. Bu, “asma tavanın üstüne hiçbir zaman dedektör gerekmez” anlamına gelmez. Kablolama, yanıcı bileşenler, hava akımı, boşluğa erişim ve projenin öngördüğü koruma çözümü belirlenmeden istisna varmış gibi kayıt düşülemez. Bakanlık Kılavuzu da bu koşulları birlikte ele alır."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslagi-ayri-gosterilmeli",
+      "metin": "Değişiklik TASLAĞI ayrı gösterilmeli"
+    },
+    {
+      "tip": "p",
+      "metin": "BYKHY değişiklik TASLAĞININ 76. maddesinde otomatik algılama, uygun cihaz seçimi, boşluklar için koşullu istisna ve test/bakım için erişim başlıkları yer alır. Yürürlükteki metinde bu konunun ana maddesi 75 iken, incelenen taslakta 76 olarak numaralanmıştır. Taslakta geçen ifade ve madde numaraları nihai olarak yayımlanıp yürürlüğe girmedikçe mevcut yükümlülük gibi aktarılmamalıdır. Özellikle bina türleriyle ilgili eski ek tablo atıfları, ilgili yargı kararları ve geçerli mevzuat durumu dikkate alınmadan genel bir algılama zorunluluğu sonucu çıkarılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "dedektorleri-projeden-sahaya-eslestirme",
+      "metin": "Dedektörleri projeden sahaya eşleştirme"
+    },
+    {
+      "tip": "p",
+      "metin": "Yalnız mimari kat planı yeterli değildir. Algılama projesi, asma tavan kesitleri, kablo ve tesisat planları, cihaz adres listesi, panel bölge tanımları ve son tadilat çizimleri birlikte okunur. Boşluk yüksekliği, erişim kapakları ve yangın ayırıcı duvarların devamı kontrol edilir; farklı kullanım ve tesisat düzenleri aynı kabul edilmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Belge / proje karşılığı",
+        "Sahada doğrulanacak durum"
+      ],
+      "satirlar": [
+        [
+          "Alt kullanım hacmi",
+          "Algılama kat planı, mahal adı ve dedektör etiketi",
+          "Tavan altındaki cihazın konumu ve kapsadığı kullanım alanı"
+        ],
+        [
+          "Asma tavan üst boşluğu",
+          "Tavan kesiti, elektrik-mekanik yerleşimi, gerekiyorsa ayrı dedektör planı",
+          "Kablolar, yanıcı bileşenler, üst hacim cihazı veya koşullu istisna kanıtı"
+        ],
+        [
+          "Tavanın yapısı",
+          "Kaplama detayı, delik/açıklık bilgisi, hava hareketi tasarımı",
+          "Kapalı/delikli tavan ve üst-alt hacim ilişkisi"
+        ],
+        [
+          "Bakım erişimi",
+          "Bakım planı, erişim kapağı detayı, cihaz envanteri",
+          "Servis kapağı, cihazın bulunabilirliği ve bakım için ulaşılabilirliği"
+        ],
+        [
+          "Alarm tanımı",
+          "Panel adres listesi, devreye alma ve test raporu",
+          "Alt hacim ile üst boşluk cihazlarının doğru tanımlanması"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-sik-gorulen-dort-ayrim",
+      "metin": "Sahada sık görülen dört ayrım"
+    },
+    {
+      "tip": "p",
+      "metin": "Cihaz var ama hacim yanlış: Alt yüzeydeki dedektör, üst boşluğun da korunduğunu kanıtlamaz. İki hacimdeki cihazlar kat, mahal ve adres bazında ayrı eşleştirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Üst boşlukta kablo sonradan arttı: Yeni kablo tavası, plastik kılıflı hat veya cihazlar boşluğun yangın koşullarını değiştirebilir. Revizyon incelenmeden eski istisna geçerli sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Dedektör var ama bakım erişimi yok: Bakım için ulaşılamayan cihaz ayrıca incelenir; erişim kapağı ile dedektörün gerçek konumu pafta ve fotoğrafta gösterilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Panelde tek mahal adı kullanılmış: Alt ve üst hacimdeki cihazların panel adresleri, etiketleri ve test kayıtları ayrılır. Genel “koridor” ifadesi alarm veren cihazı tek başına tanımlamayabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), onaylı algılama projesini, gerçek yapı kullanımını, tavan ve tesisat paftalarını, revizyonları ve son test raporlarını inceler. Alt hacim ve ulaşılabilen üst boşluk cihazlarını proje numarasıyla panel adresine eşleştirir. Kapalı boşlukta gözlenemeyen cihaz için “yoktur” veya “uygundur” hükmü kurmaz; erişim ve kanıt sınırını açıkça kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Tadilatla kablo eklenen bir koridorda üst boşluğun cihaz planı sunulmamışsa YGU; boşluğun niteliğini, istisna gerekçesini, kablo revizyonunu ve bakım erişimini doğrulatır. Gerekli tasarım veya teknik testi yetkili uzmanların kayıtlarından izler; duman yayılımını ölçmüş ya da sistemi yeniden tasarlamış gibi sonuç vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek rapor: “K-12 koridorunun asma tavan altında D-14 dedektörü görülmüştür. Üst boşlukta sonradan eklenen kablo güzergahı bildirilmiş, gizli hacme ait güncel algılama projesi ve istisna değerlendirmesi sunulmamıştır. Üst boşluğun algılama gereksinimi doğrulanamadığından güncel proje ve teknik değerlendirme istenmiştir.” Bu, kurgusal örnek olup gerçek saha kaydı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Asma tavan altındaki kullanım hacmi ile üstteki gizli boşluk, aynı kat planında yer alsa da aynı algılama alanı sayılmamalıdır. Doğru YGU incelemesi; hacim sınırını, yanıcı bileşenleri ve hava hareketini, dedektörün gerçek yerini, panel adresini ve bakım erişimini birlikte ele alır. Sonuç, yalnız dedektörün görünmesine değil, yürürlükteki uygulanabilir hükme, onaylı projeye ve doğrulanabilir saha/test kanıtına dayanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

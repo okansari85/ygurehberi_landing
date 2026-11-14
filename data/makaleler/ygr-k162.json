@@ -1,0 +1,138 @@
+{
+  "kod": "YGR-K162",
+  "yol": "pompa-odasinin-yerlesimi-ve-emis-hatti-belgede-nasil-gosterilir",
+  "baslik": "Pompa odasının yerleşimi ve emiş hattı belgede nasıl gösterilir?",
+  "ozet": "Yangın pompası odasının projede çizilmiş olması, odanın sahada aynı yerde ve aynı tesisat düzeniyle bulunduğunu tek başına kanıtlamaz. Özellikle tadilat, cihaz değişimi veya depo yerleşiminin yeniden düzenlenmesi sonrasında pompa odasının konumu, su deposuyla ilişkisi ve emiş hattının güzergahı ayrı ayrı kontrol edilmelidir. Bu incelemenin temel sorusu, çizimin gerçek sistemi tanımlayıp tanımlamadığıdır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yerlesim-bilgisi-hangi-belgelerde-aranir",
+      "metin": "Yerleşim bilgisi hangi belgelerde aranır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk başvuru belgesi, onaylı yangın söndürme tesisatı projesinin pompa odası planı ve ilgili şemalarıdır. Mimari kat planı, pompa odasının yapının hangi bölümünde bulunduğunu; mekanik yerleşim planı, pompaların, kollektörlerin, vanaların ve su deposu bağlantılarının konumunu gösterir. Pompa odası farklı bir kata veya mahale taşınmışsa yalnız cihaz listesinin güncellenmesi yeterli değildir. Revize tesisat planı, bağlantı şeması ve gerektiğinde mimari proje arasındaki uyum aranır."
+    },
+    {
+      "tip": "p",
+      "metin": "Projede mahal adı, kat kotu, giriş kapısı, cihazlara bakım erişimi, su deposuna olan bağlantı, drenaj ve enerji beslemesi okunabilir olmalıdır. Pompa grubunun teknik katalogları ile devreye alma tutanakları, çizimdeki cihazların gerçekten kurulu cihazlarla eşleşip eşleşmediğini anlamaya yardımcı olur. Belge üzerinde onay ve revizyon bilgisi bulunması önemlidir; tarihsiz bir çizim, son uygulama durumunu tek başına ispatlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "emis-hattinin-cizimde-gosterilmesi",
+      "metin": "Emiş hattının çizimde gösterilmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Emiş hattı, su kaynağı ile pompa girişini birleştiren boru düzenidir. Yerleşim planında hattın başlangıcı, güzergahı, bağlantı noktaları, vana ve diğer tesisat elemanları açıkça izlenebilmelidir. Şemada boru çapları, kot ilişkisi ve gerekli teknik ayrıntılar projeyi hazırlayan yetkili tasarımcı tarafından belirlenir. Sahada bir dirsek eklenmesi, boru güzergahının uzatılması veya emiş bağlantısının farklı noktadan alınması, yalnız çizimsel bir farklılık değildir; pompanın çalışma koşullarını etkileyebilecek bir değişikliktir."
+    },
+    {
+      "tip": "p",
+      "metin": "Boru hattının sadece şematik çizimde görünmesiyle uygulama planında izlenebilir olması aynı şey değildir. Özellikle su deposu ile pompa farklı kotlardaysa, emiş düzeninin uygunluğu için projeye esas hidrolik hesaplar ve uygulama belgeleri aranmalıdır. Yangın Güvenlik Uzmanı (YGU) boru çapını veya emiş kaybını kendi gözlemiyle yeniden tasarlamaz; belgedeki tasarım verisini sahadaki durumla karşılaştırır ve teknik uyuşmazlığı yetkili tesisat tasarımcısının değerlendirmesine sunar."
+    },
+    {
+      "tip": "h2",
+      "id": "pompa-odasi-tasinmissa-hangi-kayitlar-birlikte-degerlendirilir",
+      "metin": "Pompa odası taşınmışsa hangi kayıtlar birlikte değerlendirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek bir inceleme durumunda işletmenin pompa grubunu eski odadan bitişik bir teknik mahale taşıdığı düşünülebilir. Bu, gerçekleşmiş bir olay kaydı değil, belge kontrol yöntemini açıklayan varsayımsal bir durumdur. Eski plan, yeni uygulama çizimi, tadilat izinleri, devreye alma raporu ve güncel bakım kayıtları birlikte açılır. Önce odanın konumu ve erişimi, ardından depo–pompa bağlantısı, emiş hattı, basma kollektörü, drenaj ve kumanda panolarının yerleşimi karşılaştırılır. Değişiklik varsa hangi çizimin güncel uygulamayı temsil ettiği açıkça belirlenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik yangın pompalarının performansı, yedeklenmesi, kumandası, pompa odasının sıcaklık koşulları, acil aydınlatması ve drenajına ilişkin hükümler içerir. Ancak yalnız oda yerinin değişmiş olması, pompanın debi ve basınç performansının bozulduğunu kanıtlamaz. Performans değerlendirmesi için yetkili kişilerce düzenlenen test ve ölçüm kayıtları gerekir. Bu ayrım raporda korunmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle onaylı mimari ve mekanik projelerin güncel sürümlerini, tadilat ve izin belgelerini, pompa teknik dokümanlarını, devreye alma ve bakım raporlarını talep eder. İşletme sorumlusu ile pompa odasının fiili kullanımını görüşür; oda başka malzemelerle depoya dönüştürülmüşse bu kullanım değişikliğini kayda geçirir. Sonra pompa odasının kapısı, bakım erişimi, cihaz konumları, emiş hattının görülebilen bölümleri, drenaj ve aydınlatma gibi unsurları projeyle karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapalı boru bölümlerinin güzergahı gözle doğrulanamıyorsa bunu “uygun” diye işaretlemek yerine belgenin ve saha erişiminin sınırını belirtir. Emiş hattı güzergahında gözlenen farklılığı fotoğraf, mahal tarifi ve proje paftası referansıyla kaydeder. Pompa performansı veya hidrolik yeterlilik konusunda karar gerekiyorsa, yetkili mühendislik incelemesi ve ilgili ölçüm/test raporunu ister. Uzmanın gözlemsel tespiti, proje onayı veya periyodik kontrol raporunun yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-kayit-tablosu",
+      "metin": "Saha kayıt tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Aranacak kanıt",
+        "Raporlama yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "Pompa odası konumu",
+          "Onaylı plan ve güncel uygulama çizimi",
+          "Kat/mahal farkı ve revizyon ihtiyacı"
+        ],
+        [
+          "Emiş hattı güzergahı",
+          "Tesisat planı, şema ve saha görünümü",
+          "Görülebilen farklılık; kapalı kısım için belirsizlik"
+        ],
+        [
+          "Pompa grubu",
+          "Etiket, katalog ve devreye alma raporu",
+          "Cihaz kimliği ve belge eşleşmesi"
+        ],
+        [
+          "Performans ve bakım",
+          "Yetkili test, bakım ve kontrol raporları",
+          "Eksik veya güncel olmayan kanıtın kaydı"
+        ],
+        [
+          "Erişim ve oda koşulları",
+          "Proje, işletme kayıtları ve saha gözlemi",
+          "Bakım erişimi, drenaj, aydınlatma tespiti"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-ve-taslak-ayrimi",
+      "metin": "Mevzuat ve taslak ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki düzenlemede yangın pompaları Madde 93 kapsamında ele alınır. Kullanıcı tarafından sağlanan BYKHY değişiklik taslağının görev haritasında aynı konu Madde 95 başlığı altında yer almaktadır (TASLAK). Bu numara farklılığı tek başına yeni bir teknik yükümlülük veya yürürlük değişikliği anlamına gelmez. Taslak metnin fıkra düzeyinde karşılaştırılması tamamlanmadan taslakta yer aldığı varsayılan özel bir emiş hattı ölçüsü, zorunluluk veya yeni yetki ileri sürülmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Pompa odası ve emiş hattı belgelerinde aranan temel nitelik, çizimin sahadaki sistemi doğru ve izlenebilir biçimde göstermesidir. Değişen mahal veya boru güzergahı, revizyon belgeleriyle açıklanamıyorsa inceleme tamamlanmış sayılmaz. Sağlıklı raporlama; gözlenen durum, mevcut belge, doğrulanamayan unsur ve gerekli yetkili teknik incelemeyi birbirinden ayırır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

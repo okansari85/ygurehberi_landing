@@ -1,0 +1,142 @@
+{
+  "kod": "YGR-K166",
+  "yol": "yeni-raf-duzeni-sprinkler-basliklarini-hangi-yonlerden-etkileyebilir",
+  "baslik": "Yeni raf düzeni sprinkler başlıklarını hangi yönlerden etkileyebilir?",
+  "ozet": "Depoda aynı sprinkler tesisatının yıllarca çalışır durumda kalması, raflar değiştirildiğinde koruma düzeninin hala doğru olduğunu göstermez. Raf yüksekliği, ürünün cinsi, paletleme biçimi, koridor açıklıkları ve istifin tavana yaklaşması; başlığın çevresindeki boşluğu ve suyun yangına ulaşma yolunu değiştirebilir. Yangın Güvenlik Uzmanı (YGU), yeni düzeni sadece başlıklara fiziksel zarar verilip verilmediği üzerinden değil, onaylı tasarımın hangi depolama koşullarını esas aldığı üzerinden incelemelidir.",
+  "etiketler": [
+    "Sprinkler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "raf-degisikligi-neden-yalniz-yerlesim-degisikligi-degildir",
+      "metin": "Raf değişikliği neden yalnız yerleşim değişikliği değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Sprinkler tasarımında korunacak alanın kullanımı, depolanan malzemenin yangın davranışı, istifleme yüksekliği, raf tipi ve su dağılımını kesebilecek engeller birlikte değerlendirilir. Eski projede düşük raflarla açık koridorlar bulunurken sonradan daha yüksek, çok sıralı veya sık yerleşimli raflara geçilmişse, aynı başlık dizilimi yeni kullanım için yeterli olmayabilir. Başlıklar hala tavanda bulunabilir; ancak suyun rafların iç bölümlerine erişmesi farklı bir teknik değerlendirme gerektirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Raf tabliyeleri, branda ve asma platformlar; suyun aşağıya ulaşmasını, ısının başlığa taşınmasını ve yangının yayılma biçimini etkileyebilir. Ambalajın kartondan plastik ağırlıklı malzemeye, gevşek istiften yüksek yoğunluklu palete dönmesi de önceki tasarım kabulünü değiştirebilir. Bunların hiçbirinden tek başına kesin bir “ilave başlık gerekir” veya “sistem yetersizdir” sonucu çıkarılamaz; güncel tasarımın uygun kişilerce yeniden değerlendirilmesi gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-ile-degisiklik-taslagi-nasil-ayrilir",
+      "metin": "Mevzuat ile değişiklik TASLAĞI nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 96/5, yağmurlama sistemi tasarımının TS EN 12845’e göre yapılmasını; başlık yerleşiminde kullanım alanının tehlike sınıfı ve başlığın koruma alanının dikkate alınmasını düzenler. Bu hüküm, raf değişikliğinin neden yalnız mimari bir tadilat olarak görülmemesi gerektiğinin dayanağıdır. YGU, kullanılan proje revizyonunu ve tasarım kabullerini teknik raporlarla birlikte araştırır; yalnız sahadaki gözleme dayanarak hidrolik hesap onaylamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından sağlanan BYKHY değişiklik TASLAĞININ 98/5. maddesi aynı konuyu ilgili standarda uygun tasarım ve koruma alanı çerçevesinde ele alır. Taslaktaki madde numarası ve ifade biçimi yürürlükteki metnin yerine geçmez. YGU periyodik kontrol düzenlemesine ait taslak formun mekanik bölümünde de yağmurlama başlıklarının çalışmasını engelleyen durum bulunmaması ve başlıkların hasarsız olması kontrol konusu olarak yer alır. Bu form TASLAK niteliğindedir; tek başına tamamlanmış bir sprinkler tasarım değerlendirmesi sayılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-eslestirmesinde-hangi-veri-aranir",
+      "metin": "Proje–saha eşleştirmesinde hangi veri aranır?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, yangın söndürme projesi ile depolama yerleşim paftasını aynı ölçek ve revizyonda karşılaştırır. Onaylı projede kullanılan depolama türü, tasarım kabulü, raf üst kotu, başlık koordinatları ve boru güzergahı ile güncel raf düzeninin ilişkisini kurar. Raf tedarikçisinin montaj resmi, işletmenin stok listesi ve güncel paletleme yöntemi ayrıca istenir. Farklı belgelerde aynı mahalin farklı kullanımda gösterilmesi, teknik inceleme tamamlanana kadar bir doğrulama açığıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol alanı",
+        "Proje / kayıt",
+        "Sahada doğrulama"
+      ],
+      "satirlar": [
+        [
+          "Raf ve istif yüksekliği",
+          "Onaylı depo düzeni, raf kesiti, tasarım kabulü",
+          "Son raf üst kotu, en yüksek ürün kotu ve tavana yaklaşım"
+        ],
+        [
+          "Malzeme ve ambalaj",
+          "Stok/ürün listesi, yangın tehlikesi değerlendirmesi",
+          "Plastik, karton, köpük vb. ürün ve ambalaj değişiklikleri"
+        ],
+        [
+          "Başlık / engel ilişkisi",
+          "Başlık planı, raf detayı, ekipman koordinatları",
+          "Tabliye, kiriş, kanal, branda ve üst üste istifin etkisi"
+        ],
+        [
+          "Koruma alanları",
+          "Hidrolik ve yerleşim tasarım raporu",
+          "Değişen koridor genişliği, raf derinliği ve bölge sınırı"
+        ],
+        [
+          "İşletme ve bakım",
+          "Son test raporu, arıza kayıtları, revizyon çizimi",
+          "Başlık hasarı, erişim, koruyucu tedbir ve yeni iş akışı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "saha-incelemesinde-bes-kritik-karsilastirma",
+      "metin": "Saha incelemesinde beş kritik karşılaştırma"
+    },
+    {
+      "tip": "p",
+      "metin": "Birinci karşılaştırma, rafların onaylı plandaki konumu ile fiili ayak izidir. Koridorları daraltan yeni raflar veya yangın ayırıcı duvar önüne taşınan stoklar hem sprinkler alanını hem başka yangın güvenliği unsurlarını etkileyebilir. İkinci karşılaştırma, en yüksek istifin başlık deflektörüne ve tavan düzlemine göre konumudur. Uygun mesafe projeye, depolama yöntemine ve geçerli teknik kurallara göre belirlenmelidir; bütün depolar için tek sabit mesafe kabul edilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü karşılaştırma, rafın su dağılımını kesen yatay yüzeyleri ve raf içi boşluklarıdır. Yeni tabliye türü veya kapanmış açıklıklar, yangının gelişimi ile suyun erişimini değiştirebilir. Dördüncü karşılaştırma, ürünün gerçek niteliğidir: aynı raf yüksekliğinde bile yanıcı ambalaj oranı ve istif şekli değişmiş olabilir. Beşinci karşılaştırma ise sprinkler sisteminin kayıtlarıdır. Periyodik kontrol belgesinin bulunması, belgenin hangi raf düzeni ve kullanım koşulu için düzenlendiği görülmeden güncel yerleşimi doğrulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemeye son onaylı yangın söndürme projesini, hidrolik hesap özetini, sprinkler başlık yerleşimini, depolama planını, stok sınıflandırma kayıtlarını ve bakım/test raporlarını isteyerek başlar. İşletme temsilcisiyle hangi rafların değiştiğini, hangi ürünlerin taşındığını ve değişikliğin tarihini netleştirir. Raf modülü ve aks aralıklarını, istif üst kotunu, başlık ve engel konumlarını ölçüm imkanı ölçüsünde fotoğraf ve krokiyle belgeler. Ulaşılamayan raf gözleri veya görülemeyen başlıklar için kanıt sınırını açık yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "Şüpheyi teknik bir tasarım eksikliği olarak kaydetmek, sahada rastgele bir yerleşim düzeltmesi emretmekten daha doğrudur. YGU; başlığın yerini değiştirme, yeni bir raf içi sprinkler hattı tasarlama veya mevcut pompanın yeterliliğini hesaplama işini yetkili tasarım ve uygulama uzmanlarına bırakır. Güncellenmiş teknik değerlendirme, gerekiyorsa proje revizyonu ve uygun test belgelerinin tamamlanmasını izler. Acil bir engelleme veya başlık hasarı gözlenmişse işletmeye durumu gecikmeden bildirir; alınacak geçici önlemleri yetkili sorumluların kararıyla kayıt altına alır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-bulgu-ve-takip-kaydi",
+      "metin": "Örnek bulgu ve takip kaydı"
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal örnek: “D-05 depo bölümünde iki raf sırasının yükseltildiği, depolama yüksekliği ile ambalaj dağılımının son onaylı sprinkler projesinde gösterilen koşullardan farklılaştığı görülmüştür. Başlıkların yeni raf düzenindeki korunma alanı ile su dağılımını engelleyebilecek yatay tabliyelere ilişkin güncel teknik değerlendirme sunulmamıştır. İşletmeden revize depolama planı, yetkili proje değerlendirmesi ve varsa gerekli sistem revizyonu/test kayıtları istenmiştir.” Bu ifade, hidrolik yeterliliğin doğrulandığı veya sistemin kesinlikle yetersiz olduğunun kanıtlandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni raf düzeni, yalnız birkaç mobilyanın yer değiştirmesi değildir; sprinkler tasarımının depolama türü, istif yüksekliği ve koruma alanı kabullerini etkileyebilir. Güvenilir YGU sonucu, görünür başlık sayısını değil, yeni kullanımla onaylı proje arasındaki ilişkiyi ve tamamlanan teknik değerlendirmeyi esas alır. Kanıt tamamlanmadığında uygunluk varsayılmaz; gözlem, eksik belge, sorumlu ve düzeltme takip adımı ayrı ayrı kaydedilir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

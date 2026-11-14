@@ -1,0 +1,161 @@
+{
+  "kod": "YGR-K064",
+  "yol": "hidrant-yerlesimi-itfaiye-erisimiyle-birlikte-nasil-incelenir",
+  "baslik": "Hidrant yerleşimi itfaiye erişimiyle birlikte nasıl incelenir?",
+  "ozet": "Bir hidrantın projede gösterilmiş ve sahada yerinde duruyor olması, yangın anında kullanılabileceğini tek başına kanıtlamaz. İtfaiye aracının yaklaşması, ekibin hidrant bağlantılarına ulaşması ve hortumun güvenle serilebilmesi aynı incelemenin parçalarıdır. Özellikle yeni depo, otopark veya çevre düzenlemesi yapılan tesislerde bu ilişki yeniden görülmelidir.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "yerlesim-uygunlugu-neden-yalniz-konum-kontrolu-degildir",
+      "metin": "Yerleşim uygunluğu neden yalnız konum kontrolü değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 95 inci maddesi, hidrantların mümkün olduğunca yapının çevresini kapsayacak biçimde yerleştirilmesini ve itfaiye ile araçlarının kolay yanaşıp bağlantı yapabileceği şekilde düzenlenmesini öngörür. Aynı yönetmeliğin 22 nci maddesi ise itfaiye araçlarının binaya ulaşım yollarına ilişkin ayrı koşullar içerir. Bu nedenle hidrantın binaya uzaklığı, hidrantlar arasındaki mesafe ve aracın fiili yaklaşım güzergahı birbirinin yerine geçen ölçütler değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakanlığın Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu, hidrant yerleşimi ile itfaiye ulaşım yollarını çizimlerle açıklar. Ancak kılavuz bir uygulama rehberidir; bağlayıcı değerlendirmede yürürlükteki yönetmelik ve yapıya uygulanabilir onaylı proje esas alınır. Taslak metinlerde önerilen yeni hükümler yürürlükteki zorunluluk gibi kullanılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-saha-durumu-hidrant-onune-yeni-depo-blogu",
+      "metin": "Temsili saha durumu: hidrant önüne yeni depo bloğu"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir sanayi tesisinin ilk vaziyet planında hidrant, servis yolundan ulaşılabilir bir noktadadır. Daha sonra aynı alana dış depo bloğu yapılmış ve araç trafiği yeniden düzenlenmiştir. Hidrantın kendisi taşınmamıştır; buna rağmen yaklaşma rotası daralmış, hortum serme yönü değişmiş veya bağlantı ağzının önü kapatılmış olabilir. Bu anlatım gerçek bir olay kaydı değil, proje–saha karşılaştırmasını açıklayan temsili bir durumdur."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 64. Yeni depo bloğunun hidrant ve itfaiye yaklaşımı üzerindeki olası etkisi (özgün temsili çizim).",
+      "src": "/img/makale/ygr-k064-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "ilk-bulguda-hangi-kanit-eksik",
+      "metin": "İlk bulguda hangi kanıt eksik?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme",
+        "İlk gözlem",
+        "Karar için gerekli tamamlayıcı kanıt"
+      ],
+      "satirlar": [
+        [
+          "Yerleşim",
+          "Hidrant sahada mevcut; yeni depo bloğu eski planda yok.",
+          "Güncel vaziyet planı, blok sınırı ve hidrant kimliği."
+        ],
+        [
+          "İtfaiye erişimi",
+          "Yol veya manevra alanı değişmiş olabilir.",
+          "Güncel yaklaşma güzergahı, fiziksel engel ve gerekli durumlarda yetkili idare değerlendirmesi."
+        ],
+        [
+          "Hidrant kullanımı",
+          "Bağlantı ağzı görülebiliyor; çalışma alanı belirsiz.",
+          "Kapak, vana, bağlantı yönü ve hortum kullanım alanının yerinde gözlemi."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Birinci bulgu “hidrant yok” değildir; “yerleşim değişikliği sonrası erişim ve kullanım koşulları henüz doğrulanamadı” şeklinde kurulmalıdır. Engel gözle görülüyorsa yeri ve niteliği ayrıca kaydedilir. Bu ayrım, belgesiz bir uygunluk kararı verilmesini de belirsizliğin kesin uygunsuzluk gibi sunulmasını da önler."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce onaylı vaziyet planını, yangın söndürme tesisatı projesini, yapı ruhsatı ve yapı kullanma iznine ilişkin mevcut belgeleri, sonradan yapılan ilave yapı veya çevre düzenlemesi kayıtlarını inceler. Hidrantın proje kodu, bağlı olduğu hat, koruduğu bina çevresi ve itfaiye yaklaşım yolu bu belgelerde eşleştirilir. Güncel tesis faaliyeti, yükleme alanı, araç parkı, güvenlik kapısı ve vardiyalara göre değişen kullanım koşulları ayrıca sorgulanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada hidrantın görünürlüğünü, koruyucu kapak ve bağlantı ağızlarının erişilebilirliğini, önündeki kalıcı veya geçici engelleri, yaklaşma yolunu ve hortum serme alanını gözlemler. Yolun fiziki durumu ile projedeki güzergah uyuşmuyorsa farkı kroki ve fotoğrafla kayıt altına alır. Gerektiğinde güncel ölçüm veya manevra uygunluğu için yetkili teknik kişi ve ilgili itfaiye/idare görüşünün alınmasını önerir; kendi gözlemini araç manevra hesabı veya yetkili idare onayı yerine koymaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Hidrantın bakım ve test raporları, su deposu/pompa/hat belgeleri ile varsa yetkili kişilerce düzenlenmiş debi ve basınç ölçüm sonuçları ayrıca değerlendirilir. Bu kayıtlar hidrolik yeterliliğe ilişkin kanıt sağlayabilir; fakat hidrantın önündeki engelin bulunmadığını kanıtlamaz. YGU, gerekçeli raporunda proje referansını, saha bulgusunu, etkilenebilecek müdahale koşulunu ve eksik doğrulamayı ayrı belirtir. Hidrolik hesap, performans ölçümü, sistem tasarımı, proje tadilatı ve resmi onay ilgili yetkili kişi ve kuruluşların sorumluluğunda kalır."
+    },
+    {
+      "tip": "h2",
+      "id": "kayitlar-birlikte-nasil-okunmali",
+      "metin": "Kayıtlar birlikte nasıl okunmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge veya kayıt",
+        "Aranacak bilgi",
+        "Değerlendirmedeki işlevi"
+      ],
+      "satirlar": [
+        [
+          "Onaylı vaziyet ve tesisat projeleri",
+          "Hidrant kodu, yerleşim, boru hattı, araç yolu ve bina sınırı",
+          "İlk tasarım kararını belirlemek"
+        ],
+        [
+          "Güncel saha planı ve fotoğraflar",
+          "Yeni depo, park düzeni, kapı, çit, yol ve bağlantı ağzı",
+          "Proje ile gerçek yerleşimi karşılaştırmak"
+        ],
+        [
+          "Bakım ve test belgeleri",
+          "Hidrant kimliği, kontrol tarihi, bulgu, yetkili test sonucu",
+          "Donanımın teknik kayıtlarını erişimden ayrı değerlendirmek"
+        ],
+        [
+          "İşletme ve erişim kayıtları",
+          "Yükleme saatleri, park talimatı, güvenlik kapısı erişimi",
+          "Engelin geçici mi sürekli mi olduğunu anlamak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "duzeltici-faaliyet-ne-zaman-tamamlanmis-sayilir",
+      "metin": "Düzeltici faaliyet ne zaman tamamlanmış sayılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletme yalnız hidrantın önündeki malzemeyi kaldırmakla yetinmemelidir. Yeni blok veya araç parkı müdahale güzergahını etkiliyorsa güncel yerleşim çözümü ilgili yetkili kişilerce değerlendirilir; gerekirse proje ve idari süreçler tamamlanır. Yeniden incelemede hidrantın önü, aracın yaklaşma yolu ve bağlantı alanı gerçek işletme koşullarında gözlenir. Uyarı levhası veya zemin çizgisi, tek başına kullanılabilir erişimin kanıtı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Hidrantın uygunluğu, yalnız sayısı veya vaziyet planındaki işaretiyle açıklanamaz. Projedeki yerleşim, itfaiyenin yaklaşımı, hidrantın bağlantı alanı ve güncel işletme düzeni birlikte incelenmeli; erişim ile hidrolik performans farklı kanıtlarla doğrulanmalıdır. YGU’nun görevi bu kanıt zincirini görünür kılmak, proje–saha farkını gerekçelendirmek ve yetki sınırlarını aşmadan düzeltici süreci izlenebilir hale getirmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

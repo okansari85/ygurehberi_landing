@@ -1,0 +1,167 @@
+{
+  "kod": "YGR-K110",
+  "yol": "ayni-yapidaki-farkli-tehlike-siniflarinin-sinirlari-nasil-gosterilir",
+  "baslik": "Aynı yapıdaki farklı tehlike sınıflarının sınırları nasıl gösterilir?",
+  "ozet": "Bir atölye, depo ve idari ofis aynı yapı içinde bulunabilir. Ancak mahallerin birbirine komşu olması, aynı tehlike sınıfında oldukları anlamına gelmez; çizimde ayrı görünmeleri de yangın bakımından bağımsız bölmeler oluşturulduğunu kanıtlamaz.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-kullanim-alanini-sonra-tehlikeyi-tanimlamak-gerekir",
+      "metin": "Önce kullanım alanını, sonra tehlikeyi tanımlamak gerekir"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) kapsamında kullanım sınıfı ile yangın tehlike sınıfı farklı sorulara yanıt verir. Kullanım sınıfı yapının hangi amaçla kullanıldığını; tehlike sınıfı ise mahalde yürütülen faaliyet, bulunan malzeme ve yangının gelişme potansiyeli bakımından gerekli tasarım yaklaşımını ortaya koyar. İş sağlığı ve güvenliği mevzuatındaki işyeri tehlike sınıfı veya yalnızca NACE kodu, BYKHY tehlike sınıfının yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınıflandırma bina adı üzerinden değil, bölümün gerçek faaliyeti üzerinden yapılır. Örneğin aynı çatı altındaki ofiste evrak ve bilgisayarlar, atölyede üretim ekipmanı, depoda ise ambalajlı ürünler bulunabilir. Malzemenin türü, miktarı, istif biçimi ve faaliyet değiştikçe tehlike değerlendirmesi de yeniden ele alınmalıdır. Bu örnek, söz konusu mahallere peşinen düşük, orta veya yüksek sınıf atamak için yeterli veri içermez."
+    },
+    {
+      "tip": "h2",
+      "id": "planda-sinir-cizgisi-ile-yangin-bolmesi-ayni-sey-degildir",
+      "metin": "Planda sınır çizgisi ile yangın bölmesi aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Mahallerin sınırları, onaylı mimari planda mahal adı, alanı, kullanım amacı ve konumu ile okunabilir olmalıdır. Farklı tehlike değerlendirmeleri yapılıyorsa bunların hangi hacim için geçerli olduğu ayrıca işaretlenmelidir. Ancak bir çizgi, duvar ya da kapı sembolü tek başına yangın bölmesi oluşturmaz. Bölme olarak kabul edilen ayrımın duvar ve döşeme sürekliliği, kapı niteliği, tesisat geçişleri, şaftlar ve asma tavan üzerindeki devamlılığı ilgili onaylı proje ve teknik belgelerle ortaya konulmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sınır gösteriminde temel soru şudur: Tehlike değerlendirmesi hangi mahalde başlıyor ve bitiyor; bu sınırın yangın ve duman yayılımını sınırladığı hangi teknik kanıtla doğrulanıyor? Ayrım belgelenemiyorsa sadece farklı renkler kullanılarak bağımsız koruma kabulü yapılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Temsili mahal yerleşimi (ölçeksiz, yangın bölmesi niteliği göstermez)"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "ATÖLYE",
+        "DEPO",
+        "İDARİ OFİS"
+      ],
+      "satirlar": [
+        [
+          "Faaliyet: üretim / işlemKanıt: proses ve malzeme bilgisi",
+          "Faaliyet: malzeme saklamaKanıt: ürün, ambalaj ve istif envanteri",
+          "Faaliyet: idari çalışmaKanıt: mahal kullanımı ve yerleşim planı"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Şema, üç ayrı değerlendirme alanını gösterir. Aralarındaki çizgilerin yangına dayanımlı ayırıcı olduğu varsayılmamıştır. Gerçek projede kapılar, açıklıklar, ortak tesisatlar ve geçişler ayrıca incelenir."
+    },
+    {
+      "tip": "h2",
+      "id": "farkli-siniflar-birlikte-oldugunda-hangi-karar-etkilenir",
+      "metin": "Farklı sınıflar birlikte olduğunda hangi karar etkilenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY’nin 19. maddesi, bir binanın bölümlerinde değişik tehlike sınıfına sahip malzemeler bulunması halinde su ve pompa kapasitesinin binadaki en yüksek tehlike sınıflandırmasına göre belirlenmesini öngörür. Bu nedenle mahal bazlı sınır çizmek, ortak yangın suyu altyapısını otomatik olarak yalnızca o mahallin sınıfına göre küçültme gerekçesi değildir. Söndürme sistemi ve kompartıman tasarımında da ilgili alanların sınıflandırması ve yönetmeliğin diğer hükümleri birlikte değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Karışık kullanım bakımından ayrıca BYKHY’nin 18. maddesi önem taşır. Farklı kullanım sınıflarına tabi bölümler, daha yüksek tehlikeye uygun yangın bölmesiyle ayrılamıyor veya iç içe oldukları için ayrı korunma tedbirleri uygulanamıyorsa daha yüksek koruma gerektiren sınıflandırmanın kuralları bütün bina için gündeme gelir. Bu hüküm ile 19. maddedeki tehlike sınıflandırması aynı kavram değildir; biri diğerinin yerine kullanılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının ilettiği yeni BYKHY taslağında 19. maddenin ilk fıkrası, farklı sınıflardaki malzemeler bir aradaysa sınıflandırmayı en yüksek tehlike sınıfına ait malzemenin bulunduğu alan üzerinden ifade eder. Bu metin, yürürlükteki su ve pompa kapasitesine ilişkin açık ifadeyle aynı değildir. Taslak düzenleme, yürürlükteki hükmün yerine geçmiş gibi uygulanamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-ile-proje-arasinda-izlenebilir-bir-sinir-kaydi",
+      "metin": "Saha ile proje arasında izlenebilir bir sınır kaydı"
+    },
+    {
+      "tip": "p",
+      "metin": "İyi bir inceleme, tek sayfalık renkli planla bitmez. Mahalin hangi işte kullanıldığı, hangi malzemeyi içerdiği, hangi ayırıcılarla çevrili olduğu ve koruma sistemlerinin hangi tasarım varsayımıyla seçildiği birbirine bağlanmalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Beklenen dayanak",
+        "Sahada sorulacak soru"
+      ],
+      "satirlar": [
+        [
+          "Mahal ve kullanım sınırı",
+          "Onaylı mimari proje, ruhsat ve kullanım belgeleri",
+          "Atölye, depo ve ofisin fiili sınırları projeyle örtüşüyor mu?"
+        ],
+        [
+          "Faaliyet ve malzeme",
+          "Proses tanımı, ürün envanteri, güvenlik bilgi formları",
+          "Depoda veya atölyede projede öngörülmeyen yanıcı malzeme var mı?"
+        ],
+        [
+          "Yangın bölmesi",
+          "Mimari yangın güvenliği detayları, kapı ve geçiş belgeleri",
+          "Ayırıcı elemanlar, kapılar ve tesisat geçişleri süreklilik gösteriyor mu?"
+        ],
+        [
+          "Sistem tasarım kabulleri",
+          "Söndürme projesi, hidrolik hesap ve kabul/bakım kayıtları",
+          "Ortak su ve pompa kapasitesi hangi tehlike varsayımına göre seçilmiş?"
+        ],
+        [
+          "Değişiklik ve kayıt",
+          "Revizyon projeleri, izinler, bakım ve kontrol raporları",
+          "Raf, proses veya mahal değişikliği proje revizyonuna yansımış mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari ve yangın güvenliği projeleri, yapı ruhsatı, yapı kullanma izni ve mevcut revizyonların karşılaştırılmasıyla başlar. Atölye, depo ve ofisin plandaki yerlerini fiili faaliyetle eşleştirir; bölme sınırlarının sahadaki karşılığını, kapı ve tesisat geçişlerini gözlemler. İşletmenin sunduğu malzeme listeleri, güvenlik bilgi formları, sistem projeleri, bakım ve test raporları ile gözlem arasında çelişki olup olmadığını kayda geçirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin onaylı projede ayrı depo görünen hacmin atölyeyle birleştirilmesi veya yangın kapısının kaldırılması, yalnızca “sınıf değişti” denilerek geçiştirilemez. YGU; mahalin kimliğini, tespit edilen değişikliği, ilgili proje paftasını, teknik dayanağı ve eksik belgeyi açıkça belirtir. Sınıflandırmanın ya da ortak söndürme kapasitesinin yeniden tasarım hesabı gerektirip gerektirmediğini yetkili proje müellifi ve ilgili uzmanlık disiplininin değerlendirmesine yönlendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU’nun gözlemsel incelemesi; yangına dayanım deneyi, hidrolik ölçüm, mühendislik tasarımı, proje onayı veya idare adına izin verme işlemi değildir. Yetki gerektiren hesap, ölçüm, test ve onaylar ilgili yetkili kişiler ve kuruluşlar tarafından yürütülür. Uzman raporu, kanıtlanan durum ile doğrulanması gereken hususu birbirinden ayırmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı yapıdaki farklı tehlike sınıflarının sınırları; mahal adı, faaliyet, malzeme, onaylı proje ve ayırıcı yapı elemanları birlikte gösterildiğinde anlam kazanır. Çizim üzerindeki sınır, yangın bölmesi niteliğinin kanıtı değildir. Ortak sistem kapasitesi ve karma kullanım hükümleri ayrıca değerlendirilmeden yalnızca mahal bazlı etiketlerle uygunluk kararı verilmemelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

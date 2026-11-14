@@ -1,0 +1,185 @@
+{
+  "kod": "YGR-K114",
+  "yol": "acik-sahadaki-stoklarin-bina-yerlesimine-etkisi-nasil-belgelenir",
+  "baslik": "Açık sahadaki stokların bina yerleşimine etkisi nasıl belgelenir?",
+  "ozet": "Açık sahaya bırakılan palet, ambalaj, konteyner veya üretim stoğu yalnız bir düzen ve temizlik konusu değildir. Stokun yeri, niteliği ve kullanım biçimi; yangının cepheye veya komşu yapıya yayılmasını, itfaiyenin yaklaşmasını, su alma noktalarına erişimi ve işletmenin onaylı yerleşim kararlarını etkileyebilir. Ancak her açık stokun kendiliğinden yasak olduğu veya her stok için tek bir sabit bina mesafesi bulunduğu söylenemez. Değerlendirme, somut yerleşim ve malzeme verileriyle yapılır.",
+  "etiketler": [
+    "Yerleşim ve İtfaiye"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-inceleme-neden-vaziyet-planiyla-baslar",
+      "metin": "1. İnceleme neden vaziyet planıyla başlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "Vaziyet planı; bina oturumlarını, parsel sınırlarını, yolları, açık alan kullanımını ve varsa yangınla mücadele için ayrılan ulaşım veya su ikmal noktalarını birlikte okumayı sağlar. İlk soru, stokun bulunduğu alanın onaylı belgelerde nasıl tanımlandığıdır. Açık alanın projede boş görünmesi, tek başına bütün depolamaların yasak olduğu sonucunu doğurmaz; fakat sonradan yapılan düzenlemenin projedeki yangın güvenliği varsayımlarını değiştirip değiştirmediği araştırılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Önce yapı ruhsatı, yapı kullanma izin belgesi, onaylı vaziyet ve mimari projeler ile varsa revizyonlar alınır. Ardından güncel stok planı, malzeme envanteri, depolama yöntemi ve fiili işletme düzeni bu belgelerle karşılaştırılır. Geçici olduğu söylenen bir konteynerin sürekli kullanılması veya paletlerin zamanla farklı bölgelere yayılması, sadece sözlü beyana dayanılarak göz ardı edilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "2-stokun-etkisi-hangi-basliklarda-arastirilir",
+      "metin": "2. Stokun etkisi hangi başlıklarda araştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Açık sahadaki depolamanın yangın açısından önemi, yalnızca stokun kapladığı metrekareyle açıklanamaz. Yanıcılık, istif yüksekliği, ambalaj, stok sürekliliği, çevredeki yapı ve tesisatlar, araç hareketleri ve müdahale erişimi birlikte değerlendirilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Sahada bakılacak durum",
+        "Belge veya kanıt"
+      ],
+      "satirlar": [
+        [
+          "Stokun niteliği",
+          "Malzeme türü, ambalaj, miktar, istif şekli, geçici/sürekli kullanım",
+          "Malzeme listesi, güvenlik bilgi formu varsa, stok kayıtları"
+        ],
+        [
+          "Proje–saha farkı",
+          "Stokun vaziyet planında öngörülen kullanım alanına taşması",
+          "Onaylı vaziyet planı, revizyon, tarihli saha krokisi"
+        ],
+        [
+          "İtfaiye erişimi",
+          "Araç yolunda daralma, dönüş alanında engel, kapı veya bariyer önü",
+          "Ulaşım yolu planı, konumlu fotoğraf, yetkili ölçüm kaydı"
+        ],
+        [
+          "Bina ve komşuluk",
+          "Cephe açıklıkları, bitişik tesisler, komşu parsel ve yangın yayılımı olasılığı",
+          "Mimari proje, parsel bilgisi, yerleşim krokisi"
+        ],
+        [
+          "Müdahale donanımı",
+          "Hidrant, itfaiye su verme bağlantısı, yangın dolabı ve acil çıkış erişimi",
+          "Tesisat yerleşim planı, muayene/bakım kayıtları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "3-yonetmelik-hangi-sinirlari-cizer",
+      "metin": "3. Yönetmelik hangi sınırları çizer?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 20. maddesi, yangının çevredeki binalara sıçramasının sınırlandırılmasını ve müdahale ekiplerinin emniyetinin gözetilmesini temel ilke olarak düzenler. 21. madde yerleşim ve imar planlamasıyla, 22. madde ise itfaiyenin binaya ulaşımıyla ilgilidir. Bu hükümler, açık stokun konumunun neden yerleşim ve erişim bakımından incelendiğini açıklar; tek başlarına bütün açık stoklar için genel bir metre cinsinden ayırma mesafesi vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin 22. maddede itfaiye araçlarının yaklaşabildiği son noktadan bina cephesine ilişkin yatay uzaklık düzenlenir. Bu değer, açık stok ile cephe arasındaki zorunlu ayırma mesafesi olarak kullanılamaz. İç ulaşım yolunun genişlik, dönüş ve taşıma koşulları da stok alanı için genel depolama mesafesi yerine geçmez. Stok tehlikeli madde içeriyorsa ilgili madde türüne ve depolama biçimine özgü diğer hükümler ayrıca araştırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "4-taslak-degisikligi-nasil-okunmali",
+      "metin": "4. Taslak değişikliği nasıl okunmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı yeni BYKHY taslağında 21. maddenin ilk fıkrasında yeşil kuşak ayrılması ifadesi yürürlükteki metinden farklı kurulmuştur. Üçüncü fıkrada ise 75 m sınırıyla ilgili olarak plan değişikliği bulunan alanlar ve ilgili itfaiye teşkilatının görüşü ayrıca ele alınmaktadır. Bu değişiklikler imar planlaması ve yerleşim kararlarıyla ilgilidir; açık stok için bağımsız, genel bir ayırma mesafesi getirdikleri şeklinde yorumlanmamalıdır. Taslak yürürlükteki hükmün yerine uygulanmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Orman alanlarına ilişkin özel yerleşim ve dış yangın bölgesi düzenlemeleri, yalnızca o hükümlerin kapsamına giren alanlarda ayrıca değerlendirilir. Ormanla ilgisi olmayan bir sanayi parselindeki palet istifine bu özel mesafeleri otomatik uygulamak teknik ve hukuki bakımdan doğru değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "5. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı vaziyet planını, mimari projelerini, ruhsat ve izin kayıtlarını, varsa yangın güvenliğiyle ilgili proje revizyonlarını isteyerek başlar. İşletmenin açık stok krokisini ve fiili stok envanterini de temin eder. Sahada stokun gerçek sınırlarını, yol ve kapıların kullanılabilirliğini, cepheye ve komşu yapılara göre konumunu gözlemsel olarak inceler. Bulguları tarihli fotoğraf ve kroki üzerinde konumlandırır; proje ile saha arasındaki farkı açıkça tarif eder."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygulamada kritik ayrım, gözlenen bir engeli belgelendirmek ile bir mühendislik tasarımını onaylamaktır. YGU, itfaiye yolunun stok nedeniyle fiilen kapandığını veya hidrant erişiminin engellendiğini raporlayabilir. Buna karşılık gerekli yol geometrisini yeniden projelendirmek, yapısal taşıma hesabı yapmak, özel bir söndürme sistemi kapasitesini tasarlamak ya da ruhsat/proje onayı vermek, ilgili yetkili kişi ve mercilerin görevleri yerine geçecek şekilde üstlenilmez. Gerekli teknik ölçüm ve hesaplar yetkili disiplinlerden talep edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Tehlikeli madde bulunan açık stoklarda ürün sınıfı, miktar ve depolama koşullarının doğru belirlenmesi ayrı uzmanlık verisi gerektirebilir. YGU, bu veriyi yetkili teknik inceleme ve kayıtlarla ilişkilendirir; yalnız dış görünüşten malzemenin tehlike sınıfını kesinleştirmez."
+    },
+    {
+      "tip": "h2",
+      "id": "6-ornek-sonradan-yerlestirilen-konteyner-ve-palet-stogu",
+      "metin": "6. Örnek: Sonradan yerleştirilen konteyner ve palet stoğu"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir üretim tesisinde, vaziyet planında araç dolaşımına ayrılmış yan cepheye bir konteyner ve ambalaj paletleri yerleştirildiğini düşünelim. Değerlendirme, \"konteyner var, uygunsuz\" cümlesiyle bitmez. Önce konteynerin işlevi, içeriği ve kullanım süresi; ardından araç yolunun güncel kullanılabilirliği, yakın cephe açıklıkları ve yangınla mücadele ekipmanlarına erişim incelenir. Konteyner boş bir alanda kalıyor ve erişimi etkilemiyorsa sonuç farklı; yolun dönüş alanını kapatıyor veya yangın su verme bağlantısını erişilemez kılıyorsa farklı olabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "7-rapor-bulguyu-nasil-izlenebilir-hale-getirir",
+      "metin": "7. Rapor, bulguyu nasıl izlenebilir hale getirir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Rapor alanı",
+        "Yazılacak somut bilgi",
+        "Dayanak/ek"
+      ],
+      "satirlar": [
+        [
+          "Konum",
+          "Vaziyet planında doğu cephesi, giriş kapısı ve stok sınırı işaretlenir.",
+          "Onaylı plan ve tarihli saha krokisi"
+        ],
+        [
+          "Tespit",
+          "Paletlerin itfaiye yaklaşım güzergahına taştığı gözlemlenmiştir.",
+          "Konumlu fotoğraf, saha notu"
+        ],
+        [
+          "Etki",
+          "Araç geçişinin ve müdahale erişiminin kısıtlanması olasılığı açıklanır.",
+          "Yolun projedeki işlevi ve fiili engel"
+        ],
+        [
+          "İşlem",
+          "Stok yerleşiminin düzeltilmesi; gerekiyorsa yetkili proje/teknik değerlendirme istenir.",
+          "Sorumlu birim, işlem ve yeniden kontrol kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Raporun amacı yalnız fotoğraf eklemek değildir. Her tespitte konum, mevcut durum, onaylı belgeyle fark, yangın güvenliği bakımından olası sonuç ve hangi ilave kanıtın gerektiği açıkça yazılır. Teknik uygunluk kararı için veri yetersizse bu eksiklik saklanmaz; kesin hüküm yerine gerekçeli inceleme ihtiyacı belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Açık stokların bina yerleşimine etkisi; malzemenin ne olduğu, nerede ve nasıl tutulduğu, projenin hangi alanı hangi işleve ayırdığı ve itfaiye erişiminin gerçekte korunup korunmadığı üzerinden belirlenir. Sağlam bir YGU raporu, her stoku tek ölçütle yargılamaz; belge–saha farkını gösterir, teknik riski tarif eder ve yetki sınırları içinde izlenebilir düzeltme ihtiyacını ortaya koyar."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı ve Ekleri"
+    }
+  ],
+  "sonNotlar": []
+}

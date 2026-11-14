@@ -1,0 +1,138 @@
+{
+  "kod": "YGR-K184",
+  "yol": "isbirligi-protokolu-hangi-bilgi-eksikligini-cozebilir",
+  "baslik": "İşbirliği protokolü hangi bilgi eksikliğini çözebilir?",
+  "ozet": "Bir sanayi tesisinin acil durum dosyasında komşu kuruluşla imzalanmış bir yangın işbirliği protokolü bulunabilir. Buna rağmen gece vardiyasındaki güvenlik görevlisi kime haber vereceğini bilmiyor, karşı taraftaki irtibat kişisi değişmiş veya ortak tatbikat yıllardır yapılmamış olabilir. Böyle bir durumda belge vardır; fakat müdahaleyi desteklemesi beklenen bilgi zinciri çalışmıyor demektir. Yangın güvenlik uzmanı (YGU), protokolün varlığını değil, öngördüğü işbirliğinin işletmenin güncel planında nasıl karşılık bulduğunu araştırır.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "protokolun-amaci-hangi-bilgileri-ortaklastirmaktir",
+      "metin": "Protokolün amacı hangi bilgileri ortaklaştırmaktır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşbirliği protokolü, farklı kurumların yangında birbirini nasıl destekleyeceğine ilişkin ortak çalışma çerçevesidir. Tek başına yangınla mücadele kapasitesi oluşturmaz. Asıl değeri, bir tarafın bildiğini diğer tarafın bilmediği kritik noktaları önceden açıklığa kavuşturmasındadır. Kim çağrıyı yapacak, kim çağrıyı alacak, ortak kullanılabilecek araç ve malzeme hangileri, personel hangi sahaya hangi koşullarda girecek ve ortak tatbikattan hangi eksikler öğrenilecek? Bu soruların cevabı güncel değilse imzalı metin, olay anında yeterli yönlendirme sağlayamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Protokolün tarafları ile kapsamı ilk inceleme konusudur. Her işletmenin başka bir işletmeyle protokol yapmak zorunda olduğu şeklinde genel bir sonuç çıkarılamaz. Mevzuattaki işbirliği hükmü, itfaiye teşkilatı bulunan belediyeler, kamu ve özel kuruluşlar ile Türk Silahlı Kuvvetleri arasındaki karşılıklı yardımlaşmayı düzenler. YGU, değerlendirdiği kuruluşun gerçekten protokol tarafı olup olmadığını ve metnin hangi tesis, faaliyet veya sorumluluk bölgesini kapsadığını belge üzerinden belirler."
+    },
+    {
+      "tip": "h2",
+      "id": "imza-ile-saha-uygulamasi-arasindaki-bosluk",
+      "metin": "İmza ile saha uygulaması arasındaki boşluk"
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada sorulacak sorular belirli kanıtlara bağlanır. Eski bir iletişim listesi ile mevcut nöbet çizelgesi eşleşmiyorsa iletişim eksikliği; protokolde yazılı ekipman envanterde bulunmuyorsa kaynak eksikliği; tatbikat vaat edilmiş fakat kayıt sunulamıyorsa doğrulama eksikliği söz konusudur. Eksikliklerin hepsi “protokol geçersiz” şeklinde tek bir sonuca indirgenmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Çıkabilecek bilgi boşluğu",
+        "YGU’nun arayacağı kanıt"
+      ],
+      "satirlar": [
+        [
+          "İrtibat ve haberleşme",
+          "Aranacak birim, yedek kişi veya kanal belirsiz",
+          "Güncel irtibat listesi, vardiya talimatı ve iletişim denemesi kaydı"
+        ],
+        [
+          "Müdahale şartları",
+          "Destek talebinin kapsamı ve giriş usulü bilinmiyor",
+          "Protokol maddesi, tesis giriş planı, saha talimatı"
+        ],
+        [
+          "Araç ve malzeme",
+          "Listelenen kaynak sahada mevcut değil veya yeri değişmiş",
+          "Tarih ve konum içeren ekipman envanteri, ilgili tutanak"
+        ],
+        [
+          "Eğitim ve tatbikat",
+          "Ortak çalışmanın güncel uygulaması gösterilemiyor",
+          "Eğitim kaydı, senaryo, katılımcı çizelgesi ve tatbikat sonuçları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-olayi-gece-vardiyasindaki-yardim-cagrisi",
+      "metin": "Örnek saha olayı: Gece vardiyasındaki yardım çağrısı"
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı endüstri bölgesindeki iki kuruluşun müşterek müdahale için imzaladığı protokolde, karşılıklı irtibat birimleri ve kullanılabilecek destek ekipmanları yazılıdır. İncelemede, bir kuruluşun gece vardiyasına geçtiği, protokoldeki telefonun artık kullanılmadığı ve araç girişinin farklı kapıdan sağlandığı görülür. İtfaiyenin veya diğer kuruluşun fiilen ne zaman ve ne ölçüde yardım sağlayacağını yalnız protokol üzerinden kesinleştirmek mümkün değildir. Ancak haberi kimin ileteceği, doğru kapının neresi olduğu ve girişin kim tarafından açılacağı yazılı kayıtlardan doğrulanabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu olayda YGU’nun kaydı “ortak yardım sağlanamaz” değildir. Daha isabetli ifade şudur: “İşbirliği protokolündeki irtibat numarası ve saha giriş bilgileri güncel vardiya uygulamasıyla eşleşmemektedir. Güncel haberleşme zinciri ve giriş talimatının protokol taraflarınca doğrulanması, ortak tatbikatta sınanması gerekmektedir.” Gözlenen olgu ile önerilen işlem birbirinden ayrılmış olur."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, incelemeye imzalı protokolü, eklerini, varsa revizyonları, işletmenin yangın/acil durum planını, görev listelerini ve son tatbikat kayıtlarını birlikte alarak başlar. Önce taraf, kapsam, imza tarihi, iletişim sorumlusu ve değişiklik usulünü tespit eder. Ardından planlardaki haberleşme akışı ile protokoldeki irtibat noktalarını eşleştirir. Gece, hafta sonu ve personel değişimi gibi koşullarda yedek haberleşme yolunun kayıtlı olup olmadığını inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci aşamada tesis girişleri, toplanma veya yönlendirme noktaları, erişime açık güzergahlar ve protokolde anılan ekipman yerleri saha krokisiyle karşılaştırılır. Kullanılacak araçların teknik yeterliliğini veya dış kuruluşun operasyonel hazırlığını sırf belgeye bakarak onaylamaz; gerekli bilgiler için yetkili kişilerden güncel kayıt ister. Protokol kapsamında taahhüt edilmiş eğitim ve müşterek tatbikatlar varsa tarih, katılımcı, sonuç ve açık aksiyonları kontrol eder. Test edilmemiş bir irtibat zincirini çalışır kabul etmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuçları “mevcut bilgi – tespit edilen fark – sorumlu taraf – tamamlanacak kayıt – doğrulama yöntemi” düzeninde kaydeder. Örneğin iletişim numarası güncellense bile tarafların bu değişikliği karşılıklı teyit edip etmediği ve işletme vardiya talimatına işlenip işlenmediği ayrıca takip edilir. YGU’nun görevi, kurumlar adına protokolün hukuki geçerliliğine hükmetmek veya karşı kuruluşa operasyon emri vermek değil, mevcut bilgi ve uygulama arasındaki ayrışmayı görünür kılmaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "protokolun-kapsami-ile-isletmenin-kendi-yukumlulugu-karistirilmamalidir",
+      "metin": "Protokolün kapsamı ile işletmenin kendi yükümlülüğü karıştırılmamalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Karşılıklı yardım düzeni, işletmenin yangın algılama, söndürme, kaçış, eğitim ve kendi acil durum organizasyonu gerekliliklerinin yerine geçmez. Protokol kapsamındaki destek koşulları, başka bir yerdeki yangının veya kaynak yetersizliğinin yardımı etkileyebileceği dikkate alınarak okunmalıdır. Yangında ilk bildirim, tahliye ve yerel ekiplerin kendi görevleri işletme planında açıkça tanımlı olmalıdır. Bir protokolde öngörülen işbirliği, gerçekleşeceği önceden garanti edilmiş bir müdahale süresi olarak raporlanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ve-degisiklik-taslagi",
+      "metin": "Yürürlükteki hüküm ve değişiklik taslağı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 132; işbirliği protokollerinin taraflarını, amaçlarını ve personel eğitimi, bilgi değişimi, araç ve malzeme standardizasyonu, müşterek tatbikat ile müdahale şartları gibi içeriğini düzenler. Aynı maddede protokol henüz düzenlenmemişken büyük bir yangın için yardım istenmesi durumuna ilişkin, yardım talebini alan itfaiye teşkilatının kendi bölgesinde zafiyet yaratmaması koşulunu içeren hüküm de bulunur. YGU, bu kuralı başka bir kurumun her talepte sınırsız kaynak göndereceği taahhüdü şeklinde yorumlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Henüz yayımlanmamış BYKHY değişiklik taslağında konu Madde 133 altında düzenlenmiştir (TASLAK). İncelenen iki madde bakımından işbirliği protokolünün temel kapsamı ve içerik başlıkları örtüşmektedir; madde numarası değişikliği, tek başına farklı bir uygulama mecburiyeti olarak sunulmaz. Ayrıca YGU eğitim kuruluşlarının uygulama eğitimi için itfaiye teşkilatıyla yapacağı işbirliği protokolüne ilişkin ayrı bir düzenleme, YGU yönetmelik taslağında yer almaktadır (TASLAK). Bu eğitim protokolü ile BYKHY’deki karşılıklı yangın yardımlaşması protokolü aynı işlem değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "İşbirliği protokolü en çok, farklı kuruluşların aynı yangın olayına dair irtibat, kaynak ve müdahale beklentilerini ayrı ayrı bildiği fakat birbirine aktarmadığı durumlarda işe yarar. Denetimde aranacak ölçüt sadece imza değil, bilgilerin güncel olması, planlara aktarılması ve mümkünse ortak uygulamada sınanmasıdır. Böylece kimin hangi bilgiyi tamamlayacağı netleşir; belge ile saha arasında kapanmamış boşluklar kaybolmaz."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 132."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 133 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı, eğitici kuruluşların işbirliği protokolleri ile ilgili hükümler (TASLAK)."
+    }
+  ],
+  "sonNotlar": []
+}

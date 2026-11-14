@@ -1,0 +1,167 @@
+{
+  "kod": "YGR-K150",
+  "yol": "asansor-kuyusu-ile-komsu-mahallerin-ayrimi-nasil-dogrulanir",
+  "baslik": "Asansör kuyusu ile komşu mahallerin ayrımı nasıl doğrulanır?",
+  "ozet": "Asansör kuyusu, katlar boyunca devam eden düşey bir hacimdir. Bu hacmin çevresindeki duvar, döşeme, kat kapısı ve tesisat geçişleri yangın sırasında dumanın ve sıcak gazların komşu mahallere yayılmasını etkiler. Dolayısıyla bir asansörün çalışıyor olması veya kat kapısının kapanması, kuyu çevresindeki yangın ayırımının uygun olduğuna tek başına kanıt değildir. İncelemenin çıkış noktası, kuyu sınırının onaylı projede nasıl tasarlandığı ve bu sınırın sahada hala korunup korunmadığıdır.",
+  "etiketler": [
+    "Bina Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-hangi-sinirin-incelendigi-belirlenmeli",
+      "metin": "Önce hangi sınırın incelendiği belirlenmeli"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir asansörün kat holüne açılan kat kapısı, kuyunun komşu teknik odaya bakan betonarme duvarı, makine dairesi kapısı ve şaft duvarından geçirilen tesisat birbirinden farklı ayrıntılardır. Hepsini “asansör kapısı” diye tek kayıt altında toplamak, bulgunun dayanağını belirsizleştirir. Projede her katta kuyu çevresi çizilmeli; bitişik mahalin kullanımı, duvarın ayırıcı niteliği, varsa yangın güvenlik holü ve kat kapısının konumu ayrı tanımlanmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir ofis katında kat kapısı mevcut onaylı yerindeyken yan duvardan açılan yeni bir bakım kapağı, asansör kat kapısının performansından farklı bir sorun doğurur. Açıklığın yapıldığı duvarın hangi yangın sınırını oluşturduğu, kapak sisteminin o duvar için uygunluğunun nasıl belgelendiği ve uygulamanın projeye işlenip işlenmediği araştırılmadan kesin sonuç kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-hangi-temel-kosullari-duzenliyor",
+      "metin": "Yürürlükteki BYKHY hangi temel koşulları düzenliyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 62/2, asansör kuyusu ve makine dairesinin en az 60 dakika yangına dayanıklı ve yanıcı olmayan malzemeden yapılmasını öngörür. Madde 62/6 uyarınca asansör kapısı doğrudan yangın merdiven yuvasına açılamaz. Madde 62/7, asansör kat kapılarında TS EN 81-58 ile ilgili yangın dayanım gerekliliklerine ve Ek-3/B’deki özelliklere atıf yapar. Bunlar farklı bileşenleri düzenler: kuyu duvarının dayanımı, kat kapısının performansı ve kapının hangi alana açıldığı aynı değerlendirme kalemi değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Madde 62/4, kuyu havalandırması/dumandan arındırılması veya basınçlandırılması ile bodrum katlarda asansöre erişim düzenini ayrıca ele alır. Aynı anda bodrum katlara da hizmet veren asansörlerde korunmuş koridor veya yangın güvenlik holü bağlantısının proje ve saha üzerinde görülmesi gerekir. Otopark bağlantısında korunumlu hol ve ilgili diğer koruma önlemleri farklı detaylar içerebilir; yalnız kapının varlığından yeterli koruma sonucuna gidilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-taslagi-ile-karistirilmamasi-gereken-ayrinti",
+      "metin": "Değişiklik TASLAĞI ile karıştırılmaması gereken ayrıntı"
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcının sağladığı BYKHY değişiklik TASLAĞININ 62. maddesi, kuyu ve makine dairesinin en az 60 dakika dayanımı ile yangın merdivenine doğrudan açılmama yaklaşımını koruyor. Ancak aynı kuyudaki kabin sayısı bakımından fark bulunuyor: yürürlükteki metin, dört kabin için ikişerli gruplar halinde 60 dakika dayanımlı ayırım seçeneği tanımlarken taslak aynı kuyuda üçten fazla kabine izin vermiyor. Taslağın 62/4 hükmünde havalandırma ifadesinin kapsamı da farklı yazılmıştır. Taslakta önerilen bu farklar yayımlanıp yürürlüğe girmedikçe mevcut yapıya kesinleşmiş yükümlülük olarak uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu makalenin odağı asansör adedini yeniden tasarlamak değil; mevcut kuyunun çevresindeki duvar ve açıklık düzeninin doğru kaynaktan değerlendirilmesidir. Sayısal şartlar aktarılırken yürürlükteki metnin uygulanabilirliği, yapının yeni/mevcut niteliği ve geçiş hükümleri ayrıca dikkate alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-hangi-belgeler-eslestirilmeli",
+      "metin": "Proje ile sahada hangi belgeler eşleştirilmeli?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Belge veya kanıt",
+        "Sahada karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Kuyu sınırı",
+          "Onaylı mimari proje, yangın kompartımanı planı, kesitler",
+          "Duvarın sürekliliği; yeni kapak, niş veya açıklık"
+        ],
+        [
+          "Kat kapıları",
+          "Kapı çizelgesi, kat kapısı teknik belgesi, uygunluk kapsamı",
+          "Kapı tipi, kat/konum, montajın projeyle eşleşmesi"
+        ],
+        [
+          "Kat ve bodrum bağlantısı",
+          "Hol ve koridor planları, varsa revizyon ve izin belgeleri",
+          "Kapının açıldığı gerçek mahal; korunmuş erişimin sürekliliği"
+        ],
+        [
+          "Tesisat geçişleri",
+          "Şaft ve mekanik/elektrik detayları, yangın durdurucu uygulama belgesi",
+          "Kablo, boru, menfez, boşluk ve kapama ayrıntıları"
+        ],
+        [
+          "Duman kontrolü",
+          "Kuyu havalandırma/basınçlandırma projesi, test ve bakım kayıtları",
+          "Görülebilen açıklık, kanal ve ekipmanların projedeki konumu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "saha-incelemesinde-farkli-bulgular-birbirine-karistirilmamali",
+      "metin": "Saha incelemesinde farklı bulgular birbirine karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Sonradan açılmış servis kapağı: Kuyuyu sınırlayan duvarda açılan açıklığın konumu ve ölçüsü paftaya işlenir; kapağın yangın ayırıcı niteliği belgeyle doğrulanır. Kapak görülmesi tek başına, uygunluk belgesi bulunmadan güvenli kabul edilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kat kapısının değiştirilmesi: Yeni kapının teknik belgesinde yer alan ürün/konfigürasyon ile montaj yapılan gerçek konum karşılaştırılır. Sertifikanın varlığı, aynı belge kapsamı dışında farklı bir kat kapısı uygulamasını otomatik kapsamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Şafttan geçirilen yeni tesisat: Kablo veya boru geçişinde yangın ayırıcı yapı elemanında açıklık kalıp kalmadığı, kapamanın uygulama detayı ve varsa yeni tesisat revizyonu incelenir. Geçişteki boşluk, yalnız yüzeyden kapatılmış görünümüne bakılarak yeterli sayılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Holün işletmede değiştirilmesi: Bodrumda otopark-asansör bağlantısı, sonradan kaldırılan hol kapısı veya açılan doğrudan kullanım alanı kapısı projedeki koruma düzenini değiştirebilir. Burada duvarın performansı kadar hangi hacimlerin birbirine bağlandığı da önemlidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), geçerli onaylı mimari proje ve yangın tahliye projesini, asansör yerleşim/kesit paftalarını, kat kapısı belgelerini, bakım ve test kayıtlarını ve varsa tadilat izinlerini bir arada inceler. Bina yüksekliği, kullanım sınıfı, asansörün hizmet verdiği katlar ve bodrum bağlantısı belirlenmeden tek bir genel asansör kontrolü bütün kuyulara uygulanmaz. YGU kapsamında öngörülen incelemenin hangi aşamada ve hangi yetki sınırında yapılabileceği ayrıca yürürlükteki düzenlemeye göre belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha turunda kuyu/kat bazlı bir kayıt oluşturulur: kat numarası, kapı etiketi, bitişik mahal, görülen duvar veya kapak değişikliği, proje pafta numarası, fotoğraf ve sunulmuş teknik belge karşılığı aynı satıra yazılır. Kapalı kuyu içinde gözlenemeyen duvar yüzleri için “görüldü” ibaresi kullanılmaz; uygulama fotoğrafı, imalat tutanağı veya ilgili uzman incelemesi gibi ek kanıtlar talep edilir. Gereken yerlerde yetkili teknik personelin ölçüm ve işlevsel test raporları değerlendirilir; YGU tarafından gözle bakılarak yangın dayanım süresi ölçülmüş gibi işlem yapılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin rapora şu şekilde yazılabilir: “B1 otopark katındaki A-02 asansörünün kat holüne bitişik duvarında sonradan açılmış bir servis kapağı görülmüştür. Sunulan onaylı mimari paftada bu açıklık bulunmamaktadır. Açıklığın kuyu ayırımını etkileyen yapısal sınırdaki konumu işaretlenmiş; kapağa ilişkin yangın dayanımı ve uygulama detayı belgesi sunulmadığından bu hususun uygunluğu doğrulanamamıştır.” Bu ifade örnek rapor dilidir, gerçek bir denetim kaydı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "gozlem-ile-dogrulanmis-uygunsuzluk-arasindaki-fark",
+      "metin": "Gözlem ile doğrulanmış uygunsuzluk arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni bir açıklığın sahada görülmesi ile o açıklığın yangın ayırımı performansının başarısız olduğunun belgelenmesi aynı şey değildir. Örneğin onaylı paftada bulunmayan bakım kapağının yangına dayanım belgesi sunulamıyorsa, hem proje–saha uyuşmazlığı hem de performans yönünden eksik doğrulama kaydedilir. Kapak kenarında açık boşluk, çıkarılmış yalıtım veya doğrudan komşu mahale açılan korunumsuz geçiş de görülmüşse bu fiziksel bulgu ayrıca fotoğraf ve konumla tarif edilir. Böylece raporda kanıtlanmış durumla araştırılması gereken durum birbirine karışmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Değişikliklerin kapatılması da aynı yöntemle izlenmelidir. İşletmenin yeni bir ürün belgesi vermesi, uygulamanın o belgeye uygun yapıldığını otomatik göstermez; güncel onaylı proje, yerinde uygulama detayı ve gerekiyorsa yetkili teknik inceleme kaydı birlikte değerlendirilir. Bir tadilatın uygunluğunu karara bağlamak veya yangın dayanımını ölçmek, yalnız gözlemsel YGU incelemesinin yerine getirebileceği bir işlem olarak gösterilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Asansör kuyusunun yangın ayırımı, tek başına “asansör kapısı yangına dayanıklı” cümlesiyle doğrulanamaz. Kuyu duvarı, makine dairesi, kat kapısı, korunmuş hol ve tesisat geçişi farklı bileşenlerdir. Sağlıklı değerlendirme; yürürlükteki ilgili hükmün, onaylı paftanın, sahadaki gerçek açıklıkların ve doğrulanabilir uygulama belgelerinin aynı kat ve konum üzerinden ilişkilendirilmesiyle yapılır. Açık kalan noktalar uygun ilan edilmez; gerekçesi ve istenen ek kanıtıyla raporlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

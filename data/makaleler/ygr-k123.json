@@ -1,0 +1,132 @@
+{
+  "kod": "YGR-K123",
+  "yol": "cephede-pencere-ve-aciklik-degisiklikleri-nasil-kaydedilir",
+  "baslik": "Cephede pencere ve açıklık değişiklikleri nasıl kaydedilir?",
+  "ozet": "Bir dış cephede pencerenin genişletilmesi, yeni pencere açılması veya mevcut açıklığın kapatılması ilk bakışta mimari bir revizyon gibi görülebilir. Ancak açıklığın yeri, katlar arası yangın yayılımını sınırlandıran dolu cephe yüzeyini, pencere çevresindeki yangın bariyerlerini ve giydirme cephede döşeme kenarı detayını etkileyebilir. Bu nedenle incelemenin konusu yalnız yeni doğramanın niteliği değil, değişiklikten sonra cephe yangın güvenliği düzeninin devam edip etmediğidir.",
+  "etiketler": [
+    "Cephe ve Çatı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "degisiklik-neden-yalniz-mimari-bir-islem-degildir",
+      "metin": "Değişiklik neden yalnız mimari bir işlem değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir katın penceresi parapet seviyesine kadar büyütülürse, üst katın penceresiyle arasındaki korumasız boşluk düzeni yeniden değerlendirilmelidir. Buna karşılık her pencere değişikliğinin mutlaka yangın güvenliği bakımından uygunsuzluk doğurduğu söylenemez; karar, bina özellikleri ve projedeki koruma çözümüyle birlikte verilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenlemenin-teknik-cercevesi",
+      "metin": "Yürürlükteki düzenlemenin teknik çerçevesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik madde 27, dış cephelerde yangının katlar arasında yayılmasını sınırlandıran hükümler içerir. Korumasız pencere benzeri açıklıklar arasında düşeyde en az 100 cm yangına dayanıklı dolu cephe yüzeyi oluşturulması veya maddede tanımlanan cephe yağmurlama çözümü öngörülür. Bu iki çözüm birbirinin sahada kendiliğinden yerine geçtiği varsayılarak değerlendirilemez; seçilen çözümün proje ve uygulama belgelerinde gösterilmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı maddenin geleneksel cephe sistemlerine ilişkin hükümleri, belirli bina yüksekliği ve cephe sistemi koşullarında pencere kenarlarında hiç yanmaz malzemeden yangın bariyerlerini düzenler. Giydirme cephelerde ise döşeme–cephe kesişimindeki yangın yalıtımı ayrı bir inceleme konusudur. Bu hükümler, yalnız pencere ölçüsüne bakılarak tek bir kontrol kuralına indirgenmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-hangi-bilgiler-eslestirilir",
+      "metin": "Proje ile sahada hangi bilgiler eşleştirilir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Belge ve proje karşılığı",
+        "Saha gözlemi / kayıt"
+      ],
+      "satirlar": [
+        [
+          "Açıklığın geometrisi",
+          "Onaylı cephe görünüşü, kat planı, revizyon paftası",
+          "Pencere konumu, alt ve üst kotu, genişliği, komşu kat açıklığı"
+        ],
+        [
+          "Katlar arası ayırma",
+          "Cephe kesiti ve yangın koruma detayı",
+          "Dolu yüzey sürekliliği, sonradan kaldırılan parapet veya kaplama"
+        ],
+        [
+          "Pencere çevresi",
+          "Cephe sistemi ve yangın bariyeri detayı",
+          "Yan ve üst kenarlarda uygulanan malzeme ve süreklilik"
+        ],
+        [
+          "Giydirme cephe bağlantısı",
+          "Döşeme kenarı yangın durdurucu detay ve ürün belgeleri",
+          "Döşeme–cephe birleşiminde boşluk veya eksik uygulama"
+        ],
+        [
+          "Koruma sistemleri",
+          "Yangın tesisatı projesi ve değişiklik kayıtları",
+          "Projede öngörülen korumanın mevcut düzenle uyumu"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "kayit-yontemi-degisiklik-izi-kaybolmamali",
+      "metin": "Kayıt yöntemi: değişiklik izi kaybolmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kayıt, binanın kimliğini ve inceleme yapılan cepheyi açıkça belirtmelidir: blok, kat, aks, mahal ve pencere numarası. Ardından onaylı projedeki açıklık ile sahadaki açıklık ayrı ayrı tanımlanır. Ölçüm gerekiyorsa yetkili teknik kişinin ölçüm kaydı veya doğrulanabilir proje ölçüsü esas alınır; yalnız fotoğrafa bakarak kesin mesafe ve uygunluk kararı verilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Fotoğraflarda genel cephe görünüşü ile değiştirilen açıklığın yakın detayı birlikte bulunmalıdır. Fotoğraf yönü, tarih, pafta referansı ve mümkünse aynı aksın önceki durumu kaydedilir. Pencere çevresindeki bariyer veya döşeme kenarı kapalı kaplama altında kalıyorsa “gözle doğrulandı” yazılmaz; erişilemeyen detay, eksik belge ve gerekli ilave inceleme ayrı belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapı ruhsatı ve yapı kullanma izniyle ilişkili onaylı mimari cephe paftalarını, varsa tadilat projelerini ve yangın güvenliği projelerini karşılaştırır. Fiili mahal kullanımını, pencere değişikliğinin nedenini ve işletmenin yaptığı sonraki müdahaleleri öğrenir. Cephe sistemine ait sınıflandırma belgeleri, uygulama detayları ve bakım kayıtları mevcutsa ilgili açıklıkla eşleştirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha incelemesinde özellikle katlar arası korumasız açıklık düzeninin değişip değişmediği, pencere kenarı bariyerlerinin kesilip kesilmediği ve döşeme–cephe birleşiminin etkilenip etkilenmediği gözlenir. Bulgular, “projedeki durum / sahadaki durum / dayanak belge / doğrulanamayan husus / gerekli işlem” sırasıyla gerekçeli rapora aktarılır. Gerektiğinde mimari revizyon, yangın dayanımına ilişkin teknik değerlendirme veya tesisat çözümü ilgili yetkili proje müellifi ve uzmanlarından istenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemesi; taşıyıcı sistem hesabı, cephe yangın deneyi, ürün sınıflandırması, yangın tesisatı tasarımı veya resmi proje onayı yerine geçmez. Bir açıklığın uygunluğunu kanıtlayan belgeler eksikse bu belirsizlik raporda açık tutulur; gözlemsel bulgu kesin performans belgesi gibi sunulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenlemelerin-degerlendirilmesi",
+      "metin": "Taslak düzenlemelerin değerlendirilmesi"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağının cephelere ilişkin başlığı, konu haritasında bu incelemeyle ilişkilidir. Bununla birlikte taslağın özgün fıkra metni bu çalışma sırasında tam olarak doğrulanamadığı için taslağa özgü sayısal eşik veya yeni zorunluluk aktarılmamıştır. Yürürlükteki hükümler bağlayıcı düzenleme olarak, taslak ise ancak doğrulanabildiği ölçüde geleceğe dönük değerlendirme konusu olarak ele alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Cephedeki pencere değişikliğini sağlıklı kaydetmek, eski ve yeni açıklığı fotoğraflamakla bitmez. Katlar arası yangın yayılımını sınırlayan tasarımın değişiklikten sonra nasıl korunduğunu proje, uygulama detayı ve saha bulgusuyla göstermek gerekir. Kanıtlanamayan detaylar, kesin uygunluk yerine tamamlanması gereken teknik doğrulama olarak raporlanmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,157 @@
+{
+  "kod": "YGR-K069",
+  "yol": "portatif-sondurucu-secimi-yalniz-adet-sayisiyla-yapilabilir-mi",
+  "baslik": "Portatif söndürücü seçimi yalnız adet sayısıyla yapılabilir mi?",
+  "ozet": "Söndürücü sayısı tek başına uygunluk göstergesi değildir. Seçim, mahaldeki gerçek yangın tehlikesi, cihazın söndürme yeteneği ve ihtiyaç anında ulaşılabilir olmasıyla birlikte değerlendirilir.",
+  "etiketler": [
+    "Söndürme Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sayi-neden-tek-basina-yeterli-degildir",
+      "metin": "Sayı neden tek başına yeterli değildir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir işletmede söndürücü envanterindeki adet değişmemiş olabilir. Ancak mahalin kullanım amacı, kullanılan maddeler veya ekipmanın yerleşimi değiştiğinde aynı cihazların doğru korumayı sağladığı varsayılamaz. Sayım cetveli yalnız cihazın varlığını gösterir; cihazın o noktadaki yangın tehlikesine uygunluğunu tek başına kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin sıradan ofis kullanımından boya hazırlama faaliyetine geçen bir mahalde, hangi maddelerin kullanıldığı ve bu maddelerin güvenlik bilgi formlarındaki yangın özellikleri incelenmeden söndürücü türü hakkında karar verilmez. Yanıcı sıvı bulunup bulunmadığı, varsa miktarı ve çalışma biçimi doğrulanmalıdır. Cihazın bakımlı olması, yeni tehlikeye uygun seçildiği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-olcutler-birlikte-okunmali",
+      "metin": "Yürürlükteki ölçütler birlikte okunmalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 99 uncu maddesi, taşınabilir söndürme cihazlarının tip ve sayısının mahaldeki durum ve risklere göre belirlenmesini ister. Aynı maddede düşük tehlike sınıfında her 500 m², orta ve yüksek tehlike sınıfında her 250 m² yapı inşaat alanı için uygun tipte 6 kg kuru kimyevi tozlu veya eşdeğeri gazlı cihaz bulundurulmasına ilişkin asgari düzenleme vardır. Bu alan hesabı, mahalin özel yangın tehlikesine göre uygun söndürücü seçiminin yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmelik, cihazlara ulaşma mesafesini en fazla 25 m olarak belirler. Görünürlük, geçişlere yakınlık, dengeli dağılım ve kolay erişim de ayrı şartlardır. Otopark, depo ve tesisat dairesi gibi yerler için ayrıca tekerlekli cihaz gerekliliği değerlendirilir. Sayısal koşul sağlansa bile kapı arkasına konmuş veya malzemeyle önü kapanmış bir cihazın yerleşimi uygun kabul edilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Hazırlık aşamasındaki yeni yönetmelik taslağında seçim, yerleşim ve sayının ilgili standartlara göre belirlenmesi yönünde farklı bir düzenleme öngörülmektedir. Bu öneri yürürlüğe girmiş bir hüküm değildir; mevcut değerlendirmede yürürlükteki yönetmelik esas alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-kullanim-degisikligi-ofisten-boya-hazirlamaya",
+      "metin": "Temsili kullanım değişikliği: ofisten boya hazırlamaya"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki şema gerçek bir olay veya ölçüm sonucu değil, değişen faaliyet nedeniyle kontrolün neden yenilenmesi gerektiğini gösteren temsili bir karşılaştırmadır. Cihazların uygunluğu, boya hazırlamada kullanılan maddeler ve güncel yerleşim belgeleri görülmeden belirlenemez."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 69. Eski ve yeni kullanım arasında söndürücü seçimini yeniden incelemeyi gerektiren değişiklik (özgün temsili çizim).",
+      "src": "/img/makale/ygr-k069-1.png"
+    },
+    {
+      "tip": "h3",
+      "metin": "İlk kayıt ile karar için gereken kanıt"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi (temsili)",
+        "Karar için eksik kanıt"
+      ],
+      "satirlar": [
+        [
+          "Cihaz envanteri",
+          "Üç cihaz kayıtlı; eski ofis kullanımına göre seçildiği belirtiliyor.",
+          "Yeni faaliyet ve malzeme bilgileriyle cihaz türü, söndürme performansı ve yerleşimin karşılaştırılması."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Bu tabloda verilen cihaz sayısı ve faaliyet değişikliği yalnız örnekleme içindir; belirli bir işyerine ait tespit değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "Hangi kayıt neyi gösterir?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Aranacak bilgi",
+        "Değerlendirmedeki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Faaliyet ve malzeme envanteri",
+          "Gerçek proses, kullanılan maddeler, güvenlik bilgi formları",
+          "Olası yangın sınıfları ve özel tehlikeler"
+        ],
+        [
+          "Cihaz envanteri ve etiketleri",
+          "Cihaz kimliği, söndürücü madde, performans işareti, üretici bilgisi",
+          "Mahaldeki tehlikeyle cihaz seçiminin eşleştirilmesi"
+        ],
+        [
+          "Onaylı yerleşim ve güncel mahal krokisi",
+          "Cihaz noktaları, kaçış güzergahları, erişimi etkileyen yeni düzen",
+          "Konum, görünürlük ve erişim karşılaştırması"
+        ],
+        [
+          "Bakım ve servis kayıtları",
+          "Kontrol tarihi, bakım sonucu, tespit edilen eksiklik, servis yeterliliği",
+          "Kullanıma hazır olma durumunun belge üzerinden izlenmesi"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye başlamadan önce yapının onaylı projesini, kullanım izinlerini, güncel mahal listesini ve işletmenin fiili faaliyetini karşılaştırır. Kullanım değişikliği varsa bunun izin ve proje kayıtlarına yansıyıp yansımadığını belirler. Özellikle boya hazırlama gibi faaliyetin niteliği değişmiş alanlarda, kullanılan maddelerin güvenlik bilgi formlarını ve varsa yangın riski değerlendirmesini ister; bunlar olmadan yalnız cihaz adedine bakarak olumlu sonuç yazmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada cihazların etiketleri, kimlikleri ve yerleri envanterle eşleştirilir; erişimi engelleyen stok, kilitli dolap, kapı kanadı veya yeni makine gibi durumlar gözlemlenir. Projedeki yerleşim ile fiili yerleşim farklıysa farkın hangi mahalde ve hangi cihazda bulunduğu açıkça kaydedilir. Cihaz seçimi, bakım belgesi ve gerçek kullanım arasında uyumsuzluk varsa ilgili belgeler ve gözlemsel bulgular belirtilerek gerekçeli değerlendirme yapılır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, cihazın basıncını ölçmüş veya söndürme performansını test etmiş gibi rapor düzenlemez; yetkili servis tarafından yapılması gereken bakım, test ve teknik işlemlerin kayıtlarını inceler. Yeni cihaz tipi ve yerleşim için mühendislik hesabı veya proje revizyonu gerekiyorsa bu iş ilgili yetkili tasarımcı ve uygulayıcıya yönlendirilir. YGU incelemesi, onların tasarım, ölçüm, servis ve onay sorumluluğunun yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Portatif söndürücü kontrolü “kaç adet var?” sorusuyla bitmez. Doğru değerlendirme; gerçek faaliyet ve yanıcı maddeler, yürürlükteki asgari koşullar, cihazın uygun tür ve performansı, güncel yerleşim, erişim ve bakım kanıtlarının birlikte okunmasıyla yapılır. Faaliyet değişmişse önce veri ve proje–saha uyumu doğrulanmalı, sonra uygunluk hakkında gerekçeli karar verilmelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,117 @@
+{
+  "kod": "YGR-K126",
+  "yol": "kacis-kapasiteleri-neden-toplam-kapi-sayisindan-ibaret-degildir",
+  "baslik": "Kaçış kapasiteleri neden toplam kapı sayısından ibaret değildir?",
+  "ozet": "Bir salonda dört çıkış kapısının bulunması, bu kapıların kullanıcı yükünü güvenle karşılayacağını tek başına göstermez. Kaçış kapasitesi; çıkışların kullanılabilir net genişlikleri, hizmet verdikleri kullanıcı yükü, kapılara ulaşan koridor ve geçitlerin dar kesitleri, kaçış yönleri ve güzergahın kesintisizliği birlikte ele alınarak değerlendirilir. Geniş bir kapının önündeki dar geçit, o yöndeki tahliye akışını sınırlandırabilir. Benzer biçimde, bir kapı kilitli veya malzemeyle kapatılmışsa projede çizilmiş olması onu sahada kullanılabilir kılmaz.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kapi-sayisi-ile-tahliye-kapasitesi-ayni-sey-degildir",
+      "metin": "Kapı sayısı ile tahliye kapasitesi aynı şey değildir"
+    },
+    {
+      "tip": "h2",
+      "id": "hesap-hangi-verilerle-baslar",
+      "metin": "Hesap hangi verilerle başlar?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk veri, mekanın onaylı kullanım türü ile fiili kullanıcı yüküdür. Sabit oturma düzeni bulunan bir salon ile ayakta etkinlik yapılan bir alan aynı kabullerle değerlendirilemez. Sonra kapıların, koridorların ve merdivenlerin temiz geçiş genişlikleri projede belirlenir; çıkışların birbirinden bağımsız ve ulaşılabilir olup olmadığı incelenir. Hesapta kullanılan birim genişlik başına kişi kapasitesi, uygulanabilir mevzuat tablosundan ve doğru kullanım sınıfından seçilmelidir. Tek bir kapının genişliğini diğer kapılarla toplayıp sonucu yeterli ilan etmek, güzergahın tamamındaki kısıtları gözden kaçırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin, farklı genişliklerde üç kapısı olan bir salonda yalnız kapı genişliklerinin toplamı değil, her kapıya ulaşan kullanıcıların dağılımı ve kapıdan sonra devam eden kaçış yolunun kapasitesi de kontrol edilir. Bu örnek bir hesap sonucu veya gerçek olay değildir; hangi bilgilerin birlikte inceleneceğini gösterir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-sahada-karsilastirilacak-noktalar",
+      "metin": "Proje ve sahada karşılaştırılacak noktalar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme alanı",
+        "Projedeki kanıt",
+        "Sahadaki karşılığı"
+      ],
+      "satirlar": [
+        [
+          "Kullanıcı yükü",
+          "Onaylı kullanım ve yerleşim düzeni",
+          "Fiili oturma/ayakta kullanım ve alan değişiklikleri"
+        ],
+        [
+          "Kapı kapasitesi",
+          "Kapı tipi, açılış yönü ve temiz genişlik",
+          "Kanat, kasa, donanım ve net geçişin engellenmesi"
+        ],
+        [
+          "Bağlanan güzergah",
+          "Koridor ve merdiven kesitleri",
+          "Mobilya, istif, bariyer ve daralma noktaları"
+        ],
+        [
+          "Çıkışların dağılımı",
+          "Kaçış planı ve alternatif çıkışlar",
+          "Kapıların erişilebilirliği ve yönlendirme"
+        ],
+        [
+          "Belge tutarlılığı",
+          "Revizyonlu tahliye projesi ve hesaplar",
+          "Gerçek kullanım ile son proje arasındaki fark"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenlemenin-teknik-yaklasimi",
+      "metin": "Taslak düzenlemenin teknik yaklaşımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni Binaların Yangından Korunması Hakkında Yönetmelik taslağında kaçış kapasitesi, kullanıcı yükü ile birim genişlikten geçebilen kişi sayısı ilişkilendirilerek ele alınır; koridor, kapı ve merdivenlerin temiz genişliği ayrı ayrı önem taşır. Taslak ayrıca iki çıkış gereken mekanlarda her çıkışın kullanıcı yükünün belirli bir bölümünü karşılayabilmesine ilişkin düzenleme içerir. Bunlar taslak metindeki önerilerdir; yürürlükteki mevzuatın yerine geçmiş hükümler olarak kullanılmaz. Uygulama kararında yürürlükteki metin, yapının tabi olduğu koşullar ve onaylı proje esas alınır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı, yapı kullanma izni, onaylı mimari ve tahliye projeleri ile varsa son tadilat dosyasını eşleştirerek başlar. Salonun gerçek faaliyeti, oturma düzeni ve işletmenin bildirdiği kullanıcı sayısı projedeki varsayımlardan farklıysa farkın kapsamını kaydeder. Kapıların açılabilirliği, kaçış güzergahındaki engeller ve daralmalar gözlemsel olarak tespit edilir; ilgili noktalar pafta işareti ve fotoğrafla belgelendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Gözlemsel inceleme, yetkili tasarımcının kaçış kapasitesi hesabının veya teknik ölçümünün yerine geçmez. Temiz genişlik, kapasite hesabı ya da proje revizyonu bakımından doğrulama gerekiyorsa yetkili disiplin tarafından hazırlanmış ölçüm, hesap ve onaylı proje istenir. YGU raporunda hangi belgenin incelendiği, hangi saha farkının görüldüğü, farkın kaçış kapasitesi üzerindeki olası etkisi ve hangi uzmanlık doğrulamasının gerektiği açıkça ayrılır; ölçülmemiş değerler kesin ölçüm sonucu gibi yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "degerlendirme-sonucu",
+      "metin": "Değerlendirme sonucu"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış kapasitesi kapı adedi üzerinden değil, kullanıcıların güvenli alana ulaşmasına hizmet eden bütün güzergah üzerinden anlaşılır. Doğru değerlendirme, kullanıcı yükünü ve kullanılabilir geçiş genişliklerini belgelerle eşleştirir; sahadaki daralma ve erişim sorunlarını görünür kılar. Böylece “yeterli sayıda kapı var” yargısı yerine denetlenebilir ve gerekçeli bir teknik değerlendirme yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

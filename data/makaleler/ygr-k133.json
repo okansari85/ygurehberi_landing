@@ -1,0 +1,222 @@
+{
+  "kod": "YGR-K133",
+  "yol": "kacis-rampasinda-egim-ve-baglanti-sorunlari-nasil-kaydedilir",
+  "baslik": "Kaçış rampasında eğim ve bağlantı sorunları nasıl kaydedilir?",
+  "ozet": "Bir binada iki kot arasında rampa bulunması, o rampanın otomatik olarak güvenli bir kaçış yolu oluşturduğu anlamına gelmez. Rampanın eğimi, genişliği, sahanlıkları, kapılarla birleşimi, yüzeyi ve kaçışın devam ettiği güzergah birlikte incelenmelidir. Özellikle kullanım değişikliği sırasında yapılan zemin yükseltmeleri ve sonradan eklenen kapılar, onaylı projede doğru görünen bir rampanın sahadaki işlevini değiştirebilir.",
+  "etiketler": [
+    "Kaçış"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sorunun-ozu-rampa-tek-basina-degil-kacis-guzergahinin-bir-parcasidir",
+      "metin": "Sorunun özü: Rampa tek başına değil, kaçış güzergahının bir parçasıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) açısından temel soru, rampanın yalnızca belirli bir eğim değerini sağlayıp sağlamadığı değildir. İncelemenin asıl amacı, hangi projenin geçerli olduğunu, projede hangi çözümün onaylandığını, mevcut uygulamanın nasıl değiştiğini ve kullanıcının rampanın iki ucunda güvenli kaçış güzergahına kesintisiz bağlanıp bağlanmadığını teknik kanıtlarla ortaya koymaktır."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatta-iki-farkli-egim-degeri-yururluk-ve-taslak-ayrimi",
+      "metin": "Mevzuatta iki farklı eğim değeri: Yürürlük ve taslak ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 44 kapsamında iç ve dış kaçış rampalarının genel azami eğimi %10 olarak düzenlenmiştir. Aynı maddede rampaların düz kollu olması, doğrultu değişikliklerinin sahanlıklarda yapılması ve belirli eğim koşuluyla kavisli rampaya izin verilmesi açıklanır. Bir kat inilerek veya çıkılarak doğrudan bina dışına ulaşan araç rampalarının kaçış rampası olarak kabul edilmesi de özel koşullara bağlıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "TASLAK — Kitaplıkta incelenen Binaların Yangından Korunması Hakkında Yönetmelik değişiklik taslağının 44. maddesinde genel kaçış rampası eğim sınırı %8 olarak önerilmektedir. Araç rampalarına ilişkin özel hükümde de %8 değeri yer almaktadır. Bu öneri, yürürlükteki %10 sınırının yerine geçmiş kesin hüküm olarak kullanılmamalıdır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Değerlendirme konusu",
+        "Yürürlükteki BYKHY",
+        "BYKHY değişiklik taslağı"
+      ],
+      "satirlar": [
+        [
+          "Düz kaçış rampasında genel eğim",
+          "En fazla %10",
+          "TASLAK: En fazla %8"
+        ],
+        [
+          "Kavisli kaçış rampası",
+          "Herhangi bir yerindeki eğim 1/12 sınırını aşmamalı; diğer koşullar da geçerli",
+          "TASLAK: 1/12 ifadesi korunurken genel %8 üst sınırı ayrıca dikkate alınmalı"
+        ],
+        [
+          "Bir kat bağlantılı araç rampasının kaçış amacıyla kabulü",
+          "Doğrudan dışarı ulaşma ve en fazla %10 dahil özel koşullar",
+          "TASLAK: Doğrudan dışarı ulaşma ve en fazla %8 dahil özel koşullar"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Önemli teknik ayrım: 1/12 yaklaşık %8,33 eğime karşılık gelir. Taslakta genel sınır %8 iken kavisli rampalara ilişkin 1/12 ifadesinin bulunması, kavisli rampaların %8,33 eğimle otomatik olarak uygun sayılacağı anlamına gelmez. Aynı taslak içindeki hükümler birlikte değerlendirilir; nihai metin çıkmadan bu ifadeden kesin bir istisna türetilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca kaçış rampasına ilişkin BYKHY ölçütü, erişilebilirlik ve engelsiz kullanıma dair diğer uygulanabilir kuralları kendiliğinden karşılamaz. Kullanıcı profili, bina işlevi ve ilgili başka mevzuat gereklilikleri ayrıca kontrol edilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "rampa-egimi-nasil-hesaplanir-ve-nasil-kanitlanir",
+      "metin": "Rampa eğimi nasıl hesaplanır ve nasıl kanıtlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Eğim yüzdesi, rampanın iki ölçüm noktası arasındaki düşey kot farkının yatay izdüşüm uzunluğuna bölünerek yüzle çarpılmasıyla hesaplanır: Eğim (%) = düşey kot farkı / yatay mesafe × 100. Hesap için rampanın eğimli yüzey uzunluğu yerine yatay izdüşümün esas alınması gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin temsili bir sahada, iki kot arasındaki 0,45 m düşey farkın 5,00 m yatay mesafede aşıldığı tespit edilirse ortalama eğim %9 olur. Bu tek ölçüt bakımından yürürlükteki genel %10 sınırının altında, taslakta öngörülen %8 sınırının üstündedir. Ancak bu karşılaştırmadan rampanın bütünüyle uygun olduğu veya mevcut yapıya taslak şartın uygulanabileceği sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Uzun bir rampada yalnızca başlangıç ve bitiş kotunu ölçmek, aradaki kısa ve daha dik bölümü gizleyebilir. Eğim değişimi görülen yerlerde bölüm bazlı ölçüm yapılmalı, her bölümün başlangıç/bitiş kotları, yatay mesafesi, ölçüm tarihi, ölçüm yöntemi ve kullanılan cihaz kayda alınmalıdır. Ölçümün hassasiyeti veya cihazın doğruluğu belirsizse sonuç kesin uygunluk kararı gibi sunulmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "kapi-ve-sahanlik-baglantisinda-hangi-sorular-sorulur",
+      "metin": "Kapı ve sahanlık bağlantısında hangi sorular sorulur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Rampa başlangıcında, bitişinde ve gerektiği ara kotlarda yatay sahanlık bulunup bulunmadığı kontrol edilmelidir. Rampaya giriş veya çıkışta kullanılan kapının önünde de yatay sahanlık düzeni aranır. Yürürlükteki Madde 44, sahanlığın en az genişliği ile uzunluğunun rampa genişliğinden az olmamasını; düz kollu rampada sahanlık uzunluğunun 1 m’den daha büyük olmasının gerekmemesini düzenler. Bu son ifade, bütün kapı önü ve erişilebilirlik koşullarının otomatik olarak sağlandığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada kapı kanadının açılışı, eşik veya bitmiş döşeme değişikliği, yeni turnike, korkuluk bitişi ve zemin kaplaması gibi unsurlar rampaya giriş-çıkışı etkileyebilir. Özellikle kapı açıldığında kullanılabilir yatay alanın daralıp daralmadığı ve rampadan sonra bir sonraki kaçış elemanına geçişin kesilip kesilmediği çizim ve fotoğrafla belgelenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir rampanın yön değiştirmesi gerekiyorsa dönüşün sahanlık üzerinde mi, yoksa eğimli yüzeyin içinde mi gerçekleştiği belirlenir. Kavisli uygulamanın ilgili eğim koşullarını sağladığı ayrıca doğrulanmadan “aynı rampa üzerinde dönüyor, dolayısıyla uygun” sonucuna varılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yuzey-kenar-guvenligi-ve-isletme-kosullari",
+      "metin": "Yüzey, kenar güvenliği ve işletme koşulları"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY, kaçış rampalarında kaymayı önleyen yüzey kaplaması ile kaçış merdivenlerine ilişkin gereklere uygun duvar, korkuluk veya küpeşte düzenini öngörür. Bu özellikler yalnızca projede yer almakla değil, sahada yerinde bulunmak ve kullanılabilir durumda olmakla anlam kazanır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaygan veya yerinden ayrılan kaplama, su birikmesi, palet veya temizlik ekipmanıyla daraltılan güzergah, rampanın işlevini bozabilir. Bununla birlikte yalnızca görsel gözlemle malzemenin kayma performansına ilişkin sayısal bir sınıf doğrulanmış sayılmaz; teknik performans gerekiyorsa uygun ürün belgesi veya yetkili test sonucu aranmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Araç kullanımına açık rampalarda ayrıca araç hareketleriyle yaya kaçışının birlikte nasıl yönetildiği, rampanın doğrudan dışarı bağlanıp bağlanmadığı ve sonradan eklenen bariyerlerin geçişi etkileyip etkilemediği incelenir. Araç rampasının otomatik olarak her koşulda bağımsız güvenli çıkış oluşturduğu varsayılamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), görevinin mevzuattaki kapsamı çerçevesinde önce geçerli onaylı mimari ve tahliye projelerini, ilgili kesitleri, varsa tadilat ve yapı kullanım belgelerini inceler. Projelerde rampanın hizmet ettiği mahal, başlangıç ve bitiş kotları, yön değişiklikleri, kapı bağlantıları ve önerilen genişliği belirler. Ardından gerçek mahalin hangi amaçla kullanıldığını, kullanıcıların rampaya hangi yönden ulaştığını ve rampadan sonra çıkışın nasıl sürdüğünü sahada izler."
+    },
+    {
+      "tip": "p",
+      "metin": "Ölçüm ve gözlem kaydında proje paftası kodu, rampa kodu, konum, kot farkı, yatay uzunluk, varsa bölgesel eğim değişimleri, sahanlık boyutları, kapı yönü, zemin ve korkuluk durumu ayrı ayrı işlenir. Fotoğrafların hangi yönden çekildiği ve hangi ölçüm noktasına karşılık geldiği belirtilir. Projede öngörülen durum ile sahada karşılaşılan değişiklik açıkça karşılaştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), gözlemediği veya teknik olarak doğrulayamadığı bir hususu “uygun” diye işaretlemek yerine belirsizliği ve gerekli belgeyi belirtir. Yapısal tadilat tasarımı, özel malzeme testi veya ayrıntılı ölçüm hizmetleri gerektiğinde bunlar ilgili yetkili teknik kişilerin faaliyetlerinden ayrılır. İnceleme yetkisinin kapsamı, itfaiye teşkilatının rolü ve YGU yetkilendirmesine ilişkin yürürlük durumu ayrıca gözetilir."
+    },
+    {
+      "tip": "h2",
+      "id": "rampa-kesit-inceleme-sayfasi-ornek-kayit-duzeni",
+      "metin": "Rampa kesit inceleme sayfası: örnek kayıt düzeni"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki tablo zorunlu resmi form yerine geçmez. Bir Yangın Güvenlik Uzmanı (YGU) tarafından proje–saha farkını kanıtlamak için hazırlanabilecek yardımcı kayıt düzenine örnektir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt alanı",
+        "Ne belgelenir?",
+        "Kanıt veya karar notu"
+      ],
+      "satirlar": [
+        [
+          "Rampa kimliği ve konum",
+          "Bina/blok/kat/mahal, R-01 gibi yerel kod",
+          "İlgili onaylı pafta ve kesit"
+        ],
+        [
+          "Kot ve eğim",
+          "Başlangıç-bitiş kotu, yatay uzunluk, bölüm eğimleri",
+          "Ölçüm yöntemi, cihaz ve tarih"
+        ],
+        [
+          "Sahanlık ve kapı",
+          "Başlangıç/ara/bitiş sahanlığı, kapı açılışı, kullanılabilir alan",
+          "Ölçülü kroki ve fotoğraf"
+        ],
+        [
+          "Yüzey ve kenar",
+          "Kaplama, kayma riski şüphesi, korkuluk/küpeşte durumu",
+          "Gözlem; teknik performans gerekiyorsa belge talebi"
+        ],
+        [
+          "Bağlantı sürekliliği",
+          "Önceki ve sonraki kaçış elemanı, çıkışa gidiş",
+          "Güzergah planı ve saha yürüyüş kaydı"
+        ],
+        [
+          "Kaynak statüsü ve sonuç",
+          "Yürürlükteki hüküm ile taslak öneriyi ayır",
+          "Gerekçeli tespit, eksik kanıt ve sonraki işlem"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-gerekceli-tespit-dili",
+      "metin": "Örnek gerekçeli tespit dili"
+    },
+    {
+      "tip": "p",
+      "metin": "“R-01 kodlu rampanın onaylı mimari projede belirtilen başlangıç ve bitiş kotları ile sahadaki ölçüleri karşılaştırılmıştır. Temsili saha ölçümünde 0,45 m kot farkı ve 5,00 m yatay mesafe üzerinden ortalama %9 eğim hesaplanmıştır. Yürürlükteki BYKHY Madde 44’teki genel eğim sınırı bakımından bu değer tek başına sınırı aşmamaktadır. Ancak kapı önü sahanlığının kullanılabilir boyutları, bölüm bazlı eğim değişimleri ve güzergahın devamı ayrıca doğrulanmadan bütünsel uygunluk kararı verilmemelidir. BYKHY değişiklik taslağında önerilen %8 değeri yürürlükteki zorunluluk olarak uygulanmamıştır.”"
+    },
+    {
+      "tip": "p",
+      "metin": "Bu paragraf gerçek bir yapı veya gerçekleştirilmiş ölçüme ait değildir; rapor dilini göstermek için hazırlanmış kurgusal bir eğitim örneğidir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış rampasının teknik kontrolü yalnız eğim hesabından oluşmaz. Rampanın projede hangi güzergaha hizmet ettiği, yerinde hangi kotları bağladığı, kapı ve sahanlıklarda geçişin kesintiye uğrayıp uğramadığı ve kullanıcıyı güvenli çıkış yönüne taşıyıp taşımadığı bir arada değerlendirilmelidir. Yangın Güvenlik Uzmanı (YGU) için güvenilir rapor, ölçümün kaynağını, gözlemin sınırını, uygulanabilir mevzuatı ve taslak öneriyi açık biçimde ayıran rapordur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

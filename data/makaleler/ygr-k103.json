@@ -1,0 +1,144 @@
+{
+  "kod": "YGR-K103",
+  "yol": "acil-durum-plani-ile-yangin-tahliye-projesi-ayni-belge-midir",
+  "baslik": "Acil durum planı ile yangın tahliye projesi aynı belge midir?",
+  "ozet": "İki belge de insanların güvenli biçimde tahliye edilmesiyle ilgilidir; ancak biri işletmenin acil durumda nasıl hareket edeceğini, diğeri binanın tahliyeye imkan veren mimari ve yangın güvenliği düzenini ortaya koyar. Aynı kaçış güzergahını göstermeleri, birbirlerinin yerine geçtikleri anlamına gelmez.",
+  "etiketler": [
+    "Mevzuat"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ayni-guzergah-farkli-inceleme-sorusu",
+      "metin": "Aynı güzergah, farklı inceleme sorusu"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın tahliye projesi, binanın tasarım ve ruhsat sürecindeki teknik proje bütününün bir parçasıdır. Kaçış yolları ve merdivenleri ile ilgili yangın güvenliği unsurlarının mimari proje üzerinde gösterilmesine dayanır. Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY), hangi yapılarda tahliye projesinin mimari projeden ayrı hazırlanacağını ve projelerin yetkili idarece onaylanacağını düzenler."
+    },
+    {
+      "tip": "p",
+      "metin": "Acil durum planı ise işyerinde yangın, patlama veya başka bir acil durumda kimlerin ne yapacağını, uyarı, haberleşme, müdahale, tahliye ve toplanma adımlarını tanımlar. İşyerlerinde Acil Durumlar Hakkında Yönetmelik uyarınca bu planın içinde tahliye planı da bulunur. Tahliye planı, kaçış yollarını, toplanma yerlerini ve gerekli ekipmanları gösteren bir kroki içerir. Dolayısıyla “acil durum planında çizim bulunmaz” ifadesi de yanlıştır."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-icerikleri-nasil-ayrilir",
+      "metin": "Belge içerikleri nasıl ayrılır?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme başlığı",
+        "Yangın tahliye projesi",
+        "İşyerinin acil durum planı"
+      ],
+      "satirlar": [
+        [
+          "Temel soru",
+          "Bina hangi kaçış düzeniyle tasarlanmış ve onaylanmış?",
+          "Acil durumda kişiler nasıl uyarılacak, yönlendirilecek ve yönetilecek?"
+        ],
+        [
+          "Çizim içeriği",
+          "Mimari proje üzerinde kaçış yolları, merdivenler ve ilgili yangın güvenliği unsurları.",
+          "Tahliye krokisi; kaçış yolları, toplanma alanı, ekipmanlar ve ilgili kesme noktaları."
+        ],
+        [
+          "Tamamlayıcı kayıt",
+          "Onaylı pafta, proje revizyonu, ruhsat ve yapı kullanma izin dosyası.",
+          "Acil durum senaryoları, ekip görevleri, iletişim, eğitim ve tatbikat kayıtları."
+        ],
+        [
+          "Belge sorumluluğu",
+          "Proje müellifleri ve ruhsat/onay sürecindeki yetkili taraflar.",
+          "Planı hazırlatma, onaylama ve uygulanmasını sağlama yükümlülüğü bulunan işveren."
+        ],
+        [
+          "Değişiklik nedeni",
+          "Kaçış düzenini veya projeyi etkileyen tadilat ve kullanım değişikliği.",
+          "Faaliyet, kişi sayısı, vardiya, tehlike, ekip veya tahliye uygulamasını etkileyen değişiklik."
+        ],
+        [
+          "İnceleme sonucu",
+          "Onaylı projeye ve uygulanabilir yangın güvenliği hükümlerine göre teknik karşılaştırma.",
+          "Sahadaki işleyişe, personele ve tahliye uygulamasına göre operasyonel uygunluk incelemesi."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-esik-ile-taslak-onerisi-birbirine-karistirilmamali",
+      "metin": "Yürürlükteki eşik ile taslak önerisi birbirine karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY madde 6/4 uyarınca, bir kat alanı 2.000 m²’den fazla olan katların tahliye projeleri mimari projelerden ayrı hazırlanır; diğer yapılarda tahliye projeleri mimari projelerde gösterilir. Bu ayrım, tahliye düzeninin projelendirilmesi gereğini ortadan kaldırmaz. Ayrıca acil durum planı hazırlanmış olması, ilgili proje ve onay yükümlülüklerini karşılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağı, bir katının alanı 1.000 m²’den fazla olan VEYA yapı yüksekliği 21,50 m’yi aşan yapılar için ayrı tahliye projesi hazırlanmasını önermektedir. Bu iki koşul taslakta alternatiflidir. Öneri henüz yürürlükteki 2.000 m² ölçütünün yerine geçmiş değildir. Somut bina için ruhsat tarihi, proje revizyonları ve uygulanabilir hükümler ayrıca değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "dosyada-yalniz-acil-durum-plani-varsa-ne-yapilir",
+      "metin": "Dosyada yalnız acil durum planı varsa ne yapılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek durum: İşletme dosyasında imzalı acil durum planı, katlara asılmış tahliye krokileri ve tatbikat kayıtları vardır; ancak onaylı yangın tahliye projesi sunulamamaktadır. Bu durum tek başına “binada tahliye projesi hiç hazırlanmamıştır” sonucunu vermez. Önce yapı ruhsatı eki mimari paftalar, varsa ayrı tahliye projesi, proje tadilatları ve yapı kullanma izin belgeleri istenir. Proje, ayrı pafta olarak değil mimari projenin içinde bulunabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adımda mevcut koridorlar, çıkışlar, merdivenler, kapı düzeni ve işyerinin fiili kullanım alanları belgelerle eşleştirilir. İşletmenin hazırladığı tahliye krokisinde kapı gösterilmesi, o kapının onaylı projede aynı işlevle bulunduğunu veya gerekli yangın güvenliği özelliklerini taşıdığını kanıtlamaz. Tersine, onaylı projede görünen bir çıkışın sahada kapatılmış olması da acil durum planının güncel olduğunu göstermez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye binanın ruhsat ve yapı kullanma izin belgeleri, onaylı mimari/tahliye paftaları ve varsa tarihli revizyonlarıyla başlar. Ardından gerçek mahal kullanımını, çalışan ve ziyaretçi yoğunluğunu, vardiyaları, kilitli veya sonradan bölünmüş alanları ve işletmenin acil durum organizasyonunu inceler. Belge karşılaştırmasının odağı, çizimlerde öngörülen kaçışın bugünkü işletme koşullarında korunup korunmadığıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada gözlenebilen farklar; kat ve mahal tanımı, pafta/revizyon bilgisi, fotoğraf, ilgili belge ve teknik gerekçeyle raporlanır. Örneğin “acil durum krokisindeki çıkış ile onaylı paftadaki çıkış farklı konumdadır; değişikliği açıklayan onaylı proje revizyonu dosyada görülmemiştir” ifadesi, kanıt sınırını doğru gösterir. “Bina projesizdir” veya “tahliye yeterlidir” gibi sonuçlar, yalnız bu gözlemden çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kaçış kapasitesinin hesaplanması, yeni tahliye projesinin çizilmesi, sistem performans ölçümleri, proje onayı ve idari uygunluk işlemleri kendi yetkili meslek ve kurumlarının sorumluluğundadır. YGU, inceleme ve gerekçeli tespit görevini bu yetkilerin yerine geçecek biçimde sunmaz. Ayrı YGU düzenlemesinin taslak hükümleri, bugün kendiliğinden yeni bir yasal onay yetkisi oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Acil durum planı “insanlar ve ekipler olay anında ne yapacak?” sorusunu; yangın tahliye projesi ise “bina bu tahliyeye hangi onaylı fiziksel düzenle imkan veriyor?” sorusunu cevaplar. Güvenilir inceleme, iki belgeyi birbiriyle ve sahayla karşılaştırır. Belgelerden biri eksikse eksikliğin niteliği araştırılır; diğeri onun yerine otomatik olarak kabul edilmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

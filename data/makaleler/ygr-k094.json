@@ -1,0 +1,179 @@
+{
+  "kod": "YGR-K094",
+  "yol": "mevcut-binada-yangin-dolabi-gereksinimi-yeni-binadan-farkli-midir",
+  "baslik": "Mevcut binada yangın dolabı gereksinimi yeni binadan farklı mıdır?",
+  "ozet": "Evet. Yürürlükteki düzenleme, mevcut binalarda yangın dolabı zorunluluğunu belirlerken yeni yapılara göre bazı farklı eşikler öngörür. Ancak bu fark, eski bir binanın yangın dolabından bütünüyle muaf olduğu veya mevcut dolapların kaldırılabileceği anlamına gelmez. Önce yapının hangi hükümlere tabi olduğu belirlenir; ardından dolap gereksinimi, yerleşimi ve işletme durumu birlikte incelenir.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "1-once-hangi-binadan-soz-edildigi-belirlenir",
+      "metin": "1. Önce hangi binadan söz edildiği belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "“Mevcut bina” yalnızca binanın yaşlı olması demek değildir. Yapı ruhsatı ve yapı kullanma izin belgeleri, onaylı proje tarihi, sonradan alınan tadilat izinleri, kullanım amacı değişiklikleri ve fiili faaliyet birlikte değerlendirilir. Örneğin ruhsatta konaklama olarak görülen bir yapının bir bölümü sonradan farklı amaçla kullanılmaya başlanmışsa, yalnızca ilk ruhsat tarihine bakılarak bütün yapı için eski koşulların geçerli olduğu söylenemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle doğru inceleme sırası şöyledir: yapı statüsünü ve geçerli mevzuatı belirlemek, kullanım ve alan verilerini doğrulamak, yangın dolabı zorunluluğunu değerlendirmek, mevcut tesisatın proje ve sahadaki durumunu karşılaştırmak. İdari karar veya proje değişikliği gerektiren hususlar, yetkili idare ve ilgili proje disiplinleri üzerinden sonuçlandırılır."
+    },
+    {
+      "tip": "h2",
+      "id": "2-yururlukteki-yonetmelikte-farklilik-nerede",
+      "metin": "2. Yürürlükteki yönetmelikte farklılık nerede?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, yeni yapılar için 94. maddede; mevcut yapılar için ise 164. maddede yangın dolabı koşullarını düzenler. Mevcut yapılara ilişkin hüküm, sistemin diğer teknik gerekleri bakımından genel yangın dolabı hükümlerine de gönderme yapar. Dolayısıyla farklı olan yalnızca bazı zorunluluk eşikleridir; yangın dolabının kullanılabilirliği, erişimi ve bakımının önemi değişmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Yapı / kullanım türü",
+        "Yeni yapılarda",
+        "Mevcut yapılarda"
+      ],
+      "satirlar": [
+        [
+          "Yüksek binalar",
+          "Yangın dolabı gerekir.",
+          "Yangın dolabı gerekir."
+        ],
+        [
+          "İmalathane, atölye, depo, konaklama, sağlık, toplanma ve eğitim binaları",
+          "Toplam kapalı kullanım alanı 1.000 m²’den büyükse",
+          "Toplam kapalı kullanım alanı 2.000 m²’den büyükse"
+        ],
+        [
+          "Kapalı otoparklar",
+          "Alanlarının toplamı 600 m²’den büyükse",
+          "Alanlarının toplamı 1.000 m²’den büyükse"
+        ],
+        [
+          "Kazan daireleri",
+          "Isıl kapasite 350 kW’ın üzerindeyse",
+          "Isıl kapasite 500 kW’ın üzerindeyse"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablo, yürürlükteki zorunluluk eşiklerinin özetidir. “Büyükse” ifadesi eşik değere eşit olmayı değil, eşik değerin aşılmasını anlatır. Ayrıca yüksek bina niteliği, kullanım değişikliği, diğer sistem gerekleri ve yapının tabi olduğu özel hükümler ayrı incelenir. Tablo tek başına bir yapıya uygunluk kararı vermez."
+    },
+    {
+      "tip": "h2",
+      "id": "3-zorunluluk-ile-dolap-sayisi-ayni-soru-degildir",
+      "metin": "3. Zorunluluk ile dolap sayısı aynı soru değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir binada yangın dolabı bulunması gerektiği belirlendikten sonra “kaç dolap gerekir?” sorusu yalnızca toplam metrekareden cevaplanmaz. Katların yerleşimi, yangın duvarlarıyla ayrılan bölümler, erişim güzergahları, merdiven ve koridor bağlantıları ile mevcut mekanik tesisat projesi dikkate alınır. Yürürlükteki genel düzenlemede dolapların her katta ve yangın duvarlarıyla ayrılmış bölümlerde, aralarındaki uzaklık 30 metreyi aşmayacak biçimde yerleştirilmesi esastır. Yağmurlama koruması ve katlarda itfaiye su alma ağzı bulunması gibi birlikte aranan koşullarda 45 metreye kadar düzenleme yapılabilmesi ayrı bir hükümdür; bu mesafe her binaya otomatik uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Dolabın kapak açılımı, hortumun çıkarılabilmesi, dolap önünün boş olması, ekipmanın hasarsızlığı ve su beslemesinin sürekliliği de yerleşim değerlendirmesinin parçasıdır. Projede görülen dolap, sahada kilitli bir dekoratif panelin arkasında kalıyorsa kağıt üzerindeki adet tek başına güvenli kullanım kanıtı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "4-eski-bir-konaklama-yapisi-uzerinden-dusunelim",
+      "metin": "4. Eski bir konaklama yapısı üzerinden düşünelim"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal olarak toplam kapalı kullanım alanı 1.800 m² olan, yüksek bina niteliği taşımayan ve kullanım amacı değişmemiş bir konaklama yapısını ele alalım. Yalnız alan eşiği karşılaştırıldığında yeni yapı için öngörülen 1.000 m² sınırı aşılırken, mevcut yapı için belirtilen 2.000 m² sınırı aşılmamaktadır. Fakat bu hesap, binada yangın dolabı kesinlikle gerekmiyor sonucunu doğurmaz: yapının mevcut yapı statüsü, diğer yangın güvenliği koşulları, onaylı tesisat projesi, önceki izinler ve sonradan yapılan değişiklikler araştırılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı yapının mevcut onaylı projesinde yangın dolapları bulunuyorsa, yalnızca alan eşiğine dayanarak bunları kaldırmak doğru bir işlem değildir. Dolapların korunması, işletilmesi, bakım kayıtları ve olası proje revizyonu yetkili teknik süreçlerde değerlendirilmelidir. Bu örnek gerçek bir olaya değil, mevzuat okuma yöntemine ilişkindir."
+    },
+    {
+      "tip": "h2",
+      "id": "5-yeni-yonetmelik-taslagi-neden-ayri-okunmalidir",
+      "metin": "5. Yeni yönetmelik taslağı neden ayrı okunmalıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağı, yangın dolapları için farklı yapı ve alan tanımları içeren bir düzenleme önermektedir. Taslakta genel sistem koşulları ile mevcut yapıların uygulanabilirliğine ilişkin hükümler birlikte okunmalıdır. Bu metindeki öneriler, yürürlüğe girmedikçe bugün uygulanacak zorunluluk eşikleri gibi kullanılamaz. Özellikle taslaktaki yapı inşaat alanı ve net mahal alanı gibi ölçütler, yürürlükteki toplam kapalı kullanım alanı veya ısıl kapasite ölçütleriyle doğrudan eşit kabul edilmemelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU mesleki uygulamasına ilişkin ayrı taslak da saha kontrolünde proje, kullanım, bakım ve muayene kayıtlarının incelenmesini öngören bir yöntem sunar. Bu yöntem, yürürlükte olmayan yeni bir tasarım veya ölçüm yetkisi oluşturmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "6-yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "6. Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının ilk ruhsatı, yapı kullanma izni, onaylı mimari ve mekanik tesisat projeleri, varsa revizyonlar ve işletmenin güncel kullanım bilgileriyle başlar. Konaklama kapasitesi, faal katlar, bodrumdaki teknik hacimler ve sonradan bölünmüş mahaller projedeki karşılıklarıyla eşleştirilir. Böylece zorunluluk değerlendirmesinde kullanılan bina türü, alan ve kazan kapasitesi gibi verilerin dayanağı açık hale gelir."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gezisinde projedeki dolap noktalarının gerçekten mevcut olup olmadığı, dolaplara erişim, kapak ve hortumun gözle görülen durumu, işaretleme ve dolap önündeki engeller kaydedilir. Mevcut bakım ve periyodik muayene raporları, sistem test tutanakları, varsa arıza ve onarım kayıtları incelenir. Su debisi, basınç, hidrolik yeterlilik veya tesisatın tasarım uygunluğu konusunda yetkili teknik kişilerin ölçüm, hesap ve raporları esas alınır; YGU yalnız gözlem yaparak bu sonuçları varmış gibi yazmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Uygunsuzluk ya da kanıt eksikliği varsa raporda ilgili mahal, proje paftası, gözlenen durum ve eksik belgenin adı açıkça belirtilir. Örneğin “ikinci kattaki yangın dolabı projede işaretli olmakla birlikte sahada dolap önünün sabit mobilyayla kapatıldığı görüldü; erişimin yeniden sağlanması ve durumun belgelenmesi gerekir” biçimindeki kayıt, yalnız “dolap uygun değil” demekten daha izlenebilirdir. Proje değişikliği, tesisat tasarımı, teknik ölçüm ve resmi onay süreçleri kendi yetkili aktörlerinde kalır."
+    },
+    {
+      "tip": "h2",
+      "id": "7-inceleme-sonucunu-hangi-kanitlarla-kapatmali",
+      "metin": "7. İnceleme sonucunu hangi kanıtlarla kapatmalı?"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Aranacak kanıt",
+        "Raporlama yaklaşımı"
+      ],
+      "satirlar": [
+        [
+          "Mevcut yapı statüsü",
+          "Ruhsat, yapı kullanma izni, tadilat ve kullanım belgeleri",
+          "Geçerli hükmün hangi belgeye dayandığını belirt."
+        ],
+        [
+          "Zorunluluk eşiği",
+          "Onaylı alan bilgileri, bina kullanım türü, kazan kapasitesi",
+          "Alan veya kapasite verisi belirsizse kesin hüküm kurma."
+        ],
+        [
+          "Yerleşim ve erişim",
+          "Mekanik proje, kat planı, mahal fotoğrafları",
+          "Projede işaretli noktayı sahadaki noktayla eşleştir."
+        ],
+        [
+          "İşletme ve bakım",
+          "Bakım, muayene ve test raporları",
+          "Belge tarihi, kapsamı ve ilgili ekipman ilişkisini kontrol et."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç: Mevcut binada yangın dolabı zorunluluğu yeni binadan farklı değerlendirilebilir; ancak bu değerlendirme sadece “eski bina” etiketi veya tek bir metrekare hesabıyla yapılamaz. Doğru karar, uygulanabilir hükmün belirlenmesi, onaylı proje ve fiili kullanımın karşılaştırılması, mevcut sistemin kanıtlarla incelenmesi ve görev sınırlarına uygun raporlamayla oluşur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

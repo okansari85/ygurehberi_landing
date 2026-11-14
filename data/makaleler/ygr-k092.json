@@ -1,0 +1,151 @@
+{
+  "kod": "YGR-K092",
+  "yol": "mevcut-binada-dis-kacis-merdiveni-secerken-hangi-sartlar-aranir",
+  "baslik": "Mevcut binada dış kaçış merdiveni seçerken hangi şartlar aranır?",
+  "ozet": "Bitişik nizam eski bir binaya dış kaçış merdiveni eklemek, cepheye metal bir merdiven yerleştirmekten ibaret değildir. Merdiven, yangın sırasında binadan uzaklaşmayı sağlamalı; buna karşılık komşu açıklıklardan çıkan alev, sıcak gaz ve duman nedeniyle yeni bir tehlikeli bölgeye dönüşmemelidir. Bu nedenle ilk karar, merdivenin nereye sığacağı değil, binanın hangi mevzuat koşullarında değerlendirileceği ve seçilen güzergahın gerçekten güvenli bir çıkış oluşturup oluşturmadığıdır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "once-mevcut-yapi-statusu-ve-cikis-gereksinimi-belirlenir",
+      "metin": "Önce mevcut yapı statüsü ve çıkış gereksinimi belirlenir"
+    },
+    {
+      "tip": "p",
+      "metin": "Yapının ruhsat ve onaylı proje tarihi, yapı kullanma izin belgesi, sonradan yapılan tadilatlar ve kullanım değişiklikleri birlikte okunur. Mevcut yapı hükümlerinin uygulanabilmesi, yalnız binanın eski görünmesine bağlı değildir. Kullanım amacı değişmişse veya esaslı tadilat yapılmışsa uygulanacak koşullar ayrıca belirlenir. Yangın güvenliği açısından yeni bir dış merdiven önerisi, onaylı kaçış düzeninin ve binadaki kullanıcı yükünün yeniden incelenmesini gerektirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Dış merdiven ihtiyacının varlığı, çıkış sayısı, birbirinden bağımsız kaçış seçenekleri, kaçış uzaklıkları, katlardaki kişi sayısı ve mevcut merdivenlerin kullanılabilirliği incelenmeden karara bağlanamaz. İlave merdivenin binanın tek uygun kaçışı olup olmayacağı da önemlidir. Merdiven, kat kapısından başlayarak güvenli son çıkışa kadar kesintisiz ve engellenmemiş bir güzergah oluşturmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "mevcut-yapilarda-dis-merdivenin-konumu-ve-cephe-acikliklari",
+      "metin": "Mevcut yapılarda dış merdivenin konumu ve cephe açıklıkları"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmeliğin 153. maddesi, mevcut yapılardaki dış kaçış merdivenleri için özel bir çerçeve getirir. Kaçış merdiveni özelliklerini sağlamak ve merdivenin herhangi bir bölümüne yanlardan yatay 1,8 m mesafe içinde korunumsuz duvar boşluğu bulunmamak koşuluyla, konutlarda 51,50 m, diğer yapılarda 30,50 m bina yüksekliğine kadar dış kaçış merdivenine izin verir. Bu yükseklikler, merdivenin diğer şartlar aranmaksızın kullanılabileceği anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Söz konusu 1,8 m mesafe içinde korunumsuz açıklık bulunuyorsa, ilgili boşlukların bütün katlarda yangına en az 60 dakika dayanıklı malzemeyle koruma altına alınması veya merdivenin açıklıklardan gelebilecek duman ve ısı etkilerine karşı yangına 60 dakika dayanıklı bir yuva içinde korunması gerekir. Pencerenin yalnızca kapalı tutulması, film uygulanması veya önüne levha konulması, bu korumanın belgelendirilmiş karşılığı sayılmaz. Çözümün proje detayı ve ürün/uygulama belgeleriyle gösterilmesi gerekir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yönetmeliğin genel dış kaçış merdiveni hükmü olan 42. maddesinde ise açık dış merdiven için 3 m açıklık mesafesi ve 21,50 m bina yüksekliği sınırı bulunur. Bu iki farklı sayısal düzenleme, aynı yapıya gelişigüzel uygulanacak alternatifler değildir. Önce mevcut yapı statüsü ve özel hükmün uygulanabilirliği belirlenmeli; sonra projelendirme ve idari değerlendirme bu hukuki temele göre yürütülmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "bitisik-nizamda-yalniz-kendi-cephemize-bakmak-yeterli-mi",
+      "metin": "Bitişik nizamda yalnız kendi cephemize bakmak yeterli mi?"
+    },
+    {
+      "tip": "p",
+      "metin": "Hayır. Merdivenin yanındaki kendi bina pencereleri kadar, komşu yapı cephesi, sınır duvarı, komşu pencereler ve ileride kapatılması mümkün olmayan dar boşluklar da yangına maruz kalma açısından incelenir. Komşu açıklıkların etkisi için yönetmelikteki sayısal şartların hangi bina ve hangi yüzeylere doğrudan uygulandığı proje bazında netleştirilmelidir; sırf komşu binada pencere var diye her durumda aynı mesafe hükmü otomatik yazılamaz. Ancak merdivenin ısı ve duman etkisine açık kalması teknik bir risk olarak mutlaka değerlendirilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Merdiven komşu parsele taşmamalı, mülkiyet ve imar koşulları ile ilgili izinler ayrıca kontrol edilmelidir. Merdiven altına araç parkı, malzeme istifi veya yanıcı atık konulması, üstteki koruma tedbirleri uygun olsa bile kaçış yolunun fiili güvenliğini bozabilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yalniz-cephe-mesafesi-degil-merdivenin-tamami-kontrol-edilir",
+      "metin": "Yalnız cephe mesafesi değil, merdivenin tamamı kontrol edilir"
+    },
+    {
+      "tip": "p",
+      "metin": "Merdiven kolu, basamak, sahanlık, korkuluk, kapı, geçiş genişliği, kaymayı önleyen yüzey ve çıkış noktasının birlikte değerlendirilmesi gerekir. Mevcut yapıların kaçış merdiveni özelliklerine ilişkin 152. madde de bu incelemenin parçasıdır. Taşıyıcı bağlantıların mevcut binaya etkisi, korozyon koruması, yük taşıma kapasitesi ve bağlantı detayları ise ilgili proje müellifleri ve yetkin mühendisler tarafından hesaplanıp belgelendirilmelidir. Yangın güvenliği incelemesi, statik proje ve hesapların yerine geçmez."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-incelemesinde-karar-tablosu",
+      "metin": "Proje–saha incelemesinde karar tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Bakılacak belge ve saha verisi",
+        "Değerlendirme odağı"
+      ],
+      "satirlar": [
+        [
+          "Yapı statüsü ve ihtiyaç",
+          "Ruhsat, kullanım ve tadilat geçmişi; mevcut çıkışlar",
+          "Önce uygulanacak hüküm ve ilave çıkış gereği belirlenir."
+        ],
+        [
+          "Cephe ve açıklıklar",
+          "Ölçülü cephe, kat planı, pencere/kapı konumları, komşu cephe",
+          "Korunumsuz açıklıkların merdivene etkisi ve gerekli koruma belgelenir."
+        ],
+        [
+          "Merdiven geometrisi",
+          "Kesit, sahanlık, kapı geçişi, basamak ve korkuluk detayları",
+          "Kullanıcı yükü ve kaçışın sürekliliğiyle birlikte incelenir."
+        ],
+        [
+          "Yapısal güvenlik",
+          "Statik proje, bağlantı detayı, malzeme ve uygulama kayıtları",
+          "Taşıma kapasitesi uzman hesap ve onayıyla doğrulanır."
+        ],
+        [
+          "Son çıkış ve işletme",
+          "Zemin kotu, güvenli alana ulaşım, engeller, bakım kayıtları",
+          "Merdivenin yalnız çizimde değil, her zaman kullanılabilir olması aranır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle onaylı mimari ve yangın güvenliği projelerini, ruhsat ve kullanım izinlerini, sonradan alınan tadilat izinlerini ve varsa önceki itfaiye görüşlerini inceler. Mevcut mahal kullanımlarını, katlardaki kişi sayılarını, mevcut çıkışları ve önerilen dış merdivenin binaya bağlandığı noktaları projeyle karşılaştırır. Merdiven boyunca pencere, kapı, menfez ve diğer açıklıkları; sahanlıkları, kapıların açılmasını, engelleri ve güvenli alana ulaşımı yerinde gözlemler. Gerekli görülen mesafeleri ölçülü proje ve yetkili teknik personel verileriyle karşılaştırır; uyuşmazlıkları konum, fotoğraf ve dayanaklarıyla raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözlemsel inceleme sonucunda korunumsuz açıklık, eksik proje detayı veya belgesiz taşıyıcı bağlantı saptarsa bunu gerekçeli teknik bulgu olarak kaydeder. Ancak yangına dayanım sınıfını kendi gözlemiyle sertifikalandırmaz; statik hesabı, uygulama projesini veya idarenin onayını üstlenmez. Tasarım, malzeme performansının doğrulanması, yapısal hesap ve ruhsat işlemleri ilgili yetkili meslek mensupları ile idarelerin sorumluluğundadır. Bu sınır, taslakta öngörülen mesleki kontrol yaklaşımının bugün kendiliğinden yeni bir hukuki yetki doğurduğu şeklinde yorumlanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-duzenleme-ile-yururlukteki-hukmun-ayrimi",
+      "metin": "Taslak düzenleme ile yürürlükteki hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağının mevcut yapılara ilişkin 139. maddesi, yapı statüsü ve kullanım değişikliği bakımından farklı bir uygulama çerçevesi önermektedir. Bu metin henüz yürürlükteki 153. maddeyi ortadan kaldıran bağlayıcı bir düzenleme olarak kullanılamaz. Taslaktaki genel mevcut yapı yaklaşımı, yukarıda verilen sayısal sınırların kendiliğinden değiştiği şeklinde okunmamalıdır. Nihai değerlendirme, yürürlükteki hüküm, yapının belgelenmiş durumu ve yetkili idarenin işlemine dayanır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut bir binada dış kaçış merdiveni seçimi, merdivenin cepheye sığmasıyla değil, mevzuat statüsü, gerçek kaçış ihtiyacı, cephe açıklıklarından korunma, merdivenin geometrisi, taşıyıcı güvenliği ve güvenli son çıkışın birlikte sağlanmasıyla sonuçlanır. Özellikle bitişik nizamda, 1,8 m açıklık kontrolü ile merdivenin yangın etkisine maruz kalma riski birbirinden koparılmamalı; eksik kalan her konu onaylı proje ve doğrulanabilir teknik belgeyle kapatılmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

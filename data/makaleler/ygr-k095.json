@@ -1,0 +1,168 @@
+{
+  "kod": "YGR-K095",
+  "yol": "mevcut-binada-yagmurlama-gerekliligi-nasil-gerekcelendirilir",
+  "baslik": "Mevcut binada yağmurlama gerekliliği nasıl gerekçelendirilir",
+  "ozet": "Bir yağmurlama sisteminin gerekli olup olmadığına, yalnız binanın eski olmasına veya bir katta sprinkler başlığı görülmesine bakılarak karar verilemez. Kararın dayanağı; yapının hukuki statüsü, onaylı kullanım ve alan bilgileri, fiili işletme koşulları ile ilgili hükmün birlikte okunmasıdır.",
+  "etiketler": [
+    "Mevcut Binalar"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ilk-soru-hangi-yapi-hukumleri-uygulanacak",
+      "metin": "İlk soru: Hangi yapı hükümleri uygulanacak?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mevcut bina değerlendirmesi, yapının ruhsat ve proje geçmişini ortaya koymakla başlar. Yapı ruhsatı, varsa yapı kullanma izni, sonradan onaylanan tadilat projeleri ve işyeri kullanım belgeleri bir arada incelenmeden sadece inşa yılına dayanarak karar verilmesi güvenilir değildir. Özellikle mağaza büyütülmesi, bir katın depoya dönüştürülmesi veya bağımsız bölümlerin birleştirilmesi, alan ve kullanım verilerini değiştirebilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelikte (BYKHY) yeni binalar için yağmurlama zorunluluğunun temel ölçütleri 96. maddede; mevcut binalar için özel ölçütler ise 165. maddede yer alır. Mevcut yapıya ilişkin genel hükümler ile kullanım değişikliğine ilişkin düzenlemeler de birlikte değerlendirilir. Bu nedenle 165. maddedeki bir eşik, her eski binaya koşulsuz uygulanacak tek karar kuralı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bina-ile-mevcut-bina-esikleri-neden-farkli-okunur",
+      "metin": "Yeni bina ile mevcut bina eşikleri neden farklı okunur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Aşağıdaki tablo, yürürlükteki düzenlemede sık karıştırılan iki kullanım grubunu özetler. Alan tanımları ve kat koşulları bilerek ayrı yazılmıştır; sayıları birbirinin yerine kullanmak doğru değildir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kullanım / ölçüt",
+        "Yeni bina (Md. 96)",
+        "Mevcut bina (Md. 165)"
+      ],
+      "satirlar": [
+        [
+          "Katlı mağaza, alışveriş ve benzeri ticari kullanım",
+          "Toplam alanı 2.000 m² üzerinde olan katlı mağaza, alışveriş, ticaret ve eğlence yerleri.",
+          "Birden fazla katlı ve toplam yapı inşaat alanı 3.000 m² üzerinde olan mağaza, alışveriş ve eğlence yerleri ile kongre ve toplantı salonları gibi yerler."
+        ],
+        [
+          "Kapalı otopark",
+          "Toplam alanı 600 m² üzerinde olanlar veya 10’dan fazla aracın asansörle alındığı otoparklar.",
+          "Toplam alanı 1.000 m² üzerinde olanlar veya 10’dan fazla aracın asansörle alındığı otoparklar."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablodaki ölçütler örnek seçilmiştir. Yükseklik, konaklama, depolama ve kolay alevlenici madde bulunan yapılar için de ayrı hükümler vardır. İlgili bina sınıfı belirlenmeden yalnızca bu iki satıra bakılarak sonuç çıkarılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "alan-buyuduyse-hangi-veriler-yeniden-toplanir",
+      "metin": "Alan büyüdüyse hangi veriler yeniden toplanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mağaza veya ticaret alanının genişletilmesinde ilk iş, onaylı eski alan ile yeni durumun hangi belgeye dayandığını saptamaktır. İki bağımsız bölümün duvarının kaldırılması, üst kata satış alanı açılması veya depolama alanının satışa katılması farklı hukuki ve teknik sonuçlar doğurabilir. Onaylı mimari proje ile güncel plan üzerinde katlar, ortak hacimler, yangın kompartımanları ve birbirine bağlanan bölümler işaretlenir. Ruhsatta yazan kullanımın sahada gerçekten sürüp sürmediği ayrıca kontrol edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı parseldeki her yapının alanı otomatik olarak toplanmaz. Bakanlık Kılavuzu, yağmurlama gereksiniminin ruhsat ve yapı bütünlüğüyle birlikte değerlendirilmesini örnekler. Bir yapının ayrı ruhsatlı olması, bitişik nizam düzeni veya tek ruhsat altında birden fazla bölüm bulunması, hesabın kapsamını etkileyebilir. Bu ayrım, gerekçeli karar dosyasında açıkça gösterilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-inceleme-buyuyen-iki-katli-magaza",
+      "metin": "Varsayımsal inceleme: Büyüyen iki katlı mağaza"
+    },
+    {
+      "tip": "p",
+      "metin": "İki katlı bir mağazanın onaylı yapı inşaat alanının 2.800 m² olduğu, sonradan 450 m² büyütülerek toplamın 3.250 m²’ye ulaştığı varsayılsın. Bu bir gerçek olay kaydı değildir; değerlendirme sırasını göstermek için hazırlanmış örnektir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yalnız ilk proje dikkate alındığında mevcut bina için 3.000 m² eşiğinin altında kalan bir değer görülür. Yeni alanın aynı yapı bütününe katıldığı, onaylı proje ve ruhsat belgeleriyle doğrulanırsa mevcut bina ölçütü yönünden eşik yeniden değerlendirilir. Ancak ek alanın hukuki niteliği, kullanım değişikliği veya yeni bina hükümlerinin uygulanmasını gerektiren başka bir işlem bulunup bulunmadığı belirlenmeden “sistem kesin zorunludur” ya da “gerekmez” sonucuna varılmaz. Dosyada önce bu ayrım kapatılır, sonra uygulanabilir hüküm yazılır."
+    },
+    {
+      "tip": "h2",
+      "id": "sistem-varsa-karar-bitmis-sayilmaz",
+      "metin": "Sistem varsa karar bitmiş sayılmaz"
+    },
+    {
+      "tip": "p",
+      "metin": "Yağmurlama başlıklarının bazı katlarda bulunması, tüm gerekli mahallerin korunduğunu kanıtlamaz. Onaylı mekanik tesisat projesi, hidrolik hesap, su deposu ve pompa verileri, zon şemaları, devreye alma kayıtları ile güncel bakım ve test belgeleri birlikte incelenir. Yeni raf düzeni, asma tavan, kapatılan başlık, bölünen mahal veya değişen stok türü, sistemin koruduğu alanla fiili tehlike arasındaki uyumu bozabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yağmurlama zorunluluğu ile sistemin tasarım ve performans uygunluğu ayrı sorulardır. Su ile reaksiyona giren maddelerin bulunduğu mahaller gibi özel durumlar, ilgili hüküm ve mühendislik çözümüyle ayrıca ele alınır; sistemin bulunmaması tek başına muafiyet kanıtı olmadığı gibi, mevcut başlıkların sayısı da hidrolik yeterliliğin kanıtı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemenin başlangıcında yapı ruhsatını, yapı kullanma iznini, onaylı mimari ve yangın tesisatı projelerini, varsa tadilat ve kullanım değişikliği belgelerini karşılaştırır. Sahada katların fiili kullanımını, birleştirilen alanları, depo ve satış bölümlerini, sistemin bulunduğu mahalleri ve gözle görülebilen engelleri kayıt altına alır. Belgelerdeki alan hesabı ile gerçek düzen arasında fark varsa farkın hangi bölümde ve hangi kayıtla ortaya çıktığını belirtir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme sorusu",
+        "Aranacak kanıt / rapora yansıması"
+      ],
+      "satirlar": [
+        [
+          "Yapı hangi statüde?",
+          "Ruhsat, kullanım izni, proje onay tarihleri; uygulanabilir hüküm ve belirsizlik kaydı."
+        ],
+        [
+          "Alan ve kullanım ne kadar değişti?",
+          "Eski ve yeni onaylı planlar; kat bazında kullanım, alan ve bölüm sınırı karşılaştırması."
+        ],
+        [
+          "Yağmurlama hangi alanları koruyor?",
+          "Mekanik proje ve zon planı; sahada gözlenen başlık, vana, engel ve mahal farkları."
+        ],
+        [
+          "Sistem işletilebilir durumda mı?",
+          "Yetkili kişilerce düzenlenmiş test, bakım ve muayene belgeleri; eksik veya süresi belirsiz kayıtların listesi."
+        ],
+        [
+          "Karar hangi gerekçeyle yazılacak?",
+          "İlgili yürürlük hükmü, doğrulanan proje verisi, gözlem, belirsizlik ve gerekiyorsa yetkili idare görüşü."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, gözlemini ve belge karşılaştırmasını gerekçeli biçimde raporlar; yetkili mühendis adına hidrolik hesap yapmış, tesisatı tasarlamış, performans testi gerçekleştirmiş veya ruhsat makamı adına onay vermiş sayılmaz. Teknik hesap, proje revizyonu, ölçüm ve onay gerektiren hususlar ilgili yetkili kişilere ve idareye yönlendirilir. Belge yoksa uygunluk varsayılmaz; hangi kanıtın eksik olduğu açıkça belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "taslak-hukumler-karar-dosyasinda-nasil-ayrilir",
+      "metin": "Taslak hükümler karar dosyasında nasıl ayrılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemeye sunulan yeni BYKHY taslağı, yağmurlama için 98. maddede farklı alan ve kullanım eşikleri önermektedir. Örneğin ticaret ve toplanma amaçlı yapılarda toplam alanı 1.000 m² üzerinde olan bölümler taslak kapsamına alınmıştır. Aynı taslak, mevcut yapılara ilişkin 139. maddede ayrıca atriumlu konut dışı binaların otomatik algılama ve yağmurlama sistemiyle korunmasına yönelik bir öneri içerir. Bunlar yayımlanmış zorunluluk gibi kullanılmaz; yürürlükteki 96 ve 165. maddelerle karıştırılmadan, mevzuat değişikliği takibi kapsamında ayrı tutulur."
+    },
+    {
+      "tip": "p",
+      "metin": "Sonuç olarak gerekçeli inceleme, “bina eski” veya “alan 3.000 m²’yi geçti” cümlesiyle değil; yapının statüsü, güncel kullanım, doğru alan tanımı, uygulanabilir hüküm, onaylı proje ve sahadaki sistem kanıtlarının aynı dosyada birbirini desteklemesiyle tamamlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

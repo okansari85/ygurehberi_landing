@@ -1,0 +1,147 @@
+{
+  "kod": "YGR-K176",
+  "yol": "tehlike-bolgeleri-cizimi-sahadaki-ekipmanla-nasil-eslestirilir",
+  "baslik": "Tehlike Bölgeleri Çizimi Sahadaki Ekipmanla Nasıl Eşleştirilir?",
+  "ozet": "Parlayıcı sıvıların depolandığı veya aktarıldığı bir tesiste tehlike bölgesi krokisi bulunması, sahadaki ekipmanın doğru yerde ve doğru özellikte bulunduğunu tek başına göstermez. Krokideki sınırlar, madde envanterindeki son durum ve fiili yerleşimle birlikte okunmalıdır. Yangın güvenlik uzmanı (YGU) açısından ilk hedef, çizim ile gerçek saha arasındaki farkları kanıtıyla belirlemek ve teknik değerlendirmesi gereken değişiklikleri ilgili uzmanlara yönlendirmektir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "tehlike-bolgesi-krokisi-neyi-tarif-eder",
+      "metin": "Tehlike bölgesi krokisi neyi tarif eder?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 116, patlayıcı gaz-hava karışımının bulunma olasılığı ve süresine göre 0, 1 ve 2. tehlike bölgelerini tanımlar. Bölge 0, karışımın sürekli veya uzun süre bulunabildiği yerleri; Bölge 1, normal çalışma sırasında oluşma ihtimali bulunan yerleri; Bölge 2 ise normal çalışmada beklenmeyen, oluştuğunda kısa süreli kalan durumları ifade eder. Madde 117, bu bölgelerde kullanılacak cihaz ve sistemlerle ilgili sınırlamaları düzenler."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu sınıflandırma, yapının genel yangın tehlike sınıfıyla veya risk değerlendirmesinde kullanılan sayısal puanla aynı şey değildir. Ayrıca gaz-buhar ortamları için çizilen 0/1/2 bölgeleri, yanıcı tozların bulunduğu ortamların sınıflandırılmasıyla karıştırılmamalıdır. Krokideki çizgilerin teknik gerekçesi proses, salım kaynakları, havalandırma ve işletme koşullarıyla birlikte değerlendirilir; yalnız gözle sınır çizilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "ise-haritayi-degil-guncel-isletme-verisini-okuyarak-baslayin",
+      "metin": "İşe haritayı değil, güncel işletme verisini okuyarak başlayın"
+    },
+    {
+      "tip": "p",
+      "metin": "Eşleştirmenin ilk adımı, tesisin güncel kimyasal envanterini ve güvenlik bilgi formlarını (GBF/SDS) almak, ardından fiilen kullanılan tank, dolum ağzı, pompa, vana, aktarım hattı ve geçici kapların yerini belirlemektir. Aynı binada farklı ürünlerin bulunması, bir ürünün değiştirilmesi veya dolum noktasının taşınması, çizimdeki eski kabullerin yeniden sorgulanmasını gerektirebilir. Malzemenin sınıfı, sıcaklık ve basınç koşulları ile kullanım sıklığı, uzman değerlendirmesine sunulacak temel girdilerdir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci adım, onaylı ya da işletmede geçerli teknik yerleşim planı, proses akış şeması, patlayıcı ortam değerlendirmesi ve tehlike bölgesi krokisinin aynı tesis sürümünü gösterip göstermediğini incelemektir. Bir çizimde halen var görünen fakat sökülmüş ekipman ile sonradan eklenmiş ancak planda görünmeyen ekipman ayrı ayrı not edilir. Tarihsiz veya revizyon bilgisi bulunmayan çizim, güncel durumun kesin kanıtı olarak kabul edilmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sahadaki-ekipman-krokide-nereye-oturuyor",
+      "metin": "Sahadaki ekipman krokide nereye oturuyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, her potansiyel salım noktasını krokideki referans işaretiyle eşleştirir: tank nozulundan hortum bağlantısına, dolum kolundan havalandırma çıkışına kadar noktaların değişmiş olup olmadığını gözlemler. Ardından bölge sınırının içinde veya yakınındaki motor, armatür, elektrik panosu, anahtar, aydınlatma elemanı, taşınabilir cihaz ve araç hareketlerini kayıt altına alır. Bir cihazın etiketinin bulunması uygunluğunu tek başına ispatlamaz; işaretleme, sertifika, montaj koşulu ve bakım kayıtlarının ilgili teknik uzman tarafından değerlendirilmesi gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-saha-eslestirme-tablosu",
+      "metin": "Belge ile saha eşleştirme tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İzlenen unsur",
+        "Karşılaştırılan belge",
+        "Sahada aranan kanıt"
+      ],
+      "satirlar": [
+        [
+          "Salım noktaları",
+          "Proses akış şeması; güncel tank / hat planı",
+          "Flanş, dolum, boşaltım, pompa ve vana konumları"
+        ],
+        [
+          "Bölge sınırları",
+          "Tehlike bölgesi krokisi; teknik sınıflandırma raporu",
+          "Mesafeler, kat/kot farkı, kapılar ve yeni bölmeler"
+        ],
+        [
+          "Elektrikli ekipman",
+          "Ekipman listesi; uygunluk ve bakım belgeleri",
+          "Motor, anahtar, pano, aydınlatma ve etiket konumları"
+        ],
+        [
+          "Havalandırma",
+          "Havalandırma projesi; işletme kayıtları",
+          "Menfez, emiş ve atış ağızları; engellenme veya tadilat"
+        ],
+        [
+          "Değişiklik kaydı",
+          "Revizyon tutanağı; iş emri; güncel envanter",
+          "Sahaya eklenen, taşınan, sökülen veya devre dışı öğeler"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemeye güncel kroki tarihi, çizim revizyonu, tesis kullanım biçimi, mevcut ürünler ve kullanılan ekipmanın kimlikleriyle başlar. Krokide A olarak işaretlenen dolum noktasının bugün hangi kapıdan ve hangi güzergah üzerinden kullanıldığını yerinde doğrular. Sonra cihazların krokide hangi bölgede kaldığını, alan içinde yeni raf, bölme, fan, priz veya araç parkı oluşup oluşmadığını not eder. Fotoğraf, konum kodu ve ilgili çizim numarasıyla bulguyu ilişkilendirir; fotoğraf tek başına teknik uygunluk kararı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, eksik veya çelişkili teknik belgelerin teminini ister; uygunluk ve bölge yeniden sınıflandırması gerektiren hususları patlayıcı ortam ve ilgili elektrik/mekanik uzmanlarının değerlendirmesine taşır. Sahada gözle teyit edilemeyen, örneğin havalandırmanın etkinliği, ekipman sıcaklık sınıfı veya cihazın Ex uygunluğu gibi konularda ölçüm ve uzman raporu olmadan kesin “uygun” ya da “uygunsuz” kararı üretmez. İşletme sorumlusu, açık bulgunun giderilmesini ve güncel belgenin takibini sağlar."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuat-taslak-ve-ek-6-sinirlari",
+      "metin": "Mevzuat, taslak ve EK-6 sınırları"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 116 ve 117, tehlike bölgelerinin tanımları ile bu bölgelere ilişkin sınırlamalar için temel başvuru noktalarıdır. Henüz yayımlanmamış BYKHY değişiklik taslağında aynı konu Madde 118 ve 119 altında ele alınır (TASLAK). Taslaktaki numara ve anlatım, yayımlanmış hüküm gibi kullanılmaz; varsa anlamlı metin farklılıkları yayımlanma ve yürürlük durumuna göre ayrıca incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU düzenlemesine ilişkin taslak ve onun EK-6/B formu, tehlikeli maddeler konusunda proje, saha ve belge incelemesi için bir çerçeve sunar (TASLAK). Ancak kullanılan eşleştirme envanterinde bu makaleye özgü, doğrudan doğrulanmış bir EK-6 bent numarası bulunmamaktadır. Bu nedenle sırf tehlike bölgesi krokisi inceleniyor diye bir kontrol bendi veya bağımsız teknik ölçüm yetkisi atanmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-fark-kaydi-nasil-tutulur",
+      "metin": "Örnek fark kaydı nasıl tutulur?"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal örnek: Bir solvent dolum alanında, tehlike bölgesi krokisinin son revizyonundan sonra yeni bir transfer pompası ve aydınlatma armatürü eklenmiştir. İşletme envanteri güncellenmiş, fakat kroki ile elektrikli ekipman listesi eski tarihte kalmıştır. YGU kaydı şöyle kurulabilir: “Dolum Alanı D-02; proje revizyonu ile saha ekipman listesi arasında fark gözlendi. Yeni pompa ve armatürün tehlike bölgesi sınırıyla ilişkisi mevcut belgelerle doğrulanamadı. Patlayıcı ortam sınıflandırması ve cihaz uygunluğunun yetkili teknik değerlendirmesi, gerekirse proje revizyonu ve sonrasında saha doğrulaması istenir.” Bu kayıt bir patlama riski hesabı ya da uygunluk belgesi değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Tehlike bölgesi çiziminin değeri, sahadaki gerçek kaynakları ve ekipmanı temsil ettiği ölçüde vardır. YGU için doğru yöntem, kimyasal envanterden başlayarak çizim revizyonunu, salım noktalarını, cihaz konumlarını ve değişiklik kayıtlarını aynı zincirde izlemektir. Farkların kapatılması; yetkili teknik inceleme, gerekli revizyonlar ve bunların sahada yeniden doğrulanmasıyla tamamlanır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı (TASLAK)"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)"
+    },
+    {
+      "metin": "EK-6 Periyodik Kontrol Formu (TASLAK)"
+    }
+  ],
+  "sonNotlar": []
+}

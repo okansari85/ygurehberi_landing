@@ -1,0 +1,166 @@
+{
+  "kod": "YGR-K108",
+  "yol": "depolama-miktarindaki-degisim-tehlike-sinifini-etkiler-mi",
+  "baslik": "Depolama miktarındaki değişim tehlike sınıfını etkiler mi?",
+  "ozet": "Bir depoda ürün miktarının artması, yangın yükünü ve söndürme sisteminin karşılaması gereken tehlikeyi değiştirebilir. Ancak yalnızca palet sayısının veya stok tonajının yükselmesi, binanın tehlike sınıfının kendiliğinden değiştiği anlamına gelmez. Değerlendirmede depolanan ürünün yanıcılığı, ambalajı, istif biçimi ve yüksekliği, depolama alanının sınırları, yürütülen faaliyet ve mevcut koruma sisteminin hangi koşullara göre tasarlandığı birlikte ele alınır.",
+  "etiketler": [
+    "Kullanım Sınıfı"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "kisa-cevap-miktar-tek-basina-sinif-degistirmez",
+      "metin": "Kısa cevap: Miktar tek başına sınıf değiştirmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Önemli ayrım şudur: Binaların Yangından Korunması Hakkında Yönetmelikteki bina tehlike sınıflandırması, işyerinin NACE koduna bağlı iş sağlığı ve güvenliği tehlike sınıfıyla aynı kavram değildir. İşletmenin faaliyet kodu değişmeden de depodaki yangın tehlikesi ve tesisatın tasarım koşulları değişebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-neyi-esas-alir",
+      "metin": "Yürürlükteki hüküm neyi esas alır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmeliğin 19. maddesi, bina veya bölümün tehlike sınıfını yapının özellikleri ile yürütülen iş ve faaliyetin niteliğine bağlar. Düşük, orta ve yüksek tehlikeli yerler için ölçütleri açıklar; söndürme sistemlerinin tasarımında kullanılacak alanları Ek-1/A, Ek-1/B ve Ek-1/C ile ilişkilendirir. Bir binanın farklı bölümlerinde farklı tehlike sınıfındaki malzemeler varsa su ve pompa kapasitesinin binadaki en yüksek tehlike sınıfına göre belirlenmesi hükmü de aynı maddede yer alır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu nedenle eski projede \"orta tehlike\" yazması tek başına yeterli kanıt değildir. O sınıflandırmanın hangi ürün, ambalaj, depolama düzeni ve işletme kapasitesi için kabul edildiği araştırılmalıdır. Sınıflandırma ile yangın dolabı, yağmurlama, su deposu ve pompa hesabı arasındaki ilişki, ilgili tesisatın proje ve hesap belgelerinde izlenebilir olmalıdır. Bir değişikliğin yeni hesap veya proje gerektirip gerektirmediği, yetkili proje disiplininin teknik değerlendirmesiyle belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "miktar-artisini-gercekten-onemli-kilan-degiskenler",
+      "metin": "Miktar artışını gerçekten önemli kılan değişkenler"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek değişken",
+        "Yangın güvenliği açısından anlamı"
+      ],
+      "satirlar": [
+        [
+          "Ürün ve yanıcılık",
+          "Yanmaz malzeme yerine plastik, köpük, solventli ürün veya yüksek yanıcılıklı ambalaj gelmesi, stok miktarı aynı kalsa da tehlikeyi değiştirebilir."
+        ],
+        [
+          "Ambalaj ve palet",
+          "Karton, streç film, ahşap palet ve plastik taşıyıcılar toplam yanıcı yükün parçasıdır; yalnız ürünün ticari adı yeterli değildir."
+        ],
+        [
+          "İstif yüksekliği ve diziliş",
+          "Daha yüksek raf, sık istif veya değişen raf aralıkları, özellikle otomatik söndürme tasarım varsayımlarını etkileyebilir."
+        ],
+        [
+          "Mahal ve kompartıman",
+          "Stokun başka bölüme taşınması, kapıların kapatılması veya yangın bölmesinin değiştirilmesi, koruma düzenini etkiler."
+        ],
+        [
+          "Koruma sisteminin tasarımı",
+          "Onaylı projedeki malzeme grubu, depolama yüksekliği, tasarım alanı ve su ihtiyacı yeni koşullarla karşılaştırılır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-ayni-depo-farkli-isletme-kosullari",
+      "metin": "Örnek: Aynı depo, farklı işletme koşulları"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir lojistik deposunda, onaylı projede karton kutulu metal parçaların belirli raflarda depolanması öngörülmüş olsun. İşletme daha sonra aynı raflara köpük ambalajlı plastik ürünler yerleştiriyor ve istif yüksekliğini artırıyor. Bu durumda yalnız \"ürün sayısı arttı\" denilerek sınıf yükseltmek de, projedeki sınıfı hiç sorgulamamak da doğru değildir. Önce yeni ürünlerin ve ambalajın özellikleri ile raf düzeni belirlenir; ardından mevcut söndürme projesinin hangi depolama senaryosuna göre hazırlandığı incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Buna karşılık aynı özellikteki ürünün, projede öngörülen raf ve kapasite sınırları içinde daha fazla stoklanması her zaman yeni bir tehlike sınıfı doğurmaz. Fakat fiili stokun tasarım kabulünü aşıp aşmadığı yine belgelendirilmelidir. Burada örnek, gerçek bir olay veya sayısal sınıf tayini değil, inceleme yöntemini göstermek içindir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ile-yeni-taslak-arasindaki-ayrim",
+      "metin": "Yürürlükteki düzenleme ile yeni taslak arasındaki ayrım"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen yeni Binaların Yangından Korunması Hakkında Yönetmelik Taslağının 19. maddesinde de sınıflandırma; binanın özellikleri, işlem ve faaliyetlerin niteliği üzerinden kuruluyor. Taslak, farklı tehlike sınıfındaki malzemelerin birlikte bulunmasında sınıflandırmayı en yüksek tehlike sınıfındaki malzemenin bulunduğu alanla ilişkilendiren bir ifade içeriyor. Yürürlükteki metindeki su ve pompa kapasitesinin binadaki en yüksek sınıfa göre belirlenmesi hükmüyle bu taslak cümle aynı değildir. Taslak henüz bağlayıcı düzenleme olarak uygulanamaz; proje incelemesinde yürürlükteki hüküm esas alınır, taslak farkı ise ayrı not edilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Taslağın Ek-1/A, Ek-1/B ve Ek-1/C tabloları, tehlike alanlarına ilişkin örnekler sunar. Bunlar stok miktarı için her depoya uygulanacak tek bir otomatik sınıf değiştirme eşiği koymaz. Ürünün ve kullanımın tabloda hangi başlıkla ilişkilendirildiği, gerçek işletme koşullarıyla birlikte yorumlanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), önce yapı ruhsatı, yapı kullanma izni, onaylı mimari ve yangın tesisatı projeleri ile varsa revizyonları inceler. Depolama mahallerinin projede gösterilen kullanımını, tehlike sınıfını, yangın bölmesi sınırlarını ve söndürme sistemine ilişkin tasarım açıklamalarını kaydeder. Ardından işletmenin güncel ürün ve ambalaj envanterini, güvenlik bilgi formlarını, stok yerleşimini ve raf planını ister; gerçek mahal ve faaliyeti bu belgelerle karşılaştırır."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gezisinde ürün gruplarının yerleri, istif yüksekliğinin projeyle uyumu, yangın kapılarının ve bölme bütünlüğünün korunması, algılama ve söndürme elemanlarının önünün kapatılıp kapatılmadığı gözlemsel olarak değerlendirilir. Mevcut periyodik muayene raporları ve varsa bakım kayıtları incelenir. Eksik proje, belirsiz malzeme sınıfı veya değişen depolama koşulları bulunduğunda, \"uygundur\" sonucuna varsayımla gidilmez; uyuşmazlık somut kanıtıyla, ilgili mahal ve proje referansıyla gerekçeli biçimde raporlanır."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, bu incelemeyle yeni bir yağmurlama hesabı, hidrolik tasarım, debi-basınç ölçümü veya proje onayı yapmış sayılmaz. Gerekli mühendislik hesabı, proje revizyonu, test ve onaylar ilgili yetkili kişilerce ve mercilerce yürütülür. Uzmanın görevi, mevcut kanıtın neyi doğruladığını ve hangi teknik değerlendirme veya belge olmadan uygunluk sonucuna varılamayacağını açıkça göstermektir."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-degerlendirmesi-icin-karar-kaydi",
+      "metin": "Saha değerlendirmesi için karar kaydı"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Sorulacak soru",
+        "Beklenen kanıt / karar"
+      ],
+      "satirlar": [
+        [
+          "Projede hangi tehlike ve depolama koşulu esas alınmış?",
+          "Onaylı proje, hesap raporu ve varsa revizyon; bilgi yoksa tasarım kabulü belirsiz olarak kaydedilir."
+        ],
+        [
+          "Fiilen ne depolanıyor ve nasıl istifleniyor?",
+          "Ürün/ambalaj envanteri, güvenlik bilgi formları, raf planı ve yerinde gözlem karşılaştırılır."
+        ],
+        [
+          "Yeni durum tasarım kabulünü aşıyor mu?",
+          "Aşma ihtimali varsa ilgili tasarım disiplininden teknik inceleme ve gerektiğinde revizyon istenir."
+        ],
+        [
+          "Sonuç hangi dayanakla raporlanacak?",
+          "Mahal, tarih, gözlem, belge adı, tespit ve açık gerekçe birlikte yazılır."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Depolama miktarındaki artış bir uyarı işaretidir; tek başına yeni tehlike sınıfı kararı değildir. Sağlam değerlendirme, fiili stokun niteliği ve yerleşimi ile onaylı projedeki tasarım koşullarını karşılaştırır. Böylece hem gereksiz sınıf değişikliği iddialarından hem de mevcut söndürme sisteminin artık karşılamadığı bir depolama düzeninin gözden kaçırılmasından kaçınılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

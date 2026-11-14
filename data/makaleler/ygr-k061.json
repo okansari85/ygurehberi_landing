@@ -1,0 +1,162 @@
+{
+  "kod": "YGR-K061",
+  "yol": "yangin-su-deposundaki-seviye-gostergesi-isletme-talimatiyla-nasil-eslestirilir",
+  "baslik": "Yangın su deposundaki seviye göstergesi işletme talimatıyla nasıl eşleştirilir?",
+  "ozet": "Yangın su deposunun seviye göstergesi, kullanılabilir yangın suyu rezervini tek başına kanıtlamaz. Ekrandaki değer; depo kotları, ayrılmış rezerv, alarm ayarları ve işletmenin müdahale adımlarıyla birlikte okunmalıdır.",
+  "etiketler": [
+    "Yangın Suyu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "seviye-gostergesi-neyi-gosterir",
+      "metin": "Seviye göstergesi neyi gösterir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Yönetmelik, güvenilir su kaynağını ve ayrılmış yangın rezervinin başka amaçla kullanılmamasını esas alır. Gerekli su miktarı ilgili hidrolik hesapla belirlenir. Bakanlık Kılavuzu, yangın ve kullanım suyu rezervlerinin aynı depoda nasıl ayrılabileceğini örnekler. Gösterge değerinin projedeki kullanılabilir hacme karşılığı ayrıca açıklanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-rezervi-ile-ekrandaki-yuzde-ayni-sey-degildir",
+      "metin": "Yangın rezervi ile ekrandaki yüzde aynı şey değildir"
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekildeki %35 yalnızca temsili bir alarm etiketidir; gerçek ölçüm veya mevzuat eşiği değildir. Sensörün yüzde değeri depo tabanını değil kendi ölçüm aralığını gösterebilir. Depo kesiti, emiş kotu ve ayrılmış yangın rezervi bilinmeden yeterlilik kararı verilemez.",
+      "src": "/img/makale/ygr-k061-1.png"
+    },
+    {
+      "tip": "p",
+      "metin": "Şekil 61. Seviye bilgisi ile depo kotu arasındaki ilişkinin sorgulanması. (Temsili çizim.)"
+    },
+    {
+      "tip": "h2",
+      "id": "temsili-alarmin-yorumlanmasi",
+      "metin": "Temsili alarmın yorumlanması"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi",
+        "Karar için eksik kanıt"
+      ],
+      "satirlar": [
+        [
+          "Temsili otomasyon alarmı",
+          "%35 etiketi gösteriliyor; fiziksel kotu belirtilmemiş",
+          "Sensör ölçüm aralığı, kot–hacim ilişkisi ve alarm eşik kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "karsilastirilacak-teknik-kayitlar",
+      "metin": "Karşılaştırılacak teknik kayıtlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Özellikle aranacak bilgi",
+        "Neden gerekli?"
+      ],
+      "satirlar": [
+        [
+          "Depo kesiti ve proje",
+          "Depo ölçüleri, minimum su kotu, emiş bağlantısı, ayrılmış rezerv",
+          "Göstergenin temsil ettiği hacmi tasarımla karşılaştırmak"
+        ],
+        [
+          "Gösterge ve otomasyon",
+          "Sensör tipi, ölçüm aralığı, alarm ayarları ve varsa test/kalibrasyon kayıtları",
+          "Yüzde değerini fiziksel seviyeye bağlamak"
+        ],
+        [
+          "Hidrolik hesap ve sistem şeması",
+          "Söndürme sistemi su ihtiyacı, tasarım süresi ve depo bağlantıları",
+          "Yangın rezervinin hangi ihtiyacı karşıladığını görmek"
+        ],
+        [
+          "İşletme talimatı ve kayıtlar",
+          "Uyarı bildirimi, ikmal sorumlusu, müdahale ve kayıt adımları",
+          "Alarmın işletme davranışına dönüşmesini doğrulamak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sahada-izlenecek-dogrulama-zinciri",
+      "metin": "Sahada izlenecek doğrulama zinciri"
+    },
+    {
+      "tip": "p",
+      "metin": "1.  Onaylı mekanik tesisat projesindeki depo kesitini, su kotlarını, emiş bağlantılarını ve yangın rezervi düzenini belirle."
+    },
+    {
+      "tip": "p",
+      "metin": "2.  Gösterge veya otomasyon ekranındaki değerin hangi sensör aralığından üretildiğini; varsa kalibrasyon, ayar ve devreye alma kayıtlarından izle."
+    },
+    {
+      "tip": "p",
+      "metin": "3.  Ortak depo kullanılıyorsa kullanım suyu çekişinin yangın rezervini tüketmesini önleyen bağlantı ve işletme düzenini projeyle karşılaştır."
+    },
+    {
+      "tip": "p",
+      "metin": "4.  Düşük seviye uyarısının kime ulaştığını, talimatta hangi işlemi başlattığını ve yetkili kişilerce yapılmış test kayıtlarını kontrol et."
+    },
+    {
+      "tip": "p",
+      "metin": "Alarmın ekranda görünmesi, yangın için yeterli su bulunduğu anlamına gelmez. Tersine, bir alarmın hiç oluşmaması da deponun yeterli olduğunu göstermez. Bu nedenle depo kotu ve hacim hesabı, sensörün çalışma aralığı, alarm eşiği ve işletme müdahalesi birbirinden ayrı kanıtlarla değerlendirilmelidir. Özellikle sensör değişimi, otomasyon yazılımı güncellemesi veya depo bağlantısı tadilatı sonrasında eski eşiklerin geçerli kaldığı varsayılmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek raporlama dili: “Seviye göstergesinde tanımlı düşük seviye uyarısının, projedeki minimum işletme kotu ve yangın rezerviyle ilişkisini gösteren teknik kayıt incelemeye sunulmadı. Yalnız bu nedenle depo kapasitesinin yetersiz olduğu sonucuna varılmadı; kot–hacim eşlemesi ile alarm ve müdahale talimatının doğrulanması önerildi.” Bu ifade, gerçek bir tesiste yapılmış tespit değil, belirsizliğin nasıl kayda geçirilebileceğine ilişkin örnektir."
+    },
+    {
+      "tip": "h2",
+      "id": "alarm-esigi-isletme-talimatina-nasil-baglanir",
+      "metin": "Alarm eşiği işletme talimatına nasıl bağlanır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletme talimatında “düşük seviye” ve “kritik seviye” gibi ifadeler kullanılıyorsa bunların hangi fiziksel kota veya doğrulanmış gösterge değerine karşılık geldiği açıklanmalıdır. Uyarının panelde kalıp kalmadığı, ilgili personele nasıl bildirildiği, su ikmali gecikirse kimin hangi işlemi başlatacağı ve müdahalenin nasıl kaydedileceği aynı süreç içinde okunmalıdır. Alarm eşiklerinin seçimi ve sistem ayarları, tasarım ve işletmeden sorumlu yetkili teknik kişilerce doğrulanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapının onaylı mekanik tesisat projesi, varsa tadilat projeleri, yapı ve kullanım belgeleri, depo hacim hesabı, pompa besleme şeması, otomasyon kayıtları ve işletme talimatıyla başlar. Sahada deponun kullanım biçimini, göstergeyi, etiketleri, erişilebilir bağlantıları ve alarmın işletme personelince nasıl takip edildiğini gözlemsel olarak karşılaştırır. Proje ile mevcut düzen arasında farklılık veya kayıt eksikliği varsa, bunun yangın rezervine etkisinin hangi teknik belgeyle açıklığa kavuşturulacağını gerekçeli olarak raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu inceleme, depo kapasitesinin yeniden tasarlanması, sensör kalibrasyonunun yapılması veya hidrolik performansın ölçülmesi anlamına gelmez. Ölçüm, test, ayar, tasarım değişikliği ve onay gerektiren işlemler ilgili yetkili uzman ve kuruluşların sorumluluğundadır. YGU, mevcut kayıtları ve gözlemsel bulguları karşılaştırır; doğrulanamayan noktaları açıkça belirtir ve gerekli teknik incelemenin yaptırılmasını önerir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Seviye göstergesi ancak fiziksel kot, kullanılabilir yangın rezervi ve işletme müdahalesiyle birlikte okunduğunda anlamlıdır. YGU açısından temel soru “Ekranda yüzde kaç yazıyor?” değil, “Bu değer hangi su miktarını temsil ediyor ve sınır değere ulaşıldığında işletme ne yapıyor?” sorusudur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

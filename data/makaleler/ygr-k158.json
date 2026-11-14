@@ -1,0 +1,132 @@
+{
+  "kod": "YGR-K158",
+  "yol": "basinclandirma-hava-ufleme-noktalari-sahada-nasil-dogrulanir",
+  "baslik": "Basınçlandırma Hava Üfleme Noktaları Sahada Nasıl Doğrulanır?",
+  "ozet": "Kaçış merdiveninin basınçlandırılması, yalnızca fanın varlığıyla değerlendirilemez. Sistemin tasarlandığı hava dağıtım düzeninin binada gerçekten kurulmuş ve korunmuş olması gerekir. Üfleme noktaları bu nedenle proje incelemesi ile saha gözleminin kesiştiği önemli bir kontrol konusudur.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "ufleme-noktasinin-sistem-icindeki-yeri",
+      "metin": "Üfleme noktasının sistem içindeki yeri"
+    },
+    {
+      "tip": "p",
+      "metin": "Basınçlandırma sisteminde amaç, yangın koşullarında korunması gereken hacim ile komşu hacimler arasında tasarlanan basınç ilişkisini oluşturmaktır. Fan, kanal, şaft, damper, menfez ve kontrol düzeni bir bütün olarak çalışır. Üfleme noktasının yanlış katta, kapatılmış bir nişte veya projede bulunmayan bir konumda olması, hava dağılımını değiştirebilir. Bunun ne ölçüde etkili olduğu ise yalnız görsel incelemeyle sayısal olarak belirlenemez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bazı tasarımlarda hava birden çok kattan, bazılarında farklı bir dağıtım düzeniyle verilebilir. Bu yüzden her merdivende aynı sayıda menfez veya aynı yerleşim aranmaz. Esas karşılaştırma, o yapının onaylı basınçlandırma projesi ve buna bağlı yangın senaryosu üzerinden yapılır."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-hangi-bilgiler-karsilastirilir",
+      "metin": "Proje ile sahada hangi bilgiler karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk aşamada mimari projede kaçış merdiveninin sınırları, kat bağlantıları, kapılar ve komşu mahaller incelenir. Mekanik projede fanın beslediği hat, şaft güzergahı, üfleme noktalarının kat ve konum bilgileri ile varsa damper yerleşimi belirlenir. Yangın algılama ve kontrol senaryosunda sistemin hangi durumda devreye girdiği ve hangi ekipmanlarla ilişkili olduğu araştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gezisinde kat numaraları ve menfezlerin gerçek konumları tek tek eşleştirilir. Sonradan yapılan asma tavan, dolap, kaplama, tadilat veya tesisat geçişlerinin üfleme açıklığını daraltıp daraltmadığı gözlenir. Üfleme noktasının üzerinde uygunsuz bir kapatma, fiziksel hasar, erişim engeli veya projeye aykırı değişiklik varsa fotoğraf ve mahal bilgisiyle kayıt altına alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Menfezin temiz görünmesi, sistemin yeterli basınç ürettiğini kanıtlamaz. Aynı şekilde bir üfleme noktasının kapıya yakın olması, tek başına uygunsuzluk kararı vermek için yeterli değildir. Teknik değerlendirme tasarımın tamamına ve gerektiğinde yetkili uzmanların test sonuçlarına dayanmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "isletme-degisiklikleri-neden-onemlidir",
+      "metin": "İşletme değişiklikleri neden önemlidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Basınçlandırma projesi hazırlanırken esas alınan merdiven geometrisi ve bağlantılar, işletme süresince değişebilir. Merdiven sahanlığına eklenen tesisat dolabı, şaft kapağının değiştirilmesi, yangın kapısının farklı bir ürünle yenilenmesi veya kat bağlantısının yeniden düzenlenmesi hava akışını ve kaçak alanlarını etkileyebilir. Bu değişikliklerin her biri otomatik olarak sistemin yetersiz olduğu anlamına gelmez; ancak mevcut projenin halen sahayı temsil edip etmediğini sorgulamayı gerektirir."
+    },
+    {
+      "tip": "p",
+      "metin": "İşletmenin bakım kayıtları, devreye alma raporu, varsa performans testleri ve sonradan yapılmış tadilat projeleri birlikte okunmalıdır. Bir raporun yalnız tarihinin bulunması yeterli değildir: hangi sistemin, hangi çalışma senaryosunda, hangi ölçüm yöntemiyle değerlendirildiği de anlaşılmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle onaylı mimari ve mekanik projeleri, ilgili izin ve tadilat kayıtlarını, devreye alma belgelerini ve işletmede bulunan bakım veya test raporlarını ister. Ardından merdivenin gerçek kat düzenini ve kullanım koşullarını inceler. Projede gösterilen üfleme noktalarını kat bazında işaretleyerek sahada karşılıklarını arar; görünür açıklıkların kapatılması, menfezlerin yer değiştirmesi, hasar ve erişim engellerini gerekçesiyle kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin projede bir katta üfleme noktası gösterildiği halde sahada aynı konumda kapalı bir kaplama görülüyorsa, bulgu “projede belirtilen üfleme açıklığı sahada görülememiştir” biçiminde yazılır. Bunun sistem performansına etkisi kesin bir sayıyla ifade edilmez. İşletmeden uygulama ve tadilat belgeleri istenir; gerekli görülürse mekanik tasarım sorumlusu veya yetkili teknik kişi tarafından değerlendirme ve uygun test yapılması önerilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, belge ve gözlem arasındaki uyumsuzluğu tespit edip raporlayabilir; ancak fan debisi, basınç farkı, kapı açma kuvveti veya diğer performans değerlerini yetkisi dışında ölçmüş gibi gösteremez. Sistem tasarımını değiştirme, mühendislik hesabını onaylama ve resmi kabul işlemlerini üstlenme yetkisi bulunduğu varsayılamaz. Bu işlemler ilgili mevzuatın ve mesleki yetki sınırlarının belirlediği kişilerce yürütülür."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-kaydinda-kullanilabilecek-karsilastirma",
+      "metin": "Saha kaydında kullanılabilecek karşılaştırma"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Belge karşılığı",
+        "Saha kaydı"
+      ],
+      "satirlar": [
+        [
+          "Üfleme noktası",
+          "Onaylı mekanik yerleşim",
+          "Kat, mahal, fotoğraf ve görünür durum"
+        ],
+        [
+          "Sonradan yapılan kaplama",
+          "Tadilat ve uygulama kayıtları",
+          "Açıklığın görünürlüğü ve olası engel"
+        ],
+        [
+          "Sistem çalışması",
+          "Devreye alma ve test raporları",
+          "Belge varlığı, kapsamı ve açık eksikler"
+        ],
+        [
+          "Merdiven sınırları",
+          "Mimari proje ve yangın senaryosu",
+          "Kapı, sahanlık ve bağlantı değişiklikleri"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "degerlendirme-ve-sonuc",
+      "metin": "Değerlendirme ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Basınçlandırma hava üfleme noktalarının doğrulanması, menfez sayma işi değildir. Projede tasarlanan hava dağıtımının, binanın bugünkü fiziksel düzeninde korunup korunmadığı incelenir. Görsel tespit, belgedeki bilgiyle karşılaştırılır; ölçüm veya tasarım gerektiren sonuçlar ise ilgili teknik uzmanlığa bırakılır. Böylece rapor hem somut bir saha bulgusu üretir hem de belirsizliği uygun şekilde ifade eder."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

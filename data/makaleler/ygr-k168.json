@@ -1,0 +1,122 @@
+{
+  "kod": "YGR-K168",
+  "yol": "gazli-sondurme-sistemi-korunan-mahal-degisirse-ne-olur",
+  "baslik": "Gazlı söndürme sistemi korunan mahal değişirse ne olur?",
+  "ozet": "Gazlı söndürme sistemi yalnızca tüpler, borular ve nozullardan oluşan bir tesisat değildir. Sistemin koruyacağı hacim, mahalin sınırları, açıklıklar, kullanım amacı ve yangın riski tasarımın bir parçasıdır. Bu nedenle bir sunucu odasına yeni bölme yapılması, kapının değiştirilmesi veya kablo geçişlerinin çoğalması, söndürme donanımına hiç dokunulmasa bile koruma koşullarını değiştirebilir.",
+  "etiketler": [
+    "Söndürme Sistemleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "korunan-hacim-sistemin-tasarim-girdisidir",
+      "metin": "Korunan hacim, sistemin tasarım girdisidir"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin mevcut odanın yanına bir teknik hacim eklenmesi, korunan sınırın büyüdüğü anlamına gelmeyebilir; yeni bölüm söndürme alanının dışında da kalabilir. Önce onaylı proje ve uygulama çizimleri üzerinden sistemin hangi hacmi korumak üzere tasarlandığı belirlenmelidir. Mahal adının aynı kalması, tasarım koşullarının aynı kaldığını kanıtlamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "degisikliklerin-sahadaki-etkileri",
+      "metin": "Değişikliklerin sahadaki etkileri"
+    },
+    {
+      "tip": "p",
+      "metin": "Hacim büyüdüğünde veya asma tavan ve yükseltilmiş döşeme düzeni değiştiğinde korunan net hacmin yeniden ele alınması gerekebilir. Yeni raflar, kabinler ve bölmeler söndürücü gazın dağılımını etkileyebilecek geometrik engeller oluşturabilir. Bu etkilerin boyutu yalnız gözlemle sayısal olarak belirlenemez; tasarım sorumlusu tarafından değerlendirilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Kapı kasası, kapı altı boşluğu, yeni tesisat geçişleri, menfez ve açıklıklar ise gazın mahalde tutulması bakımından önem taşır. Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, gazlı söndürme uygulanan hacimlerde doğal havalandırma amaçlı açıklıkların algılama ve gaz boşalımı sırasında otomatik kapanacak biçimde tasarlanmasını düzenler. Bu hüküm, her kapının veya her açıklığın kendiliğinden yeterli sızdırmazlık sağladığı anlamına gelmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Mahalde sürekli insan bulunma durumu, erişim düzeni veya işletme faaliyeti değişmişse boşaltım öncesi uyarı ve tahliye koşulları da yeniden gözden geçirilmelidir. Sesli ve ışıklı uyarıların varlığı kadar yeni bölmelerden duyulup görülebilmesi ve çalışanların çıkış güzergahının korunması önemlidir."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-belgeler-birlikte-incelenir",
+      "metin": "Hangi belgeler birlikte incelenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme dosyasında onaylı yangın ve mekanik tesisat projeleri, gazlı söndürme uygulama çizimleri, hesap ve tasarım raporları, cihaz ve söndürücü madde belgeleri, devreye alma ve kabul kayıtları, bakım ve test raporları ile sonradan yapılan tadilatın belgeleri birlikte değerlendirilir. İlgili izinler ve mahallin güncel kullanımına ait kayıtlar, projenin hangi işletme koşulları için hazırlandığını anlamaya yardımcı olur."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle yeni bir kapı, menfez veya kablo geçişi varsa çizimde gösterilen sınır ile sahadaki gerçek sınır karşılaştırılır. Sistem değişikliği sonrası yetkili teknik tarafça hazırlanmış revize hesap, proje ve gerekli test kayıtlarının bulunup bulunmadığı araştırılır. Eski tarihli bir bakım formu, sonradan değişen hacmin uygunluğunu tek başına doğrulamaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU) önce korunması öngörülen mahalin projedeki sınırını, mevcut kullanımını ve yapılan değişikliğin tarihini belirler. Sonra kapılar, yeni bölmeler, tavan ve döşeme boşlukları, tesisat geçişleri, havalandırma açıklıkları, nozullar ve uyarı elemanları için proje–saha karşılaştırması yapar. Gözlemleri yer, tarih, fotoğraf ve ilgili çizim referansıyla kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin yeni kablo geçişi açık bırakılmışsa yalnız “sistem uygun değil” demek yerine geçişin konumunu, projede nasıl gösterildiğini ve hangi teknik doğrulamanın eksik olduğunu raporlar. Korunan hacmin değişip değişmediği belirsizse kesin uygunluk veya uygunsuzluk hesabı üretmez; tasarım sorumlusunun değerlendirmesi ile gerekiyorsa yetkili kişi veya kuruluşların ölçüm ve test sonuçlarını ister."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU gözlemsel tespit, belge bütünlüğü ve gerekçeli raporlama yapar. Söndürücü madde miktarını yeniden tasarlama, gaz konsantrasyonu hesabını onaylama, oda bütünlüğü testini yetkisiz biçimde gerçekleştirme veya proje onayı verme görevlerini üstlenmez. Bunlar ilgili yetki ve uzmanlık kapsamında yürütülür."
+    },
+    {
+      "tip": "h2",
+      "id": "saha-kaydinda-kullanilabilecek-karsilastirma",
+      "metin": "Saha kaydında kullanılabilecek karşılaştırma"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenen unsur",
+        "Karşılaştırılacak kayıt",
+        "Saha sorusu"
+      ],
+      "satirlar": [
+        [
+          "Korunan sınır",
+          "Onaylı proje ve güncel plan",
+          "Bölme veya hacim değişti mi?"
+        ],
+        [
+          "Kapı ve açıklıklar",
+          "Detay çizimleri ve tadilat kaydı",
+          "Yeni açıklık, boşluk veya menfez var mı?"
+        ],
+        [
+          "Uyarı ve tahliye",
+          "Algılama senaryosu, test kayıtları",
+          "Yeni kullanımda uyarı erişilebilir mi?"
+        ],
+        [
+          "Sistem doğrulaması",
+          "Revize hesap, kabul ve test belgeleri",
+          "Değişiklik sonrası teknik değerlendirme var mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Gazlı söndürme sistemi bulunan bir mahalde değişiklik yapıldığında asıl soru tüplerin yerinde durup durmadığı değildir. Sistem tasarımına esas alınan korunan sınırın, açıklıkların, kullanım koşullarının ve güvenli boşaltım düzeninin halen geçerli olup olmadığıdır. Değişikliğin etkisi belgelendirilmeden yalnızca bakım kaydına dayanarak uygunluk sonucu verilmemelidir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

@@ -1,0 +1,160 @@
+{
+  "kod": "YGR-K183",
+  "yol": "kamu-ve-ozel-yapida-yangin-giderlerinin-sorumlulugu-nasil-izlenir",
+  "baslik": "Kamu ve özel yapıda yangın giderlerinin sorumluluğu nasıl izlenir?",
+  "ozet": "Yangın güvenliğinde bütçe, teknik tedbirlerin sürdürülebilirliğini belirleyen işletme kararlarından biridir. Bir sistemin projede bulunması, bakım ve yenileme giderleri karşılanmadığında tek başına güvenli işletme anlamına gelmez. Ödenek incelemesinde temel soru yalnızca “para ayrıldı mı?” değildir; hangi ihtiyaç için karar alındığı, bu kararın kim tarafından verildiği, işin hangi aşamada olduğu ve gecikmenin sahadaki sonucu birlikte araştırılır.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "gider-sorumlulugu-ile-teknik-gereklilik-birbirinden-ayrilmalidir",
+      "metin": "Gider sorumluluğu ile teknik gereklilik birbirinden ayrılmalıdır"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın algılama ve uyarı sisteminin bakım ihtiyacı, yangın pompasının arızası veya kaçış kapısının çalışmaması önce teknik bir bulgudur. Bu bulguya karşı gerekli işlemin bütçeye alınması ise idari ve mali bir süreçtir. İki sürecin aynı kayıt üzerinde izlenmesi, teknik eksikliğin “ödenek bekleniyor” ifadesiyle görünmez hale gelmesini önler."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, kamu ve özel sektöre ait yapılarda gerekli sistemlerin yapımı, araç ve malzeme temini, bakım ve onarımı için ödenek ayrılmasını düzenler. Kamu yapıları için giderin karşılanacağı bütçe kanalı, idarenin niteliğine göre farklılaşır. Özel yapılarda bina sahibi, kat malikleri, yöneticiler ve işletme sahipleri bakımından ayrı sorumluluk ilişkileri vardır. Somut yapının mülkiyeti, yönetim biçimi ve kullanım ilişkisi belirlenmeden yalnız tabela veya işletme unvanına bakılarak gider sorumlusu tayin edilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle kiralanmış bir işyerinde, kiracı ile malikin sözleşmesel yükümlülükleri ve binanın ortak alanlarının yönetimi incelenebilir. Bununla birlikte özel hukuk ilişkisinin varlığı, mevzuattan doğan yangın güvenliği sorumluluğunu kendiliğinden ortadan kaldırmaz. Teknik inceleme raporu, hukuki uyuşmazlığın taraflarını hükme bağlayan bir karar gibi yazılmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "odenek-karari-hangi-kayitlarla-izlenebilir",
+      "metin": "Ödenek kararı hangi kayıtlarla izlenebilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kayıt, ihtiyaç tespitidir: ekipman veya tesisatın adı, bulunduğu mahal, görülen uygunsuzluk, dayanak belge ve işletmeye etkisi açık olmalıdır. Ardından işin kapsamı ve sorumlu birim belirlenir. Bakım, onarım, parça değişimi, proje revizyonu veya yeni tesisat ihtiyacı birbirine karıştırılmamalıdır; bunların teknik onay ve uygulama süreçleri farklı olabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci kayıt, karar ve kaynak aşamasıdır. Kamu yapısında ilgili birimin talebi, bütçe/ödenek süreci ve ihale veya satın alma kayıtları; özel yapıda yönetim kurulu, kat malikleri veya şirketin yetkili organlarınca alınan kararlar, sipariş ve sözleşmeler incelenebilir. Her belge tek başına işin tamamlandığını göstermez."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü kayıt, uygulamanın doğrulanmasıdır. İş emri, servis raporu, teslim tutanağı, test ve devreye alma belgeleri, gerekli ise yetkili teknik personelin ölçüm veya uygunluk raporu birlikte değerlendirilir. Fatura bulunması, arızanın giderildiğinin veya sistemin mevzuata uygun hale geldiğinin tek başına kanıtı değildir."
+    },
+    {
+      "tip": "h3",
+      "metin": "İzleme kaydı için örnek alanlar"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İzleme aşaması",
+        "Aranacak kayıt",
+        "Değerlendirme sorusu"
+      ],
+      "satirlar": [
+        [
+          "İhtiyacın belirlenmesi",
+          "Saha tespiti, bakım raporu, proje",
+          "Eksiklik nerede, hangi işlevi etkiliyor?"
+        ],
+        [
+          "Karar ve sorumluluk",
+          "Yönetim kararı, yazışma, görev dağılımı",
+          "Kim hangi işlemi başlatmış?"
+        ],
+        [
+          "Kaynak ve satın alma",
+          "Ödenek, teklif, sipariş, sözleşme",
+          "Kaynak hangi iş için ayrılmış?"
+        ],
+        [
+          "Uygulama",
+          "Servis, teslim, test ve kabul belgeleri",
+          "İş gerçekten tamamlanmış mı?"
+        ],
+        [
+          "Kapanış ve takip",
+          "Son kontrol, açık bulgu listesi",
+          "Eksiklik giderildiği teknik olarak doğrulanmış mı?"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "geciken-harcama-kararinda-raporun-dili",
+      "metin": "Geciken harcama kararında raporun dili"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir yangın kapısının kapanmadığı tespit edildiğinde “bütçe ayrılmadı” bilgisi, kapının mevcut işlev kaybını ortadan kaldırmaz. Raporda teknik bulgu ile idari sürecin durumu ayrı satırlarda belirtilmelidir. İşin aciliyeti ve işletme üzerindeki etkisi, somut gözleme ve mevcut teknik belgelere dayandırılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Ödenek talebinin reddedildiği, ertelendiği veya henüz karara bağlanmadığı ancak yazışma ve karar kayıtlarıyla doğrulanabiliyorsa bu durum açıkça yazılır. Kayıt görülmemişse “ödenek ayrılmadı” gibi kesin bir ifade yerine “ödenek kararına ilişkin belge incelemeye sunulmadı” denir. Bu ayrım hem denetlenebilirliği artırır hem de yetkisiz mali değerlendirme yapılmasını önler."
+    },
+    {
+      "tip": "p",
+      "metin": "Bütçe onayı ile güvenlik tedbirinin tamamlanması arasında süre olabilir. Bu dönemde geçici işletme önlemleri gerekiyorsa bunların kapsamı ve yeterliliği yetkili teknik ve idari taraflarca değerlendirilmelidir. Geçici tedbir, kalıcı uygunsuzluğun giderildiği anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ile-yeni-taslagin-ayrilmasi",
+      "metin": "Yürürlükteki düzenleme ile yeni taslağın ayrılması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki yönetmelikte genel ödenek, kamu yapılarındaki giderler ve özel sektör giderleri ayrı hükümler altında ele alınır. Kullanıcı tarafından sağlanan yeni BYKHY taslağında bu konu yeniden düzenlenmiş ve madde numaraları değişmiştir. Taslak metinde kamu yapılarının giderleri yanında belirli hidrant sistemlerine ilişkin belediye bütçesi düzenlemesi de bulunmaktadır. Bu öneri, yayımlanıp yürürlüğe girmedikçe mevcut bir yükümlülük gibi uygulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Karşılaştırma yapılırken aynı numaralı maddelerin aynı konuyu düzenlediği varsayılmamalıdır. Örneğin yürürlükteki düzenlemede kamu yapılarına ilişkin ödenek konusu ile taslaktaki karşılığı farklı madde numaralarındadır. Teknik raporda uygulanacak hüküm için yürürlükteki metin esas alınmalı, taslak yalnız değişiklik hazırlığına ilişkin ayrı bir not olarak değerlendirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), ödenek incelemesine önce yapının onaylı projeleri, ruhsat ve kullanım belgeleri, işletme organizasyonu ve bakım kayıtları üzerinden başlar. Projede bulunan yangın güvenliği sistemlerini sahadaki mevcut ekipmanla eşleştirir; çalışmayan, devre dışı bırakılan veya bakımı geciken unsurların hangi kayıtlarda yer aldığını araştırır. İncelemenin amacı mali denetim yapmak değil, teknik ihtiyacın karara ve uygulamaya nasıl dönüştüğünü görünür kılmaktır."
+    },
+    {
+      "tip": "p",
+      "metin": "Kamu yapısında teknik hizmetler, satın alma ve işletme sorumluları arasındaki kayıt zinciri; özel yapıda yönetim, malik ve işletmeci arasındaki karar ve uygulama zinciri incelenebilir. YGU, gözlemsel tespiti tarih ve mahal bilgisiyle kaydeder; görülen servis raporunun kapsamını, son işlem tarihini ve eksik kalan doğrulamayı belirtir. Belgeye erişilemiyorsa bunu açık bir bilgi eksikliği olarak raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, bütçe tahsis eden merci, ihale onay makamı, proje müellifi, yetkili ölçüm personeli veya teknik kabul kuruluşunun yerine geçmez. Elektriksel ölçüm, hidrolik performans testi, tasarım değişikliği, resmi proje onayı veya hukuki sorumluluğun kesin tayini gerekli olduğunda ilgili yetkili uzman ve mercilerin değerlendirmesi aranır. Uzmanın katkısı; saha, proje ve işletme kayıtları arasındaki tutarsızlıkları gerekçeleriyle ortaya koymak ve tamamlanmamış işleri takip edilebilir hale getirmektir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın güvenliği giderlerinin izlenmesinde doğru yöntem, bütçe belgesini tek başına uygunluk kanıtı saymamak; ihtiyaç, karar, uygulama ve teknik doğrulama aşamalarını ayrı ayrı kayıt altına almaktır. Kamu ve özel yapıların gider kanalları farklı olsa da güvenlik tedbirinin sahada işlevini sürdürmesi ortak hedeftir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

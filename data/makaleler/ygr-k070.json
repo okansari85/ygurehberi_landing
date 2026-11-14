@@ -1,0 +1,175 @@
+{
+  "kod": "YGR-K070",
+  "yol": "yagmurlama-sisteminin-periyodik-bakim-belgesi-nasil-degerlendirilir",
+  "baslik": "Yağmurlama sisteminin periyodik bakım belgesi nasıl değerlendirilir?",
+  "ozet": "Bir bakım formunda “kontrol edildi, uygun” yazması, sistemin hangi bölümünün hangi yöntemle incelendiğini göstermiyorsa tek başına yeterli bir teknik kanıt oluşturmaz. Belgenin değeri; kapsam, işlem sonucu ve açık bulguların izlenebilirliğine bağlıdır.",
+  "etiketler": [
+    "Sprinkler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bakim-belgesi-neyi-kanitlar-neyi-kanitlamaz",
+      "metin": "Bakım belgesi neyi kanıtlar, neyi kanıtlamaz?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yağmurlama sistemi yalnız sprinkler başlıklarından oluşmaz. Kontrol vanaları, alarm ve akış izleme elemanları, boru ağı, su kaynağı ve pompa grubu birlikte çalışır. Bu nedenle “sistem bakımı yapıldı” ifadesinin hangi bileşenleri kapsadığı, ilgili işlemlerin gerçekten yapılıp yapılmadığı ve sonuçlarının nasıl kaydedildiği anlaşılmalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın söndürme sistemlerinin bina sahibi, yönetici veya yazılı olarak sorumluluk devredilen bina yetkilisinin sorumluluğunda, ilgili standartların gerektirdiği periyodik kontrol, test ve bakıma tabi tutulmasını öngörür. Bakanlık Kılavuzu da sistemlerin işletme boyunca çalışır tutulmasını ve bakımın işletme sorumluluğunu vurgular. Bu düzenleme, yalnızca imzalı bir formun bütün sistem işlevlerinin doğrulandığı anlamına geldiği şeklinde yorumlanmamalıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bakım, test ve bağımsız periyodik muayene aynı işlem değildir. Bir vananın gözle kontrol edilmesi, akış alarmının fonksiyonunun denenmesi veya pompanın ölçümlü performansının değerlendirilmesi farklı kanıtlar üretir. Hangi işlemin gerekli olduğu, sistemin tipi, uygulanabilir standart, proje ve bakım programı birlikte incelenerek belirlenir; her tesis için tek bir genel kontrol listesi yeterli kabul edilemez."
+    },
+    {
+      "tip": "h2",
+      "id": "bakim-raporunda-aranacak-izlenebilirlik",
+      "metin": "Bakım raporunda aranacak izlenebilirlik"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Belge öğesi",
+        "Aranacak bilgi",
+        "Belirsizlik halinde değerlendirme"
+      ],
+      "satirlar": [
+        [
+          "Sistem kimliği",
+          "Bina, korunan bölüm, zon veya vana seti ve ilgili proje kaydı",
+          "Hangi tesisatın kontrol edildiği kesinleştirilemez."
+        ],
+        [
+          "İşlem kapsamı",
+          "Kontrol edilen eleman, kullanılan yöntem, tarih ve uygulayıcı",
+          "“Bakım yapıldı” ifadesi hangi işlerin yapıldığını açıklamaz."
+        ],
+        [
+          "Test ve sonuç",
+          "Testin koşulu, varsa ölçüm değeri, cihaz veya fonksiyon sonucu",
+          "Gözlem ile fonksiyon testinin kanıt değeri ayrıştırılamaz."
+        ],
+        [
+          "Arıza takibi",
+          "Bulgu, sorumlu, düzeltici işlem, kapanış ve gerekli tekrar test",
+          "“Onarılacak” notu, arızanın giderildiğini göstermez."
+        ],
+        [
+          "Devre dışı kalma",
+          "İzolasyonun süresi, geçici tedbirler ve yeniden devreye alma kaydı",
+          "Koruma sürekliliği hakkında boşluk oluşur."
+        ]
+      ]
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 70. Envanterden test sonucuna, bulgudan kapatmaya uzanan kayıt zinciri (özgün temsili çizim).",
+      "src": "/img/makale/ygr-k070-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "belge-ile-sahadaki-durum-nasil-eslestirilir",
+      "metin": "Belge ile sahadaki durum nasıl eşleştirilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, son bakım raporunun dosyada bulunup bulunmadığını sormakla sınırlı kalmamalıdır. Önce sistemin güncel envanteri ve onaylı söndürme projesi açılır. Raporda yazan zon, vana seti veya koruma alanının sahada hangi bölüme karşılık geldiği belirlenir. Ardından test kayıtları, gözlenen durum ve daha önce bildirilmiş eksiklikler aynı sistem kimliği üzerinden karşılaştırılır."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Belge karşılığı",
+        "Sahada aranacak bağlantı"
+      ],
+      "satirlar": [
+        [
+          "Vana ve zon eşlemesi",
+          "Vana listesi, bakım iş emri, proje işaretleri",
+          "Etiket, erişim ve fiili konumun kayda uyumu"
+        ],
+        [
+          "Akış alarmı",
+          "Fonksiyon testi ve alarm paneli kayıtları",
+          "İlgili zonun hangi uyarıyı verdiğinin belgelenmesi"
+        ],
+        [
+          "Su beslemesi",
+          "Depo, pompa ve besleme kontrol kayıtları",
+          "Belgede tanımlı sistemle sahadaki bağlantının örtüşmesi"
+        ],
+        [
+          "Korunan mahal",
+          "Onaylı proje, revizyon ve kullanım bilgisi",
+          "Yeni raf, makine veya bölmenin korumayı etkileyip etkilemediği"
+        ],
+        [
+          "Açık bulgular",
+          "Servis notu, iş emri ve kapanış kanıtı",
+          "Eksikliğin giderildiğinin doğrulanabilir kaydı"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "bakim-ile-degisiklik-sonrasi-uygunluk-ayni-sey-degildir",
+      "metin": "Bakım ile değişiklik sonrası uygunluk aynı şey değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir depoda raf yerleşimi veya depolama yüksekliği değişmişse, önceki bakım raporunda arıza görülmemiş olması yeni işletme düzeninin sprinkler tasarımına uygun olduğunu kanıtlamaz. Bakım belgesi belirli tarihte yapılan işlemleri gösterir; değişikliğin hidrolik tasarım, başlık tipi veya koruma alanı üzerindeki etkisi ise ilgili tasarım yetkinliği olan kişilerce ayrıca değerlendirilmelidir. Bu örnek, gerçek bir olayın anlatımı değil, belge incelemesinde karşılaşılabilecek durumu açıklayan bir senaryodur."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağında, periyodik kontrol, test ve bakım raporlarının saklanmasına yönelik açık bir ifade önerilmiştir. Bu öneri yürürlükteki hükme eklenmiş gibi gösterilemez. Uygulamada ise bakım ve test kayıtlarının izlenebilir şekilde korunması, yapılan işlemin ve açık eksikliklerin sonradan değerlendirilebilmesi için teknik bakımdan gereklidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı söndürme projesi, yapı kullanımına ilişkin belgeler, varsa tadilat izinleri ve işletmenin güncel faaliyet bilgileriyle başlar. Sistemin hangi mahalleri korumak üzere projelendirildiğini belirler; bakım raporundaki cihaz ve zon tanımlarını sahadaki etiket, vana grubu ve korunan bölümlerle karşılaştırır. Bakım tarihini, uygulayıcıyı, işlem kapsamını ve varsa ölçüm veya fonksiyon testine ait kanıtları ayrı ayrı inceler."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada vanaya erişim engeli, proje dışı mahal bölünmesi veya bakım belgesinde tanımlanamayan bir sistem parçası görülürse, gözlemini konum ve fotoğrafla kaydeder. Belge eksikliği ile teknik arızayı birbirine karıştırmaz: “Akış alarmı çalışmıyor” sonucuna yalnız raporda test kaydı bulunmadığı için varmaz; “akış alarmının test edildiği belgelenemedi” tespitini yapar ve gerekli teknik doğrulamanın yetkin kişilerce gerçekleştirilmesini ister."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, bakım firması adına fonksiyon testi yapmış, pompa performansını ölçmüş veya yeni sprinkler tasarımını onaylamış gibi rapor düzenlemez. Ölçüm, hesap, tasarım revizyonu ve resmi onay işlemleri ilgili uzmanların ve yetkili mercilerin sorumluluk alanında kalır. Uzmanın raporu; mevcut kanıtı, gözlenen durumu, belirsizliği, istenecek belgeyi ve takip edilecek düzeltici işlemi açıkça ayırmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yağmurlama sisteminin bakım belgesinde aranacak temel özellik, tek kelimelik “uygun” sonucu değil; hangi ekipmanın hangi işlemle kontrol edildiğinin ve açık bulgunun nasıl kapatıldığının izlenebilmesidir. Belge, proje ve saha birbiriyle eşleşmiyorsa uygunluk hakkında kesin hüküm kurulmadan eksik kanıt tamamlatılmalıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

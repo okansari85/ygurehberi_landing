@@ -1,0 +1,168 @@
+{
+  "kod": "YGR-K160",
+  "yol": "fan-calisma-bildirimi-ile-duman-kontrolu-basarisi-nasil-ayrilir",
+  "baslik": "Fan Çalışma Bildirimi ile Duman Kontrolü Başarısı Nasıl Ayrılır?",
+  "ozet": "Bir yapının yangın kontrol panelinde “duman tahliye fanı çalışıyor” ifadesinin görünmesi, o bölgedeki dumanın öngörülen biçimde uzaklaştırıldığını kanıtlamaz. Bu bildirim bazen fan motorunun çalıştığını, bazen kontaktörün çektiğini, bazen de hız kontrol cihazının çalış komutu aldığını gösterir. Duman kontrolünün başarısı ise fanın hizmet ettiği bölge, tahliye güzergahı, damperlerin durumu, gerekli hava girişleri ve tasarımda tanımlanan performans koşullarıyla ilgilidir. Yangın Güvenlik Uzmanı (YGU), bu iki doğrulama düzeyini birbirine karıştırmadan belge ve saha incelemesi yapmalıdır.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "calisiyor-sinyali-tam-olarak-neyi-dogrular",
+      "metin": "“Çalışıyor” sinyali tam olarak neyi doğrular?"
+    },
+    {
+      "tip": "p",
+      "metin": "Fan çalışma bildiriminin anlamı, kontrol şemasında sinyalin hangi noktadan alındığına bağlıdır. Otomasyon ekranındaki yeşil işaret, kumanda çıkışının aktif olduğunu gösterebilir. Kontaktör yardımcı kontağı motor besleme devresinin durumunu; sürücü geri bildirimi ise sürücünün belirli bir işletme durumunu gösterebilir. Bunların hiçbiri kendi başına fanın beklenen debide hava taşıdığını veya duman tahliye hattında yeterli akış oluştuğunu ispatlamaz. Hangi bilginin gerçekten izlendiği elektrik projesi, giriş-çıkış listesi ve uygulama kayıtlarıyla belirlenmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin fan motoru dönüyor olsa da kirlenmiş veya kapatılmış bir menfez, uygunsuz damper konumu, kanal hasarı ya da sonradan değiştirilen mahallin hava giriş düzeni sistemin hedefini bozabilir. Buna karşılık fanın yeterliliği yalnız gözle de değerlendirilemez. İşlev doğrulaması, onaylı tasarımın beklediği koşullar için düzenlenmiş test ve ölçüm kanıtlarına dayanır."
+    },
+    {
+      "tip": "h2",
+      "id": "komut-durum-ve-performans-ayri-basamaklardir",
+      "metin": "Komut, durum ve performans ayrı basamaklardır"
+    },
+    {
+      "tip": "p",
+      "metin": "Duman kontrol senaryosu önce hangi yangın alarmından hangi bölgedeki fanın devreye alınacağını belirler. İkinci basamak, bu komutun doğru ekipmana ulaşıp ulaşmadığını ve gerçek durum bilgisinin panelde doğru izlenip izlenmediğini ortaya koyar. Üçüncü basamak, fanın bağlı olduğu kanal, duman tahliye açıklıkları, uygun damperler ve gerekiyorsa hava beslemesiyle birlikte istenen mekanik işlevi yerine getirip getirmediğidir. Dördüncü basamak ise tasarımın güvenli kaçışa yönelik duman yönetimi hedefinin teknik doğrulamasıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu basamakların kanıt türleri de farklıdır: komut için neden-sonuç matrisi ve panel kaydı; durum için ekipman geri bildirimi ve yerinde gözlem; mekanik işlev için devreye alma ve periyodik test raporu; duman kontrol performansı için tasarım hesabına uygun doğrulama yöntemi ve ilgili uzmanların değerlendirmesi gerekir. Bir aşamanın olumlu sonucu, sonraki aşamanın otomatik olarak tamamlandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatta-izleme-ve-isletme-butunlugu",
+      "metin": "Mevzuatta izleme ve işletme bütünlüğü"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 80, duman kontrol ve basınçlandırma sistemleri kurulduğunda bunlara ilişkin arıza ve konum değiştirme sinyallerinin ayrı bölgesel durum ve arıza göstergeleriyle izlenmesini düzenler. El ile kontrolün ayrı panelden veya uygun izleme paneline entegre biçimde yapılabilmesi de bu düzenlemede yer alır. Bu hüküm, panelde hangi bilginin gösterildiğinin doğru tanımlanmasını gerekli kılar; ancak yalnız çalışma lambasının yanmasını duman kontrol performansının kanıtı saymaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Aynı Yönetmeliğin duman kontrolüne ilişkin tasarım ve işletme hükümleri, sistemin güvenli boşaltmayı destekleyecek şekilde kurulmasını ve çalışır durumda tutulmasını ele alır. Kabul testleri, periyodik test ve bakım kayıtları sistemin gerçekten neyi sağladığını göstermek için önemlidir. Yangın anında devreye girme biçimi, bağlı damperler ve fanın besleme düzeni ilgili proje kapsamından kontrol edilir. Ölçüm koşulu veya sıklığı, tek bir genel ifadeden hareketle her bina için aynı sayıymış gibi yazılmaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol basamağı",
+        "Belgedeki karşılığı",
+        "Doğrulanan / henüz doğrulanmayan"
+      ],
+      "satirlar": [
+        [
+          "Başlatma komutu",
+          "Yangın senaryosu, giriş-çıkış listesi",
+          "Doğru alarmın doğru fana komut vermesi / gerçek hava akışı değil"
+        ],
+        [
+          "Fan durum sinyali",
+          "Pano şeması, sürücü veya kontaktör geri bildirimi",
+          "İzlenen elektriksel durum / yeterli debi değil"
+        ],
+        [
+          "Damper ve açıklıklar",
+          "Mekanik pafta, damper konum listesi",
+          "Hava yolunun hedeflenen düzeni / yalnız fan çalışması yetmez"
+        ],
+        [
+          "İşlevsel test",
+          "Devreye alma raporu, test tutanağı",
+          "Belirli senaryoda fan ve bağlı elemanların tepkisi"
+        ],
+        [
+          "Performans doğrulaması",
+          "Proje hesabı, ilgili ölçüm ve test belgeleri",
+          "Tasarımla karşılaştırılan hava hareketi ve sistem yeterliliği"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "projedeki-fan-numarasi-ile-sahadaki-ekipman-ayni-mi",
+      "metin": "Projedeki fan numarası ile sahadaki ekipman aynı mı?"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU öncelikle güncel duman kontrol şemasındaki fan kodunu, hangi duman bölgesine hizmet ettiğini, emiş ve atış noktalarını, kanal güzergahını ve ilgili damperleri belirler. Mimari kullanım değişiklikleri, yeniden düzenlenen bölme duvarları, kapatılmış duman tahliye ağızları ve farklı katlara uzatılmış kanallar ayrıca işaretlenir. Ardından elektrik ve otomasyon projelerindeki fan kodu ile sahadaki etiket ve panel mesajı eşleştirilir. Aynı isimle kaydedilmiş iki farklı fan, yanlış zondan alınmış çalışma sinyali veya panelde genel “HVAC fanı çalışıyor” mesajı, önemli bir belirsizlik oluşturabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Sahada görülen fanın çalışması, cihazın tasarım modunda ve öngörülen hızda olduğunu da göstermez. Normal havalandırma ile yangın senaryosunun farklı hız, damper veya kontrol öncelikleri bulunabilir. Bu nedenle sonradan değiştirilen otomasyon yazılımının, bakım sırasında bypass edilen bir girişin ve arıza halinde öngörülen davranışın güncel proje ile eşleşmesi kontrol kayıtlarından izlenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "islevsel-test-ile-performans-testi-karistirilmamali",
+      "metin": "İşlevsel test ile performans testi karıştırılmamalı"
+    },
+    {
+      "tip": "p",
+      "metin": "İşlevsel testte belirli alarm girişi oluşturulduğunda doğru fanın komut alıp almadığı, beklenen durumda çalışıp çalışmadığı, damperlerin öngörülen konuma gelip gelmediği, arıza ve el ile müdahale senaryolarının kayda geçip geçmediği sınanabilir. Performans doğrulamasında ise uygun teknik yöntemle elde edilen debi, basınç, hava hızı veya ilgili başka ölçüm sonuçları, projedeki hesap ve kabul ölçütleriyle karşılaştırılır. Hangi parametrelerin gerekli olduğu, tesis edilen duman kontrol çözümüne göre değişir."
+    },
+    {
+      "tip": "p",
+      "metin": "Fan “çalışıyor” kaydı olup son debi raporu bulunmayan bir yapıda, mekanik performansın kanıtlanmadığı belirtilmelidir. Tersine, yıllar önce düzenlenmiş başarılı ölçüm raporu da yeni tadilatın veya fan değişikliğinin etkisini kendiliğinden kapsamaz. Test tarihi, o tarihteki sistem düzeni ve güncel koşullar birbirine bağlanmalıdır. Test sonuçlarında görülen eksiklikler, sorumlu teknik ekip ve işletme yönetimi tarafından ele alınacak düzeltici faaliyete dönüştürülür."
+    },
+    {
+      "tip": "h2",
+      "id": "bykhy-degisiklik-taslagi-ayri-degerlendirilir",
+      "metin": "BYKHY değişiklik TASLAĞI ayrı değerlendirilir"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞININ Madde 81 hükmü, duman kontrol ve basınçlandırma sistemlerine ilişkin arıza ve konum değiştirme sinyallerinin bölgesel izlenmesi yaklaşımını içerir (TASLAK). Yürürlükteki metinde aynı ana konu Madde 80 kapsamında yer almaktadır. Taslaktaki madde numarası, yürürlükteymiş gibi rapora dayanak yapılmaz. Ayrıca ayrı Yangın Güvenlik Uzmanlığı düzenleme taslağı, bugün kesinleşmiş yeni yetki veya test sorumluluğu varmış gibi yorumlanmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), onaylı mekanik ve elektrik projelerini, yangın senaryo matrisini, panel olay kayıtlarını, fan ve damper envanterini, devreye alma ve periyodik bakım/test raporlarını birlikte inceler. Sahada gözlemlenen etiketleri, fanın hizmet ettiği mahal ve mevcut yapı düzeniyle eşleştirir. Kontrol panelindeki “çalışıyor” ifadesinin kaynağı belgelerde açık değilse bunun anlamını yetkili bakım veya otomasyon sorumlusundan yazılı olarak doğrulatır. Bu sırada gözlemi, belgeli test sonucunu ve hala kanıtlanmamış performans iddiasını ayrı başlıklarda raporlar."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU; uygun ekipmanın seçimini yeniden tasarlamış, yangın dumanını deneyle izlemiş, fan debisini kendisi ölçmüş veya yetkili uzman yerine performans kabulü yapmış gibi işlem yürütmez. Gerektiğinde mekanik tesisat tasarımcısından revize hesap, otomasyon sorumlusundan neden-sonuç doğrulaması, yetkili test ekibinden işletme koşullarında yapılmış ölçüm ve entegre sistem testi ister. İstenen belgeyi sistemin gerçek numarası ve senaryosu ile ilişkilendirerek takip eder."
+    },
+    {
+      "tip": "h2",
+      "id": "varsayimsal-saha-bulgusu",
+      "metin": "Varsayımsal saha bulgusu"
+    },
+    {
+      "tip": "p",
+      "metin": "“B Blok otoparkında DT-F02 kodlu duman tahliye fanına ait panel ekranında ‘çalışıyor’ bilgisi görülmüştür. Ancak bu durumun hangi geri bildirim kontağından üretildiğini açıklayan güncel giriş-çıkış listesi ile fanın hizmet ettiği duman bölgesine ait son performans testi sunulmamıştır. Sonradan değiştirilmiş kanal ve damper düzeni de onaylı mekanik paftada gösterilmemiştir. Fan çalışma sinyali gözlenmiş olmakla birlikte tasarlanan duman kontrol performansı doğrulanamamıştır. Güncel proje, senaryo ve ilgili teknik test kayıtları talep edilmiştir.” Bu yalnız yazım amacıyla oluşturulmuş varsayımsal bir örnektir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Duman kontrol panelindeki fan çalışma bildirimi, sistemin izlenmesi açısından değerli fakat kapsamı sınırlı bir veridir. Doğru zondan komut, gerçek geri bildirim, damper ve hava yolu sürekliliği, mekanik işlev ve tasarım performansı birlikte belgelenmeden “duman kontrolü başarılı” denemez. YGU incelemesi, olumlu görünen bir kontrol mesajının arkasında hangi kanıtların mevcut olduğunu ve hangi doğrulamaların eksik kaldığını açıkça gösterdiğinde karar verilebilir sonuç üretir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

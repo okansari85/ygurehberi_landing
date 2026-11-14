@@ -1,0 +1,132 @@
+{
+  "kod": "YGR-K182",
+  "yol": "denetimde-bulunmayan-bakim-kayitlari-nasil-degerlendirilir",
+  "baslik": "Denetimde bulunmayan bakım kayıtları nasıl değerlendirilir?",
+  "ozet": "Bir yangın güvenliği incelemesinde yangın pompasının çalıştırıldığını söyleyen işletme görevlisi, son bakım raporunu bulamayabilir. Başka bir tesiste ise rapor dosyada durur; ancak üzerinde farklı bir ekipman numarası vardır. İki durumda da sorun yalnız “belge var mı?” sorusuyla çözülemez. Eksik kayıt, sistemin güvenilirliğine ilişkin hangi bilginin doğrulanamadığını gösterir; fakat tek başına ekipmanın arızalı olduğunu kanıtlamaz.",
+  "etiketler": [
+    "Yangın Organizasyonu"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bakim-test-ve-periyodik-muayene-birbirinin-yerine-gecmez",
+      "metin": "Bakım, test ve periyodik muayene birbirinin yerine geçmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Bakım, ekipmanın işlevini sürdürebilmesi için yapılan müdahale ve işlemleri; test, belirli bir çalışma veya fonksiyonun sınanmasını; periyodik muayene ise ilgili düzenleme ve kapsam çerçevesinde gerçekleştirilen değerlendirmeyi ifade eder. Bir servis fişinin bulunması, gereken muayenenin yapıldığını otomatik olarak göstermez. Aynı şekilde muayene raporu da bütün ara bakım faaliyetlerinin tamamlandığının kanıtı değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, önce belgeyi türüne göre ayırır: bakım formu, test tutanağı, yetkili muayene raporu, arıza kaydı, düzeltici işlem ve devreye alma tutanağı. Her belgenin ekipman kimliği, tarih, kapsam, sonuç ve düzenleyen kişi veya kuruluş bilgileri incelenir. “Servis geldi” ifadesi, tarihli ve ekipmana bağlanabilir bir kayıt olmadan doğrulanmış bakım olarak yazılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "hangi-eksiklik-neyi-belirsiz-birakir",
+      "metin": "Hangi eksiklik neyi belirsiz bırakır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Belge bulunmadığında denetimde yapılabilecek en önemli ayrım, sistemin durumu ile kanıtın durumu arasındadır. Fiziksel olarak görülen ekipman, etiket veya panel göstergesi kayda alınabilir; bunlar önceki dönemde gerekli testlerin yapıldığını kanıtlamaz. Buna karşılık, raporun yokluğu da görülmeyen bir arızanın varlığı şeklinde yorumlanamaz."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Karşılaşılan durum",
+        "Doğrulanamayan bilgi",
+        "Kayıt ve izlenecek işlem"
+      ],
+      "satirlar": [
+        [
+          "Hiç bakım kaydı sunulmadı",
+          "İlgili dönemde bakımın yapılıp yapılmadığı",
+          "Ekipman, dönem ve istenen belge ayrı yazılır; işletmeden kanıt istenir."
+        ],
+        [
+          "Rapor var, ekipman kimliği farklı",
+          "Belgenin yerindeki sisteme ait olup olmadığı",
+          "Seri no, mahal, proje kodu ve envanter eşleştirilir."
+        ],
+        [
+          "Belge var, dönem veya kapsam eksik",
+          "Gereken kontrollerin hangilerinin yapıldığı",
+          "Eksik test, tarih ve kapsam açıkça belirtilir."
+        ],
+        [
+          "Eski “uygun” raporu, yeni değişiklik",
+          "Değişiklik sonrası durumun doğrulanıp doğrulanmadığı",
+          "Revizyon, yeni test ve muayene ihtiyacı yetkili tarafça değerlendirilir."
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-pompa-testi-soyleniyor-belge-bulunamiyor",
+      "metin": "Örnek: Pompa testi söyleniyor, belge bulunamıyor"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir iş merkezinde yangın pompasının haftalık olarak çalıştırıldığı ifade edilmektedir. Pompa odasındaki pano üzerinde son çalışma tarihi yazılıdır; fakat ilgili dönemin test formları ve bakım raporları dosyada yoktur. Ayrıca pompa setinin bir motoru yakın zamanda değiştirilmiştir. YGU, önce pompa envanter numarasını, bakım planını ve değişiklik tarihini karşılaştırır. Panelin anlık göstergesi veya sözlü bilgiyle geçmiş dönem testi yapılmış kabul edilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu olayın doğru kaydı şudur: “Yangın pompası P-02 için belirtilen döneme ait bakım/test kaydı sunulamadı. Motor değişimi sonrasında gerçekleştirildiği bildirilen devreye alma ve fonksiyon testinin belgesi de dosyada görülmedi. Sistemin çalışma yeterliliği bu belge incelemesiyle doğrulanamadı.” Bu ifade, ekipmanı çalışmaz ilan etmeden somut kanıt açığını tanımlar."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "İncelemeye güncel ekipman envanteri, onaylı yangın projesi, üretici bakım talimatı, bakım sözleşmesi, periyodik kontrol planı, servis fişleri ve önceki raporlarla başlanır. Hangi belgeye ihtiyaç duyulduğu her sistem için ayrı belirlenir. Algılama paneli, acil aydınlatma, sprinkler, yangın dolabı, pompa ve duman kontrolü aynı başlık altında tek bir “bakım raporu” ile topluca doğrulanamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, eksikleri sistem–konum–dönem–belge türü–sorumlu kişi düzeninde izlenebilir bir listeye aktarır. İstenilen belge sonradan sunulursa tarih, kimlik ve kapsam eşleşmesi yeniden incelenir. Belge eksikliği sürüyorsa işletme sorumlusuna yazılı bildirim ve ilgili yetkili bakım/muayene kuruluşuna yönlendirme yapılır. Acil tehlike işareti veya somut arıza gözlenirse, bu ayrı bulgu olarak derhal bildirilir; yalnız evrak eksikliğiyle karıştırılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Özellikle belge tarihleri uyuşmadığında iki ayrı zaman çizelgesi kurulması yararlıdır: ekipmanın fiilen değiştirildiği veya arıza verdiği tarih ile bakım/test ve muayene raporlarının tarihi. Örneğin bir kontrol formu değiştirilen pompa motorundan önceye aitse, o belge yeni motorun devreye alınmasını doğrulamaz. Buna karşılık aynı tarihte düzenlenen ve farklı pompa kodu taşıyan bir raporun eksikliği, diğer pompaların durumuna doğrudan genellenemez. Kanıt talebi, ilgili varlık ve işlemle sınırlı tutulur. Tamamlanan her düzeltici işlemde belge dosyası yeniden kontrol edilir; talebin kapatılması ile teknik uygunluk sonucu birbirine karıştırılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-hukum-ile-degisiklik-taslaginin-ayrimi",
+      "metin": "Yürürlükteki hüküm ile değişiklik taslağının ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 100, yönetmelikte öngörülen yangın söndürme sistemlerinin ilgili standartlara göre periyodik kontrol, test ve bakıma tabi tutulmasını, sorumluluğun bina sahibi, yönetici veya yazılı olarak yetkilendirdikleri kişide olmasını düzenler. Henüz yayımlanmamış BYKHY değişiklik taslağının Madde 102 hükmü aynı konuya yer verir ve periyodik kontrol, test ve bakım raporlarının saklanmasını ayrıca açıkça yazar (TASLAK). Bu ek ifade yürürlükteki Madde 100’ün lafzıymış gibi gösterilmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Ayrıca EK-6/A periyodik kontrol formu taslağının “Periyodik Kontrol Ön Şartları” bölümünün 4. maddesinde, sayılan sistem ve cihazların güncel ve uygun periyodik muayene belgelerinin incelenmesi öngörülür (TASLAK). Bu satır, bakım formuyla periyodik muayene raporunun aynı belge olmadığı ayrımını güçlendirir. Taslakta ön şartlardan herhangi biri sağlanmadığında bildirime ve kontrolün yapılmamasına ilişkin bir süreç anlatılır; henüz yürürlükte olan bir usul olarak sunulamaz. EK-6 taslağı ayrıca, gözlemsel inceleme ile muayene kayıtlarının değerlendirilmesini ayırır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Eksik bakım belgesine ilişkin güvenilir rapor, “sistem uygun değil” gibi kanıtın ötesine geçen bir hükümle değil, neyin hangi tarih ve ekipman için doğrulanamadığını belirterek yazılır. Böylece işletme sorumlusu doğru belgeyi tamamlayabilir; teknik bir arıza varsa o arıza da ayrıca incelenebilir. Yangın güvenliğinde kayıt disiplini, sahadaki teknik yeterliliğin yerini almaz; ancak yeterliliğin izlenebilir kanıtını oluşturur."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik, Madde 100."
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Değişiklik Taslağı, Madde 102 (TASLAK)."
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)."
+    },
+    {
+      "metin": "EK-6/A Periyodik Kontrol Formu Taslağı, Periyodik Kontrol Ön Şartları, 4. madde (TASLAK)."
+    }
+  ],
+  "sonNotlar": []
+}

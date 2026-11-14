@@ -1,0 +1,155 @@
+{
+  "kod": "YGR-K178",
+  "yol": "yeralti-tanki-ustundeki-kullanim-degisikligi-risk-yaratir-mi",
+  "baslik": "Yeraltı Tankı Üstündeki Kullanım Değişikliği Risk Yaratır mı?",
+  "ozet": "Bir işletmede yıllardır kullanılan yeraltı yakıt tankının üzerindeki alan önce yalnız yaya geçişiyken daha sonra forklift güzergahına, araç parkına veya malzeme istif alanına dönüştürülebilir. Tank gözle görülmediği için değişiklik basit bir saha düzenlemesi sanılır. Oysa tankın üzerindeki yeni yükler ve trafik düzeni, başlangıçtaki mekanik koruma kabullerini değiştirebilir. Yangın güvenlik uzmanı (YGU), alanın bugünkü kullanımını tankın onaylı yerleşim planı, üst örtü detayı ve koruma kayıtlarıyla birlikte değerlendirmelidir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "gomulu-olmasi-ustundeki-butun-kullanimlara-uygun-oldugu-anlamina-gelmez",
+      "metin": "Gömülü olması, üstündeki bütün kullanımlara uygun olduğu anlamına gelmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 120/2-a, yanıcı ve parlayıcı sıvıların depolama tankları bakımından yeraltı tankının üst örtüsünü tanımlar. Tank üstünden araç geçişi söz konusuysa veya böyle bir ihtimal varsa ek koruma düzeni öngörür. Mevzuat, tankın yalnız toprağa gömülü olmasını yeterli görmez; araç kaynaklı hasarın önlenmesi için üst dolgu, beton plaka veya araç geçişinin fiziksel olarak engellenmesi gibi koşulları düzenler."
+    },
+    {
+      "tip": "p",
+      "metin": "Buradaki kritik saha sorusu şudur: Tank ilk kurulduğunda araç yüküne karşı hangi çözüm projelendirilmişti ve bugün o çözüm hala yerinde mi? Alanı şeritle işaretlemek, üzerine palet koymak ya da zemine yeni asfalt dökmek, koruma detayı yeniden doğrulanmadıkça araç yüküne uygunluk kanıtı sayılmaz. Tersine, mevcut koruyucu plakanın bulunması da her türlü ağır iş makinesinin geçişini otomatik olarak güvenli kılmaz. Araç ağırlığı, dingil yükü, hareket sıklığı ve tank üzerindeki yapı sistemi gerektiğinde yetkili teknik kişilerce incelenmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "kullanim-degisikligi-hangi-tehlikeleri-dogurabilir",
+      "metin": "Kullanım değişikliği hangi tehlikeleri doğurabilir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce mekanik yük değerlendirilir. Yeni güzergah yükü tankın kendisine, üst plakaya, menhol bölgesine ve gömülü boru bağlantılarına iletebilir. Forkliftin dar alanda dönmesi, servis aracının aynı noktada durması veya dolu malzeme paletlerinin uzun süre bırakılması farklı yükleme biçimleridir. Zemin oturması, çatlak, kapak deformasyonu ve koruyucu bariyerlerin kaldırılması gözle kaydedilir; bunlardan tankın sağlam olduğu veya olmadığı tek başına çıkarılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "İkinci konu erişimdir. Menhol, seviye ölçüm noktası, dolum ağzı, havalandırma hattı ve acil müdahale alanı yeni istif veya park düzeni altında kalabilir. Bağlantıların korunması, tesisatın izlenmesi ve güvenli bakım için ayrılan alanlar fiilen ulaşılabilir olmalıdır. Üçüncü konu kullanım değişikliğinin yakın çevreye etkisidir: yeni elektrikli ekipman, dolum-boşaltma faaliyeti veya potansiyel tutuşturucu kaynakların konumu, mevcut tehlike bölgesi çizimi ve risk değerlendirmesiyle eşleşmeyebilir."
+    },
+    {
+      "tip": "h2",
+      "id": "tankin-cinsi-neden-bastan-netlestirilmelidir",
+      "metin": "Tankın cinsi neden baştan netleştirilmelidir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Yanıcı/parlayıcı sıvı tankı ile dökme LPG tankının mevzuat dayanakları aynı maddeden türetilemez. BYKHY Madde 120, bu makalenin konusu olan yanıcı/parlayıcı sıvı depolama tanklarıyla ilgilidir; dökme LPG tankları için ise ayrıca Madde 107 hükümleri bulunur. Envanterde sadece “yeraltı tankı” yazıyorsa ilk iş ürün adını, tank kimliğini, hacmini, kullanımını ve ilgili güvenlik bilgi formunu tespit etmektir. Tankın eski yakıt türüyle yeni içerik türü farklıysa bu da ayrı teknik değişiklik incelemesi gerektirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Tank yeri, parselle ve altyapı hatlarıyla ilişkisi, bağlantı ve havalandırma çıkışları da yerleşim projesi üzerinden incelenir. Yeni kaldırım, rampa veya bina eki tank üst örtüsünü değiştirmiş olabilir. Üst yapının görünümüyle yetinilmez; onaylı kesit ve uygulama detaylarının güncelliği istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-ve-belge-karsilastirma-tablosu",
+      "metin": "Proje, saha ve belge karşılaştırma tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kontrol konusu",
+        "Gerekli kayıt / belge",
+        "Sahadaki karşılık"
+      ],
+      "satirlar": [
+        [
+          "Tank kimliği",
+          "Tank envanteri, ürün GBF/SDS, kapasite",
+          "Tank etiketi, işletme amacı, fiili ürün"
+        ],
+        [
+          "Üst örtü ve koruma",
+          "Onaylı kesit, dolgu/beton/bariyer detayı",
+          "Kaplama, plaka, çatlak, koruyucu sınır"
+        ],
+        [
+          "Trafik ve yük",
+          "Yerleşim planı, araç güzergahı, yük bilgisi",
+          "Yeni park, forklift, servis aracı ve istif"
+        ],
+        [
+          "Bağlantılar ve erişim",
+          "Tesisat planı, dolum/menhol/vent noktaları",
+          "Kapak, dolum ağzı, boru ve müdahale erişimi"
+        ],
+        [
+          "Değişiklik geçmişi",
+          "Revizyon projesi, iş emri, muayene kayıtları",
+          "Yapılan zemin işleri, kaldırılan bariyer, tarih"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU incelemeye tesisin tank ve kimyasal envanterini doğrulayarak başlar. Güncel vaziyet planında yeraltı tankının sınırını, bağlantı hatlarını ve korunması gereken erişim noktalarını işaretler; saha sorumlularından sonradan yapılan zemin ve trafik düzenlemelerini öğrenir. Onaylı proje ile mevcut araç giriş-çıkışını, istif alanlarını, koruyucu çit veya bariyerleri ve menhol çevresini karşılaştırır. Her gözlemi tarih, mahal kodu, fotoğraf ve ilgili proje paftasıyla ilişkilendirir."
+    },
+    {
+      "tip": "p",
+      "metin": "Ardından koruma detayı konusunda belge yeterliliğini sorgular: Uygulama kesiti mevcut mu? Araç geçişi başlangıçta öngörülmüş mü? Üst kaplamanın yenilenmesine ilişkin proje, teknik kontrol veya muayene kaydı var mı? Önceki denetim raporunda belirtilen bir bulgu kapatılmış mı? Belge yokluğu “tank hasarlı” sonucunu doğurmaz; ancak mekanik korumanın mevcut yükler altında doğrulandığını da göstermez. YGU bu belirsizliği açık bir bulgu ve doğrulama talebi olarak kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Taşıyıcı sistem, dolgu kalınlığı, betonarme plaka yeterliliği, yeraltı tankının sızdırmazlığı, korozyon koruması ve patlayıcı ortam incelemesi ölçüm, hesap veya özel yetki gerektiriyorsa ilgili mühendislik disiplini ya da yetkili muayene kuruluşunun raporuna başvurulur. Değerlendirme tamamlanana kadar maruz kalma riskini artıran yeni uygulamaların sınırlandırılması, işletmeci tarafından tedbir olarak ele alınmalıdır. YGU, kendi saha gözlemini yetkili teknik doğrulamayla karıştırmamalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-taslak-hukmun-ayrimi",
+      "metin": "Yürürlükteki BYKHY ile taslak hükmün ayrımı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki BYKHY Madde 120/2-a, yeraltı tankı üzerinde araç geçişi ihtimali varsa koruma gereklerini düzenler. Henüz yürürlüğe girmemiş BYKHY değişiklik taslağında karşılık Madde 122/2-a başlığında yer alır (TASLAK). İncelenen iki metindeki araç yükünden korumaya ilişkin temel yapı aynı yöndedir; fakat bu, taslak hükmün yürürlükte olduğu anlamına gelmez. Ayrıca korozyon korumasını düzenleyen yürürlükteki Madde 120/2-d ile taslak Madde 122/2-d ifadeleri aynı değildir; taslakta ilgili standarda uygun koruma vurgulanır (TASLAK)."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU düzenlemesine ilişkin henüz yayımlanmamış EK-6/B taslağında “Depolama tankları (Madde 122)” başlığı altında havalandırma, seviye göstergesi ve periyodik muayene kayıtlarına ilişkin kontroller bulunur (TASLAK). Ancak bu envanterde tank üstü trafik yükü ve koruyucu üst örtü için doğrudan bir EK-6/B kontrol bendi doğrulanmamıştır. Dolayısıyla EK-6/B’ye var olmayan bir madde atanmamalı; proje–saha karşılaştırması ayrı bir mühendislik ve işletme kontrolü olarak kayda geçirilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-saha-bulgusu",
+      "metin": "Örnek saha bulgusu"
+    },
+    {
+      "tip": "p",
+      "metin": "Varsayımsal bir tesiste yeraltı motorin tankının bulunduğu alan, depo genişletmesi sonrasında forklift dönüş noktasına katılmıştır. Eski vaziyet planı bu noktayı yalnız yaya geçişi olarak gösterirken, koruyucu plakanın araç yüküne göre kontrol edildiğini gösteren uygulama detayı bulunmamıştır. YGU bulgusu şöyle olabilir: “T-03 tank üstündeki güncel forklift güzergahı, onaylı yerleşim ve üst örtü koruma detaylarıyla eşleştirilemedi. Yeni yükleme koşullarına ilişkin yetkili teknik değerlendirme, güncel proje ve gerekli koruyucu düzenin doğrulanması istenir.” Bu kayıt, tankın sızdırdığı veya yapısal olarak başarısız olduğu yönünde kanıtsız bir tespit içermez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Yeraltı tankının üzerindeki alanın kullanımı değiştiğinde, gözle görülmeyen tankın maruz kaldığı mekanik etkiler ve müdahale koşulları da değişebilir. Sağlıklı denetim için tankın ne depoladığı, üstündeki alanın geçmiş ve bugünkü kullanımı, koruma sistemi, bağlantılar ve teknik belgeler tek dosyada birleştirilmelidir. YGU’nun katkısı, sahadaki değişikliği zamanında fark edip uygun proje ve uzman değerlendirmesiyle doğrulanana kadar takip etmektir."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı (TASLAK)"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı (TASLAK)"
+    },
+    {
+      "metin": "EK-6 Periyodik Kontrol Formu (TASLAK)"
+    }
+  ],
+  "sonNotlar": []
+}

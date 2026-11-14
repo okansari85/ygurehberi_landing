@@ -1,0 +1,150 @@
+{
+  "kod": "YGR-K167",
+  "yol": "sismik-aski-ve-destekleme-degisiklikleri-sahada-nasil-kaydedilir",
+  "baslik": "Sismik askı ve destekleme değişiklikleri sahada nasıl kaydedilir?",
+  "ozet": "Bir depoda sprinkler boru askılarının yenilenmiş olması, yangın tesisatının deprem etkilerine karşı tasarlandığı biçimde desteklendiğini tek başına kanıtlamaz. Boruyu taşımak için konulan normal askı, deprem sırasında borunun enine veya boyuna hareketini sınırlandıran sismik destekle aynı işlevi görmek zorunda değildir. Yangın Güvenlik Uzmanı (YGU), tadilatın nerede yapıldığını, hangi elemanların söküldüğünü veya değiştirildiğini ve bunların güncel uygulama projesine nasıl bağlandığını araştırır. Amaç sahada mühendislik hesabı yapmak değil, onaylı çözüm ile mevcut imalat arasındaki değişikliği kanıtlarıyla ortaya koymaktır.",
+  "etiketler": [
+    "Sprinkler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "tasiyici-aski-ile-sismik-destek-ayni-kayit-kalemi-degildir",
+      "metin": "Taşıyıcı askı ile sismik destek aynı kayıt kalemi değildir"
+    },
+    {
+      "tip": "p",
+      "metin": "Sprinkler tesisatında düşey yükleri taşıyan askılar, borunun yapı elemanlarına güvenli biçimde bağlanması için kullanılır. Sismik destekler ise tasarımın öngördüğü doğrultularda yatay hareketi, salınımı ve yer değiştirmeyi sınırlandırmak amacıyla düzenlenir. Bazı bağlantı ve donanımlar birden fazla görev üstlenebilir; ancak işlev, elemanın görünüşünden değil çizimdeki detay ve teknik hesapla ilişkisinden anlaşılır. Bir boru hattının altında yeterli sayıda askı görülmesi, enine ve boyuna sismik desteklemeyi doğrulamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha değişiklikleri genellikle boru güzergahının kaydırılması, yeni mekanik tesisat nedeniyle askıların başka noktalara taşınması, depo raflarının yükseltilmesi, titreşim önleme elemanı eklenmesi veya deprem derzi çevresinin yeniden düzenlenmesiyle ortaya çıkar. Bu işlerde bağlantının tutunduğu taşıyıcı eleman, ankraj türü, mesnetin doğrultusu ve esnek geçiş ayrıntıları değişebilir. Uygunluk değerlendirmesinde her bir değişiklik noktasının proje revizyonuna ve yetkili teknik incelemeye bağlanması gerekir."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-degisiklik-taslagi",
+      "metin": "Yürürlükteki BYKHY ile değişiklik TASLAĞI"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik (BYKHY) Madde 96/6, birinci ve ikinci derece deprem bölgelerindeki yağmurlama tesisatı için ana kolonlarda dört yollu destek, belirli boru bağlantılarında esnek bağlantı, enine ve boylamasına sabitleme askıları ve dilatasyon geçişlerinde hareketi karşılayan ayrıntılar konusunda hükümler içerir. Bu madde, mevcut uygulamada hangi düzenlemenin ve hangi proje döneminin esas alındığının araştırılmasını gerektirir; tek bir askı fotoğrafından hesap yeterliliği sonucu çıkarılamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Kullanıcı tarafından sağlanan BYKHY değişiklik TASLAĞININ Madde 98/6 hükmü, eski deprem bölgesi yaklaşımı yerine Türkiye Bina Deprem Yönetmeliği kapsamında tanımlanan belirli deprem tasarım sınıflarını esas alan ve ilgili standarda uygun tesisatın sismik korunmasını öngören farklı bir ifade taşır. Bu TASLAK metin yürürlükteki BYKHY hükmünün yerine geçmiş değildir. İşletmenin proje tarihi, geçerli diğer yapı ve deprem düzenlemeleri, onaylı hesaplar ve varsa tadilatın niteliği ayrı ayrı incelenmeden “eski hüküm kalktı” veya “taslak zorunludur” denilemez."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU periyodik kontrolüne ilişkin taslak formun mekanik bölümünde yağmurlama sistemi ve projesine uygunluk başlıkları bulunsa da sismik askıların tamamına özgü doğrulanmış ayrı bir kontrol bendi bu görev eşleştirmesinde bulunmamaktadır. Böyle bir bent varmış gibi atıf yapmak yerine, proje–saha tutarlılığına dayalı mesleki inceleme ve uzman teknik rapor gereksinimi kaydedilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "degisiklik-envanterinde-hangi-bilgiler-tutulmali",
+      "metin": "Değişiklik envanterinde hangi bilgiler tutulmalı?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir askı veya desteğin değiştiğinin söylenmesi yeterli değildir. Bulgunun aynı noktaya geri dönülerek doğrulanabilmesi için pafta numarası, aks bilgisi, kat veya mahal adı, boru hattı tanımı, etiket ve fotoğraf birlikte kullanılmalıdır. Çalışmayı yapan firma, imalatın tarihi, eski ve yeni parça bilgisi, bağlantı detayı ve varsa onaylı revizyon da aynı kayda bağlanır. Kapalı tavanın üstü gibi gözlenemeyen bölgeler ayrıca belirtilir; erişilemeyen bir eleman için “uygun” ya da “yok” kararı verilmez."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İzlenecek unsur",
+        "Projedeki veya teknik dosyadaki kanıt",
+        "Saha kaydı ve karşılaştırma"
+      ],
+      "satirlar": [
+        [
+          "Askı ve destek tipi",
+          "Boru askı planı, sismik destek detayı, uygulama revizyonu",
+          "Normal taşıyıcı askı ile hareket sınırlandırıcı desteğin ayrı etiketlenmesi"
+        ],
+        [
+          "Yön ve konum",
+          "Enine/boyuna destek şeması, hat ve aks referansı",
+          "Destek yönü, boru hattına bağlılığı, değiştirilen noktanın koordinatı"
+        ],
+        [
+          "Yapıya bağlantı",
+          "Taşıyıcı eleman detayı, ankraj çözümü, hesap ve montaj belgesi",
+          "Bağlanılan yüzey, görülebilen bağlantı/ankraj durumu, eksik belge"
+        ],
+        [
+          "Dilatasyon geçişi",
+          "Hareket kapasitesi ve esnek bağlantı detayı",
+          "Derz iki yanında boru hareketinin kısıtlanıp kısıtlanmadığına dair gözlem"
+        ],
+        [
+          "İmalat ve test izi",
+          "Firma revizyon çizimi, montaj kontrolü, test/bakım raporu",
+          "İmalat tarihi, fotoğraf numarası, rapor ve açık teknik değerlendirme"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "saha-gozetimi-hangi-sirayla-yurutulur",
+      "metin": "Saha gözetimi hangi sırayla yürütülür?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk olarak güncel yangın söndürme tesisatı projesi ile sonradan hazırlanmış uygulama veya tadilat çizimi karşılaştırılır. İki dosyada aynı boru kolunun farklı akslardan geçtiği görülürse ilgili desteklerin hangi projeye göre yapıldığı sorulur. İkinci adımda normal askılar, sismik destekler, ankrajlar ve esnek bağlantılar proje lejandına göre ayırt edilir. Sadece renk ve görüntü benzerliği üzerinden eleman türü ataması yapılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Üçüncü adım, bağlantıların sürekliliğidir. Boru üzerindeki destek, duvardaki konsol veya tavandaki ankraj kendi başına bir parça değildir; bağlı olduğu yapısal eleman ve boru güzergahı ile birlikte değerlendirilir. Destek yeni bir çelik konstrüksiyona taşınmışsa bu konstrüksiyonun ve bağlantının teknik dayanağı istenir. Dördüncü adımda deprem derzi, genleşme bağlantısı, ekipman girişi ve farklı yapı kütleleri arasındaki geçişler ayrıca ele alınır; burada rastgele rijit sabitlemenin hareket ihtiyacını engelleyip engellemediği teknik projeyle incelenir."
+    },
+    {
+      "tip": "p",
+      "metin": "Son olarak değişikliğin sprinkler hattının diğer bileşenlerini etkileyip etkilemediği kontrol edilir. Bir borunun yeniden asılması; sprinklerin konumunu, boru eğimini, hidrolik güzergahı, test ve boşaltma düzenini veya vana erişimini değiştirebilir. Bu etkiler otomatik olarak var sayılmaz; gözlenen farklar ile doğrulama gerektiren teknik hususlar birbirinden ayrılır. Bakım raporunun güncel olması da montaj değişikliğinin hesap ve projeyle doğrulandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, işletmeden sismik destekleme ve boru askı detaylarını içeren onaylı proje setini, tadilat kayıtlarını, varsa statik/bağlantı hesaplarını, montaj kontrol belgelerini ve güncel yangın tesisatı test raporlarını ister. Sahada mümkün olan noktalarda destekleri aks ve boru koduna göre fotoğraflar; sökülen, yer değiştirilen veya proje üzerinde bulunmayan destekleri ayrı bulgu olarak işler. Ankrajın iç yapısı veya kapasitesi görünür muayeneyle doğrulanamıyorsa bunu “kanıt eksikliği” şeklinde belirtir."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir destek üzerinde çatlak, gevşek bağlantı, gözle görülür deformasyon veya eksik parça bulunursa bulgu işletmeye gecikmeden bildirilir; güvenli müdahale, hesap doğrulaması, bağlantı testleri ve proje revizyonu uygun yetkinlikteki mühendis ve uygulayıcılarca yürütülür. YGU kendisini tasarım müellifi, statik hesap kontrolörü veya ankraj çekme testi yapan kişi olarak göstermez. Düzeltilen unsurun güncel projeye, yapılan işe ve son kontrol raporuna bağlanmasıyla takibi sonuçlandırır."
+    },
+    {
+      "tip": "h2",
+      "id": "kurgusal-ornek-bulgu",
+      "metin": "Kurgusal örnek bulgu"
+    },
+    {
+      "tip": "p",
+      "metin": "“D-03 deposu kuzey sprinkler hattında tadilat nedeniyle üç boru askısının yeni konuma taşındığı görülmüştür. Mevcut çizimde bu noktalar için öngörülen enine ve boyuna sismik destek ayrıntılarının uygulamadaki konumu belirlenememiş, yeni taşıyıcıya bağlantıyı gösteren revizyon detayı ve montaj kontrol kaydı sunulmamıştır. Güncel projeye göre yetkili teknik değerlendirme ve gerekli düzeltme/tespit belgeleri istenmiştir.” Bu ifade kurgusal bir rapor örneğidir; sistemin hesapla yetersiz bulunduğu veya uygun olduğunun onaylandığı anlamına gelmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Sismik desteklemede esas soru “askı takılmış mı?” değil, “mevcut destek düzeni onaylı tasarımın işleviyle eşleşiyor mu?” sorusudur. YGU; değişikliğin yerini, bağlantı biçimini, proje karşılığını, gözlenemeyen alanları ve eksik teknik kanıtı somut olarak kaydeder. Nihai mühendislik yeterliliği yetkili hesap ve uygulama belgeleriyle desteklenmediği sürece gözlemsel bir inceleme uygunluk onayına dönüştürülmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

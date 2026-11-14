@@ -1,0 +1,126 @@
+{
+  "kod": "YGR-K116",
+  "yol": "atrium-boslugu-kompartiman-degerlendirmesini-nasil-degistirir",
+  "baslik": "Atrium boşluğu kompartıman değerlendirmesini nasıl değiştirir?",
+  "ozet": "Atrium, yapının iki veya daha fazla katına açılan, üstü kapalı geniş ve yüksek hacimdir. Bu tanım sıradan merdiven yuvası, asansör kuyusu veya tesisat şaftıyla karıştırılmamalıdır. Atriumun oluşturduğu düşey açıklık, kat döşemelerinin normalde sağladığı fiziksel ayrımı kesintiye uğratır. Bu nedenle yalnızca boşluğun boyutuna değil, boşluğa açılan mahallerin kullanımına, katlar arasındaki bağlantıya ve projede öngörülen koruma bütününe bakılır.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bir-bosluk-neden-birden-fazla-kati-ilgilendirir",
+      "metin": "Bir boşluk neden birden fazla katı ilgilendirir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir alışveriş yapısında iki katın ortak bir atriuma açıldığını düşünelim. Alt kattaki mağaza bölmeleri değiştirildiğinde veya üst katta atriuma açık yeni bir kullanım oluşturulduğunda, yalnızca mimari plan değişmez; yangın ve dumanın katlar arasındaki olası hareket yolu da değişebilir. Bu örnek varsayımsaldır; belirli bir binanın uygunluk kararı değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "kompartiman-siniri-planda-nereden-geciyor",
+      "metin": "Kompartıman sınırı planda nereden geçiyor?"
+    },
+    {
+      "tip": "p",
+      "metin": "İnceleme, her katın onaylı mimari planında yangın kompartıman sınırlarının işaretlenmesiyle başlar. Atrium çevresindeki döşeme kenarları, kapalı mahallerin duvarları, kapı ve cam açıklıkları, tesisat geçişleri ile duman kontrolüne ait elemanlar aynı plan üzerinde okunmalıdır. Katların atriuma açılması, tüm yapının kendiliğinden tek kompartıman sayıldığı anlamına gelmez; hangi alanların hangi koruma düzeniyle ayrıldığı proje belgeleriyle gösterilmelidir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın dayanımı olan bir duvarın yalnızca düz yüzeyi yeterli değildir. Birleşme yerindeki açıklık, sonradan açılmış tesisat deliği veya onaysız kapı, projede tanımlanan ayırma işlevini zayıflatabilir. Buna karşılık atrium kenarındaki duman perdesi, yangına dayanıklı kompartıman duvarıyla aynı işlevde kabul edilmemelidir. Her elemanın görevi ve belgelendirilmiş performansı ayrı okunur."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-duzenleme-ve-taslak-arasindaki-fark",
+      "metin": "Yürürlükteki düzenleme ve taslak arasındaki fark"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, atriumlu bölümleri düşük ve orta tehlikeli kullanımlarla sınırlar; atrium alanı ve küçük boşlukların çevresindeki duman perdesi ile yağmurlama başlığı yerleşimi için özel koşullar öngörür. Atriumlarda doğal veya mekanik duman kontrolü de aranır. Bu koşulların değerlendirilmesinde yürürlükteki metnin ilgili hükmü ve projenin onay tarihi birlikte ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Yeni BYKHY taslağı ise atriumun yatay boyutuna ilişkin ayrı bir alt sınır önerir; atriumlu binanın tamamında otomatik yağmurlama, atrium çevresinde duman perdesi veya duman kesici ve otomatik algılama-uyarı sistemi şartlarını birlikte düzenler. Bunlar henüz taslak koşullardır; yürürlükteki metindeki alan ölçütü yerine doğrudan uygulanamaz. Proje değerlendirmesinde taslak hükümler ancak önerilen değişiklik olarak ayrıca belirtilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ve-saha-karsilastirmasinda-kritik-sorular",
+      "metin": "Proje ve saha karşılaştırmasında kritik sorular"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme konusu",
+        "Projede aranacak kanıt",
+        "Sahada karşılaştırılacak durum"
+      ],
+      "satirlar": [
+        [
+          "Atrium sınırı",
+          "Kat planı, kesit ve boşluk geometrisi",
+          "Boşluğun katlarla fiili bağlantısı ve sonradan yapılan değişiklikler"
+        ],
+        [
+          "Kullanım ve tehlike",
+          "Mahal listesi, kullanım amacı ve sınıflandırma",
+          "Mağaza, depo, etkinlik ve geçici kullanım değişiklikleri"
+        ],
+        [
+          "Kompartıman sürekliliği",
+          "Yangın bölmesi planı ve birleşim detayları",
+          "Yeni açıklıklar, kapılar, şaftlar ve kapatılmış geçişler"
+        ],
+        [
+          "Duman yönetimi",
+          "Duman kontrol projesi, sistem raporları",
+          "Perde/kesici konumu, fiziksel engeller ve bakım kayıtları"
+        ],
+        [
+          "Algılama ve söndürme",
+          "Onaylı sistem projeleri ve test belgeleri",
+          "Koruma kapsamı, erişilebilirlik ve değişiklik kayıtları"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari ve yangın güvenliği projelerini, yapı izin belgelerini, mahal kullanım kayıtlarını ve mevcut işletme düzenini karşılaştırarak başlar. Atriuma açılan her kat için projede gösterilen sınırı ve gerçek açıklıkları işaretler; özellikle sonradan kaldırılan bölmeler, açılan geçişler, atrium kenarına yerleştirilen sabit veya hareketli elemanlar ile değişen kullanım koşullarını kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Sistemlerin varlığı tek başına yeterli kanıt değildir. YGU, duman kontrolü, algılama ve yağmurlama sistemlerine ilişkin proje, devreye alma, bakım ve test raporlarının ilgili hacmi kapsayıp kapsamadığını belge üzerinden inceler; sahadaki görülebilir durumla çelişkileri fotoğraf, mahal ve plan referansı kullanarak raporlar. Tasarım hesabı, mühendislik ölçümü, sistem performans testi ve proje onayı gerektiren konularda ilgili yetkili disiplinin değerlendirmesini ister; bu işlemleri kendi gözlemsel kontrolüyle yapılmış saymaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Gerekçeli rapor, yalnızca “atrium uygundur” veya “uygun değildir” sonucuna indirgenmez. Hangi onaylı belgeyle hangi saha koşulunun uyuşmadığı, hangi koruma işlevinin etkilenebileceği, hangi belgenin eksik olduğu ve hangi uzmanlık incelemesinin gerektiği ayrı ayrı yazılır."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Atriumlu yapıda kompartıman değerlendirmesinin esası, katlar arasındaki açıklığın proje ile öngörülen yangın ve duman kontrol düzenini değiştirip değiştirmediğini kanıtlarla ortaya koymaktır. Boşluk geometrisi, kullanım biçimi, kompartıman sürekliliği ve sistem belgeleri birlikte değerlendirilmeden yalnızca bir kat planından kesin uygunluk kararı verilmez."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

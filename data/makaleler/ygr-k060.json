@@ -1,0 +1,144 @@
+{
+  "kod": "YGR-K060",
+  "yol": "basinclandirma-sistemi-hangi-katlara-hizmet-ediyor-proje-ve-sahada-nasil-izlenir",
+  "baslik": "Basınçlandırma sistemi hangi katlara hizmet ediyor, proje ve sahada nasıl izlenir?",
+  "ozet": "Kaçış merdiveninin basınçlandırılması, yalnızca bir fanın devreye girmesi değildir. Sistem; korunan merdiven hacmi, bu hacme bağlanan kat kapıları, hava kanalları, üfleme noktaları, dış hava emişi ve yangın alarmı ile birlikte çalışır. Bu nedenle ilk soru “fan çalışıyor mu?” değil, “hangi merdiven ve kat bağlantıları, hangi proje senaryosuna göre korunuyor?” olmalıdır.",
+  "etiketler": [
+    "Duman Kontrolü"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "p",
+      "metin": "Özellikle tadilat geçiren binalarda kat adları değişebilir, asma kat eklenebilir, kapı yerleri taşınabilir veya menfezler asma tavan içinde kalabilir. Fanın çalışması bu değişikliklerin sistem performansını etkilemediğini kanıtlamaz. İnceleme, onaylı projeden başlayıp her katta görülebilen uygulamaya ve yetkili test kayıtlarına kadar izlenebilir olmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "hizmet-alanini-dogru-tanimlamak",
+      "metin": "Hizmet alanını doğru tanımlamak"
+    },
+    {
+      "tip": "p",
+      "metin": "Önce mimari kesitte merdivenin başlangıç ve bitiş kotları, bodrum ve üst kat bağlantıları, varsa zemin seviyesindeki yangına dayanıklı ayrım ve bağımsız çıkışlar belirlenir. Aynı binada birden fazla kaçış merdiveni bulunuyorsa her merdivenin basınçlandırma sistemi ayrı tanımlanır. Merdiven kovasının yüksekliği ile yapı yüksekliği aynı veri değildir; bunların birbirinin yerine kullanılması yanlış gereklilik kararı doğurabilir."
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yeni yapılardaki basınçlandırma gerekliliğini kullanım türü, merdiven kovası yüksekliği, bodrum kat sayısı ve acil durum asansörü gibi koşullarla ilişkilendirir. Konut dışındaki binalarda merdiven kovası yüksekliğinin 30,50 m’yi aşması; dörtten fazla bodrum kata hizmet eden merdivenler ve yapı yüksekliği 51,50 m’yi aşan konutlar, ilgili hükümlerde ayrı ayrı ele alınır. Mevcut yapılar için ise özel hükümler ayrıca değerlendirilmelidir. Bu eşikler tek başına her katın üfleme yerini belirlemez."
+    },
+    {
+      "tip": "h2",
+      "id": "ufleme-noktalari-neden-kat-kat-izlenir",
+      "metin": "Üfleme noktaları neden kat kat izlenir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Mekanik proje üzerinde fan, şaft, kanal kolu ve üfleme ağızları işaretlenir; ardından aynı noktalar sahada kat koduyla eşleştirilir. Her katta mutlaka ayrı bir menfez bulunması gerektiği varsayılmamalıdır. Yürürlükteki düzenleme, belirli merdiven yüksekliklerinde birden fazla noktadan üfleme ve yapı yüksekliği 51,50 m’yi aşan binalarda her katta veya en çok üç katta bir üfleme gibi koşullar öngörür. Bu koşullar, ilgili bina ve merdiven verisiyle birlikte okunur."
+    },
+    {
+      "tip": "p",
+      "metin": "Bir üfleme ağzının kapatılması, yerinin değiştirilmesi veya önüne sabit bir tesisat konulması yalnız o kattaki görsel düzeni değiştirmez; hava dağılımı ve basınç dengesi bakımından yeniden teknik değerlendirme gerektirebilir. Ancak bir menfezin bulunmaması tek başına uygunsuzluk kararı değildir: önce o noktada projeye ve uygulanabilir hükme göre üfleme öngörülüp öngörülmediği belirlenmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1250,
+      "yukseklik": 492,
+      "aciklama": "Şekil 60. Katlara dağıtılmış üfleme noktalarının temsili gösterimi. Gerçek yerleşim, onaylı mekanik projeden okunmalıdır.",
+      "src": "/img/makale/ygr-k060-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "proje-saha-eslestirmesi-icin-kontrol-tablosu",
+      "metin": "Proje–saha eşleştirmesi için kontrol tablosu"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Karşılaştırılacak kayıt",
+        "Sahada aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Merdiven ve hizmet ettiği katlar",
+          "Mimari kesit, kat listesi, mekanik proje",
+          "Merdiven kimliği, kotlar, kapı ve kat numaraları"
+        ],
+        [
+          "Fan, şaft ve üfleme ağızları",
+          "Hava dağıtım paftası, revizyon çizimleri",
+          "Menfez yeri, açıklık, kapatılma veya müdahale izi"
+        ],
+        [
+          "Dış hava emişi ve kumanda",
+          "Mekanik yerleşim, yangın alarm senaryosu",
+          "Emiş konumu, dedektör, manuel kumanda ve etiket"
+        ],
+        [
+          "Kapılar ve basınç dengesi",
+          "Kapı listesi, test planı ve tutanakları",
+          "Kapı kapatıcıları, sızdırmazlık, erişim engelleri"
+        ],
+        [
+          "İşlev ve performans",
+          "Devreye alma ve yetkili ölçüm raporları",
+          "Test tarihi, kapı senaryosu, ölçüm noktası ve sonuç"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "olcum-sonucu-hangi-kosula-aittir",
+      "metin": "Ölçüm sonucu hangi koşula aittir?"
+    },
+    {
+      "tip": "p",
+      "metin": "Kapılar kapalıyken ölçülen basınç farkı ile açık kapı durumunda gereken hava akışı aynı deney değildir. Yürürlükteki hükümlerde bütün kapılar kapalıyken en az 50 Pa, açık kapı durumu için en az 15 Pa basınç farkı; ayrıca belirli açık kapı düzeninde hava hızı ve kapı açma kuvveti koşulları bulunur. Her sayısal sonucun hangi kapıların açık olduğu, ölçümün nerede yapıldığı ve hangi test yönteminin kullanıldığı belirtilmeden “sistem uygun” sonucuna dönüştürülmesi doğru değildir."
+    },
+    {
+      "tip": "p",
+      "metin": "Katlardaki basınç dağılımı, kapı kapatıcıları ve aşırı basıncı sınırlayan düzenekler birlikte değerlendirilir. Kapı açılamıyorsa, yüksek basınç tek başına güvenli bir sonuç değildir. Tersine, yalnız fan çalışma sinyalinin alınması da gerekli basınç ve akış koşullarının sağlandığını göstermez. Testin tasarlanması, kalibre cihazlarla ölçüm yapılması ve sonuçların teknik kabulü yetkili uzmanlık alanlarının sorumluluğundadır."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye onaylı mimari ve mekanik projeyi, varsa tadilat ve revizyon paftalarını, yapı kullanma izin belgelerini, yangın alarmı senaryo matrisini, devreye alma raporlarını ve son bakım/test kayıtlarını isteyerek başlar. Belgeler farklı tarihlerden geliyorsa hangi revizyonun sahadaki uygulamayı temsil ettiği belirlenmeden karşılaştırma yapılmaz."
+    },
+    {
+      "tip": "p",
+      "metin": "Saha gezisinde merdiven ve kat kodlarını projedeki adlarla eşleştirir; menfezlerin kapatılması, şaft önüne ekipman konulması, yeni kapı açılması veya kapı kapatıcısının değiştirilmesi gibi gözlenebilir farklılıkları konum ve fotoğrafla kaydeder. İşletme temsilcisinden değişikliğin ne zaman ve hangi iş kapsamında yapıldığını öğrenir. Projede gösterilen fakat sahada görülemeyen bir bağlantı için doğrudan teknik arıza hükmü vermek yerine erişilemeyen noktayı ve eksik belgeyi açıkça yazar."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin bir katın üfleme ağzı asma tavan revizyonuyla kapatılmışsa bulgu, “fan çalışmıyor” biçiminde değil; ilgili kat ve menfez kimliği, proje referansı, görülen müdahale ve performans doğrulaması ihtiyacıyla yazılır. Yetkili mekanik tesisat mühendisinin proje değerlendirmesi ve gerekli performans testleri istenir; ölçüm yapılmamışsa raporda basınç veya debi değeri varsayılmaz. YGU gözlemsel tespit, belge karşılaştırması ve gerekçeli raporlama yapar; tasarım hesabı, ölçüm, sistem ayarı veya idari onay yetkisini kendiliğinden üstlenmez."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Basınçlandırmanın hizmet alanı, fan etiketinden değil merdiven–kat–üfleme eşleştirmesinden anlaşılır. Güvenilir inceleme, yürürlükteki gereklilik ile onaylı projeyi, mevcut saha düzenini ve yetkili test kayıtlarını aynı kat kimliği üzerinden bir araya getirir. Değişiklik varsa önce kapsamı belgelenir, ardından gerekli teknik doğrulama yaptırılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

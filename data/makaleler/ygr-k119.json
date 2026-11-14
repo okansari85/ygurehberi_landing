@@ -1,0 +1,105 @@
+{
+  "kod": "YGR-K119",
+  "yol": "doseme-birlesimindeki-bosluk-yangin-ayirmayi-nasil-etkiler",
+  "baslik": "Döşeme birleşimindeki boşluk yangın ayırmayı nasıl etkiler?",
+  "ozet": "Bir döşemenin yangına dayanıklı olarak tasarlanması, yalnızca betonarme kesitin veya döşeme sisteminin dayanımına bağlı değildir. Döşemenin cephe, duvar ve tesisatlarla birleştiği noktalarda yangın ve dumanın geçebileceği açıklıklar varsa katlar arasında kurulmak istenen ayırma işlevi zayıflar. Özellikle giydirme cephe arkasında, döşeme kenarı ile cephe elemanı arasında kalan aralık, bitmiş iç mekanda kolayca gözden kaçabilir.",
+  "etiketler": [
+    "Yangın Bölmeleri"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "bosluk-neden-kritik-bir-ayrintidir",
+      "metin": "Boşluk neden kritik bir ayrıntıdır?"
+    },
+    {
+      "tip": "p",
+      "metin": "Burada iki durum ayrılmalıdır: döşemenin kendi yangın dayanımı ve döşeme kenarındaki birleşim detayının bu ayırmayı sürdürmesi. Bir malzemenin tek başına yanmaz olması, birleşimin gerekli süre boyunca yangın ve duman geçişini engellediğini kanıtlamaz. Kullanılan dolgu, sabitleme, derz hareketi ve uygulama koşulları birlikte değerlendirilir."
+    },
+    {
+      "tip": "h2",
+      "id": "proje-ile-sahada-hangi-ayrinti-karsilastirilir",
+      "metin": "Proje ile sahada hangi ayrıntı karşılaştırılır?"
+    },
+    {
+      "tip": "p",
+      "metin": "İlk belge, onaylı mimari proje ve varsa yangın kompartımanı planıdır. Döşeme–cephe birleşimi için hazırlanmış kesit ve uygulama detayı, ürünün sınıflandırma veya deney belgeleriyle birlikte okunur. Saha incelemesinde asma tavanın üstünde, cephe kaplamasının arkasında veya tesisat geçişi çevresinde görülebilen süreksizlikler, fotoğraf ve konum bilgisiyle kaydedilir. Gizli kalan detayın yalnızca gözle görülmediği için uygun kabul edilmesi doğru değildir; uygulama kayıtları ve gerektiğinde yetkili teknik inceleme istenir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İnceleme noktası",
+        "Aranacak kanıt",
+        "Olası saha bulgusu"
+      ],
+      "satirlar": [
+        [
+          "Döşeme–cephe kesişimi",
+          "Onaylı kesit ve birleşim detayı",
+          "Kesintili veya açık derz"
+        ],
+        [
+          "Yangın durdurucu uygulama",
+          "Sistem belgesi ve montaj detayı",
+          "Belgesiz dolgu veya eksik uygulama"
+        ],
+        [
+          "Tesisat geçişleri",
+          "Geçiş yalıtımı detayı ve uygulama kaydı",
+          "Kablo veya boru çevresinde açıklık"
+        ],
+        [
+          "Sonradan tadilat",
+          "Revize proje ve iş bitim kaydı",
+          "Yeni açılan delik veya sökülmüş yalıtım"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "mevzuatin-teknik-karsiligi",
+      "metin": "Mevzuatın teknik karşılığı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik, yangın kompartımanını çevreleyen elemanların dayanımının birleşim noktalarında da sürekli olmasını ve kompartımanlar arasında dayanıksız açıklık bırakılmamasını öngörür (Madde 24). Döşemelerin yangın ayırıcı niteliği ve dayanım süreleri Madde 26 ile ilgili tablolara bağlanır. Tesisatın döşemeden geçmesi halinde açıklıkların, döşemenin yangın dayanım süresiyle uyumlu şekilde yangın ve duman geçişine karşı yalıtılması gerekir. Cephe–döşeme kesişimi ayrıca Madde 27 kapsamında ele alınır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bu hükümler, her döşeme kenarında tek tip bir ürünün zorunlu olduğu anlamına gelmez. Uygun çözüm; projedeki sistem, gereken yangın dayanımı ve belgelenmiş uygulama detayına göre belirlenir. Taslak yönetmelikteki olası değişiklikler, özgün metin üzerinden doğrulanmadan yürürlükteki yükümlülük gibi değerlendirilmemelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), incelemeye yapı ruhsatı ve kullanım izniyle ilişkili onaylı proje setini, kompartıman sınırlarını ve mevcut kullanım koşullarını belirleyerek başlar. Kat planında yangın ayırıcı olarak öngörülen döşeme sınırını sahadaki cephe birleşimleriyle karşılaştırır. İncelenen noktaları kat, aks ve mahal bilgisiyle işaretler; görülebilen boşlukları fotoğraflar; ilgili ürün ve uygulama belgelerinin bulunup bulunmadığını kaydeder."
+    },
+    {
+      "tip": "p",
+      "metin": "Örneğin cephe arkasında sürekliliği kesilen bir dolgu görülürse yalnızca “yalıtım eksik” demek yerine, gözlenen konumu, onaylı detayla farkı, olası katlar arası yayılım yolunu ve istenen teknik kanıtı rapora yazar. Belge sunulamaması ile uygulamanın kesin olarak uygunsuz olduğunun teknik olarak kanıtlanması birbirine karıştırılmaz. Yangın dayanımı deneyi yapmak, yeni bir birleşim sistemi tasarlamak, statik uygunluk vermek veya yetkili mercinin onayı yerine geçmek YGU saha gözleminin kapsamı değildir; gerektiğinde ilgili proje müellifi ve yetkili teknik uzman değerlendirmesi istenir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Döşeme kenarındaki açıklık küçük görünse bile yangın ayırma sürekliliğinin kritik halkası olabilir. Sağlıklı karar, boşluğun varlığını kaydetmekle sınırlı kalmaz: onaylı birleşim detayı, uygulanan sistemin belgesi, sahadaki gerçek durum ve gerektiğinde uzman doğrulaması birlikte ele alınır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    }
+  ],
+  "sonNotlar": []
+}

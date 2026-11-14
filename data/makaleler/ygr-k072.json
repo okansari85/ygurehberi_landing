@@ -1,0 +1,185 @@
+{
+  "kod": "YGR-K072",
+  "yol": "lpg-tup-deposunda-bina-disi-mesafe-nasil-incelenir",
+  "baslik": "LPG tüp deposunda bina dışı mesafe nasıl incelenir?",
+  "ozet": "Bina dışına alınmış bir LPG tüp kafesi, yalnız açık havada bulunduğu için uygun kabul edilemez. Önce depolamanın türü ve toplam LPG miktarı belirlenir; sonra yürürlükteki mesafe tablosunun doğru satırı, gerçek saha sınırlarıyla karşılaştırılır.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "mesafe-incelemesinin-baslangic-noktasi-depolama-turu",
+      "metin": "Mesafe incelemesinin başlangıç noktası: depolama türü"
+    },
+    {
+      "tip": "p",
+      "metin": "Sahadaki tüplerin kullanım için ayrılmış bir düzenekte mi, perakende satış noktasında mı, bina dışındaki özel depoda mı yoksa özel olarak inşa edilmiş bir dağıtım deposunda mı bulunduğu açıklığa kavuşturulmalıdır. Bu ayrım yapılmadan yalnız bir mesafe rakamı seçmek, farklı düzenlemeleri aynı duruma uygulama riskini doğurur. Dökme LPG tanklarının mesafe rejimi de tüp depolamasından ayrıdır."
+    },
+    {
+      "tip": "p",
+      "metin": "Envanterde dolu ve boş tüpler, tüp başına LPG miktarı ve aynı depolama alanındaki azami toplam miktar kayıt altına alınır. Boş tüplerin bina içinde depolanması durumunda dolu tüp gibi değerlendirilmesi gerektiği de miktar hesabında göz ardı edilmemelidir. Mevcut işletme izni ve onaylı vaziyet planı, bu fiili kullanımın hangi düzenleme için değerlendirileceğini göstermelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "bina-disi-tup-depolari-icin-asgari-uzakliklar",
+      "metin": "Bina dışı tüp depoları için asgari uzaklıklar"
+    },
+    {
+      "tip": "p",
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Madde 106, bina dışında tüplere doldurulmuş LPG depolanan mahal için Ek-9 uzaklıklarına atıf yapar. Aşağıdaki değerler, yürürlükteki tablo ve Bakanlık Kılavuzu ile karşılaştırılmıştır. Uzaklıkların iki farklı hedef grubuna göre ayrı sütunlarda verilmesi, aynı depo için iki ayrı inceleme yapılmasını gerektirir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Toplam LPG miktarı (kg)",
+        "Bina, bina grupları ve komşu arsa sınırı (m)",
+        "Cadde, kaldırım ve kamuya açık diğer yerler (m)"
+      ],
+      "satirlar": [
+        [
+          "0–1.250",
+          "0",
+          "3"
+        ],
+        [
+          "1.251–2.700",
+          "3",
+          "6"
+        ],
+        [
+          "2.701–4.500",
+          "6",
+          "12"
+        ],
+        [
+          "4.501 ve üzeri",
+          "8",
+          "15"
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Tablodaki “0 m”, ilgili miktar aralığının yalnız ilk sütunundaki sayısal değerdir; diğer sütundaki uzaklığı veya depolamaya ilişkin başka güvenlik gereklerini ortadan kaldırmaz. Özel olarak inşa edilmiş LPG dağıtım depoları için ayrıca Madde 106/13 kapsamında kamuya açık bina arsa sınırlarına 25 m, diğer bina arsa sınırlarına 15 m uzaklık ve depolama miktarı sınırı öngörülür. Bu özel düzenleme, sıradan açık alan tüp kafesine kendiliğinden uygulanmaz; tesisin niteliği belgelerle belirlenir. İncelenen BYKHY taslağında aynı konu Madde 108 kapsamında ele alınır ve dış mesafe tablosundaki değerler korunur; taslak, yürürlükteki madde yerine kullanılmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "ornek-uygulama-tup-kafesi-baska-noktaya-tasindi",
+      "metin": "Örnek uygulama: tüp kafesi başka noktaya taşındı"
+    },
+    {
+      "tip": "p",
+      "metin": "İşletme, mevcut açık alan tüp kafesini bina cephesine daha yakın bir noktaya taşımayı planlıyor. Tüp sayısı aynı kalsa bile yeni konumun bina, komşu arsa sınırı ve kamuya açık geçişlerle ilişkisi değişebilir. Eski konuma ait bir uygunluk değerlendirmesi, yeni konum için yeterli kanıt değildir. Yeni güvenlik kulübesi veya cephede açılan kapı gibi değişiklikler de vaziyet planına işlenmelidir."
+    },
+    {
+      "tip": "gorsel",
+      "genislik": 1671,
+      "yukseklik": 511,
+      "aciklama": "Şekil 72. Eski taslaktan korunan temsili yerleşim çizimi. Ok, yalnız incelenecek saha ilişkisini gösterir; mevzuatta tanımlı ölçüm başlangıcı veya uygunluk kararı değildir.",
+      "src": "/img/makale/ygr-k072-1.png"
+    },
+    {
+      "tip": "h2",
+      "id": "saha-ve-belge-iliskisinin-ilk-kontrolu",
+      "metin": "Saha ve belge ilişkisinin ilk kontrolü"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Kayıt / inceleme",
+        "Mevcut bilgi",
+        "Karar için eksik kanıt"
+      ],
+      "satirlar": [
+        [
+          "Saha krokisi",
+          "Kafes alanı gösterilmiş; referans mesafeler belirtilmemiş.",
+          "Depolama kapasitesi, komşu yapılar, arsa sınırı ve kamuya açık alanlarla ölçülü güncel vaziyet planı."
+        ]
+      ]
+    },
+    {
+      "tip": "p",
+      "metin": "Ölçü çizgisinin depo merkezinden mi, kafesin dış sınırından mı veya güvenlik sahasının kenarından mı başlatıldığı belirsizse sonuç denetlenebilir değildir. Uygulanan tablo ve ölçüm yöntemiyle uyumlu referanslar teknik sorumlu tarafından netleştirilmeli; YGU bu yöntemin belgelenmesini ve proje ile saha arasındaki tutarlılığını sorgulamalıdır. Ölçü krokisinde başlangıç ve bitiş noktaları adlandırılmalı, ölçüm tarihi ve yöntemi belirtilmelidir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), öncelikle yapının ruhsat ve yapı kullanma izni bilgilerini, onaylı vaziyet planını, varsa LPG depolama izinlerini, güncel tehlikeli madde envanterini ve önceki inceleme kayıtlarını karşılaştırır. Gerçek tüp miktarı, depolama alanının fiziksel sınırları, çevredeki kapı ve pencereler, komşu parsel, yaya yolu ve sonradan eklenen yapılar sahada gözlemlenir. Plan üzerinde bulunmayan bir değişiklik varsa bunun mesafe kararına etkisi açıkça kaydedilir."
+    },
+    {
+      "tip": "p",
+      "metin": "YGU, depolama türü ve miktar aralığı kesinleştirilmeden “uygun” sonucu üretmez. Yetkili teknik kişi tarafından düzenlenmiş ölçülü kroki, gerekli proje revizyonu veya uzman değerlendirmesi yoksa eksik kanıtı belirtir; gözlemsel bulguyu fotoğraf, yer ve tarih bilgisiyle raporlar. Bu inceleme, gaz tesisatı tasarımı, patlayıcı ortam sınıflandırması, yetkili ölçüm, mühendislik hesapları ya da idari proje/ruhsat onayı yerine geçmez. Taslakta öngörülen YGU-K düzeyindeki tehlikeli madde tespiti ve sınıflandırması, bugün yürürlükte bir yetki gibi sunulmadan ilgili uzmanlık sınırları içinde ele alınmalıdır."
+    },
+    {
+      "tip": "h2",
+      "id": "karara-esas-alinacak-kanit-zinciri",
+      "metin": "Karara esas alınacak kanıt zinciri"
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "İncelenecek kayıt",
+        "Özellikle aranacak bilgi",
+        "Karardaki işlevi"
+      ],
+      "satirlar": [
+        [
+          "Depolama envanteri",
+          "Tüp türleri, dolu/boş durumu, azami toplam LPG miktarı",
+          "Doğru miktar aralığını belirlemek"
+        ],
+        [
+          "Güncel vaziyet planı",
+          "Kafes, bina, kapılar, pencereler, parsel sınırı, yaya ve araç alanları",
+          "Mesafe hedeflerini tanımlamak"
+        ],
+        [
+          "Ölçülü saha krokisi",
+          "Ölçüm başlangıcı ve bitişi, mesafeler, tarih ve yöntem",
+          "Plan-saha uyuşmasını sınamak"
+        ],
+        [
+          "Mevzuat karşılaştırması",
+          "Uygulanan tablo satırı, iki hedef sütunu ve özel depo durumu",
+          "Gerekçeli sonuç oluşturmak"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "gerekceli-bulgu-ve-sonuc",
+      "metin": "Gerekçeli bulgu ve sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Örnek kayıtta tüp kafesinin yeni yeri gösterilmiş, ancak azami LPG miktarı ile mesafelerin hangi sınırlar arasında ölçüldüğü belgelenmemişse doğru sonuç “mesafe uygundur” değil, “miktar ve ölçüm referansı doğrulanamadığından uygunluk değerlendirmesi tamamlanamadı” olur. İşletmeden güncel envanter, ölçülü plan ve gerekli teknik değerlendirme istenir; tamamlanan belgelerle saha yeniden karşılaştırılır."
+    },
+    {
+      "tip": "p",
+      "metin": "Bina dışındaki LPG tüp deposu için güvenli yerleşim, tek bir cetvel ölçüsüne indirgenemez. Depolamanın hukuki ve teknik türü, toplam LPG miktarı, iki ayrı mesafe hedefi ve fiili çevre koşulları birlikte değerlendirilmelidir. Kayıtlar bu ilişkiyi göstermiyorsa gerekçeli eksiklik tespiti yapılır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}

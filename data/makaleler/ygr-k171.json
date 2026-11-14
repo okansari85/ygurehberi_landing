@@ -1,0 +1,152 @@
+{
+  "kod": "YGR-K171",
+  "yol": "tehlikeli-madde-sinifi-depolama-hacmiyle-nasil-iliskilendirilir",
+  "baslik": "Tehlikeli madde sınıfı depolama hacmiyle nasıl ilişkilendirilir?",
+  "ozet": "Bir depoya yeni kimyasal ürünlerin gelmesi, yalnız stok sayısının artması değildir. Aynı raflarda daha önce bulunmayan oksitleyici, yanıcı sıvı veya basınçlı gazlar yer alıyorsa yangının gelişimi, yayılması ve müdahale koşulları değişebilir. Yangın Güvenlik Uzmanı (YGU) için ilk iş, ürün adını bir tehlike sınıfına gelişigüzel çevirmek değil; güncel güvenlik bilgi formlarındaki tehlikeleri, gerçek stok miktarlarını ve hangi hacimde bulundurulduklarını eşleştirmektir. Böylece ilgili yangın tedbirlerinin hangi yapısal ve işletmesel verilere dayandığı izlenebilir.",
+  "etiketler": [
+    "Tehlikeli Maddeler"
+  ],
+  "yayin": "2026-11-14",
+  "bloklar": [
+    {
+      "tip": "h2",
+      "id": "sinif-miktar-ve-depolama-hacmi-uc-ayri-veri",
+      "metin": "Sınıf, miktar ve depolama hacmi üç ayrı veri"
+    },
+    {
+      "tip": "p",
+      "metin": "Tehlikeli maddenin sınıfı, maddenin veya karışımın tehlike niteliğini anlatır. Miktar, sahada bulunan gerçek kütleyi, sıvı hacmini, tüp sayısını ya da uygun başka bir stok birimini ifade eder. Depolama hacmi ise maddenin bulunduğu oda, tank, bölüm veya ayrı yangın kompartımanının fiziksel sınırlarıyla ilgilidir. Bu üç unsur birbirinin yerine kullanılamaz. Örneğin 300 litre ürünün bulunması, deponun 300 litre büyüklüğünde olduğu anlamına gelmediği gibi tek başına yangına dayanım veya havalandırma yeterliliğini de kanıtlamaz."
+    },
+    {
+      "tip": "p",
+      "metin": "İlk kayıt, ürünün ticari adıyla sınırlı kalmamalıdır. Ürün tanımı, güncel güvenlik bilgi formu (GBF/SDS), tehlike sınıflandırması, ambalaj tipi ve kapasitesi, fiili ve izin verilen azami stok, depolama adresi, birlikte tutulduğu diğer maddeler ve depoya giriş-çıkış yöntemi birbiriyle bağlanır. Farklı ambalajlar aynı ürünün toplam miktarını değiştirebilir; aynı hacmi paylaşan farklı ürünler ise ayrı saklama veya uyumluluk değerlendirmesi gerektirebilir. Maddenin türü ve stok miktarı bilinse bile tesisin gerçek depo sınırları görülmeden nihai sonuç kurulmaz."
+    },
+    {
+      "tip": "h2",
+      "id": "yururlukteki-bykhy-ile-degisiklik-taslaginin-farki",
+      "metin": "Yürürlükteki BYKHY ile değişiklik TASLAĞININ farkı"
+    },
+    {
+      "tip": "p",
+      "metin": "Yürürlükteki Binaların Yangından Korunması Hakkında Yönetmelik Madde 102, tehlikeli maddeleri patlayıcılar, parlayıcı ve patlayıcı gazlar, yanıcı sıvılar, yanıcı katılar, oksitleyiciler, zehirli ve iğrendirici maddeler, radyoaktif maddeler, dağlayıcı maddeler ve diğer tehlikeli maddeler olarak gruplar. Madde 103 ise depolama ve üretim hacimlerinin genel özelliklerini düzenler; özellikle tehlikeli maddenin miktarı ve tehlike sınıfına göre çevre güvenliğinin sağlanmasını, binaya ulaşım yollarının açık tutulmasını ve maddenin niteliğine bağlı bazı yapı ve tesisat önlemlerini içerir. Yönetmeliğin düzenlemediği konularda ilgili diğer mevzuat ve standartların uygulanacağı Madde 101’de belirtilir."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen BYKHY değişiklik TASLAĞINDA sınıflar Madde 104’te, depolama hacimlerinin genel özellikleri ise Madde 105’te yer alır (TASLAK). Sınıflandırma başlıkları benzer olmakla birlikte depolama ve üretime ilişkin bazı hükümler değişmektedir. Örneğin parlayıcı ve patlayıcı maddelerin proses ihtiyacı ile depolama koşullarına ilişkin yeni ifadeler taslakta bulunur (TASLAK). Bu nedenle numaraların farklı olmasını yalnız biçimsel bir değişiklik saymak ve taslağın yeni şartlarını bugün yürürlükteymiş gibi uygulamak doğru değildir. Tesisin ruhsatı, mevcut bina durumu ve uygulanabilir hükümler ayrıca doğrulanır."
+    },
+    {
+      "tip": "p",
+      "metin": "GBF’deki kimyasal tehlike kategorileri ile BYKHY’nin yangın güvenliği bakımından kullandığı genel madde grupları arasında bire bir ve otomatik bir eşitlik yoktur. GBF; alevlenebilirlik, oksitleyicilik, reaksiyon, basınç ve sağlığa ilişkin birden çok tehlikeyi bir arada gösterebilir. YGU, belirsiz sınıflandırmayı ürün adı üzerinden tahmin etmez; kimyasal güvenlik konusunda yetkili teknik kişi ve ilgili mevzuat değerlendirmesiyle netleştirir."
+    },
+    {
+      "tip": "h2",
+      "id": "projede-ve-sahada-eslestirilecek-kayitlar",
+      "metin": "Projede ve sahada eşleştirilecek kayıtlar"
+    },
+    {
+      "tip": "p",
+      "metin": "Kontrolün başlangıç noktası güncel malzeme envanteri ile depo yerleşim planıdır. Sonra onaylı mimari proje, kullanım izni ve depolama faaliyetinin kapsamı, yangın kompartımanı sınırları, ayrı depolama bölümleri, havalandırma ve elektrik tesisatı çizimleri, yangın algılama veya söndürme projeleri birlikte okunur. Gerçek ölçü veya miktarların dokümanlarda bulunmadığı durumlarda bunlar tahmini kesin veri olarak yazılmaz; kaynak ve doğrulama ihtiyacı belirtilir."
+    },
+    {
+      "tip": "tablo",
+      "basliklar": [
+        "Eşleştirme başlığı",
+        "İncelenecek kayıt",
+        "Sahada aranacak kanıt"
+      ],
+      "satirlar": [
+        [
+          "Madde ve tehlike",
+          "Ürün listesi, güncel GBF, malzeme kodu",
+          "Etiketli ambalaj ile belgedeki ürünün aynı olması"
+        ],
+        [
+          "Fiili ve azami stok",
+          "Stok hareketleri, depo kapasite kaydı",
+          "Raf, tank veya tüp sayısı; gerçek birimler ve doluluk"
+        ],
+        [
+          "Depolama sınırı",
+          "Mimari plan, kompartıman ve raf yerleşimi",
+          "Oda/bölüm sınırları, kapılar, kaçış ve ulaşım yolları"
+        ],
+        [
+          "Uyumluluk ve tesisat",
+          "GBF saklama koşulları, mekanik/elektrik proje",
+          "Birlikte tutulan maddeler ve mevcut koruma düzeni"
+        ]
+      ]
+    },
+    {
+      "tip": "h2",
+      "id": "yeni-bir-urun-geldiginde-degisebilen-uc-saha-karari",
+      "metin": "Yeni bir ürün geldiğinde değişebilen üç saha kararı"
+    },
+    {
+      "tip": "h3",
+      "metin": "Önceki depo kabulü otomatik devam etmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Daha önce ambalajlı ve düşük riskli temizlik malzemeleri için düzenlenen bir bölümün yanıcı solventleri de almaya başlaması, eski projedeki kullanım ve tesisat varsayımlarını değiştirebilir. Fiili stok, ilgili tehlike özellikleri, depolama yeri, malzeme uyumluluğu ve yangın tedbirleri yeniden karşılaştırılır. “Depo” yazan tek bir tabela, her tür kimyasalın birlikte saklanmasını uygun hale getirmez."
+    },
+    {
+      "tip": "h3",
+      "metin": "Aynı miktar, farklı saklama düzenlerinde farklı sonuç doğurur"
+    },
+    {
+      "tip": "p",
+      "metin": "Bir malzemenin kapalı orijinal ambalajlarda ayrı dolapta bulunması ile açık kaplara aktarılarak üretim hattı yanında tutulması aynı kullanım değildir. Doldurma, aktarma, geçici bekletme ve stoklama faaliyetleri belgelerde ayrılmalıdır. Yerleşim çiziminde görünmeyen geçici istif, kaçış veya müdahale yolunu daraltıyorsa ayrıca kayda alınır. Havalandırma ve elektrik donanımı gibi teknik yeterlilikler gözlemden ibaret kabul edilmez."
+    },
+    {
+      "tip": "h3",
+      "metin": "Miktar değişikliği tek başına otomatik yaptırım sonucu üretmez"
+    },
+    {
+      "tip": "p",
+      "metin": "Fiili miktarın artması yeni bir teknik değerlendirme ihtiyacı doğurabilir; ancak tüm maddeler için geçerli tek bir “depo hacmi sınırı” uydurulamaz. Madde türüne, kullanım biçimine, depolama yerine, ilgili özel mevzuata ve onaylı projeye bağlı farklı şartlar bulunabilir. Gerekli miktar veya tehlike hesabı, yetkili meslek mensubunun uygun veriler ve uygulanabilir kaynaklar üzerinden yaptığı incelemeyle belirlenir."
+    },
+    {
+      "tip": "h2",
+      "id": "yangin-guvenlik-uzmaninin-ygu-sahadaki-uygulamasi",
+      "metin": "Yangın Güvenlik Uzmanının (YGU) Sahadaki Uygulaması"
+    },
+    {
+      "tip": "p",
+      "metin": "Yangın Güvenlik Uzmanı (YGU), depo sorumlusundan güncel ürün listesi ve GBF’leri ister; bunları malzeme kodu, mahal ve stok birimleri üzerinden düzenler. Onaylı projedeki depo kullanımını, ayrı hacimleri ve yangın tedbirlerini sahadaki son yerleşimle karşılaştırır. Erişebildiği ambalaj etiketini, tutulan kayıtları, kapı/koridor düzenini ve malzeme istifini fotoğraf veya pafta üzerinde belgeler. Her kayıt için “doğrulandı”, “farklılık var” ya da “belge eksikliği nedeniyle doğrulanamadı” ayrımını yapar. Görülmeyen içeriğe veya erişilemeyen depoya otomatik uygunluk vermez."
+    },
+    {
+      "tip": "p",
+      "metin": "İncelenen YGU mesleki yönetmelik TASLAĞININ EK-6/B kontrol formu, tehlikeli maddelerle ilgili bilgilerin YGU-K tarafından sağlanmasını esas alan bir çalışma düzeni öngörmektedir (TASLAK). Bu düzen henüz yürürlüğe girmiş bir yetki veya unvan yükümlülüğü gibi sunulamaz. Sınıflandırmanın teknik kesinliği, uyumsuz kimyasalların değerlendirilmesi, patlamadan korunma, havalandırma hesabı ya da yeni depo tasarımı gerektiğinde ilgili uzmanlık ve sorumluluklar ayrıca belirlenir. YGU’nun kayıt incelemesi, bu hesap ve onayların yerine geçmez."
+    },
+    {
+      "tip": "p",
+      "metin": "Kurgusal saha kaydı: “D-03 deposuna ait güncel stok listesinde sonradan eklenen S-28 kodlu kimyasal görülmüştür. İlgili GBF ve ürün etiketleri birlikte incelendiğinde depolama koşullarının önceki envanterde değerlendirilmediği anlaşılmıştır. Güncel stok miktarı ile ayrı depolama düzeni, onaylı plan ve yetkili teknik değerlendirme kaydı sunulmadığından yeni malzemenin mevcut depoda uygun şekilde bulundurulduğu doğrulanamamıştır.” Bu yalnız örnektir; gerçek bir tesis bulgusu değildir."
+    },
+    {
+      "tip": "h2",
+      "id": "sonuc",
+      "metin": "Sonuç"
+    },
+    {
+      "tip": "p",
+      "metin": "Tehlikeli madde incelemesinde güvenilir karar, ürün ismi veya depo büyüklüğünden tek başına çıkmaz. Maddenin niteliği, fiili ve azami miktarı, ambalaj ve işleme biçimi, depolandığı fiziksel hacim, komşu maddeler, yapı kullanımı ve onaylı yangın tedbirleri birlikte değerlendirilir. YGU açısından en değerli çıktı, eksik bilgiyi kesin hükme dönüştürmeyen ve hangi teknik doğrulamanın gerektiğini açıkça gösteren izlenebilir saha kaydıdır."
+    }
+  ],
+  "kaynakBaslik": "Kaynakça",
+  "kaynaklar": [
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Kılavuzu"
+    },
+    {
+      "metin": "Binaların Yangından Korunması Hakkında Yönetmelik Taslağı"
+    },
+    {
+      "metin": "Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı"
+    }
+  ],
+  "sonNotlar": []
+}
