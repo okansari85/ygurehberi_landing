@@ -1,5 +1,6 @@
 // Sayfa başına SEO: başlık, açıklama, canonical, Open Graph/Twitter ve schema.org JSON-LD (arama motorları + yapay zekâ yanıt motorları için).
 import { SITE } from '~/data/icerik'
+import { metaAciklama } from '~/utils/makale'
 
 type Secenek = {
   baslik: string
@@ -25,7 +26,9 @@ export const KURULUS = {
   knowsAbout: ['Yangın güvenlik uzmanı', 'Yangın güvenlik uzmanlığı', 'Yangın güvenliği', 'Binaların Yangından Korunması Hakkında Yönetmelik', 'Yangın güvenliği periyodik kontrolü']
 }
 
-export function useSayfaSeo({ baslik, aciklama, yol, gorsel = '/img/hero-ygu.webp', gorselBoyut = [1600, 900], makaleTarihi, jsonLd = [], asilYol }: Secenek) {
+export function useSayfaSeo({ baslik, aciklama: tamAciklama, yol, gorsel = '/img/hero-ygu.webp', gorselBoyut = [1600, 900], makaleTarihi, jsonLd = [], asilYol }: Secenek) {
+  // Arama sonucunda kesilmesin: meta açıklama en çok 155 karakter (sayfadaki metin değişmez).
+  const aciklama = metaAciklama(tamAciklama)
   const url = `${SITE.url}${asilYol ?? yol}`
   const resim = `${SITE.url}${gorsel}`
 

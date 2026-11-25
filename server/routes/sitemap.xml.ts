@@ -14,7 +14,7 @@ type Sayfa = { yol: string; guncelleme: string; gorseller: string[] }
 const SAYFALAR: Sayfa[] = [
   {
     yol: '/',
-    guncelleme: '2026-11-06',
+    guncelleme: '2026-11-14',
     gorseller: [
       'hero-ygu',
       'ana-egitim-merkezi',
@@ -26,7 +26,7 @@ const SAYFALAR: Sayfa[] = [
   },
   {
     yol: '/ygu-hakkinda',
-    guncelleme: '2026-10-13',
+    guncelleme: '2026-11-14',
     gorseller: ['hakkinda-hero', 'hakkinda-ygu-nedir', ...SEVIYELER.liste.map((s) => s.gorsel)]
   },
   {
