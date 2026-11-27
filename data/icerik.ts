@@ -20,16 +20,19 @@ export const CEREZ = {
   ret: 'Reddet'
 }
 
-// Site geneli duyuru popup'ı (components/DuyuruPopup.vue). Yeni duyuruda `kod` değişir; ziyaretçiye yeniden gösterilir.
-export const DUYURU = {
-  kod: '2026-11-27-byy',
-  ust: 'Duyuru',
-  baslik: 'Bina Yangın Yönetmeliği Yayımlandı',
-  kunye: 'Resmî Gazete · 27 Kasım 2026 · Sayı 33443 · Yürürlük: 1 Ocak 2028',
-  metin: 'Binaların Yangından Korunması Hakkında Yönetmeliğin yerini alacak yeni yönetmelik, yangın güvenlik uzmanını ilk kez tanımlar; periyodik kontrol, yangın güvenlik raporu ve tatbikat hükümleri getirir.',
-  dugme: 'Neler Değişti? Makaleyi Oku',
-  to: '/ygu-hakkinda/mevzuat/bina-yangin-yonetmeligi-ygu-ve-periyodik-kontrol'
-}
+// Site geneli duyurular (components/DuyuruPopup.vue): popup + sağ kenarda sabit megafon düğmesi. Popup ziyaretçiye bir kez
+// kendiliğinden açılır; yeni duyuru eklenince (kodlar değişince) yeniden açılır. Megafonla her zaman açılabilir.
+export const DUYURULAR = [
+  {
+    kod: '2026-11-27-byy',
+    tarih: '27 Kasım 2026',
+    baslik: 'Bina Yangın Yönetmeliği Yayımlandı',
+    kunye: 'Resmî Gazete Sayı 33443 · Yürürlük: 1 Ocak 2028',
+    metin: 'Binaların Yangından Korunması Hakkında Yönetmeliğin yerini alacak yeni yönetmelik, yangın güvenlik uzmanını ilk kez tanımlar; periyodik kontrol, yangın güvenlik raporu ve tatbikat hükümleri getirir.',
+    dugme: 'YGU İçin Ne Getirir?',
+    to: '/ygu-hakkinda/mevzuat/bina-yangin-yonetmeligi-ygu-ve-periyodik-kontrol'
+  }
+]
 
 export type Ikon =
   | 'belge' | 'kep' | 'ekip' | 'bina' | 'fabrika' | 'takvim' | 'alev' | 'kitap' | 'canta' | 'yapilar'
