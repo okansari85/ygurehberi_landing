@@ -462,6 +462,8 @@ onBeforeUnmount(() => window.removeEventListener('resize', uclariGuncelle))
 a.hizli-kart:hover .hizli-dugme{background:var(--amber)}
 @media (max-width:1100px){.hizli-izgara{grid-auto-columns:calc((100% - 2 * 14px) / 3)}}
 @media (max-width:560px){.hizli-izgara{grid-auto-columns:calc((100% - 14px) / 2)}.hizli-kart h2{font-size:19px}}
+/* Telefonda şerit yerine iki sütunlu ızgara, ok yok (yatay kayma yok, kullanıcı 27 Kas) */
+@media (max-width:560px){.hizli-izgara{grid-auto-flow:row;grid-template-columns:1fr 1fr;grid-auto-columns:auto;overflow:visible;scroll-snap-type:none}.hizli-ok{display:none}}
 
 /* SÜREÇ */
 #surec{background:#0D1115;padding-bottom:calc(clamp(48px,6vw,80px) + 40px)}

@@ -24,7 +24,7 @@ const bloklar = computed(() => [...props.bloklar.filter((b) => !bilgilendirmeMi(
       <div v-else-if="b.tip === 'tablo'" class="tablo-kap" :class="{ cok: b.basliklar.length > 2 }">
         <table>
           <thead><tr><th v-for="(h, hi) in b.basliklar" :key="hi" scope="col">{{ h }}</th></tr></thead>
-          <tbody><tr v-for="(s, si) in b.satirlar" :key="si"><th scope="row">{{ s[0] }}</th><td v-for="(h, k) in s.slice(1)" :key="k">{{ h }}</td></tr></tbody>
+          <tbody><tr v-for="(s, si) in b.satirlar" :key="si"><th scope="row">{{ s[0] }}</th><td v-for="(h, k) in s.slice(1)" :key="k" :data-etiket="b.basliklar[k + 1]">{{ h }}</td></tr></tbody>
         </table>
       </div>
       <ol v-else-if="b.tip === 'adimlar'" class="adimlar">
@@ -90,6 +90,18 @@ tbody tr:nth-child(even){background:var(--paper-2)}
 .altlar.numarali{grid-template-columns:1fr}
 .altlar.numarali li{counter-increment:alt;position:relative;padding-left:72px}
 .altlar.numarali li::before{content:counter(alt);position:absolute;left:22px;top:18px;display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--ink);color:var(--amber);font-family:var(--display);font-weight:800;font-size:17px}
+/* Telefonda yatay kayma yok (kullanıcı 27 Kas): tablo satırı kart olur, her değerin üstünde sütun adı. */
+@media (max-width:640px){
+  .tablo-kap{overflow:visible;border:0}
+  .tablo-kap table,.tablo-kap tbody,.tablo-kap tr,.tablo-kap th,.tablo-kap td{display:block;width:auto;min-width:0}
+  .tablo-kap thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  .tablo-kap tbody tr{border:1px solid var(--line);border-radius:var(--r);margin-bottom:12px;overflow:hidden}
+  .tablo-kap tbody th{background:var(--ink);color:#fff;border-top:0;width:auto}
+  .tablo-kap tbody td{border-top:1px solid var(--line)}
+  .tablo-kap tbody td[data-etiket]:not([data-etiket=""])::before{content:attr(data-etiket);display:block;font-size:12.5px;font-weight:600;color:var(--muted);margin-bottom:4px}
+  .tablo-kap td,.tablo-kap th{overflow-wrap:anywhere}
+  .makale p,.makale li,.makale aside{overflow-wrap:anywhere}
+}
 @media (max-width:640px){.altlar{grid-template-columns:1fr}.altlar.numarali li{padding-left:22px;padding-top:62px}}
 
 .yapilar{list-style:none;margin:20px 0 28px;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
@@ -104,4 +116,5 @@ tbody tr:nth-child(even){background:var(--paper-2)}
 .sekil{margin:24px 0 28px}
 .sekil img{width:100%;height:auto;border:1px solid var(--line);border-radius:var(--r);background:#fff;padding:clamp(8px,1.4vw,16px)}
 .sekil figcaption{margin-top:10px;font-size:14px;line-height:1.5;color:var(--muted)}
+@media (max-width:640px){.makale > .denklem{overflow-x:visible;white-space:pre-wrap;overflow-wrap:anywhere}}
 </style>
