@@ -23,8 +23,8 @@ const bloklar = computed(() => [...props.bloklar.filter((b) => !bilgilendirmeMi(
       <aside v-else-if="b.tip === 'not'" class="not"><Ikon ad="bilgi" /><p><strong>{{ b.etiket }}:</strong> {{ b.metin }}</p></aside>
       <div v-else-if="b.tip === 'tablo'" class="tablo-kap" :class="{ cok: b.basliklar.length > 2 }">
         <table>
-          <thead><tr><th v-for="h in b.basliklar" :key="h" scope="col">{{ h }}</th></tr></thead>
-          <tbody><tr v-for="s in b.satirlar" :key="s[0]"><th scope="row">{{ s[0] }}</th><td v-for="(h, k) in s.slice(1)" :key="k">{{ h }}</td></tr></tbody>
+          <thead><tr><th v-for="(h, hi) in b.basliklar" :key="hi" scope="col">{{ h }}</th></tr></thead>
+          <tbody><tr v-for="(s, si) in b.satirlar" :key="si"><th scope="row">{{ s[0] }}</th><td v-for="(h, k) in s.slice(1)" :key="k">{{ h }}</td></tr></tbody>
         </table>
       </div>
       <ol v-else-if="b.tip === 'adimlar'" class="adimlar">

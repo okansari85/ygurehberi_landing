@@ -4,6 +4,28 @@
 import type { YguMakale } from '../yguBilgi'
 
 export const MEVZUAT_MAKALELERI: YguMakale[] = [
+  // 27 Kasım 2026 (kullanıcı): Resmî Gazete metni hiç değiştirilmeden. Taranmış sayfalardan yazıya geçirildi + ikinci okumayla doğrulandı;
+  // gövde data/tam-metin/bina-yangin-yonetmeligi.json (scripts/tam-metin-aktar.py), yalnız bu sayfada yüklenir. Metne dokunulmaz.
+  {
+    kategori: "mevzuat",
+    yol: "bina-yangin-yonetmeligi-tam-metni",
+    baslik: "Bina Yangın Yönetmeliği Tam Metni (Resmî Gazete 27.11.2026, Sayı 33443)",
+    ozet: "27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de yayımlanan Bina Yangın Yönetmeliği'nin 148 madde, 5 geçici madde ve 15 ekten oluşan tam metni.",
+    ozetle: "Bina Yangın Yönetmeliği, 26 Kasım 2026 tarihli ve 12041 sayılı Cumhurbaşkanı Kararı ile 27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de yayımlanmıştır. Yönetmelik 1 Ocak 2028'de yürürlüğe girecek ve 2007 tarihli Binaların Yangından Korunması Hakkında Yönetmeliği yürürlükten kaldıracaktır. Aşağıda yönetmeliğin Resmî Gazete'deki metni değiştirilmeden yer alır.",
+    yayin: "2026-11-27",
+    bloklar: [
+      { tip: "h3", metin: "Karar Sayısı: 12041" },
+      { tip: "p", metin: "Ekli “Bina Yangın Yönetmeliği”nin yürürlüğe konulmasına, 7126 sayılı Sivil Savunma Kanununun ek 9 uncu maddesi gereğince karar verilmiştir." },
+      { tip: "p", metin: "26 Kasım 2026" },
+      { tip: "p", vurgu: "Recep Tayyip ERDOĞAN", metin: "CUMHURBAŞKANI" },
+      { tip: "h3", metin: "BİNA YANGIN YÖNETMELİĞİ" }
+    ],
+    tamMetin: "bina-yangin-yonetmeligi",
+    dayanak: [
+      "Resmî Gazete, 27 Kasım 2026, Sayı 33443 (Cumhurbaşkanı Kararı, Karar Sayısı 12041)"
+    ],
+    mevzuatNotu: "Bu metin, 27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de taranmış sayfa olarak yayımlanan yönetmelikten değiştirilmeden yazıya geçirilmiştir; resmî metnin yerine geçmez. Hukuki işlemlerde Resmî Gazete'deki asıl metin esas alınır: https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-21.pdf"
+  },
   // 27 Kasım 2026: yayımlanan Bina Yangın Yönetmeliği (RG 33443). Kaynak taslak değil, yönetmeliğin kendisi; site genelindeki
   // "BYY ifadesi kullanılmaz" kuralı taslak dönemi içindi, bu yazıda resmî ad kullanılır. Duyuru popup'ı (DUYURU) buraya bağlanır.
   {

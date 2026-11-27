@@ -14,6 +14,9 @@ import { YGU_KATEGORILER, YGU_MAKALELER, YAZARLAR, konuYolu } from '../../data/y
 import { EGITIM_REHBERI as ER, EGITIM_MAKALELERI, EGITIM_BILGILERI, egitimMakalesi, egitimBilgisi, egitimMakaleYolu, type EgitimMakaleIcerik, type EgitimMakalesi } from '../../data/egitim'
 import { EGITIM_ICERIK } from '../../data/egitimMakaleIcerik'
 import { EGITIM_BILGI_ICERIK } from '../../data/egitimBilgiIcerik'
+import BYY_TAM from '../../data/tam-metin/bina-yangin-yonetmeligi.json'
+
+const TAM_METIN: Record<string, KonuBlok[]> = { 'bina-yangin-yonetmeligi': BYY_TAM as KonuBlok[] }
 
 // Konu sayfasının metni markdown olarak; yapay zekâ yanıt motorları sayfayı açmadan da okuyabilsin.
 const konuMetni = (bloklar: KonuBlok[]) => bloklar.map((b) => {
@@ -280,7 +283,7 @@ Kaynak sayfa: ${u}/ygu-hakkinda/${m.kategori}/${m.yol} · Yayın: ${m.guncelleme
 
 Kısaca: ${m.ozetle}
 
-${konuMetni(m.bloklar)}
+${konuMetni([...m.bloklar, ...(m.tamMetin ? TAM_METIN[m.tamMetin] ?? [] : [])])}
 
 Dayanak: ${m.dayanak.join('; ')}`).join('\n\n')}`).join('\n\n')}
 

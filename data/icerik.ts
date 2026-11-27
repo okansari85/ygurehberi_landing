@@ -24,6 +24,15 @@ export const CEREZ = {
 // kendiliğinden açılır; yeni duyuru eklenince (kodlar değişince) yeniden açılır. Megafonla her zaman açılabilir.
 export const DUYURULAR = [
   {
+    kod: '2026-11-27-byy-tam-metin',
+    tarih: '27 Kasım 2026',
+    baslik: 'Bina Yangın Yönetmeliği Yayımlandı',
+    kunye: 'Resmî Gazete Sayı 33443 · Yürürlük: 1 Ocak 2028',
+    metin: "Binaların Yangından Korunması Hakkında Yönetmeliğin yerini alacak Bina Yangın Yönetmeliği, 27 Kasım 2026 tarihli Resmî Gazete'de yayımlandı. Yönetmeliğin değiştirilmemiş tam metni sitemizde.",
+    dugme: 'Orijinal metni için tıklayın',
+    to: '/ygu-hakkinda/mevzuat/bina-yangin-yonetmeligi-tam-metni'
+  },
+  {
     kod: '2026-11-27-byy-karsilastirma',
     tarih: '27 Kasım 2026',
     baslik: 'Bina Yangın Yönetmeliği: Neler Değişti?',
