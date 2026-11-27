@@ -52,7 +52,9 @@ export const MENU: MenuOge[] = [
       { ad: 'YGU Hakkında', to: '/ygu-hakkinda' },
       // Oğuz (14 Kas, panel isteği 21): YGU Nedir üst menüden bu açılıra alındı
       { ad: 'YGU Nedir', to: '/ygu-hakkinda/mevzuat/yangin-guvenlik-uzmani-nedir' },
-      { ad: 'Çalışma Alanları', to: '/calisma-alanlari' }
+      { ad: 'Çalışma Alanları', to: '/calisma-alanlari' },
+      // 27 Kas 2026 (kullanıcı): Bina Yangın Yönetmeliği yazılarına menüden ulaşılsın
+      { ad: 'Mevzuat', to: '/ygu-hakkinda/mevzuat' }
     ]
   },
   // 5 Kasım 2026 (kullanıcı): YGU eğitim rehberi, design/egitim-sayfa.jpeg
