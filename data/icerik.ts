@@ -24,11 +24,20 @@ export const CEREZ = {
 // kendiliğinden açılır; yeni duyuru eklenince (kodlar değişince) yeniden açılır. Megafonla her zaman açılabilir.
 export const DUYURULAR = [
   {
+    kod: '2026-11-27-byy-karsilastirma',
+    tarih: '27 Kasım 2026',
+    baslik: 'Bina Yangın Yönetmeliği: Neler Değişti?',
+    kunye: 'BYKHY (2007) ile Bina Yangın Yönetmeliği (2026) karşılaştırması',
+    metin: 'Kaçış yolları, cepheler, sprinkler ve algılama eşikleri, mevcut yapılar ve geçiş süreleri: iki yönetmeliğin resmî metinlerinden eski ve yeni madde numaralarıyla hazırlanan değişiklik tabloları.',
+    dugme: 'Neler Değişti?',
+    to: '/ygu-hakkinda/mevzuat/bina-yangin-yonetmeligi-ile-bykhy-karsilastirmasi'
+  },
+  {
     kod: '2026-11-27-byy',
     tarih: '27 Kasım 2026',
-    baslik: 'Bina Yangın Yönetmeliği Yayımlandı',
+    baslik: 'Yeni Yönetmelik YGU İçin Ne Getirir?',
     kunye: 'Resmî Gazete Sayı 33443 · Yürürlük: 1 Ocak 2028',
-    metin: 'Binaların Yangından Korunması Hakkında Yönetmeliğin yerini alacak yeni yönetmelik, yangın güvenlik uzmanını ilk kez tanımlar; periyodik kontrol, yangın güvenlik raporu ve tatbikat hükümleri getirir.',
+    metin: 'Yangın güvenlik uzmanı ilk kez yönetmelik düzeyinde tanımlanır; periyodik kontrol, yangın güvenlik raporu ve tatbikat hükümleri getirilir.',
     dugme: 'YGU İçin Ne Getirir?',
     to: '/ygu-hakkinda/mevzuat/bina-yangin-yonetmeligi-ygu-ve-periyodik-kontrol'
   }

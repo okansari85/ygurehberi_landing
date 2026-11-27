@@ -2,6 +2,7 @@
 // YGU Hakkında › kategori › makale sayfası (pages/ygu-hakkinda/[kategori]/[makale].vue çağırır): data/yguBilgi.ts. Teknik makale sayfası kalıbı:
 // solda "Kısaca" kutusu + metin + dayanak maddeleri + yazarlar, sağda "Bu makalede"; hero altında bölüm şeridi (YguBolumSeridi). Yazarlar şemada Person.
 import { SITE } from '~/data/icerik'
+import type { KonuBlok } from '~/data/konular'
 import { MEVZUAT_NOTU, YAZARLAR, YGU_MAKALELER, yguKategori, kategoriMakaleleri } from '~/data/yguBilgi'
 
 const route = useRoute()
@@ -13,7 +14,11 @@ const KAT = `/ygu-hakkinda/${kategori.yol}`
 const YOL = `${KAT}/${makale.yol}`
 const okuma = makaleOkumaSuresi(makale)
 const guncel = makale.guncelleme ?? makale.yayin
-const basliklar = [...(makale.bloklar.filter((b) => b.tip === 'h2') as { id: string; metin: string }[]), { id: 'dayanak', metin: 'Dayanak' }]
+// Uzun mevzuat metni (tamMetin) ayrı JSON'dan yalnız bu sayfada yüklenir; YGU_MAKALELER her sayfaya gittiği için oraya konmaz.
+const { data: tamBloklar } = await useAsyncData(`tam-metin-${makale.yol}`, () =>
+  makale.tamMetin ? import(`../data/tam-metin/${makale.tamMetin}.json`).then((m) => m.default as KonuBlok[]) : Promise.resolve([] as KonuBlok[]))
+const bloklar = computed(() => [...makale.bloklar, ...(tamBloklar.value ?? [])])
+const basliklar = computed(() => [...(bloklar.value.filter((b) => b.tip === 'h2') as { id: string; metin: string }[]), { id: 'dayanak', metin: 'Dayanak' }])
 const digerleri = kategoriMakaleleri(kategori.yol).filter((m) => m.yol !== makale.yol).slice(0, 3)
 
 useSayfaSeo({
@@ -85,7 +90,7 @@ useSayfaSeo({
           <p>{{ makale.ozetle }}</p>
         </aside>
 
-        <KonuBloklar :bloklar="makale.bloklar" />
+        <KonuBloklar :bloklar="bloklar" />
 
         <p v-if="makale.bakiniz" class="bakiniz"><strong>Bakınız:</strong> <NuxtLink :to="makale.bakiniz.to">{{ makale.bakiniz.metin }}</NuxtLink></p>
 

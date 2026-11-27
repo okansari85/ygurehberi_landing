@@ -162,7 +162,245 @@ export const MEVZUAT_MAKALELERI: YguMakale[] = [
       "Geçici Madde 1–5"
     ],
     mevzuatNotu: "Bu yazı, 27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de yayımlanan Bina Yangın Yönetmeliği'ne dayanmaktadır. Yönetmelik 1 Ocak 2028'de yürürlüğe girecektir; o tarihe kadar Binaların Yangından Korunması Hakkında Yönetmelik uygulanır. Periyodik kontrol süreleri, ücretler ve YGU nitelikleri Bakanlıkça ayrıca belirlenecektir. Güncel durum resmî mevzuat üzerinden doğrulanmalıdır."
+  },  // 27 Kasım 2026: BYKHY (mevzuat.gov.tr güncel metni) ile Bina Yangın Yönetmeliği (RG 33443 sayfaları) madde madde karşılaştırması.
+  // Her satır iki resmî metinden ayrı ayrı okundu; üçüncü taraf karşılaştırmaları kullanılmadı (kullanıcı). Doğrulanamayan farklar yazılmadı.
+  {
+    kategori: "mevzuat",
+    yol: "bina-yangin-yonetmeligi-ile-bykhy-karsilastirmasi",
+    baslik: "Bina Yangın Yönetmeliği ile BYKHY Arasında Neler Değişti? Madde Madde Karşılaştırma",
+    ozet: "2007 tarihli Binaların Yangından Korunması Hakkında Yönetmelik ile 2026 tarihli Bina Yangın Yönetmeliği'nin resmî metinlerinden hazırlanan, eski ve yeni madde numaralı değişiklik tabloları.",
+    ozetle: "Bina Yangın Yönetmeliği, BYKHY'nin kısım yapısını büyük ölçüde korur; ancak birçok eşiği düşürür ve önceki metinde bulunmayan konuları düzenler. Sprinkler, otomatik algılama, basınçlandırma ve acil durum asansörü eşikleri düşer; kaçış kapısı 90 × 210 cm'ye, koridor 120 cm'ye, kaçış merdiveni 100 cm'ye çıkar, rampa eğimi %8'e iner. Güneş enerjisi sistemleri, elektrikli araç şarjı ve engelliler için tahliye bekleme noktası ilk kez düzenlenir. Denetim, yapı sahibinin yaptırdığı periyodik kontrol ve yangın güvenlik raporu modeline geçer. BYKHY'ye uygun mevcut yapılardan yalnız üç konuda ilave tedbir istenir.",
+    yayin: "2026-11-27",
+    bloklar: [
+      { tip: "giris", metin: "27 Kasım 2026'da yayımlanan Bina Yangın Yönetmeliği (BYY), 1 Ocak 2028'de yürürlüğe girdiğinde 2007 tarihli Binaların Yangından Korunması Hakkında Yönetmeliğin (BYKHY) yerini alacaktır. Bu yazıda iki yönetmelik, BYKHY'nin mevzuat.gov.tr'deki değişiklikleri işlenmiş güncel metni ile BYY'nin Resmî Gazete metni esas alınarak konu konu karşılaştırılır." },
+      { tip: "p", metin: "Tablolarda her hükmün yanında eski ve yeni madde numarası verilir. Yalnız iki metinde de doğrulanan farklar yazılmıştır; kesin karşılığı bulunamayan hükümler tabloya alınmamıştır. Uygulamada Resmî Gazete'deki asıl metin esas alınmalıdır." },
+      { tip: "h2", id: "genel-yapi", metin: "İki yönetmeliğin genel yapısı nasıl farklılaşır?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Yayım", "RG 19/12/2007, Sayı 26735 (BKK 2007/12937)", "RG 27/11/2026, Sayı 33443 (Karar 12041)"],
+          ["Yürürlük", "Yayımı tarihinde (Md. 170)", "1/1/2028 (Md. 147)"],
+          ["Madde sayısı", "171 madde, 167/A–C ve geçici maddeler", "148 madde ve 5 geçici madde"],
+          ["Dayanak", "7126 sayılı Kanun ek 9 ile 1 sayılı CBK'nin 97, 107 ve 508. maddeleri (Md. 3)", "Yalnız 7126 sayılı Kanun ek 9 (Md. 3)"],
+          ["Mevcut yapılar", "Onuncu Kısım, ayrıntılı özel hükümler (Md. 138–167)", "Tek madde (Md. 141) ve geçici madde"],
+          ["Tarihi yapılar", "Ayrı kısım (Md. 167/A–C)", "Mevcut yapılarla aynı kısımda tek madde (Md. 142)"],
+          ["Özel düzenlemeye bırakılan yapılar", "TSK yapıları (MSB) ve nükleer tesisler (Md. 2/3)", "Bunlara ek olarak enerji tesisleri (ETKB), geçici barınma merkezleri (İçişleri) ve ceza infaz kurumları (Adalet) (Md. 2/3)"]
+        ]
+      },
+      { tip: "p", metin: "Madde numaraları 67. maddeye kadar iki yönetmelikte büyük ölçüde aynıdır. Güneş enerjisi sistemleri için yeni 68. madde eklendiğinden sonraki maddeler bir ila üç sıra kayar: örneğin eski 96. madde (yağmurlama) yeni 98. madde, eski 112. madde (doğalgaz) yeni 114. madde, eski 138. madde (mevcut yapılar) yeni 141. maddedir. Eski madde numarasına atıf yapan şartname, prosedür ve eğitim dokümanlarının güncellenmesi gerekir." },
+      { tip: "h2", id: "proje-sorumluluk", metin: "Proje, sorumluluk ve kullanım sınıflarında ne değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Ayrı yangın tahliye projesi", "Kat alanı 2.000 m²'den fazla katlar (Md. 6/4)", "Herhangi bir katı 1.000 m²'den fazla veya yapı yüksekliği 21,50 m'den fazla yapılar (Md. 5/9)"],
+          ["Proje onayı", "Ruhsat vermeye yetkili mercilerce onaylanır (Md. 6/4)", "İtfaiyenin veya itfaiyenin gerekli gördüğü durumda YGU'nun uygunluk görüşünden sonra idarece onaylanır (Md. 5/10)"],
+          ["Sigorta şirketleri", "Yönetmeliğe uyulup uyulmadığını kontrol etmekle yükümlüdür (Md. 6/6)", "Denetim, belgelendirme ve teşvik kurumlarıyla birlikte güncel yangın güvenlik raporu ister (Md. 6/3)"],
+          ["Sorumlular", "İdareler, yatırımcılar, yapı sahipleri, mimar ve mühendisler, müteahhit, işletmeci (Md. 6/1–2)", "Ayrıca şantiye şefi, denetçi ve fenni mesul, kat malikleri kurulu, periyodik muayeneyi standarda aykırı yapan kişi, ihmali olan itfaiye veya YGU (Md. 6/1)"],
+          ["Projelerin bina girişinde bulundurulması", "10.000 m²'den büyük imalathane, depo, otel, sağlık, toplanma ve eğitim binalarında tahliye projesi (Md. 7/4)", "Tüm endüstriyel yapılar ile projeleri ayrı hazırlanan yapılarda tahliye, algılama ve söndürme projeleri (Md. 7/4)"],
+          ["İhbar numarası", "İtfaiyenin güncel telefon numarası yazılır (Md. 7/2)", "112 Acil Çağrı Merkezi aranır ve 112 yazılır (Md. 7/1–2)"],
+          ["Geçici yapılar", "Düzenleme yok", "Alanı 500 m² ve üstü prefabrik veya konteyner geçici yapılara yönetmelik uygulanır (Md. 5/3)"],
+          ["Eğitim yapısı", "6 veya daha fazla kişinin günde 4 saat ya da haftada 12 saatten fazla kullandığı yapı (Md. 11/1-a)", "6 veya daha fazla kişinin eğitim amacıyla kullandığı yapı; saat ölçütü yok (Md. 11/1-a)"],
+          ["Sağlık yapıları", "Tek sınıf; muayenehaneler büro sınıfında (Md. 11, 12)", "Yataklı sağlık yapıları ve ayakta tedavi merkezleri olarak ikiye ayrılır; muayenehaneler ayakta tedavi sınıfında (Md. 11/1-b)"],
+          ["Ticaret içindeki küçük bölüm", "\"Küçük\" ticaret bölümleri ana binanın sınıfına tabidir (Md. 13/2)", "Net alanı 50 m²'den küçük ticaret bölümleri (Md. 13/2)"]
+        ]
+      },
+      { tip: "p", metin: "Tanımlar maddesinden bina yüksekliği, yapı yüksekliği, yüksek bina, bodrum katı, apartman, konut ve yapı sahibi gibi tanımlar çıkarılmıştır; tanımlanmayan kavramlarda 3194 sayılı İmar Kanunu ve ikincil mevzuatı esas alınır (Md. 4/2). Yangın güvenlik uzmanı, yangın güvenlik raporu, periyodik muayene, tahliye bekleme noktası, elektrikli araç şarj sistemi ve umumi bina tanımları yenidir." },
+      { tip: "h2", id: "bina-insasi", metin: "Cephe, kompartıman ve bina inşasında ne değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Dış cephe yanıcılık eşiği", "Bina yüksekliği 28,50 m'den fazla binalarda zor yanıcı (Md. 27/1)", "Bina yüksekliği 21,50 m'den fazla binalarda en az zor yanıcı; açığa çıkan bodrum cephesi bina yüksekliğine eklenir (Md. 27/1)"],
+          ["Mantolamada 1,5 m yanmaz kaplama ve pencere bariyerleri", "28,50 m'den alçak binalar (Md. 27/2-b)", "21,50 m'den alçak binalar (Md. 27/2-b)"],
+          ["Katlar arası 100 cm dolu yüzeyin alternatifi", "Cephe içine en çok 2 m aralıkla yağmurlama başlıkları (Md. 27/1)", "Dolu yüzey döşeme yangın dayanımında olur; sağlanamazsa binanın tamamında otomatik yağmurlama (Md. 27/1)"],
+          ["Yangın duvarındaki kapı ve pencereler", "Yangın duvarı dayanımının yarı süresi kadar (Md. 25/2)", "Yangın duvarının dayanımı kadar; kapılar yangın kapısı özelliğinde (Md. 25/2)"],
+          ["Tesisat şaftları", "Yalnız yüksek binalarda duvar 120 dk, kapak 90 dk (Md. 25/3)", "Müstakil konutlar dışında tüm binalarda yüksekliğe göre: 12,50 m'ye kadar REI 30 / EI 30, 21,50 m'ye kadar REI 60 / EI 60, üstünde REI 120 / EI 90 (Md. 24/8, EK-3 B)"],
+          ["Atrium", "Atrium alanı hiçbir noktada 90 m²'den küçük olamaz; küçükse duman perdesi ve perde yanında sprinkler (Md. 24/5)", "Yatayda her boyutu en az 6 m; binanın tamamında sprinkler; her katta 60 dk dayanımlı duman perdesi, otomatik algılama ve duman kontrolü (Md. 24/4)"],
+          ["Katlar arası düşey boşluklar", "Düzenleme yok", "Atrium dışındaki merdiven, asansör, yürüyen merdiven boşlukları ve şaftlar en az 60 dk kompartıman duvarı veya yangın perdesiyle kapatılır (Md. 24/5)"],
+          ["İtfaiye iç ulaşım yolu serbest yüksekliği", "En az 4 m (Md. 22/3)", "En az 4,5 m (Md. 22/4)"],
+          ["Çıkmaz iç ulaşım yolu", "Çıkmaz sokakta en az 8 m (Md. 22/3)", "20 m'ye kadar manevra alanısız çıkmaz yolda en az 6 m; daha uzunsa dairesel, Y veya T biçimli manevra alanı (Md. 22/3)"],
+          ["İtfaiye aracının cepheye uzaklığı", "En çok 45 m (Md. 22/2)", "45 m; sprinklerli binalarda iki katına kadar; sağlanamazsa idare hidrant yapar (Md. 22/2)"],
+          ["Yalıtımsız çelik yapı muafiyeti", "5.000 m²'den küçük tek katlı yapılar (Md. 23/4)", "Ayrıca 1.000 m²'den küçük iki katlı ve 5.000 m²'den küçük, sprinklerli, en fazla üç katlı yapılar (Md. 23/4)"],
+          ["Yangın kesici ve asansör kat kapısı", "Yangın kesici EI 30; asansör kapısında E 60 için 51,50 m (Ek-3/B)", "Yangın kesici EI 60; asansör kapısında E 60 için 21,50 m, 12,50–21,50 m arasında E 30 (EK-3 B)"],
+          ["Yüksek binada pis su boruları", "70 mm'den büyük borular en az zor alevlenici (Md. 29/4)", "Her çaptaki pis su, yağmur suyu ve gri su boruları; değilse kat geçişinde yangın durdurucu (Md. 29/3)"],
+          ["Orman alanında parsel sınırı", "Orman sınırı boyunca beton iç ulaşım yolu (Md. 22/5)", "Buna ek olarak en az 120 dk dayanımlı, en az 2 m yüksek bariyer (Md. 22/6)"]
+        ]
+      },
+      { tip: "h2", id: "kacis-yollari", metin: "Kaçış yollarında hangi ölçüler değişir?" },
+      { tip: "p", metin: "Kaçış yollarında madde numaraları iki yönetmelikte aynıdır (Md. 30–52). Değişikliklerin büyük bölümü ölçülerin artması ve rampa eğiminin azalması yönündedir." },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Kaçış yolu kapısı (temiz genişlik × yükseklik)", "80 × 200 cm (Md. 47/1)", "90 × 210 cm (Md. 47/1)"],
+          ["Tek kanatlı çıkış kapısı", "80–120 cm (Md. 33/5-b)", "90–120 cm (Md. 33/7-b)"],
+          ["Koridor genişliği", "En az 110 cm; hastanede 2 m (Md. 33/1, 49/2)", "En az 120 cm; derslik koridoru 150 cm, yataklı sağlıkta hasta koridoru 200 cm (Md. 33/3)"],
+          ["Kaçış merdiveni genişliği", "En az 80 cm; yüksek binalarda 120 cm (Md. 33/1–2)", "En az 100 cm; yüksek yapılarda 120 cm; konut bağımsız bölümü içinde 90 cm (Md. 33/4)"],
+          ["Kişi sayısına göre kademeli genişlik", "50–500 kişi 100 cm, 501–2.000 kişi 150 cm, 2.001+ kişi 200 cm (Md. 33/1)", "Kaldırılmıştır"],
+          ["Kaçış koridoru yüksekliği", "210 cm (Md. 33/3)", "220 cm (Md. 33/5)"],
+          ["Kaçış rampası eğimi", "En çok %10; kavisli rampada 1/12 (Md. 44/1-a)", "En çok %8; kavisli rampada 1/16 (Md. 44/1-a)"],
+          ["Yangın güvenlik holü zorunluluğu", "Acil durum asansörlü ve yapı yüksekliği 51,50 m'den fazla binalar (Md. 34/7)", "Merdiven evi yüksekliği 30,50 m'den fazla kaçış merdivenleri (Md. 34/3)"],
+          ["Panik kollu kapı", "Zemin çıkışları ile kattaki kişi sayısı 100'ü geçen kat kapıları (Md. 47/5)", "Son çıkış, kaçış merdiveni, korunumlu hol/koridor ve yangın güvenlik holü kapılarının tamamı (Md. 47/5)"],
+          ["Kaçış merdiveni kapısı dayanımı", "4 kattan az: 60 dk; bodrum ve 4 kattan fazla: 90 dk (Md. 47/3)", "4 kat veya 15,50 m'ye kadar 60 dk; bodrum, 4 kattan fazla veya 15,50 m'den yüksek: 90 dk (Md. 47/3)"],
+          ["Çıkış kapısı olamayacak kapılar", "Dönel kapılar ve turnikeler (Md. 47/1)", "Döner kapılar ve kayar kapılar (Md. 47/1)"],
+          ["Otelde tek merdiven", "20'den az yatak ve 15,50 m'den alçak (Md. 50/1-a)", "12'den az yatılan oda ve 12,50 m'den alçak (Md. 50/1)"],
+          ["Zeminde tek çıkışa izin", "Zemin kattaki dükkânlar; 50 kişiden az ve 25 m'den kısa (Md. 32/8)", "Zemin ve bir alt/üst kattaki ticaret bölümleri, büro binaları ve ayakta tedavi merkezleri; aynı sınırlar (Md. 32/4)"]
+        ]
+      },
+      { tip: "p", metin: "Engelli, yaşlı ve hareket kısıtlılığı olan kişiler için tahliye bekleme noktası ilk kez düzenlenir: en az 90 × 140 cm olur, yangın güvenlik holü, kaçış merdiveni veya korunumlu koridorda kaçış genişliğini daraltmadan konumlandırılır (Md. 35/2–3); bulunduğu holün alanı 2 m² artırılır (Md. 34/4). Noktada zeminde tekerlekli sandalye sembolü, 120–160 cm yükseklikte Braille işaret ve 80–120 cm yükseklikte acil durum butonu veya sesli iletişim cihazı bulunur (Md. 74/9, 76/9). Ayrıca kaçış merdivenlerinde en çok dört katta bir geri giriş kapısı (Md. 47/4) ve yataklı sağlık, okul öncesi ve ilköğretim yapılarında dairesel merdiven yasağı (Md. 43/6) getirilir. BYKHY'deki 110 N kapı açma kuvveti sınırı (Md. 47/6) ve kuş uçuşu kaçış uzaklığı kuralı (Md. 32/5) yeni metinde yer almaz." },
+      { tip: "h2", id: "bolumler-tesisler", metin: "Bina bölümleri ve tesislerde neler değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Acil durum asansörü", "Yapı yüksekliği 51,50 m'den fazla yapılar (Md. 63/2)", "Konutlarda 51,50 m, diğer yapılarda 30,50 m'den fazla; yataklı sağlık yapılarında her yatay tahliye alanında (Md. 63/2)"],
+          ["Kapalı otopark duman tahliyesi", "2.000 m² üstü; saatte en az 10 hava değişimi (Md. 60/2)", "1.000 m² üstü; taban alanının her m²'si için 300 L/dak (Md. 60/8)"],
+          ["Mutfak davlumbazında otomatik söndürme", "100'den fazla kişiye hizmet veren mutfaklar (Md. 57/1)", "50'den fazla kişiye hizmet veren mutfaklar; sistem sertifikalı olur (Md. 57/1)"],
+          ["Kazan dairesinde iki çıkış", "100 m² veya 350 kW üzeri (Md. 54/5)", "Net alanı 100 m² üzeri; kW ölçütü yok (Md. 54/5)"],
+          ["Bina içindeki trafo", "Yağlı trafoda otomatik algılama ve söndürme (Md. 65/2)", "Bina içindeki her trafoda otomatik algılama ve söndürme; kapılar en az 90 dk (Md. 65/1–2)"],
+          ["Asansörün yangında son çıkış katına dönüşü", "Yüksek binalar ve topluma açık yapılar (Md. 62/5)", "Otomatik algılama sistemi bulunan yapılar (Md. 62/8)"],
+          ["Baca temizliği", "Yılda en az 2 kez (Md. 58/5)", "Yılda en az 2 kez; temizlik raporlanır ve rapor saklanır (Md. 58/5, 58/11)"],
+          ["Yıldırımdan korunma", "İlgili mevzuata uygunluk (Md. 64)", "TS EN 62305'e göre risk analizi yapılır, elektrik projesiyle idareye sunulur (Md. 64)"]
+        ]
+      },
+      {
+        tip: "altlar",
+        numarali: false,
+        liste: [
+          { baslik: "Elektrikli araç şarjı (yeni, Md. 60/3–7)", metin: "Kapalı otoparkta dışarıya açılan katta kat kapasitesinin %20'sine, diğer katlarda %10'una kadar şarj ünitesi kurulabilir; fazlası için yönetim kararı ve itfaiyeye yazılı başvuru gerekir. Acil elektrik kesme butonu bulunur. Asansörle araç alınan otoparklarda şarj ve müstakil konutlar dışında ev tipi prizden şarj yasaktır." },
+          { baslik: "Yapıya entegre güneş enerjisi sistemleri (yeni, Md. 68)", metin: "Çatıda panel dizisinin bir kenarı en fazla 45 m, diziler arası en az 240 cm, çatı kenarı ve bacalara mesafe en az 120 cm (yüksek, endüstriyel ve depolama yapılarında 180 cm) olur. Acil durum devre kesicisi, uyarı levhaları ve yerleşim planı zorunludur. Cephedeki panellerde en az zor alevlenici malzeme kullanılır; panel cephe elemanıysa binanın tamamında sprinkler ve otomatik algılama aranır." }
+        ]
+      },
+      { tip: "h2", id: "algilama", metin: "Algılama, uyarı ve acil aydınlatmada ne değişir?" },
+      { tip: "p", metin: "Otomatik algılama zorunluluğu BYKHY'de Ek-7, yeni yönetmelikte EK-8 tablosuyla belirlenir; yükseklik ve alan ölçütlerinden birinin aşılması yeterlidir. BYKHY'deki kurumsal, ticaret, endüstriyel ve toplanma satırları Danıştay kararıyla iptal edilmiş olduğundan bu sınıflar için yeni tabloda yeniden eşik belirlenir." },
+      {
+        tip: "tablo",
+        basliklar: ["Kullanım", "BYKHY Ek-7", "BYY EK-8"],
+        satirlar: [
+          ["Konutlar", "Yapı yüksekliği > 51,50 m", "Yapı yüksekliği > 30,50 m"],
+          ["Konaklama", "> 6,50 m veya > 1.000 m²", "> 6,50 m veya > 500 m²"],
+          ["Büro", "> 30,50 m veya > 5.000 m²", "> 15,50 m veya > 1.000 m²"],
+          ["Depolar", "> 6,50 m veya > 5.000 m²", "> 6,50 m veya > 2.000 m²"],
+          ["Eğitim ve yataklı sağlık", "İptal edilmiş satır", "> 6,50 m veya > 1.000 m²"],
+          ["Ayakta tedavi", "İptal edilmiş satır", "> 15,50 m veya > 1.000 m²"],
+          ["Ticaret", "İptal edilmiş satır", "> 6,50 m veya > 1.000 m²"],
+          ["Endüstriyel", "İptal edilmiş satır", "> 15,50 m veya > 2.000 m²"],
+          ["Toplanma", "İptal edilmiş satır", "> 6,50 m veya > 2.000 m²"],
+          ["Kapalı ve katlı açık otopark", "Satır yok", "> 6,50 m veya > 300 m²"]
+        ]
+      },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Yangın uyarı butonu", "Konutlar hariç kat alanı 400 m²'den fazla 2–4 katlı binalar, konutlar hariç 4 kattan fazla binalar ve tüm yüksek binalar (Md. 75/2)", "Herhangi bir katı 400 m²'den fazla veya yapı yüksekliği 12,50 m'den fazla binaların tamamı; konut istisnası yok (Md. 76/2)"],
+          ["Sesli anons sistemi (konaklama)", "Yatak sayısı 200'den fazla (Md. 81/7-a)", "Yatılan oda sayısı 100'den fazla (Md. 82/7-a)"],
+          ["İhbar santrali", "Düzenleme yok", "Algılama zorunlu yapılarda TS EN 50136 ve TS EN 50518'e uygun otomatik haberleşme yapabilen santral; 112 bağlantısı (Md. 76/3, Geçici 5)"],
+          ["Acil aydınlatma ve yönlendirme değerleri", "Sayısal değerler maddede (1 lux, 2 cd/m² vb.) (Md. 72/4, 73/7)", "TS EN 1838 ve ilgili standartlara atıf (Md. 73/4, 74/7)"],
+          ["Yangına dayanıklı kablo kapsamı", "Uyarı, anons, itfaiye haberleşme ve panel besleme kabloları (Md. 83/1)", "Bunlara ek olarak söndürme sistemleri ile duman kontrol ve basınçlandırma besleme kabloları; en az 60 dk (Md. 84/1)"],
+          ["Kat numarası tabelası", "Düzenleme yok", "Kaçış merdiveninde her sahanlıkta en az 30 × 30 cm tabela (Md. 74/8)"]
+        ]
+      },
+      { tip: "h2", id: "sondurme", metin: "Duman kontrolü ve söndürme sistemlerinde ne değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Sprinkler: otopark", "600 m²'den büyük kapalı otopark ve 10'dan fazla aracın asansörle alındığı otopark (Md. 96/2-c)", "300 m²'den büyük kapalı ve katlı açık otopark (Md. 98/2-c)"],
+          ["Sprinkler: konaklama", "Oda sayısı 100'ü veya yatak sayısı 200'ü geçen; 21,50 m'den yüksek yataklı tesisler (Md. 96/2-ç)", "Yatılan oda sayısı 50'yi veya yapı yüksekliği 15,50 m'yi geçen konaklama yapıları (Md. 98/2-ç)"],
+          ["Sprinkler: ticaret ve toplanma", "2.000 m² üzeri katlı mağaza, alışveriş ve eğlence yerleri (Md. 96/2-d)", "1.000 m² üzeri ticaret ve toplanma amaçlı bina ve bölümler (Md. 98/2-d)"],
+          ["Sprinkler: kolay alevlenici madde", "1.000 m²'den fazla (Md. 96/2-e)", "500 m²'den fazla (Md. 98/2-e)"],
+          ["Sprinkler: yeni zorunluluklar", "Yok", "5.000 m²'den fazla endüstriyel yapı, 2.000 m²'den büyük depo, cephesinde güneş enerjisi sistemi olan yapı, 9,50 m'den yüksek yataklı sağlık yapısı (Md. 98/2-f–h)"],
+          ["Kaçış merdiveni basınçlandırma", "Konut dışında merdiven kovası 30,50 m, konutta yapı yüksekliği 51,50 m üstü (Md. 89/1, 89/3)", "Konut dışında merdiven evi 21,50 m, konutta 30,50 m üstü (Md. 90/1)"],
+          ["Basınçlandırma tasarım değerleri", "50 Pa, 15 Pa, 110 N, 1 m/s maddede (Md. 89/5–11)", "TS 12101'e atıf (Md. 90/4)"],
+          ["Yangın dolabı", "Yüksek binalar; 1.000 m² üzeri belirli kullanımlar; 600 m² üzeri kapalı otopark; 350 kW üzeri kazan dairesi (Md. 94/1-b)", "Yüksek yapılar; 1.000 m² üzeri tüm konut dışı binalar; bir katı 1.000 m²'yi aşan konutlar; 300 m² üzeri otoparklar; net alanı 100 m² üzeri kazan daireleri (Md. 96/1-b)"],
+          ["İtfaiye su alma ağzı", "Yüksek binalar ve kat alanı 1.000 m²'den fazla AVM, otopark vb. (Md. 94/1-a)", "Ayrıca 300 m² üzeri otoparklar ve 1.000 m² üzeri GES'li çatılar; 400 l/dak, en az 400 kPa (Md. 96/1-a)"],
+          ["Hidrant aralığı", "50 / 100 / 125 / 150 m, dört risk kademesi (Md. 95/3)", "50 / 100 / 150 m, üç tehlike kademesi (Md. 97/3)"],
+          ["Yalnız hidrant olan yapıda su deposu", "1.900 l/dak, 90 dakika (Md. 92/7)", "1.900 l/dak; düşük tehlikede 30, ortada 60, yüksekte 90 dakika (Md. 94/7)"],
+          ["Taşınabilir söndürücü sayısı", "Düşük tehlikede her 500 m², orta ve yüksekte her 250 m² için bir adet 6 kg (Md. 99/2)", "TS ISO/TS 11602-1'e göre; m² kuralı yalnız kamp alanlarında (Md. 101/1, 101/3)"],
+          ["Söndürücü servisi", "Dolum ve servis yeterlilik belgesi; yıllık kontrol, 4. yılda hidrostatik test (Md. 99/7)", "TS 11827 kapsamında TSE Hizmet Yeterlilik Belgesi; süre hükümleri maddede yok (Md. 101/7)"],
+          ["Ana elektrik panoları", "Düzenleme yok", "TS EN 15004 serisine uygun söndürme sistemi (Md. 100/7)"]
+        ]
+      },
+      { tip: "h2", id: "tehlikeli-maddeler", metin: "Tehlikeli maddeler ve istasyonlarda ne değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["LPG ikmal istasyonu mesafeleri", "Akaryakıt tablosuna atıf (Md. 110/1, Ek-13)", "Ayrı tablo: yer altı tankının yataklı sağlık ve eğitim yapılarına 40 m, toplanma ve konaklama yapılarına 25 m; dispenserin bu yapılara 15 m (Md. 112/1, EK-14)"],
+          ["Akaryakıt istasyonu tankının parsel sınırına uzaklığı", "Yer altı tankı 7,5 m; havalandırma borusu ve doldurma ağzı 5 m (Ek-13)", "Yer altı tankı, havalandırma borusu ve doldurma ağzı 3 m (EK-15)"],
+          ["Akaryakıt istasyonu tank kapasitesi", "Tank başına 45.000 l, istasyonda toplam 250.000 l (Md. 121/4-b)", "İlgili standarda göre belirlenir (Md. 123/4-b)"],
+          ["Mevcut istasyonlarda mesafe indirimi", "Topluma açık yerler ile hastane ve okul mesafeleri %60 azaltılır (Ek-13)", "%60 indirim yalnız ilk ruhsatı 19/12/2007'den önce olan istasyonlara; 240 dk dayanımlı duvar yapılırsa %80 (EK-14, EK-15)"],
+          ["Bodrumda yanıcı sıvı depolama sınırı", "Her binada geçerli (Md. 118/1)", "Yalnız otomatik söndürme sistemi bulunmayan binalarda geçerli (Md. 120/1)"],
+          ["Yanıcı sıvı azami miktarları", "100 / 500 / 2.500 l (Md. 115)", "Aynı değerler; otomatik söndürme varsa %50 artırılabilir (Md. 117/5)"],
+          ["Doğalgaz tesisatı", "Kaçış merdiveni için özel hüküm yok", "Kaçış merdiveni ve yangın güvenlik holünden geçirilemez, buralara gaz menfezi açılamaz (Md. 114/1-k)"],
+          ["Deprem gaz kesme tertibatı", "1. ve 2. derece deprem bölgelerinde belirli kullanımlar (Md. 112/1-j)", "Deprem tasarım sınıfı 1, 1a, 2 ve 2a olan binalar (Md. 114/1-j)"],
+          ["LPG tankı yakınındaki yüksek gerilim hattı", "10,5 kV üzeri için 7,5 m (Md. 111/1-a)", "10,5–72 kV için 10 m, 72–420 kV için 30 m (Md. 113/1-a)"]
+        ]
+      },
+      { tip: "h2", id: "denetim", metin: "Denetim, tatbikat ve organizasyonda ne değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Denetim modeli", "Özel yapılar itfaiye ve müfettişlerce, kamu binaları kurum amiri, mülki amir ve müfettişlerce denetlenir (Md. 131)", "Yapı sahibi periyodik kontrolü itfaiyeye veya YGU'ya yaptırır ve raporlatır; rapor yoksa ilgili idareye bildirilir; ayrıntılar Bakanlıkça belirlenir (Md. 133)"],
+          ["Tatbikat", "Binada yılda en az bir kez söndürme ve tahliye tatbikatı (Md. 129, tek cümle)", "Yılda en az bir kez; riskli yapılarda itfaiye veya YGU gözetiminde; başarısızsa 3 ay içinde tekrar; rapor saklanır (Md. 134)"],
+          ["Acil durum ekipleri", "Sivil savunma servisleri varsa görevleri onlar yürütür (Md. 126/3)", "İşyerlerinde Acil Durumlar Hakkında Yönetmelik'e göre kurulan ekipler de görevi yürütebilir (Md. 128/3)"],
+          ["Yangın güvenliği sorumlusu", "Kamu ve özel kurumlarda en büyük amir (Md. 124)", "Kamu kurumlarında en üst yöneticinin görevlendirdiği birim amiri; diğerlerinde yapı sahibi, yöneticisi veya işletmecisi (Md. 126)"],
+          ["Periyodik muayene belgeleri", "Sistemler periyodik kontrol, test ve bakıma tabi tutulur (Md. 84, 100)", "Muayene belgeleri itfaiye veya YGU'nun periyodik kontrolünde sunulmak üzere saklanır (Md. 85, 91, 102)"],
+          ["Aykırılık hâli", "TCK ve Kabahatler Kanunu (Md. 168)", "Bunlara ek olarak 3194 sayılı İmar Kanunu; tedbir almayan yapı sahipleri açıkça sayılır (Md. 144)"]
+        ]
+      },
+      { tip: "h2", id: "mevcut-yapilar", metin: "Mevcut yapılar için geçiş nasıl düzenlenir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY", "Bina Yangın Yönetmeliği"],
+        satirlar: [
+          ["Esas", "2002 tarihli yönetmeliğe uygun yapılarda ilave tedbir alınmaması asıldır (Md. 138/2)", "2007 tarihli BYKHY'ye uygun yapılardan, üç konu dışında ilave tedbir istenmez (Md. 141/1)"],
+          ["Özel hükümler", "Kaçış yolları, merdivenler, algılama, basınçlandırma gibi konularda mevcut binalara özel yaklaşık 30 madde (Md. 141–167)", "Kaldırılmıştır; eksiklik veya esaslı tadilatta BYKHY uygulanabilir, tehlikeli madde bulunan yapılarda yeni yönetmeliğe uyulur (Md. 141/2)"],
+          ["Mevcut yapılara getirilen tedbirler", "Süreli tedbirler: 31/12/2023 (Geçici 3) ve malzeme eksiklikleri için 31/12/2025 (Geçici 4)", "30,50 m'den yüksek konutlarda algılama-uyarı sistemi ve söndürücü, elektrikli araç şarjı ve GES kuralları; yürürlükten itibaren 1 yıl içinde (Md. 141/3–5, Geçici 4)"],
+          ["Ruhsat aşamasındaki yapılar", "—", "Yürürlükten önce usulüne uygun ruhsat başvurusu yapılanlar istenirse BYKHY'ye göre sonuçlandırılır; ihale süreci başlamış kamu yapıları da BYKHY'ye tabidir (Geçici 3, 4)"]
+        ]
+      },
+      { tip: "h2", id: "ekler", metin: "Eklerde neler değişir?" },
+      {
+        tip: "tablo",
+        basliklar: ["Ek", "Değişiklik"],
+        satirlar: [
+          ["EK-5 Kullanıcı yükü (eski Ek-5/A)", "Bütün satırlar net alana göre hesaplanır (eskiden çoğu brüt). Terminal bekleme 3 → 1,5 m²/kişi; otel yatak odası 20 → 15 m²/kişi; eczane 20 → 7,5 m²/kişi; konut 15 m²/kişi ve yatay tahliye alanı satırları yeni."],
+          ["EK-6 Kaçış uzaklıkları (eski Ek-5/B)", "Uzaklıklar aynı; yataklı sağlıkta kaçış merdiveninde birim genişliğe düşen kişi 30 → 15. Yağmurlamalı değerler için yapının bütününde sprinkler şartı."],
+          ["EK-3 Yangın dayanım süreleri", "Asansör kat kapısında E 60 eşiği 51,50 m → 21,50 m; tesisat şaftları yüksekliğe göre REI 30 / 60 / 120 kademeli; 90 ve 120 dk istenen yerlerde kapı süresi 30 dk az olabilir."],
+          ["EK-4 Kompartıman alanları", "Alanlar aynı; ayakta tedavi 2.000 m² ve genel sığınak 4.000 m² satırları yeni; alan artırımı için otomatik algılama, uyarı ve yağmurlama birlikte aranır."],
+          ["EK-8 Otomatik algılama (eski Ek-7)", "Eşikler düşer, iptal edilmiş satırlar yeniden düzenlenir, otopark satırı eklenir."],
+          ["EK-14 LPG ikmal istasyonu", "Yeni tablo."],
+          ["EK-7, EK-9, EK-10–13", "Koltuk sayısı, su deposu, LPG ve yanıcı sıvı tablolarındaki değerler aynı kalır; yalnız numaraları değişir."]
+        ]
+      },
+      { tip: "h2", id: "degismeyenler", metin: "Hangi temel eşikler aynı kalır?" },
+      {
+        tip: "liste",
+        numarali: false,
+        maddeler: [
+          "Sprinkler zorunluluğu: konut dışında 30,50 m'den, konutta 51,50 m'den yüksek yapılar (Md. 98/2-a, b).",
+          "Acil durum ekipleri: 30,50 m'den yüksek konutlar, 50 kişiden fazla konut dışı yapılar, 200 kişiden fazla siteler; söndürme ve kurtarma 3'er, koruma ve ilk yardım 2'şer kişi (Md. 128).",
+          "Çıkış sayısı: 50 kişiden fazla mekânda 2, 500'den fazlada 3, 1.000'den fazlada 4 çıkış (Md. 39).",
+          "Yangın uyarı butonuna en fazla 60 m; buton yüksekliği 110–130 cm (Md. 76/2).",
+          "Acil aydınlatma en az 60 dakika; 200 kişiden fazla kullanıcıda 120 dakika (Md. 73/3).",
+          "Su deposu süresi düşük tehlikede 30, ortada 60, yüksekte 90 dakika; hidrant 1.900 l/dak ve 700 kPa (Md. 94, 97).",
+          "Yılda en az bir tatbikat (Md. 134/1)."
+        ]
+      }
+    ],
+    dayanak: [
+      "Binaların Yangından Korunması Hakkında Yönetmelik (RG 19/12/2007, 26735; mevzuat.gov.tr güncel metni)",
+      "Bina Yangın Yönetmeliği (RG 27/11/2026, 33443)",
+      "Karşılaştırılan maddeler tablolarda her satırda ayrıca belirtilmiştir"
+    ],
+    mevzuatNotu: "Bu yazı, Binaların Yangından Korunması Hakkında Yönetmeliğin mevzuat.gov.tr'deki güncel metni ile 27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de yayımlanan Bina Yangın Yönetmeliği karşılaştırılarak hazırlanmıştır. Bina Yangın Yönetmeliği 1 Ocak 2028'de yürürlüğe girecektir; o tarihe kadar BYKHY uygulanır. Tablolar özet niteliğindedir; proje ve hukuki işlemlerde Resmî Gazete'deki asıl metin esas alınmalıdır."
   },
+
   {
     kategori: "mevzuat",
     yol: "ygu-yonetmeligi-amaci-kapsami-ve-dayanagi",

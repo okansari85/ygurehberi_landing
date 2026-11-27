@@ -44,7 +44,7 @@ function kapat() {
           <h3>{{ d.baslik }}</h3>
           <p class="kunye">{{ d.kunye }}</p>
           <p>{{ d.metin }}</p>
-          <NuxtLink :to="d.to" class="btn btn-amber" @click="kapat">{{ d.dugme }}</NuxtLink>
+          <NuxtLink :to="d.to" class="btn" @click="kapat">{{ d.dugme }}</NuxtLink>
         </li>
       </ul>
     </div>
@@ -59,17 +59,18 @@ function kapat() {
 @keyframes yanip{0%,100%{box-shadow:0 0 0 0 rgba(255,193,7,.75),0 8px 24px -6px rgba(0,0,0,.45);opacity:1}50%{box-shadow:0 0 0 14px rgba(255,193,7,0),0 8px 24px -6px rgba(0,0,0,.45);opacity:.6}}
 @media (prefers-reduced-motion: reduce){.megafon{animation:none}}
 
-.duyuru{border:0;padding:0;max-width:620px;width:calc(100% - 32px);max-height:calc(100% - 32px);border-radius:var(--r);background:var(--ink);color:#fff;box-shadow:0 24px 70px rgba(0,0,0,.5)}
+.duyuru{border:0;padding:0;max-width:620px;width:calc(100% - 32px);max-height:calc(100% - 32px);border-radius:var(--r);background:var(--amber);color:#111;box-shadow:0 24px 70px rgba(0,0,0,.5)}
 .duyuru::backdrop{background:rgba(14,14,14,.6)}
-.ic{position:relative;padding:26px 28px 24px;border-top:5px solid var(--amber)}
-.x{position:absolute;top:10px;right:12px;width:40px;height:40px;border:0;background:transparent;color:#fff;font-size:28px;line-height:1;cursor:pointer;border-radius:8px}
-.x:hover{color:var(--amber)}
-.ust{display:flex;align-items:center;gap:8px;font-size:15px;margin-bottom:14px}
+.ic{position:relative;padding:26px 28px 24px;border-top:5px solid var(--ink)}
+.x{position:absolute;top:10px;right:12px;width:40px;height:40px;border:0;background:transparent;color:#111;font-size:28px;line-height:1;cursor:pointer;border-radius:8px}
+.x:hover{color:#fff}
+.ust{display:flex;align-items:center;gap:8px;font-size:15px;margin-bottom:14px;color:#111}
 ul{list-style:none;margin:0;padding:0;display:grid;gap:14px}
-li{border:1px solid var(--line-d);border-radius:var(--r);padding:18px 20px}
-.tarih{font-size:12.5px;color:var(--muted-d)}
+li{background:rgba(255,255,255,.35);border:1px solid rgba(17,17,17,.18);border-radius:var(--r);padding:18px 20px}
+.tarih{font-size:12.5px;color:#3a2f00}
 h3{font-size:clamp(24px,3.2vw,30px);margin:4px 0 6px}
-.kunye{margin:0 0 10px;font-size:13.5px;color:var(--amber)}
-p{margin:0 0 14px;font-size:14.5px;line-height:1.6;color:#ECE8E1}
-.btn{min-height:42px;padding:0 18px;font-size:16px}
+.kunye{margin:0 0 10px;font-size:13.5px;font-weight:600;color:#111}
+p{margin:0 0 14px;font-size:14.5px;line-height:1.6;color:#1b1b1b}
+.btn{min-height:42px;padding:0 18px;font-size:16px;background:var(--ink);color:#fff;box-shadow:none}
+.btn:hover{background:#2a2826}
 </style>
