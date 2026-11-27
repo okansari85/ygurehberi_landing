@@ -6,6 +6,7 @@
   </main>
   <SiteFooter />
   <CerezBildirimi />
+  <DuyuruPopup />
 </template>
 
 <style scoped>

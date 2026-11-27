@@ -106,7 +106,7 @@ useSayfaSeo({
           </ul>
         </section>
 
-        <KonuBloklar :bloklar="[MEVZUAT_NOTU]" class="en-alt" />
+        <KonuBloklar :bloklar="[makale.mevzuatNotu ? { ...MEVZUAT_NOTU, metin: makale.mevzuatNotu } : MEVZUAT_NOTU]" class="en-alt" />
       </article>
 
       <aside class="yan">

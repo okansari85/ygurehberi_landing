@@ -4,6 +4,165 @@
 import type { YguMakale } from '../yguBilgi'
 
 export const MEVZUAT_MAKALELERI: YguMakale[] = [
+  // 27 Kasım 2026: yayımlanan Bina Yangın Yönetmeliği (RG 33443). Kaynak taslak değil, yönetmeliğin kendisi; site genelindeki
+  // "BYY ifadesi kullanılmaz" kuralı taslak dönemi içindi, bu yazıda resmî ad kullanılır. Duyuru popup'ı (DUYURU) buraya bağlanır.
+  {
+    kategori: "mevzuat",
+    yol: "bina-yangin-yonetmeligi-ygu-ve-periyodik-kontrol",
+    baslik: "Yeni Bina Yangın Yönetmeliği YGU ve Periyodik Kontrol İçin Ne Getirir?",
+    ozet: "27 Kasım 2026'da yayımlanan Bina Yangın Yönetmeliği'nin yürürlük takvimi, yangın güvenlik uzmanına verilen görevler, periyodik kontrol, tatbikat ve mevcut yapılar için geçiş hükümleri.",
+    ozetle: "Bina Yangın Yönetmeliği 27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de yayımlanmıştır ve 1 Ocak 2028'de yürürlüğe girecektir. Yönetmelik, 2007 tarihli Binaların Yangından Korunması Hakkında Yönetmeliği yürürlükten kaldırır. Yangın güvenlik uzmanı (YGU) ilk kez yönetmelik düzeyinde tanımlanır: proje ve yapı kullanma izni aşamalarında uygunluk görüşü, periyodik kontrol, yangın güvenlik raporu ve tatbikat gözetimi, mahalli itfaiyenin gerekli gördüğü durumlarda YGU'ya verilebilir. Kontrol süreleri, ücretler ve YGU nitelikleri Bakanlıkça ayrıca belirlenecektir.",
+    yayin: "2026-11-27",
+    bloklar: [
+      { tip: "giris", metin: "Yangın güvenliği mevzuatında uzun süredir beklenen yeni ana metin, Bina Yangın Yönetmeliği adıyla 27 Kasım 2026'da Resmî Gazete'de yayımlanmıştır. 148 madde, 5 geçici madde ve 15 ekten oluşan yönetmelik, 2007'den bu yana uygulanan Binaların Yangından Korunması Hakkında Yönetmeliğin (BYKHY) yerini alacaktır." },
+      { tip: "p", metin: "Aşağıda yönetmeliğin yangın güvenlik uzmanlığını ve binaların kullanım sürecindeki kontrolünü ilgilendiren hükümleri açıklanır. Mimari ve tesisat hükümlerinden yalnız eski yönetmeliğe göre öne çıkan farklar özetlenir; ayrıntıları ayrı yazıların konusudur." },
+      { tip: "h2", id: "kunye", metin: "Yönetmelik ne zaman yayımlandı ve ne zaman yürürlüğe girecek?" },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "Yönetmelikteki karşılığı"],
+        satirlar: [
+          ["Yayım", "27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete"],
+          ["Karar", "26 Kasım 2026 tarihli ve 12041 sayılı Cumhurbaşkanı Kararı"],
+          ["Dayanak", "7126 sayılı Sivil Savunma Kanunu'nun ek 9. maddesi (Madde 3)"],
+          ["Yürürlük", "1 Ocak 2028 (Madde 147)"],
+          ["Yürürlükten kaldırılan", "19/12/2007 tarihli ve 2007/12937 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Binaların Yangından Korunması Hakkında Yönetmelik (Madde 145)"],
+          ["Yürütme", "Cumhurbaşkanı (Madde 148)"]
+        ]
+      },
+      { tip: "p", metin: "Yayım ile yürürlük arasında yaklaşık 13 aylık bir hazırlık süresi bırakılmıştır. Bu süre içinde BYKHY uygulanmaya devam eder; yeni hükümler 1 Ocak 2028'den itibaren uygulanacaktır." },
+      { tip: "h2", id: "ygu-tanimi", metin: "Yangın güvenlik uzmanı yönetmelikte nasıl tanımlanır?" },
+      { tip: "p", metin: "Yönetmeliğin tanımlar maddesinde iki yeni kavram yer alır. Bu kavramlar, yangın güvenlik uzmanlığının yasal zeminini oluşturur." },
+      {
+        tip: "tablo",
+        basliklar: ["Kavram", "Yönetmelikteki anlamı"],
+        satirlar: [
+          ["Yangın güvenlik uzmanı", "Bakanlık veya Bakanlığın yetkilendirdiği eğitici kurum ya da kuruluşlarca verilen eğitim sonucunda yapılan sınavda başarılı olan ve nitelikleri Bakanlıkça belirlenen kişi (Madde 4/şş)"],
+          ["Yangın güvenlik raporu", "Her türlü yapı, bina, tesis ve işletme için mahalli itfaiye teşkilatı veya itfaiyenin gerekli gördüğü durumda yangın güvenlik uzmanlarınca düzenlenen ve yangın güvenliğine ilişkin durumu gösteren belge (Madde 4/ss)"],
+          ["Periyodik muayene", "Yangın güvenlik sistemlerinin, cihazlarının veya ekipmanlarının yetkili kişilerce yapılan kontrol, test ve bakım faaliyetleri (Madde 4/ff)"]
+        ]
+      },
+      { tip: "p", metin: "Tanımlarda periyodik muayene ile periyodik kontrol birbirinden ayrılır. Periyodik muayene, sistemlerin teknik bakım ve testidir; periyodik kontrol ise yapının bütün olarak yönetmeliğe uygunluğunun denetlenmesidir ve sonucunda yangın güvenlik raporu düzenlenir." },
+      { tip: "h2", id: "ygu-gorevleri", metin: "YGU hangi aşamalarda görev alır?" },
+      { tip: "p", metin: "Yönetmelikte YGU'ya verilen görevlerin tamamı aynı kalıpla yazılır: görev öncelikle mahalli itfaiye teşkilatınındır, itfaiyenin gerekli gördüğü durumda yangın güvenlik uzmanlarına verilir. Bu görevler yapının dört aşamasına dağılır:" },
+      {
+        tip: "altlar",
+        numarali: true,
+        liste: [
+          { baslik: "Proje onayı (Madde 5/10)", metin: "Ayrı hazırlanan yangın algılama, söndürme ve tahliye projeleri, itfaiyenin ya da YGU'nun uygunluk görüşü alındıktan sonra ilgili idarece onaylanır. Değişiklik istenirse dayanak madde belirtilir." },
+          { baslik: "Yapı kullanma izni (Madde 6/2)", metin: "Periyodik kontrole tabi yapılarda, kullanım sınıfına göre itfaiyenin veya YGU'nun uygunluk görüşü alınır. Bu görüş verilen yapılarda kullanım ya da tehlike sınıfı değişmedikçe veya esaslı tadilat yapılmadıkça ilk periyodik kontrol tarihine kadar yangın güvenlik raporu istenmez." },
+          { baslik: "Periyodik kontrol ve rapor (Madde 133)", metin: "Kamu binaları dışındaki yapıların sahibi, yöneticisi ve sorumluları, periyodik kontrolleri itfaiyeye veya itfaiyenin gerekli gördüğü durumda YGU'ya yaptırır ve raporlatır. Kamu binalarında kontrol, kurum amiri ya da görevlendireceği kişi veya heyetçe yapılır; kurum amiri itfaiyeden görevlendirme isteyebilir veya YGU'dan hizmet alabilir." },
+          { baslik: "Tatbikat gözetimi (Madde 134/2)", metin: "Belirli yapılarda yıllık yangın tatbikatı itfaiye veya YGU gözetiminde yapılır." }
+        ]
+      },
+      { tip: "h2", id: "periyodik-kontrol", metin: "Periyodik kontrol ve yangın güvenlik raporu için neler öngörülür?" },
+      {
+        tip: "liste",
+        numarali: false,
+        maddeler: [
+          "Güncel yangın güvenlik raporu bulunmayan ya da raporunun geçerlilik süresi dolmasına rağmen yenilemeyen yapılar, ilgili idareye bildirilir (Madde 133/3).",
+          "Kamu kurumları, kullanım sınıfına göre kendi yetki alanlarında yaptıkları denetimlerde güncel yangın güvenlik raporunu ister (Madde 133/1-b).",
+          "Mali denetimler hariç; periyodik kontrole tabi yapılara denetim, belgelendirme veya teşvik gibi destek veren kurumlar ile yangın sigortası yapan şirketler güncel yangın güvenlik raporu ister (Madde 6/3).",
+          "Yapı sahibi veya yöneticisi değiştiğinde periyodik kontrol ve muayenelere ilişkin bilgi ve belgeler yeni sahibe ya da yöneticiye bildirilir (Madde 6/6).",
+          "Sistemleri kuranlar, müteahhitler ve cihaz satıcıları, yapı sahibini ve alıcıyı periyodik muayene konusunda bilgilendirir (Madde 6/5).",
+          "Genel hayata etkili afetlerden sonra hasarsız veya az hasarlı yapılarda yangın güvenlik sistemleri, hasar tespitinden itibaren en geç 3 ay içinde muayene ettirilir; raporlar periyodik kontrolde sunulmak üzere saklanır (Madde 5/5).",
+          "İtfaiyenin veya ruhsat vermeye yetkili idarenin re'sen denetim hakkı saklıdır (Madde 133/2)."
+        ]
+      },
+      { tip: "h2", id: "bakanlik", metin: "Kontrol süreleri, ücretler ve YGU nitelikleri ne zaman belli olacak?" },
+      { tip: "p", metin: "Yönetmelik bu konularda sayı vermez. Madde 133'ün dördüncü fıkrasına göre periyodik kontroller, kontrole tabi yapılar ve kontrol süreleri, uygunluk görüşü ve tatbikatlar, bu işler için alınacak ücretler, yangın güvenlik uzmanlarının nitelikleri, görev ve sorumlulukları ile bunların yürürlüğüne ilişkin usul ve esaslar Bakanlık tarafından belirlenecektir." },
+      { tip: "p", metin: "Bu nedenle sitedeki diğer YGU yazılarında açıklanan Yangın Güvenlik Uzmanlığı ve Periyodik Kontrol Usul ve Esasları Hakkında Yönetmelik Taslağı, yayımlanan yönetmeliğin 133. maddesine dayanacak alt düzenlemedir. Geçici 2. maddeye göre yönetmeliğe aykırı alt düzey mevzuat, yürürlük tarihinden itibaren 1 yıl içinde uyumlu hâle getirilecektir." },
+      { tip: "not", etiket: "Önemli", metin: "Taslakta yer alan kontrol süreleri, YGU seviyeleri ve eğitim şartları, Bakanlığın çıkaracağı düzenleme yayımlanana kadar kesinleşmiş sayılmaz." },
+      { tip: "h2", id: "sorumluluk", metin: "Periyodik kontrolde kim sorumlu tutulur?" },
+      { tip: "p", metin: "Madde 6'da sorumluluk zinciri aşamalara göre sayılır. Kullanım sürecine ilişkin üç bent doğrudan periyodik kontrol ve muayeneyi ilgilendirir:" },
+      {
+        tip: "tablo",
+        basliklar: ["Durum", "Sorumlu"],
+        satirlar: [
+          ["Periyodik muayenelerin zamanında yaptırılmaması, periyodik kontrolün süresi içinde yaptırılmaması (6/1-d)", "Kamu yapılarında en üst yönetici veya görevlendirdiği birim amiri; diğer yapılarda yapı sahibi, yönetici veya kat malikleri kurulu"],
+          ["Periyodik muayenenin standarda uygun yapılmaması (6/1-f)", "Periyodik muayeneyi yapan kişi"],
+          ["Periyodik kontrolde eksik, hatalı veya standart dışı durumların tespitinde ihmal ya da tespit edildiği hâlde gereğinin yapılmaması (6/1-g)", "Mahalli itfaiye teşkilatı veya yangın güvenlik uzmanı"]
+        ]
+      },
+      { tip: "p", metin: "Yönetmeliğe aykırılıklarda, aykırılığın suç ya da kabahat oluşturmasına göre 3194 sayılı İmar Kanunu, Türk Ceza Kanunu ve Kabahatler Kanunu hükümleri uygulanır (Madde 144)." },
+      { tip: "h2", id: "tatbikat", metin: "Yangın tatbikatı için ne öngörülür?" },
+      {
+        tip: "liste",
+        numarali: false,
+        maddeler: [
+          "Yönetmelik kapsamındaki yapılarda yılda en az 1 kez yangın tahliye ve söndürme tatbikatı yapılır; sorumluluk yapı sahibi, yöneticisi veya en üst yöneticinin görevlendirdiği birim amirindedir.",
+          "Yataklı sağlık yapılarında, ilköğretim, ortaöğretim ve yükseköğretim kurumlarında, yatılan oda sayısı 25'ten fazla olan konaklama yapılarında, yapı yüksekliği 51,50 m'yi geçen yapılarda ve yüksek tehlikeli yapılarda tatbikat itfaiye veya itfaiyenin gerekli gördüğü durumda YGU gözetiminde yapılır. Kamu binalarında kurum amirinin görevlendireceği YGU gözetiminde de yapılabilir.",
+          "Uygun gerçekleşmeyen tatbikat 3 ay içinde tekrarlanır.",
+          "Tatbikatın zamanı, senaryosu ve katılımcıları raporlanır; rapor istenildiğinde sunulmak üzere saklanır."
+        ]
+      },
+      { tip: "h2", id: "mevcut-yapilar", metin: "Mevcut yapılar için ne değişir?" },
+      { tip: "p", metin: "BYKHY'ye uygun tedbirleri almış mevcut yapılardan, aşağıdaki üç başlık dışında ilave tedbir istenmez; yapı sahibi isterse yeni yönetmeliğe uyabilir (Madde 141/1). Bu üç başlık, yürürlük tarihinden itibaren 1 yıl içinde, yani 1 Ocak 2029'a kadar yerine getirilecektir (Geçici Madde 4)." },
+      {
+        tip: "altlar",
+        numarali: true,
+        liste: [
+          { baslik: "Yüksek konutlar (Madde 141/3)", metin: "Yapı yüksekliği 30,50 m'den fazla olan konutlarda otomatik algılama ve uyarı sistemi kurulur; standarda uygun sayı ve yerleşimde taşınabilir söndürme cihazı bulundurulur." },
+          { baslik: "Elektrikli araç şarjı (Madde 141/4)", metin: "Şarj sistemi kurulmuş veya kurulacak mevcut yapılarda 60. maddenin ilgili fıkralarına uyulur; uyulamıyorsa itfaiyenin görüşüne göre işlem yapılır." },
+          { baslik: "Çatı ve cephe güneş enerjisi sistemleri (Madde 141/5)", metin: "Panel sistemlerinde acil durum devre kesicileri kullanılır, kesme anahtarı yangından etkilenmeyecek ve kolay müdahale edilebilecek bir yerde ya da en az 30 dakika dayanımlı kapalı bölümde bulunur; yerleşim planları ve uyarı levhaları asılır." }
+        ]
+      },
+      {
+        tip: "liste",
+        numarali: false,
+        maddeler: [
+          "Mevcut yapıda eksiklik tespit edildiğinde veya esaslı tadilat yapıldığında, tehlikeli madde bulunduran yapılar dışında, yukarıdaki üç başlığa uyulması şartıyla BYKHY hükümleri uygulanabilir; tehlikeli madde bulunduran yapılarda yeni yönetmeliğe uyulur (Madde 141/2).",
+          "Yürürlükten önce usulüne uygun yapı ruhsatı başvurusu yapılmış yapılar, istenirse BYKHY'ye göre sonuçlandırılır (Geçici Madde 4/2); ihale süreci başlamış kamu yapıları için de BYKHY uygulanır (Geçici Madde 3).",
+          "BYKHY'nin Tarihi Yapılar kısmına uygun tedbir almış tescilli yapılardan ilave tedbir istenmez (Madde 142)."
+        ]
+      },
+      { tip: "h2", id: "farklar", metin: "BYKHY'ye göre öne çıkan farklar nelerdir?" },
+      { tip: "p", metin: "Yeni yönetmelik eski metnin kısım yapısını büyük ölçüde korur; ancak birçok eşik düşürülür ve önceki metinde hiç yer almayan konular ilk kez düzenlenir. 68. maddeden sonraki madde numaraları birkaç sıra kaydığı için eski maddeye atıf yapan şartname, prosedür ve eğitim dokümanlarının da güncellenmesi gerekir." },
+      {
+        tip: "tablo",
+        basliklar: ["Konu", "BYKHY (2007)", "Bina Yangın Yönetmeliği (2026)"],
+        satirlar: [
+          ["Denetim modeli", "İtfaiye ve müfettiş denetimi; yılda bir tatbikat", "Yangın güvenlik raporu, YGU, periyodik kontrol, gözetimli tatbikat (Md. 4, 6, 133, 134)"],
+          ["Ayrı yangın tahliye projesi", "Kat alanı 2.000 m² üzeri", "Herhangi bir katı 1.000 m² üzeri veya yapı yüksekliği 21,50 m üzeri (Md. 5/9)"],
+          ["Sprinkler: otopark", "Kapalı otopark 600 m² üzeri", "Kapalı ve katlı açık otopark 300 m² üzeri (Md. 98/2)"],
+          ["Sprinkler: konaklama", "100 oda veya 200 yatak üzeri ya da 21,50 m üzeri", "50 oda veya 15,50 m üzeri (Md. 98/2)"],
+          ["Sprinkler: ticaret ve toplanma", "2.000 m² üzeri", "1.000 m² üzeri (Md. 98/2)"],
+          ["Sprinkler: yeni zorunluluklar", "—", "Endüstriyel yapı 5.000 m², depo 2.000 m² üzeri; 9,50 m üzeri yataklı sağlık; cephesinde güneş enerjisi sistemi olan yapılar (Md. 98/2)"],
+          ["Acil durum asansörü", "51,50 m üzeri bütün yapılar", "Konutta 51,50 m, diğer yapılarda 30,50 m üzeri; yataklı sağlıkta her yatay tahliye alanında"],
+          ["Kaçış kapısı ölçüsü", "80 × 200 cm", "90 × 210 cm (Md. 47/1)"],
+          ["Güneş enerjisi, elektrikli araç şarjı, engelli tahliye bekleme noktası", "Düzenleme yok", "Ayrıntılı kurallar getirilir; mevcut yapılarda GES ve şarj için 1 yıllık uyum süresi"],
+          ["Mevcut yapılar", "Ayrı bir kısımda yaklaşık 30 madde, 2023 ve 2025 son tarihleri", "BYKHY'ye uygunsa ilave tedbir yok; yalnız üç konuda 1 yıllık uyum (Md. 141, Geçici 4)"],
+          ["İhbar", "İtfaiye telefonu yazılır", "112 Acil Çağrı Merkezi; ihbar santralinin 112 ile otomatik haberleşmesi (Md. 7, Geçici 5)"]
+        ]
+      },
+      { tip: "h2", id: "diger", metin: "Dikkat çeken diğer hükümler nelerdir?" },
+      {
+        tip: "liste",
+        numarali: false,
+        maddeler: [
+          "Askerî, emniyet, sahil güvenlik, jandarma ve AFAD'a ait harekât ve savunma amaçlı yapılar ile özellik arz eden yapılarda, kontrolün kurumlarınca yapılması şartıyla uygunluk görüşü ve periyodik kontrol aranmaz (Madde 143).",
+          "Enerji, nükleer, ceza infaz ve geçici barınma gibi özellik arz eden yapıların tedbirleri, ilgili kurumlarca 1 Şubat 2028'e kadar çıkarılacak yönetmeliklerle belirlenecektir (Geçici Madde 1).",
+          "Yangın ihbar santrallerinin 112 Acil Çağrı Merkezi ile otomatik haberleşmesine ilişkin düzenleme İçişleri Bakanlığı ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca yapılacaktır (Geçici Madde 5).",
+          "Yapı yüksekliği 30,50 m'den fazla konutlarda, içinde 50 kişiden fazla insan bulunan konut dışı yapılarda ve 200 kişiden fazla kişinin barındığı sitelerde söndürme, kurtarma, koruma ve ilk yardım ekipleri kurulur (Madde 128).",
+          "Yangın güvenlik sistemleri bakım veya arıza nedeniyle devre dışı kaldığında kısa sürede çalışır duruma getirilir; o süre boyunca korumasız kalan bölgeler ilave güvenlik personeliyle denetlenir (Madde 5/12)."
+        ]
+      }
+    ],
+    dayanak: [
+      "Bina Yangın Yönetmeliği (RG 27.11.2026, Sayı 33443) Madde 3: Dayanak",
+      "Madde 4: Tanımlar (ff, ss, şş)",
+      "Madde 5: İlkeler (5., 9., 10. ve 12. fıkralar)",
+      "Madde 47: Kaçış yolu kapıları",
+      "Madde 98: Yağmurlama sistemi",
+      "Madde 6: Görev, yetki ve sorumluluk",
+      "Madde 128: Ekiplerin kuruluşu",
+      "Madde 133: Denetim ve periyodik kontrol",
+      "Madde 134: Tatbikat",
+      "Madde 141–143: Mevcut ve tescilli yapılar, kontrol aranmayacak hâller",
+      "Madde 144–147: Aykırılık, yürürlükten kaldırma, düzenleme yetkisi, yürürlük",
+      "Geçici Madde 1–5"
+    ],
+    mevzuatNotu: "Bu yazı, 27 Kasım 2026 tarihli ve 33443 sayılı Resmî Gazete'de yayımlanan Bina Yangın Yönetmeliği'ne dayanmaktadır. Yönetmelik 1 Ocak 2028'de yürürlüğe girecektir; o tarihe kadar Binaların Yangından Korunması Hakkında Yönetmelik uygulanır. Periyodik kontrol süreleri, ücretler ve YGU nitelikleri Bakanlıkça ayrıca belirlenecektir. Güncel durum resmî mevzuat üzerinden doğrulanmalıdır."
+  },
   {
     kategori: "mevzuat",
     yol: "ygu-yonetmeligi-amaci-kapsami-ve-dayanagi",

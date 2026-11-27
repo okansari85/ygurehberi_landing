@@ -41,6 +41,7 @@ export type YguMakale = {
   dayanak: string[]
   arac?: { baslik: string; metin: string; dugme: string; url: string }
   bakiniz?: { metin: string; to: string } // metnin sonunda "Bakınız" bağlantısı
+  mevzuatNotu?: string // yayımlanmış mevzuata dayanan yazıda taslak uyarısının (MEVZUAT_NOTU) yerine geçer
 }
 
 export const YGU_KATEGORILER: YguKategori[] = [
